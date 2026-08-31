@@ -158,53 +158,12 @@ Custo de ativação: Força é físico, **×1** — **40** (rank próprio) · 10
 
 ## 🤝 Sinergia: Sangue + Força
 
-Os dois Caminhos gastam a **mesma moeda** — o corpo — e cada um resolve metade do problema do outro. A Força sustenta o corpo que o Sangue consome; o Sangue repõe o que a Força perde apanhando. Vale pra qualquer personagem que cultive os dois (lembrando: Caminho secundário custa **+50%** de progressão em ambos, ver [[🛤️ Os Caminhos|Os Caminhos]]).
+Os dois Caminhos gastam a **mesma moeda** — o corpo — e cada um resolve metade do problema do outro: a Força sustenta o corpo que o Sangue consome, o Sangue repõe o que a Força perde apanhando (vale pra qualquer personagem que cultive os dois; Caminho secundário custa **+50%** de progressão em ambos, ver [[🛤️ Os Caminhos|Os Caminhos]]). Em resumo: 3+ de Ímpeto baixa o custo da Sangria, o Manto Fervente e a Descarga empilham Níveis de Dano sobre o `M` do Gu de Força ativo, e as Correntes Vermelhas dão sucesso automático em agarrar/derrubar/arremessar — mas nenhum dos dois Caminhos resolve distância, e é a maior fraqueza da build.
 
-### 1. O Ímpeto barateia a Dívida
+**Ver a versão completa** (as quatro regras de sinergia detalhadas, com fórmulas, e a ficha de exemplo do Jiāotáng) **em [[🩸 Caminho do Sangue#🤝 Sinergia: Sangue + Força|Caminho do Sangue]].**
 
-> **Regra de sinergia:** enquanto você tiver **3 ou mais de Ímpeto**, toda **Sangria** ([[🩸 Caminho do Sangue|Caminho do Sangue]]) custa **`1 × M` a menos**, mínimo 1.
-
-O corpo em movimento sangra menos. Na prática, é o que permite manter o **Gu do Manto Fervente** aceso numa luta longa sem terminar em **Lívido** — e o cultivador duplo é o único da mesa que consegue isso.
-
-### 2. A Descarga e o Manto empilham antes do `M`
-
-As duas maiores fontes de Nível da fase mortal são de Caminhos diferentes e **somam**:
-
-```
-arma pesada (passo +1)
-  + Gu de Força rank 5 ativo (+3)
-  + Manto Fervente a N=3 (+3)
-  + DESCARGA de 5 Ímpeto (+3)
-= passo +10: 16d12 + 112 + FOR  (7 Níveis acima de d12; 16 dados do Gu de Força),
-  ignorando RD
-```
-
-**O `M` — quantos dados você rola — vem do Gu de Força, sempre; o Manto dá Níveis, não dados.** O freio é honesto e duplo: o Manto **bloqueia toda cura por 3 rodadas**, a Descarga cobra 16 de Vitalidade e −1 FOR, e a Sangria do Manto (24) entra na Dívida. Você fez o maior número da mesa e entrou na rodada seguinte com o corpo aberto e a cura desligada.
-
-### 3. Corrente prende, Força quebra
-
-Alvo *Preso* pelo **Gu das Correntes Vermelhas** não resiste a manobra física: **agarrar, derrubar e arremessar têm sucesso automático**, sem teste oposto. E o alvo arremessado que continue preso é puxado de volta ao alcance de 10 m no fim do voo — ele bate no chão *e* continua na sua mão. É a sequência canônica da build: **prende, derruba, quebra.**
-
-### 4. A cadeia de Corpo aceita os dois
+### A cadeia de Corpo aceita os dois
 
 O [[📖 Catálogo de Gu|Catálogo]] já traz **Gu da Coagulação Rápida** (Leve, CON +1, `1 × M` de Vitalidade todo turno até metade da barra) e **Gu do Sangue Endurecido** (Médio, CON +2, RD 1 × M, RD 2 × M contra contundente) — os dois são Gu de **Corpo do Caminho do Sangue**, custam **20** no assentamento em vez de 40, e entram na mesma cadeia de CON que o lutador já está subindo. **A Coagulação é o cimento da build:** ela devolve Vitalidade de graça todo turno, que é exatamente o recurso que a Sangria queima.
 
 **Cuidado com a linha de incompatibilidade:** Coagulação Rápida e Sangue Endurecido **não convivem** entre si, nem com o Gu do Espinho Ósseo. Escolha uma no rank 3 e viva com ela.
-
-### 5. O buraco que a build não tapa
-
-Nenhum dos dois Caminhos resolve **distância**. Sangue alcança 15–30 m, Força alcança 2 m, e o Ímpeto **zera** toda rodada em que você começa o turno a mais de 10 m de todo inimigo. Um inimigo com voo e um ataque de 40 m não perde essa luta: ele sobe, atira, e os dois trilhos da sua ficha morrem juntos.
-
-> **Diga isso ao jogador antes da criação de ficha.** A build Sangue + Força é a mais brutal da mesa dentro de 10 m e a mais indefesa fora. O item mais valioso que ela pode comprar não é um Gu de dano — é um **Gu de movimento**, e ele vale mais que qualquer coisa nas duas notas.
-
-### A ficha do Jiāotáng *(aptidão 76%)*
-
-| | |
-|---|---|
-| **Essência** | `76 × 4 × 2^(estágio−1)` = **304** no inicial, **2.432** no pico do rank |
-| **Gu carregados** | `(76 ÷ 10) + rank` = **7 + rank** |
-| **Gu simultaneamente ativos** | `CON + rank` — e é a CON da cadeia de Corpo que faz esse número crescer |
-| **Custo típico** | Gu de Força do rank dele **40** · Gu de Sangue **20** |
-| **O que trava a ficha dele** | A **Manutenção quadrática** (dois Gu sustentados já custam 20/rodada só de Sustentação, mais os custos próprios) e a **Dívida de Sangue** |
-
-Com 304 de essência no estágio inicial e o Tendão de Búfalo mais o Tirano acesos, Jiāotáng paga **20 de Sustentação + 10 dos Gu = 30 por rodada** antes de atacar qualquer coisa. Dez rodadas e o tanque acabou. Este é o Caminho: **o tanque nunca é enorme, e o problema é sempre a rodada em que você não estava em contato.**
