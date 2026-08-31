@@ -40,6 +40,20 @@ De onde o personagem vem antes da [[🌟 Aptidão e Abertura|Cerimônia do Despe
 
 O ponto extra das duas Origens "de baixo" é **compensação, não vantagem** — elas entram em jogo sem rede de apoio nenhuma. As cinco são igualmente jogáveis, e a escolha deve ser por conceito.
 
+## O kit inicial — arma, armadura e Pedras
+
+**A Origem também equipa.** Ninguém rola orçamento nem faz compras na sessão zero — cada Origem entrega um kit pronto, e o jogador só anota. Os preços de referência (armadura: couro 10 · batido 30 · malha 120 · placas 400 Pedras) estão em [[🏪 O Mercado]] pra quando quiserem trocar algo **em jogo**.
+
+| Origem | Arma | Armadura | Pedras | O detalhe |
+|---|---|---|---|---|
+| **Ramo Principal** | 1 arma de qualquer porte, de boa forja | Couro batido (RD 2) | **60** | O clã equipa o herdeiro — e anota o que deu |
+| **Ramo Secundário / Servo** | 1 arma leve ou média, usada | Couro (RD 1) | **20** | Tudo de segunda mão; nada tem o seu nome |
+| **Discípulo de Seita** | 1 arma média do arsenal da seita | Couro batido (RD 2) | **40** | A arma é **da seita** — sair sem devolver é roubo |
+| **Caminho Demoníaco** | 1 arma de qualquer porte, com história | Couro batido (RD 2) | **50** | As Pedras têm origem — e alguém pode reconhecê-las |
+| **Errante / Forasteiro** | 1 arma de qualquer porte — a única coisa que é sua de verdade | Couro improvisado (RD 1) | **10** | +1 item mundano útil à escolha (corda, mapa gasto, faca boa) |
+
+O kit é deliberadamente pequeno: a régua do mundo é que **uma Pedra sustenta uma família por um mês** — 60 Pedras é um começo confortável, não uma fortuna. O que a Origem não deu, compra-se em jogo, no [[🏪 O Mercado|Mercado]].
+
 ### Como a Origem entra na primeira sessão
 
 O mais importante que a Origem faz é dizer **de onde vem o primeiro Gu do personagem**:

@@ -593,3 +593,13 @@ estagnação no rank 9 (timeout ≤0,1%). Nada corrigido — pendência nomeada 
 "Em aberto" pro autor. Também consertados 3 wikilinks quebrados por quebra de
 linha no próprio log.md (entradas das decisões 195-197 e do playtest de
 leitura — o bug recorrente do vault).
+
+## [2026-08-31] ingest | Kit inicial por Origem (decisão 204)
+Escolha do autor no menu de decisões: o buraco de dinheiro/equipamento inicial
+(achado 🔴 do playtest de leitura) fecha com kit pronto por Origem em
+[[🌱 Origens]] — arma + armadura + Pedras + gancho de sabor por Origem, zero
+compra na sessão zero. Sincronizado no passo 8 do [[🎓 Guia do Mestre
+Iniciante]] e no checklist/exemplo do [[📋 Guia de Criação de Ficha]]. As
+outras duas escolhas do menu (régua ΔB imortal, Colapso Espiritual) + a
+diretiva "poder de Alma é raro entre inimigos" estão com a outra sessão
+(01/06/simulação — décima rodada a caminho).

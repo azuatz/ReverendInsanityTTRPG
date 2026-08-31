@@ -64,7 +64,7 @@ Escolha uma. Ela define **o dado do seu golpe corpo a corpo** (tabela em [[⚔�
 
 **Sem Gu de Força ou Transformação ativo, o dano melee não multiplica por nada** — é humano batendo em humano. Isso é normal no rank 1 e é o que o primeiro Gu vai mudar.
 
-**Compre armadura também, e compre a melhor que puder.** Ela dá RD fixa (couro 1 · batido 2 · malha 3 · placas 4) que **não multiplica por M** — ou seja, é decisiva no rank 1, boa no rank 2, e decoração a partir do rank 4. É a única vez na campanha em que dinheiro compra sobrevivência direta. Preços em [[🏪 O Mercado]], regra em [[⚔️ Combate]].
+**Arma e armadura vêm do kit da sua [[🌱 Origens|Origem]]** — ninguém compra nada na criação; anote o que a tabela do kit inicial dá (arma, armadura e Pedras). Armadura dá RD fixa (couro 1 · batido 2 · malha 3 · placas 4) que **não multiplica por M** — decisiva no rank 1, boa no rank 2, decoração a partir do rank 4. Trocar por algo melhor é compra **em jogo**: preços em [[🏪 O Mercado]], regra em [[⚔️ Combate]].
 
 ## 6. Nenhum Gu
 
@@ -117,7 +117,7 @@ Um personagem genérico, sem ligação com nenhum PJ de nenhuma campanha de refe
 
 *(Acerto de Gu e CD dos Gu ainda não se aplicam — a ficha não tem nenhum Gu.)*
 
-**5. Arma.** Espada leve (`d6`) — dano melee é `d6 + 1` (FOR), sem multiplicador nenhum, porque não há Gu de Força ou Transformação ativo. Armadura de couro (RD 1) comprada com o que sobrar do orçamento de jogo.
+**5. Arma.** Do kit da Origem (Ramo Secundário): espada leve usada (`d6`) — dano melee é `d6 + 1` (FOR), sem multiplicador nenhum, porque não há Gu de Força ou Transformação ativo — mais armadura de couro (RD 1) e **20 Pedras** de bolso.
 
 **6. Nenhum Gu.** A ficha entra na mesa com o campo de Gu vazio.
 

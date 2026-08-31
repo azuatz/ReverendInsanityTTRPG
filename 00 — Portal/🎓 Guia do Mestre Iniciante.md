@@ -251,7 +251,7 @@ Custo: 1 ponto por degrau até +3, 2 pontos pra ir de +3 a +4, e baixar um atrib
 
 **7. Cada jogador escreve um Vínculo** — uma frase ligando o personagem dele ao personagem de outro jogador, que diga **o que ele arriscaria**. Uma vez por sessão, agir por causa do Vínculo aceitando um custo real dá **vantagem** num teste.
 
-**8. Compre arma e armadura.** Armadura é RD **fixa** (couro 1 · batido 2 · malha 3 · placas 4) e custa 10 / 30 / 120 / 400 pedras. Ela é decisiva no rank 1, boa no rank 2 e decorativa do rank 4 em diante. **É a única vez na campanha em que dinheiro compra sobrevivência direta** — diga isso a eles.
+**8. Anote o kit inicial da Origem.** Ninguém compra nada na sessão zero — cada [[🌱 Origens|Origem]] entrega arma, armadura e um punhado de Pedras prontos (tabela na nota de Origens). Armadura é RD **fixa** (couro 1 · batido 2 · malha 3 · placas 4): decisiva no rank 1, boa no rank 2, decorativa do rank 4 em diante. Melhorar o kit é coisa pra fazer **em jogo**, no [[🏪 O Mercado|Mercado]] — **é a única vez na campanha em que dinheiro compra sobrevivência direta**, diga isso a eles.
 
 ### Uma ficha pronta, pra você ter um parâmetro
 
