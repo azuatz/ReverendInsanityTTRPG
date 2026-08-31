@@ -100,3 +100,6 @@ Ele é raríssimo, **nunca está à venda**, e quem tem só **empresta** — o q
 - **Ferramenta de PJ.** Os jogadores podem usar isso tão bem quanto os NPCs. Poupar um inimigo derrotado e selar um pacto costuma valer mais que o espólio dele. Ver [[⚰️ Espólio|Espólio]].
 
 **A regra de tom:** um Débito nunca deve parecer burocracia. Ele é a cena em que alguém decide não te matar, e o resto da campanha é você descobrindo o que aquilo custou.
+
+> [!tip] Guerra entre clãs sem inventar sistema novo
+> Se a mesa quiser um arco de guerra armada entre clãs/seitas, não é preciso um subsistema de mérito de batalha — já rejeitado como subsistema formal (guerra de larga escala foge do escopo do vault). Reaproveite o que já existe: a **Contribuição do Clã** ([[🏛️ Clãs e Seitas]]) vira um painel público temporário durante o conflito (quem lutou, quem contribuiu), e um comandante "emprestando" recursos de guerra a um subordinado — Gu, Pedras, uma tropa — é só um **Débito comum**, redigido com as quatro linhas do Pacto. Nenhuma moeda nova, nenhum livro de regras extra.

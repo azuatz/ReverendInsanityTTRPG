@@ -95,7 +95,7 @@ Uma sequência de **cinco testes**, um por dia (ou por cena, se a mesa preferir 
 | Etapa | Teste | CD base | O que acontece |
 |---|---|---|---|
 | 1. **A Ruptura** | CON | 20 | A Abertura mortal se despedaça. Sem volta a partir daqui |
-| 2. **Os Três Ares** | VON | 22 | Equilibrar o que você jogou na fornalha. Falha aqui estraga a Terra Abençoada, não mata |
+| 2. **Os Três Ares** | VON | 22 | Equilibrar o que você jogou na fornalha — **sozinho, sem ajuda de ninguém** (ver aviso abaixo). Falha aqui estraga a Terra Abençoada, não mata |
 | 3. **A Catálise** | AST | 24 | **O Gu Vital do personagem vira um Gu Imortal de rank 6.** Falha mata o Gu Vital |
 | 4. **A Reconstrução** | CON | 26 | O corpo se refaz em lei imortal. A etapa que mais mata |
 | 5. **A Primeira Marca** | VON | 28 | O Caminho se crava. Falha aqui deixa o personagem Imortal **sem Caminho cristalizado** — uma tragédia jogável |
@@ -105,6 +105,9 @@ Uma sequência de **cinco testes**, um por dia (ou por cena, se a mesa preferir 
 **Falha em qualquer etapa:** 1 Ferimento permanente e continua. **Duas falhas na mesma provação:** o processo colapsa — o personagem sobrevive como **Aleijado da Ascensão** (fica preso em rank 5 pra sempre, Abertura arruinada, perde metade dos Gu). **Três falhas:** morte, sem Teste de Morte, sem ressurreição comum.
 
 Um 1 natural em qualquer etapa conta como duas falhas de uma vez.
+
+> [!warning] Ninguém equilibra por você
+> Na etapa 2 (**Os Três Ares**), **nenhum aliado pode ajudar o candidato a equilibrar os três qi** — nem um Imortal supervisionando: o bônus de "vantagem se um Imortal aliado supervisiona" (ver Modificadores acima) não se aplica a este teste específico. É o único ponto da provação em que a regra geral "aliados podem defender o corpo e canalizar essência de fora" não vale — o equilíbrio é decisão de dentro da própria alma. Ajuda externa só existe nas **calamidades e testes fora da Ascensão** ([[🌩️ Calamidades e Provações]]), nunca aqui.
 
 ---
 

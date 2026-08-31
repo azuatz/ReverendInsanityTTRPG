@@ -90,6 +90,9 @@ CD = 12 + 2 × (rank da herança − 4) + severidade (1d4 − 2)
 
 **Guardiões de combate**, quando houver (sempre, nas demoníacas): use os moldes de [[⚔️ Ameaças Genéricas por Rank]] no rank da herança −1, com o Golpe Matador do dono como Ação Especial do chefe da última câmara.
 
+> [!tip] Guardião forte demais pro grupo? Junte facções
+> Quando o guardião da câmara final seria um Chefe forte demais pra um grupo só, narre uma **coalizão temporária**: facções rivais que normalmente não se falam se juntam sob um comandante único só pra essa herança, cada uma cobrindo uma fraqueza da outra (quem tem números segura o guardião, quem tem investigação acha o ponto fraco). Não é regra nova — é o mesmo molde de Chefe de sempre, só que numa cena com mais gente nos dois lados. Divida o espólio por **% de contribuição** de cada facção, e deixe a rivalidade entre elas render a próxima cena.
+
 ## 8º — A amarra — `1d4` *(toda herança tem pelo menos uma)*
 
 | 1d4 | Amarra |
@@ -98,6 +101,20 @@ CD = 12 + 2 × (rank da herança − 4) + severidade (1d4 − 2)
 | 2 | **Vigilância** — outra facção sabia da herança e esperava alguém abri-la (pra não pagar a provação) |
 | 3 | **Incompatibilidade** — o manual/Gu central atrita com o Caminho de quem pegar (ver Marcas, [[🛤️ Os Caminhos]]) |
 | 4 | **O selo de mérito continua** — o guardião concede, mas **fica olhando**: quebrar o espírito da promessa desliga os Gu de linhagem da herança |
+
+---
+
+## Variante — Torneio de classificação prévio (tempo interno acelerado)
+
+Módulo opcional pra qualquer herança de **rank 4 a 6**, mais natural nas do **caminho justo** (2º passo): em vez de a porta simplesmente abrir, os candidatos disputam antes um **torneio classificatório de semanas a meses**. Ninguém é eliminado por perder — a colocação final só decide a **ordem de entrada**.
+
+Isso importa porque, lá dentro, o **tempo roda mais rápido que fora** (a herança de origem deste padrão usa 5×) até um prazo que fecha em tempo *externo*. Quem entra primeiro cultiva mais tempo lá dentro antes do prazo bater — é vantagem pura de cultivo, não de espólio, e transforma o torneio numa sessão (ou arco curto) por si só: vale a pena sabotar quem está subindo no ranking, ou apostar tudo pra terminar em 1º.
+
+- **Dentro, os Gu ficam selados** pela vontade do guardião — o 6º/7º passo (teste do guardião e provação) vira puro teste de Vontade/alma, sem uso de Gu.
+- **Falha ejeta, não mata** — reforça o padrão do alinhamento justo (2º passo): quem falha na provação interna é expulso, não morto.
+- **Use quando** o mestre quiser que a corrida pela herança comece antes da porta abrir. Não é exclusivo do caminho justo: uma herança demoníaca pode rodar o mesmo torneio prévio com apostas mais sujas (sabotagem, eliminação de rivais fora das regras).
+
+*Padrão adaptado da Herança da Fairy Bai Hu — ver [[🔍 Síntese — Atividades Jogáveis por Rank]], Fase 3, item 2.*
 
 ---
 
