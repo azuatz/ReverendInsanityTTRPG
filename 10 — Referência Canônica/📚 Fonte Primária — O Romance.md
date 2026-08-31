@@ -80,10 +80,10 @@ grep -n -B200 "trecho procurado" Volume_5*.txt | grep "^.*## Chapter" | tail -1
 
 - **A Lua é Caminho, não subcaminho** — `moon path` aparece como Caminho próprio,
   com Imortais rank 6+ dedicados a ele (Yin Wu Que, Half Moon Brutemaster) e
-  `moon path dao marks`, distinto de `light path`. Base da decisão 115.
+  `moon path dao marks`, distinto de `light path`. Base da decisão 121.
 - **Attainment alto num rank baixo é possível e é exceção notável** — *"though
   her cultivation was only at rank six, she had grandmaster attainment in sword
-  path"* (Swordmaster You Lan). Base da decisão 114, que manda o Domínio de
+  path"* (Swordmaster You Lan). Base da decisão 120, que manda o Domínio de
   Campo de Batalha no rank 6 passar pela regra do gênio pobre.
 
 ## O que ela ainda pode resolver

@@ -23,7 +23,7 @@ Todos os **457 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Os Caminhos deste índice
 
-[[#Adivinhação\|Adivinhação]] 1 · [[#Alma\|Alma]] 28 · [[#Ar\|Ar]] 2 · [[#Assassinato\|Assassinato]] 1 · [[#Celestial\|Celestial]] 6 · [[#Comida\|Comida]] 10 · [[#Cosmos\|Cosmos]] 4 · [[#Cura\|Cura]] 2 · [[#Encantamento\|Encantamento]] 1 · [[#Escravidão\|Escravidão]] 22 · [[#Espada\|Espada]] 11 · [[#Espaço\|Espaço]] 16 · [[#Estrelas\|Estrelas]] 4 · [[#Fera\|Fera]] 3 · [[#Fogo\|Fogo]] 12 · [[#Formações\|Formações]] 8 · [[#Força\|Força]] 36 · [[#Gelo\|Gelo]] 15 · [[#Humano\|Humano]] 29 · [[#Informação\|Informação]] 15 · [[#Leis\|Leis]] 1 · [[#Luz\|Luz]] 22 · [[#Madeira\|Madeira]] 32 · [[#Metal\|Metal]] 23 · [[#Movimento\|Movimento]] 7 · [[#Osso\|Osso]] 14 · [[#Qi\|Qi]] 5 · [[#Reconhecimento\|Reconhecimento]] 1 · [[#Refino\|Refino]] 13 · [[#Regra\|Regra]] 8 · [[#Relâmpago\|Relâmpago]] 15 · [[#Roubo\|Roubo]] 6 · [[#Sabedoria\|Sabedoria]] 20 · [[#Sangue\|Sangue]] 22 · [[#Som\|Som]] 2 · [[#Sombras\|Sombras]] 14 · [[#Sonho\|Sonho]] 7 · [[#Sorte\|Sorte]] 9 · [[#Tempo\|Tempo]] 15 · [[#Terra\|Terra]] 40 · [[#Transformação\|Transformação]] 32 · [[#Trevas\|Trevas]] 5 · [[#Veneno\|Veneno]] 9 · [[#Vento\|Vento]] 5 · [[#Vida\|Vida]] 11 · [[#Vontade\|Vontade]] 1 · [[#Água\|Água]] 20 · [[#Casas de Gu Imortal\|Casas de Gu Imortal]] 12 · [[#Especiais sem Caminho\|Especiais sem Caminho]] 1
+[[#Adivinhação\|Adivinhação]] 1 · [[#Alimentação\|Alimentação]] 10 · [[#Alma\|Alma]] 28 · [[#Ar\|Ar]] 2 · [[#Assassinato\|Assassinato]] 1 · [[#Celestial\|Celestial]] 6 · [[#Cosmos\|Cosmos]] 4 · [[#Cura\|Cura]] 2 · [[#Encantamento\|Encantamento]] 1 · [[#Escravidão\|Escravidão]] 22 · [[#Espada\|Espada]] 11 · [[#Espaço\|Espaço]] 16 · [[#Estrelas\|Estrelas]] 4 · [[#Fera\|Fera]] 3 · [[#Fogo\|Fogo]] 12 · [[#Formações\|Formações]] 8 · [[#Força\|Força]] 36 · [[#Gelo\|Gelo]] 15 · [[#Humano\|Humano]] 29 · [[#Informação\|Informação]] 15 · [[#Leis\|Leis]] 1 · [[#Lua\|Lua]] 14 · [[#Luz\|Luz]] 15 · [[#Madeira\|Madeira]] 32 · [[#Metal\|Metal]] 23 · [[#Movimento\|Movimento]] 7 · [[#Osso\|Osso]] 14 · [[#Qi\|Qi]] 5 · [[#Reconhecimento\|Reconhecimento]] 1 · [[#Refino\|Refino]] 13 · [[#Regra\|Regra]] 8 · [[#Relâmpago\|Relâmpago]] 15 · [[#Roubo\|Roubo]] 6 · [[#Sabedoria\|Sabedoria]] 20 · [[#Sangue\|Sangue]] 22 · [[#Som\|Som]] 2 · [[#Sombras\|Sombras]] 14 · [[#Sonho\|Sonho]] 7 · [[#Sorte\|Sorte]] 9 · [[#Tempo\|Tempo]] 15 · [[#Terra\|Terra]] 40 · [[#Transformação\|Transformação]] 32 · [[#Trevas\|Trevas]] 5 · [[#Veneno\|Veneno]] 9 · [[#Vento\|Vento]] 5 · [[#Vida\|Vida]] 11 · [[#Vontade\|Vontade]] 1 · [[#Água\|Água]] 20 · [[#Casas de Gu Imortal\|Casas de Gu Imortal]] 12 · [[#Especiais sem Caminho\|Especiais sem Caminho]] 1
 
 ## Adivinhação
 
@@ -32,6 +32,23 @@ Todos os **457 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
 | 7 | **Casco da Tartaruga Adivinha** — *Adivinhação/Transformação* | Fuga | [[📖 Catálogo de Gu#Rank 7 — M = 64\|Rank 7]] |
+
+## Alimentação
+
+10 Gu.
+
+| R | Gu | Tipo | Onde |
+|---|---|---|---|
+| 1 | **Joaninha de Cristal** — *Água/Comida* | Utilidade | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
+| 1 | **Verme do Licor** | Auxiliar, passivo | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
+| 2 | **Gu do Verme do Vinho Amargo** ✱ | Auxiliar, passivo | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
+| 2 | **Sapo Barrigudo** — *Terra/Comida* | Armazenamento | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
+| 2 | **Verme do Licor de Quatro Sabores** | Auxiliar, passivo | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
+| 3 | **Verme do Vinho de Sete Fragrâncias** | Auxiliar | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
+| 4 | **Verme do Vinho de Nove Olhos** | Auxiliar | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
+| 5 | **Gu da Colheita Adiada** ✱ | Sustento, utilidade | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
+| 5 | **Verme do Vinho Centenário** ✱ | Auxiliar, passivo | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
+| 6 | **Petisco** | Suporte / Logística | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
 
 ## Alma
 
@@ -97,23 +114,6 @@ Todos os **457 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 8 | **Segredo Celestial Menor** ✱ — *Celestial/Sabedoria* | Dedução | [[📖 Catálogo de Gu#Rank 8 — M = 128\|Rank 8]] |
 | 9 | **Gu do Destino** | MacGuffin absoluto | [[📖 Catálogo de Gu#Rank 9 — M = 256\|Rank 9]] |
 | 9 | **Segredo Celestial** — *Celestial/Sabedoria* | Dedução suprema | [[📖 Catálogo de Gu#Rank 9 — M = 256\|Rank 9]] |
-
-## Comida
-
-10 Gu.
-
-| R | Gu | Tipo | Onde |
-|---|---|---|---|
-| 1 | **Joaninha de Cristal** — *Água/Comida* | Utilidade | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
-| 1 | **Verme do Licor** | Auxiliar, passivo | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
-| 2 | **Gu do Verme do Vinho Amargo** ✱ | Auxiliar, passivo | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
-| 2 | **Sapo Barrigudo** — *Terra/Comida* | Armazenamento | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
-| 2 | **Verme do Licor de Quatro Sabores** | Auxiliar, passivo | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
-| 3 | **Verme do Vinho de Sete Fragrâncias** | Auxiliar | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
-| 4 | **Verme do Vinho de Nove Olhos** | Auxiliar | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
-| 5 | **Gu da Colheita Adiada** ✱ | Sustento, utilidade | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
-| 5 | **Verme do Vinho Centenário** ✱ | Auxiliar, passivo | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
-| 6 | **Petisco** | Suporte / Logística | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
 
 ## Cosmos
 
@@ -399,9 +399,30 @@ Todos os **457 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 |---|---|---|---|
 | 1 | **Gu do Fio de Palavra** ✱ | Juramento, mútuo | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
 
+## Lua
+
+14 Gu — dano em **d8**. **A Lua é Caminho próprio, não subcaminho de Luz** (decisão 121): no romance existem Imortais dedicados a ela e Marcas de Dao de Lua. Sete destes Gu moram no [[📖 Catálogo de Gu|Catálogo]]; os outros sete moram na nota do Caminho, e a coluna **Onde** diz qual é qual. O dial do Caminho é **a fase da lua** — ver [[🌙 Caminho da Lua]].
+
+| R | Gu | Tipo | Onde |
+|---|---|---|---|
+| 1 | **Gu do Luar** | Ataque, à distância | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
+| 2 | **Gu da Foice Crescente** ✱ | Ataque, à distância | [[🌙 Caminho da Lua\|Caminho da Lua]] |
+| 2 | **Gu do Convite Lunar** | Ataque, concentrado | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
+| 2 | **Gu do Fulgor Lunar** | Ataque, à distância | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
+| 2 | **Vestimenta Lunar** | Defesa | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
+| 3 | **Gu da Lua Sangrenta** — *Sangue/Lua* | Ataque, dreno | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
+| 3 | **Gu da Maré Puxada** ✱ | Controle | [[🌙 Caminho da Lua\|Caminho da Lua]] |
+| 3 | **Gu do Convite Lunar** ✱ | Ataque concentrado | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
+| 3 | **Gu do Disco Minguante** ✱ | Ataque, à distância | [[🌙 Caminho da Lua\|Caminho da Lua]] |
+| 3 | **Gu do Frio de Osso** ✱ — *Lua/Gelo* | Debuff sustentado | [[🌙 Caminho da Lua\|Caminho da Lua]] |
+| 4 | **Gu da Lua Cheia Sangrenta** ✱ — *Sangue/Lua* | Ataque, dreno pesado | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
+| 4 | **Gu do Crescente Cortante** ✱ | Ataque, à distância | [[🌙 Caminho da Lua\|Caminho da Lua]] |
+| 5 | **Gu da Lua Afogada** ✱ | Ataque + controle | [[🌙 Caminho da Lua\|Caminho da Lua]] |
+| 6 | **Gu Imortal do Luar Imemorial** ✱ | Ataque, área | [[🌙 Caminho da Lua\|Caminho da Lua]] |
+
 ## Luz
 
-22 Gu — dano em **d8**.
+15 Gu — dano em **d8**.
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
@@ -409,20 +430,13 @@ Todos os **457 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 1 | **Gu da Luzinha** | Auxiliar | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
 | 1 | **Gu de Luz Aquática** — *Água/Luz* | Auxiliar de refino | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
 | 1 | **Gu de Sinal** | Utilidade | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
-| 1 | **Gu do Luar** | Ataque, à distância | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
 | 1 | **Verme Dourado de Um Alongamento** | Defesa em área | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
 | 2 | **Gu de Luz Terapêutica** — *Luz/Vida* | Cura em área | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
-| 2 | **Gu do Convite Lunar** | Ataque, concentrado | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
-| 2 | **Gu do Fulgor Lunar** | Ataque, à distância | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
 | 2 | **Gu do Sinal de Fogo** ✱ — *Fogo/Luz* | Utilidade | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
-| 2 | **Vestimenta Lunar** | Defesa | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
-| 3 | **Gu da Lua Sangrenta** — *Sangue/Luz* | Ataque, dreno | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
-| 3 | **Gu do Convite Lunar** ✱ | Ataque concentrado | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu do Dossel Celeste** | Defesa | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu do Escudo Dourado** — *Luz/Metal* | Defesa | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu do Olho de Sol** ✱ | Corpo, sentido | [[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)\|Corpo Elementais]] |
 | 3 | **Gu do Pirilampo Estelar** — *Luz/Reconhecimento* | Reconhecimento | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
-| 4 | **Gu da Lua Cheia Sangrenta** ✱ — *Sangue/Luz* | Ataque, dreno pesado | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Gu do Dossel Celeste Maior** ✱ | Defesa em área | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 5 | **Gu da Invisibilidade** — *Sombras/Luz* | Furtividade | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Gu da Luz Extrema** | Amplificação | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
@@ -659,13 +673,13 @@ Todos os **457 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 2 | **Gu da Coagulação Rápida** ✱ | Corpo, regeneração | [[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)\|Corpo Elementais]] |
 | 2 | **Gu da Essência de Sangue** | Auxiliar, ingrediente | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
 | 2 | **Gu da Troca de Sangue** ✱ | Especial | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
-| 3 | **Gu da Lua Sangrenta** — *Sangue/Luz* | Ataque, dreno | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
+| 3 | **Gu da Lua Sangrenta** — *Sangue/Lua* | Ataque, dreno | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu da Reunião Sanguínea** — *Sangue/Humano* | Auxiliar, passivo | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu do Espinho Ósseo** — *Osso/Sangue* | Ataque de dano mútuo | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu do Morcego de Sangue Asas-Lâmina** — *Sangue/Fera* | Enxame, dreno | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu do Sangue Endurecido** ✱ | Corpo, defensivo | [[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)\|Corpo Elementais]] |
 | 3 | **Verme de Sangue de Parentesco** | Rastreamento | [[📖 Catálogo de Gu#🎭 Gu Sociais e de Investigação *(ranks 1 a 4)*\|Sociais]] |
-| 4 | **Gu da Lua Cheia Sangrenta** ✱ — *Sangue/Luz* | Ataque, dreno pesado | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
+| 4 | **Gu da Lua Cheia Sangrenta** ✱ — *Sangue/Lua* | Ataque, dreno pesado | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Gu do Espinho Ósseo Maior** ✱ — *Osso/Sangue* | Ataque de dano mútuo | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Par de Gu de Sangue Vinculado** — *Sangue/Humano* | Utilidade, contrato | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 5 | **Gu Flor-Celeste Cortina de Sangue** — *Sangue/Formações* | Defesa, área | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |

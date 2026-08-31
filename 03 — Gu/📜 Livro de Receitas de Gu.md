@@ -127,6 +127,11 @@ Gu de rank 1 **nascem prontos na natureza**. A "receita" deles é saber **onde p
 | **Gu do Grão Reverso** ✱ | Ampulhetas e relógios d'água de templo | O primeiro instante de uma chama recém-acesa |
 | **Gu do Travesseiro Emprestado** ✱ | Dormitórios coletivos com séculos de uso | Uma hora de sono de alguém que não a ofereceu |
 | **Gu do Fio de Palavra** ✱ | Tribunais e altares de juramento | Uma promessa sua efetivamente cumprida, feita ali |
+| **Gu da Unha de Bronze** ✱ | Fundições abandonadas, entre escória de bronze e moldes rachados | Uma lâmina de bronze cega deixada três noites no forno frio — ele desce para afiá-la e fica |
+| **Gu do Broto Chicote** ✱ | Clareiras de queimada recente, onde o cipó é a primeira coisa a voltar | Um galho verde amarrado em arco, sob tensão; o Gu vem estalar nele |
+| **Gu da Palma d'Água** ✱ | Corredeiras estreitas, onde a água corta a pedra em fio | Mão aberta e imóvel dentro da corrente até a pele formigar — ele pousa na palma |
+| **Gu da Brasa no Punho** ✱ | Forjas apagadas há pouco, no fundo da cinza ainda morna | Um punhado de brasa apanhado **com a mão nua**; só se entrega a quem se queima por ele |
+| **Gu do Punho de Seixo** ✱ | Leitos de rio seco, sob os seixos rolados mais lisos | Um seixo do próprio leito socado na palma até tirar sangue |
 
 > [!tip] Criadouro de clã
 > Um clã estabelecido reproduz em cativeiro os Gu de rank 1 marcados como comuns no [[🏪 O Mercado]]. Pra mesa isso significa: **os 20 primeiros da tabela se compram**; os demais são expedição, favor ou leilão.
@@ -196,6 +201,7 @@ Chance base ~70% ([[🧩 Refino e Precificação]]). É aqui que um cultivador a
 | **Gu da Lanterna Fraca** ✱ | Gu da Luzinha + Gu Casaco da Alma Oculta | A luz aprende a ver o que a alma esconde — mal, mas vê |
 | **Gu do Sinal de Fogo** ✱ | Gu de Sinal + Gu da Brasa no Punho | O sinal aprende a arder sem morrer |
 | **Gu da Troca de Sangue** ✱ | Gu da Espinha de Sangue + Gu do Calor Brando | 🔨 Assistido — doador e refinador canalizam juntos |
+| **Gu da Essência de Sangue** | Gu da Espinha de Sangue + Gu Devorador de Cadáveres | O **Gu é canônico** (repõe o sangue de um Mestre de Gu, e é metade da receita 📕 da Lua Sangrenta); a **fusão é registro plausível** — o romance nunca a escreve. Material: sangue fresco do próprio refinador, um vaso aberto por dia de refino. 🔨 Proibida na maioria dos clãs pelo ingrediente cadavérico |
 | **Gu do Verme do Vinho Amargo** ✱ | Verme do Licor + conchas amargas **jovens** | A versão pobre da receita canônica do Quatro Sabores — conchas novas, resultado torto |
 | **Muda da Lótus Preciosa Celestial** ✱ | **Sem fusão** — rebento | Brota da Lótus do Tesouro da Essência Celestial (r3); colher sem matar a mãe é o teste real |
 | **Gu do Barro Estalado** ✱ | Gu Lama de Papa + Gu do Punho de Seixo | A lama aprende a secar em lasca e voar |

@@ -745,7 +745,7 @@ Ter **um Golpe Matador de rank 5 montado e testado** é um dos dois pré-requisi
 
 Formato de cada golpe abaixo: **núcleo**, **apoio**, **sequência de ativação**, **efeito final em números**, **🕳️ Brecha** — a condição concreta em que ele falha — e **contragolpe**, o que o próprio cultivador paga depois. Vale a regra geral de [[⚡ Golpes Matadores|Golpes Matadores]]: **um por combate importante**, um golpe interrompido no meio não se remonta na mesma cena, e **nenhum golpe existe sem Brecha declarada** (decisão 32). Brecha e contragolpe são coisas diferentes: a Brecha é como o **inimigo** derrota o golpe; o contragolpe é o que o golpe cobra do **dono** mesmo quando dá certo.
 
-O teto de apoios é o [[🪜 Ranks e Estágios|Teto de Combo]] do estágio **menos um** — no Pico, **núcleo + 4 apoios** (decisão 113). Golpes com mais Gu que isso só existem como **Golpe Matador Coletivo**.
+O teto de apoios é o [[🪜 Ranks e Estágios|Teto de Combo]] do estágio **menos um** — no Pico, **núcleo + 4 apoios** (decisão 119). Golpes com mais Gu que isso só existem como **Golpe Matador Coletivo**.
 
 ### 1. Torrente de Luz *(Torrential Light Stream)*
 
