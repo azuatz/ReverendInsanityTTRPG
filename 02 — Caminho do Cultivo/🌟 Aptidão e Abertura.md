@@ -30,13 +30,16 @@ Aptidão não é só o teto — também afeta a **velocidade de recuperação de
 
 **A única exceção é o [[🌠 Os Dez Físicos Extremos|Físico Extremo]]:** ele recupera **10% da Essência máxima por rodada** (sujeito ao teto de regeneração), e essa torneira aberta — que ninguém mais tem — é a diferença que se sente em toda cena de combate. É a identidade mecânica do físico inteiro.
 
-**Fora de combate**, a Aptidão dita a velocidade de recuperação:
+**Fora de combate**, a recuperação é **uma porcentagem da sua Essência máxima por hora**, ditada pelo Grau de Aptidão:
 
 ```
-Recuperação em descanso = (sua % de Abertura ÷ 10) por minuto
+Recuperação em descanso = % da Essência MÁXIMA por hora, pelo Grau:
+Grau D: 2%/h  ·  Grau C: 4%/h  ·  Grau B: 6%/h  ·  Grau A: 8%/h
 ```
 
-**Repare no que a conta faz sozinha: o grau de Aptidão sai da equação.** Essência máxima e velocidade de recuperação escalam pela mesma %, então um cancela o outro — um Grau A (90%) enche um tanque de 360 no mesmo tempo que um Grau D (30%) enche um de 120: **~40 minutos, estágio Inicial, qualquer grau.** O que muda o tempo de recarga é o **estágio**, não a Aptidão: como a Essência dobra a cada estágio mas a velocidade de recuperação não, encher o tanque no Pico leva `40 × 2³` = **320 minutos** (mais de 5 horas) — em qualquer grau. Na prática de mesa: **entre uma cena e outra, um personagem em estágio baixo volta cheio fácil; um personagem avançado no Pico pode não recuperar o tanque inteiro nem numa noite de descanso** — é o estágio que aperta a torneira, não o grau de Aptidão.
+**O tempo de recarga se mede em dias, não em minutos** — encher o tanque do zero leva ~50 h (D), ~25 h (C), ~17 h (B) ou ~12,5 h (A), em qualquer estágio (a recuperação é proporcional ao total: tanque maior recupera mais por hora, o tempo cheio é o mesmo). *(📕 Canônico: Cap. 10 — Grau C recupera 4%/h, "24% em 6 horas"; Grau A, 8%/h. Os valores de D e B são interpolação 🔧 entre os dois pontos que a obra dá.)*
+
+**Na mesa, isso significa o ritmo da obra:** quem lutou de manhã chega à luta da tarde com o tanque pela metade. Emendar duas cenas de combate no mesmo dia é uma decisão cara — e é assim de propósito. A válvula de escape é a mesma do romance: **consumir Pedras Primordiais fora de combate** repõe essência na hora ([[💠 Economia das Pedras Primordiais]]) — gastar dinheiro e gastar tempo são a troca central do cultivo.
 
 ## 🌍 A distribuição do mundo — e por que ela NÃO é a rolagem de criação
 

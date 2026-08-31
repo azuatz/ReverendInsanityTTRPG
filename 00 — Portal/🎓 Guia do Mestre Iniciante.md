@@ -208,7 +208,7 @@ Dano        M d6, e o dado sobe um tipo a cada 4 membros vivos → com 8 vivos, 
 2. **A guerreira (FOR +3, machado pesado, sem Gu de Força ativo)** ataca: `d20 + 3 + 3` = `d20+6` contra Defesa 11 — acerta com 5+. Dano: **um dado só**, `1d10 + 3`. Tirou 5 → **8 de dano**. A barra da Horda cai pra 40.
 3. **O usuário de Gu (VON +3, Gu do Luar rank 1, Caminho da Luz = d8)** ativa: paga **40 de essência** (Gu do próprio rank). Acerto `d20 + 3 + 3 + 1` = `d20+7`. Dano `1 d8` — um dado, porque M = 1 no rank 1. Tirou 4 → **4**. A Horda cai pra 36. *Com 36 de Vitalidade ela ainda tem 6 membros, então o dado dela continua em d8 na próxima rodada — o grupo sente a horda enfraquecendo sem contar corpo.*
 4. **A Horda age:** um ataque por personagem de pé, quatro ataques, `d20+7` contra as Defesas do grupo (11 + DES). Contra Defesa 13, acerta 75% das vezes. Dano `1d10` cada, **menos a RD da armadura** — quem comprou couro batido (RD 2) come 2 de cada golpe.
-5. **Fim da rodada:** ninguém recupera nada. **Essência não regenera em combate** (decisão 107) — a recuperação é `% de aptidão ÷ 10` **por minuto de descanso, entre cenas**. O tanque é um recurso que acaba dentro da luta, e é assim de propósito. A única exceção do jogo é o [[🌠 Os Dez Físicos Extremos|Físico Extremo]].
+5. **Fim da rodada:** ninguém recupera nada. **Essência não regenera em combate** (decisão 107) — a recuperação acontece **entre cenas, em % da Essência máxima por hora** (Grau D 2%/h · C 4%/h · B 6%/h · A 8%/h — tanque cheio leva de meio dia a dois dias). O tanque é um recurso que acaba dentro da luta, e é assim de propósito. A única exceção do jogo é o [[🌠 Os Dez Físicos Extremos|Físico Extremo]].
 
 **Onde o mestre iniciante erra nesta cena:** esquece o `+ rank` na Defesa (11 + DES no rank 1, não 10 + DES), e esquece que o número de dados vem do rank **do Gu**, não do personagem.
 
@@ -475,7 +475,7 @@ Dado           d12 Alma/Espada/Relâmpago · d10 Fogo/Vento · d8 Lua/Sangue/
 B              Grau do estágio (0·1·2·3) + Níveis excedentes
 Vitalidade     (18 + 3×CON + 4×B) × M   Alma  (12 + 2×VON + 3×B) × M
 Essência       % de aptidão × 4 × 2^(estágio−1)
-Regeneração    % ÷ 10 por minuto — FORA de combate (em luta, não regenera)
+Regeneração    % do tanque/hora pelo Grau (D 2 · C 4 · B 6 · A 8) — FORA de combate
 Ativar um Gu   40 (rank próprio) · 10 · 4 · 1 (por rank abaixo)
 Sustentar      (nº de Gu ligados)² × 5 por rodada
 Ferimento      −5% permanente em Vitalidade E Alma máximas

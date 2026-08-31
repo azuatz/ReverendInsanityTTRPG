@@ -123,6 +123,16 @@ Um 1 natural em qualquer etapa conta como duas falhas de uma vez.
 
 > **Gu Imortal é exemplar único no mundo.** Cada Gu Imortal que nasce de uma Ascensão é nomeado e público — não existem dois exemplares do mesmo tipo. Quando um muda de dono, o mundo inteiro percebe. É isso que faz a fase imortal ser política em vez de comercial: no rank 6+ não se compra poder, se rouba, troca ou toma emprestado.
 
+## De que Caminho nasce a fenda — como o Caminho é definido
+
+A pergunta que todo mestre faz na primeira Ascensão da mesa: *quem decide que a fenda é "de Lua", "de Força", "de Sangue"?* A resposta tem três peças, e **nenhuma delas exige ter Marcas de Dao antes** — mortal não tem Marca; as primeiras nascem aqui.
+
+1. **O Gu Vital é a âncora.** É ele que vira o Gu Imortal de rank 6 no centro da Abertura nova (lista acima) — e **o Caminho da fenda é o Caminho dele**. A fenda nasce em volta desse núcleo: quem ascende com um Gu Vital de Lua tem uma fenda de Lua. Por isso a escolha do Gu Vital, lá atrás na fase mortal, é a decisão mais longa do jogo.
+2. **A trajetória confirma (ou conversa).** O Caminho "se firma na Ascensão como leitura do que o personagem já vinha fazendo" (decisão 42): quais Gu ele usou pra decidir as cenas, o que ele refinou, os Golpes Matadores que registrou. Quando o Gu Vital e a trajetória apontam pro mesmo lugar — o caso normal — não há o que decidir. Quando destoam (um Gu Vital de Água numa vida inteira de combate de Fogo), é conversa de mesa: o jogador escolhe qual dos dois lados define a fenda, com justificativa narrativa — e o outro lado vira o candidato natural a segundo Caminho.
+3. **As primeiras Marcas selam.** As Marcas iniciais da Ascensão (`500 + 100 × Qi Terrestre`, lista acima) entram **todas no Caminho cristalizado** — é o primeiro depósito do cofre, e é ele que torce a fenda de vez. A [[🗝️ Terra Abençoada|Sintonia da terra]] nasce **Grau 0, neutra** (decisão 84), e vai se alinhando ao Caminho conforme as Marcas acumulam — a fenda de um recém-ascendido ainda é quase genérica; a de um veterano é inconfundível.
+
+**Em uma frase, pro mestre:** *o Gu Vital dá o Caminho, a vida do personagem confirma, e as primeiras Marcas selam — nada disso pede Marca prévia, porque é a Ascensão que inaugura as Marcas.*
+
 ## O que se arrisca
 
 - Morte na provação, sem rede de segurança.

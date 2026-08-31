@@ -218,6 +218,9 @@ Um Imortal de Oitavo Giro só se torna Venerável cumprindo **todas** estas cond
 
 Cumprir três das quatro e falhar na última é uma tragédia de campanha em si — existe precedente narrativo de cultivadores poderosíssimos que nunca conseguiram completar a quarta condição.
 
+> [!important] As condições 2 e 3 se cumprem NO ato do salto, não antes — o rompimento do teto
+> O teto do rank 8 é **299.999 Marcas totais** ([[☯️ Marcas de Dao]]) — é matematicamente impossível ter 300.000 num Caminho **antes** de tentar. É assim de propósito, e é assim na obra: o candidato chega **saturado e concentrado** (o teto cheio, a esmagadora maioria num Caminho só), declara a tentativa, e a quarta condição — romper o bloqueio do Dao Celestial — é o que **expande o teto no próprio evento**. As Marcas da provação final (escala da Calamidade das Dez Mil, ~86.750 por evento — decisão 142) entram já sem teto e completam os 300.000: o Grande Mestre Supremo se **consolida no rompimento**, não antes dele. É também por isso que quem dividiu as Marcas entre dois Caminhos nunca vira Venerável — com o principal a ~150.000, nem as Marcas do evento inteiro fecham a conta, e o bloqueio não rompe.
+
 ### Venerável × Venerável Demônio
 
 Ambos são rank 9 — o mesmo teto de poder. **A diferença é de posição social, não de Caminho e nem de moral:** "reto" e "demoníaco" descrevem como o cultivador se coloca diante das estruturas estabelecidas (clãs, seitas, alianças), e não uma escala simples de bem contra mal. Um Venerável ortodoxo chegou ao topo **dentro** dessas estruturas e com o aval delas; um **Venerável Demônio** chegou **fora** delas — sozinho, contra elas, ou por meios que elas condenam — e é caçado por isso onde quer que vá.

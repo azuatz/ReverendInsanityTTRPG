@@ -29,7 +29,7 @@ O que importa não é o total de Marcas, e sim **quantas você tem no Caminho es
 | **Mestre** | 10.000 – 49.999 | +2 Níveis; custo de ativação do Caminho cai pela metade; refina rank 7 |
 | **Grão-Mestre** | 50.000 – 149.999 | +3 Níveis; pode **anexar** Terra Abençoada alheia (ver [[🗝️ Terra Abençoada\|Terra Abençoada]]); refina rank 8 |
 | **Quase-Supremo** | 150.000 – 299.999 | +4 Níveis; Golpes Matadores do Caminho ganham vantagem no teste; ignora RD de fontes de rank inferior |
-| **Grande Mestre Supremo** | 300.000+ | +5 Níveis; pré-requisito obrigatório pra virar Venerável; dentro do próprio domínio, cada ação recebe amplificação do céu e da terra |
+| **Grande Mestre Supremo** | 300.000+ | +5 Níveis; **o patamar em que todo Venerável se consolida — atingido no próprio ato do salto pro rank 9**, nunca antes (o teto do rank 8 impede; ver [[🪜 Ranks e Estágios|o rompimento do teto]]); dentro do próprio domínio, cada ação recebe amplificação do céu e da terra |
 
 > [!info] 🔧 Adaptado — "Quase-Supremo" não é o nome canônico deste patamar
 > O romance chama esse degrau de **Grão-grão-mestre** / "Grande Grão-Mestre" (Cap. 1326, 1501–1502) — "quase-X" no cânone é sempre um sub-degrau abaixo de um patamar, não este. O vault mantém "Quase-Supremo" por já estar consolidado em mais de dez notas (inclusive resposta de enigma em [[📜 Catálogo de Heranças]]); renomear em cascata é pendência do autor. Citação completa e raciocínio: [[🧭 Log de Decisões]] (decisão 153).
@@ -92,21 +92,11 @@ Toda Marca pertence a um Caminho, definido pela **fonte** — não se escolhe de
 
 **Quem cultiva dois Caminhos** paga duas vezes: além do conflito (toda fonte rende **um terço a menos** por Caminho extra — item 5 abaixo), a divisão sai do **mesmo teto total**. O especialista enche o cofre com um Caminho só e é denso; o generalista divide o mesmo cofre e é raso em tudo — é exatamente por isso que a especialização é a norma canônica.
 
-### Como dividir entre dois Caminhos — a regra do degrau
+### Como as Marcas se dividem entre dois Caminhos
 
-A divisão **não é uma escolha de ficha** — ela é o resultado das fontes (tabela acima): cada Marca já entra com Caminho definido, e só a Calamidade/Provação deixa o jogador repartir o ganho na hora. "Dividir 70:30" significa, na prática, **viver 70:30** — usar o Caminho principal pra decidir as cenas, refinar Gu dele, sintonizar a Terra Abençoada nele.
+A divisão **não é uma escolha de ficha** — cada Marca já entra com o Caminho definido pela fonte (tabela acima). A única fonte em que o jogador reparte na hora é a Calamidade/Provação, declarando entre os Caminhos que usou de fato pra sobreviver. Na prática, a proporção final de um personagem é o retrato de **como ele viveu**: qual Caminho decidiu as cenas dele, quais Gu ele refinou, em que a Terra Abençoada dele está sintonizada.
 
-E a razão certa não é fixa — **pense em degraus, não em porcentagem**, porque a escada de domínio é de faixas largas:
-
-| Rank | O que a divisão muda |
-|---|---|
-| **6** *(teto 9.999)* | **Quase nada.** Qualquer divisão que deixe 1.000+ no secundário põe os dois Caminhos em Pequeno Feito — 70:30 e 50:50 dão o mesmo patamar. É o rank de experimentar |
-| **7** *(teto 99.999)* | **Aqui a conta aperta.** 70:30 no teto = Grão-Mestre / Mestre; 50:50 = os dois na fronteira Mestre/Grão-Mestre. Ao longo do rank, 70:30 mantém o principal **um patamar à frente** quase o tempo todo |
-| **8** *(teto 299.999)* | 70:30 = Quase-Supremo / Grão-Mestre; 50:50 = os dois cravados no piso do Quase-Supremo. E o portão de Venerável (300.000 **num** Caminho) é impossível pra quem divide — Grande Mestre Supremo é, por definição, coisa de especialista |
-
-**A recomendação da casa:** mantenha o secundário **logo acima do último degrau cuja utilidade você realmente usa** (1.000+ pra improvisar e refinar rank 6; 10.000+ se precisa das utilidades de Mestre), e despeje todo o resto no principal — na prática isso converge pra algo entre 70:30 e 90:10. **50:50 só se os dois Caminhos carregam sua identidade de combate por igual** (o padrão do Golpe Matador híbrido — que já paga ×2 de custo por existir, então o sistema cobra essa build duas vezes de propósito).
-
-*🔧 Adaptado: o conflito entre Marcas de Caminhos diferentes é regra canônica dura — dao marks de caminhos alheios brigam entre si e com o cultivador (Cap. 1272–1275, 1863–1865; a única exceção do romance é um corpo único, sem conflito de marcas, que é caso de Venerável, não de mesa). A régua "70:30 / regra do degrau" é ✍️ tradução autoral disso pra número de ficha.*
+**O que os cultivadores da obra fazem:** quase todos são especialistas — um Caminho de identidade, onde vai tudo. Quem carrega um segundo Caminho o trata como **ferramenta**, não como segunda identidade: mantém nele só o suficiente pra utilidade que quer dele (deslocamento, refino, investigação) e concentra o resto no principal. Divisão igual entre dois Caminhos é raríssima no romance, e por bom motivo — dao marks de Caminhos diferentes brigam entre si (Cap. 1272–1275, 1863–1865), e o topo da escada só fecha concentrado: Grande Mestre Supremo, o patamar de Venerável, é por definição coisa de especialista. *(A exceção canônica famosa — um corpo único onde marcas de todos os Caminhos convivem sem conflito — é assunto de Venerável, não de mesa.)*
 
 ---
 

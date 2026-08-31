@@ -46,7 +46,7 @@ Acerto melee       = d20 + FOR + rank + 2   (no rank 1: d20 + FOR + 3)
                      (não existem armas à distância mundanas — alcance é Gu)
 Acerto de Gu       = d20 + VON + rank + 2 + rank do Gu
 CD dos seus Gu     = 10 + VON + rank do Gu
-Regeneração        = (% de aptidão ÷ 10) por minuto de descanso
+Regeneração        = % da Essência máxima por hora, pelo Grau (D 2%/h · C 4%/h · B 6%/h · A 8%/h)
                      (a Essência NÃO regenera durante o combate)
 Gu que cabem na Abertura   = (% de aptidão ÷ 10) + rank
 Gu ativos ao mesmo tempo   = CON + rank
@@ -109,7 +109,7 @@ Um personagem genérico, sem ligação com nenhum PJ de nenhuma campanha de refe
 | Essência máxima | 60 × 4 | **240** |
 | Defesa | 11 + 2 (sem Gu de movimento ainda) | **13** |
 | Acerto melee | d20 + 1 + 3 | **d20 + 4** |
-| Regeneração | 60 ÷ 10 | **6 pontos de essência por minuto de descanso** *(o tanque de 240 enche em 40 min)* |
+| Regeneração | Grau C → 4%/h | **~10 de essência por hora de descanso** *(o tanque de 240 enche em ~25 horas — o ritmo é de dias, não de minutos)* |
 | Gu que cabem na Abertura | (60 ÷ 10) + 1 | **7** |
 | Gu ativos ao mesmo tempo | 4 + 1 | **5** |
 | Golpes registrados | 1 + 1 | **2** |

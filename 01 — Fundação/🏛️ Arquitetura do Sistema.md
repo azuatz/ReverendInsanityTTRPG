@@ -103,7 +103,7 @@ Isso é **somado** aos custos individuais dos Gu. Um personagem com quatro Gu su
 
 ### A regeneração — fora de combate, salvo o Físico Extremo
 
-**Essência não regenera durante o combate** (decisão 107). O que se recupera, recupera-se entre cenas: `% de Abertura ÷ 10` por minuto de descanso — ver [[🌟 Aptidão e Abertura|Aptidão e Abertura]]. A **única** fonte de essência dentro de uma luta é o [[🌠 Os Dez Físicos Extremos|Físico Extremo]] (10% do tanque por rodada), e é exatamente essa exclusividade que faz dele outra categoria de coisa.
+**Essência não regenera durante o combate** (decisão 107). O que se recupera, recupera-se entre cenas: **uma % da Essência máxima por hora, pelo Grau de Aptidão** (D 2%/h · C 4%/h · B 6%/h · A 8%/h — tanque cheio leva de ~12 h a ~50 h, o ritmo do romance) — ver [[🌟 Aptidão e Abertura|Aptidão e Abertura]]. A **única** fonte de essência dentro de uma luta é o [[🌠 Os Dez Físicos Extremos|Físico Extremo]] (10% do tanque por rodada), e é exatamente essa exclusividade que faz dele outra categoria de coisa.
 
 ### O teto de regeneração
 

@@ -519,3 +519,16 @@ acumulam, usa-se o maior — matar com Golpe Matador decisivo é ×2, não ×3.
 
 ## [2026-08-31] crítica | Revisão da rodada de otimização da outra sessão (12 commits)
 Pedido do autor: verificar, criticar e melhorar o trabalho paralelo. Veredito: os 12 commits (Dicionário, Golpes Matadores reordenado, legenda de Gu Lendários, Marcas de Dao enxugada, Guia de Criação com exemplo resolvido, exemplo triplo em Formações, links de Retrocesso, VB resolvido como decisão 193) estão disciplinados — inclusive corrigiram uma imprecisão da minha própria crítica (a notação "MD" não morava em Gu Lendários) em vez de aplicar cegamente. Dois achados da revisão: (1) erro de unidade no exemplo novo do [[📋 Guia de Criação de Ficha]] — "6% por minuto" corrigido pra "6 pontos por minuto" (240 de tanque = 40 min), verificado contra a fórmula de [[🌟 Aptidão e Abertura]]; (2) contradição pré-existente de 2× na taxa essência↔pedra (20 em Refino/Materialização vs 40 na tabela de Formações de Gu) — exposta pelo exemplo novo, registrada em "Em aberto" por ser número de balanceamento. Todos os demais números dos dois exemplos novos verificados na mão contra as fórmulas-fonte: corretos.
+
+## [2026-08-31] ingest | Três diretivas do autor: divisão leve, teto rompido no salto, regen canônica, Caminho da fenda (decisões 195-197)
+Rodada de diretivas diretas: (a) subseção de divisão de Caminhos em [[☯️ Marcas
+de Dao]] reescrita em formato leve — só "como funciona + o que os personagens
+da obra fazem", sem tabela prescritiva de otimização; (b) o furo "teto do rank
+8 é 299.999 mas Venerável pede 300.000 num Caminho" resolvido como na obra: as
+condições se consolidam NO rompimento do bloqueio, com as Marcas da provação
+final entrando já sem teto ([[🪜 Ranks e Estágios]]); (c) regeneração de
+essência refeita no ritmo canônico — % do tanque por hora pelo Grau (D 2 · C 4
+· B 6 · A 8, 📕 Cap. 10), recarga em dias e não minutos, sincronizada em 5
+notas; (d) nova seção "De que Caminho nasce a fenda" em [[♾️ A Ascensão
+Imortal]] costurando as decisões 39/42/84 que estavam soltas — Gu Vital ancora,
+trajetória confirma, primeiras Marcas selam, sem Marca prévia necessária.
