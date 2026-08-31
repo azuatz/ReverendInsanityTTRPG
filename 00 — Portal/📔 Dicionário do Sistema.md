@@ -23,6 +23,7 @@ escopo: sistema
 | **Abertura** | O espaço interno (na barriga) que guarda essência e abriga os Gu do personagem | [[🌟 Aptidão e Abertura]] |
 | **Verdadeira Essência** | O combustível: ativar um Gu gasta essência. Regenera devagar; acabou, acabou a mágica. *(No romance chama-se "Essência Primeva")* | [[🪜 Ranks e Estágios]] |
 | **Aptidão** | Talento nato, 21%–100% (`1d80+20`), sorteado na criação. Define o tamanho da Abertura e o **teto natural** — até onde dá pra chegar na vida. Pública e injusta de propósito | [[🌟 Aptidão e Abertura]] |
+| **Grau (A/B/C/D)** | A faixa de Aptidão em letra, não outra escala: **D** 21–39% (teto rank 1) · **C** 40–59% (rank 2) · **B** 60–79% (rank 3–4) · **A** 80–99% (rank 5) | [[🌟 Aptidão e Abertura]] |
 | **Despertar (Cerimônia do)** | O rito da adolescência em que a Abertura se abre e a Aptidão é medida **em público**, diante da comunidade inteira. É onde a vida de todo cultivador começa — e a injustiça visível dela é o gerador de conflito nº 1 do cenário | [[🌟 Aptidão e Abertura]] |
 | **Atributos** | Os seis: **FOR** (melee), **CON** (vida), **DES** (Defesa), **AST** (ler o mundo), **VON** (ativar Gu), **CAR** (ler pessoas). 12 pontos de compra | [[💪 Atributos]] |
 | **Origem** | De onde o personagem vem (5 opções) — define recursos iniciais e de onde veio o primeiro Gu | [[🌱 Origens]] |
@@ -80,9 +81,11 @@ escopo: sistema
 | **Níveis de Dano** | Os degraus do dado: d4→d6→d8→d10→d12. "Sobe 1 Nível" = sobe um degrau | [[⚔️ Combate]] |
 | **Escada de Dano** | O mesmo que **Níveis de Dano** — dois nomes para a mesma escada de tipos de dado. Se uma nota disser "sobe um passo na Escada", leia "+1 Nível de Dano" | [[⚔️ Combate]] |
 | **Força de Alma** | O tamanho da alma, medido **em homens** (todo mundo começa em 1). Multiplica a Alma máxima e destrava truques de Alma — e **passar de 100 num corpo mortal mata na hora** | [[👻 Caminho da Alma]] |
+| **Contaminação** | O preço de devorar almas no Caminho da Alma: um número que só sobe (salvo purificação) e trava efeitos colaterais permanentes em limiares (10 · 25 · 50 · 75 · 100) | [[👻 Caminho da Alma]] |
 | **Ação Especial** | O truque que todo Guerreiro e Elite tem: **uma vez por cena**, um ataque com +4 no acerto que ainda aplica **Lentidão 2**. É o que separa um inimigo de um saco de pancada | [[⚔️ Ameaças Genéricas por Rank]] |
 | **Ficha de Azar** | O botão da Vontade do Céu na mão do mestre — uma por faixa do Contador de Ameaça, por sessão. Gasta-se pra fazer você rerrolar um sucesso, desligar um Gu sustentado, ou a coincidência ruim acontecer | [[⛈️ A Vontade do Céu]] |
 | **Ferimento** | Dano permanente: −5% em Vitalidade **e** Alma máximas, pra sempre. Cicatriz mecânica | [[❤️ Recursos e Dano]] |
+| **Retrocesso** | O contragolpe de falhar um refino de Gu ou um Golpe Matador: `(soma dos ranks dos Gu envolvidos) × 2` em Vitalidade e `× 1` em Alma. *(Diferente de **Retrocesso de Marca**, a corrosão de Marcas de Dao impressas à força — ver [[☯️ Marcas de Dao]])* | [[❤️ Recursos e Dano]] |
 | **Teste de Morte** | d20 puro ao cair: 10+ estabiliza. Falhar uma vez já deixa sequela | [[❤️ Recursos e Dano]] |
 | **Ficha de Plano / Pontos de Plano** | A preparação como recurso gastável — o pilar "quem prepara, vence" em números | [[🕵️ Preparação e Informação]] |
 | **Débito** | Favor devido como estrutura vinculante, com retaliação real por calote | [[🤝 O Débito]] |
@@ -107,6 +110,7 @@ escopo: sistema
 | Termo | Em uma linha | Regra |
 |---|---|---|
 | **Ascensão Imortal** | A passagem do rank 5 pro 6 — evento de campanha, dois portões, risco real de morte | [[♾️ A Ascensão Imortal]] |
+| **UV** | Sigla de **Uva Verde** — a essência imortal do rank 6, moeda de custo de ativação de Gu Imortal nesse rank (equivalente a JV no rank 7, LB no rank 8) | [[🪜 Ranks e Estágios]] |
 | **Gu Imortal** | Gu de rank 6+. Quase sempre único no mundo; não tem receita, e não morre com o dono | [[📖 Catálogo de Gu]] |
 | **Marca de Dao** | A progressão depois do rank 6: fragmentos de lei do mundo impressos no corpo. Substituem o estágio | [[☯️ Marcas de Dao]] |
 | **Domínio** | Os 6 níveis de maestria num Caminho imortal (Vislumbre → Grande Mestre Supremo) | [[☯️ Marcas de Dao]] |
