@@ -142,7 +142,7 @@ DANO = M d(dado do Caminho) + (M × B)
 | **d8** | Lua · Luz · Gelo · Sangue · Escravidão · Veneno · Água · Sombras |
 | **d6** | os utilitários (Terra, Madeira, Espaço, Tempo, Sabedoria…) — **+2 na CD dos Gu deles** |
 
-**B é o bônus por dado:** o Grau de Densidade do estágio (Inicial 0 · Médio 1 · Alto 2 · Pico 3) mais os Níveis de Dano excedentes.
+**B é o bônus por dado:** o Grau de Densidade do estágio (Inicial 0 · Médio 1 · Alto 2 · Pico 3) mais os Níveis de Dano excedentes. *(**Nível de Dano** = um degrau na escada de dados `d4 → d6 → d8 → d10 → d12`; "sobe 1 Nível" = sobe um degrau, e além do d12 cada Nível extra vira +1 por dado — regra completa em [[⚔️ Combate]].)*
 
 ```
 Dano melee    = 1 dado da arma + FOR             ← sem Gu ativo, um dado só
@@ -199,15 +199,15 @@ Vitalidade  48   (6 × M × 8 membros, numa barra só)
 Defesa      11   (10 + rank)
 Acerto      d20 + 7
 Ataques     um por personagem de pé — não é iniciativa, é estar cercado
-Dano        M d6, e o dado sobe um tipo a cada 4 membros vivos → com 8 vivos, 1d10
+Dano        M d6, e o dado sobe um tipo a cada 4 membros vivos acima dos 4 primeiros → com 8 vivos, 1d8
 ```
 
 **A rodada:**
 
 1. **Iniciativa:** todo mundo rola `d20 + DES` uma vez, e a ordem vale a cena inteira.
 2. **A guerreira (FOR +3, machado pesado, sem Gu de Força ativo)** ataca: `d20 + 3 + 3` = `d20+6` contra Defesa 11 — acerta com 5+. Dano: **um dado só**, `1d10 + 3`. Tirou 5 → **8 de dano**. A barra da Horda cai pra 40.
-3. **O usuário de Gu (VON +3, Gu do Luar rank 1, Caminho da Luz = d8)** ativa: paga **40 de essência** (Gu do próprio rank). Acerto `d20 + 3 + 3 + 1` = `d20+7`. Dano `1 d8` — um dado, porque M = 1 no rank 1. Tirou 4 → **4**. A Horda cai pra 36. *Com 36 de Vitalidade ela ainda tem 6 membros, então o dado dela continua em d8 na próxima rodada — o grupo sente a horda enfraquecendo sem contar corpo.*
-4. **A Horda age:** um ataque por personagem de pé, quatro ataques, `d20+7` contra as Defesas do grupo (11 + DES). Contra Defesa 13, acerta 75% das vezes. Dano `1d10` cada, **menos a RD da armadura** — quem comprou couro batido (RD 2) come 2 de cada golpe.
+3. **O usuário de Gu (VON +3, Gu do Luar rank 1, Caminho da Luz = d8)** ativa: paga **40 de essência** (Gu do próprio rank). Acerto `d20 + 3 + 3 + 1` = `d20+7`. Dano `1 d8` — um dado, porque M = 1 no rank 1. Tirou 4 → **4**. A Horda cai pra 36. *Com 36 de Vitalidade ela ainda tem 6 membros, então o dado dela **cai pra d6** já na ação seguinte — o grupo sente a horda enfraquecendo sem ninguém contar corpo.*
+4. **A Horda age:** um ataque por personagem de pé, quatro ataques, `d20+7` contra as Defesas do grupo (11 + DES). Contra Defesa 13, acerta 75% das vezes. Dano `1d6` cada (o dado já caiu com as baixas), **menos a RD da armadura** — quem comprou couro batido (RD 2) come 2 de cada golpe.
 5. **Fim da rodada:** ninguém recupera nada. **Essência não regenera em combate** (decisão 107) — a recuperação acontece **entre cenas, em % da Essência máxima por hora** (Grau D 2%/h · C 4%/h · B 6%/h · A 8%/h — tanque cheio leva de meio dia a dois dias). O tanque é um recurso que acaba dentro da luta, e é assim de propósito. A única exceção do jogo é o [[🌠 Os Dez Físicos Extremos|Físico Extremo]].
 
 **Onde o mestre iniciante erra nesta cena:** esquece o `+ rank` na Defesa (11 + DES no rank 1, não 10 + DES), e esquece que o número de dados vem do rank **do Gu**, não do personagem.
@@ -374,15 +374,18 @@ Sem ideia e a sessão é hoje? Role `1d6` em cada coluna:
 
 ### As composições prontas (mesa de 4, mesmo rank do grupo)
 
-| Cena | Composição | Vitória medida |
+| Cena | Composição *(regra de Alma entre parênteses)* | Vitória medida (rank 1 → 5) |
 |---|---|---|
 | **Fácil** | Horda de 8 | 100% |
-| **Padrão** | 3 Mestres de Gu | ~98% |
-| **Padrão pesado** | 2 Mestres + Horda de 8 | ~95% |
-| **Difícil** | 4 Mestres de Gu | 56–76% |
-| **Clímax** | 1 Chefe + 1 Guerreiro com especial | 56–80% |
+| **Padrão** | 3 Mestres de Gu *(no máx. **1** com especial de Alma)* | 75% → 99% |
+| **Padrão pesado** | 2 Mestres *(máx. 1 com Alma)* + Horda de 8 | 68–88% |
+| **Difícil** | ranks 1–4: 3 Mestres (1 com Alma) + 1 Guerreiro · rank 5+: 4 Mestres (2 com Alma) | 40–52% |
+| **Clímax** | 1 Elite especial + 3 Mestres — **ou** Chefe + Guerreiro, **só do rank 2 em diante** | 44–87% |
 
-Com 3 jogadores, tire uma unidade de cada linha. Fichas completas em [[⚔️ Ameaças Genéricas por Rank]].
+> [!danger] Chefe contra grupo de rank 1: não faça
+> Medido: **4% de vitória** — não é clímax, é execução. No rank 1, o Clímax é o Elite especial + 3 Mestres (68%). O Chefe entra na mesa a partir do rank 2.
+
+Com 3 jogadores, tire uma unidade de cada linha. O limite de "quantos Mestres usam especial de Alma" **faz parte dos números** — ignorá-lo derruba a vitória do grupo em 20-50 pontos. Fichas completas e a tabela por rank em [[⚔️ Ameaças Genéricas por Rank]].
 
 > **"Fácil" é cena de abertura, não metade das cenas.** O padrão real de uma sessão é uma Fácil, uma ou duas Padrão, e uma Difícil — com o Clímax guardado pro fim do arco.
 

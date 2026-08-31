@@ -562,3 +562,14 @@ de rota. Dois termos novos no 📔 Dicionário; linhas do 🗺️ Mapa atualizad
 
 ## [2026-08-31] ingest | Reis Fera, regra de ondas, Varredura e loadout de Mestre de Gu (decisão 200)
 Pedido direto do autor: sistema de hordas gigantes pros Reis Fera canônicos. Nova nota [[🐺 Reis Fera e a Maré]] (06) — os três Reis reusando moldes existentes, a regra de ondas (hordas simultâneas medidas como sentença: 2× = 36-83%, 3× = 0%) e a Varredura (pular onda num teste de grupo, custo calibrado por 1.500 iterações/cenário no motor da sétima rodada). Régua canônica do Vol. 1 cap. 114-115 confere com o medido: Rei de Cem = 99% de vitória a ~60% da Vitalidade; Rei de Mil = 0% pra um grupo só. Molde de Mestre de Gu ganhou loadout em três rolagens (Gu carregados + receita), fechando a metade 06 do pedido de extorsão da decisão 199. Links: nota-mãe, Mapa, Dicionário (Rei Fera, Varredura).
+
+## [2026-08-31] crítica | Correções do playtest de leitura aplicadas no Guia do Mestre
+Dos 5 tropeços do [[🔍 Playtest de Leitura — Mestre Novo (2026-08-31)]], os 3
+mecânicos corrigidos direto no [[🎓 Guia do Mestre Iniciante]]: tabela de
+composições da Parte 7 sincronizada com os números vigentes de [[⚔️ Ameaças
+Genéricas por Rank]] (incluindo o limite de Alma que faz parte dos números e o
+aviso "Chefe contra rank 1 = 4%, não faça"); régua da Horda consertada na cena-
+modelo da Parte 3 (8 vivos = d8, não d10, com a queda pra d6 narrada); e
+"Nível de Dano" ganhou definição inline na Parte 2, no ponto onde travava a
+leitura. Os 2 achados restantes são lacuna de regra (dinheiro/equipamento
+inicial inexistente; Alma zerada sem regra) — decisão do autor, vão pro menu.
