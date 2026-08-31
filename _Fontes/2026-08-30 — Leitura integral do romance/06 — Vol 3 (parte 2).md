@@ -708,7 +708,47 @@ Fonte: `Volume_3_-_The_Demon_Wreaks_Chaos_in_the_World.txt`
 
 - Primordial Ash Owl Transformation — ver A15 acima.
 
+## A16) Gu nomeados (cap. 601–605)
+
+- Earth Prison Gu / Earth Net Gu (rank 7, Immortal Gu, uso único) | Usados por Giant Sun Immortal Venerable para selar Frost Jade Peacock (land spirit da Imperial Court blessed land) — "green paste" cobrindo o corpo (Earth Prison) + correntes negras gigantes (Earth Net) | Enfraquecidos por centenas de milhares de anos de desgaste do tempo, mas ainda parcialmente eficazes | Cap. 602
+- Immortal Gu Gruel Mud (rank 6, uso único, "expenditure type" — basta espremer para ativar, sem gastar essência imortal) | Efeito: dissolve/derrete diretamente selos de earth path como o de Earth Prison Gu | Pertence a Fang Yuan (plantado e recuperado por ele mesmo, ver A14); usado para começar a libertar Frost Jade Peacock — o esforço de resistência do próprio land spirit contra o selo é o que de fato permite ao Gruel Mud avançar, pois desvia parte do poder residual dos dois Gu rank 7 | Cap. 602
+- Luck inspection Gu (rank 5, mortal, investigativo, luck path) | Único Gu de luck path obtido por Fang Yuan (achado por acaso na colisão de heranças verdadeiras) | Efeito: revela a "sorte" de pessoas como filamentos de fumaça coloridos — sorte forte e duradoura aparece como pilar grosso (ex.: Hei Lou Lan, azul); sorte "última labareda antes de apagar" aparece vermelha e ardente (ex.: Tai Bai Yun Sheng); azar/perigo mortal iminente aparece como um caixão preto envolvendo o corpo | Cap. 604
+- Dark Vortex (golpe matador de Hei Lou Lan) | Bola de luz negra que se expande até tamanho de montanha, corroendo/derretendo tudo que engolir (inclusive ossos) | Cap. 604
+- Flame Demon (golpe matador de Ye Lui Sang) | Manifesta até 6 "macacos de bronze em chamas" de 10m a partir do próprio corpo, cada um com poder comparável ao Dark Vortex | Cap. 604
+- Wind scythe bird (criaturas selvagens do 68º andar, round 25) | Bicos afiados como espadas, asas curvas como foices, extremamente rápidas e destemidas; incluem "bird kings" | Cap. 604
+- River as before Gu / Mountain as before Gu / Man as before Gu (trio-núcleo da herança de Tai Bai Yun Sheng) | Ao ascender a Gu Immortal, River+Mountain as before se fundem espontaneamente em Landscape As Before (rank 6); separadamente, Man as before também evolui para versão Immortal Gu — a diferença crucial é que a versão mortal só cura OUTROS, enquanto a versão Immortal poderia ser usada nele mesmo, estendendo sua própria vida | Cap. 604
+
+## B16) Sistemas e atividades jogáveis (cap. 601-605)
+
+- Portal oculto para o land spirit da Imperial Court blessed land: só se abre quando 2 true inheritances colidem dentro do domínio secludido (algo que só acontece quando o desequilíbrio causado por uma herança suprema já rachada — ex.: a de luck path, rachada séculos atrás por Mo Yao em sua própria tentativa fracassada — permite colisões acidentais). A colisão libera fragmentos (ex.: um Gu de luck path solto) e, com a manipulação certa (um redemoinho de Gu worms formando um "whirlpool" de sucção), revela uma porta para o santuário selado do land spirit. Esse método é o mesmo usado pelos Gu Immortals de central continent na vida passada de Fang Yuan, liderados por Fairy Black Moon. (Cap. 601-602)
+- Regra de propriedade (ownership) de uma blessed land após a morte do dono original: torna-se "sem dono", e qualquer um que "atenda às expectativas" do land spirit pode se tornar o novo proprietário — vulnerabilidade estratégica enorme que Giant Sun neutralizou selando e escondendo profundamente seu próprio land spirit (Frost Jade Peacock), a ponto de nem Mo Yao, com toda sua pesquisa, jamais o encontrar. (Cap. 602)
+- Condição de propriedade específica de Imperial Court blessed land, revelada pelo próprio Frost Jade Peacock: AMOR VERDADEIRO — requer um CASAL de Gu Masters mutuamente apaixonados (não basta o candidato sentir amor sozinho) para reivindicar a posse legítima. Giant Sun cumpriu essa condição facilmente (dada sua vida amorosa prolífica); Fang Yuan considera isso "quase impossível" dado seu temperamento. Sem cumprir essa condição, ele não consegue dominar o land spirit nem usar sua força para enfrentar com segurança a vontade de Giant Sun (que está lentamente despertando conforme o selo se rompe — já "tremeu 38 vezes"). (Cap. 602-603)
+- Plano de 3 passos de Fang Yuan para a Imperial Court blessed land (revelado por completo): (1) infiltrar-se no torneio usando a identidade roubada de Chang Shan Yin para entrar na terra abençoada; (2) tornar-se dono do land spirit sem despertar a vontade de Giant Sun, ganhando acesso seguro a Eighty-Eight True Yang Building; (3) usar essa base segura para (a) enfrentar Tai Bai Yun Sheng por Landscape As Before sem risco pessoal fatal, (b) usar Fixed Immortal Travel para alternar entre Hu Immortal blessed land (exposta a Immortal Crane Sect) e Imperial Court blessed land (santuário protegido, difícil de deduzir até por Gu Immortals de wisdom path) como base secundária segura, e (c) continuar extraindo recursos de Eighty-Eight True Yang Building indefinidamente sem se expor. O plano trava no passo 2 pela condição do "amor verdadeiro". (Cap. 603)
+- Estratégia política de Hei Lou Lan (revelada como armadilha tripla): força Tai Bai Yun Sheng a negociar um acordo em que tribos pequenas/médias em dificuldade "emprestam" todos os seus Gu worms para ganhar direito a descanso — depois manda o "black banner army" massacrar essas tribos desarmadas. Resultado: (1) exemplo de dissuasão para o resto do exército, (2) humilhação/controle sobre Tai Bai Yun Sheng, (3) destruição da reputação dele ("boas ações não se espalham, más ações viajam mil li"). Reforça o tema do romance de que política = crueldade calculada. (Cap. 605)
+- Manipulação psicológica adicional de Fang Yuan sobre Tai Bai Yun Sheng: após o massacre, usa Gu de voz ilusória (untraceable) para imitar as vozes de Gao Yang e Zhu Zai ("Acredito em você, você vai nos salvar, não vai?"), aprofundando o colapso mental de Tai Bai Yun Sheng — ação fria e calculada, motivo ainda não revelado nesta leitura (provavelmente para acelerar sua decisão de ascender e assim materializar Landscape As Before). (Cap. 605)
+
+## C16) Regras do mundo (cap. 601-605)
+
+- Land spirits são intrinsecamente vinculados ao destino da blessed land: land spirit morre = blessed land é destruída; blessed land destruída = land spirit morre. Vínculo mútuo e absoluto. (Cap. 602)
+- Gu Immortals têm mais dificuldade que mortais em experimentar "amor verdadeiro" — personalidades extremas e segredos profundos tornam esse tipo de vínculo raro entre eles; é apontado como motivo indireto de os Gu Immortals de central continent (na vida passada de Fang Yuan) terem escolhido destruir Imperial Court blessed land em vez de tentar dominar o land spirit pela via do amor. (Cap. 603)
+
+## D16) Números e preços (cap. 601-605)
+
+- Regra de resgate de tribos pequenas negociada por Tai Bai Yun Sheng: 1 Gu worm rank X emprestado = isenção de combate para 1 Gu Master de rank X equivalente (ex.: Gu rank 2 = libera 1 Gu Master rank 2; Gu rank 3 = libera 1 rank 3, e assim por diante). (Cap. 605)
+- Eighty-Eight True Yang Building estremeceu 38 vezes desde a libertação parcial do land spirit até este ponto — indicador crescente do despertar iminente da vontade de Giant Sun. (Cap. 604)
+
+## E16) Locais e atividades (cap. 601-605)
+
+- White jade hall (santuário do land spirit): salão todo em jade branco, 4 pilares, área elevada de 23 degraus com a estátua de cobre verde de Frost Jade Peacock acorrentada. (Cap. 602)
+- Eighty-Eight True Yang Building, 68º andar, round 25: enxame denso de wind scythe birds cobrindo o exército inteiro. (Cap. 604)
+
+## F16) Golpes matadores e receitas (cap. 601-605)
+
+- Dark Vortex (Hei Lou Lan) e Flame Demon (Ye Lui Sang) — ver A16 acima.
+
 ## G) Achados soltos
+
+- ATUALIZAÇÃO DA NOTA DE CONSISTÊNCIA (Gruel Mud, ver seção A14/G anterior): os capítulos 596 e 602 confirmam que Immortal Gu Gruel Mud pertence de fato a Fang Yuan (ele mesmo o plantou e recuperou, depois o usou ativamente para atacar o selo do land spirit). Isso é consistente com a hipótese de que a "corrosão contínua de Dang Hun mountain" mencionada antes (cap. 545) possa ser um efeito colateral do próprio Gruel Mud de Fang Yuan vazando/agindo de forma não controlada dentro de Hu Immortal blessed land — mas essa ligação causal não é confirmada explicitamente no texto lido até aqui. Recomenda-se ainda checar volumes futuros antes de tratar como fato de regra do sistema.
 
 - Revelação de bastidores: as 3 supreme true inheritances do domínio secludido são (1) Wisdom Gu (rank 9, lendário), (2) uma herança de luck path fundada pelo próprio Giant Sun (seu caminho secreto pessoal), e (3) o "direito de controle" (control rights) do próprio Eighty-Eight True Yang Building — implicando que a estrutura inteira poderia, em teoria, mudar de "dono verdadeiro" se alguém suficientemente poderoso conseguisse reivindicar essa herança suprema. Revelado por Mo Yao com relutância, tentando dissuadir Fang Yuan de continuar se arriscando. (Cap. 601)
 

@@ -137,6 +137,12 @@ Fonte: `Volume_6_-_Demon_Venerables_Eternal_Life.txt`, linhas 49401–73957 (par
 - **Mecânica de "vontade do povo" (legitimidade pública) na política de facções**: o apoio público de uma facção não depende só de força ou lucro, mas de consistência moral — a Corte Celestial não pode recrutar uma facção "irremediavelmente demoníaca" como o clã Fang sem destruir sua própria legitimidade/reputação, mesmo que isso fosse estrategicamente tentador; essa é uma restrição real na política de nível venerable (cap. 2266).
 - **Tática de "terra arrasada" para frustrar um cerco**: um clã derrotado (Fang) esvazia cada ponto de recurso até zero, deixa as formações de defesa abandonadas armadilhadas para explodir se abertas incorretamente, e até realoca toda a sua blessed land sede (revelando que isso é possível) — negando qualquer despojo ao lado vencedor e forçando-o a gastar essência à toa (caps. 2267–2268).
 - **Vender plebeus/clãs capturados como escravos em treasure yellow heaven**: usado explicitamente como tática dupla de humilhação psicológica e coleta de inteligência (interrogar escravos para descobrir o paradeiro dos Gu Immortals foragidos do clã derrotado) (cap. 2268).
+- **Mercado de escravos humanos**: praticamente extinto havia ~100 anos por ser visto como ato demoníaco flagrante; a derrota de um clã inteiro dá uma "desculpa legítima" para reabrir um leilão em massa. Escravos têm níveis de qualidade: Gu Masters rank 5 são os mais cobiçados, seguidos por jovens talentosos; os mais sortudos são escolhidos como "sementes de Gu Immortal" para investimento futuro, a maioria vira simples material Gu de consumo (caps. 2268–2269).
+- **Perigo pós-fusão dos dois céus**: "lugares perigosos e proibidos" escondidos ficam se deslocando de forma imprevisível enquanto os céus fragmentados se refundem; ficar preso num desses é descrito como fatal, sem resgate possível (cap. 2269).
+- **Limite de alcance de métodos investigativos**: podem ser menores que certos materiais imortais gigantes (como o Heavenly Chasm), forçando navegação "às cegas" por tentativa e desvio manual (cap. 2269).
+- **Amplificação por "ressonância de céu-e-terra"**: um venerable que refinou os dao marks de uma região tem seus próprios golpes automaticamente amplificados ali; mas até um Gu Immortal comum rank 8 pode receber um bônus enorme e inexplicado de duração/potência ao lançar um golpe em meio a um fluxo intenso de dao marks — ao custo de "tomar emprestada" sua própria sorte futura, uma dívida que pode até ajudar inimigos por acidente (cap. 2270).
+- **Fraqueza de clones/almas divididas (split souls)**: compartilham nível de attainment com o corpo principal — usar um clone para algo caro em attainment (como criar o sovereign immortal fetus Gu) reduz permanentemente o attainment do corpo principal; o estado mental/lealdade de um clone também pode divergir independentemente conforme a qual "fragmento" da alma original ele está vinculado, criando brechas exploráveis (cap. 2271).
+- **Recrutamento em cadeia de grotto-heavens**: uma potência externa pode usar um líder de grotto-heaven hesitante e já conhecido (Old Immortal Hua Yu) para apontar um segundo líder menos conhecido (Liang Jing Jing) como alvo de recrutamento mais fácil — tática de "defecção em cadeia" (cap. 2270).
 - **Custo crescente de refinar dao marks de território**: expandir o alcance da "teia" de sensação de um caminho custa cada vez mais essência imortal conforme a área cresce (efeito bola de neve esférica) — vale tanto para Fang Yuan quanto para Giant Sun Immortal Venerable (cap. 2246).
 - **"Inspiração natural" na ascensão a imortal**: normalmente, ao ascender de Gu Master a Gu Immortal, o cultivador ganha uma chance de "fazer perguntas ao mundo" e receber grandes benefícios; esse evento não ocorre numa segunda ascensão após uma queda, e fica indisponível durante o caos atual da fusão dos dois céus (cap. 2245).
 
@@ -180,6 +186,9 @@ Fonte: `Volume_6_-_Demon_Venerables_Eternal_Life.txt`, linhas 49401–73957 (par
 - Um venerable que refina por completo os dao marks de sua sede (como Star Constellation refinando toda a sabedoria da Corte Celestial) ganha vantagem de "campo em casa" tão grande que nem dois outros venerables juntos conseguem ameaçá-lo lá (cap. 2266).
 - Princípio do "contra-mecanismo" de Immortal Gu House: uma vez decifrado o funcionamento de uma House específica, ela pode ser neutralizada por um golpe contra-específico — por isso especialistas individuais fortes, não as Houses em si, decidem batalhas de verdade (cap. 2267).
 - Reviver alguém no rank de cultivo original consome muito mais do recurso "Human Sea" do que revivê-lo apenas como mortal (cap. 2267).
+- Uma grotto-heaven escondida como ponto minúsculo no espaço perde essa proteção para sempre quando a fusão dos dois céus força sua exposição (reforça regra já vista, agora aplicada a Flickering Light grotto-heaven) (cap. 2270).
+- Um ser que perdeu a sanidade (Spectral Soul Demon Venerable) não consegue usar métodos investigativos ou de rastreamento — sanidade é pré-requisito para técnicas cognitivas/mágicas mais altas, não só poder bruto (cap. 2269).
+- Clones/almas divididas que compartilham attainment com o corpo principal são um risco universal do cultivo Gu, não só de Fang Yuan — o próprio sistema de clones de Spectral Soul Demon Venerable sofre a mesma falha (cap. 2271).
 - Existências rank 9 (Gu Immortal ou Immortal Gu) são inerentemente "invejadas pelo céu" e não conseguem viver/existir para sempre — mesmo venerables têm prazo de validade; isso explica por que só houve 11 venerables em toda a história e por que Immortal Gu rank 9 são tão raros.
 - O potencial de um caminho (quantos Immortal Gu rank 9 ele pode eventualmente gerar) escala com o quanto aquele caminho é praticado pela população de cultivadores — caminhos universais como refino têm muito mais potencial de rank 9 que caminhos raros/secretos como sorte.
 - Vigilância/investigação de caminho sorte por um venerable consome essência imortal de verdade a cada uso — não é grátis, e o custo obriga até venerables a racionar quanto espionam os rivais.
@@ -229,6 +238,9 @@ Fonte: `Volume_6_-_Demon_Venerables_Eternal_Life.txt`, linhas 49401–73957 (par
 - Sovereign immortal aperture: 3 veias de dao de caminho terra construídas; veias de vento e fogo quase completas, faltando pouco para o 1º anel de veias (cap. 2267).
 - Human Sea de Fang Yuan: após reviver 2 Gu Immortals rank 7 + 1 rank 8 mantendo o cultivo, sobra capacidade para só mais 3 revivals rank 8 (cap. 2267).
 - Heavenly Pillar: cada unidade já é, individualmente, um material imortal rank 9 de caminho céu (cap. 2267).
+- Exército de bestas de alma de Ying Wu Xie e Fairy Zi Wei perde 30% dos efetivos só explorando áreas perigosas em poucos dias (cap. 2269).
+- Golpe de sorte de Qin Ding Ling leva 1 hora inteira para ativar (normalmente ~10 respirações), amplificado por uma "ressonância de mundo" inexplicada (cap. 2270).
+- Mercado de escravos humanos ficou essencialmente parado por cerca de 100 anos antes deste evento (cap. 2268–2269).
 
 ## E) Locais e atividades
 
@@ -267,6 +279,7 @@ Fonte: `Volume_6_-_Demon_Venerables_Eternal_Life.txt`, linhas 49401–73957 (par
 - **Human Sea, Refinement Sea**: reservatórios nomeados dentro da sovereign immortal aperture — Human Sea revive gente no rank de cultivo original usando qi humano estocado; Refinement Sea alimenta trabalho de caminho refino, "quase seco" neste ponto (cap. 2267).
 - **Moving Rock Crevice**: território fundador original do clã Fang em Western Desert, minúsculo; abandonado gerações atrás pelo ancestral fundador do clã durante uma "calamidade de areia" para salvar o povo do clã em vez da terra — origem da ética "pessoas antes do território" que Fang Gong e Fang Di Chang invocam depois (cap. 2264, 2268).
 - **Tian Ti Mountain** (Central Continent): marco que antes usava um Heavenly Pillar (material rank 9 de caminho céu) para se conectar fisicamente à Corte Celestial (cap. 2267).
+- **Flickering Light grotto-heaven**: outra grotto-heaven dos dois céus, liderada por Liang Jing Jing; alvo seguinte da campanha de recrutamento/defecção da Corte Celestial; acaba exposta e atacada por Spectral Soul Demon Venerable assim que a fusão dos céus força sua localização a ficar visível (cap. 2270).
 
 ## F) Golpes matadores e receitas
 
@@ -293,6 +306,10 @@ Fonte: `Volume_6_-_Demon_Venerables_Eternal_Life.txt`, linhas 49401–73957 (par
 - **Commander of Justice** — golpe planejado (ainda não usado em combate) de caminho humano combinando Justice Gu com Soldier/Sergeant/Lieutenant Gu (cap. 2262).
 - **Forgotten Sorrow Gu** e golpes associados — removem/mitigam efeitos residuais de Everlasting Sorrow, um deles serve de defesa parcial contra o próprio golpe (cap. 2263).
 - **Cold Words / Shattered Words** — golpes de Old Immortal Hua Yu (rank 8, Profound Literature grotto-heaven): o primeiro gera gelo que desacelera estrelas caindo, o segundo as despedaça em fragmentos (cap. 2265).
+- **Change Soul Technique** — golpe de Ying Wu Xie (split soul de Spectral Soul Demon Venerable): troca de posição com uma besta de alma controlada no último instante para escapar da morte; comparável ao "switch soul in dream" de Fang Yuan, com prós e contras próprios (cap. 2270).
+- **Purple Will Production** — golpe de Fairy Zi Wei: teletransporte instantâneo de curto alcance via fumaça roxa; efeito colateral: acumula "vontade roxa" na mente que precisa ser "exterminada" antes de reutilizar o golpe (cap. 2270–2271).
+- **Destiny Song** — golpe secreto que Feng Jiu Ge vem cultivando durante seu desaparecimento: permite "ouvir" o destino/desfecho fadado de um alvo (habilidade de adivinhação/previsão) (cap. 2271).
+- **Golpe de sorte sem nome de Qin Ding Ling** — normalmente leva ~10 respirações; amplificado por ressonância ambiente a 1 hora contínua de ativação, ao custo de consumir sorte futura própria (risco de ajudar inimigos por acidente) (cap. 2270).
 
 ## G) Achados soltos
 
