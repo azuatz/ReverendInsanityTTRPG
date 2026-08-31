@@ -372,3 +372,12 @@ Tocados: `05 — Arsenal/🏯 Torres e Estradas de Prova.md` (nova), `05 —
 Arsenal/🗡️ Arsenal.md`, `_Processo/🧭 Log de Decisões.md` (decisão 145 +
 changelog), `00 — Portal/🗺️ Mapa do Vault.md` e `00 — Portal/📔 Dicionário do
 Sistema.md`.
+
+## [2026-08-31] schema | Arco da leitura integral encerrado
+[[🔖 Retomada — Leitura integral do romance]] reescrita de nota de "como retomar
+após falha" para registro histórico do arco completo: 18 digests, 3 frentes de
+síntese, 8/8 recomendações da Frente 3 implementadas (decisões 138-141, 144-145),
+mais o sistema de morte dos Gu pedido à parte (129) e as correções de fidelidade
+da outra sessão (142-143). Pendências abertas deliberadamente (Terra Abençoada,
+Aptidão populacional, candidato borderline do catálogo, aceleração de frequência
+de Calamidade) documentadas explicitamente na nota, não escondidas.
