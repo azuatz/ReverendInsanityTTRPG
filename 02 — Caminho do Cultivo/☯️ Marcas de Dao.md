@@ -56,16 +56,32 @@ Ele ganha **os Níveis de Dano** do nível superior — mas **não** o que depen
 
 ## Rank e Marcas: as duas travas
 
-Rank e Marcas se travam mutuamente — não dá pra correr num sem o outro.
+Rank e Marcas se travam mutuamente — não dá pra correr num sem o outro. **O teto é do TOTAL de Marcas, somando todos os Caminhos** (decisão 109): a Abertura é uma só, e é ela que comporta. Não existe "10.000 de Lua e mais 10.000 de Alma no rank 6" — existe 10.000 no total, divididos como as fontes renderam.
 
-| Rank | Essência Imortal | Faixa de Marcas sustentável | Se passar do teto |
+| Rank | Essência Imortal | Teto de Marcas (total) | Ao encher |
 |---|---|---|---|
-| 6 | Uva Verde | 0 – 9.999 | A Abertura não comporta: Marcas excedentes **corroem** (ver Retrocesso de Marca) |
-| 7 | Jujuba Vermelha | 10.000 – 99.999 | idem |
-| 8 | Lichia Branca | 100.000 – 299.999 | idem |
-| 9 — **Venerável** | Damasco Amarelo | 300.000+ | sem teto |
+| 6 | Uva Verde | **9.999** | Marcas novas **não grudam mais** — perdem-se. A Abertura está saturada e pronta pro salto |
+| 7 | Jujuba Vermelha | **99.999** | idem |
+| 8 | Lichia Branca | **299.999** | idem |
+| 9 — **Venerável** | Damasco Amarelo | **sem teto** | — |
 
-**Subir de rank** (6→7→8) exige as duas coisas ao mesmo tempo: atingir o piso de Marcas do rank seguinte **e** sobreviver às Calamidades e Provações daquele patamar (ver [[🪜 Ranks e Estágios|Ranks e Estágios]]). Acumular Marcas sem subir de rank é possível e comum — é o Imortal "denso", perigoso acima do que o rank dele sugere. O contrário não: ninguém sobe de rank com a contagem de Marcas do rank anterior.
+**Subir de rank** exige saturar o teto **e** ter sobrevivido às provações do patamar, e então vencer a **Provação de Avanço** — o procedimento completo, com o que acontece na conversão, está em [[🪜 Ranks e Estágios|Ranks e Estágios]] (decisão 108). Acumular densidade num Caminho só sem correr pro salto é possível e comum — é o Imortal "denso", perigoso acima do que o rank dele sugere.
+
+**Retrocesso de Marca** (a corrosão) não vem mais de "acumular demais" — no teto, o excesso simplesmente não gruda. Ele vem de **Marcas impressas à força** acima do teto: anexação de uma Abertura grande demais, Marca emprestada recebida no limite, Gu que gravam Marcas num cofre cheio. Aí sim: **1 Ferimento permanente por 1.000 Marcas forçadas**, até subir de rank ou expurgá-las.
+
+### De qual Caminho é cada Marca que entra
+
+Toda Marca pertence a um Caminho, definido pela **fonte** — não se escolhe depois, escolhe-se ao ganhar:
+
+| Fonte | Caminho da Marca |
+|---|---|
+| **Calamidade / Provação** | O jogador declara, entre os Caminhos que ele **usou de fato** pra sobreviver ao evento (na dúvida, o principal). Pode dividir o ganho entre eles |
+| **Terra Abençoada (passiva)** | O da **Sintonia** da terra — sempre (decisão 84) |
+| **Refinar Gu Imortal** | O Caminho do Gu refinado |
+| **Uso pesado em cena** | O Caminho que decidiu a cena |
+| **Anexação** | As Marcas vêm já com o Caminho da vítima — só as do Caminho que você cultiva grudam; o resto se perde |
+
+**Quem cultiva dois Caminhos** paga duas vezes: além do conflito (toda fonte rende **um terço a menos** por Caminho extra — item 5 abaixo), a divisão sai do **mesmo teto total**. O especialista enche o cofre com um Caminho só e é denso; o generalista divide o mesmo cofre e é raso em tudo — é exatamente por isso que a especialização é a norma canônica.
 
 ---
 
@@ -105,17 +121,17 @@ Um Imortal típico investe 3 a 4 Porções de Qi Terrestre, então entra no rank
 | **Calamidade das Dez Mil** *(rank 8+)* | a cada 100 anos internos | **10.000 – 15.000** | dobro |
 | **Calamidade do Caos** *(rank 9)* | a cada 100 anos internos | **30.000+** | dobro |
 
-**A frequência é contada no tempo interno da Terra Abençoada, não no do mundo.** Uma terra de fluxo 3× encontra a Calamidade Terrestre a cada ~3,3 anos de fora; uma de 0,5×, a cada 20. Ver [[🗝️ Terra Abençoada|Terra Abençoada]].
+**A frequência é contada no tempo interno da Terra Abençoada, não no do mundo.** Com a Dilatação Temporal (decisão 110), uma terra Comum (10×) encontra a Calamidade Terrestre a cada **~1 ano de fora**; uma Especial (40×), a cada **~3 meses**. Ver [[🗝️ Terra Abençoada|Terra Abençoada]].
 
-> **A conta que fecha com o cânone.** Rank 6 vai até 9.999 Marcas; rank 7 começa em 10.000. A ~350 Marcas por Calamidade Terrestre, são ~27 Calamidades — cerca de **270 anos de tempo interno** pra atravessar o rank 6. O cânone diz ~300 anos por salto de rank. Bate.
+> **A conta que fecha com o cânone.** O relógio do salto de rank é **interno**: ~30 Calamidades Terrestres + 3 Provações Celestiais ≈ **300 anos de tempo interno** pra atravessar o rank 6 — exatamente os "300 anos" canônicos. A Dilatação converte isso em calendário de campanha: um Imortal comum com terra Comum (10×) atravessa o rank 6 em **~30 anos externos**; com terra Boa (20×), em ~15.
 >
-> Um portador de Físico Extremo com terra Especial (3× tempo, dobro de Marcas) faz o mesmo trajeto em **~45 anos de tempo externo** — e enfrenta 27 Calamidades com +5 de CD em cada uma nesse período. É rápido porque é perigoso, não apesar disso.
+> Um portador de Físico Extremo com terra Especial (40–50×, dobro de Marcas e as mesmas provações num relógio 4× mais rápido) faz o trajeto em **~4 a 6 anos externos** — enfrentando uma Calamidade a cada ~3 meses de campanha, com +5 de CD em cada uma. É rápido porque é perigoso, não apesar disso.
 
 **Falhar numa Calamidade** não zera as Marcas: você simplesmente **não ganha as daquele evento**, leva o dano, e a Terra Abençoada ganha um Ferimento da Terra (ver [[🗝️ Terra Abençoada|Terra Abençoada]]) — o que desacelera tudo até ser reparado. É assim que uma sequência ruim custa décadas.
 
 ### Terra Abençoada como fonte passiva
 
-Uma Terra Abençoada desenvolvida gera Marcas devagar, sozinha, enquanto o Imortal cultiva dentro dela: **camada 2 rende ~50 Marcas/ano, camada 3 ~150/ano, camada 4 ~400/ano**, sempre do Caminho ao qual a terra está sintonizada. É o motivo pelo qual todo Imortal investe na própria terra em vez de só saquear — a terra trabalha enquanto ele dorme. Ver [[🗝️ Terra Abençoada|Terra Abençoada]].
+Uma Terra Abençoada desenvolvida gera Marcas devagar, sozinha, enquanto o Imortal cultiva dentro dela: **camada 2 rende ~50 Marcas por ano interno, camada 3 ~150, camada 4 ~400**, sempre do Caminho ao qual a terra está sintonizada. Com a Dilatação Temporal, isso satura a densidade de um rank 6 em poucos anos externos — e tudo bem: o gargalo do salto não são as Marcas, são as **provações sobrevividas** (decisão 108). É o motivo pelo qual todo Imortal investe na própria terra em vez de só saquear — a terra trabalha enquanto ele dorme. Ver [[🗝️ Terra Abençoada|Terra Abençoada]].
 
 ---
 
@@ -131,11 +147,26 @@ Um Imortal muito denso vive sob tempestade permanente, e é por isso que alguns 
 
 **3. Marcas não escondem.** Um Imortal com nível de domínio Mestre ou acima **não consegue se disfarçar** de rank inferior por meios normais — as Marcas vazam. Só um Gu Imortal específico de ocultação, caríssimo de manter, resolve isso.
 
-**4. Retrocesso de Marca.** Ultrapassar o teto de Marcas do próprio rank (tabela acima) faz as Marcas excedentes corroerem a Abertura: **1 Ferimento permanente por 1.000 Marcas de excesso**, e nenhuma Marca nova gruda até o personagem subir de rank ou perder as excedentes. É a armadilha clássica de quem acelera demais o cultivo sem consolidar o rank.
+**4. Retrocesso de Marca.** Marcas **impressas à força** acima do teto do rank (anexação grande demais, Marca emprestada no limite, Gu que gravam Marcas num cofre cheio) corroem a Abertura: **1 Ferimento permanente por 1.000 Marcas forçadas**, e nenhuma Marca nova gruda até subir de rank ou expurgá-las. Acúmulo natural não corrói — no teto, ele simplesmente para (ver "Rank e Marcas", acima).
 
 **5. Caminho duplo custa duas vezes.** Como já está em [[🛤️ Os Caminhos|Os Caminhos]], cada Caminho além do primeiro soma +50% ao custo de progressão de ambos — em Marcas, isso significa que toda fonte da tabela acima rende **um terço a menos** por Caminho extra que o personagem carrega.
 
 ---
+
+## 🏁 A corrida imortal — como se alcança quem nasceu na frente
+
+Um portador de Físico Extremo entra no rank 6 com o dobro de Marcas, terra Especial garantida e o dobro de rendimento por Calamidade. **Ele não é alcançado cultivando igual — é alcançado cultivando diferente**, e o próprio romance mostra as rotas (todas caras, todas com preço):
+
+| Rota | O que faz | O preço |
+|---|---|---|
+| **Herança verdadeira / Significado Verdadeiro** | Um legado condensado de compreensão transmite domínio direto: salta o personagem **um nível de domínio** no Caminho da herança (a regra do "gênio pobre" desta nota) e pode trazer Gu Imortais e receitas prontas | Achar, disputar e sobreviver à herança — ver [[🎲 Gerador de Heranças]] |
+| **Reinos de Sonho** | O acelerador canônico mais forte: explorar um reino de sonho rende Marcas e compreensão num ritmo impossível por cultivo normal — **um mês lá dentro vale o que anos valem fora** (trate cada exploração bem-sucedida como uma Calamidade Terrestre em Marcas, sem esperar o ciclo) | Perigo real a cada entrada, e sem método do Caminho dos Sonhos a alma fica lá |
+| **Gu que aceleram o avanço** | Gu de Marcas emprestadas, Gu que convertem provação em compreensão, Gu de tempo que aceleram refino e cultivo — a lista completa está em [[🚀 Gu de Avanço de Rank]] | Raros, caros, e quase todos consumíveis ou com contrapartida |
+| **Anexação** | Engolir a Abertura de outro Imortal: metade das Marcas dele no seu Caminho, a terra, os recursos | Exige Grão-Mestre, e é crime capital ortodoxo |
+| **Investir na terra** | Subir camada e fluxo de tempo da própria Terra Abençoada multiplica as Marcas passivas e a frequência de Calamidades — ver [[🗝️ Terra Abençoada]] | Décadas de gestão, e o céu cobra na mesma proporção |
+| **Cooperação em Calamidade** | Dois Imortais que atravessam provações juntos (pactos de socorro mútuo) falham menos e colhem mais — é o único desconto de risco que não custa Marca | O pacto é um Débito, e Débito entre Imortais dura séculos |
+
+> **Pro mestre desta mesa:** é assim que os outros três alcançam o Xie Lang depois da Ascensão. Ele avança sozinho, no automático da terra Especial — os outros avançam **caçando as rotas desta tabela**, que é onde estão as sessões. A paridade de relógio interno já foi medida (decisão 100); o que a mesa disputa é o calendário externo, e as rotas acima são o que o encurta.
 
 ## Na mesa
 

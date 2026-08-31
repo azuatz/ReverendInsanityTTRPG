@@ -19,7 +19,6 @@ O motor inteiro numa página só — **é isto que fica aberto na mesa durante o
 > 1. **`DANO = M d(dado do Caminho) + (M × B)`** — no bloco do motor, dentro da moldura dupla
 > 2. **`M por rank = 1 · 2 · 4 · 8 · 16 · 32 · 64 · 128 · 256`** — quantos dados se rola
 > 3. **[[#💠 O estágio numa linha|A tabela do estágio]]** — o que muda quando alguém sobe de estágio
-> 4. **[[#🎲 Médias do pool (dano sem rolar)|As médias do pool]]** — para resolver dano sem rolar 30 dados
 >
 > Cada bloco tem a nota que o explica na tabela **[[#📍 Onde está a explicação de cada bloco|no fim desta folha]]**.
 
@@ -38,11 +37,12 @@ Ferimento          = −5% permanente em Vitalidade E Alma máximas
 
 Defesa             = 10 + DES + rank + rank do Gu de movimento ativo
 Acerto melee       = d20 + FOR + (rank + 2) + treino
-Acerto à distância = d20 + DES + (rank + 2) + treino
 Acerto de Gu       = d20 + VON + (rank + 2) + rank do Gu + treino
+                     [não existem armas à distância mundanas — alcance é Gu]
 CD dos seus Gu     = 10 + VON + rank do Gu   [+2 se o Caminho for d6]
                      → 65% de acerto entre iguais com Gu dos dois lados
-Ordem de turno     = por DES, e o Grau desempata
+Iniciativa         = d20 + DES, rolada no início do combate
+Crítico            = 20 natural: acerta sempre e rola 2 × M dados (B não dobra)
 
 ╔═══════════════════════════════════════════════════════════════╗
 ║  DANO = M d(dado do Caminho)  +  (M × B)                      ║
@@ -68,8 +68,8 @@ DADO POR CAMINHO
        Alimentação · Refino                 → +2 na CD; ignora regras de combate
   (Sombras vira d12 contra quem não sabe onde você está)
 
-ROLAGEM RÁPIDA      1–8 dados: role tudo · 9–24: role 8 + média do resto
-                    25+: só a média.  Médias: d6 3,5 · d8 4,5 · d10 5,5 · d12 6,5
+DANO SEMPRE ROLADO  Sem média, sem dano fixo — pools grandes rolam em punhados
+                    ou num rolador digital
 
 Custo de ativação  = 40 (rank próprio) · 10 · 4 · 1
 Modificador de Caminho: Sangue/Carne/Osso ×0,5 · elementais ×1
@@ -77,7 +77,8 @@ Modificador de Caminho: Sangue/Carne/Osso ×0,5 · elementais ×1
                         · Tempo/Espaço/Sonho/Leis ×1,5
 Manutenção de Sustentação = (nº de Gu sustentados)² × 5 por rodada
                             [Gu em Vaga de Suporte ficam FORA dessa conta]
-Teto de regeneração       = 100/rodada (150 favorável · 200 ideal · 50 hostil)
+Essência em combate       = NÃO regenera (só Físico Extremo: 10% do tanque,
+                            teto 100/rodada · 150 favorável · 200 ideal · 50 hostil)
 
 Gu carregados      = (% ÷ 10) + rank        Gu ativos = CON + rank
 Vagas de Suporte   = B (só Gu passivos de utilidade/movimento/sentidos)
@@ -86,30 +87,15 @@ Golpes registrados = AST + 1                Aliados = CAR + 1
 Pontos de Plano    = 2 + maior(AST, CAR)
 ```
 
-## 🎲 Médias do pool (dano sem rolar)
-
-Some `M × B` depois de consultar.
-
-| M | Rank | **d6** | **d8** | **d10** | **d12** |
-|---|---|---|---|---|---|
-| 1 | 1 | 4 | 5 | 6 | 7 |
-| 2 | 2 | 7 | 9 | 11 | 13 |
-| 4 | 3 | 14 | 18 | 22 | 26 |
-| 8 | 4 | 28 | 36 | 44 | 52 |
-| 16 | 5 | 56 | 72 | 88 | 104 |
-| 32 | 6 | 112 | 144 | 176 | 208 |
-| 64 | 7 | 224 | 288 | 352 | 416 |
-| 128 | 8 | 448 | 576 | 704 | 832 |
-| 256 | 9 | 896 | 1.152 | 1.408 | 1.664 |
 
 ## 💠 O estágio numa linha
 
-| Estágio | B   | Dano    | VIT   | Alma | Suporte | Combo | Desbloqueio                               |
-| ------- | --- | ------- | ----- | ---- | ------- | ----- | ----------------------------------------- |
-| Inicial | 0   | —       | base  | base | 0       | 2     | —                                         |
-| Médio   | 1   | +1/dado | +4×M  | +3×M | 1       | 3     | +1 resistência e ordem                    |
-| Alto    | 2   | +2/dado | +8×M  | +6×M | 2       | 4     | +2 · 1 ativação/cena pela metade          |
-| Pico    | 3   | +3/dado | +12×M | +9×M | 3       | 5     | +3 · 1ª ativação grátis · **ignora ½ RD** |
+| Estágio | B   | Dano    | VIT   | Alma | Suporte | Combo |
+| ------- | --- | ------- | ----- | ---- | ------- | ----- |
+| Inicial | 0   | —       | base  | base | 0       | 2     |
+| Médio   | 1   | +1/dado | +4×M  | +3×M | 1       | 3     |
+| Alto    | 2   | +2/dado | +8×M  | +6×M | 2       | 4     |
+| Pico    | 3   | +3/dado | +12×M | +9×M | 3       | 5     |
 
 ## ☯️ Depois do rank 6, o domínio ocupa o lugar do estágio
 
@@ -126,16 +112,17 @@ CALAMIDADE / PROVAÇÃO
   CD de cada etapa  = 14 + 2 × (rank − 6) + faixa do Contador (+1/+2/+3/+5)
                       +2 se for Provação Celestial ou acima
   Reduções          = −2 por presságio respondido (numa etapa só)
-                      −2 terra Inabalável · −3 Gu de Estabilização
+                      −2 terra Inabalável · −3 Gu da Âncora dos Três Ares
   Marcas            = proporcionais aos sucessos
   Não passar da maioria = 0 Marcas + 1 Ferimento + 1 Ferimento da Terra
 
 SABEDORIA         = 5% da Alma máxima por ativação (não gasta Essência)
 SORTE             = desvia ou devolve uma Ficha de Azar; +1 no Contador por uso
 
-MERCADO MORTAL    Disponibilidade = d20 + lugar (−4 vila · 0 clã · +4 capital · +2 negro)
-                  vs CD 8 · 12 · 16 · 20 por rank 1 · 2 · 3 · 4
-                  Venda = 40% da tabela
+MERCADO MORTAL    Disponibilidade = d20 + lugar (−4 vila · 0 clã · +4 capital
+                  · +6 metrópole · +2 negro) vs CD 8 · 12 · 16 · 20 · 24 (rank 1–5)
+                  Preço ≈ 500 · 500–1k · 1k–10k · 10k–100k · 100k–1M (rank 1–5)
+                  Venda = 40% da tabela · Gu raro: só leilão
 CÉU AMARELO       Balcão = 60%, sem teste · Leilão = 60% a 300% (1d6)
   (rank 6+)       Encomenda = 100% + 10% · Monopólio = ×2
                   Anonimato = d20 + CAR + treino vs CD 10 + Assinatura
@@ -166,7 +153,7 @@ As fórmulas acima estão fechadas de propósito — sem exceções, sem casos d
 | Vitalidade, Alma, Ferimento, cura, Teste de Morte | [[❤️ Recursos e Dano]] |
 | Defesa, Acerto, CD, ordem de turno | [[⚔️ Combate]] |
 | A caixa do **dano**, M, B, Níveis de Dano, RD, rolagem rápida | [[⚔️ Combate]] |
-| Médias do pool, dano melee, armas | [[⚔️ Combate]] |
+| Dano melee, armas | [[⚔️ Combate]] |
 | **Dado por Caminho** — por que Alma é d12 e Terra é d6 | [[🛤️ Os Caminhos]] |
 | Essência, custo de ativação, manutenção, regeneração | [[🪜 Ranks e Estágios]] |
 | A tabela do **estágio**, Gu carregados e ativos, Vagas de Suporte | [[🪜 Ranks e Estágios]] |

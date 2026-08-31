@@ -105,15 +105,14 @@ Além de nunca morrer num combo-refino falho, o Gu Vital tem duas proteções a 
 
 ## Preços de referência (em Pedras Primordiais)
 
-| Gu | Preço |
+| Gu | Preço *(decisão 113 — escala canônica)* |
 |---|---|
-| Rank 1 | Algumas a dezenas |
-| Rank 2 | Dezenas a centenas |
-| Rank 2, raríssimo (tipo Relíquia) | Milhares — supera um Gu comum de rank 3 |
-| Rank 3 | Centenas |
-| Rank 3, raríssimo | Dezenas de milhares |
-| Rank 4 | Milhares a dezenas de milhares |
-| Rank 5 | Sem mercado — quem tem, não vende |
-| Rank 6+ (Imortal) | Preço astronômico, cotado em Pedras de Essência Imortal, não em Pedras comuns |
+| Rank 1 | **~500** *(300 – 800)* |
+| Rank 2 | **500 – 1.000** |
+| Rank 3 | **1.000 – 10.000** |
+| Rank 4 | **10.000 – 100.000** |
+| Rank 5 | **100.000 – 1.000.000** — só em metrópole |
+| Raro que acelera cultivo, Relíquias | Fora da faixa: ×3 a ×10, ou tabela própria ([[🏪 O Mercado]]) — e só leilão |
+| Rank 6+ (Imortal) | **Nunca vendido em mercado comum** — só no [[🏪 Céu Amarelo do Tesouro]], cotado em Essência Imortal |
 
 Ver [[💠 Economia das Pedras Primordiais|Economia das Pedras Primordiais]] pra como isso se converte em despesa de mesa.

@@ -109,7 +109,12 @@ Depois da Ascensão, "avançar" não é subir de rank — é **acumular Marcas d
 
 ### A via de avanço de cada Caminho
 
-Cada Caminho rende Marcas mais rápido fazendo uma coisa específica. É a "lição de casa" daquele Dao — o tipo de cena que faz o personagem crescer. Fazer o que o Caminho pede rende **o dobro** de Marcas naquela cena; um arco inteiro dedicado à via do Caminho pode render um salto de nível de domínio.
+Cada Caminho tem uma "lição de casa" — o tipo de feito que aprofunda aquele Dao de verdade. Mecanicamente, cumprir a via faz **exatamente duas coisas**, e nada além delas:
+
+1. **Na cena:** a fonte "uso pesado" ([[☯️ Marcas de Dao|Marcas de Dao]]) rende **o dobro** — 2 Marcas em vez de 1 na cena em que o feito da via aconteceu.
+2. **Na provação:** se o personagem cumpriu a via de forma marcante desde a última cobrança do céu, a **próxima Calamidade ou Provação rende +50% de Marcas** (uma vez por ciclo, não acumula). O céu recompensa quem viveu o próprio Dao antes de ser testado nele.
+
+É isso que "rende Marca em dobro" significa — **não** existe chuva de Marcas por ação: ações continuam rendendo quase nada sozinhas; a via só turbina as duas fontes que já existem. Um arco inteiro dedicado à via (feito na cena + bônus na Calamidade seguinte + Marcas passivas da terra) é o que pode somar um salto de nível de domínio.
 
 | Caminho | A via — o que rende Marca em dobro |
 |---|---|

@@ -101,19 +101,13 @@ Manutenção de Sustentação = (número de Gu sustentados)² × 5 de essência 
 
 Isso é **somado** aos custos individuais dos Gu. Um personagem com quatro Gu sustentados paga 80 de Sustentação mais o que cada um cobra separadamente.
 
-### A regeneração base
+### A regeneração — fora de combate, salvo o Físico Extremo
 
-Todo cultivador recupera essência em combate, e a conta é a Aptidão dele:
-
-```
-Regeneração em combate = (sua % de Abertura ÷ 10) por rodada, arredondado pra baixo.
-```
-
-São 2 a 9 por rodada na faixa jogável — **um quarto de ativação, no melhor caso.** Não sustenta uma luta; encurta a conta de quantas rodadas o tanque dura. Ver [[🌟 Aptidão e Abertura|Aptidão e Abertura]] pra tabela por grau. Um [[🌠 Os Dez Físicos Extremos|Físico Extremo]] usa outra conta inteiramente (10% do tanque), e é essa a diferença que se sente na mesa.
+**Essência não regenera durante o combate** (decisão 107). O que se recupera, recupera-se entre cenas: `% de Abertura ÷ 10` por minuto de descanso — ver [[🌟 Aptidão e Abertura|Aptidão e Abertura]]. A **única** fonte de essência dentro de uma luta é o [[🌠 Os Dez Físicos Extremos|Físico Extremo]] (10% do tanque por rodada), e é exatamente essa exclusividade que faz dele outra categoria de coisa.
 
 ### O teto de regeneração
 
-Nenhuma fonte de regeneração de essência devolve mais do que isto por rodada, **independente da conta que a produziu**:
+Vale pra qualquer efeito que devolva essência em combate (na prática, o Físico Extremo e raros Gu). Nenhuma fonte devolve mais do que isto por rodada, **independente da conta que a produziu**:
 
 | Condição | Teto por rodada |
 |---|---|

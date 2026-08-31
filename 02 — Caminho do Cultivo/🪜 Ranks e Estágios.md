@@ -34,12 +34,14 @@ O estágio não é uma barra que enche — é **qualidade de combustível**. Cad
 
 ### A tabela mestre do estágio
 
-| Estágio | **Grau (B)** | **Dano** | **Vitalidade** | **Alma** | **Vagas de Suporte** | **Teto de Combo** | Desbloqueio |
-|---|---|---|---|---|---|---|---|
-| **Inicial** | **0** | — | base | base | 0 | 2 Gu | — |
-| **Médio** | **1** | **+1 por dado** | **+4 × M** | **+3 × M** | +1 | 3 Gu | +1 em resistência e na ordem de turno |
-| **Alto** | **2** | **+2 por dado** | **+8 × M** | **+6 × M** | +2 | 4 Gu | +2 em resistência e ordem · 1 ativação por cena **pela metade** |
-| **Pico** | **3** | **+3 por dado** | **+12 × M** | **+9 × M** | +3 | 5 Gu | +3 em resistência e ordem · 1ª ativação de cada combate **de graça** · **ignora metade da RD do alvo** |
+| Estágio | **Grau (B)** | **Dano** | **Vitalidade** | **Alma** | **Vagas de Suporte** | **Teto de Combo** |
+|---|---|---|---|---|---|---|
+| **Inicial** | **0** | — | base | base | 0 | 2 Gu |
+| **Médio** | **1** | **+1 por dado** | **+4 × M** | **+3 × M** | +1 | 3 Gu |
+| **Alto** | **2** | **+2 por dado** | **+8 × M** | **+6 × M** | +2 | 4 Gu |
+| **Pico** | **3** | **+3 por dado** | **+12 × M** | **+9 × M** | +3 | 5 Gu |
+
+> Os "desbloqueios" extras por estágio (bônus em resistência e ordem de turno, ativações com desconto, Pico ignorar ½ RD) **foram removidos** (decisão 106): eram mais coisa pra lembrar do que efeito que se sentia, e a iniciativa agora é rolada. O estágio dá exatamente o que está na tabela acima, nada além.
 
 **Reserva de essência:** continua dobrando a cada estágio (`% × 4 × 2^(estágio−1)`) — ela não é mais a atração principal, mas é o que paga os Golpes Matadores grandes que o Teto de Combo destrava.
 
@@ -139,7 +141,7 @@ Teste de Ruptura = 1d20 + bônus de Aptidão vs. CD do salto
 
 **Falha crítica (1 natural):** a Abertura racha feio. O jogador escolhe: perde o estágio mais recente conquistado (regride dentro do rank atual), **ou** −1 permanente num atributo — mesma escolha do Teste de Morte, pra manter o jogo consistente sobre o que "falha catastrófica" custa.
 
-Um Gu de Relíquia (consumível raríssimo) ou uma dose absurda de Pedras Primordiais ainda resolvem isso sem teste, como sempre — a Quebra de Paredes é o caminho padrão, não o único.
+Um **Gu Relíquia** avança um **estágio** na hora, sem teste — mas **não salta rank** (ver [[🚀 Gu de Avanço de Rank]]). Pro salto de rank não existe compra limpa: uma dose absurda de Pedras Primordiais infundida na ruptura concede **vantagem e +2** no Teste de Ruptura, e é o máximo que dinheiro faz aqui.
 
 ## A Ascensão Imortal (rank 5 → 6)
 
@@ -158,11 +160,21 @@ Chegar ao rank 5 Pico **não** dá direito de tentar. É preciso passar por um d
 | 8 | Oitavo Giro | Lichia Branca (100 Jujubas = 1) | 100.000 – 299.999 | + Calamidade das Dez Mil Calamidades (100 em 100 anos) |
 | 9 | Nono Giro — **Venerável** | Damasco Amarelo (1 = 1.000.000 de Pedras Primordiais) | 300.000+ | Calamidade do Caos (a cada 100 anos) — quem morre por ela não pode ser ressuscitado |
 
-**Subir de rank 6→7→8 exige as duas coisas ao mesmo tempo:** atingir o piso de Marcas do rank seguinte **e** ter sobrevivido às Calamidades e Provações daquele patamar (tipicamente ~300 anos de calendário por salto). Nenhuma das duas sozinha basta.
+### ⬆️ Como se sobe de rank depois da imortalidade *(decisão 108 — calibrado pelo cânone)*
 
-O caso interessante é o contrário: **acumular Marcas sem subir de rank é possível, comum e perigoso**. É o Imortal "denso" — rank 6 com 9.000 Marcas num Caminho só, que despacha um rank 7 recém-ascendido sem dificuldade, porque os Níveis de Dano que as Marcas dão superam a diferença de M. Passar do teto de Marcas do próprio rank, porém, corrói a Abertura (Retrocesso de Marca — ver [[☯️ Marcas de Dao|Marcas de Dao]]).
+Não é automático, não é ritual comprado e não exige Gu específico. O salto tem **três condições e um evento**, nesta ordem:
 
-A mesa decide o ritmo real da campanha; os ~300 anos são o teto teórico do mundo, não obrigação de jogar 300 anos por sessão.
+1. **Saturar o teto de Marcas do rank atual** — a Abertura "cheia" (9.999 no rank 6; 99.999 no rank 7). No teto, Marcas novas simplesmente não grudam mais: o cofre não fecha mais nada até ser trocado por um maior.
+2. **Ter sobrevivido às provações do patamar:** **3 Provações Celestiais** para 6→7 · **3 Grandes Calamidades** para 7→8 · as **quatro condições de Venerável** para 8→9 (ver abaixo). É a régua canônica: dentro de um rank, o que mede um Imortal é quantas provações ele já atravessou — dá tipicamente ~300 anos de tempo interno por salto, menos pra quem acelera o fluxo da própria terra.
+3. **Declarar a tentativa.** O céu responde na hora com a **Provação de Avanço**: uma Calamidade sob medida, nas 5 etapas completas de [[🌩️ Calamidades e Provações]], com a **CD do rank seguinte +2**. Preparação vale como sempre (presságios, terra Inabalável, Gu de Estabilização).
+
+**Sucesso:** a Abertura converte. A essência muda de grau (a reserva de Uvas Verdes vira Jujubas a 100:1), o **teto de Marcas expande** pro patamar seguinte, as Marcas do próprio evento entram — é por isso que **todo rank 7 recém-convertido carrega ~10.000 Marcas**: o teto cheio do rank 6 mais o que a Provação de Avanço rendeu. No salto pro rank 8, a Terra Abençoada se transforma qualitativamente em **Gruta-Céu** (grotto-heaven — canônico).
+
+**Falha:** sem avanço. 1 Ferimento, 1 Ferimento da Terra, e a próxima janela só abre depois de mais um ciclo de provação do patamar (~100 anos internos). Falhar duas Provações de Avanço seguidas marca o Imortal como **Estagnado** — o mundo inteiro passa a saber que ele bateu no teto.
+
+> **O caso que confunde à primeira leitura:** um rank 6 "denso", com 9.000+ Marcas num Caminho só, **despacha um rank 7 recém-convertido com poucas Marcas naquele Caminho** — os Níveis de Dano que a densidade dá superam a diferença de M. Não há contradição: o rank 7 novo tem ~10.000 Marcas *somadas*, mas se estão espalhadas (ou se o Caminho relevante não é o dele), a densidade *naquele* confronto é menor. Rank diz o que se ativa; densidade de Marca no Caminho certo diz o quanto dói.
+
+A mesa decide o ritmo real da campanha; os ~300 anos internos são o relógio do mundo, não obrigação de jogar 300 anos por sessão.
 
 ### A hierarquia da Essência Imortal
 

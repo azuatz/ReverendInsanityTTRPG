@@ -24,25 +24,19 @@ A Aptidão decide o tamanho da Abertura de um personagem — a % usada na fórmu
 
 Aptidão não é só o teto — também afeta a **velocidade de recuperação de essência** e quanto custa refinar um Gu (ver [[🧩 Refino e Precificação|Refino e Precificação]]).
 
-### A regeneração base — quanto um cultivador normal recupera por rodada
+### A regeneração — só fora de combate (exceto o Físico Extremo)
+
+**Durante um combate, a Essência não regenera** (decisão 107). O tanque com que você entrou na luta é o tanque da luta inteira — cada ativação é uma decisão, e ficar seco no meio da cena é um dos jeitos clássicos de morrer neste mundo. Pedra Primordial também não repõe essência em combate ([[💠 Economia das Pedras Primordiais]]).
+
+**A única exceção é o [[🌠 Os Dez Físicos Extremos|Físico Extremo]]:** ele recupera **10% da Essência máxima por rodada** (sujeito ao teto de regeneração), e essa torneira aberta — que ninguém mais tem — é a diferença que se sente em toda cena de combate. É a identidade mecânica do físico inteiro.
+
+**Fora de combate**, a Aptidão dita a velocidade de recuperação:
 
 ```
-Regeneração em combate = (sua % de Abertura ÷ 10), arredondado pra baixo,
-                         por rodada, sem gastar ação.
-Sujeita ao teto de regeneração (ver Arquitetura do Sistema).
+Recuperação em descanso = (sua % de Abertura ÷ 10) por minuto
 ```
 
-| Grau | % | Regeneração por rodada |
-|---|---|---|
-| **D** | 20–39% | **2 a 3** |
-| **C** | 40–59% | **4 a 5** |
-| **B** | 60–79% | **6 a 7** |
-| **A** | 80–99% | **8 a 9** |
-| **Físico Extremo** | 100% | **10% do tanque** — outra ordem de grandeza, ver abaixo |
-
-**Isto não sustenta combate nenhum, e é de propósito.** Uma ativação do seu próprio rank custa 40; um Grau A recupera 9 por rodada, ou seja **um quarto de ativação**. O tanque continua sendo um recurso que acaba, e o que a Aptidão compra é quantas rodadas você aguenta antes disso — não imunidade à conta. A diferença entre Grau D e Grau A ao longo de uma luta de seis rodadas é ~36 de essência, quase uma ativação inteira: sensível, não decisivo.
-
-**É por isso que o Físico Extremo é outra categoria.** Ele não regenera 10 por rodada, regenera **10% do tanque** — 40 no rank 1 inicial com 100% de Abertura. Quatro vezes o melhor Grau A da mesa, e é essa diferença, não o teto de rank, que se sente em toda cena de combate.
+Um Grau A (90%) enche um tanque de 360 em ~40 minutos de respiração tranquila; um Grau D leva mais que o dobro. Na prática de mesa: **entre uma cena e outra, todo mundo volta cheio; no meio de uma sequência apertada de cenas, quem tem Aptidão alta se recupera e quem não tem entra pela metade.**
 
 ## 🌍 A distribuição do mundo — e por que ela NÃO é a rolagem de criação
 

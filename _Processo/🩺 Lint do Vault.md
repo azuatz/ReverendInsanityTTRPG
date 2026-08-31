@@ -210,3 +210,60 @@ diz "o Grau desempata" sem dizer qual); e "frio Yin" sem uma palavra de ponte.
 
 **Verbetes mortos: nenhum.** Os 47 verbetes foram conferidos por grep contra as
 pastas 01–06 e todos apontam para regra viva.
+
+### D. Contradição regra × [[🧭 Log de Decisões]]
+
+A auditoria mais pesada do lote: o contrato inteiro contra as ~45 notas de regra.
+**40 achados** — 28 contradições confirmadas, 4 suspeitas, 8 cosméticos.
+
+> [!danger] Achado Zero — o Log está desatualizado, e isso bloqueia todo o resto
+> As notas de regra citam as **decisões 103 a 111**, que **não existem no
+> [[🧭 Log de Decisões]]**. Elas revogam em silêncio as decisões **16, 18, 21,
+> 65, 77 e 80** — ou seja, alguém decidiu, escreveu nas notas e nunca registrou
+> no contrato.
+>
+> Consequência prática: **enquanto o Log não for atualizado, aplicar qualquer
+> correção de combate deste relatório é editar contra um alvo em movimento** —
+> não dá para saber se uma divergência é erro da nota ou decisão nova não
+> registrada. Este item vem antes de todos os outros, e antes da Frente 1 do
+> [[🗺️ Plano de Ingest — Feedback 2026-08-30]].
+
+**Achados de estrutura do catálogo e das formações:**
+
+- **O [[📜 Livro de Receitas de Gu]] não cobre ~25 Gu.** A decisão 101 manda
+  registrar a origem de **cada** entrada, mas o Catálogo mortal tem 335 entradas
+  contra 325 do Livro. Ficaram sem entrada os **cinco Gu de rank 1 do Wu Xing
+  melee** (Brasa no Punho, Punho de Seixo, Raiz Perfurante, Açoite de Água, Unha
+  de Bronze) e o **Gu da Essência de Sangue** — que aparece só como *ingrediente*
+  (`📜 Livro de Receitas:41,237`), apesar de a decisão 101 dizer que foi criado
+  na mesma rodada. A Regra de Linhagem (`:53-61`) cobre os ranks 2–5, mas não os
+  de rank 1 (não há rank anterior para duplicar). **Impacto:** é exatamente a
+  pergunta que a nota-mãe promete responder (`🪱 Gu.md:25`), e o rank 1 é onde a
+  decisão 24 obriga todo mundo a começar. São ~6 linhas de conserto.
+- **O Domínio de Formações tem requisito impossível.** `🔷 Formações de Gu:130`
+  exige "rank 6+ **e** nível Mestre (10.000+ Marcas)", mas `☯️ Marcas de Dao:110`
+  diz que "rank 6 vai até 9.999; rank 7 começa em 10.000". Um rank 6 **nunca**
+  qualifica — a regra se anuncia para um rank que não pode usá-la. Cruza direto
+  com a "contradição de piso" da Frente 6 do Plano de Ingest. **Precisa do
+  autor:** o requisito vira "rank 7+" ou cai para Pequeno Feito?
+
+**Cosméticos da pasta 03:** a **Lua sumiu da lista d8** no `📖 Catálogo:35` e no
+`🗂️ Índice:20` (a decisão 78 a inclui; o Índice nem tem seção "Lua", arquivando-a
+sob Luz — o mesmo problema que a decisão 95 já apontou); "Alimentação" da decisão
+78 virou seção **"Comida"** no Índice; **linha corrompida** em `📖 Catálogo:321`
+(Gu Explosão Cerebral, crase mal fechada e resíduo v1: `` 1d12+`8d10` ``); e
+[[🗺️ Supressão Regional]]`:23` diz que "Gu de rank 1 simplesmente não funcionam"
+fora da região — extrapolação da decisão 35 (que só diz "1 rank abaixo") aplicada
+justamente ao rank em que todo grupo começa. *(Este último é o mesmo desvio que a
+auditoria de canonicidade pegou pelo outro lado.)*
+
+**Conferidos e corretos:** a contagem de **449 Gu** bate por seção
+(59+66+48+50+12+24+21+62+34+26+25+10+12) e as três notas que citam o número
+concordam; a tabela de M e a **Manutenção quadrática** (45/180/605/2.000 = `nº² × 5`)
+conferem em todos os pontos amostrados; a conversão do Catálogo para v2 (decisão
+102) foi de fato feita — os resíduos v1 são só três conjuntos localizados. A
+oscilação de nomes de estágio existe em `01` e `02`, **não** na pasta 03.
+
+**Limite declarado da cobertura:** não houve varredura entrada-por-entrada das
+449 linhas atrás de erro aritmético de pool individual (~60 amostradas, todas
+corretas), nem verificação dos 587 links `Onde` do Índice.

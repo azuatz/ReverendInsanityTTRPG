@@ -12,17 +12,18 @@ escopo: sistema
 
 O que dá pra comprar nos ranks 1 a 5, quanto custa, e as quatro maneiras de pôr um Gu novo na Abertura. A versão imortal disto é o [[🏪 Céu Amarelo do Tesouro]], que só abre no rank 6.
 
-> **Não existe loja de Gu.** Existe um refinador que talvez tenha o que você quer, uma caravana que passa duas vezes por ano, um leilão a cada poucos meses e alguém no beco que não pergunta de onde veio. Se o grupo precisa de um Gu específico com urgência, a resposta quase sempre é **refinar ou caçar**, não comprar.
+> **Lojas de Gu existem — como em Reverend Insanity** (decisão 113). Uma vila tem no máximo um refinador velho com meia dúzia de Gu de rank 1; uma cidade grande tem lojas de verdade; e uma **metrópole** ([[🏙️ Metrópoles — Centros, Tokens e Arena]]) vende **até rank 5 nos centros internos**. O que loja nenhuma tem é o Gu **raro** — esse só aparece em **leilão**. E comprar continua sendo a mais fraca das quatro vias: a loja vende o que o mercado tem, não o que você quer.
 
 ---
 
 ## Onde se compra
 
-| Lugar | Modificador de Disponibilidade | O que tem |
+| Lugar | Modificador de Disponibilidade | O que as lojas têm |
 |---|---|---|
-| **Vila ou aldeia** | **−4** | Rank 1, e olhe lá. Um refinador velho, sem estoque |
-| **Cidade de clã** | **0** | Rank 1–2 com folga, rank 3 se o clã for grande |
-| **Capital regional** | **+4** | Até rank 4, e um leilão de verdade |
+| **Vila ou aldeia** | **−4** | Rank 1, e olhe lá — um refinador, sem estoque |
+| **Cidade média / cidade de clã** | **0** | Rank 1–2 com folga; rank 3 raro |
+| **Cidade grande / capital regional** | **+4** | Rank 1–3 com folga; rank 4 raro; leilão periódico |
+| **Metrópole** *(centros — ver [[🏙️ Metrópoles — Centros, Tokens e Arena\|Metrópoles]])* | **+6** | **Até rank 5**, escalonado por centro; leilões grandes; Gu raros exigem token |
 | **Mercado negro** | **+2** | Qualquer coisa — e **role sempre a Proveniência** |
 | **Caravana de passagem** | **+2**, uma vez por arco | Sortido e imprevisível. Some em três dias |
 
@@ -38,29 +39,43 @@ d20 + modificador do lugar   vs   CD do rank procurado
 | **2** | 12 |
 | **3** | 16 |
 | **4** | 20 |
-| **5** | **Não tem preço.** Quem tem um Gu de rank 5 não vende — troca por outro rank 5, ou por algo que não é dinheiro |
+| **5** | **24** — só em metrópole (1º e 2º centros), e todo Gu de rank 5 à venda é um evento comentado |
 
 **Role uma vez por arco, por tipo de Gu procurado — não por visita.** Se o grupo puder rerrolar toda vez que passar pela cidade, a Disponibilidade deixa de existir e o mercado vira catálogo.
 
 **Falha não é "não tem".** É *"não tem agora"*, e o mestre diz o que **tem** no lugar: um Gu do rank certo mas do Caminho errado, um do Caminho certo mas de um rank abaixo, ou o nome de quem tem.
 
+**Gu raro não passa por loja.** Gu que aceleram cultivo, Gu Relíquia acima do cobre, Gu de receita perdida, Gu de Caminhos raros: **só leilão** ([[🏙️ Metrópoles — Centros, Tokens e Arena|Casa de Leilões]]), e alguns só para portadores de token.
+
 ---
 
-## Preços
+## Preços *(decisão 113 — escala canônica)*
 
-Em Pedras Primordiais ([[💠 Economia das Pedras Primordiais]]). Estes números são a versão fechada da tabela de referência em [[🧩 Refino e Precificação]].
+Em Pedras Primordiais ([[💠 Economia das Pedras Primordiais]]). A tabela de [[🧩 Refino e Precificação]] segue esta.
 
 | Item | Preço |
 |---|---|
-| **Gu de rank 1** | **10 – 40** |
-| **Gu de rank 2** | **80 – 300** |
-| **Gu de rank 2 raríssimo** *(Relíquia e afins)* | **2.000+** — passa um rank 3 comum |
-| **Gu de rank 3** | **400 – 1.500** |
-| **Gu de rank 3 raríssimo** | **20.000+** |
-| **Gu de rank 4** | **5.000 – 30.000** |
-| **Gu de rank 5** | Sem mercado |
+| **Gu de rank 1** | **~500** *(300 – 800)* |
+| **Gu de rank 2** | **500 – 1.000** |
+| **Gu de rank 3** | **1.000 – 10.000** |
+| **Gu de rank 4** | **10.000 – 100.000** |
+| **Gu de rank 5** | **100.000 – 1.000.000** |
+| **Gu de rank 6+ (Imortal)** | **Nunca foi vendido em mercado comum.** Só no [[🏪 Céu Amarelo do Tesouro]], cotado em Essência Imortal |
+| **Gu raro que acelera cultivo** | **×3 a ×10** sobre a faixa do rank — e só leilão |
 
-Para escala: uma família comum de três pessoas vive com **1 Pedra por mês**. Um Gu de rank 1 custa o sustento de um ano dessa família — é por isso que cultivar é privilégio de clã, e é por isso que um camponês que acha um Gu selvagem muda de vida ou morre por causa dele.
+### Os Gu Relíquia — a exceção com tabela própria
+
+Consumíveis da era antiga que empurram o cultivo um estágio (ver [[🚀 Gu de Avanço de Rank]]). Cinco cores canônicas, e os preços fogem da faixa do rank:
+
+| Relíquia | Rank | Preço |
+|---|---|---|
+| **Cobre Verde** | 1 | **2.000** |
+| **Aço Vermelho** | 2 | **8.000** |
+| **Prata Branca** | 3 | **50.000** |
+| **Ouro Amarelo** | 4 | **300.000** |
+| **Cristal Roxo** | 5 | **Sem mercado** — monopolizado pelas grandes organizações (📕 canônico) |
+
+Para escala: uma família comum de três pessoas vive com **1 Pedra por mês**, e a mesada de clã de um rank 1 é 40/mês. Um Gu de rank 1 custa **um ano de mesada** — é por isso que quase nenhum Gu de mesa é *comprado*: ele é dado pelo clã, caçado, refinado ou saqueado, e a loja existe pra quem enriqueceu por fora ([[🏙️ Metrópoles — Centros, Tokens e Arena|arena]], missões, espólio).
 
 ### Equipamento
 

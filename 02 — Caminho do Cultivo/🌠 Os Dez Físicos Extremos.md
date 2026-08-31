@@ -241,7 +241,7 @@ A cada falha na contagem regressiva, o Yin avança sobre o que resta de vivo:
 
 #### Na Ascensão — a Abertura de Noite Eterna
 
-Como todo Físico Extremo, ele sai da Ascensão com **Terra Abençoada de qualidade Especial garantida** (3× de fluxo de tempo, 1.200 UV, 30% de regeneração ao dia). Mas a dele tem uma natureza própria:
+Como todo Físico Extremo, ele sai da Ascensão com **Terra Abençoada de qualidade Especial garantida** (fluxo de tempo **40×, até 50×** — decisão 110; 1.200 UV, 30% de regeneração ao dia interno). Mas a dele tem uma natureza própria:
 
 > **Noite Eterna.** O céu da Terra Abençoada nunca clareia. Lua permanente, sempre cheia.
 
@@ -255,7 +255,7 @@ Como todo Físico Extremo, ele sai da Ascensão com **Terra Abençoada de qualid
 
 **Marcas de Dao iniciais:** o dobro do normal (1.600 a 1.800), e você as **divide entre Lua e Alma como quiser** na hora da Ascensão. Um portador que joga tudo em Lua entra no rank 6 já em Pequeno Feito; um que divide entra em Vislumbre nos dois, com o benefício de que as duas contagens somam pro nível de domínio de ambas.
 
-**Calamidades:** +5 de CD como todo Físico Extremo — mas o fluxo 3× da terra Especial significa que elas vêm a cada **~3,3 anos de tempo externo**. Você vai enfrentar mais Calamidades que qualquer outro personagem da mesa, e cada uma vale o dobro de Marcas. A curva inteira do personagem é: **crescer muito rápido sob fogo constante.**
+**Calamidades:** +5 de CD como todo Físico Extremo — mas o fluxo 40–50× da terra Especial significa que elas vêm a cada **~3 meses de tempo externo**. Você vai enfrentar mais Calamidades que qualquer outro personagem da mesa, e cada uma vale o dobro de Marcas. A curva inteira do personagem é: **crescer muito rápido sob fogo constante.**
 
 **O Gu Imortal vital da Ascensão** tem que ser do Caminho da Lua **ou** do Caminho da Alma — a única exceção da regra "exatamente o físico" em toda a lista, e ela existe porque o físico tem dois Caminhos vinculados.
 
@@ -293,7 +293,7 @@ A alma é velha demais pro corpo — fragmentos de algo que existiu antes, aloja
 
 A mente funciona rápido demais e não desliga. O portador raramente dorme e nunca se preocupa — não por coragem, por incapacidade.
 
-- **Dom:** Gu de Sabedoria ganham **+2 Níveis de Dano**. **+4 em toda Dedução**, e uma vez por sessão ele pode **refazer uma decisão** de até uma cena atrás, como se tivesse pensado melhor na hora.
+- **Dom:** Gu de Sabedoria ganham **+2 na CD** (soma ao +2 do perfil d6). **+4 em toda Dedução**, e uma vez por sessão ele pode **refazer uma decisão** de até uma cena atrás, como se tivesse pensado melhor na hora.
 - **Vantagem** em achar a Brecha de qualquer Golpe Matador que tenha visto.
 - **Maldição — nada pesa.** O portador é **incapaz de sentir medo, luto ou urgência**, e por isso é péssimo em avaliar risco real. Mecanicamente: ele **não pode gastar Pontos de Plano defensivamente**, e a mesa pode exigir um teste de VON pra ele levar uma ameaça a sério. Falha na contagem regressiva queima empatia: a cada uma, ele perde a capacidade de se importar com **uma pessoa específica** da vida dele, permanentemente. Ao acumular 5, ele não se importa com ninguém — inclusive consigo.
 
@@ -302,7 +302,7 @@ A mente funciona rápido demais e não desliga. O portador raramente dorme e nun
 
 O portador não distingue direito o que sonhou do que viveu. Às vezes a diferença não existe.
 
-- **Dom:** Gu de Sonhos ganham **+2 Níveis de Dano**, e ele **entra em sonhos alheios sem precisar de Gu**, dormindo perto do alvo.
+- **Dom:** Gu de Sonhos ganham **+2 na CD**, e ele **entra em sonhos alheios sem precisar de Gu**, dormindo perto do alvo.
 - **Uma vez por arco:** algo que ele sonhou **se torna verdade** numa escala pequena e específica — um objeto que ele sonhou estar ali está ali, uma porta que ele sonhou existir existe. O mestre decide a forma, o jogador declara a intenção.
 - **Maldição — a realidade escorre.** A cada falha na contagem regressiva, um fato do mundo **muda pra pior de forma permanente e retroativa** — alguém que era aliado nunca foi, um lugar seguro nunca existiu, uma dívida quitada volta a existir. Ninguém além do portador lembra da versão antiga. Ao acumular 5, ele acorda num mundo em que **nunca teve nada**, e precisa decidir se aquilo ainda vale a pena.
 

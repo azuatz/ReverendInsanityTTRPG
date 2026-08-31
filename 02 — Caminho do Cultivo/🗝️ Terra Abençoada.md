@@ -70,27 +70,51 @@ Essa é a decisão de verdade: **tamanho, fertilidade ou segurança.** Uma terra
 
 A qualidade não é só metro quadrado. Ela define **fluxo de tempo, reserva de essência e velocidade de recuperação** — e, por consequência, com que frequência o céu vem cobrar.
 
-| Qualidade | Fluxo de tempo | Essência Imortal máx. *(rank 6)* | Regeneração | Calamidade Terrestre a cada |
+| Qualidade | **Fluxo de tempo** *(1 dia fora =)* | Essência Imortal máx. *(rank 6)* | Regeneração | Calamidade Terrestre a cada *(10 anos internos)* |
 |---|---|---|---|---|
-| **Mesquinha** | **0,5×** | 200 UV | 5% ao dia | ~20 anos de fora |
-| **Comum** | **1×** | 400 UV | 10% ao dia | ~10 anos de fora |
-| **Boa** | **1,5×** | 600 UV | 15% ao dia | ~7 anos de fora |
-| **Excelente** | **2×** | 800 UV | 20% ao dia | ~5 anos de fora |
-| **Especial** | **3×** | 1.200 UV | 30% ao dia | ~3 anos de fora |
+| **Mesquinha** | **5×** — 5 dias dentro | 200 UV | 5% ao dia interno | **~2 anos** de fora |
+| **Comum** | **10×** — 10 dias dentro | 400 UV | 10% ao dia interno | **~1 ano** de fora |
+| **Boa** | **20×** — 20 dias dentro | 600 UV | 15% ao dia interno | **~6 meses** de fora |
+| **Excelente** | **30×** — 30 dias dentro | 800 UV | 20% ao dia interno | **~4 meses** de fora |
+| **Especial** *([[🌠 Os Dez Físicos Extremos\|Físico Extremo]]: garantida)* | **40×** — e na mão de um Físico Extremo, **até 50×** | 1.200 UV | 30% ao dia interno | **~3 meses** de fora *(50×: ~2,5 meses)* |
 
 A **Essência Imortal máxima dobra a cada rank** que o dono sobe, igual a tudo mais neste sistema.
 
-### O fluxo de tempo é a decisão que define o personagem
+### ⏱️ A Dilatação Temporal — a regra que define a fase imortal *(decisão 110)*
 
-Um dia lá fora são **três dias dentro** de uma Terra Especial. Isso significa:
+**O tempo dentro da Fenda Imortal corre ordens de grandeza mais rápido que no mundo exterior.** O fluxo depende da qualidade da terra (tabela acima), do rank do dono, e de Físico Extremo — e ele **cresce com o rank**, porque a Abertura amadurece:
 
-- **Você cultiva mais.** Reclusão, refino, cura, desenvolvimento da terra — tudo roda no tempo interno. Um Imortal com terra 3× vive três vidas enquanto o rival vive uma.
-- **As Marcas de Dao passivas rendem pelo tempo interno.** Uma terra camada 3 a 3× rende ~450 Marcas por ano de fora, não 150.
-- **E o céu cobra na mesma proporção.** A Calamidade Terrestre vem **a cada 10 anos de tempo interno** — o que numa terra 3× significa a cada 3,3 anos de fora. Você não escapa das Calamidades acelerando; você as **encontra mais rápido**.
+| Rank do dono | Fenda | Faixa de fluxo |
+|---|---|---|
+| **6** | Terra Abençoada | **10× – 30×** pela qualidade *(Mesquinha 5×; Físico Extremo 40–50×)* |
+| **7** | Grão-Terra Abençoada | **30× – 60×** |
+| **8** | **Gruta-Céu** (grotto-heaven) | **60× – 100×+** |
+| **9** | Abertura de Venerável / Soberana | **60× – 120×+** |
+
+Ao subir de rank, o fluxo da fenda sobe pro **piso da faixa nova** de graça (a conversão da Abertura arrasta o tempo junto); dentro da faixa, empurrar além é **investimento** — Gu de Tempo consumidos, Gu do Ano, Pó de Hora Parada ([[⚗️ Materialização e Alquimia Interna]]).
+
+#### As três consequências, em regra
+
+**1. Produção e cultivo acumulam pelo tempo interno.** A cada **1 dia externo**, o dono recebe `fluxo` dias de produção passiva (minérios, plantas, Ração, Marcas passivas, regeneração de essência da fenda, progresso de refino e de cultivo em reclusão). Um Físico Extremo a 40× colhe **40 dias de fenda por dia de calendário da campanha**.
+
+**2. O céu cobra pelo tempo interno — o preço da velocidade.** A Calamidade Terrestre vem a cada **10 anos internos**, a Provação Celestial a cada 100. Fenda rápida = tribulação em intervalos curtíssimos de tempo real (tabela acima). Você não escapa das Calamidades acelerando; você as **encontra mais rápido** — e é exatamente assim que os ~300 anos internos de um salto de rank cabem numa campanha de anos.
+
+**3. Acelerar e desacelerar é jogada.** Gu de suporte do **Caminho do Tempo** aceleram o fluxo por um período (mais colheita — e a próxima Tribulação chega antes). O movimento inverso também existe: **desacelerar** a fenda, ou **anquilosá-la** por completo (fluxo ≈ 0: a produção congela, as Marcas passivas param, **e o relógio das Calamidades para junto**) — é o recurso do Imortal fraco ou encurralado que precisa de tempo externo pra se preparar. Anquilosar exige um Gu ou formação de Tempo dedicado, e a fenda congelada não sustenta os Gu que moram nela: tire-os antes, ou eles hibernam à força.
+
+#### 📆 Controle de datas na ficha — duas linhas, só
+
+Anote na ficha do Imortal:
+
+```
+Fluxo da fenda: 40×          Data interna: ano 112 da fenda
+Próxima Calamidade Terrestre: ano 120 interno  (≈ 20/03 do calendário da campanha)
+```
+
+Conversão numa linha: `dias internos = dias externos × fluxo`. A cada sessão, o mestre avança o calendário da campanha; o jogador multiplica e move a data interna. **Só duas datas importam:** a interna (pra produção, refino, reclusão e o relógio de 10 anos das Calamidades) e a externa (pra campanha). Quando a data interna cruza um múltiplo de 10 anos, a Calamidade desce — agende-a no calendário externo já convertida, pra sessão não ser pega de surpresa.
 
 > **A leitura:** tempo rápido é o acelerador e o freio ao mesmo tempo. Quem quer subir depressa aceita ser testado depressa. Quem tem medo desacelera a terra, sobrevive mais, e assiste o mundo passar por cima.
-
-**Técnicas do Caminho do Cosmos** conseguem ajustar o fluxo em ±0,5× por um período, ao custo de recursos do Caminho. É assim que um Imortal encurralado **adia uma Calamidade** — desacelerando a própria terra até estar pronto.
+>
+> *Nota de canonicidade:* o fluxo variar por Abertura e ser domínio do Caminho do Tempo é canônico; **os multiplicadores são autorais** (✍️ — a base local não registra números; escala definida pelo autor em 2026-08-30).
 
 ---
 

@@ -83,7 +83,7 @@ O **modificador de Caminho** do [[🏛️ Arquitetura do Sistema|Arquitetura do 
 | **🌙 Jade Fria Yin** | Lua + Alma | 3 | **25** | 18 | 1 porção | **40** | 32% | Aplica **Frio Yin** sem gastar Gu (1 cena por peça); matéria-prima obrigatória de todo Gu de Alma defensivo |
 | **Sal de Trovão** | Raio | 4 | **40** | 21 | 1 porção | **60** | 30% | Gu de raio e velocidade; detona formações |
 | **Grão de Éter Vazio** | Espaço | 4 | **60** | 21 | 1 porção | **90** | 30% | Bolsas dimensionais, âncoras de teleporte |
-| **Pó de Hora Parada** | Tempo | 5 | **120** | 24 | 1 porção | **200** *(leilão — sem mercado aberto)* | 33% | Ajusta o fluxo de tempo de uma Terra Abençoada em ±0,1× por ano |
+| **Pó de Hora Parada** | Tempo | 5 | **120** | 24 | 1 porção | **200** *(leilão — sem mercado aberto)* | 33% | Ajusta o fluxo de tempo de uma Terra Abençoada em ±1× por ano |
 | **🌑 Núcleo de Noite Eterna** | Yin puro | **6** | **20 UV** *(Essência Imortal)* | 25 | 1 núcleo | **8 Pedras Imortais** | 40% | Material imortal. Só se condensa dentro de uma Terra de Noite Eterna |
 
 **"Eficiência"** é o preço de venda dividido pelo valor bruto da essência gasta, contando **1 Pedra Primordial ≈ 20 pontos de essência** (a taxa de reposição já usada em [[🧩 Refino e Precificação|Refino e Precificação]]).
@@ -211,9 +211,9 @@ Uma Terra Abençoada de camada 4 é "comércio externo" ([[🗝️ Terra Abenço
 
 > **Esta tabela é o teto, e continua valendo.** [[🌾 Ecologia e Economia da Terra Abençoada]] **decompõe** estes números — de qual canteiro, rebanho ou veia cada Pedra sai — e dá ao jogador as alavancas pra mexer neles (mineração predatória, desviar produção pra Ração, Teste de Gestão anual). Se a soma do detalhamento estourar muito a linha da camada, foi instalado mais do que a camada comporta.
 
-A produção acontece em **tempo interno**, então o fluxo de tempo da terra já está embutido. Os números abaixo são **por ano de tempo externo**, prontos pra usar:
+A produção acontece em **tempo interno**, então o fluxo de tempo da terra já está embutido. Os números abaixo são **por ano de tempo externo**, prontos pra usar (calibrados na escala antiga de fluxo — trate-os como o rendimento **por ano interno × dezena**; uma reauditoria da economia imortal sob a Dilatação Temporal está pendente no Log de Decisões):
 
-| Camada | Mesquinha *(0,5×)* | Comum *(1×)* | Boa *(1,5×)* | Excelente *(2×)* | Especial *(3×)* |
+| Camada | Mesquinha *(5×)* | Comum *(10×)* | Boa *(20×)* | Excelente *(30×)* | Especial *(40×)* |
 |---|---|---|---|---|---|
 | **1** — produção básica | 100 PP | 400 PP | 900 PP | 1.600 PP | 3.600 PP |
 | **2** — materiais imortais | **1 PEI** *(autoconsumo)* | **5 PEI** | **11 PEI** | **20 PEI** | **45 PEI** |
@@ -231,7 +231,7 @@ A produção acontece em **tempo interno**, então o fluxo de tempo da terra já
 | Ferimento | Efeito na renda |
 |---|---|
 | **Rachada** | A camada 4 **para**. Você cai pra renda de camada 3 |
-| **Ferida** | O acima, e o fluxo cai pra 1× — recalcule a coluna como **Comum** |
+| **Ferida** | O acima, e o fluxo cai pra **1×** — a produção despenca pra um décimo da coluna Comum |
 | **Dilacerada** | Perde uma camada. A renda de material imortal **para** |
 | **Colapsada** | Zero |
 

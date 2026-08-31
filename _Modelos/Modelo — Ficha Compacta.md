@@ -30,6 +30,10 @@ Tudo que está entre parênteses é instrução: apague ao preencher.
 **Ataques** 🎯  *(formato: `M d(dado do Caminho) + (M × B)`)*
 -
 
+**Níveis de Dano** ⚡
+- Permanentes:        (Densidade B ___ · Gu de Corpo ___ · Físico ___ · outros ___)
+- Condicionais:       (fase/terreno ___ · Gu ativo ___ — anote a condição de cada um)
+
 **Gu** 🪱  (   /    na Abertura ·    /    ativos)
 - ⭐
 -
@@ -72,6 +76,8 @@ O preço da minha traição:
 | **Teto de Combo** | 2 · 3 · 4 · 5 Gu, por estágio | 2 |
 | **Bônus de dano** | **`+B por dado`** — some `M × B` a todo dano | 0 |
 | **Golpes registrados** | `AST + 1` | — |
+
+**O bloco "Níveis de Dano" é o placar do seu dano.** Some os permanentes uma vez (Densidade do estágio, Gu de Corpo assentados, Físico Extremo, Marcas) e anote os condicionais com a condição do lado ("+2 lua cheia", "+1 Javali Branco ativo") — na hora do golpe, é ler duas linhas em vez de caçar regra em quatro notas. Lembrando a conversão: Níveis sobem o tipo do dado até d12; dali em diante viram +1 por dado (ver [[⚔️ Combate]]).
 
 **Grau (B) é o número mais importante da ficha.** Ele vem do estágio (Inicial 0 · Médio 1 · Alto 2 · Pico 3), soma **por dado** em todo dano, e entra na Vitalidade, na Alma, nas Vagas de Suporte, no Teto de Combo, em testes de resistência e na ordem de turno. Ver [[🪜 Ranks e Estágios]].
 

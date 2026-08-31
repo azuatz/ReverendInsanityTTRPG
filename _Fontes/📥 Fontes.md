@@ -28,3 +28,13 @@ permanece intocada como registro do que foi dito originalmente.
 | Fonte | Ingerida em | Notas tocadas |
 |---|---|---|
 | [[Feedback do autor — grande rodada 2026-08-30]] | 2026-08-30 *(em curso)* | ver [[🗺️ Plano de Ingest — Feedback 2026-08-30]] |
+| [[Clipping — Repositório GitHub do romance completo]] | *(não ingerido)* | — |
+
+> [!tip] O clipping do GitHub é um ponteiro, não conteúdo
+> A página clipada é só a listagem do repositório `azuatz/Reverend-Insanity` —
+> não traz texto do romance. O que ela informa é que **existe o romance completo
+> em EPUB** (pasta `Volumes/`) sob controle do autor. Isso permitiria uma
+> checagem de canonicidade contra a **fonte primária**, em vez da paráfrase da
+> pasta `10 — Referência Canônica` — resolvendo os vários "NÃO VERIFICÁVEL NA
+> BASE" da auditoria de 2026-08-30. Exige clonar o repositório e converter os
+> volumes; **decisão do autor**, por ser download grande.

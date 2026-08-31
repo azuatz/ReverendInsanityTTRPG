@@ -20,9 +20,12 @@ Uma Pedra Primordial, quando usada, vira Verdadeira Essência que reabastece a A
 | Referência de custo de vida | Preço |
 |---|---|
 | Sustento mensal de uma família comum de três pessoas | 1 Pedra Primordial |
+| Mesada de clã de um rank 1 | 40 por mês |
 | Uma sessão de refino de Gu (Mestre de Gu de rank 1) | ~7 Pedras Primordiais |
-| Gu de rank 2 no mercado | Dezenas de Pedras |
-| Gu de rank 3 no mercado | Centenas de Pedras |
+| Gu de rank 1 no mercado | ~500 Pedras |
+| Gu de rank 3 no mercado | 1.000 – 10.000 Pedras |
+| Entrar no 4º centro de uma [[🏙️ Metrópoles — Centros, Tokens e Arena\|metrópole]] | 200 Pedras |
+| Um dia de cultivo acelerado a pedra ([[🧘 Ritmo de Cultivo e Cultivo Fechado]]) | 1 – 16 Pedras, pelo rank |
 
 **Não dá pra usar Pedra Primordial pra repor essência durante o combate.** Parar pra isso no meio de uma luta é o mesmo que se entregar — o processo exige atenção total, tempo que ninguém tem em combate.
 

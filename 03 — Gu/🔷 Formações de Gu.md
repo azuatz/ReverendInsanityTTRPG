@@ -44,7 +44,7 @@ Nas contas abaixo, **`M`** é o Multiplicador de Rank da formação (tabela de [
 
 | Função | Efeito dentro do raio |
 |---|---|
-| **Defesa de área** | Todos os defensados ganham **RD `2 × M`**. Ataques vindos de fora do raio perdem **1 Nível de Dano**. Atravessar a fronteira à força exige teste de FOR ou VON, **CD `10 + 2G + rank da formação`** — falhou, não passou e leva `1d6 × M` de dano |
+| **Defesa de área** | Todos os defensados ganham **RD `2 × M`**. Ataques vindos de fora do raio sofrem **−2 no acerto**. Atravessar a fronteira à força exige teste de FOR ou VON, **CD `10 + 2G + rank da formação`** — falhou, não passou e leva `1d6 × M` de dano |
 | **Detecção** | O fundador sabe posição, rank aproximado e número de Gu ativos de tudo que está dentro. Furtividade contra a formação: **DES vs. CD `10 + 2G + rank da formação`**. A informação chega ao fundador com atraso de `4 − G` horas se ele estiver fora do raio |
 | **Supressão** | Gu de rank **igual ou inferior** ao da formação custam **o dobro** pra ativar (só pra quem o fundador não autorizou). Gu de movimento de intrusos operam **1 rank abaixo** — o que derruba a Defesa deles pela conta padrão. Não afeta quem a formação reconhece |
 | **Armadilha** | **Uma vez por cena**, a formação dispara o efeito do próprio Gu-núcleo contra uma zona escolhida na montagem: dano `(passo do núcleo) × M`, ou o efeito de controle dele com **CD `10 + VON do fundador + rank da formação`**. Recarrega em 24 horas |

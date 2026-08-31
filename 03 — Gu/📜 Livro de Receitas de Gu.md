@@ -48,6 +48,8 @@ Tudo o que o romance documenta de fato sobre origem de Gu — o resto do livro �
 | **Gu Imortal da Segunda Abertura** (r6) | A receita que um Espírito da Terra tenta completar há milênios | Catálogo, seção A |
 | **Gu Imortal do Crânio de Sangue** (r6) | Concede um Físico Extremo; a tribulação vem 10× mais forte | Catálogo, seção A |
 | **Gu Refinamento Avançado** (r8 → r9) | Elevado da versão rank 8 — a prova viva da exceção do Caminho do Refino | Rank 6+ |
+| **Gu da Reforma** (r5) | **Sem receita** — consumível que nunca se refinou; só circula em leilão | [[#Rank 5 — o teto mortal\|Rank 5]] |
+| **Gu do Mês** (r6) | Família canônica do Tempo (Dia → Mês → Ano) — nasce à margem do Rio do Tempo, não se refina | [[#Ranks 6 a 9 — por que Imortais não têm receita\|Rank 6+]] |
 | **Sombra Digital** (r1–5) | Onde as receitas de clã ficam guardadas, por cor de rank | [[#Onde as receitas vivem no seu mundo\|Onde vivem]] |
 
 ### A Regra de Linhagem — a receita padrão que sempre existe
@@ -203,6 +205,7 @@ Chance base ~70% ([[🧩 Refino e Precificação]]). É aqui que um cultivador a
 | **Gu do Dado Torto** ✱ | Gu do Fio de Boa Estrela + Gu do Fio de Boa Estrela | Linhagem invertida: refinada com uma **dívida não paga** como material — a sorte azeda |
 | **Gu do Selo de Cera Viva** ✱ | Gu do Fio de Palavra + Gu do Sussurro de Linha | A palavra dada aprende a lacrar |
 | **Gu da Malha de Vigília** ✱ | Gu da Estaca de Âncora + Gu do Sussurro de Linha | O perímetro aprende a avisar os outros |
+| **Gu do Casulo de Pedra** ✱ | Gu de Abertura de Pedra + Gu do Fole Paciente | Refinado "voltado pra dentro", como o Abertura de Pedra — a pedra que conhece o lado de dentro aprende a esperar |
 
 ### Gu de Corpo (grau Leve) — não são fusão
 
@@ -281,6 +284,7 @@ Chance base ~55%. A partir daqui, quase toda receita circula **trancada** — sa
 | **Gu do Mapa de Nervos** ✱ | Gu da Lanterna Fraca + Grama-Orelha de Comunicação com a Terra | A luz que acha vida + a raiz que escuta |
 | **Gu do Retalho de Sonho** ✱ | Gu do Travesseiro Emprestado + Gu da Pegada | O sono alheio deixa pegadas; este Gu as segue |
 | **Gu do Vértice Móvel** ✱ | Gu da Estaca de Âncora + Gu do Grilo de Jade | O vértice aprende a andar com o dono |
+| **Gu do Aríete de Essência** ✱ | Besouro-Chifre-Longo de Força Bruta + Gu de Abertura de Pedra | O refino rende **um uso** — clãs refinam em lote, um por herdeiro em véspera de Quebra |
 
 ### Gu de Corpo (grau Médio) — órgão + catalisador
 
@@ -358,6 +362,7 @@ Chance base ~40%. Neste nível, **a receita costuma valer mais que o Gu** — um
 | **Gu da Letra Fixa** ✱ | Gu do Selo de Cera Viva + Verme da Verdade | O pacto que sabe quando você mente |
 | **Gu do Arquivo Vivo** ✱ | Gu da Sombra Digital + Gu do Mapa de Nervos | O cofre de receitas aprende a guardar qualquer coisa |
 | **Gu da Porta de Cortina** ✱ | Gu do Retalho de Sonho + Gu do Travesseiro Emprestado | O sono emprestado nunca é devolvido inteiro |
+| **Gu da Arca do Sono Longo** ✱ | Gu do Casulo de Pedra ×2 + âmbar com criatura presa dentro | Linhagem dobrada com salto de ranks — 🔨 Instável. O cofre-padrão das heranças de rank 4–5 |
 
 ### Gu de Corpo (graus Pesado e Extremo)
 
@@ -441,6 +446,10 @@ Chance base ~25%. Cada receita desta tabela é **segredo de estado** de algum cl
 | **Gu do Umbral Aberto** ✱ | Gu da Porta de Cortina + Gu do Retalho de Sonho | O sonho vira sala de reunião |
 | **Gu do Espelho de Cronista** ✱ | Gu do Arquivo Vivo + Gu Foto-Áudio | O lugar conta o que viu |
 | **Gu da Dobra de Bolso Maior** ✱ | Gu do Bolso de Dobra + Gu Ancião Primevo + Sapo Barrigudo | Três guardadores fundidos — salto de ranks, 🔨 Instável |
+| **Gu da Âncora dos Três Ares** ✱ | Gu do Pilar de Domínio + Gu da Malha de Vigília | 🔨 Receita, 🔨 Assistido — a formação aprende a segurar o céu em vez do chão |
+| **Gu do Selo do Dantian** ✱ | Gu da Essência de Sangue + Gu de Abertura de Pedra | 🔨 Proibida, salto de ranks, 🔨 Instável — o sangue sela a Abertura por dentro |
+| **Gu da Reforma** | 📕 **Sem receita** — nunca se refinou um | **Canônica a ausência**: só aparece em leilão, acima de 300.000 pedras. Comprar *é* a receita |
+| **Verme do Vinho Centenário** ✱ | Linhagem (Verme do Vinho de Nove Olhos ×2) | O alimento em dose tripla é um tonel de vinho centenário — a linha do Vinho termina aqui |
 
 > [!note] A exceção das linhagens Wu Xing
 > As três linhas elementais que chegam ao rank 5 (**Garras do Rei de Metal**, **Dragão de Fogo na Palma**, **Trono de Terra**) exigem, além dos dois exemplares de rank 4, **um coração do elemento**: ferro-do-céu, brasa-eterna ou rocha-mãe. É a única quebra da Regra de Linhagem nas cinco escolas — e o motivo de tão poucos chegarem lá.
@@ -473,6 +482,8 @@ Chance base ~25%. Cada receita desta tabela é **segredo de estado** de algum cl
 1. **Elevação na Ascensão** — o excedente da provação refina Gu mortais de rank 5 em Imortais. A lista de candidatos e o que cada um vira está no próprio catálogo: [[📖 Catálogo de Gu#A. Gu de rank 5 que viram Gu Imortal na Ascensão|Gu de rank 5 que viram Gu Imortal]]. **É a única "receita" de rank 6 que um jogador controla** — e começa a ser escolhida no rank 4.
 2. **Forja de Calamidade** — cada [[🌩️ Calamidades e Provações|Calamidade]] vencida pode cristalizar um Gu Imortal novo, moldado pelo Caminho e pelas Marcas do sobrevivente. É assim que Imortais ganham arsenal depois da Ascensão.
 3. **Espólio e herança** — Gu Imortais **não morrem com o dono** (diferente da regra do [[⚰️ Espólio]] mortal): trocam de mãos. Boa parte dos rank 7+ do catálogo existe em **um único exemplar no mundo**, com genealogia de donos conhecida.
+
+📕 Há ainda o caso raro do Gu Imortal **selvagem**: o **Gu do Mês** (Month Gu, r6), da mesma família canônica do Gu do Dia e do Gu do Ano, **nasce à margem do Rio do Tempo** — captura-se, como o Alma de Gelo, não se refina. Achar a margem certa é a expedição de uma vida.
 
 A exceção que confirma a regra: o **Caminho do Refino**. Com um [[🧿 Espíritos da Terra|Espírito da Terra]] e a Casa certa (abaixo), refinar um Gu Imortal *é* possível — <10% de chance base, e é por isso que a seita que domina isso é intocável.
 

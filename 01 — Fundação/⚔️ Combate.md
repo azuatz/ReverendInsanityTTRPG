@@ -87,8 +87,8 @@ Uma regra só cobre a escada inteira, do chão ao teto. Um Gu de Terra (d6) que 
 | **Marcas de Dao**                   | +1 por nível de domínio. Ver abaixo                                                                                      |
 | **Físico Extremo**                  | +2 nos Gu do Caminho correspondente (+1 se a Abertura estiver Latente)                                                   |
 | **Fase Lunar**                      | 0 a +2, ver [[🌙 Caminho da Lua]]                                                                                        |
-| **Material da arma**                | +1, definido no item                                                                                                     |
-| **Pra baixo**                       | Armadura pesada do alvo, Gu de enfraquecimento, condição ambiental hostil — tipicamente −1                               |
+| **Material da arma**                | Não dá mais Nível: material especial dá **+1 no acerto** (definido no item)                                              |
+| **Pra baixo**                       | Nada tira Nível: Gu de enfraquecimento e ambiente hostil dão **−2 no acerto** do atacante; armadura pesada protege via **RD**, nunca via Nível |
 
 **Abaixo de d4 o dano é 0.** Não existe dado negativo.
 
@@ -133,12 +133,18 @@ CD dos seus Gu = 10 + VON + rank do Gu          (+2 se o Caminho for do perfil d
 | Corpo a corpo sem Gu **vs.** defensor com Gu de movimento | 50% |
 
 1. **Acertou, role o pool.** Não existe dano extra por "quanto passou" no teste.
-2. **Sem crítico automático em 20, sem falha automática em 1.** Um 20 natural garante o acerto contra Defesa alta; nada além disso.
+2. **20 natural é crítico:** acerta automaticamente, mesmo contra Defesa maior, e **dobra os dados de dano** — role `2 × M` dados em vez de `M`. O bônus por dado não dobra: o crítico fica `2M d(dado) + (M × B)`. **Sem falha automática em 1** — errar por número é só errar.
 3. **Diferença de 2 ranks ou mais:** um Gu de defesa de rank muito inferior ao do Gu de ataque que o atinge não segura o golpe — cai automaticamente, sem teste.
 
-### Ordem de turno
+### Iniciativa
 
-Sem rolar iniciativa. **Por Destreza, do maior pro menor**, e o **Grau de Densidade soma na ordem** (um Pico passa na frente de um Inicial com a mesma DES). Em empate, quem embosca ou tem Gu de movimento ativo passa na frente.
+**Rolada no início do combate**, uma vez, e a ordem vale a cena inteira:
+
+```
+Iniciativa = d20 + DES
+```
+
+Empate: maior DES fica na frente; persistindo, quem embosca ou tem Gu de movimento ativo passa primeiro. Gu e efeitos que mexem na iniciativa (ex.: Grilo Pílula-de-Dragão) somam nessa rolagem.
 
 ---
 
@@ -158,7 +164,6 @@ Duas fontes de RD **não** somam integralmente: vale a maior, mais metade da seg
 |---|---|
 | **Caminho da Alma** | Ignora RD, armadura e Defesa física por completo. A Defesa contra ele é `10 + VON + rank` |
 | **Espada e Relâmpago** (d12) | Ignoram **metade** da RD do alvo |
-| **Estágio Pico** | Ignora **metade** da RD do alvo, com qualquer Gu. É o desbloqueio de capstone do rank |
 | **Quase-Supremo** (Marcas) | Ignora RD de qualquer fonte de rank inferior |
 
 > ⚠️ **O que a RD faz com quem ataca de um rank abaixo.** O piso é `M` **do pool que ataca**. Um Gu de rank 2 (2 dados) contra um alvo com RD 16 entrega **2 pontos**. O ataque não é reduzido — é **anulado**, e o piso só evita o zero. Um inimigo de rank acima do grupo **desliga** metade da mesa em vez de enfraquecê-la. A resposta estrutural é o [[👻 Caminho da Alma|dano de Alma]], e é por isso que ele rola d12 e não tem efeito colateral nenhum.
@@ -175,7 +180,7 @@ Duas fontes de RD **não** somam integralmente: vale a maior, mais metade da seg
 | Malha | **3** | −1 em testes de DES |
 | Placas | **4** | −2 em DES e furtividade; impossível se esconder |
 
-**Material de fera de rank 3+ soma uma vez:** +1 de RD na armadura, ou +1 Nível na arma.
+**Material de fera de rank 3+ soma uma vez:** +1 de RD na armadura, ou **+1 de acerto** na arma.
 
 ---
 
@@ -245,5 +250,6 @@ Três passos, e leva dez segundos por Gu:
 
 ## 📝 Changelog
 
+- `2026-08-30` — **Rodada do autor (decisões 103–106):** dano passa a ser **sempre rolado** (rolagem rápida por média removida); **iniciativa passa a ser rolada** (`d20 + DES`); **crítico no 20 natural** dobra os dados de dano; **armas à distância mundanas removidas** (alcance é trabalho de Gu); desbloqueios de estágio (resistência/ordem, ativação com desconto, Pico ignorar ½ RD) removidos — o estágio agora dá só o que está na tabela mestre. Regra antiga arquivada em `_Arquivo`; fontes menores de Nível de Dano convertidas em acerto/RD (decisão 112).
 - `2026-08-28` — **v2: pool de dados cumulativo.** `1dX × M` virou `M dX`; o tipo do dado passou a ser propriedade do **Caminho** (tabela de letalidade em 4 perfis); Níveis de Dano passaram a subir o tipo do dado e depois virar bônus por dado; criada a **Densidade da Essência** como progressão de estágio (+1 por dado por estágio); armas subiram um tipo (d4/d6/d8/d10) e a Vitalidade subiu junto pra manter a calibragem. Ver decisões 77–82.
 - `2026-08-26` — dano de Gu deixou de ser fixo e voltou a ser rolado; criada a Escada de Dano única; RD formalizada com regra de não-empilhamento.

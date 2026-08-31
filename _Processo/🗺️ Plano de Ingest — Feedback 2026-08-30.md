@@ -15,6 +15,19 @@ Roteiro de execução da fonte [[Feedback do autor — grande rodada 2026-08-30]
 linha a subsistemas inteiros. Esta nota é o mapa — marque as caixas conforme
 avança e registre cada mudança de regra no [[🧭 Log de Decisões]].
 
+> [!success] Frente 0 — RESOLVIDA em 2026-08-30
+> A auditoria descobriu que as notas citavam as **decisões 103–112**, ausentes do
+> [[🧭 Log de Decisões]]: uma sessão anterior aplicou o feedback do autor nas
+> regras e **nunca registrou no contrato**. As dez decisões foram reconstruídas a
+> partir das notas que as citam, e as seis decisões antigas que elas revogam
+> (16, 18, 21, 65, 77, 80) estão marcadas como revogadas no Log.
+
+> [!warning] Consequência: metade deste plano já estava feita
+> Este plano foi escrito a partir da fonte bruta, **antes** de descobrir que as
+> notas já implementavam boa parte dela. As frentes 1 e 6 estão em grande parte
+> concluídas — as caixas abaixo já refletem isso. O que sobra são as frentes de
+> **criação** (2 a 5, 7 a 10), que ninguém começou.
+
 > [!note] Como ler as frentes
 > **Remover** e **Responder** são baratas e já dão resultado visível.
 > **Reescrever** mexe em números que já foram simulados.
@@ -28,19 +41,22 @@ A mais barata do lote e a que mais enxuga o texto para o mestre novo. Sete itens
 todos decisões já tomadas pelo autor — não precisam de nova discussão, só de
 execução + registro no Log.
 
-- [ ] **Iniciativa é rolada** — confirmar que [[⚔️ Combate]] diz isso; ajustar se divergir.
-- [ ] **Crítico**: 20 natural **dobra os dados de dano** — garantir que está escrito em [[⚔️ Combate]] e na [[📄 Folha de Referência]].
-- [ ] **Tirar a média a partir do rank 5** (a regra "role 8 dados e some a média do resto: d6 3,5 · d8 4,5 · d10 5,5 · d12 6,5") — em [[⚔️ Combate]] **e** a tabela correspondente na [[📄 Folha de Referência]]. Motivo do autor: *o legal é rolar os dados para o dano não ser fixo*.
-- [ ] **Tirar a compra/venda de Aptidão** em [[⚖️ Pontos de Criação]] — as aptidões já foram roladas e definidas.
-- [ ] **Tirar a tabela de Desbloqueio** (`— / +1 resistência e ordem / +2 · 1 ativação/cena pela metade / +3 · 1ª ativação grátis · ignora ½ RD`) — o autor não entendeu o que é. Verificar antes o que ela sustenta em [[🪜 Ranks e Estágios]]: se outras regras dependem dela, avisar antes de remover.
-- [ ] **Tirar ataques à distância não-Gu** (arcos) de [[⚔️ Combate]] e do [[🗡️ Arsenal]].
-- [ ] **Tirar a regeneração de essência em combate** para quem não é Físico Extremo ([[⚔️ Combate]], [[🌠 Os Dez Físicos Extremos]]).
+- [x] **Iniciativa é rolada** *(decisão 105)* — confirmar que [[⚔️ Combate]] diz isso; ajustar se divergir.
+- [x] **Crítico**: 20 natural *(decisão 105)* **dobra os dados de dano** — garantir que está escrito em [[⚔️ Combate]] e na [[📄 Folha de Referência]].
+- [x] **Tirar a média a partir do rank 5** *(decisão 103; a tabela da Folha foi removida em 2026-08-30 e arquivada em [[Médias do pool (v1)]])* (a regra "role 8 dados e some a média do resto: d6 3,5 · d8 4,5 · d10 5,5 · d12 6,5") — em [[⚔️ Combate]] **e** a tabela correspondente na [[📄 Folha de Referência]]. Motivo do autor: *o legal é rolar os dados para o dano não ser fixo*.
+- [x] **Tirar a compra/venda de Aptidão** *(decisão 111)* em [[⚖️ Pontos de Criação]] — as aptidões já foram roladas e definidas.
+- [x] **Tirar a tabela de Desbloqueio** *(decisão 106)* (`— / +1 resistência e ordem / +2 · 1 ativação/cena pela metade / +3 · 1ª ativação grátis · ignora ½ RD`) — o autor não entendeu o que é. Verificar antes o que ela sustenta em [[🪜 Ranks e Estágios]]: se outras regras dependem dela, avisar antes de remover.
+- [x] **Tirar ataques à distância não-Gu** *(decisão 104)* (arcos) de [[⚔️ Combate]] e do [[🗡️ Arsenal]].
+- [x] **Tirar a regeneração de essência em combate** *(decisão 107)* para quem não é Físico Extremo ([[⚔️ Combate]], [[🌠 Os Dez Físicos Extremos]]).
 
-> [!warning] Duas destas cruzam com a auditoria pendente
-> A regra da média (rank 5+) e a tabela de Desbloqueio provavelmente têm decisão
-> numerada no [[🧭 Log de Decisões]] e aparecem na
-> [[🎯 Simulação de Combate — Resultados]]. Remover sem registrar quebra o
-> contrato; **registre a revogação com o motivo do autor**, não apague a decisão.
+> [!success] Frente 1 concluída — e a última pendência foi fechada
+> As sete remoções já estavam nas notas; o que faltava era o registro, feito em
+> 2026-08-30 (decisões 103–107, 111). O último resíduo da regra da média —
+> a tabela ainda viva na [[📄 Folha de Referência]] (que se contradizia
+> sozinha) e a frase em [[📖 Catálogo de Gu]]`:35` mandando resolver 25+ dados
+> pela média — foi removido e arquivado em [[Médias do pool (v1)]].
+> Era o item que **quebrava na mesa**: um Venerável rolando `256d12` com a folha
+> dizendo as duas coisas ao mesmo tempo.
 
 ## Frente 2 — Economia e mercado `[reescrever]`
 
@@ -81,18 +97,18 @@ O maior buraco mecânico apontado: hoje não há régua de **quanto tempo** leva
 Seis pontos: alguns são **perguntas ao vault** (respondíveis já), outros são
 contradições reais a resolver.
 
-- [ ] **Contradição de piso**: dá para chegar ao rank 7 sem 10.000 Marcas? O vault diz que um r6 com 9.000 vence um r7 com poucas, mas fixa 10.000 como piso do r7. Explicar ou corrigir.
-- [ ] **Fluxo de tempo na fenda**: o autor esperava 10–30×; [[🗝️ Terra Abençoada]] dá 3× na melhor qualidade. Conferir contra a pasta 10 e decidir.
+- [x] **Contradição de piso** *(explicada em 🪜 Ranks e Estágios: o r7 novo tem ~10.000 Marcas **somadas**; um r6 com 9.000 num Caminho só é mais denso naquele confronto. Rank diz o que se ativa; densidade diz o quanto dói)*: dá para chegar ao rank 7 sem 10.000 Marcas? O vault diz que um r6 com 9.000 vence um r7 com poucas, mas fixa 10.000 como piso do r7. Explicar ou corrigir.
+- [x] **Fluxo de tempo na fenda** *(decisão 110: r6 10×–30×, r7 30×–60×, r8 60×–100×+, r9 até 120×+ — sua intuição de 10–30× estava certa e o 3× foi substituído)*: o autor esperava 10–30×; [[🗝️ Terra Abençoada]] dá 3× na melhor qualidade. Conferir contra a pasta 10 e decidir.
 - [ ] **Escala de Marcas**: o autor esperava milhões. Conferir o canônico. *(A auditoria de canonicidade já achou um desvio aqui: o vault troca o **Attainment** canônico — compreensão, escala separada — por contagem de Marcas. Ver [[🩺 Lint do Vault]].)*
-- [ ] **Como se sobe de rank depois de imortal?** Tendo as marcas: é automático? Ritual? Gu? Hoje não está escrito.
-- [ ] **De qual Caminho vêm as Marcas** recebidas (terra abençoada, tribulação)? E multi-caminho: divide as marcas? Dá 10.000 de um + 10.000 de outro, ou o teto é 10.000 no total?
+- [x] **Como se sobe de rank depois de imortal?** *(decisão 108: saturar o teto + sobreviver às provações do patamar + declarar a tentativa, que dispara a Provação de Avanço)* Tendo as marcas: é automático? Ritual? Gu? Hoje não está escrito.
+- [x] **De qual Caminho vêm as Marcas** *(decisão 109: o teto é do TOTAL, somando Caminhos — não existe 10.000+10.000)* recebidas (terra abençoada, tribulação)? E multi-caminho: divide as marcas? Dá 10.000 de um + 10.000 de outro, ou o teto é 10.000 no total?
 - [ ] **Via de avanço por Caminho**: "quando o Caminho faz aquilo, ganha mais marcas" — ganha como, se ações não dão marcas? É dobro na tribulação? [[🛤️ Os Caminhos]].
 - [ ] **Balanceamento do Xie Lang**: Físico Extremo (marcas em dobro + terra melhor) tende a abrir vantagem após a imortalidade. Decidir entre dar aos outros uma via de aceleração ou nerfar. **Exige simulação** (`CLAUDE.md` §5-Simulação).
 
 ## Frente 7 — Níveis de Dano `[reescrever]`
 
 - [ ] Criar **onde marcar** os Níveis de Dano do personagem ([[Modelo — Ficha de Personagem]] e [[Modelo — Ficha Compacta]]).
-- [ ] **Varredura**: todo lugar que dá bônus de Nível de Dano deve ser reavaliado caso a caso — vira dano fixo (`+3 × M`), `+1 dado × M`, bônus de acerto, ou bônus de atributo (Força/Vontade)? Toca muitas notas; fazer com lista antes de editar.
+- [x] **Varredura** das fontes *menores* — já convertidas em acerto/RD pela **decisão 112**. Resta revisar as fontes grandes: todo lugar que dá bônus de Nível de Dano deve ser reavaliado caso a caso — vira dano fixo (`+3 × M`), `+1 dado × M`, bônus de acerto, ou bônus de atributo (Força/Vontade)? Toca muitas notas; fazer com lista antes de editar.
 
 ## Frente 8 — Heranças rank 4–9 `[criar]`
 

@@ -63,6 +63,29 @@ Anciãos não são um bloco: são facções que competem. Pedir a um cria dívid
 | **Nascente espiritual** | Cultivo dentro do território: **+1 em testes de avanço de estágio** ([[🪜 Ranks e Estágios\|Ranks e Estágios]]) | Só dentro dos portões, e o tempo de nascente é racionado por mérito |
 | **Pavilhão de receitas** | Manuais até o rank do personagem | Rank 3+ exige juramento ou anos de serviço |
 
+### 📜 O Salão de Missões *(decisão 118 — ingest 2026-08-30)*
+
+Todo clã que se preze tem um: o balcão onde o trabalho do clã vira tabela. O ciclo do jovem cultivador é fixo — **um ano de aulas básicas** depois da Cerimônia do Despertar (fundamentos de essência, primeiro Gu, letras e leis do clã; é o ano em que quase todo mundo chega ao **rank 1 Pico ou rank 2**), e então a formatura: o novato é **alocado num grupo** (3–5 membros da mesma geração, às vezes com um veterano de babá) e o grupo passa a **receber missões do Salão**.
+
+É o motor de sessão da fase de clã: a missão dá dinheiro, dá **Contribuição**, e dá o mapa da região — e o grupo dos jogadores é, naturalmente, um desses grupos.
+
+| Grau | Missão típica | Recompensa em Pedras | **Contribuição do Clã (CC)** |
+|---|---|---|---|
+| **☆** | Recado, coleta de erva comum, turno de vigia | 10 – 30 | 1 |
+| **☆☆** | Escolta curta, caça de fera do próprio rank, censo de vila | 40 – 100 | 2 |
+| **☆☆☆** | Patrulha longa, Gu selvagem entregue vivo, investigação | 150 – 400 | 3 |
+| **☆☆☆☆** | Alvo um rank acima, missão fora do território, resgate | 500 – 1.500 | 4 |
+| **☆☆☆☆☆** | O quadro vermelho: "provavelmente fatal". Ninguém é obrigado a pegar | 2.000+ e um favor de ancião | 5 |
+
+**Contribuição do Clã (CC)** é o trilho de mérito — o primo de sangue dos Pontos de Contribuição de seita (mesma moeda, emissor diferente; não se convertem):
+
+- **CC compra no clã o que a mesada não compra:** tempo extra de nascente (6 CC/mês), sessão de treino com ancião (8 CC), receita do pavilhão do seu rank (5–40 CC), empréstimo de Gu (3–30 CC), **cura de 1 Ferimento (20 CC)** — use a tabela de preços da seita (abaixo) como referência de valores.
+- **CC acumulada na vida define o posto** dentro da geração: 0 = novato · 30 = **membro pleno** (escolhe missões antes dos novatos) · 100 = **promessa do clã** (acesso à prateleira alta do depósito, e os anciãos passam a disputar seu apadrinhamento).
+- **Serviço excepcional** (missão ☆☆☆☆+ concluída, algo grande trazido pro clã) continua valendo **−1 de Obrigação** — é a ponte entre os dois trilhos.
+- **Falhar missão não desconta CC; abandonar, sim** (−CC igual ao grau). O Salão anota tudo, e o quadro de quem abandonou é público.
+
+**Pro mestre:** entregue 2–3 missões por visita ao Salão, de graus vizinhos, e deixe o grupo escolher — a escolha é a cena. A missão do quadro vermelho fica lá a campanha inteira, no canto, juntando poeira e olhares.
+
 ### O ônus: Obrigação
 
 **Trilho na ficha, de 0 a 5.** Ramo Principal começa em **1**; Ramo Secundário / Servo começa em **0** (ninguém espera nada dele — que é exatamente o que a Origem promete).

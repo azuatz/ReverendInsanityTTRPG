@@ -62,3 +62,34 @@ e pedras, 6 pontos de imortalidade/Marcas de Dao, varredura de Níveis de Dano,
 heranças r4–9 com gerador, missões de clã e as 3 aptidões por Gu no catálogo.
 Nenhuma nota de regra editada ainda — a auditoria regra × Log de Decisões está
 lendo as pastas 01–06 neste momento. Notas tocadas: 📥 Fontes, 🧭 Processo.
+
+## [2026-08-30] ingest | 8 Gu citados pelas regras entram no catálogo
+Auditoria apontou Gu citados por função nas regras sem entrada no catálogo. Criados: Casulo de Pedra* (r2), Aríete de Essência* (r3), Arca do Sono Longo* (r4), Âncora dos Três Ares*, Selo do Dantian*, Gu da Reforma (Reform Gu) e Verme do Vinho Centenário* (r5), Gu do Mês (Month Gu, r6 — canônico na família do Tempo, sem asterisco; o Gu do Ano r7 já existia, não foi duplicado). Origens registradas no 📜 Livro de Receitas (📕 Reforma e Mês; demais plausíveis) e entradas indexadas no 🗂️ Índice por Caminho (Comida, Formações, Força, Humano, Sangue, Tempo, Terra). Contagens 449 → 457 em 🪱 Gu, 🧬 Receitas de Combo-Refino e 🗂️ Índice; totais de rank 5 (51/53) e rank 6 (35) atualizados no 📖 Catálogo.
+
+## [2026-08-30] lint | Contradição regra × Log de Decisões (a auditoria pesada)
+40 achados: 28 contradições confirmadas, 4 suspeitas, 8 cosméticos. Registrados em
+[[🩺 Lint do Vault]]. O **Achado Zero** dominou tudo: as notas citavam as decisões
+103–112, ausentes do contrato — uma sessão anterior aplicou o feedback do autor nas
+regras e não registrou.
+
+## [2026-08-30] schema | Contrato reconstruído — decisões 103 a 112
+Escritas no [[🧭 Log de Decisões]] a partir das notas que as citam: dano sempre
+rolado (103), sem armas à distância mundanas (104), iniciativa rolada e crítico no
+20 (105), desbloqueios de estágio removidos (106), essência não regenera em combate
+(107), procedimento de avanço de rank imortal (108), teto de Marcas é do total
+(109), Dilatação Temporal 10×–120× (110), Aptidão rolada é definitiva (111),
+fontes menores de Nível de Dano viram acerto/RD (112). As seis decisões antigas
+revogadas — 16, 18, 21, 65, 77, 80 — foram marcadas no lugar, com o motivo.
+
+## [2026-08-30] otimização | Removida a rolagem rápida por média
+A [[📄 Folha de Referência]] se contradizia sozinha (oferecia a tabela de médias e
+declarava "DANO SEMPRE ROLADO") e [[📖 Catálogo de Gu]]`:35` ainda mandava resolver
+25+ dados pela média. Tabela removida da Folha e do índice, frase do Catálogo
+corrigida, regra arquivada em [[Médias do pool (v1)]] com o motivo do autor.
+Cumpre a decisão 103.
+
+## [2026-08-30] ingest | Clipping do repositório GitHub do romance
+Segunda fonte recebida: listagem do repositório `azuatz/Reverend-Insanity`. É
+ponteiro, não conteúdo — informa que o romance completo em EPUB está sob controle
+do autor, o que permitiria checar canonicidade contra a **fonte primária** em vez
+da paráfrase da pasta 10. Não ingerido: depende de decisão do autor sobre clonar.

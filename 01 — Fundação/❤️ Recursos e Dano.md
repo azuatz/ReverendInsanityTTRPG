@@ -84,7 +84,7 @@ Cura = M d8   (M = rank do Gu de cura)
 
 O d8 é o padrão (decisão 14 do [[🧭 Log de Decisões]] — cerca de 25% da barra por ativação). Gu de cura excepcionais usam d10 ou d12; está na ficha de cada um no [[📖 Catálogo de Gu|Catálogo de Gu]]. **B não soma em cura** — Níveis de Dano não afetam cura.
 
-Níveis de Dano **não** afetam cura; o que afeta é um Gu de amplificação do Caminho da Água/Vida especificamente, que sobe o passo do Gu de cura da mesma forma.
+Níveis de Dano **não** afetam cura. A única exceção formalizada é o Gu de amplificação do Caminho da Água/Vida: ele dá **+1 tipo de dado de cura** (d8→d10), não cumulativo, teto d12.
 
 ## 🩹 Ferimento
 

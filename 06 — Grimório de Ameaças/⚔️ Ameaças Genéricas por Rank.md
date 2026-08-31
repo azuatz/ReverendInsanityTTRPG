@@ -30,7 +30,7 @@ Dano de inimigo usa o mesmo **pool de dados** dos jogadores (ver [[⚔️ Combat
 
 ## 🪓 Ação Especial — todo Guerreiro e Elite tem uma
 
-**Uma por inimigo, uma vez por cena.** Um ataque com **+2 Níveis de Dano** que também aplica **Lentidão 2**. Não muda nenhuma estatística do molde e é o que separa um inimigo de um saco de pancada, porque **tirar a ação de um personagem vale mais que tirar Vitalidade dele**.
+**Uma por inimigo, uma vez por cena.** Um ataque com **+4 no acerto** que também aplica **Lentidão 2**. Não muda nenhuma estatística do molde e é o que separa um inimigo de um saco de pancada, porque **tirar a ação de um personagem vale mais que tirar Vitalidade dele**.
 
 Descreva-a como um Gu: o Batedor solta o Gu do Nevoeiro Cego, a Fera-Gu dá a investida que derruba. O mestre anuncia quando usa — a especial gasta, e o grupo precisa saber que já foi.
 

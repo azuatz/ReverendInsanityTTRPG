@@ -11,7 +11,7 @@ escopo: sistema
 
 # 🗂️ Índice de Gu por Caminho
 
-Todos os **449 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Caminho** e ordenados por rank — para quando você sabe *o que* procura ("um Gu de Gelo de rank 3") mas não *onde* está. **De onde cada um sai:** [[📜 Livro de Receitas de Gu]].
+Todos os **457 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Caminho** e ordenados por rank — para quando você sabe *o que* procura ("um Gu de Gelo de rank 3") mas não *onde* está. **De onde cada um sai:** [[📜 Livro de Receitas de Gu]].
 
 > [!tip] Como usar
 > 1. Ache o Caminho na lista abaixo (ordem alfabética).
@@ -23,7 +23,7 @@ Todos os **449 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Os Caminhos deste índice
 
-[[#Adivinhação\|Adivinhação]] 1 · [[#Alma\|Alma]] 28 · [[#Ar\|Ar]] 2 · [[#Assassinato\|Assassinato]] 1 · [[#Celestial\|Celestial]] 6 · [[#Comida\|Comida]] 9 · [[#Cosmos\|Cosmos]] 4 · [[#Cura\|Cura]] 2 · [[#Encantamento\|Encantamento]] 1 · [[#Escravidão\|Escravidão]] 22 · [[#Espada\|Espada]] 11 · [[#Espaço\|Espaço]] 16 · [[#Estrelas\|Estrelas]] 4 · [[#Fera\|Fera]] 3 · [[#Fogo\|Fogo]] 12 · [[#Formações\|Formações]] 7 · [[#Força\|Força]] 35 · [[#Gelo\|Gelo]] 15 · [[#Humano\|Humano]] 25 · [[#Informação\|Informação]] 15 · [[#Leis\|Leis]] 1 · [[#Luz\|Luz]] 22 · [[#Madeira\|Madeira]] 32 · [[#Metal\|Metal]] 23 · [[#Movimento\|Movimento]] 7 · [[#Osso\|Osso]] 14 · [[#Qi\|Qi]] 5 · [[#Reconhecimento\|Reconhecimento]] 1 · [[#Refino\|Refino]] 13 · [[#Regra\|Regra]] 8 · [[#Relâmpago\|Relâmpago]] 15 · [[#Roubo\|Roubo]] 6 · [[#Sabedoria\|Sabedoria]] 20 · [[#Sangue\|Sangue]] 21 · [[#Som\|Som]] 2 · [[#Sombras\|Sombras]] 14 · [[#Sonho\|Sonho]] 7 · [[#Sorte\|Sorte]] 9 · [[#Tempo\|Tempo]] 14 · [[#Terra\|Terra]] 38 · [[#Transformação\|Transformação]] 32 · [[#Trevas\|Trevas]] 5 · [[#Veneno\|Veneno]] 9 · [[#Vento\|Vento]] 5 · [[#Vida\|Vida]] 11 · [[#Vontade\|Vontade]] 1 · [[#Água\|Água]] 20 · [[#Casas de Gu Imortal\|Casas de Gu Imortal]] 12 · [[#Especiais sem Caminho\|Especiais sem Caminho]] 1
+[[#Adivinhação\|Adivinhação]] 1 · [[#Alma\|Alma]] 28 · [[#Ar\|Ar]] 2 · [[#Assassinato\|Assassinato]] 1 · [[#Celestial\|Celestial]] 6 · [[#Comida\|Comida]] 10 · [[#Cosmos\|Cosmos]] 4 · [[#Cura\|Cura]] 2 · [[#Encantamento\|Encantamento]] 1 · [[#Escravidão\|Escravidão]] 22 · [[#Espada\|Espada]] 11 · [[#Espaço\|Espaço]] 16 · [[#Estrelas\|Estrelas]] 4 · [[#Fera\|Fera]] 3 · [[#Fogo\|Fogo]] 12 · [[#Formações\|Formações]] 8 · [[#Força\|Força]] 36 · [[#Gelo\|Gelo]] 15 · [[#Humano\|Humano]] 29 · [[#Informação\|Informação]] 15 · [[#Leis\|Leis]] 1 · [[#Luz\|Luz]] 22 · [[#Madeira\|Madeira]] 32 · [[#Metal\|Metal]] 23 · [[#Movimento\|Movimento]] 7 · [[#Osso\|Osso]] 14 · [[#Qi\|Qi]] 5 · [[#Reconhecimento\|Reconhecimento]] 1 · [[#Refino\|Refino]] 13 · [[#Regra\|Regra]] 8 · [[#Relâmpago\|Relâmpago]] 15 · [[#Roubo\|Roubo]] 6 · [[#Sabedoria\|Sabedoria]] 20 · [[#Sangue\|Sangue]] 22 · [[#Som\|Som]] 2 · [[#Sombras\|Sombras]] 14 · [[#Sonho\|Sonho]] 7 · [[#Sorte\|Sorte]] 9 · [[#Tempo\|Tempo]] 15 · [[#Terra\|Terra]] 40 · [[#Transformação\|Transformação]] 32 · [[#Trevas\|Trevas]] 5 · [[#Veneno\|Veneno]] 9 · [[#Vento\|Vento]] 5 · [[#Vida\|Vida]] 11 · [[#Vontade\|Vontade]] 1 · [[#Água\|Água]] 20 · [[#Casas de Gu Imortal\|Casas de Gu Imortal]] 12 · [[#Especiais sem Caminho\|Especiais sem Caminho]] 1
 
 ## Adivinhação
 
@@ -100,7 +100,7 @@ Todos os **449 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Comida
 
-9 Gu.
+10 Gu.
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
@@ -112,6 +112,7 @@ Todos os **449 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 3 | **Verme do Vinho de Sete Fragrâncias** | Auxiliar | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 4 | **Verme do Vinho de Nove Olhos** | Auxiliar | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 5 | **Gu da Colheita Adiada** ✱ | Sustento, utilidade | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
+| 5 | **Verme do Vinho Centenário** ✱ | Auxiliar, passivo | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 6 | **Petisco** | Suporte / Logística | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
 
 ## Cosmos
@@ -254,7 +255,7 @@ Todos os **449 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Formações
 
-7 Gu.
+8 Gu.
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
@@ -264,11 +265,12 @@ Todos os **449 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 3 | **Gu do Vértice Móvel** ✱ | Formação, sustentado | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 4 | **Gu do Pilar de Domínio** ✱ | Formação, território | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 5 | **Gu Flor-Celeste Cortina de Sangue** — *Sangue/Formações* | Defesa, área | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
+| 5 | **Gu da Âncora dos Três Ares** ✱ | Suporte ritual | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Gu da Muralha Convocada** ✱ | Formação, defensiva | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 
 ## Força
 
-35 Gu.
+36 Gu.
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
@@ -283,6 +285,7 @@ Todos os **449 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 2 | **Gu do Javali Branco e Negro** | Amplificação, permanente | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
 | 2 | **Gu do Javali de Ferro** ✱ — *Força/Transformação* | Amplificação | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
 | 3 | **Gu de Força de Crocodilo Maior** ✱ — *Força/Transformação* | Amplificação, permanente | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
+| 3 | **Gu do Aríete de Essência** ✱ — *Força/Humano* | Consumível, cultivo | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu do Autossustento** | Cura | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu do Empenho Total** | Invocação/Amplificação | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu do Qi de Força** — *Força/Qi* | Amplificação + ataque | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
@@ -332,7 +335,7 @@ Todos os **449 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Humano
 
-25 Gu.
+29 Gu.
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
@@ -342,12 +345,16 @@ Todos os **449 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 2 | **Gu Relíquia de Aço Vermelho** | Consumível, raro | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
 | 2 | **Gu da Língua de Mel** ✱ | Social | [[📖 Catálogo de Gu#🎭 Gu Sociais e de Investigação *(ranks 1 a 4)*\|Sociais]] |
 | 2 | **Gu de Abertura de Pedra** | Auxiliar, permanente | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
+| 2 | **Gu do Casulo de Pedra** ✱ — *Terra/Humano* | Utilidade, armazenamento | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
 | 3 | **Gu Relíquia de Prata Branca** | Consumível, raro | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu da Reunião Sanguínea** — *Sangue/Humano* | Auxiliar, passivo | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
+| 3 | **Gu do Aríete de Essência** ✱ — *Força/Humano* | Consumível, cultivo | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 4 | **Gu Relíquia de Ouro** | Consumível, raríssimo | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
+| 4 | **Gu da Arca do Sono Longo** ✱ — *Terra/Humano* | Utilidade, armazenamento | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Gu do Rosto Emprestado** ✱ — *Transformação/Humano* | Disfarce | [[📖 Catálogo de Gu#🎭 Gu Sociais e de Investigação *(ranks 1 a 4)*\|Sociais]] |
 | 4 | **Par de Gu de Sangue Vinculado** — *Sangue/Humano* | Utilidade, contrato | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 5 | **Gu Relíquia de Cristal Roxo** | Consumível, raríssimo | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
+| 5 | **Gu da Reforma** | Consumível, cultivo | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Gu da Segunda Fenda Vazia** — *Celestial/Humano* | Especial, permanente | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Gu da Unidade Carne-Osso** — *Sangue/Humano* | Especial | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Gu da Vontade Própria** — *Humano/Celestial* | Consumível | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
@@ -644,7 +651,7 @@ Todos os **449 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Sangue
 
-21 Gu — dano em **d8**.
+22 Gu — dano em **d8**.
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
@@ -665,6 +672,7 @@ Todos os **449 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 5 | **Gu da Mão de Sangue** | Ataque, à distância | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Gu da Unidade Carne-Osso** — *Sangue/Humano* | Especial | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Gu do Crânio de Sangue** | Especial, permanente | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
+| 5 | **Gu do Selo do Dantian** ✱ | Suporte ritual | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Guilhotina de Sangue** — *Sangue/Escravidão* | Ataque, enxame | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Verme de Sangue de Parentesco** — *Sangue/Informação* | Rastreio | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 6 | **Ativo de Sangue** | Suporte / Cura | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
@@ -732,7 +740,7 @@ Todos os **449 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Tempo
 
-14 Gu.
+15 Gu.
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
@@ -741,6 +749,7 @@ Todos os **449 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 5 | **Gu do Nó de Duas Horas** ✱ | Utilidade, reativo | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 6 | **Cigarra Primavera-Outono** | Especial / Renascimento | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
 | 6 | **Gu do Dia** | Utilidade | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
+| 6 | **Gu do Mês** | Utilidade | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
 | 6 | **Homem Como Antes** | Cura | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
 | 6 | **Paisagem Como Antes** — *Tempo/Terra* | Utilidade | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
 | 6 | **Roubar Vida Menor** ✱ — *Roubo/Tempo* | Ataque de área | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
@@ -753,7 +762,7 @@ Todos os **449 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Terra
 
-38 Gu.
+40 Gu.
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
@@ -778,11 +787,13 @@ Todos os **449 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 2 | **Gu da Terra Amarela** | Defesa | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
 | 2 | **Gu de Jade Branco** — *Terra/Metal* | Defesa | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
 | 2 | **Gu do Barro Estalado** ✱ | Ataque, à distância | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
+| 2 | **Gu do Casulo de Pedra** ✱ — *Terra/Humano* | Utilidade, armazenamento | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
 | 2 | **Sapo Barrigudo** — *Terra/Comida* | Armazenamento | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
 | 3 | **Gu Mãe da Batata do Trovão Carbonizado** — *Terra/Relâmpago* | Armadilha | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu da Grama-Orelha de Comunicação com a Terra** ✱ | Reconhecimento | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu do Osso de Jade** — *Transformação/Terra* | Consumível, permanente | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu do Punho de Montanha** ✱ | 🔨 Ataque melee — **amplifica** | [[📖 Catálogo de Gu#🔥 Ataque Corpo a Corpo dos Cinco Elementos (Wu Xing)\|Wu Xing]] |
+| 4 | **Gu da Arca do Sono Longo** ✱ — *Terra/Humano* | Utilidade, armazenamento | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Gu da Lasca de Falésia** ✱ | Ataque, à distância | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Gu de Jade Branco** — *Terra/Metal* | Defesa | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Gu do Alicerce de Granito** ✱ | Corpo, reforço estrutural | [[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)\|Corpo Elementais]] |

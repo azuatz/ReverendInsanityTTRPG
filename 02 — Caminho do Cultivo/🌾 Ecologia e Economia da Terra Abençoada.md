@@ -92,7 +92,7 @@ Uma terra camada 3, Fertilidade 5, Sintonia Mestre (2) sustenta `15 + 5 + 4` = *
 | **Antiga fera desolada** *(rank 7+)* | **12** | **30 PEI**, e defende a terra como um Guerreiro de rank 7 |
 | **Veia mineral imortal** | 2 | **5 PEI**, até esgotar a Reserva |
 
-**Multiplicador de qualidade** *(o mesmo do fluxo de tempo)*: Mesquinha **0,5×** · Comum **1×** · Boa **1,5×** · Excelente **2×** · Especial **3×**.
+**Multiplicador de qualidade** *(o mesmo do fluxo de tempo — decisão 110)*: Mesquinha **5×** · Comum **10×** · Boa **20×** · Excelente **30×** · Especial **40×**. A produção corre pelo tempo **interno**: 1 dia externo rende `fluxo` dias de fazenda — e o consumo dos Gu que moram lá dentro corre pelo mesmo relógio, então a despensa e a boca escalam juntas.
 
 ### A regra da rejeição
 

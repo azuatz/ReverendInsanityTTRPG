@@ -24,23 +24,13 @@ escopo: sistema
 
 Todo personagem tem **12 pontos**, gastos em atributos (ver [[💪 Atributos|Atributos]]) — 1 ponto por degrau até +3, 2 pontos pra ir de +3 a +4, e descer um atributo pra −1 devolve 1 ponto.
 
-A **Aptidão** entra e sai desse mesmo bolso. Nada mais mexe nele.
+**Só atributos.** A Aptidão é rolada e não se negocia (ver abaixo); nada mais mexe nesse bolso.
 
-## Aptidão: vender ou comprar
+## Aptidão: rolada, e ponto final
 
-A Aptidão foi rolada (`1d80+20`, ver [[🌟 Aptidão e Abertura|Aptidão e Abertura]]). Depois de rolar, o jogador pode negociar o número:
+A Aptidão é rolada (`1d80+20`, ver [[🌟 Aptidão e Abertura|Aptidão e Abertura]]) e **o número que sair é o número** — não se compra pra cima nem se vende pra baixo com pontos de criação (decisão 111; a opção de negociar ±5%/±10% existiu e foi removida — as aptidões da mesa foram roladas e ficam como caíram). Ponto de criação compra atributo; Aptidão vem do dado, e mudá-la depois é história (Gu de aptidão, métodos de Sangue), nunca planilha.
 
-| Ajuste | Efeito no orçamento |
-|---|---|
-| **Baixar 5%** | **+1 ponto** |
-| **Baixar 10%** | **+2 pontos** |
-| **Subir 5%** | **−2 pontos** |
-| **Subir 10%** | **−4 pontos** |
-| **Ir a 100% e tomar um dos Dez Físicos Extremos** | **−8 pontos**, e a Dívida do Destino — *ou de graça, se for o seu Buff de Lore* |
-
-Baixar rende menos do que subir custa, de propósito: Aptidão é o teto da vida inteira do personagem, e o sistema não quer que seja barato comprá-la.
-
-**Piso e teto:** a Aptidão não pode ser negociada pra baixo de **20%** nem pra cima de **99%** — 100% só existe através do pacote dos Dez Físicos Extremos.
+A única exceção continua sendo o pacote abaixo — que não é "comprar aptidão", é assumir outra categoria de existência:
 
 ### O pacote dos Dez Físicos Extremos
 
@@ -88,7 +78,7 @@ O ponto extra das duas Origens "de baixo" existe porque elas começam sem rede d
 
 ## O passo a passo, em ordem
 
-1. **Aptidão** — já rolada. Decida se vai negociar (e quanto isso custa ou rende).
+1. **Aptidão** — já rolada. O número é definitivo.
 2. **Origem** — escolha por conceito. Aplique o ajuste, se houver.
 3. **Atributos** — distribua o que sobrou dos 12 pontos.
 4. **Calcule os derivados** — Vitalidade, Alma, Essência, Defesa, limite de Gu.
