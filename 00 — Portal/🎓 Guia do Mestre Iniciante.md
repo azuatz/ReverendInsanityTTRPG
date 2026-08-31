@@ -87,7 +87,7 @@ Existem **cinco** coisas que você vai resolver o tempo todo. Nenhuma outra regr
 ### 1. Um teste comum
 
 ```
-d20 + atributo + 2 (se ele for treinado nisso)   vs   Dificuldade
+d20 + atributo + bônus de treino (se treinado — +2 no rank 1, cresce com o rank)   vs   Dificuldade
 ```
 
 | Dificuldade | Quando |
@@ -97,7 +97,7 @@ d20 + atributo + 2 (se ele for treinado nisso)   vs   Dificuldade
 | **18** | Difícil de verdade |
 | **22+** | Só com ajuda ou preparação |
 
-**Perícias não têm lista.** Se o personagem tem um motivo pra ser bom naquilo (a origem, a profissão, o que ele passou a campanha fazendo), você concede **+2** e pronto.
+**Perícias têm lista fechada e curta** — 17 nomes divididos pelos seis atributos, em [[🎯 Perícias]] (Atletismo, Furtividade, Percepção… mais as quatro que só este jogo tem: **Bestiário**, Refino, Avaliação e Etiqueta de Clã). O bônus de treino **cresce com o rank** (+2 no rank 1 até +6 no rank 8 — tabela em [[💪 Atributos]]); sem treino, só o atributo. Cada personagem sai da criação com **três** treinadas.
 
 ### 2. Um ataque
 
@@ -468,7 +468,7 @@ Não leia o vault inteiro. Leia nesta ordem, conforme a mesa precisar:
 ## 🎯 O resumo que cabe num post-it
 
 ```
-Teste          d20 + atributo (+2 se treinado) vs 10/14/18/22
+Teste          d20 + atributo (+ treino: 2 a 6 pelo rank) vs 10/14/18/22
 Ataque         d20 + FOR|DES|VON + (rank+2) [+ rank do Gu]  vs  Defesa
 Defesa         10 + DES + rank + rank do Gu de movimento ativo
 Dano           M d(dado do Caminho) + (M × B)        [FOR fica fora do pool]

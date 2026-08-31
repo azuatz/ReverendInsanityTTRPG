@@ -18,4 +18,5 @@ Nota-mãe. Criação de personagem, origens, pontos de criação, vínculos e ac
 - [[📋 Guia de Criação de Ficha]] — passo a passo completo
 - [[🌱 Origens]] — as 5 origens, e de onde vem o primeiro Gu de cada uma
 - [[🤝 Vínculos e Acordo de Mesa]] — o Vínculo como regra de ficha, e o protocolo de traição entre jogadores
+- [[🎯 Perícias]] — a lista fechada do que se sabe fazer sem Gu, e o bônus de treino que cresce com o rank
 - [[🏛️ Clãs e Seitas]] — heranças de sangue e Obrigação × Pontos de Contribuição

@@ -116,7 +116,7 @@ Custo: 1 ponto por degrau até +3; de +3 pra +4 custam 2. Descer um atributo a �
 
 # 🎲 As regras na prática
 
-**Testes:** `d20 + atributo` (+2 se treinado) contra 10 / 14 / 18 / 22.
+**Testes:** `d20 + atributo` + bônus de treino se for perícia treinada (começa em +2 e cresce com o rank) contra 10 / 14 / 18 / 22. Você escolhe **3 perícias treinadas** na criação — a lista está na ficha.
 
 **Ataque:** `d20 + atributo + (rank + 2)` contra a Defesa do alvo. Gu somam o rank deles no acerto.
 

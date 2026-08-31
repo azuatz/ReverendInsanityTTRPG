@@ -112,6 +112,7 @@ escopo: processo
 | [[🌱 Origens]] | As **5 origens** e, mais importante, **de onde vem o primeiro Gu** de cada uma — que é a decisão que a origem realmente toma |
 | [[📋 Guia de Criação de Ficha]] | Passo a passo completo, do conceito à ficha pronta |
 | [[🤝 Vínculos e Acordo de Mesa]] | **A nota que protege jogador, não personagem** — o Vínculo (vantagem 1×/sessão, quebra vira Débito), as 5 perguntas do Acordo de Mesa e as 5 amarras do protocolo de traição |
+| [[🎯 Perícias]] | **A lista fechada de 17 perícias** pelos seis atributos (com Bestiário, Refino, Avaliação e Etiqueta de Clã como as quatro do cenário), 3 treinadas na criação, bônus de treino escalando +2→+6 pelo rank |
 | [[🏛️ Clãs e Seitas]] | Clã = sangue (heranças de linhagem + trilho de **Obrigação**) × Seita = contrato (**Pontos de Contribuição** com tabela de preços). Salão de Missões mortal; ao ascender a Imortal, vira os **Três Quadros** (Contribuição, Missões, Troca) |
 
 ## 05 — Arsenal

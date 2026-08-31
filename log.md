@@ -680,3 +680,16 @@ Achado colateral da décima segunda rodada, medido à parte. Todas as rodadas de
 
 ## [2026-08-31] ingest | O bônus de treino passa a escalar por rank (decisão 211)
 Pedido do autor, calibrado contra o F&M como ele pediu: a fonte usa base +2 subindo +1 nos níveis 5/9/13/17 até +6 (cinco degraus em 20 níveis), e "+1 a cada rank par" reproduz a mesma faixa e o mesmo número de degraus nos 9 ranks daqui (+2 · +3 · +4 · +5 · +6). Aplicado em [[💪 Atributos]] com tabela e citação. É número de combate aplicado antes de simulação, por pedido direto — mesmo padrão da decisão 132, com a mesma obrigação de medir na próxima rodada. Interação séria identificada e registrada em "Em aberto": soma até +4 no acerto dos PJs nos ranks altos, justamente o eixo que a decisão 202 apontou como causa do colapso imortal; o lado do inimigo NÃO foi mexido, porque aplicar simétrico no escuro trocaria um desequilíbrio por outro.
+
+## [2026-08-31] ingest | Perícias com lista fechada e o mapa do atalho do Sangue (decisões 212 + seção nova)
+Pedido direto do autor, em duas pontas: (1) nova nota [[🎯 Perícias]] — 17
+perícias pelos seis atributos, calibradas contra F&M (lista fechada, treino em
+degraus), com Bestiário/Refino/Avaliação/Etiqueta de Clã como as quatro do
+cenário; 3 treinadas na criação, bônus vindo da tabela da decisão 211 em
+[[💪 Atributos]] (fonte única). Sincronizada em Guia, Pacote Discord,
+Dicionário, Mapa e nota-mãe; revisão da outra sessão aplicada (link de CD,
+linha de Concentração sem regra fantasma, Furtividade decidindo emboscada).
+(2) Seção "Por que Sangue avança mais rápido" em [[🩸 Caminho do Sangue]] —
+o mapa do atalho do Jiãotáng num lugar só (via de avanço em dobro, custo
+reduzido, pagar em Vitalidade, lifesteal, Manto Fervente, sangue de parente),
+📕 ancorado na citação da decisão 158, sem regra nova.

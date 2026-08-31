@@ -133,6 +133,23 @@ O [[📖 Catálogo de Gu|Gu do Crânio de Sangue]] (rank 5, catálogo) eleva a A
 
 É a única regra desta nota sem válvula de escape, e é de propósito. Ver [[🛤️ Os Caminhos|Os Caminhos]]: a via de avanço do Caminho do Sangue rende Marca em dobro justamente por **sacrificar sangue de parente**. O Caminho recompensa exatamente a coisa que o mundo pune com a morte, e é isso que ele é.
 
+## 🚀 Por que Sangue avança mais rápido — o mapa do atalho
+
+*(📕 O cânone é explícito: o Caminho do Sangue "permite crescimento rápido, com pouquíssima exigência de recursos" — é o Caminho de quem cresce **lutando**, não comprando. Vol. 5; a citação está na decisão 158. Esta seção só junta num lugar só as peças que já existem espalhadas pelo vault — nenhuma regra nova.)*
+
+Um cultivador de Sangue não espera a mesada do clã. O combustível dele anda por aí, dentro dos outros — e cada ferramenta abaixo já está fichada:
+
+| O atalho | O que faz | Onde está | O preço |
+|---|---|---|---|
+| **A via de avanço** | Toda cena decidida por sacrifício de sangue próprio (ou de parente) rende **Marca em dobro**, e a próxima Calamidade rende +50% | [[🛤️ Os Caminhos]] | O que a via pede é literalmente sangrar |
+| **Custo de essência reduzido** | Gu de Sangue custam menos essência que os equivalentes de outros Caminhos — mais ativações por tanque, menos dependência de Pedra | Esta nota (topo) | Pagamento em Vitalidade — a Dívida de Sangue |
+| **Pagar ativação em Vitalidade** | Sem essência? O corpo paga. É o único Caminho que continua lutando de tanque vazio | Esta nota, Dívida de Sangue | Teto efetivo de vida encolhendo a cada uso |
+| **Lifesteal em combate** | Lua Sangrenta / Lua Cheia Sangrenta devolvem metade do dano como cura — lutar **é** se sustentar | [[📖 Catálogo de Gu]] r3-4 | Só funcionam à noite |
+| **Manto Fervente** | Compra +1 a +3 Níveis de Dano na hora, sem preparação, sem condição — o botão de decidir duelo | Esta nota, rank 4 | `N×M` de Dívida e 3 rodadas sem poder ser curado |
+| **O sangue de parente** | +10% de Abertura por consanguíneo (Crânio de Sangue), Marca em dobro na via | Seção acima | Suspeita 5 direto, linhagem antagonista pra sempre — o preço que não se paga com dinheiro |
+
+**A leitura de mesa, e o que ela significa pro grupo:** enquanto o resto da mesa precisa de Pedras, receitas e tempo de reclusão, o Jiãotáng — ou qualquer cultivador de Sangue — converte **combate e o próprio corpo** em progressão. Ele vai estar sempre um passo à frente em Marcas e um passo mais fundo na Dívida; a curva dele é mais íngreme nos dois sentidos. O mestre não precisa frear isso: o freio já está embutido (Dívida, Suspeita, e a caçada de toda facção correta) — o cânone descreve o Caminho exatamente assim, rápido e condenado.
+
 ---
 
 ## Golpes Matadores do Caminho do Sangue

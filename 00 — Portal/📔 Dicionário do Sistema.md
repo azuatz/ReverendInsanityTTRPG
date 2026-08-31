@@ -26,6 +26,7 @@ escopo: sistema
 | **Grau (A/B/C/D)** | A faixa de Aptidão em letra, não outra escala: **D** 21–39% (teto rank 1) · **C** 40–59% (rank 2) · **B** 60–79% (rank 3–4) · **A** 80–99% (rank 5) | [[🌟 Aptidão e Abertura]] |
 | **Despertar (Cerimônia do)** | O rito da adolescência em que a Abertura se abre e a Aptidão é medida **em público**, diante da comunidade inteira. É onde a vida de todo cultivador começa — e a injustiça visível dela é o gerador de conflito nº 1 do cenário | [[🌟 Aptidão e Abertura]] |
 | **Atributos** | Os seis: **FOR** (melee), **CON** (vida), **DES** (Defesa), **AST** (ler o mundo), **VON** (ativar Gu), **CAR** (ler pessoas). 12 pontos de compra | [[💪 Atributos]] |
+| **Perícia** | O que se sabe fazer sem Gu — lista fechada de 17, três treinadas na criação. O bônus de treino cresce com o rank (+2 → +6) | [[🎯 Perícias]] |
 | **Origem** | De onde o personagem vem (5 opções) — define recursos iniciais e de onde veio o primeiro Gu | [[🌱 Origens]] |
 | **Vínculo** | Laço declarado com outra pessoa; vantagem 1×/sessão. Quebrar vira Débito | [[🤝 Vínculos e Acordo de Mesa]] |
 | **Gu Vital** | O Gu-identidade do personagem: nunca morre em refino falho, é o último a cair em combate | [[🧩 Refino e Precificação]] |
