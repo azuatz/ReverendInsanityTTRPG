@@ -31,6 +31,22 @@ O que importa não é o total de Marcas, e sim **quantas você tem no Caminho es
 | **Quase-Supremo** | 150.000 – 299.999 | +4 Níveis; Golpes Matadores do Caminho ganham vantagem no teste; ignora RD de fontes de rank inferior |
 | **Grande Mestre Supremo** | 300.000+ | +5 Níveis; pré-requisito obrigatório pra virar Venerável; dentro do próprio domínio, cada ação recebe amplificação do céu e da terra |
 
+> [!info] 🔧 Adaptado — o nome "Quase-Supremo" não é o nome canônico deste patamar
+> O romance descreve a escada de attainment com 5 patamares principais e
+> sub-degraus "quase-" intercalados entre eles (Cap. 1326, 1501–1502): Comum →
+> Mestre → Grão-mestre → **Grão-grão-mestre** (também chamado de "Grande
+> Grão-Mestre" — o patamar que a maioria dos Imortais de rank 8 atinge na
+> vida) → Grão-mestre Supremo (pico absoluto: os Dez Veneráveis são todos
+> grão-mestres supremos, e só existiram 3 grão-mestres supremos em toda a
+> história do Caminho de Refino). O nome canônico do quinto degrau da tabela
+> acima é **Grão-grão-mestre**, não "quase-supremo" — no romance, "quase-X" é
+> sempre um sub-degrau **abaixo** de um patamar principal, então um
+> "quase-supremo" de verdade seria um degrau ainda mais raro que este, logo
+> abaixo do topo. A tabela mantém o nome "Quase-Supremo" por já estar
+> consolidado em mais de dez notas do vault (inclusive como resposta de um
+> enigma em [[📜 Catálogo de Heranças]]) — renomear em cascata é decisão do
+> autor, não desta auditoria.
+
 Os Níveis de Dano são os mesmos da [[⚔️ Combate|Escada de Dano]] — Marcas empurram os Gu do seu Caminho pra cima na escada. É a razão mecânica pela qual um Imortal veterano de rank 6 mata um Imortal recém-ascendido de rank 7 sem suar: mesmo com M menor, ele rola dados muito maiores.
 
 ### O que cada nível destrava além do dano
@@ -82,7 +98,7 @@ Toda Marca pertence a um Caminho, definido pela **fonte** — não se escolhe de
 | **Terra Abençoada (passiva)** | O da **Sintonia** da terra — sempre (decisão 84) |
 | **Refinar Gu Imortal** | O Caminho do Gu refinado |
 | **Uso pesado em cena** | O Caminho que decidiu a cena |
-| **Anexação** | As Marcas vêm já com o Caminho da vítima — só as do Caminho que você cultiva grudam; o resto se perde |
+| **Anexação** | As Marcas vêm já com o Caminho da vítima — só as do Caminho que você cultiva grudam, e mesmo essas em fração parcial (ver tabela abaixo); o resto se perde |
 
 **Quem cultiva dois Caminhos** paga duas vezes: além do conflito (toda fonte rende **um terço a menos** por Caminho extra — item 5 abaixo), a divisão sai do **mesmo teto total**. O especialista enche o cofre com um Caminho só e é denso; o generalista divide o mesmo cofre e é raso em tudo — é exatamente por isso que a especialização é a norma canônica.
 
@@ -97,7 +113,7 @@ Marca não se compra e não vem de tabela de XP. Vem de quatro fontes, todas car
 | **Sobreviver a uma Calamidade ou Provação** | Ver a tabela abaixo | Risco de morte. É a fonte principal e a mais honesta |
 | **Uso pesado e prolongado de Gu do Caminho** | 1 Marca por cena em que o Caminho decidiu o resultado; 10–50 num arco inteiro dedicado | Lento. Sozinho, nunca chega a Grão-Mestre |
 | **Refinar um Gu Imortal do Caminho** | 500 – 5.000, conforme o rank do Gu | Consome o material e pode matar o Gu |
-| **Anexar a Abertura de outro Imortal** | Metade das Marcas que a vítima tinha **naquele Caminho** (Marcas de outros Caminhos se perdem) | Exige nível Grão-Mestre e matar/subjugar outro Imortal. É crime capital em qualquer facção ortodoxa |
+| **Anexar a Abertura de outro Imortal** | Uma **fração** das Marcas que a vítima tinha **naquele Caminho** (Marcas de outros Caminhos se perdem) — o corpo do anexador rejeita a maior parte das Marcas "estranhas"; sugestão de mesa: **30%** para um anexador comum, subindo com o quanto seu próprio domínio no Caminho supera o da vítima. 100% é anomalia fora do alcance de um PJ comum (🔧 adaptado — Cap. 1185) | Exige nível **Mestre** pra Aberturas de rank 6, **Grão-Mestre** a partir de rank 7 (🔧 adaptado — Cap. 735; a nota mantinha Grão-Mestre fixo). Matar/subjugar outro Imortal é crime capital em qualquer facção ortodoxa |
 
 ### Quantas Marcas se começa
 
@@ -118,11 +134,11 @@ Um Imortal típico investe 3 a 4 Porções de Qi Terrestre, então entra no rank
 
 | Evento | Quando vem | Rende (normal) | Rende (Físico Extremo) |
 |---|---|---|---|
-| **Calamidade Terrestre** | a cada **10 anos de tempo interno** | **200 – 500** | **400 – 1.000** *(dobro)* |
-| **Provação Celestial** | a cada **100 anos internos** | **1.000 – 2.000** | **2.000 – 4.000** |
-| **Grande Calamidade** *(rank 7+)* | a cada 100 anos internos | **6.000 – 8.500** | dobro |
-| **Calamidade das Dez Mil** *(rank 8+)* | a cada 100 anos internos | **75.000 – 100.000** | dobro |
-| **Calamidade do Caos** *(rank 9)* | a cada 100 anos internos | **30.000+** | dobro |
+| **Calamidade Terrestre** | ranks 6–7, ver cadência abaixo | **200 – 500** | **400 – 1.000** *(dobro)* |
+| **Provação Celestial** | ranks 6–8, ver cadência abaixo | **1.000 – 2.000** | **2.000 – 4.000** |
+| **Grande Calamidade** *(rank 7+)* | ranks 7–9, ver cadência abaixo | **6.000 – 8.500** | dobro |
+| **Calamidade das Dez Mil** *(rank 8+)* | ranks 8–9, ver cadência abaixo | **75.000 – 100.000** | dobro |
+| **Calamidade do Caos** *(rank 9)* | só Venerável, ver cadência abaixo | **30.000+** | dobro |
 
 > [!note] Rendimento recalibrado pela fonte primária *(2026-08-30)*
 > O romance dá uma contagem oficial de Marcas por tribulação: **Calamidade
@@ -133,23 +149,30 @@ Um Imortal típico investe 3 a 4 Porções de Qi Terrestre, então entra no rank
 > Corrigido acima. Calamidade do Caos (rank 9) segue **✍️ autoral** — a
 > referência não documenta esse patamar com número.
 
-> [!warning] Pendência não resolvida — a frequência também acelera por rank, e isto não foi corrigido
-> O romance mostra a **cadência** ficando mais rápida a cada rank, não só uma
-> provação nova se somando à antiga: no rank 7 a Tribulação Celestial passa a
-> vir a cada **50 anos** (não mais 100); no rank 8, a cada **10 anos**, com a
-> Grande Tribulação a cada **50** (Cap. 1007). A tabela acima mantém "a cada
-> 100 anos internos" congelado em toda provação do rank 7 em diante — o que a
-> auditoria de fidelidade não teve como corrigir sem o texto completo do
-> intervalo entre ranks. **Mudar isso reabre o cálculo de calendário externo
-> por Dilatação Temporal para os ranks 7–9** (a conta de "300 anos pro rank 6"
-> abaixo não muda — ela usa só Calamidade Terrestre e Provação Celestial, que
-> já batem). Fica registrado como pendência explícita, não decisão silenciosa.
+### A cadência acelera por rank
+
+> [!success] Pendência da decisão 142 resolvida *(2026-08-31)* — 📕 canônico
+> A leitura integral encontrou a regra completa, repetida quase palavra por
+> palavra em vários volumes (Cap. 740, 826, 1097, 1161, 1185, 1217, 1703, 1007,
+> 2136, 2300): a cadência **não é fixa em "a cada 100 anos"** — ela acelera a
+> cada rank, num padrão consistente. A cada salto, o evento mais frequente do
+> patamar anterior é descartado, todo o resto acelera um degrau (100 → 50 → 10
+> anos), e um evento novo aparece no topo, a cada 100 anos.
+
+| Rank | A cada 100 anos (mais raro) | A cada 50 anos | A cada 10 anos (mais frequente) |
+|---|---|---|---|
+| **6** | Provação Celestial | — | Calamidade Terrestre |
+| **7** | Grande Calamidade | Provação Celestial | Calamidade Terrestre |
+| **8** | Calamidade das Dez Mil | Grande Calamidade | Provação Celestial |
+| **9 — Venerável** | Calamidade do Caos | Calamidade das Dez Mil | Grande Calamidade |
+
+Note o padrão: no rank 8, a Calamidade Terrestre **para de ocorrer** (o Imortal já a superou); no Venerável, é a Provação Celestial que some. **Três ocorrências do evento mais raro do patamar (3 × 100 anos internos = 300 anos) precedem a Provação de Avanço em todo rank de 6 a 8** — não só no rank 6: 3 Provações Celestiais levam de 6 a 7, 3 Grandes Calamidades de 7 a 8, 3 Calamidades das Dez Mil de 8 a 9 (só dez pessoas em toda a história sobreviveram às três). Um Venerável não tem mais rank pra subir, mas a cadência continua: a Calamidade do Caos vem do Caos fora do mundo, a cada 100 anos, com 8 Grandes Calamidades e 1 Calamidade das Dez Mil entre uma e outra.
 
 **A frequência é contada no tempo interno da Terra Abençoada, não no do mundo.** Com a Dilatação Temporal (decisão 110), uma terra Comum (10×) encontra a Calamidade Terrestre a cada **~1 ano de fora**; uma Especial (40×), a cada **~3 meses**. Ver [[🗝️ Terra Abençoada|Terra Abençoada]].
 
-> **A conta que fecha com o cânone.** O relógio do salto de rank é **interno**: ~30 Calamidades Terrestres + 3 Provações Celestiais ≈ **300 anos de tempo interno** pra atravessar o rank 6 — exatamente os "300 anos" canônicos. A Dilatação converte isso em calendário de campanha: um Imortal comum com terra Comum (10×) atravessa o rank 6 em **~30 anos externos**; com terra Boa (20×), em ~15.
+> **A conta que fecha com o cânone — e agora vale pra ranks 7 e 8 também.** O relógio do salto de rank é **interno**, e o mesmo padrão vale em toda a faixa 6–8: 3 repetições do evento mais raro do patamar, a 100 anos internos cada, dão sempre **~300 anos de tempo interno** pra atravessar um rank — os "300 anos" canônicos generalizam, não são exclusivos do rank 6. A Dilatação converte isso em calendário de campanha, **por rank**: um Imortal comum com terra Comum (10×) atravessa cada rank de 6 a 8 em **~30 anos externos**; com terra Boa (20×), em ~15 — o mesmo número, repetido a cada patamar, porque em todo rank o gargalo é "3× o evento de 100 anos".
 >
-> Um portador de Físico Extremo com terra Especial (40–50×, dobro de Marcas e as mesmas provações num relógio 4× mais rápido) faz o trajeto em **~4 a 6 anos externos** — enfrentando uma Calamidade a cada ~3 meses de campanha, com +5 de CD em cada uma. É rápido porque é perigoso, não apesar disso.
+> Um portador de Físico Extremo com terra Especial (40–50×, dobro de Marcas e as mesmas provações num relógio 4× mais rápido) faz cada rank em **~4 a 6 anos externos** — enfrentando o evento mais raro do patamar a cada ~3 meses de campanha, com +5 de CD em cada uma. É rápido porque é perigoso, não apesar disso.
 
 **Falhar numa Calamidade** não zera as Marcas: você simplesmente **não ganha as daquele evento**, leva o dano, e a Terra Abençoada ganha um Ferimento da Terra (ver [[🗝️ Terra Abençoada|Terra Abençoada]]) — o que desacelera tudo até ser reparado. É assim que uma sequência ruim custa décadas.
 
@@ -186,7 +209,7 @@ Um portador de Físico Extremo entra no rank 6 com o dobro de Marcas, terra Espe
 | **Herança verdadeira / Significado Verdadeiro** | Um legado condensado de compreensão transmite domínio direto: salta o personagem **um nível de domínio** no Caminho da herança (a regra do "gênio pobre" desta nota) e pode trazer Gu Imortais e receitas prontas | Achar, disputar e sobreviver à herança — ver [[🎲 Gerador de Heranças]] |
 | **Reinos de Sonho** | O acelerador canônico mais forte: explorar um reino de sonho rende Marcas e compreensão num ritmo impossível por cultivo normal — **um mês lá dentro vale o que anos valem fora** (trate cada exploração bem-sucedida como uma Calamidade Terrestre em Marcas, sem esperar o ciclo) | Perigo real a cada entrada, e sem método do Caminho dos Sonhos a alma fica lá |
 | **Gu que aceleram o avanço** | Gu de Marcas emprestadas, Gu que convertem provação em compreensão, Gu de tempo que aceleram refino e cultivo — a lista completa está em [[🚀 Gu de Avanço de Rank]] | Raros, caros, e quase todos consumíveis ou com contrapartida |
-| **Anexação** | Engolir a Abertura de outro Imortal: metade das Marcas dele no seu Caminho, a terra, os recursos | Exige Grão-Mestre, e é crime capital ortodoxo |
+| **Anexação** | Engolir a Abertura de outro Imortal: uma fração (sugestão de mesa: ~30%) das Marcas dele no seu Caminho, a terra, os recursos | Exige Mestre (Abertura rank 6) ou Grão-Mestre (rank 7+), e é crime capital ortodoxo |
 | **Investir na terra** | Subir camada e fluxo de tempo da própria Terra Abençoada multiplica as Marcas passivas e a frequência de Calamidades — ver [[🗝️ Terra Abençoada]] | Décadas de gestão, e o céu cobra na mesma proporção |
 | **Cooperação em Calamidade** | Dois Imortais que atravessam provações juntos (pactos de socorro mútuo) falham menos e colhem mais — é o único desconto de risco que não custa Marca | O pacto é um Débito, e Débito entre Imortais dura séculos |
 
@@ -237,3 +260,6 @@ Dentro do próprio território reivindicado, o Venerável soma **+1 Nível de Da
 - **Não rastreie Marca por Marca.** Anote a contagem por Caminho na ficha e atualize em blocos, no fim de cada arco ou depois de cada Calamidade. O número exato só importa perto de uma virada de nível de domínio.
 - **A pergunta de ficha que importa é:** "quantas Marcas você tem no Caminho que vai usar nesta cena?" — não "qual seu rank".
 - **Um Imortal NPC bem construído** declara duas coisas: rank (o que ele pode ativar) e nível de domínio no Caminho principal (o quanto isso dói). Ver [[⚔️ Ameaças Genéricas por Rank|Ameaças Genéricas por Rank]].
+
+> [!warning] Achado sinalizado, não aplicado — amplificação por Marca pode ser não-linear no topo
+> O cânone (Cap. 852) documenta ~+20% de poder a cada 200 Marcas na faixa baixa, mas descreve saltos de centenas a milhares de vezes em rank 8 — não-linear, ao contrário dos +1 Nível de Dano por patamar desta escada. É número de combate/letalidade: não mexido sem simulação, registrado em `_Processo/🧭 Log de Decisões.md` → 🔔 Em aberto, pra decisão do autor.
