@@ -89,7 +89,7 @@ escopo: sistema
 | **Herança** | O legado escondido de um cultivador morto: manuais, Gu, receitas — com amarras | [[📜 Manuais e Heranças]] |
 | **Crítico** | 20 natural no ataque: acerta sempre e **dobra os dados** de dano | [[⚔️ Combate]] |
 | **Iniciativa** | `d20 + DES`, rolada no início do combate | [[⚔️ Combate]] |
-| **Metrópole / Centros** | A grande cidade dentro da montanha, em 5 anéis pagos — do 5º (rank 1) ao 1º (rank 5) | [[🏙️ Metrópoles — Centros, Tokens e Arena]] |
+| **Metrópole / Centros** | A grande cidade dentro da montanha, em 5 anéis — do 5º (livre, rank 1) ao 3º (pago, rank 3); o 2º e o 1º não se compram, só sangue de clã abre | [[🏙️ Metrópoles — Centros, Tokens e Arena]] |
 | **Token de Sangue** | Identidade de metrópole ligada ao seu sangue, em 5 cores; dá desconto, acesso — e desbota | [[🏙️ Metrópoles — Centros, Tokens e Arena]] |
 | **Arena** | A liga de duelos da metrópole: bolsa por espectador, e o vencedor escolhe **um Gu** do perdedor | [[🏙️ Metrópoles — Centros, Tokens e Arena]] |
 | **Vitórias líquidas** | Vitórias − derrotas na arena; é o que sobe você de faixa (0 / 30+ / 80+) | [[🏙️ Metrópoles — Centros, Tokens e Arena]] |

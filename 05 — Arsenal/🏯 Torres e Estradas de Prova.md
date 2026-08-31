@@ -82,7 +82,7 @@ Qualquer personagem pode gastar uma ação de exploração (teste de AST contra 
 
 | 1d6 | Custo de entrada |
 |---|---|
-| 1–2 | **Pedras fixas** na porta (referência: `~100 × rank²`, [[💠 Economia das Pedras Primordiais]]) |
+| 1–2 | **Pedras fixas** na porta (referência: `~100 × rank²` — em Pedras Primordiais até rank 5; em Pedras de Essência Imortal a partir do rank 6, [[💠 Economia das Pedras Primordiais]]) |
 | 3–4 | **Percentual dos ganhos** prometido ao controlador da estrutura, selado em Gu de Juramento (10–30%, ver [[🎲 Gerador de Heranças]] 6º passo) |
 | 5–6 | **Os dois** |
 
