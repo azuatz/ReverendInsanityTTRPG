@@ -126,10 +126,10 @@ Nenhuma fonte de regeneração de essência devolve mais do que isto por rodada,
 
 A Abertura tem paredes, e é rompendo e reconstruindo essas paredes que o cultivo mortal acontece (a Quebra de Paredes — ver [[🪜 Ranks e Estágios|Ranks e Estágios]]). Certas coisas as danificam de forma permanente:
 
-| Estado da parede | Origem | Efeito |
-|---|---|---|
-| **Paredes Mortas** | Transformação em zumbi, ou dano de Alma catastrófico | Interrompe cultivo e regeneração de essência por completo. O personagem para de progredir |
-| **Paredes de Pedra** | Gu de Dantian de Pedra e similares | +50% de Essência máxima, mas a parede perde flexibilidade: **teto de rank permanente onde estiver**. Atalho clássico de quem desistiu de ascender |
+| Estado da parede     | Origem                                               | Efeito                                                                                                                                            |
+| -------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Paredes Mortas**   | Transformação em zumbi, ou dano de Alma catastrófico | Interrompe cultivo e regeneração de essência por completo. O personagem para de progredir                                                         |
+| **Paredes de Pedra** | Gu de Dantian de Pedra e similares                   | +50% de Essência máxima, mas a parede perde flexibilidade: **teto de rank permanente onde estiver**. Atalho clássico de quem desistiu de ascender |
 
 ### 3. A Ativação Forçada — a única forma de furar a Porta
 

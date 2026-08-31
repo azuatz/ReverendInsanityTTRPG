@@ -104,12 +104,12 @@ Some `M × B` depois de consultar.
 
 ## 💠 O estágio numa linha
 
-| Estágio | B | Dano | VIT | Alma | Suporte | Combo | Desbloqueio |
-|---|---|---|---|---|---|---|---|
-| Inicial | 0 | — | base | base | 0 | 2 | — |
-| Médio | 1 | +1/dado | +4×M | +3×M | 1 | 3 | +1 resistência e ordem |
-| Alto | 2 | +2/dado | +8×M | +6×M | 2 | 4 | +2 · 1 ativação/cena pela metade |
-| Pico | 3 | +3/dado | +12×M | +9×M | 3 | 5 | +3 · 1ª ativação grátis · **ignora ½ RD** |
+| Estágio | B   | Dano    | VIT   | Alma | Suporte | Combo | Desbloqueio                               |
+| ------- | --- | ------- | ----- | ---- | ------- | ----- | ----------------------------------------- |
+| Inicial | 0   | —       | base  | base | 0       | 2     | —                                         |
+| Médio   | 1   | +1/dado | +4×M  | +3×M | 1       | 3     | +1 resistência e ordem                    |
+| Alto    | 2   | +2/dado | +8×M  | +6×M | 2       | 4     | +2 · 1 ativação/cena pela metade          |
+| Pico    | 3   | +3/dado | +12×M | +9×M | 3       | 5     | +3 · 1ª ativação grátis · **ignora ½ RD** |
 
 ## ☯️ Depois do rank 6, o domínio ocupa o lugar do estágio
 
