@@ -293,6 +293,7 @@ Chance base ~55%. A partir daqui, quase toda receita circula **trancada** — sa
 | **Gu do Retalho de Sonho** ✱ | Gu do Travesseiro Emprestado + Gu da Pegada | O sono alheio deixa pegadas; este Gu as segue |
 | **Gu do Vértice Móvel** ✱ | Gu da Estaca de Âncora + Gu do Grilo de Jade | O vértice aprende a andar com o dono |
 | **Gu do Aríete de Essência** ✱ | Besouro-Chifre-Longo de Força Bruta + Gu de Abertura de Pedra | O refino rende **um uso** — clãs refinam em lote, um por herdeiro em véspera de Quebra |
+| **Gu do Voto Envenenado** | Gu do Fio de Palavra + Gu do Olhar Firme | A palavra que denuncia depois de quebrada aprende, com o olho que lê mentira, a julgar a intenção antes de selar. 🔨 Sacrifício (sangue das duas partes no juramento) |
 
 ### Gu de Corpo (grau Médio) — órgão + catalisador
 

@@ -92,7 +92,7 @@ escopo: processo
 | [[⚡ Golpes Matadores]] | Núcleo + apoio + contragolpe, **Brecha obrigatória** (todo golpe falha em alguma condição) e **Golpe Matador Coletivo** — a jogada mais forte que um grupo pequeno tem |
 | [[🧩 Refino e Precificação]] | Refino único, **teste estendido** com tabela 1d6 de falha, combo-refino, preços |
 | [[🍖 Sustento e Alimento]] | O que cada Gu come, e a escala de intervalo por rank (rank 5 come de 1–2 anos; imortal de 5–6) |
-| [[📖 Catálogo de Gu]] | **457 Gu + 12 Casas de Gu Imortal**, todos com perfil ⬆️/⬇️ e tags de Peculiaridade nas **3 aptidões** (⚡Uso · 🍖Alimentação · 🔨Refino). Inclui Gu Sociais/Investigação, Gu de Corpo elementais, ataque melee Wu Xing, 15 candidatos a Imortal e 8 Golpes Matadores de rank 5 |
+| [[📖 Catálogo de Gu]] | **461 Gu e Casas de Gu Imortal**, todos com perfil ⬆️/⬇️ e tags de Peculiaridade nas **3 aptidões** (⚡Uso · 🍖Alimentação · 🔨Refino). Inclui Gu Sociais/Investigação, Gu de Corpo elementais, ataque melee Wu Xing, 15 candidatos a Imortal e 8 Golpes Matadores de rank 5 |
 | [[🚀 Gu de Avanço de Rank]] | **Todo Gu de progressão num lugar só** — estágio, salto de rank, Ascensão e fase imortal, com a tabela de planejamento rank a rank dos 4 personagens |
 | [[💀 A Morte dos Gu]] | **Como Gu se machucam e morrem** — a escada Esgotado→Ferido→Morto, escudos que estouram, mirar um Gu, e a Sobrecarga e a **Queima** dentro de Golpes Matadores |
 | [[🗂️ Índice de Gu por Caminho]] | **Todos os Gu por Caminho e rank** — a porta de consulta do catálogo |

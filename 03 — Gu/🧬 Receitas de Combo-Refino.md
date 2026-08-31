@@ -13,7 +13,7 @@ escopo: sistema
 Ter uma receita já validada é a maior garantia de sucesso num combo-refino (+15% na taxa base — ver [[🧩 Refino e Precificação|Refino e Precificação]]). Estas são as primeiras receitas conhecidas nesta campanha — a mesa e os jogadores descobrem/inventam mais jogando.
 
 > [!info] O acervo completo mudou de casa
-> Este arquivo guarda só as receitas **já validadas em mesa** nesta campanha. O acervo com a receita (ou origem) de **todos os 460 Gu do catálogo** — canônicas, plausíveis e as que não existem — está no **[[📜 Livro de Receitas de Gu]]**. As receitas daqui aparecem lá marcadas com ✅.
+> Este arquivo guarda só as receitas **já validadas em mesa** nesta campanha. O acervo com a receita (ou origem) de **todos os 461 Gu do catálogo** — canônicas, plausíveis e as que não existem — está no **[[📜 Livro de Receitas de Gu]]**. As receitas daqui aparecem lá marcadas com ✅.
 
 ## Como ler
 
