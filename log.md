@@ -254,3 +254,11 @@ Achado do autor confirmado no cânone: citação direta do cap. 34 (Fang Yuan ra
 3× abaixo. [[🧘 Ritmo de Cultivo e Cultivo Fechado]] recalibrada para 3/6/12/24/48
 (era 1/2/4/8/16), coluna de custo de estágio recalculada. Coordenado com a sessão
 paralela antes e depois da edição (nota é território dela).
+
+## [2026-08-30] crítica | Progressão de pedras entre ranks corrigida de ×2 para ×4 (decisão 136 revisada)
+O autor apontou que a progressão ×2 entre ranks (recém-corrigida) não batia com
+a Densidade da Essência do próprio vault, que já dobra a cada pequeno estágio.
+[[🧘 Ritmo de Cultivo e Cultivo Fechado]] recalibrada de novo: 3/12/48/192/768
+(era 3/6/12/24/48), mantendo um número por rank em vez de granular por estágio
+(que explodiria a >25 milhões/dia no Pico do rank 5). Coordenado com a sessão
+paralela.

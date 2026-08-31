@@ -51,12 +51,12 @@ Engolir essência pronta em vez de só condensar a sua: cada dia de cultivo **al
 | Seu rank | Pedras por dia de cultivo acelerado | Custo de um estágio inteiro acelerado *(Grau B)* |
 |---|---|---|
 | **1** | **3** | ~65 pedras |
-| **2** | **6** | ~258 |
-| **3** | **12** | ~1.026 |
-| **4** | **24** | ~4.116 |
-| **5** | **48** | ~16.464 |
+| **2** | **12** | ~516 |
+| **3** | **48** | ~4.104 |
+| **4** | **192** | ~32.928 |
+| **5** | **768** | ~263.424 |
 
-> [!note] Calibrado pela fonte primária *(2026-08-30)*
+> [!note] Calibrado pela fonte primária, e escalado com a Densidade da Essência *(2026-08-30)*
 > O rank 1 tem citação direta e inequívoca: cap. 34, Fang Yuan (rank 1, Grau C)
 > — *"After a night of cultivation, I had expended three primeval stones"*,
 > explicitamente descrito como o uso de pedras "in order to pursue faster
@@ -64,8 +64,19 @@ Engolir essência pronta em vez de só condensar a sua: cada dia de cultivo **al
 > número exato: **3 pedras/noite**, não 1. Corroborado pelo cap. 64 (Fang Yuan
 > já rank 2): "cultivating needs and living expenditures" somam ~5 pedras/dia,
 > com alimentação de 4 Gu consumindo "mais de 2" disso — sobrando ~3 pra
-> cultivo+vida, na mesma ordem de grandeza. A tabela foi recalibrada com o
-> rank 1 no valor canônico exato e a progressão ×2 preservada dali pra cima.
+> cultivo+vida, na mesma ordem de grandeza.
+>
+> **A progressão entre ranks passou de ×2 para ×4** (o autor apontou que a
+> própria [[🪜 Ranks e Estágios|Densidade da Essência]] já dobra a cada pequeno
+> estágio dentro do rank — `% × 4 × 2^(estágio−1)` — então o salto de qualidade
+> de um **grande estágio** (a virada de rank) precisa ser proporcionalmente
+> maior, não igual, ou as pedras deixam de ser "tão efetivas" na proporção
+> certa). Optou-se por manter **um único número por rank** (não um por
+> estágio) para a tabela continuar utilizável na mesa: a versão granular
+> (×2 por estágio **e** ×4 por rank, compondo os dois) chegaria a mais de
+> 25 milhões de pedras/dia no Pico do rank 5 — fora de escala com o resto da
+> economia do vault. Se quiser essa granularidade completa depois, é uma
+> extensão desta tabela, não uma correção.
 
 O teto é ×2 — despejar mais pedras no mesmo dia não ajuda: a Abertura satura. (E lembre: **pedra não repõe essência em combate** — [[💠 Economia das Pedras Primordiais]].)
 
