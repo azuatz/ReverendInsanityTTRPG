@@ -64,7 +64,7 @@ escopo: sistema
 
 **Conceito:** de um simples previsor de maré de pescador até um Gu capaz de puxar uma região costeira inteira — mover exércitos, afundar frotas, reformar um campo de batalha sem gastar um braço de trabalho.
 
-**Como se adquire:** já tem dono — o exemplar único é mantido pelo Templo da Maré Silenciosa, com um ancião cego que só o usa em cerimônia (NPC genérico; gancho de favor, roubo ou duelo formal).
+**Como se adquire:** já tem dono — o exemplar único é mantido por um templo costeiro isolado, com um ancião cego que só o usa em cerimônia (NPC genérico; gancho de favor, roubo ou duelo formal).
 
 - **Rank 1 — Gu do Reflexo de Maré** (M=1). Nasce em poças de maré que refletem a lua cheia sem nunca secar. Aviso passivo da hora exata da próxima maré alta/baixa num raio de 5 km. Zero combate. 🍖Livre.
 - **Rank 2 — Gu da Maré Pequena\*** (M=2). Regra de Linhagem (Reflexo de Maré ×2) + água de dois pontos de costa diferentes. Empurra ou puxa um alvo pequeno (até 50 kg) 2 m, 1×/cena.
@@ -156,7 +156,7 @@ escopo: sistema
 - **Rank 2 — Gu da Raiz Funda\*** (M=2). Regra de Linhagem (Raiz Curta ×2) + Gu de Pele de Pedra. Bônus +3; reduz em 2 o deslocamento forçado sofrido.
 - **Rank 3 — Gu do Peso Firme\*** (M=4). Funde Raiz Funda + Gu Monólito. Enquanto ativo, o usuário não pode ser movido contra a vontade por FOR ou Gu de rank igual ou inferior. RD `1 × M` contra dano de impacto.
 - **Rank 4 — Gu do Peso Que Ancora\*** (M=8). **A receita muda:** funde Peso Firme + Gu da Estaca de Âncora + terra socada num ritual de uma noite inteira (🔨Local). RD contra impacto sobe pra `2 × M`; estende metade do benefício a um aliado adjacente.
-- **Rank 5 — Gu do Peso Que Nunca Cai** (M=16). **A receita muda de vez:** exige sobreviver a ser esmagado por algo enorme durante o refino. RD `4 × M = 64` contra qualquer dano de impacto/esmagamento, inclusive Golpe Matador; impossível de derrubar, arrastar ou nocautear por impacto enquanto os pés tocarem qualquer superfície sólida. **É o degrau em que a linhagem vira o Gu clássico de qualquer guardião lendário.**
+- **Rank 5 — Gu do Peso Que Nunca Cai** (M=16). **A receita muda de vez:** exige sobreviver a ser esmagado por algo enorme durante o refino. RD `4 × M = 64` contra qualquer dano de impacto/esmagamento — inclusive o de um Golpe Matador comum, mas **não** contra um Golpe Matador cuja Brecha declarada seja explorada com sucesso (a Brecha já ignora Níveis do combo por regra geral; aqui ela também passa direto pela RD, como qualquer defesa nesse caso) — impossível de derrubar, arrastar ou nocautear por impacto enquanto os pés tocarem qualquer superfície sólida. **É o degrau em que a linhagem vira o Gu clássico de qualquer guardião lendário.**
 - **Rank 6 (Imortal) — Gu Imortal do Peso Que Nunca Cai\*** (M=32). RD `4 × M = 128` contra impacto; estende a imunidade a arrasto/queda a até 4 aliados num raio de 10 m. 🍖Volumosa.
 
 **Canonicidade:** ✍️ Autoral — polo defensivo complementar ao Punho Que Quebra o Mundo, também sem mecanismo de fantasma de fera.
@@ -295,7 +295,7 @@ escopo: sistema
 | 2 | **Gu da Sombra Companheira** | +4 em Furtividade total; 1×/cena "mergulha" numa sombra e reaparece em outra a 10 m como reação | ⚡Condicional | Regra de Linhagem: 2× Passo Sem Eco |
 | 3 | **Gu do Véu Que Isola** | 1×/cena, marca um alvo a 10 m: 2 rodadas em que nenhum aliado dele o enxerga nem ouve pedido de socorro | ⚡Condicional 🍖Rara | Receita diferente: Sombra Companheira + olho de predador noturno |
 | **4** | **Gu do Nome Apagado** *(vira lendário aqui)* | Contra alvo marcado pelo Véu ainda ativo: próximo ataque melee soma `8d12`, e se o alvo morrer, todo indício físico desaparece em 1 rodada | ⚡Condicional ⚡Marca 🍖Rara | 🔨Receita da herança: Véu Que Isola + cinza de vela que queimou três noites sem ninguém ver |
-| 5 | **Gu Presságio de Ausência** | Véu estende pra 3 alvos; apagamento vira 1 cena inteira, inclusive memória superficial de quem viu de relance (VON CD 18 pra lembrar) | ⚡Condicional ⚡Marca 🍖Rara | 🔨Receita, 🔨Instável: Nome Apagado + pena de corvo que nunca gritou |
+| 5 | **Gu Presságio de Ausência** | Ataque bônus contra alvo isolado sobe pra `16d12`; Véu estende pra 3 alvos; apagamento vira 1 cena inteira, inclusive memória superficial de quem viu de relance (VON CD 18 pra lembrar) | ⚡Condicional ⚡Marca 🍖Rara | 🔨Receita, 🔨Instável: Nome Apagado + pena de corvo que nunca gritou |
 | 6 | **Gu Imortal Sem Rosto no Escuro** *(Ascensão)* | Isolamento e apagamento afetam até 8 alvos; ataque bônus sobe pra `32d12`. Sobreviventes não conseguem descrever o usuário mesmo tentando | ⚡Marca 🍖Rara | Sem receita separada — hábito de décadas |
 | 7 | **Gu Imortal Vazio Que Lembra de Ninguém** | 24h depois do golpe, registros escritos, Gu de investigação e testemunhas de segunda mão também falham em reconstruir o ocorrido, até rank 7 de quem investigar. Ataque bônus sobe pra `64d12` | ⚡Marca 🍖Rara 🔨Receita | Sem Rosto no Escuro + tinta com fuligem de arquivo de clã incendiado pelo próprio usuário |
 

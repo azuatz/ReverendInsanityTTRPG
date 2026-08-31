@@ -187,13 +187,13 @@ O fluxo de tempo pode ser regulado, dentro de limites, por técnicas do Caminho 
 
 ## Anexação de Aberturas
 
-Duas Aberturas Imortais podem se fundir — um Imortal "engole" a Terra Abençoada de outro. Exige nível de domínio **Grão-Mestre** no próprio Caminho (ver [[☯️ Marcas de Dao|Marcas de Dao]]). Quem anexa ganha o tamanho e os recursos do outro, metade das Marcas dele **naquele Caminho**, e pode até pular Calamidades adiantadas. O Espírito da Terra anexado, se houver, chega **Guardião** e ressentido — nunca Aliado.
+Duas Aberturas Imortais podem se fundir — um Imortal "engole" a Terra Abençoada de outro. O domínio exigido no próprio Caminho **escala com o rank da terra-alvo** (ver [[🧿 Espíritos da Terra]] e [[☯️ Marcas de Dao|Marcas de Dao]]): nível **Mestre** já basta contra uma terra de rank 6, **Grão-Mestre** só é exigido a partir de rank 7. Quem anexa ganha o tamanho e os recursos do outro, metade das Marcas dele **naquele Caminho**, e pode até pular Calamidades adiantadas. O Espírito da Terra anexado, se houver, chega **Guardião** e ressentido — nunca Aliado.
 
 É um dos motivos pelos quais dois Imortais fortes raramente confiam um no outro por completo.
 
 ### ⚔️ Como se toma uma Terra Abençoada à força
 
-A anexação pacífica exige Grão-Mestre. Tomá-la **na marra** é outro procedimento — uma cena de cerco inteira, canônica no romance: *"exige a cooperação de vários Imortais criando vantagem numérica, e então competir despejando essência; uma vez que a essência imortal da terra se esgota, o ataque começa."*
+A anexação pacífica exige o domínio da tabela acima (Mestre ou Grão-Mestre, conforme o rank da terra-alvo). Tomá-la **na marra** é outro procedimento — uma cena de cerco inteira, canônica no romance: *"exige a cooperação de vários Imortais criando vantagem numérica, e então competir despejando essência; uma vez que a essência imortal da terra se esgota, o ataque começa."*
 
 **Fase 0 — o portão de números.** Um só Imortal não cerca uma terra alheia. O mínimo de atacantes coopera pela qualidade da terra: Mesquinha 1 (viável solo) · Comum 3 · Boa 5 · Excelente 7+ · Especial, um exército. Abaixo disso, o Espírito da Terra e a própria matriz da fenda simplesmente absorvem o ataque.
 

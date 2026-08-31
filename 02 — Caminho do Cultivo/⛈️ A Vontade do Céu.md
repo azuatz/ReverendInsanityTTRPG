@@ -75,7 +75,7 @@ A pressão sistêmica precisa de um botão concreto, senão vira narração vaga
 | **Perseguido** | 3 | **+3 na CD**. Um NPC hostil de rank igual ou +1 aparece a cada arco sem explicação prévia (ver a regra de presságio abaixo). O fluxo de tempo da Terra Abençoada **cai pela metade** (mínimo 5×) — o céu tranca o acelerador. A Brecha do Golpe Matador principal do personagem **vaza**: um NPC por arco já a conhece |
 | **Alvo do Céu** | 4 | **+5 na CD**. **Toda** Calamidade é sob medida (procedimento abaixo, os três passos). A Provação Celestial vem em **metade do intervalo** (a cada 50 anos internos). Um Imortal de rank superior toma interesse direto e pessoal. Duas Calamidades falhadas seguidas nesta faixa levam a Terra Abençoada direto a **Ferimento nível 2** (ver [[🗝️ Terra Abençoada\|Terra Abençoada]]) |
 
-**Os bônus de CD desta tabela substituem** o "+1 a cada 25.000 Marcas" de [[☯️ Marcas de Dao\|Marcas de Dao]] — não se somam. Aquela regra continua válida como atalho pra mesas que não usam esta nota; quem usa o CAC usa só esta tabela, porque as Marcas já estão contadas como gatilho.
+**Os bônus de CD das Calamidades vêm só desta tabela**, pela faixa do Contador — [[☯️ Marcas de Dao\|Marcas de Dao]] não tem uma conta separada de CD por Marca acumulada; ela só alimenta o próprio Contador, que é o gatilho listado no topo desta nota.
 
 **O NPC hostil "sem explicação" tem explicação.** O mestre escreve uma, sempre — um rival que ouviu um boato, um clã que perdeu um filho, um caçador de recompensas de um cartaz que o grupo nem viu. O jogador é que não sabe ainda. A Vontade do Céu não faz gente aparecer do nada; ela **arranja** que a gente que já existia chegue no pior momento.
 

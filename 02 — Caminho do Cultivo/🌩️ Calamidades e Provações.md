@@ -109,12 +109,13 @@ Role o rendimento do evento em [[☯️ Marcas de Dao]] e aplique a fração. Ar
 
 ## Falhar não é o fim, é a espiral
 
-Falhar uma Calamidade cobra três coisas ao mesmo tempo, e é a interação entre elas que faz o ato imortal ter risco de verdade:
+Falhar uma Calamidade por completo cobra três coisas ao mesmo tempo, e é a interação entre elas que faz o ato imortal ter risco de verdade:
 
 1. **Zero Marcas** — o relógio de rank parou por uma década.
 2. **1 Ferimento** — o teto de Vitalidade e Alma desceu 5%, permanente ([[❤️ Recursos e Dano]]).
 3. **Um nível de Ferimento da Terra** — a renda cai, e reparar custa 50 PEI e 3 meses internos por nível ([[⚗️ Materialização e Alquimia Interna]]).
-4. **Dano colateral no ecossistema** — role `1d6` por etapa falhada na tabela de [[🌾 Ecologia e Economia da Terra Abençoada]]: safra perdida, veia desabada, fera morta, clima invertido, cadeia rompida ou o Espírito da Terra ferido. Isso acontece **mesmo quando o personagem passa**, se alguma etapa falhou.
+
+Há ainda um **quarto efeito, separado dos três acima e com gatilho próprio**: role `1d6` por etapa individual falhada na tabela de [[🌾 Ecologia e Economia da Terra Abençoada]] (safra perdida, veia desabada, fera morta, clima invertido, cadeia rompida ou o Espírito da Terra ferido) — isso acontece **mesmo quando o personagem passa a Calamidade inteira**, bastando que uma etapa isolada tenha falhado no caminho.
 
 Renda menor significa menos recurso para a preparação da próxima, que chega em 10 anos internos e vem mais difícil se o Contador subiu. **Duas Calamidades falhadas seguidas é como um Imortal deixa de ser uma ameaça** — e é a morte mais comum do ato imortal, muito mais que combate.
 

@@ -104,7 +104,7 @@ Todos abaixo entram no [[📖 Catálogo de Gu|Catálogo]]. Custo de ativação: 
 
 ## Golpes Matadores do Caminho do Vento
 
-### 🍃 O Corte de Doze Passos *(rank 2–3, o golpe de campanha do Demvi)*
+### 🍃 O Corte de Doze Passos *(rank 2–3, golpe de campanha típico do Caminho)*
 - **Núcleo:** Gu da Lâmina de Sopro (rank 2)
 - **Apoio:** Gu do Passo de Brisa (rank 2) · Gu do Rastro Apagado (rank 3) · *(terceiro apoio opcional: qualquer Gu de Vento que atrase o alvo)*
 - **Sequência:** Rodada 1 — Rastro Apagado ativo, você some do campo de visão útil do alvo (ele sabe que você existe, não sabe **onde**). Rodada 2 — Passo de Brisa: 12 m ou mais até as costas dele, e você passa antes na ordem por DES. Rodada 3 — a Lâmina sai pelas costas, de cima, com o alvo ainda não tendo agido.
@@ -122,9 +122,9 @@ Todos abaixo entram no [[📖 Catálogo de Gu|Catálogo]]. Custo de ativação: 
 
 ---
 
-## 🎯 Aptidão 56% e o Caminho do Vento — por que o Demvi não é descartável
+## 🎯 Aptidão baixa e o Caminho do Vento — por que ele não é descartável
 
-Vale a pena dizer isto direto, porque a tabela de [[🎲 A Mesa — Personagens dos Jogadores|A Mesa]] tem alguém de 100% nela e o número dói de olhar.
+Vale a pena dizer isto direto, porque numa mesa típica sempre tem alguém com aptidão bem mais alta, e o número dói de olhar pra quem rolou baixo.
 
 **O que a aptidão compra é o tamanho da Abertura** — essência máxima, quantos Gu cabem, e o teto de rank. Ela não compra **nenhuma** das três coisas que o Vento converte em vantagem:
 
@@ -135,11 +135,11 @@ Vale a pena dizer isto direto, porque a tabela de [[🎲 A Mesa — Personagens 
 | **Perseguição** (`d20 + DES`, +4 por Gu de movimento) | **Não** |
 | **Posição** (deslocamento, ângulo, quem agiu primeiro) | **Não.** É decisão de mesa, não recurso de ficha |
 
-Um cultivador de Vento de rank 2 com o Passo de Brisa ativo tem a **mesma Defesa** que um Grau A de rank 2 com o mesmo Gu. O Grau A aguenta mais rodadas ligado e tem Gu maiores pra puxar; o Demvi tem **posição**. Numa mesa de quatro, esses são os empregos que ninguém mais vai ocupar:
+Um cultivador de Vento de rank 2 com o Passo de Brisa ativo tem a **mesma Defesa** que um Grau A de rank 2 com o mesmo Gu. O Grau A aguenta mais rodadas ligado e tem Gu maiores pra puxar; ele tem **posição**. Numa mesa de quatro, esses são os empregos que ninguém mais vai ocupar:
 
 1. **Você decide se a luta acontece.** Você é quem entra primeiro, olha, e sai — e a informação que você traz vira Pontos de Plano em [[🕵️ Preparação e Informação|Preparação e Informação]], que valem pro grupo inteiro. Um Grau A não tem como fazer reconhecimento sem ser visto; você tem.
 2. **Você é o seguro de vida do grupo.** Quando o encontro dá errado — e vai dar, ver a tabela de encontro pra 4 jogadores — quem tem +4 na perseguição e um Gu que apaga rastro é a razão de o grupo sair vivo em vez de morrer inteiro. Esse é o emprego mais valioso da mesa e não tem concorrência.
-3. **Você é o apoio que faz o combo coletivo existir.** No [[⚡ Golpes Matadores|Golpe Matador Coletivo]], **os Gu de apoio de todos somam**. Seus Gu de rank 2 e 3 valem exatamente o mesmo Nível de Dano que os de rank 5 do Pepo — a tabela conta **quantidade de apoio**, não rank. Você é quem empurra o núcleo alheio de +4 pra +6.
+3. **Você é o apoio que faz o combo coletivo existir.** No [[⚡ Golpes Matadores|Golpe Matador Coletivo]], **os Gu de apoio de todos somam**. Seus Gu de rank 2 e 3 valem exatamente o mesmo Nível de Dano que os de rank 5 do especialista mais forte do grupo — a tabela conta **quantidade de apoio**, não rank. Você é quem empurra o núcleo alheio de +4 pra +6.
 4. **Seu teto de rank 2–3 é um teto de Abertura, não de perigo.** O Corte de Doze Passos, acima, é um golpe de **rank 2** que entrega 4–44 de dano. Ele não pede aptidão. Ele pede que você saiba onde ficam os telhados, quantos metros tem o pátio, e por qual porta o alvo vai sair. Essa informação você consegue jogando bem, e nenhum número de ficha a substitui.
 
 **A troca honesta:** você não vai ser quem mata o chefe do arco. Você vai ser quem descobriu a Brecha dele, quem posicionou o grupo, e quem tirou todo mundo de lá quando a coisa virou. Se o inimigo te trancar num porão, você vira um homem com uma faca e é bom que os outros três estejam por perto — esse é o preço, e ele está escrito no dial acima de propósito.
