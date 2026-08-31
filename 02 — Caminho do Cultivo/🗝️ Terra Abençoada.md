@@ -213,6 +213,23 @@ Cada dia de cerco, os atacantes despejam Essência Imortal ou Pedras de Essênci
 > [!warning] A maioria dos cercos dá prejuízo
 > O romance é explícito: quem ataca "frequentemente não ganha nada e ainda sofre perdas pesadas." Uma Terra Abençoada só vale um cerco quando o prêmio (a fenda em si, o Espírito, um Gu Imortal específico lá dentro) supera visivelmente o custo em Ferimentos e essência de vários Imortais por vários dias. Não é conteúdo de rotina — é clímax de arco.
 
+> [!tip] Gancho de missão — relocação de Terra Abençoada
+> Mudar uma Terra Abençoada de lugar não é magia de bolso: a Abertura precisa ser transplantada pro corpo de uma fera viva poderosa o bastante pra carregá-la fisicamente até o novo local — e a fera **morre no fim do transporte**, sempre. Durante a viagem, o dono não pode ativar **nenhum outro Gu Imortal**. Serviço de risco alto, vendido por especialistas raros ou cobrado como favor grande — ótimo gancho de escolta: o grupo protege a fera-carregadora (e o Imortal vulnerável dentro dela) até o destino.
+
+---
+
+## Governança de Território *(decisão 183)*
+
+Uma Terra Abençoada que passou da Camada 3 (ecossistema vivo, ver tabela acima) carrega gente demais pra um só Imortal administrar no cotidiano — variantes, bestas semi-inteligentes, clãs mortais realocados, discípulos de facções aliadas hospedados lá dentro. É o ponto em que a terra deixa de ser "fazenda pessoal" e vira um pequeno domínio com política própria. **Isto é framework narrativo de campanha, não um subsistema de números** — o mestre decide quando aplicar, sem tabela nem teste dedicado.
+
+**O governador.** O dono pode nomear um governador — um subordinado de confiança, um Espírito da Terra Aliado (ver [[🧿 Espíritos da Terra]]), ou até um membro cedido por uma facção parceira — pra presidir os assuntos internos a partir da cidade ou assentamento principal do território. O governador não decide o que só o dono decide (guerra, anexação, resposta a Calamidade), mas resolve o dia a dia: disputas locais, alocação de recursos, cobrança interna.
+
+**Distribuição por raça/facção.** Território grande acumula populações distintas — humanos, variantes de espécies diferentes, clãs realocados de fora. Espalhar subordinados de cada grupo pela região onde vivem ajuda a conter as instabilidades ambientais recorrentes que vêm junto do crescimento territorial (vulcões, pragas, fissuras — dano colateral modelado em [[🌾 Ecologia e Economia da Terra Abençoada]]): cada subordinado é um ponto de resposta rápida antes que a instabilidade vire Ferimento da Terra.
+
+**Missões de embaixador.** Quando duas facções dentro do próprio domínio entram em atrito, o governador despacha um embaixador — a mesma missão ☆☆ "missão de embaixador entre facções internas" do Quadro de Missões dos Três Quadros (ver [[🏛️ Clãs e Seitas]]), só que em escala doméstica: o "cliente" é o próprio dono da terra, e falhar deixa o atrito crescer até a próxima visita dele ou a próxima Calamidade.
+
+**Pro mestre:** gancho de arco pra PJ Imortal com território grande, não regra de rotina — quem chegou até aqui já tem Terra Abençoada de Camada 3+ e provavelmente quer administrar, não só cultivar. Trate o governador como um NPC com nome e cara, do mesmo jeito que os anciãos de clã em [[🏛️ Clãs e Seitas]].
+
 ---
 
 ## Como usar isso na mesa

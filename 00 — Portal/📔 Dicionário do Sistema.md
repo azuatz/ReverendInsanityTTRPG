@@ -88,6 +88,7 @@ escopo: sistema
 | **Espólio** | A vontade do dono morto **destrói** os Gu dele. Matar não é lootear — há 3 exceções | [[⚰️ Espólio]] |
 | **Herança** | O legado escondido de um cultivador morto: manuais, Gu, receitas — com amarras | [[📜 Manuais e Heranças]] |
 | **Herança de Força** | A versão de baixo rank da Herança: masmorra pessoal de 4 salas fixas, cada uma testando uma virtude só (constância, autocontrole, respeito, sorte) | [[🏺 Achados de Baixo Rank]] |
+| **Torneio de Classificação Prévio** | Variante de Herança (rank 4–6): um torneio antes da porta abrir decide a **ordem de entrada** — quem entra primeiro cultiva mais tempo, porque lá dentro o tempo roda mais rápido que fora | [[🎲 Gerador de Heranças]] |
 | **Pedra de Aposta** | Rocha comum vendida às cegas num antro de aposta — a maioria vazia, algumas com Gu morto, raríssimas com Gu vivo dentro. Sorte pura, sem teste | [[🏺 Achados de Baixo Rank]] |
 | **Reino do Tesouro** | Cofre ancestral guardado por uma porta viva que só troca por valor equivalente — e item sacado sem refino vira selvagem em 3 respirações (2 rodadas) | [[🏺 Achados de Baixo Rank]] |
 | **Crítico** | 20 natural no ataque: acerta sempre e **dobra os dados** de dano | [[⚔️ Combate]] |
@@ -115,6 +116,8 @@ escopo: sistema
 | **Gruta-Céu** | O que a Terra Abençoada vira no rank 8 — outra ordem de fluxo de tempo | [[🗝️ Terra Abençoada]] |
 | **Provação de Avanço** | A Calamidade sob medida que converte a Abertura ao rank seguinte (6→7→8) | [[🪜 Ranks e Estágios]] |
 | **Espírito da Terra** | A consciência da Terra Abençoada. Única via mortal pra refinar Gu Imortal | [[🧿 Espíritos da Terra]] |
+| **Governança de Território** | Quando a Terra Abençoada cresce além de "fazenda pessoal" (Camada 3+): um governador preside o dia a dia a partir da cidade principal, subordinados por raça/facção contêm instabilidades ambientais, e missões de embaixador resolvem atrito interno | [[🗝️ Terra Abençoada]] |
+| **Relocação de Terra Abençoada** | Serviço de risco alto: transplantar a Abertura Imortal pro corpo de uma fera viva que a carrega até o novo local — a fera morre no fim, e nenhum outro Gu Imortal pode ser ativado durante o transporte | [[🗝️ Terra Abençoada]] |
 | **Calamidade / Provação** | O céu cobra dos Imortais em desastres periódicos. Sobreviver rende Marcas | [[🌩️ Calamidades e Provações]] |
 | **Vontade do Céu** | O mundo reage a quem cresce demais — o Contador de Ameaça mede o quanto você incomoda | [[⛈️ A Vontade do Céu]] |
 | **Físico Extremo** | Nascer com o sangue dos dez primeiros filhos — poder absurdo, tribulação na medida | [[🌠 Os Dez Físicos Extremos]] |
@@ -125,7 +128,7 @@ escopo: sistema
 | **Vontade de Batalha (VB)** | O placar da Aposta por Procuração: `rank do derrotado × 10` por vitória (dobra se matou, ×1,5 com Golpe Matador decisivo, +50% se venceu por tática). Some pro patrono do peão vencedor | [[🎰 Aposta por Procuração]] |
 | **Masmorra de andares** | Torre/ruína rolável em minutos: andares de blocos com CD crescente, recompensa em 3 faixas (a alta dá sala de tesouros), pilares temáticos opcionais e uma trilha oculta de "arestas" que destrava um domínio secreto | [[🏯 Torres e Estradas de Prova]] |
 | **Estrada de Prova** | Variante de dificuldade auto-escalada: a CD de cada trecho usa o rank de quem anda, não o da masmorra — nunca trivial pro forte, nunca impossível pro fraco. "Predicaments" isolam o desafiante num duelo solo | [[🏯 Torres e Estradas de Prova]] |
-| **Três Quadros** | A versão imortal do Salão de Missões, quando um Imortal entra numa facção grande: Quadro de Contribuição (ranking público), Quadro de Missões (tarefas por CC) e Quadro de Troca (CC vira Gu, receita, ou ajuda de Venerável numa tribulação) | [[🏛️ Clãs e Seitas]] |
+| **Três Quadros** | A versão imortal do Salão de Missões, quando um Imortal entra numa facção grande: Quadro de Contribuição (ranking público), Quadro de Missões (tarefas por CC) e Quadro de Troca (CC vira Gu, receita, ou ajuda de Venerável numa tribulação — item trocado pode ser reclamado de volta depois via missão obrigatória com compensação extra) | [[🏛️ Clãs e Seitas]] |
 | **Kit de ingresso** | Gu mortais básicos instalados em todo novo residente de uma facção imortal, sempre incluindo um Gu de monitoramento — recusar o kit é recusar a entrada | [[🏛️ Clãs e Seitas]] |
 | **Convenção do Caminho de Refino** | Torneio de attainment coletivo a cada 100 anos: qualificação em uma cena, Fase dos Postos (funil sem eliminação direta) e Fase de Território de Fera (duelo direto, sem consolação), coroada pela Marca de Sucesso | [[🏆 Convenção do Caminho de Refino]] |
 | **Marca de Sucesso** | Prêmio da Convenção: garante sucesso automático num único refino de rank até 6. Nem a maior organização do mundo já conseguiu comprar, vender ou fabricar uma | [[🏆 Convenção do Caminho de Refino]] |
