@@ -85,7 +85,7 @@ O Catálogo usa rótulos de sabor que **não são Caminhos separados**. Esta tab
 | **Sonho** | Sonhos |
 | **Cosmos · Tempo** | Cosmos (Tempo) |
 | **Reconhecimento · Adivinhação** | Informação *(reconhecimento)* e Sabedoria *(adivinhação)* |
-| **Encantamento** | Humano |
+| **Encantamento** | Sabedoria *(decisão 150 no [[🧭 Log de Decisões]] — não Humano)* |
 | **Roubo** | **Nenhum.** É um Caminho canônico de verdade, e dos mais perigosos — só não está entre os 23 jogáveis. Um PJ não começa nele; um vilão pode ser inteiro dele |
 
 **Um subcaminho não paga custo de Caminho duplo.** Quem cultiva Espada está cultivando Metal, e paga um Caminho só.
