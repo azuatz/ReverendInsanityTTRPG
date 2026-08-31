@@ -34,7 +34,10 @@ O que importa não é o total de Marcas, e sim **quantas você tem no Caminho es
 > [!info] 🔧 Adaptado — "Quase-Supremo" não é o nome canônico deste patamar
 > O romance chama esse degrau de **Grão-grão-mestre** / "Grande Grão-Mestre" (Cap. 1326, 1501–1502) — "quase-X" no cânone é sempre um sub-degrau abaixo de um patamar, não este. O vault mantém "Quase-Supremo" por já estar consolidado em mais de dez notas (inclusive resposta de enigma em [[📜 Catálogo de Heranças]]); renomear em cascata é pendência do autor. Citação completa e raciocínio: [[🧭 Log de Decisões]] (decisão 153).
 
-Os Níveis de Dano são os mesmos da [[⚔️ Combate|Escada de Dano]] — Marcas empurram os Gu do seu Caminho pra cima na escada. É a razão mecânica pela qual um Imortal veterano de rank 6 mata um Imortal recém-ascendido de rank 7 sem suar: mesmo com M menor, ele rola dados muito maiores.
+Os Níveis de Dano são os mesmos da [[⚔️ Combate|Escada de Dano]] — Marcas empurram os Gu do seu Caminho pra cima na escada.
+
+> [!warning] O veterano de rank 6 só assusta o rank 7 em duas condições — e a tabela acima mostra por quê
+> Um rank 6 no teto (9.999 Marcas num Caminho só) ainda é **Pequeno Feito** (+1 Nível); um rank 7 recém-chegado **especialista** cruzou os 10.000 no mesmo Caminho e já é **Mestre** (+2), com o dobro de M — ele não teme veterano nenhum. O medo canônico do "veterano denso" vale quando: **(a)** o recém-ascendido dividiu as Marcas entre dois Caminhos — num 50:50, ele chega ao rank 7 com ~5.000 por Caminho, **Pequeno Feito nos dois**, empatado em patamar com o veterano e atrás em experiência; ou **(b)** o veterano empilha feitos de compreensão ([[#O gênio pobre — compreensão acima da contagem|gênio pobre]], decisão 133) e opera 1–2 patamares acima da própria contagem. Sem uma das duas, rank maior vence — como deve ser.
 
 ### O que cada nível destrava além do dano
 
@@ -88,6 +91,22 @@ Toda Marca pertence a um Caminho, definido pela **fonte** — não se escolhe de
 | **Anexação** | As Marcas vêm já com o Caminho da vítima — só as do Caminho que você cultiva grudam, e mesmo essas em fração parcial (ver tabela abaixo); o resto se perde |
 
 **Quem cultiva dois Caminhos** paga duas vezes: além do conflito (toda fonte rende **um terço a menos** por Caminho extra — item 5 abaixo), a divisão sai do **mesmo teto total**. O especialista enche o cofre com um Caminho só e é denso; o generalista divide o mesmo cofre e é raso em tudo — é exatamente por isso que a especialização é a norma canônica.
+
+### Como dividir entre dois Caminhos — a regra do degrau
+
+A divisão **não é uma escolha de ficha** — ela é o resultado das fontes (tabela acima): cada Marca já entra com Caminho definido, e só a Calamidade/Provação deixa o jogador repartir o ganho na hora. "Dividir 70:30" significa, na prática, **viver 70:30** — usar o Caminho principal pra decidir as cenas, refinar Gu dele, sintonizar a Terra Abençoada nele.
+
+E a razão certa não é fixa — **pense em degraus, não em porcentagem**, porque a escada de domínio é de faixas largas:
+
+| Rank | O que a divisão muda |
+|---|---|
+| **6** *(teto 9.999)* | **Quase nada.** Qualquer divisão que deixe 1.000+ no secundário põe os dois Caminhos em Pequeno Feito — 70:30 e 50:50 dão o mesmo patamar. É o rank de experimentar |
+| **7** *(teto 99.999)* | **Aqui a conta aperta.** 70:30 no teto = Grão-Mestre / Mestre; 50:50 = os dois na fronteira Mestre/Grão-Mestre. Ao longo do rank, 70:30 mantém o principal **um patamar à frente** quase o tempo todo |
+| **8** *(teto 299.999)* | 70:30 = Quase-Supremo / Grão-Mestre; 50:50 = os dois cravados no piso do Quase-Supremo. E o portão de Venerável (300.000 **num** Caminho) é impossível pra quem divide — Grande Mestre Supremo é, por definição, coisa de especialista |
+
+**A recomendação da casa:** mantenha o secundário **logo acima do último degrau cuja utilidade você realmente usa** (1.000+ pra improvisar e refinar rank 6; 10.000+ se precisa das utilidades de Mestre), e despeje todo o resto no principal — na prática isso converge pra algo entre 70:30 e 90:10. **50:50 só se os dois Caminhos carregam sua identidade de combate por igual** (o padrão do Golpe Matador híbrido — que já paga ×2 de custo por existir, então o sistema cobra essa build duas vezes de propósito).
+
+*🔧 Adaptado: o conflito entre Marcas de Caminhos diferentes é regra canônica dura — dao marks de caminhos alheios brigam entre si e com o cultivador (Cap. 1272–1275, 1863–1865; a única exceção do romance é um corpo único, sem conflito de marcas, que é caso de Venerável, não de mesa). A régua "70:30 / regra do degrau" é ✍️ tradução autoral disso pra número de ficha.*
 
 ---
 

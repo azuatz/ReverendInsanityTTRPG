@@ -504,3 +504,16 @@ Os três achados de "03 — Gu" da [[🔍 Crítica — Correção e Clareza (202
 
 ## [2026-08-31] otimização | Achados de clareza aplicados em Marcas de Dao, Dicionário e Caminho da Força
 Aplicando os achados da `[[🔍 Crítica — Correção e Clareza (2026-08-31)]]` que ficaram pendentes pra 02 fora das notas já cobertas por outras rodadas. **[[☯️ Marcas de Dao]]**: cinco blocos "por quê fizemos assim" (nomenclatura Quase-Supremo, empilhamento do gênio pobre, recalibração de rendimento de Calamidade, cadência por rank, e o achado sinalizado de não-linearidade no topo) cortados pra um resumo de uma linha + link, porque a justificativa completa já estava registrada no Log (decisões 120/133, 142, 151, 153, 164) — o último também estava **desatualizado**: a nota ainda dizia "achado sinalizado, não aplicado" quando a decisão 164 já tinha fechado a pendência com decisão negativa (escada mantida). Corrigido pra refletir o Log. Linha ~89 ("Retrocesso de Marca... não vem mais de 'acumular demais'") reescrita — presupunha uma regra anterior nunca declarada na nota; e a definição duplicada de Retrocesso de Marca (linhas ~89 e ~197) virou uma só, mantida na versão mais completa em "O preço" (item 4), com a de "Rank e Marcas" virando pointer pra ela. **[[📔 Dicionário do Sistema]]**: 4 termos usados sem definição em várias notas de 02-05 ganharam entrada — **UV** (Uva Verde, essência imortal do rank 6), **Grau (A/B/C/D)** (mapeamento pra % de Aptidão), **Contaminação** (preço de devorar almas no Caminho da Alma) e **Retrocesso** (contragolpe de refino/Golpe Matador falho — com nota explícita distinguindo do homônimo Retrocesso de Marca). **[[💪 Caminho da Força]]**: a seção "Sinergia Sangue + Força", quase duplicada com a de [[🩸 Caminho do Sangue]] (não tocada, território de outra sessão), encurtada pra um parágrafo-resumo + link pra versão completa lá; mantida a subseção "A cadeia de Corpo aceita os dois" (Gu de Corpo de Sangue compatíveis com a build), que não existe do lado do Sangue. Nenhum número, fórmula ou efeito mecânico mudou em nenhuma nota. Território proibido respeitado: `01`, `06`, simulações, `🎯 Simulação de Combate — Resultados`, `🌾 Ecologia`, `⚗️ Materialização`, `🏪 Céu Amarelo do Tesouro`, `🗝️ Terra Abençoada`, `🧿 Espíritos da Terra` e `🩸 Caminho do Sangue` não foram tocados; nada em `03`, `04` ou `05` além do Dicionário compartilhado.
+
+## [2026-08-31] crítica | Regra do degrau pra Caminho duplo, mito do veterano corrigido, VB fechada (decisões 193-194)
+O autor apontou um furo lógico real em [[☯️ Marcas de Dao]]: a frase "veterano
+de rank 6 mata rank 7 recém-ascendido" era falsa pela própria tabela da nota —
+rank 6 no teto é Pequeno Feito (+1), rank 7 especialista já entra Mestre (+2)
+com o dobro de M. Corrigida pra verdade condicional (só vale contra rank 7
+dividido entre Caminhos, ou com gênio pobre empilhado). Nova subseção "regra
+do degrau" ensina como a divisão entre dois Caminhos realmente funciona
+(atribuição por fonte, tabela de impacto por rank, recomendação 70:30-90:10
+pensando em degraus e não porcentagem), com canonicidade 🔧 do conflito de
+dao marks (Cap. 1272-1275, 1863-1865). E a ambiguidade de VB em [[🎰 Aposta
+por Procuração]] foi fechada como decisão 193: multiplicadores nunca
+acumulam, usa-se o maior — matar com Golpe Matador decisivo é ×2, não ×3.

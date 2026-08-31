@@ -58,7 +58,11 @@ VB = rank do peão derrotado × 10
 
 Vencer matando:        VB × 2
 Golpe Matador decisivo: VB × 1,5 (arredonda pra cima)
-Imortal disfarçado, vitória tática: VB × 1,5 (ver acima; não acumula com o bônus de Golpe Matador — use o maior)
+Imortal disfarçado, vitória tática: VB × 1,5 (ver acima)
+
+Os multiplicadores NÃO se acumulam — aplica-se sempre só o MAIOR.
+Matar com um Golpe Matador decisivo é ×2, não ×3: o ×1,5 recompensa
+a vitória de técnica SEM morte; a morte já é a recompensa máxima.
 ```
 
 A VB gerada por um peão soma **inteira** ao total do patrono que o enviou. Some tudo o que a mesa quiser rastrear ao longo da aposta — não precisa anotar combate a combate, um total corrido por patrono basta.
