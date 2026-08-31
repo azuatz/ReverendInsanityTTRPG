@@ -674,3 +674,6 @@ peça. Achado colateral: o `+4 × M × Grau` fixo dilui todo molde frágil com o
 Notas tocadas: [[🎯 Simulação de Combate — Resultados]] (seção nova + callout do topo),
 [[🧭 Log de Decisões]] (decisão 209 + item "Duração de cena" de "Em aberto" atualizado).
 Nenhuma nota de regra editada.
+
+## [2026-08-31] simulação | A heurística de alvo vale ±15pp em cena mista (decisão 210)
+Achado colateral da décima segunda rodada, medido à parte. Todas as rodadas desde a quinta miram quem tem menor FRAÇÃO de vida — premissa de modelagem nunca examinada, que faz peça frágil intacta ser atacada por último. Comparada contra "mate o menor pool absoluto primeiro": cenas homogêneas não mudam (Padrão/Padrão pesado, 0,0pp), cenas mistas oscilam muito (Clímax r3 +8,2pp; Difícil r3 −15,4pp — matar o Guerreiro primeiro é errado, os Mestres de 2 ações são a ameaça). Leitura: os números publicados modelam um padrão intermediário e plausível, mas carregam banda tática de ±15pp em cena mista — e isso é desenho funcionando (cena homogênea não tem decisão de alvo; mista tem). Nada aplicado. Script: `_Processo/simulacoes/2026-08-31-heuristica-de-alvo.py`.
