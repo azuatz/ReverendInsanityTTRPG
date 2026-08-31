@@ -10,7 +10,7 @@ escopo: sistema
 
 # 💀 A Morte dos Gu
 
-Gu são bichos, e bichos morrem. **Perder Gu faz parte do jogo** — é o pilar "o poder é emprestado" cobrando de verdade, e é o que o romance mostra em toda batalha séria. Esta nota junta num lugar só **todas** as formas de um Gu se machucar ou morrer, e acrescenta as duas que faltavam: dano em combate e o desgaste dentro de um Golpe Matador (decisão 119).
+Gu são bichos, e bichos morrem. **Perder Gu faz parte do jogo** — é o pilar "o poder é emprestado" cobrando de verdade, e é o que o romance mostra em toda batalha séria. Esta nota junta num lugar só **todas** as formas de um Gu se machucar ou morrer, e acrescenta as duas que faltavam: dano em combate e o desgaste dentro de um Golpe Matador (decisão 129).
 
 ## A escada de condição
 
@@ -20,7 +20,7 @@ Todo Gu está em um de quatro estados. Quase tudo empurra **um degrau**; só cat
 |---|---|---|
 | **Saudável** | Normal | — |
 | **Esgotado** | Inutilizável **até o fim da cena** (ou 1 dia, fora de combate) | Sozinho, com descanso |
-| **Ferido** | Inutilizável por **`1d6` semanas** | Alimentação especial (dose dobrada do alimento dele) + repouso na Abertura |
+| **Ferido** | Inutilizável em combate/ativação por **`1d6` semanas**. Onde uma regra específica permitir usá-lo mesmo assim (ex.: um Gu Ferido num refino — decisão 125), ele opera com **−2** até um descanso longo | Alimentação especial (dose dobrada do alimento dele) + repouso na Abertura |
 | **Morto** | Pra sempre. Gu morto não volta | — o cadáver ainda vale **metade do preço** como material de refino da mesma linhagem ([[🧩 Refino e Precificação]]) |
 
 **O Gu Vital nunca pula degrau e nunca morre por estas regras** — no pior caso fica Ferido (as proteções dele estão em [[🧩 Refino e Precificação]]).

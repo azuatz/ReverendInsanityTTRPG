@@ -44,6 +44,8 @@ Deixadas por último não por serem menos importantes, mas porque só fazem sent
 
 - **[[🏃 Fuga e Perseguição]]** — desengajar, perseguição em 3 rodadas, e sacrificar algo para escapar. Em D&D fugir é uma falha narrativa; **aqui é resposta certa em metade das cenas, e tem regra própria para funcionar.**
 - **[[🕵️ Preparação e Informação]]** — a Ficha de Plano, os Pontos de Plano, as 5 vias de conseguir informação e o truque da informação plantada. Sustenta o pilar *"quem prepara, vence"*: o combate decide o preço, mas a preparação decide o resultado.
+- **[[🧠 Dedução]]** — a rolagem que transforma as pistas coletadas em resposta. É o Caminho da Sabedoria fora de combate: sem pista, não há dedução; e pista plantada pelo inimigo entrega a conclusão que ele quis.
+- **[[👁️ Exposição]]** — o trilho de 0 a 5 que diz o quanto o mundo liga seus atos ao seu rosto, mais **insígnia e aura**: como se lê o rank de um estranho e o que custa mostrar o seu.
 
 ---
 

@@ -63,6 +63,8 @@ escopo: sistema
 | **Golpe Matador** | Vários Gu ativados como uma jogada só, com nome próprio. É como se mata alguém de rank acima | [[⚡ Golpes Matadores]] |
 | **Brecha** | A condição declarada em que um Golpe Matador falha. **Todo** Golpe tem uma — é o que permite vencer chefe por inteligência | [[⚡ Golpes Matadores]] |
 | **Teto de Combo** | Quantos Gu cabem num Golpe Matador, definido pelo estágio: **2 · 3 · 4 · 5** (Inicial → Pico). Como o núcleo ocupa uma vaga, o teto de apoios é esse número **menos um** | [[⚡ Golpes Matadores]] |
+| **Esgotado / Ferido** *(Gu)* | A escada de condição de um Gu machucado — antes de morrer, ele avisa | [[💀 A Morte dos Gu]] |
+| **Queimar um Gu** | Matar um apoio de propósito no disparo de um Golpe Matador, por +2 Níveis, vantagem ou anular a Brecha | [[💀 A Morte dos Gu]] |
 | **Supressão Regional** | Gu usado fora da região onde foi refinado conta 1 rank abaixo | [[🗺️ Supressão Regional]] |
 | **Formação** | Gu trabalhando em rede num território — perímetros, domínios, casas | [[🔷 Formações de Gu]] |
 

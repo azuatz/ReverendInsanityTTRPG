@@ -29,6 +29,18 @@ permanece intocada como registro do que foi dito originalmente.
 |---|---|---|
 | [[Feedback do autor — grande rodada 2026-08-30]] | 2026-08-30 *(em curso)* | ver [[🗺️ Plano de Ingest — Feedback 2026-08-30]] |
 | [[Clipping — Repositório GitHub do romance completo]] | *(não ingerido)* | — |
+| [[Homebrew 3DeT — Lamúrias do Reverendo]] | 2026-08-30 *(lida, pendente)* | — |
+| [[Feiticeiros e Maldições v2.5]] | 2026-08-30 *(arquivada)* | — |
+
+> [!note] As duas fontes de outros sistemas
+> **Homebrew 3DeT — Lamúrias do Reverendo**: adaptação de Reverend Insanity para
+> 3DeT Victory, trazida como banco de ideias (não como regra). O que vale
+> aproveitar está avaliado no [[🗺️ Plano de Ingest — Feedback 2026-08-30]].
+>
+> **Feiticeiros e Maldições v2.5**: o RPG de Jujutsu Kaisen de onde a **decisão 9
+> tirou a Escada de Dano** — é o sistema-mãe do motor. Trazido para conferir
+> balanceamento, números e estilo de escrita. O PDF diagramado (368 págs., 55 MB)
+> fica fora do vault, em `~/Documentos/`; aqui está só o texto extraído.
 
 > [!tip] O clipping do GitHub é um ponteiro, não conteúdo
 > A página clipada é só a listagem do repositório `azuatz/Reverend-Insanity` —

@@ -75,7 +75,7 @@ A Rede está limitada a `CAR + 2` compradores, cada um absorvendo no máximo 25%
 
 ### Vender Gu saqueado
 
-Gu tomado de um derrotado carrega a **Detonação** do dono original ([[⚰️ Espólio]]). Listar um Gu saqueado funciona — e é a forma mais rápida conhecida de o antigo dono, ou a facção dele, descobrir que você está vivo e onde escoa. **Todo Gu saqueado listado dá +2 de Assinatura**, sem exceção e sem teste que evite.
+Gu tomado de um derrotado carrega a **Detonação** do dono original ([[⚰️ Espólio]]). Listar um Gu saqueado funciona — e é a forma mais rápida conhecida de o antigo dono, ou a facção dele, descobrir que você está vivo e onde escoa. **Todo Gu saqueado listado dá +2 de Assinatura**, sem exceção e sem teste que evite. *(Assinatura é a [[👁️ Exposição]] aplicada ao mercado imortal — mesmo trilho, mesmo número.)*
 
 ---
 

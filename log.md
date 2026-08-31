@@ -124,3 +124,46 @@ recalculados. Duplicação de bloco 103–112 no Log de Decisões (escrita simul
 fundida num bloco único 103–118; marcador da decisão 16 corrigido para 106.
 Pendências novas no Log: simular o motor pós-103–112 e reauditar a economia
 imortal sob a Dilatação Temporal.
+
+## [2026-08-30] ingest | Sistema de morte dos Gu (decisão 129)
+Pedido do autor: morte de Gu também dentro de Golpes Matadores. Criada [[💀 A Morte
+dos Gu]] — escada Saudável→Esgotado→Ferido→Morto, mirar Gu manifestado (−4),
+escudos que estouram contra 2/3+ ranks, Sobrecarga dos apoios mesmo no sucesso, e a
+Queima deliberada (matar 1 apoio por +2 Níveis / vantagem / anular a Brecha).
+Ligada em Combate, Golpes Matadores, Gu (nota-mãe), Mapa e Dicionário. Numeração
+coordenada com a sessão paralela (peer registrou 119–128; esta entrou como 129).
+
+## [2026-08-30] lint | Correções das 28 contradições (pastas 00–06)
+Cinco agentes em paralelo, particionados por pasta. Guia do Mestre tinha **8**
+regras revogadas sendo ensinadas (não 2); statblocks do Grimório estavam todos
+1,5× abaixo da própria tabela; notas de Caminho, Catálogo de Heranças, Refino e
+Formações convertidos do motor v1 para v2 com média conferida; 16 Brechas
+escritas (8 no Catálogo de Gu, 8 no Catálogo de Heranças); Dicionário ganhou 12
+verbetes; Débito ganhou a seção do Vínculo quebrado. Achados de design pendentes
+listados em [[🩺 Lint do Vault]].
+
+## [2026-08-30] canon | Fonte primária instalada
+Repositório do romance clonado e convertido: 2.341 capítulos em texto pesquisável
+(`~/Documentos/Reverend-Insanity-fonte/texto/`, 28 MB, fora do vault). Nota
+[[Fonte Primária — O Romance]] criada na pasta 10 com glossário de tradução.
+Schema atualizado: "não verificável na base" deixa de ser veredito aceitável.
+
+## [2026-08-30] schema | Decisões 119–128 e renumeração
+Colisão de numeração com a sessão paralela (`reverend-insanity-8a`) resolvida: as
+minhas 113–123 viraram **119–128**, e a minha antiga 117 (lojas de Gu) foi
+removida por ser duplicata da 113 dela. Registradas: teto do Golpe Matador (119),
+Domínio de Formações via gênio pobre (120), Lua é Caminho (121), fonte primária
+(122), sistema de receitas — portão + Dedução + receitas imortais + falha canônica
+(123–125), Dedução (126), Exposição (127) e insígnia/aura (128).
+
+## [2026-08-30] ingest | Notas novas: 🧠 Dedução e 👁️ Exposição
+Criadas em `01 — Fundação` implementando as decisões 126–128. A Dedução conserta
+o "+4 em toda Dedução" do Físico da Sabedoria Despreocupada, que apontava para uma
+rolagem inexistente. A Exposição universaliza a Assinatura do mercado imortal e
+responde "matamos o cara, e agora?". Ligadas à nota-mãe, ao Mapa e às âncoras.
+
+## [2026-08-30] ingest | Duas fontes de outros sistemas
+`Homebrew 3DeT — Lamúrias do Reverendo` (adaptação de RI para 3DeT, banco de
+ideias) e `Feiticeiros e Maldições v2.5` (o RPG de Jujutsu Kaisen de onde saiu a
+Escada de Dano da decisão 9 — 368 págs., para conferir balanceamento e escrita).
+Ambas registradas em [[📥 Fontes]]; avaliação pendente.

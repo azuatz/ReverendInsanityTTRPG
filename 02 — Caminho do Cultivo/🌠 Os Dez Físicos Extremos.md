@@ -293,7 +293,7 @@ A alma é velha demais pro corpo — fragmentos de algo que existiu antes, aloja
 
 A mente funciona rápido demais e não desliga. O portador raramente dorme e nunca se preocupa — não por coragem, por incapacidade.
 
-- **Dom:** Gu de Sabedoria ganham **+2 na CD** (soma ao +2 do perfil d6). **+4 em toda Dedução**, e uma vez por sessão ele pode **refazer uma decisão** de até uma cena atrás, como se tivesse pensado melhor na hora.
+- **Dom:** Gu de Sabedoria ganham **+2 na CD** (soma ao +2 do perfil d6). **+4 em toda [[🧠 Dedução|Dedução]]**, e uma vez por sessão ele pode **refazer uma decisão** de até uma cena atrás, como se tivesse pensado melhor na hora.
 - **Vantagem** em achar a Brecha de qualquer Golpe Matador que tenha visto.
 - **Maldição — nada pesa.** O portador é **incapaz de sentir medo, luto ou urgência**, e por isso é péssimo em avaliar risco real. Mecanicamente: ele **não pode gastar Pontos de Plano defensivamente**, e a mesa pode exigir um teste de VON pra ele levar uma ameaça a sério. Falha na contagem regressiva queima empatia: a cada uma, ele perde a capacidade de se importar com **uma pessoa específica** da vida dele, permanentemente. Ao acumular 5, ele não se importa com ninguém — inclusive consigo.
 

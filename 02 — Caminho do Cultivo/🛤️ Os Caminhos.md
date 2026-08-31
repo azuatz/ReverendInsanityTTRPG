@@ -53,7 +53,7 @@ Mecanicamente, o Caminho de um personagem define: que tipo de Gu ressoa com ele 
 | **Lua** | Corte à distância, maré/gravidade, frio Yin | Depende de fase lunar e céu aberto — ver [[🌙 Caminho da Lua\|Caminho da Lua]] |
 | **Transformação** | Mudar de forma/atributo | Risco de contragolpe alto — falhar pode deixar a forma permanente |
 | **Escravidão** | Domar e comandar feras | Poder de horda, mas alimentar a horda é caríssimo e submeter algo forte arrisca a própria sanidade |
-| **Sabedoria** | Cálculo, dedução, previsão de combate | Exige inteligência inata alta — raro por natureza, não por escolha |
+| **Sabedoria** | Cálculo, dedução, previsão de combate — a mecânica está em [[🧠 Dedução]] | Exige inteligência inata alta — raro por natureza, não por escolha |
 | **Veneno** | Toxinas, névoa, desgaste | Risco de autoenvenenamento |
 | **Sangue** | Manipulação de sangue, sacrifício de vida | Poder altíssimo, perseguido por qualquer facção correta que descobrir |
 | **Alimentação** | Buffs por comida, aceleração de Gu | Único Caminho que combina cultivo com cozinhar — utilidade fora de combate incomum |

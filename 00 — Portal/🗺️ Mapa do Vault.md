@@ -54,6 +54,8 @@ escopo: processo
 | [[💪 Atributos]] | **FOR/CON/DES/AST/VON/CAR**, 12 pontos. Força = melee, Vontade = Gu, Constituição = vida e portão dos Gu de Corpo, Destreza = Defesa, Astúcia lê o mundo, Carisma lê as pessoas |
 | [[🏃 Fuga e Perseguição]] | Desengajar, perseguição em 3 rodadas, e sacrificar algo pra escapar — o pilar "fugir tem regra própria" |
 | [[🕵️ Preparação e Informação]] | Ficha de Plano e Pontos de Plano, as 5 vias de conseguir informação, informação plantada — o pilar "quem prepara, vence" |
+| [[🧠 Dedução]] | **A rolagem do Caminho da Sabedoria fora de combate** — a CD vem das pistas que o grupo tem, a resolução da resposta é declarada antes, e pista plantada envenena o resultado |
+| [[👁️ Exposição]] | **O trilho de 0 a 5 de "quem sabe seu nome"** — gatilhos, consequência por faixa, disfarce; mais **insígnia e aura** (ler o rank de um estranho, e o preço de mostrar o seu) |
 
 ## 02 — Caminho do Cultivo
 
@@ -92,6 +94,7 @@ escopo: processo
 | [[🍖 Sustento e Alimento]] | O que cada Gu come, e a escala de intervalo por rank (rank 5 come de 1–2 anos; imortal de 5–6) |
 | [[📖 Catálogo de Gu]] | **457 Gu + 12 Casas de Gu Imortal**, todos com perfil ⬆️/⬇️ e tags de Peculiaridade nas **3 aptidões** (⚡Uso · 🍖Alimentação · 🔨Refino). Inclui Gu Sociais/Investigação, Gu de Corpo elementais, ataque melee Wu Xing, 15 candidatos a Imortal e 8 Golpes Matadores de rank 5 |
 | [[🚀 Gu de Avanço de Rank]] | **Todo Gu de progressão num lugar só** — estágio, salto de rank, Ascensão e fase imortal, com a tabela de planejamento rank a rank dos 4 personagens |
+| [[💀 A Morte dos Gu]] | **Como Gu se machucam e morrem** — a escada Esgotado→Ferido→Morto, escudos que estouram, mirar um Gu, e a Sobrecarga e a **Queima** dentro de Golpes Matadores |
 | [[🗂️ Índice de Gu por Caminho]] | **Todos os Gu por Caminho e rank** — a porta de consulta do catálogo |
 | [[📜 Livro de Receitas de Gu]] | **De onde sai cada Gu** — origem selvagem (r1), receita de fusão (r2–5), elevação (r6+); receitas canônicas marcadas 📕 |
 | [[🧬 Receitas de Combo-Refino]] | Quais Gu fundem em quais, exemplos por salto de rank |

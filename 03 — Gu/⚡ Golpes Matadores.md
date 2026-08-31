@@ -105,6 +105,10 @@ Falhar no teste de conjuração não é só "não acontece nada". Os Gu foram fo
 
 **Num Golpe Matador Coletivo**, quem rola o teste é o dono do núcleo — mas **todos os participantes sofrem a Retaliação**. É por isso que ninguém entra num combo coletivo com alguém em quem não confia.
 
+### 💀 O que o golpe custa aos próprios Gu
+
+Mesmo um Golpe Matador **bem-sucedido** desgasta a coleção, e um dono pode escolher queimá-la de propósito — a **Sobrecarga dos apoios** (esgota Gu de rank menor que o núcleo num `1d6`) e a **Queima deliberada** (matar 1 apoio por +2 Níveis, vantagem na Conjuração ou anular a Brecha) estão em [[💀 A Morte dos Gu]] (decisão 129).
+
 ## 🎯 Contra quem vale disparar
 
 **Abaixo de um alvo de Chefe, o Golpe Matador custa mais do que devolve.** Isso não é opinião de mesa — está medido em [[🎯 Simulação de Combate — Resultados]]: um grupo que dispara o combo contra um inimigo mediano cai de **97% para 76% de vitória** na mesma cena. Gastar o golpe errado perde a luta com mais frequência que apanhar.
