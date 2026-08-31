@@ -96,6 +96,9 @@ escopo: sistema
 | **Token de Sangue** | Identidade de metrópole ligada ao seu sangue, em 5 cores; dá desconto, acesso — e desbota | [[🏙️ Metrópoles — Centros, Tokens e Arena]] |
 | **Arena** | A liga de duelos da metrópole: bolsa por espectador, e o vencedor escolhe **um Gu** do perdedor | [[🏙️ Metrópoles — Centros, Tokens e Arena]] |
 | **Vitórias líquidas** | Vitórias − derrotas na arena; é o que sobe você de faixa (0 / 30+ / 80+) | [[🏙️ Metrópoles — Centros, Tokens e Arena]] |
+| **Ancião Externo** | Status conquistado na Arena (18 vitórias seguidas, ou 80+ vitórias líquidas por 90 dias): tratamento de token Ouro, isenção de taxa nos centros de baixo — sem nunca virar clã | [[🏙️ Metrópoles — Centros, Tokens e Arena]] |
+| **Zonas da cidade** | O mapa de bairro funcional da metrópole além da Arena: Cuidado de Gu (pensão paga), Luta de Gu (só o Gu luta), Refino por Procuração, Leilão em 3 portes por frequência | [[🏙️ Metrópoles — Centros, Tokens e Arena]] |
+| **Teste de Sucessão Comercial** | Arco de 3 meses por um posto comercial: fundo inicial igual pra cada candidato, vence quem lucrar mais líquido | [[🏙️ Metrópoles — Centros, Tokens e Arena]] |
 
 ## O mundo imortal *(só importa perto do rank 5)*
 
