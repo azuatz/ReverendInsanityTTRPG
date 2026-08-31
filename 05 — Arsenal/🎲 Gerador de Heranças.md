@@ -85,7 +85,7 @@ CD = 12 + 2 × (rank da herança − 4) + severidade (1d4 − 2)
 |---|---|---|
 | 4 | 12–14 | Perigosa: custa recursos e Ferimentos |
 | 5 | 14–16 | Grave: pode matar um descuidado |
-| 6 | 16–18 | Um mortal **não força a entrada** — o Retrocesso de forçar herança imortal mata rank 3 na porta ([[📜 Manuais e Heranças]]) |
+| 6 | 16–18 | Um mortal **não força a entrada** — o [[❤️ Recursos e Dano|Retrocesso]] de forçar herança imortal mata rank 3 na porta ([[📜 Manuais e Heranças]]) |
 | 7+ | 18+ | Conteúdo de fim de campanha |
 
 **Guardiões de combate**, quando houver (sempre, nas demoníacas): use os moldes de [[⚔️ Ameaças Genéricas por Rank]] no rank da herança −1, com o Golpe Matador do dono como Ação Especial do chefe da última câmara.
