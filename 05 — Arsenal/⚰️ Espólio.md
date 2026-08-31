@@ -61,13 +61,39 @@ Existe uma família inteira de Gu feita exatamente pra isto: **arrancar o Gu do 
 
 Gu de roubo tipicamente têm as tags `⚡Recuo` e `🍖Canibal` — comer a essência do que se rouba é o motor de ganância do jogo inteiro, e cobra caro.
 
-### 3. Coagir
+### 3. Coagir — a entrega sob ameaça
 
-**A alternativa que não exige matar.** Um inimigo derrotado, vivo e sem saída pode ser forçado a **entregar os Gu dele voluntariamente** — e a entrega voluntária vem com o Gu intacto e com a vontade do dono anterior já afrouxada (o refino depois fica mais fácil).
+**A alternativa que não exige matar — e a via que o romance usa o tempo todo.** Um inimigo derrotado, vivo e sem saída pode ser forçado a **entregar Gu e receitas voluntariamente**. A cena é social, não um teste único: `CAR contra a VON do alvo`, modificada por tudo que a situação oferecer (reféns, dívida, ameaça crível, ele estar sangrando).
 
-Isso é uma cena social, não um teste único: `CAR contra a VON do alvo`, modificada por tudo que a situação oferecer (reféns, dívida, ameaça crível, ele estar sangrando).
+**Por que ele aceita.** Pro NPC encurralado, render às vezes é a jogada racional: um Gu entregue se recompra, se recaça ou se refina de novo — **a vida não**. E uma receita entregue **continua sabida** — ele pode refinar outra cópia amanhã. Por isso todo Mestre de Gu negocia numa escada previsível: Pedras e materiais primeiro, **receitas** depois (saem da mão, não da cabeça), Gu periféricos em seguida, os Gu de build só com a faca no pescoço. Interprete a escada e a extorsão vira cena, não tabela.
 
-**A contrapartida é que ele fica vivo.** E lembra. E conta pra alguém. Muitos dos melhores inimigos recorrentes de uma campanha nascem exatamente aqui — ver [[🤝 O Débito|O Débito]], porque um pacto selado costuma valer mais que o arsenal.
+#### O Gu entregue
+
+A entrega voluntária tem duas formas, e as duas escapam do pior do saque:
+
+| Forma | O que acontece | O refino do vencedor |
+|---|---|---|
+| **Entrega desfeita** *(há tempo e essência)* | O dono desfaz o próprio refino — uma cena — e entrega o **Gu bruto** | [[🧩 Refino e Precificação\|Refino único]] normal: `rank × 20`, **sem** o +20 de saqueado e **sem desvantagem** — não há vontade alheia pra disputar |
+| **Entrega direta** *(pressa, ou essência esgotada)* | Ele entrega o Gu **ainda refinado**, renunciando a ele diante do vencedor | Refina-se por cima: `rank × 20` **+20**, mas **sem desvantagem**, qualquer que seja o rank do antigo dono |
+
+**Nas duas formas, a Detonação não existe.** A trava do Gu roubado funciona porque a vontade do dono ainda mora no Gu; a renúncia voluntária entrega exatamente essa alavanca junto. É a diferença material entre saquear e extorquir — e é por isso que extorquir bem rende mais que matar mal.
+
+#### A receita entregue
+
+Receita vale tanto quanto o Gu — **"receita é portão"** ([[📜 Livro de Receitas de Gu]]): sem ela, a fusão nem roda. Só que receita extorquida vem com um problema embutido:
+
+- **Ditada ou copiada sob ameaça**, conta como **cópia** — destrava a tentativa, sem bônus nenhum — até ser **validada** num refino bem-sucedido. E o extorquido tem todos os motivos do mundo pra adulterar um passo; o mestre decide em segredo se adulterou.
+- **O documento original** (a escrita dele, com as anotações de uso) conta como **completa e testada** — é por isso que o extorsor experiente exige o livro, não o ditado.
+
+#### O limite: o Gu Vital
+
+**O Gu Vital nunca é entregue.** Ele é a identidade do cultivador — abrir mão dele é desfazer a si mesmo, e todo Mestre de Gu prefere a morte (que, lembre-se, destrói tudo). Nenhum teste, nenhum modificador e nenhum refém muda isso. É o fundo do poço da extorsão: dá pra depenar alguém, não pra esvaziá-lo — e é onde o drama mora.
+
+#### O que fica pra trás
+
+**Uma extorsão é um [[🤝 O Débito|Débito]] negativo declarado.** Ninguém selou Gu de Juramento nenhum, mas o mundo escritura do mesmo jeito — use as regras do **Vínculo quebrado** de O Débito, com o extorquido como credor: a palavra corre em `1d6` semanas, ele (e o clã dele) ganha **+1 em qualquer teste feito pra cobrar**, e a conta só fecha quando **ele** se declarar satisfeito. Muitos dos melhores inimigos recorrentes de uma campanha nascem exatamente aqui.
+
+A saída elegante existe: converter a extorsão em **venda forçada** — pagamento real (mesmo abaixo da tabela de [[🏪 O Mercado]]), um Gu de Juramento de não-agressão mútua, e os dois lados com motivo pra ficar calados. Custa mais caro na hora e sai mais barato na campanha.
 
 ---
 

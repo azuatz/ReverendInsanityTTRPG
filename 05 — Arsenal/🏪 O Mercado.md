@@ -25,7 +25,7 @@ O que dá pra comprar nos ranks 1 a 5, quanto custa, e as quatro maneiras de pô
 | **Cidade grande / capital regional** | **+4** | Rank 1–3 com folga; rank 4 raro; leilão periódico |
 | **Metrópole** *(centros — ver [[🏙️ Metrópoles — Centros, Tokens e Arena\|Metrópoles]])* | **+6** | **Até rank 5**, escalonado por centro; leilões grandes; Gu raros exigem token |
 | **Mercado negro** | **+2** | Qualquer coisa — e **role sempre a Proveniência** |
-| **Caravana de passagem** | **+2**, uma vez por arco | Sortido e imprevisível. Some em três dias |
+| **Caravana de passagem** | **+2**, uma vez por arco | Sortido e imprevisível. Some em três dias — ver [[#O mercador itinerante\|o mercador itinerante]] |
 
 ### O teste de Disponibilidade
 
@@ -95,6 +95,30 @@ Vendendo a um refinador ou mercador: 40% do preço de tabela
 ```
 
 Pior que os 60% do balcão imortal, e de propósito: o mundo mortal não tem um mercado líquido e anônimo. Quem quer mais que 40% tem que achar **o comprador específico** que precisa daquele Gu — o que é uma cena, não uma transação.
+
+---
+
+## O mercador itinerante
+
+A obra tem essa figura, e a mesa também deve ter: **caravanas de Mestres de Gu comerciantes** que vivem de comprar num assentamento e vender no outro — 📕 canônico (Vol. 1: a caravana anual de Jia Fu, um rank 4, que sobe o Monte Qing Mao pra negociar com os clãs). O mercador itinerante é a linha "Caravana de passagem" da tabela acima virada em **NPC recorrente com nome**: a loja que anda, aparece uma vez por arco e some em três dias.
+
+**O estoque viaja na Abertura dele** — o cofre mais seguro do mundo — e por isso é pequeno. Role quando ele chegar:
+
+| O que ele traz | Rolagem |
+|---|---|
+| **Gu à venda** | `1d4+1`, todos de rank **≤ o dele** *(mercador típico: rank 2–3; um líder de caravana grande, rank 4)*, com viés pro que a região não produz |
+| **Receitas à venda** | `1d4` cópias de venda. Role `1d6`: num **6**, uma delas é **rara de verdade** — de um Gu ×3–×10, ou de rank acima do que a região sabe refinar |
+
+**Como ele precifica.** As faixas desta nota, com **ágio de estrada de +25%** — ele atravessou território de fera pra trazer aquilo, e sabe que a loja local não tem. Na outra ponta, compra pelos mesmos **40%** da regra de venda: a margem dele *é* a estrada. Receita **completa e testada** custa o preço do Gu que ela produz; **cópia sem validação, 10% disso** — e vale a regra de sempre: cópia só destrava a fusão, sem bônus, e pode ter vindo errada de propósito ([[📜 Livro de Receitas de Gu]]). Pechinchar é cena de CAR, não teste isolado — ele vive disso, e gosta.
+
+**Por que ninguém simplesmente o mata.** Duas travas, e nenhuma é bondade:
+
+1. **O [[⚰️ Espólio]] destrói o estoque.** Os Gu morrem com a vontade dele — e mercador de estrada vive alerta por profissão, com a mão na vontade. O que sobra são Pedras e cópias de receita **cifradas ou adulteradas de propósito**: as boas viajam de cabeça. Matá-lo rende quase nada.
+2. **Matar um mercador conhecido é um [[🤝 O Débito|Débito]] coletivo contra a rota inteira.** Toda porta que ele abria se fecha, todo preço dobra pra quem for suspeito, e a caravana seguinte chega escoltada — ou pagando pela cabeça de alguém. A rota lembra.
+
+É o NPC com quem **a única jogada boa é negociar** — e é essa a graça dele.
+
+**Gancho de mesa.** Ele é três coisas ao mesmo tempo: **rumor** (quem compra o quê numa rota diz quem está se preparando pra quê), **a receita rara** que nenhuma sala de clã local tem, e **o Gu que a loja não vende**. A [[#A Proveniência — todo Gu comprado teve dono|Proveniência]] rola normal nos Gu dele de rank 3+ — e a resposta de onde ele arranjou aquilo costuma virar a sessão seguinte.
 
 ---
 
