@@ -63,6 +63,8 @@ Fonte: `Volume_6_-_Demon_Venerables_Eternal_Life.txt`, linhas 49401–73957 (par
 - **Refinement Sea** — reservatório análogo ligado a caminho refino; "quase seco" neste ponto, precisa de reposição mais urgente que o Human Sea (cap. 2267).
 - **Beggar Gu, Merchant Gu** | Caminho Humano (receitas incompletas) | Obtidas por Fang Yuan via Shen Shang; gerariam "mão de obra" leal automaticamente se completadas, mas Fang Yuan não tem attainment de caminho humano suficiente e decide não investir tempo nelas agora (cap. 2267).
 - **Heavenly Pillar** | Rank 9 | Material imortal de caminho céu | Cada unidade já é, por si só, um material rank 9; Tian Ti Mountain (Central Continent) usava um para se conectar fisicamente à Corte Celestial. Um exemplar é encontrado caído nos dois céus, pesado/poderoso o bastante para esmagar bestas de alma que não conseguem desviar (cap. 2267).
+- **Heavenly Chasm** | Rank 9 | Material imortal de caminho céu | Forma irregular, enorme, aparenta ser ar vazio mas bloqueia passagem física; só é rompido por força descomunal (Spectral Soul Demon Venerable soca através dele) (cap. 2269–2270).
+- **Heavenly Melody** | Rank 9 | Material imortal (caminho som) | Uma "canção" hipnótica feita só de vento, chuva, trovão e canto de pássaro (sem instrumentos); hipnotiza e mata lentamente quem a escuta por tempo demais, mesmo Gu Immortals rank 8; capturada e guardada por Feng Jiu Ge (especialista rank 8 de caminho som) com um método especial (cap. 2269).
 
 ## B) Sistemas e atividades jogáveis
 
