@@ -129,18 +129,20 @@ A versão imortal: em vez de ancorar Gu no solo ao longo de semanas, o Imortal *
 
 **Requisitos:** rank 6+, e nível de domínio **Mestre** naquele Caminho (ver [[☯️ Marcas de Dao|Marcas de Dao]]).
 
-> [!important] No rank 6, isso é marca de gênio — não rotina
+> [!important] No rank 6, isso é o padrão dos fortes — não rotina, mas não é raridade histórica
 > O teto de Marcas do rank 6 é 9.999 **no total** (decisão 109), e Mestre pede
 > 10.000 naquele Caminho. Pela contagem, portanto, **nenhum rank 6 alcança
-> Mestre** — a única via é a **regra do gênio pobre**: operar um nível de domínio
-> acima do que a contagem indica, por um feito real de compreensão reconhecido
-> pela mesa. Um rank 6 no Pequeno Feito que consiga isso opera como Mestre e
-> abre Domínios; do **rank 7 em diante** a contagem normal basta.
+> Mestre** por acúmulo real — a via é a **regra do gênio pobre** (ver
+> [[☯️ Marcas de Dao]]): um rank 6 denso, real Pequeno Feito, que empilhe **um**
+> feito de compreensão reconhecido opera como Mestre e abre Domínios; com
+> **dois** feitos empilhados, opera como Grão-Mestre. Do **rank 7 em diante** a
+> contagem normal basta.
 >
-> Isso é deliberado e canônico: no romance, um rank 6 com attainment de
-> Grão-Mestre é notável justamente por ser exceção — *"though her cultivation was
-> only at rank six, she had grandmaster attainment in sword path"* (Swordmaster
-> You Lan). Ver [[📚 Fonte Primária — O Romance]].
+> Isso é canônico e comum entre os rank 6 fortes do romance, não exceção
+> histórica: *"strength path and blood path were at grandmaster attainment
+> realm... he was only rank six"* é o próprio Fang Yuan; a Espadachim You Lan,
+> "famosa" e rank 6 com Grão-Mestre em Espada, é descrita como notável, não como
+> única na história. Ver [[📚 Fonte Primária — O Romance]].
 
 ## O custo
 

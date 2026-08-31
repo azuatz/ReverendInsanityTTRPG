@@ -50,9 +50,12 @@ Os Níveis de Dano são o efeito óbvio. Os interessantes são estes — e é aq
 
 ### O gênio pobre — compreensão acima da contagem
 
-Marca é estrutura física, mas **entendimento não é a mesma coisa que músculo**. Um personagem pode operar **um nível de domínio acima** do que a contagem de Marcas dele indica, se a mesa reconhecer um feito real de compreensão: resolver um problema do Caminho que ninguém resolveu, sobreviver a uma revelação sobre a natureza dele, ou herdar o Significado Verdadeiro de alguém que o dominava.
+Marca é estrutura física, mas **entendimento não é a mesma coisa que músculo**. Um personagem pode operar **acima** do que a contagem de Marcas dele indica, se a mesa reconhecer um feito real de compreensão: resolver um problema do Caminho que ninguém resolveu, sobreviver a uma revelação sobre a natureza dele, ou herdar o Significado Verdadeiro de alguém que o dominava.
 
-Ele ganha **os Níveis de Dano** do nível superior — mas **não** o que depende de estrutura física: refino de Gu Imortal de rank mais alto e anexação de Abertura continuam travados na contagem real. É o arquétipo do prodígio que entende mais do que tem, e é uma das figuras mais recorrentes do gênero.
+**Cada feito reconhecido sobe um nível de domínio, e eles empilham** — até dois níveis acima da contagem real, cada salto exigindo o seu próprio feito, distinto e memorável. Ele ganha **os Níveis de Dano** do nível emprestado — mas **não** o que depende de estrutura física: refino de Gu Imortal de rank mais alto e anexação de Abertura continuam travados na contagem real.
+
+> [!important] Isto não é exceção rara — é como os fortes de rank 6 funcionam
+> A correção acima existe porque a versão anterior (um nível só) tornava **Grão-Mestre estruturalmente impossível no rank 6** — o teto de 9.999 Marcas totais nem chega ao piso de Mestre (10.000), então um salto de um nível só nunca alcançava Grão-Mestre. Isso contradiz o cânone com força: **Fang Yuan é rank 6 com Grão-Mestre em Força e Sangue** ao mesmo tempo (*"strength path and blood path were at grandmaster attainment realm... he was only rank six"*), e depois também em Humano; a Espadachim You Lan é rank 6 com Grão-Mestre em Espada, descrita como "famosa", não como anomalia única na história. **Este é o padrão dos rank 6 fortes na obra, não uma singularidade.** Com dois saltos empilhados, um rank 6 denso (Pequeno Feito real) chega a operar como Grão-Mestre — exatamente a faixa que o cânone mostra. Refino e anexação continuam travados na contagem real de propósito: um gênio bate mais forte antes de ter a estrutura pra fazer o que só a densidade real permite.
 
 ## Rank e Marcas: as duas travas
 

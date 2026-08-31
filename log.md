@@ -219,3 +219,11 @@ e Casa-Gu Imortal ([[🔷 Formações de Gu]]) — os itens 4 a 7 do levantament
 melhorias. Além disso, a Fratura da Abertura em crítico (que estava pendente de
 simulação) foi promovida a regra viva em [[⚔️ Combate]] por pedido direto do autor;
 fica marcada como não-medida no Log até a próxima rodada de simulação.
+
+## [2026-08-30] crítica | Gênio pobre corrigido: Grão-Mestre no rank 6 era impossível
+Achado do autor confirmado e corrigido: com salto de um nível só, nenhum rank 6
+alcançava sequer Mestre real (teto 9.999 < piso 10.000), então Grão-Mestre era
+duplamente inatingível. Cânone mostra o oposto — Fang Yuan é rank 6 com
+Grão-Mestre em dois Caminhos ao mesmo tempo, não é anomalia única. Decisão 133:
+gênio pobre agora empilha até 2 feitos de compreensão. Propagado a
+[[☯️ Marcas de Dao]] e [[🔷 Formações de Gu]]. Pendente de simulação.
