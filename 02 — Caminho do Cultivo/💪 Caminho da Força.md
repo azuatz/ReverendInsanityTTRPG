@@ -65,6 +65,9 @@ Cada **Descarga** usada na mesma cena cobra, no fim do golpe: **`1 × M` de Vita
 >
 > **O [[📖 Catálogo de Gu#Rank 3 — M = 4|Gu do Empenho Total]]** — o Gu quase extinto que Fang Yuan adquire por acaso numa casa de apostas — é a versão **garantida** disto: todo cultivador de Força comum depende da sorte do 1d6, ele não.
 
+> [!info] 🩸 Herança do Fantasma — o que sobra quando um deles cai *(padrão adaptado, inspirado em Heranças das Sombras de Feiticeiros e Maldições)*
+> Sempre que um dos fantasmas de fera solidificados do [[📖 Catálogo de Gu#Rank 3 — M = 4|Gu do Empenho Total]] **desliga na força** — essência insuficiente pra sustentar todos, ou um efeito de supressão de Gu dissolve um deles —, o poder dele não some: os fantasmas que sobram ganham **+1 Nível de Dano cada, cumulativo**, até um teto de **metade do número original de fantasmas** (2 Níveis com 3, 4 Níveis com 8). O bônus dura até o fim da cena. **Não precisa de HP por fantasma pra funcionar** — é o mesmo gatilho que já existe (essência acabando, supressão de Gu), só com uma consequência nova: perder força na horda a concentra em quem restou, em vez de só encolher a cena.
+
 > **Por que o Ímpeto existe e por que é assim.** O problema real do Caminho da Força não é o dano — é que ele **não escolhe a luta**. Não tem alcance, não tem controle de campo, não tem furtividade, não tem mobilidade. Contra alguém que fique a 40 m, ele não tem jogada nenhuma. O Ímpeto não conserta isso: ele **paga o lutador por resolver o problema do jeito difícil**, ficando em contato, apanhando, avançando. Um cultivador de Força que fica três rodadas trocando golpes chega ao passo +9 e ignora RD — território de rank acima. Um que passa a luta correndo atrás do inimigo chega em zero, todas as rodadas.
 >
 > E é por isso que o gatilho de **sofrer dano** existe. Nenhum outro Caminho é recompensado por levar porrada. Este é, porque é a única coisa que ele faz melhor que os outros.

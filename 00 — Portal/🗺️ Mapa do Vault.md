@@ -182,6 +182,7 @@ escopo: processo
 | [[🔍 Síntese — Fidelidade ao Romance]] | **Frente 2 da síntese da leitura integral** — achados de mecânica/números onde as notas de regra divergem do que os 18 digests do romance realmente afirmam (Marcas de Dao por Provação, Longevidade de Veneráveis, estrutura da Cidade Shang, tamanho de Terra Abençoada). Metrópoles já corrigida (decisão 138), tamanho de Terra Abençoada reconferido e mantido (decisão 149); Marcas de Dao e Longevidade seguem em aberto |
 | [[🔍 Síntese — Atividades Jogáveis por Rank]] | **Frente 3 da síntese da leitura integral** — inventário do que dá pra fazer em cada fase de rank (1–9), com cobertura ✅/🔧/❌ contra o sistema atual e recomendações priorizadas |
 | [[🔍 Síntese — Atividades Jogáveis (material bruto)]] | Rascunho de trabalho por trás da nota acima — achados crus por volume, antes da organização por fase |
+| [[🔍 Síntese — Feiticeiros e Maldições (Bestiário, Mestre, Técnicas)]] | Ingest de 3 fontes novas de F&M (bestiário/framework de inimigo, livro de mestre, grimório de técnicas) — o que virou regra está no Log (decisões 158, 160); banco curado de 13 padrões mecânicos de Técnicas e 2 padrões de mesa do Livro do Mestre, não aplicados ainda |
 
 ## 09 — Lore de Vespéria
 
