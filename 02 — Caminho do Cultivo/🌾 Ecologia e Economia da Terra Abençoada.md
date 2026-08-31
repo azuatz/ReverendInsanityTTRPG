@@ -101,7 +101,8 @@ Instalar algo do Caminho que a sua Sintonia **rejeita**:
 | Grau de Sintonia | O que acontece |
 |---|---|
 | **0 a 2** | Custa **o dobro de PB**, rende **metade**, e gera **+1 Desequilíbrio por ano** enquanto estiver lá |
-| **3 ou mais** | **A terra não aceita.** Morre em até um ano interno, sem teste, e você perdeu o investimento |
+| **3 ou mais, uma tentativa** | **A terra não aceita.** Morre em até um ano interno, sem teste, e você perdeu o investimento — **zero Desequilíbrio**, é só um prejuízo pontual |
+| **3 ou mais, insistindo** | Repor o mesmo material a cada vez que morre acumula **+2 Desequilíbrio por ano** — a terra passa a gastar essência ativamente pra expulsar aquilo (ver "Sobrecarga por incompatibilidade" abaixo) |
 
 Uma terra de Lua com Grau 3 **não consegue** manter uma veia de enxofre nem uma fera ígnea. Não é penalidade — é o clima. Quem precisa de material Yang **importa** (ver seção 5), e é por isso que nenhum Imortal é autossuficiente.
 
@@ -290,7 +291,7 @@ Um Imortal com Estabilidade 0–1 (**Frágil**) rola **mais uma vez** — a regr
 
 ### Sobrecarga por incompatibilidade
 
-Já coberto na regra de rejeição (seção 1), mas o caso extremo merece número: **instalar material incompatível numa terra de Grau 3+ e insistir** — repor a cada vez que morre — acumula **+2 Desequilíbrio por ano** em vez de +1, porque a terra está gastando essência ativamente pra expulsar aquilo. Três anos de teimosia levam uma terra saudável ao Colapso.
+O caso "3 ou mais, insistindo" da seção 1, com o número: três anos de teimosia (repondo o material a cada morte) levam uma terra saudável ao Colapso.
 
 ### Reparar
 

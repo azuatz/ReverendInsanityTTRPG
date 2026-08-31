@@ -13,7 +13,7 @@ Um cultivador parado **desperdiça poder**. A Abertura enche, o teto de regenera
 
 Esta nota é a válvula: como transformar excedente de essência, de Força de Alma e de Marcas em **matéria vendável**, e como isso vira renda contínua de uma [[🗝️ Terra Abençoada|Terra Abençoada]].
 
-> **A tese de design da nota inteira:** materializar é **ruim de câmbio e bom de oportunidade**. Você perde ~70% do valor no processo. Vale mesmo assim, porque a alternativa era perder 100%.
+> **A tese da nota inteira:** materializar é **ruim de câmbio e bom de oportunidade**. Você perde ~68% do valor no processo (ver a conta na seção 1.3). Vale mesmo assim, porque a alternativa era perder 100% de qualquer jeito.
 
 ---
 
@@ -36,9 +36,7 @@ Cargas por dia = (Essência máxima ÷ 100), arredondado pra baixo, × modificad
 | Favorável ao Caminho (luar, veia elemental, terreno do próprio elemento) | **×1,5** |
 | Ideal ([[🌙 Caminho da Lua\|lua cheia a céu aberto]], coração de vulcão, veia de essência do elemento) | **×2** |
 
-Um rank 3 Pico com 1.920 de Essência máxima rende **19 Cargas/dia** em condição padrão, **38** em condição ideal.
-
-> **Por que a taxa vem do tanque e não do teto de 100/rodada.** O teto de regeneração é regra de **combate** — ele existe pra impedir que um tanque grande vire munição infinita numa luta. Fora de combate, o limitante é o tamanho do tanque e o tempo de reclusão. E é exatamente por causa do teto que o excedente existe: quem tem tanque enorme **não consegue gastá-lo** na velocidade em que ele enche. A Condensação é o ralo que faltava.
+Um rank 3 Pico com 1.920 de Essência máxima rende **19 Cargas/dia** em condição padrão, **38** em condição ideal. *(O teto de regeneração de 100/rodada é regra de combate e não se aplica aqui — fora de combate, o limite é só o tamanho do tanque e o tempo de reclusão.)*
 
 **Cargas não se estocam.** Elas existem dentro do lote que você começou. Interromper a reclusão antes de completar o lote perde tudo que foi canalizado.
 
@@ -92,11 +90,7 @@ O **modificador de Caminho** do [[🏛️ Arquitetura do Sistema|Arquitetura do 
 
 Faça a conta de um lote de **Jade Fria Yin**: 25 Cargas = **2.500 pontos de essência**. Essa mesma essência, se você a tivesse em Pedras Primordiais, seriam **125 Pedras**. A Jade vende por **40**.
 
-**Você queimou 125 Pedras de valor pra produzir 40.** É prejuízo de 68%, e é de propósito.
-
-> **Por que é ruim de propósito.** Se condensar fosse lucrativo por essência gasta, o jogo inteiro viraria uma planilha: todo personagem pararia de aventurar e sentaria a campanha inteira imprimindo dinheiro, e a Pedra Primordial deixaria de ser um recurso escasso. Com 25% de eficiência, **condensar só compensa com essência que ia evaporar de qualquer forma** — e é por isso que a Condensação é a atividade de quem está em reclusão, viajando, escondido ou esperando uma Calamidade, nunca a atividade de quem tem algo melhor pra fazer com o tanque.
->
-> A leitura de mesa: **a essência gasta em Condensação é sempre a essência que sobrou.** Se o jogador está condensando enquanto deveria estar lutando, ele está jogando errado — não porque a mesa proíbe, mas porque a matemática já cobrou.
+**Você queimou 125 Pedras de valor pra produzir 40.** É prejuízo de 68%, de propósito — **condensar só compensa com essência que ia evaporar de qualquer forma**. É a atividade de quem está em reclusão, viajando, escondido ou esperando uma Calamidade, nunca de quem tem algo melhor pra fazer com o tanque.
 
 **A exceção deliberada: Sangue a 50%.** O Caminho do Sangue tem ×0,5 no custo, então o Coral condensa com metade das Cargas e é o único material que quase se paga. O contrapeso é duplo e obrigatório: cada lote **custa `M d6` de Vitalidade** além das Cargas (o combustível é o corpo, não a Abertura — coerente com o [[🏛️ Arquitetura do Sistema|modificador de Sangue]]), e **vender Coral de Sangue é crime capital em qualquer facção ortodoxa**. O material mais lucrativo do sistema é o que te enforca. Isso é o Caminho do Sangue funcionando como deve.
 
@@ -118,11 +112,7 @@ A **Impressão de Dao** é o ralo desse excedente.
 | **Rende** | O material passa a valer **em Pedras de Essência Imortal o que valia em Pedras Primordiais, dividido por 5** — uma Jade Fria Yin de 40 Pedras vira uma Jade Imortal de **8 Pedras Imortais** |
 | **Risco** | Falha: as Marcas se perdem **e** o material se perde. Falha por 10+: as Marcas se perdem e você leva **1 Ferimento** — a impressão voltou pra dentro |
 
-**As Marcas gastas somem da contagem.** Contam como perda real pro nível de domínio.
-
-> **Por que ninguém sensato faz isso, e por que isso é bom.** 100 Marcas é caro — é a metade do que uma Calamidade Terrestre inteira rende. Um Imortal com espaço no rank nunca deve queimar Marca em material; ele deve guardar. **Mas um Imortal encostado no teto do rank tem 100 Marcas que valem menos que zero** — elas estão literalmente comendo a Abertura dele. Pra ele, e só pra ele, a Impressão de Dao é a jogada certa.
->
-> Isso transforma o Retrocesso de Marca de uma punição passiva numa **decisão econômica**: você acumulou rápido demais pro seu rank, e agora tem que escolher entre Ferimentos permanentes e virar fábrica de material imortal até conseguir subir.
+**As Marcas gastas somem da contagem.** Contam como perda real pro nível de domínio. **100 Marcas é caro** — metade do que uma Calamidade Terrestre inteira rende — então só vale a pena pra quem já está encostado no teto do rank, com Marcas que já valem menos que zero (comendo a Abertura via [[☯️ Marcas de Dao|Retrocesso de Marca]]). Um Imortal com espaço no rank nunca deve queimar Marca assim; ele deve guardar.
 
 ---
 
@@ -132,15 +122,7 @@ O que a essência não faz: matéria **espectral**. Ela atravessa parede, não t
 
 ### 2.1 O custo: Força de Alma
 
-Forjar consome **Força de Alma em homens** ([[👻 Caminho da Alma|Caminho da Alma]]) — o mesmo número que multiplica sua Alma máxima.
-
-> **A decisão de design: o gasto é permanente na ficha, mas recuperável pela mesma fonte que o criou.**
->
-> **Por que não temporário.** Se a Força voltasse sozinha com descanso, forjar seria de graça e o material espectral inundaria o mercado — exatamente o oposto de "alta raridade". Não haveria decisão.
->
-> **Por que não irrecuperável.** Força de Alma **é** o poder do Caminho da Alma. Um custo puramente permanente significaria que nenhum cultivador de Alma jamais forjaria, e a regra morreria na página.
->
-> **A solução:** a Força gasta some da ficha e **não volta com descanso, tempo ou cura** — só volta **devorando de novo** (ou com Gu das Tripas). Forjar é reciclar as almas que você comeu em objetos. O preço não é o número: é ter que **comer mais gente** pra repor, e cada refeição custa Contaminação. O Caminho da Alma paga em identidade, como sempre pagou.
+Forjar consome **Força de Alma em homens** ([[👻 Caminho da Alma|Caminho da Alma]]) — o mesmo número que multiplica sua Alma máxima. **O gasto é permanente na ficha e não volta com descanso, tempo ou cura — só volta devorando de novo** (ou com Gu das Tripas). Forjar é reciclar as almas que você comeu em objetos: o preço real não é o número, é ter que comer mais gente pra repor, e cada refeição custa Contaminação.
 
 **Três travas duras:**
 
@@ -199,8 +181,6 @@ Numa **Terra de Noite Eterna**, as almas devoradas e não digeridas não dispers
 | **O contrapeso** | Cada alma queimada em forja **sai** da reserva de Golpes Matadores defensivos (*Recolher o Que Sobrou* precisa de estoque). Você está gastando a sua única defesa |
 | **A saída** | A purificação por lua cheia (`1d6 + domínio em Lua`) e a purga passiva da Noite Eterna (−1/mês interno) rodam em paralelo. Uma Terra de Noite Eterna com um cultivador de Lua dentro é a **única configuração do sistema onde forjar em escala é sustentável** |
 
-> **Por que essa via existe.** É a peça que fecha a build Lua+Alma como uma economia, não só como um combo de combate: a terra produz almas, a lua limpa a Contaminação, e a forja converte as duas coisas em objetos que ninguém mais no mundo consegue fabricar. É o motivo pelo qual essa combinação vale um arco inteiro de campanha.
-
 ---
 
 ## 3. Aplicação no mercado imortal — o Treasure Yellow Heaven
@@ -220,21 +200,7 @@ A produção acontece em **tempo interno**, então o fluxo de tempo da terra já
 | **3** — ecossistema vivo | **50 PEI** | **200 PEI** | **450 PEI** | **800 PEI** | **1.800 PEI** |
 | **4** — comércio externo | **200 PEI** | **800 PEI** | **1.800 PEI** | **3.200 PEI** | **7.200 PEI** |
 
-> [!note] Reauditada sob a Dilatação Temporal *(2026-08-31)*
-> Tabela recalibrada — os números antigos foram computados sob o fluxo de
-> tempo pré-decisão 110 (~0,5×–3×); com o fluxo atual (5×–40×, o mesmo
-> multiplicador de qualidade), a mesma produção *por ano interno* rende **10×
-> mais por ano externo**. Multiplicado ×10 em toda a tabela — as proporções
-> entre camadas e qualidades (a escada quadrática, a regra dos "nove vezes")
-> não mudaram, só a escala absoluta. Conferido contra as referências de
-> transação desta mesma nota (CD 22 para transações de 201+ PEI) e contra
-> [[🏪 Céu Amarelo do Tesouro]]: uma terra camada 4 bem desenvolvida agora gera
-> renda anual condizente com o que o próprio mercado imortal já tratava como
-> "grande" — antes da correção, a produção de topo (720 PEI/ano) mal cobria
-> uma dúzia de transações médias por ano, o que subestimava o que uma Terra
-> Abençoada madura deveria valer.
-
-*PP = Pedras Primordiais (moeda mortal). PEI = Pedras de Essência Imortal.*
+*PP = Pedras Primordiais (moeda mortal). PEI = Pedras de Essência Imortal. Tabela recalibrada ×10 sob a Dilatação Temporal — histórico completo na decisão 148 do [[🧭 Log de Decisões|Log]].*
 
 **A camada 2 é autoconsumo, não renda.** Ela cobre a despesa de alimentar os próprios Gu Imortais (**~2 PEI/ano** pra um rank 6 típico: 1 Ração de 10 PEI a cada 5 anos) — mesmo uma terra Mesquinha produz 10 PEI/ano em camada 2, cinco vezes o necessário. Vender o excedente da camada 2 significa **deixar os próprios Gu Imortais com fome mais cedo do que precisava** — ver [[🍖 Sustento e Alimento|Sustento e Alimento]].
 
@@ -267,7 +233,7 @@ Um Imortal não precisa de dinheiro. Ele tem uma Terra Abençoada que produz o q
 | **Anos de Longevidade** | **10 PEI por ano** | O comprador paga com anos dele, ou você paga com os seus. Nunca é indolor ([[⏳ Longevidade\|Longevidade]]) |
 | **Pedras de Essência Imortal em espécie** | **70%** do valor cotado | **Pagar em moeda é uma ofensa velada.** Significa "não quero te dever nada e não quero nada seu". Aceite, mas entenda o que foi dito |
 
-> **Por que pagar em dinheiro vale menos.** É a inversão que define o tom do nível imortal: entre mortais, dinheiro é o pagamento limpo; entre Imortais, dinheiro é o pagamento **estéril**. Um Imortal que só te dá pedras não está construindo nada com você — e daqui a duzentos anos, quando você precisar de alguém, ele não vai estar lá. A rede de Débitos **é** o poder. A pilha de pedras é só uma pilha.
+**Pagar em dinheiro é o pagamento estéril do nível imortal** — não constrói relação nenhuma, e a rede de Débitos é o que de fato vale como poder entre Imortais.
 
 **O teste da transação:**
 
@@ -304,11 +270,7 @@ Negociação = d20 + CAR + treino
 Compradores nomeados que você sustenta = CAR + 2
 ```
 
-**Cada comprador absorve no máximo 25% da sua produção anual, e negocia com você no máximo uma vez por ano.** Um Imortal com CAR 0 tem **dois** compradores: ele consegue escoar 50% do que a terra dele produz, e o resto apodrece no estoque.
-
-> **Por que essa regra existe.** Sem ela, a renda da tabela 3.1 seria um número que aparece na ficha todo ano sem que ninguém jogue nada — e a Terra Abençoada, que é metade da identidade de um Imortal, viraria uma linha de planilha. Com ela, **produzir e vender são dois problemas diferentes**: a terra resolve o primeiro, e só a política resolve o segundo. Um Imortal recluso com uma terra Especial é rico no papel e pobre na prática, e essa é uma das figuras mais canônicas do cenário.
->
-> Também é o que faz o CAR do [[💪 Atributos|ponto de compra]] continuar valendo depois da Ascensão, quando o combate já se decide por Marcas.
+**Cada comprador absorve no máximo 25% da sua produção anual, e negocia com você no máximo uma vez por ano.** Um Imortal com CAR 0 tem **dois** compradores: ele consegue escoar 50% do que a terra dele produz, e o resto apodrece no estoque — produzir e vender são dois problemas diferentes, e um Imortal recluso com uma terra Especial pode ser rico no papel e pobre na prática.
 
 ### 3.3 O canal anônimo
 
@@ -349,7 +311,7 @@ Um número na ficha do Imortal, ao lado das Marcas. **Só sobe**, salvo abaixo.
 | **8** | Alguém localiza a entrada da sua Terra Abençoada. **Toda Calamidade Terrestre a partir daqui vem com companhia**: role a Calamidade normalmente, e some um invasor Imortal na mesma cena |
 | **10** | Uma tentativa de **anexação da sua Abertura** ([[🗝️ Terra Abençoada\|Terra Abençoada]]). Não é ameaça: é a cena, e ela acontece |
 
-> **Por que o marcador existe.** Monopólio sem consequência é renda infinita, e renda infinita mata a tensão que o resto do vault construiu. A Atenção transforma a maior fonte de dinheiro do sistema numa **contagem regressiva** — quanto mais você vende, mais rápido chega o dia em que alguém vem tomar a fábrica. E as duas saídas (parar de vender, ou pagar 30% a um intermediário que pode te trair) são decisões de mesa, não rolagens.
+**A Atenção transforma a maior fonte de dinheiro do sistema numa contagem regressiva** — quanto mais você vende, mais rápido chega o dia em que alguém vem tomar a fábrica.
 
 ---
 
