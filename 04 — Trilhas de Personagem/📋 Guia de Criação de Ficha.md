@@ -12,19 +12,15 @@ escopo: sistema
 
 Passo a passo, do zero até a mesa. Todo personagem novo começa **rank 1, estágio inicial** — sem exceção (ver [[🧭 Log de Decisões]]).
 
-> **O orçamento é um só: 12 pontos.** Não existe moeda separada de criação. Você não compra Gu — **todo personagem começa de mãos vazias** e conquista o primeiro Gu em jogo. Ver [[⚖️ Pontos de Criação|Pontos de Criação]].
+Este é o **checklist de execução**. A regra completa do orçamento de pontos, da Aptidão, da Origem e dos Buffs de Lore mora em [[⚖️ Pontos de Criação|Pontos de Criação]] — leia lá antes de gastar o primeiro ponto; aqui é só a ordem dos passos, com as fórmulas derivadas que não estão em nenhum outro lugar.
 
 ## 1. Conceito e Origem
 
-Uma frase: quem é, de onde vem, o que quer. Escolha uma [[🌱 Origens|Origem]] — ela dá contexto social (qual ramo do clã, ou se nem é do clã), define de onde vem o seu primeiro Gu, e em dois casos dá **+1 ponto** (Ramo Secundário e Errante, como compensação por não terem rede de apoio).
+Uma frase: quem é, de onde vem, o que quer. Escolha uma [[🌱 Origens|Origem]] — ela dá contexto social e define de onde vem o seu primeiro Gu. Duas Origens ajustam o orçamento de pontos; tabela completa em [[⚖️ Pontos de Criação|Pontos de Criação]].
 
 ## 2. Aptidão — rolada, e ponto final
 
-A Aptidão foi rolada (`1d80+20`, ver [[🌟 Aptidão e Abertura|Aptidão e Abertura]]) e **o número que saiu é o número**: não se compra pra cima nem se vende pra baixo com pontos de criação (decisão 111). Piso 21%, teto 100%.
-
-A única exceção é o **pacote dos Dez Físicos Extremos** — 100% de aptidão por **−8 pontos** e a Dívida do Destino. Não é comprar aptidão; é assumir outra categoria de existência. Ver [[⚖️ Pontos de Criação|Pontos de Criação]].
-
-**Antes de decidir, pergunte ao mestre qual é o seu Buff de Lore.** Cada jogador tem direito a **um**, de graça, e ele pode ser exatamente a coisa que você ia pagar aqui (ver [[⚖️ Pontos de Criação|Pontos de Criação]]). Fechar o buff primeiro muda toda a conta dos pontos.
+Role `1d80+20` (ver [[🌟 Aptidão e Abertura|Aptidão e Abertura]]) — piso 21%, teto 100%. **O número que saiu é o número**, sem exceção pelos pontos de criação. As duas formas de mexer nisso (o pacote dos Dez Físicos Extremos, ou um Buff de Lore) estão detalhadas em [[⚖️ Pontos de Criação|Pontos de Criação]] — decida isso **antes** de gastar os pontos do passo 3, porque muda toda a conta.
 
 A Aptidão define sua % de Abertura, e portanto a Essência máxima:
 
@@ -72,7 +68,7 @@ Escolha uma. Ela define **o dado do seu golpe corpo a corpo** (tabela em [[⚔�
 
 ## 6. Nenhum Gu
 
-Você entra em jogo **de mãos vazias**. O primeiro Gu é conquistado na primeira ou segunda sessão, e a cena em que isso acontece é o começo de verdade do personagem. Deixe o espaço em branco na ficha — ele vai ser preenchido.
+Você entra em jogo **de mãos vazias**. Deixe o espaço de Gu em branco na ficha — o primeiro Gu vem em jogo, na primeira ou segunda sessão, e o porquê disso importar está em [[⚖️ Pontos de Criação|Pontos de Criação]].
 
 ## 7. Vínculo com o grupo
 
@@ -93,6 +89,41 @@ Uma frase ligando seu personagem ao personagem de **outro jogador**, e ela preci
 | Gu | **vazio** — vem em jogo |
 | Vínculo | Passo 7 |
 | Anos de vida: 100 | Sempre |
+
+## Exemplo resolvido, do zero à mesa
+
+Um personagem genérico, sem ligação com nenhum PJ de nenhuma campanha de referência — só pra mostrar os oito passos virando uma ficha.
+
+**1. Conceito e Origem.** Um jovem do ramo secundário de um clã de refino de veneno, criado nos fundos da propriedade principal, tentando provar que o sangue dele vale tanto quanto o do ramo principal. Origem: **Ramo Secundário** → **+1 ponto** (13 no total, em vez de 12).
+
+**2. Aptidão.** Rolada: `1d80` deu 40, +20 fixo = **60%**. Sem pacote de Físico Extremo e sem Buff de Lore nesta ficha — o número fica como caiu.
+
+**3. Atributos** (13 pontos, tabela de custo em [[💪 Atributos|Atributos]]): FOR +1 (1 ponto) · CON +4 (3 pontos até +3, +2 pontos de +3 a +4 = 5 pontos) · DES +2 (2 pontos) · AST +1 (1 ponto) · VON +3 (3 pontos) · CAR +1 (1 ponto). Total gasto: 1+5+2+1+3+1 = **13**.
+
+**4. Derivados** (rank 1, estágio Inicial → Grau de Densidade B = 0, M = 1):
+
+| Número | Conta | Resultado |
+|---|---|---|
+| Vitalidade máxima | (18 + 3×4 + 4×0) × 1 | **30** |
+| Alma máxima | (12 + 2×3 + 3×0) × 1 | **18** |
+| Essência máxima | 60 × 4 | **240** |
+| Defesa | 11 + 2 (sem Gu de movimento ainda) | **13** |
+| Acerto melee | d20 + 1 + 3 | **d20 + 4** |
+| Regeneração | 60 ÷ 10 | **6% por minuto de descanso** |
+| Gu que cabem na Abertura | (60 ÷ 10) + 1 | **7** |
+| Gu ativos ao mesmo tempo | 4 + 1 | **5** |
+| Golpes registrados | 1 + 1 | **2** |
+| Pontos de Plano | 2 + maior(1, 1) | **3** |
+
+*(Acerto de Gu e CD dos Gu ainda não se aplicam — a ficha não tem nenhum Gu.)*
+
+**5. Arma.** Espada leve (`d6`) — dano melee é `d6 + 1` (FOR), sem multiplicador nenhum, porque não há Gu de Força ou Transformação ativo. Armadura de couro (RD 1) comprada com o que sobrar do orçamento de jogo.
+
+**6. Nenhum Gu.** A ficha entra na mesa com o campo de Gu vazio.
+
+**7. Vínculo.** Uma frase ligando ele a outro PJ do grupo — por exemplo: "devo a vida a ela desde que me tirou de baixo de uma prateleira de potes quebrados; se alguém ameaçar essa pessoa, eu ajo primeiro e penso depois."
+
+**Epílogo — o primeiro Gu.** Na sessão 1, o personagem sobrevive a uma cobra territorial que guardava um posto avançado do clã, e refina o Gu dela: um **Gu de Veneno de rank 1**, cru e sem nome ainda. É esse Gu — não nenhuma linha da ficha de criação — que vira o gancho da campanha quando o ramo principal descobre o que ele trouxe pra casa.
 
 ## Recomendação pro grupo
 
