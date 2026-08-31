@@ -249,3 +249,15 @@ Isto existe pra tornar a **abordagem** uma cena: em vez de trocar dano com a est
 2. Defina o **passo inicial** do ataque na Escada e a natureza do dano — a estação de Ataque usa o passo +2 por padrão, mas uma Casa especializada pode entrar em +3 e perder RD na de Defesa em troca.
 3. Escreva onde estão os três núcleos por dentro. Desenhe a planta antes da sessão em que ela será abordada.
 4. Escreva o que ela **come** ([[🍖 Sustento e Alimento|Sustento e Alimento]]) — uma Casa parada ainda é uma criatura, e uma Casa faminta é um gancho de arco.
+
+## 🌌 A versão imortal — Casa-Gu Imortal (rank 6+)
+
+Símbolo de grande potência: *"toda super-facção possui uma."* Muda em três coisas em relação à versão mortal:
+
+- **Cinco estações, não três** — Ataque, Defesa, Movimento e mais **Sensores** (detecção/comunicação à distância) e **Núcleo de Suporte** (cura ou reforço de essência pra tripulação). O rank operante se calcula igual: `rank da Casa − estações vazias`, agora sobre cinco.
+- **Essência é acelerador, não só penalidade.** Além do custo fixo por estação, cada operador pode **despejar essência extra na própria rodada**: cada `20 × M` adicional dá **+1 Nível de Dano** (Ataque) ou **+1 RD** (Defesa), sem teto além do próprio tanque. Mais gente competente a bordo não só evita penalidade — **arma a Casa de verdade**.
+- **Casco de blindagem ablativa.** Gu mortais acoplados ao casco absorvem dano primeiro e **regeneram entre cenas** enquanto os núcleos-Gu Imortais internos estiverem intocados — a Casa só morre de verdade quando alguém **toma um núcleo**, não por atrito continuado de fora.
+- **Livro-caixa embutido.** A própria Casa registra quanta essência cada tripulante despejou nela — resolve a divisão de espólio de uma campanha inteira **dentro da ficção**, sem planilha de mesa.
+- **Manobra de aríete**, exclusiva do rank 6+: a estação de Movimento pode arremessar a Casa inteira contra um alvo — dano `Vitalidade da Casa ÷ 10` (arredondado pra baixo) em vez do ataque normal daquela rodada, ignorando RD do alvo se ele for menor que a Casa.
+
+Tudo o mais (como se deriva, como se aborda, como se cria) segue igual à versão mortal — só a escala e as cinco estações mudam.

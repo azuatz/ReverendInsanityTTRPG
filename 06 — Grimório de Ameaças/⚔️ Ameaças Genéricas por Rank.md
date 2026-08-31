@@ -50,6 +50,26 @@ Uma horda de 8 bate em **`M d8`**; uma de 12, em **`M d10`**. Conforme perde Vit
 
 **Área é a resposta.** Um Gu de área contra uma horda tira Vitalidade da barra inteira; é a única situação do jogo em que dano em área supera dano concentrado, e é o que faz esses Gu valerem uma vaga na Abertura.
 
+## 🐺 Feras — três traços, cole em qualquer molde
+
+O Grimório não tem uma criatura sequer porque não precisa: uma fera é qualquer molde acima (Recruta, Guerreiro, Elite, Horda) com estes três traços colados por cima. Nada de bestiário separado pra manter.
+
+| Traço | O que muda |
+|---|---|
+| **Instinto** | Não negocia, não se intimida, não é enganado por blefe verbal — mata de saída qualquer via social. Detectar a real intenção dela (fugir, caçar, defender ninhada) é teste de AST, não de CAR |
+| **Sentidos** | Vantagem pra detectar movimento, cheiro e essência. Emboscar uma fera custa 1 grau de dificuldade a mais que emboscar gente do mesmo rank |
+| **Sem Abertura** | Não tem Gu, não usa Golpe Matador, não dá Essência pra drenar nem receita pra saquear. Ação sem Ação Especial e sem dano de Alma conta como **ação comum** no [[#O contador que importa de verdade ações inimigas por rodada\|contador ponderado]] — uma fera vale menos ação por rodada que um Mestre de Gu do mesmo rank |
+
+Uma matilha revezando pra desgastar um alvo mais forte é só uma **Horda com Instinto e Sentidos** — nenhuma regra nova.
+
+### Maré de feras — o evento de abertura de arco
+
+Três ondas, com a Horda que já existe:
+
+1. **Batedores** — Horda de 4 (`M d6`), Instinto + Sentidos. Só testam a defesa.
+2. **O bando** — Horda de 8 a 12 (`M d8`–`M d10`), Instinto + Sentidos. A onda de verdade.
+3. **O que as trouxe** — um Elite ou Chefe com Instinto + Sentidos comandando à distância (nunca no meio da matilha) — é o gancho que sobra pra depois: por que as feras vieram pra cá?
+
 ## 🧑‍🦱 Mestre de Gu — o inimigo humano
 
 O molde mais útil do conjunto, porque é o que o cenário produz o tempo todo: um cultivador rival, não uma fera com números. **É a ameaça padrão de uma cena entre pessoas.**

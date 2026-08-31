@@ -25,15 +25,18 @@ O instrumento clássico é o **par de Gu de Sangue Vinculado**: uma gota de sang
 
 ### O que se escreve no pacto
 
-Três linhas, e todas precisam ser específicas:
+Quatro linhas, e todas precisam ser específicas:
 
 ```
 QUEM DEVE O QUÊ:  "três favores futuros, um de cada vez"
 O QUE CONTA COMO PAGAMENTO:  o devedor não pode recusar sem quebrar o pacto
 PRAZO:  uma data, um evento, ou "até ser cobrado"
+ÂNCORA:  o objeto ou lugar a que o juramento se prende
 ```
 
 Um pacto vago não é vinculante — a mesa deve exigir a redação. "Você me deve" não é pacto; "você me deve três favores que não ponham sua vida em risco direto, cobráveis a qualquer momento" é.
+
+**A Âncora é o ponto fraco do juramento.** Todo Gu de Juramento se prende a algo físico — uma montanha, um altar, um trecho de rio — declarado na hora de selar. **Destruir a âncora dissolve o Débito sem retaliação nenhuma**, para os dois lados: o pacto simplesmente deixa de existir. É o motivo pelo qual quem sela um pacto poderoso esconde a âncora dentro da própria [[🗝️ Terra Abençoada|Terra Abençoada]] — ninguém chega perto dela sem primeiro sobreviver à terra inteira. Um Débito cuja âncora está exposta é um Débito que a parte mais fraca pode, em tese, cancelar por conta própria: é gancho de assalto, não só de cobrança.
 
 ## Enquanto o pacto vale
 

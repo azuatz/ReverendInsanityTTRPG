@@ -134,6 +134,16 @@ CD dos seus Gu = 10 + VON + rank do Gu          (+2 se o Caminho for do perfil d
 
 1. **Acertou, role o pool.** Não existe dano extra por "quanto passou" no teste.
 2. **20 natural é crítico:** acerta automaticamente, mesmo contra Defesa maior, e **dobra os dados de dano** — role `2 × M` dados em vez de `M`. O bônus por dado não dobra: o crítico fica `2M d(dado) + (M × B)`. **Sem falha automática em 1** — errar por número é só errar.
+
+> [!warning] Fratura da Abertura *(decisão 131 — ainda sem simulação)*
+> Crítico que deixa o alvo com **25% ou menos** da Vitalidade máxima: role `1d6`.
+>
+> | 1d6 | Efeito |
+> |---|---|
+> | 1–2 | **Vazamento** — perde `1 × M` de Essência no início de cada turno seu, até tratado por Gu Médico ou fim de cena |
+> | 3–4 | **Gu Atordoados** — todo Gu ativo dele fica Esgotado por 1 rodada ([[💀 A Morte dos Gu]]); próximo Golpe Matador custa o dobro |
+> | 5 | **Fratura funda** — desvantagem no próximo Teste de Morte, se precisar de um nesta cena |
+> | 6 | **Esmagamento** — um Gu ativo dele, sorteado (nunca o Vital), fica Ferido |
 3. **Diferença de 2 ranks ou mais:** um Gu de defesa de rank muito inferior ao do Gu de ataque que o atinge não segura o golpe — cai automaticamente, sem teste, e fica **Esgotado**; com 3+ ranks de diferença, **morre espatifado**. Mirar um Gu manifestado, e o resto do que mata Gu em combate: [[💀 A Morte dos Gu]] (decisão 129).
 
 > [!tip] Uso criativo, sem custo de ponto *(decisão 130)*

@@ -211,3 +211,11 @@ conchas amargas), Viagem Fixa (faltava a base Gu da Viagem Divina), e o Crânio
 de Sangue teve a descrição precisada sem mudar o rank de ancoragem — achado uma
 contradição de rank entre 3 notas (5 vs 6 vs o cânone que diz 4), registrada em
 "Em aberto" no Log, pendente de decisão do autor.
+
+## [2026-08-30] ingest | 4 melhorias + Fratura da Abertura em crítico (decisões 131-132)
+Cerco de Terra Abençoada em 3 fases ([[🗝️ Terra Abençoada]]), Âncora do Débito
+([[🤝 O Débito]]), traços de fera + Maré de Feras ([[⚔️ Ameaças Genéricas por Rank]])
+e Casa-Gu Imortal ([[🔷 Formações de Gu]]) — os itens 4 a 7 do levantamento de
+melhorias. Além disso, a Fratura da Abertura em crítico (que estava pendente de
+simulação) foi promovida a regra viva em [[⚔️ Combate]] por pedido direto do autor;
+fica marcada como não-medida no Log até a próxima rodada de simulação.

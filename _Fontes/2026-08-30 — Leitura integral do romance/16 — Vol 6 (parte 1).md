@@ -416,3 +416,234 @@ Leitura de "Volume_6_-_Demon_Venerables_Eternal_Life.txt", linhas 1–24700 (de 
 - O clã Xia é convidado ao banquete de Fang Yuan com Heavenly Court como "testemunhas" — usado deliberadamente por Fang Yuan para consolidar publicamente o prestígio/independência de Qi Sea Ancestor perante o resto de Eastern Sea (Cap. 2004–2005).
 - Heavenly Court pede formalmente a ajuda de Qi Sea Ancestor (Fang Yuan) para resolver a própria crise do qi harvest fruit, em troca de apoio material/militar futuro contra a aliança dos dois céus e ajuda para o clã Xia reconquistar seu território (Cap. 2005).
 - Qin Ding Ling considera em particular usar a ameaça contínua de Demon Immortal Qi Jue como alavanca adicional para eventualmente convencer Qi Sea Ancestor a se juntar formalmente a Heavenly Court (Cap. 2005).
+
+---
+### Bloco 9 (linhas 6401–7200, Caps. 2006–2011)
+
+## A) Gu nomeados (continuação)
+- Book House | Gu House mortal, herança information path | pinheiro que se transforma em casa-árvore; "escolhe" um estudioso "destinado" pelo cheiro; contém Gu worms de rank 4–5 + sistema de cultivo completo (Cap. 2008)
+- Cold Words, Quick Words, Vicious Words | golpes imortais de information path | Old Immortal Hua Yu cospe caracteres de texto como armas: Cold Words congela em gelo progressivo, Quick Words dá velocidade, Vicious Words dispara "flechas" de palavras venenosas explosivas (Cap. 2009)
+- Four Dragon Generals | — | mencionados como já reunidos por Wu Shuai mas ainda não revelados/usados (Cap. 2009)
+- Milk sand | material imortal rank 8 | derrete no chão como leite, alimenta feijões enterrados para fazê-los crescer rapidamente (Cap. 2011)
+- Divine bean soldiers | soldados-Gu | crescidos de feijões regados com milk sand + relâmpago quebrado (snow path) ao longo de 3 dias/noites (Cap. 2011)
+
+## B) Sistemas e atividades jogáveis (continuação)
+- **Política da competição de poesia**: eliminação não é puramente por mérito — patrocinadores poderosos manipulam rodadas finais; lista de aprovados dominada por gente influente ou com padrinhos (Cap. 2008).
+- **Herança "destinada" oculta**: um Gu Imortal sênior pode arranjar discretamente para um protegido "descobrir sozinho" uma herança de nível mortal excepcional (Book House), evitando acusação de favoritismo público (Cap. 2008).
+- **Plano duplo de Heavenly Court para achar Fang Yuan**: (1) via subordinados capturados/convertidos de Fang Yuan (ex.: Bai Ning Bing); (2) via Fang Di Chang, clone de Fang Yuan preso na pintura de Divine Bean Palace/Divine Emperor City sob vigília da vontade de Genesis Lotus Immortal Venerable — Heavenly Court treina secretamente sementes de Gu Imortal fortes o bastante para capturar Fang Di Chang e usá-lo para rastrear o corpo principal de Fang Yuan (Cap. 2010–2011).
+- **Processo de criação de divine bean soldiers**: milk sand (rank 8) derrete no solo e alimenta feijões enterrados; material imortal de snow path gera "relâmpago quebrado" que acelera o crescimento; processo consome quase todo o estoque de materiais imortais de Fang Di Chang, leva 3 dias e 3 noites (Cap. 2011).
+
+## C) Regras do mundo (continuação)
+- "Uma pedra de jade é inútil se não for polida" — provérbio sobre precisar de adversidade para temperar talento (Cap. 2008).
+
+## D) Números e preços (continuação)
+- Qi Sea Ancestor (Fang Yuan) convence 5 forças de grotto-heaven a desertar numa única visita a Profound Literature grotto-heaven (Cap. 2010).
+- Processo de cultivo de divine bean soldiers por Fang Di Chang: 3 dias e 3 noites, esgota quase todo seu estoque de materiais imortais (Cap. 2011).
+
+## E) Locais e atividades (continuação)
+- Profound Literature grotto-heaven — destruída/gravemente danificada por um ataque-surpresa total de Wu Shuai (mata Teacher Jiang e quase toda a nova geração de sementes de Gu Imortal), depois "salva" por Qi Sea Ancestor (Fang Yuan) numa encenação — mesmo roteiro usado com o clã Xia (Cap. 2007–2010).
+- Divine Emperor City, pintura de Divine Bean Palace — onde Fang Di Chang (clone de Fang Yuan) está preso, cultivando divine bean soldiers (Cap. 2011).
+
+## F) Golpes matadores e receitas (continuação)
+- Cold Words — congela o alvo progressivamente via caracteres falados (Cap. 2009).
+- Quick Words — golpe de velocidade via caracteres falados (Cap. 2009).
+- Vicious Words — projéteis de palavras venenosas explosivas (Cap. 2009).
+- Muralha de qi + mão gigante de qi (Fang Yuan/Qi Sea Ancestor) — bloqueia e arremessa longe o ataque combinado de Evil Dragon + Dragon Palace (Cap. 2009).
+
+## G) Achados soltos (continuação)
+- **PADRÃO CONFIRMADO**: Wu Shuai (clone de Fang Yuan) encena ataques "vilanescos" com baixas reais e brutais, para que Qi Sea Ancestor (corpo principal de Fang Yuan) "resgate" os sobreviventes no último segundo, inflando rapidamente o prestígio político de Qi Sea Ancestor em Eastern Sea — mesmo esquema já usado com o clã Xia, repetido agora com Profound Literature grotto-heaven (matando quase toda a nova geração de sementes de Gu Imortal, incluindo Teacher Jiang) (Cap. 2007–2010).
+- Li Xiao Bai (outro clone de Fang Yuan) perde a competição de poesia de propósito/por circunstância para não levantar suspeita, mas é recompensado nos bastidores por Hua Song (mestre de Old Immortal Hua Yu e também mestre de Teacher Jiang) com uma herança mortal rara, Book House, "descoberta" via um pinheiro perfumado misterioso — Hua Song arranja isso discretamente para não parecer favoritismo público (Cap. 2008).
+- Old Immortal Hua Yu, salvo por "Qi Sea Ancestor", submete publicamente a lealdade de Profound Literature grotto-heaven a ele, somando mais 5 forças de grotto-heaven à facção de Fang Yuan de uma vez (Cap. 2009–2010).
+- A notícia do poder crescente de Qi Sea Ancestor se espalha pelo mundo via treasure yellow heaven: clã Shen (Eastern Sea) reúne recursos para tentar cortejá-lo antes que Heavenly Court o monopolize; clã Fang (Western Desert), em declínio após perder Divine Bean Palace e Fang Di Chang, passa a investir no novo herdeiro Fang Yun com a antiga herança wisdom path de Fang Di Chang (Cap. 2010).
+- Qin Ding Ling sabe a verdade completa: "Fang Di Chang" é o clone de Fang Yuan, selado mas resistindo dentro da pintura de Divine Bean Palace mesmo contra a vontade de Genesis Lotus Immortal Venerable; ela treina secretamente um lote de sementes de Gu Imortal (enviadas à painting world de Divine Emperor City, ver Bloco 6 — Sun Yao, Chen Da Jiang, Xiao Qi Xing etc.) especificamente fortes o bastante para capturar Fang Di Chang e rastrear Fang Yuan através dele (Cap. 2010).
+- Bai Ning Bing (subordinada dragonman de Fang Yuan, deixada livre após a guerra do Fate) é capturada/coagida a se juntar à "verdadeira Shadow Sect" (ou seja, escravizada por Spectral Soul via Fairy Zi Wei e Old Man Zheng Yuan) — já foi transferida entre vários mestres (Fang Yuan → Shadow Sect de Old Man Yan Shi → Fang Yuan de novo → agora os fantoches de Spectral Soul) e está insensibilizada a isso; ela sabe pistas sobre Ying Wu Xie, outro subordinado de Fang Yuan, dando à facção de Spectral Soul uma pista rumo a Fang Yuan (Cap. 2005–2006).
+- Spectral Soul possui/escraviza Lady Cold Ash (rank 8, líder de Soul Pacifying grotto-heaven) via um núcleo de alma armadilhado entregue por seu próprio fantoche An Xun (sobrinho dela) — Soul Pacifying grotto-heaven caiu inteiramente sob controle de Spectral Soul sem que ninguém mais saiba (Cap. 2006–2007).
+- O conselho da aliança dos dois céus, sem voluntários para testar métodos de remoção do qi harvest fruit em seus próprios grotto-heavens, decide atacar um grotto-heaven neutro de fora — o alvo escolhido é Profound Literature grotto-heaven, por causa da influência de Old Immortal Hua Yu (Cap. 2007) — decisão que gatilha diretamente o arco de resgate encenado por Wu Shuai/Qi Sea Ancestor.
+
+---
+### Bloco 10 (linhas 7201–8000, Caps. 2011–2015)
+
+## A) Gu nomeados (continuação)
+- Beggar Gu | Gu mortal, human path | de Shen Shang; hospeda a "remnant will" (vontade remanescente) de Fang Yuan num corpo de mendigo (Cap. 2013)
+- Blood Sea true inheritance | herança verdadeira blood path | uma das 9 heranças verdadeiras de Blood Sea Ancestor, escondida entre centenas de milhares de sítios-isca pelas 5 regiões; obtida por Demon Immortal Qi Jue (Cap. 2014)
+- Blood qi Immortal Gu | Immortal Gu (qi path/blood) | encontrado junto à herança de Blood Sea; primeiro Immortal Gu de Demon Immortal Qi Jue desde seu renascimento (Cap. 2014)
+- Soldier/sergeant/lieutenant/captain Gu | Gu human path (militar) | obtidos servindo como guarda da cidade na painting world; formam exércitos disciplinados (Cap. 2011–2012, reconfirmado)
+- Doctor Gu | Gu human path | toma forma humana e cura pessoas (usado por Ying Sheng Ji) (Cap. 2012)
+- Thief Gu | — | de Wei Wu Shang; permite aparecer/desaparecer em batalha (Cap. 2012)
+- Joy in Helping People | golpe human path | de Sun Yao; fortalece aliados via dança (Cap. 2012)
+- Arrow formation Gu | Gu human path | organiza soldier Gu em formação de flecha (Cap. 2012)
+
+## B) Sistemas e atividades jogáveis (continuação)
+- **Tipos de divine bean soldier**: yellow bean (bucha de canhão básica), green bean (flechas à distância), red bean (autodetonação), black bean (defesa máxima) (Cap. 2011–2012).
+- **Painting world reforçada**: "terra sagrada de human path" isolada criada por Genesis Lotus Immortal Venerable; gap ínfimo entre imortal e mortal; desconectada de treasure yellow heaven e do mundo externo; seus habitantes não são "reais" (a paisagem se restaura em poucos anos); entrar/sair exige aprovação da vontade de Genesis Lotus, concedida só às sementes de Gu Imortal escolhidas pelas dez grandes seitas ancestrais (Cap. 2012–2013).
+- **Origem compartilhada dos divine bean soldiers**: nascem de Divine Bean Palace, que está conectada a todas as pinturas de Divine Emperor City pela mesma origem — controlar pinturas suficientes permitiria a Fang Di Chang eventualmente suprimir a vontade de Genesis Lotus e virar dono de Divine Emperor City (plano que falha) (Cap. 2011).
+- **Autodetonação como fuga/último recurso**: Fang Di Chang autodetona corpo e alma ao ser derrotado, mas preserva secretamente uma "remnant will" (vontade remanescente) de antemão como seguro — um nível abaixo de um clone completo (Cap. 2012–2013).
+- **Qing Chou**: besta desolada imemorial lendária, presa por anos em Divine Bean Palace; tem habilidade inata de detectar/reconhecer qualquer coisa ligada a Spectral Soul — extremamente valiosa para Heavenly Court caçar tanto Fang Yuan quanto Spectral Soul (Cap. 2014).
+- **Estratégia de ocultação de heranças de Blood Sea Ancestor**: centenas de milhares de sítios-isca espalhados pelas 5 regiões, com apenas 9 heranças verdadeiras escondidas entre eles (Cap. 2014).
+
+## C) Regras do mundo (continuação)
+- "Conheça a si mesmo e a seu inimigo, e nunca será derrotado" — provérbio (Cap. 2012).
+- Mendigos observam a verdadeira natureza da sociedade (bondade, aspereza, fome, calor) do ponto de vista social mais baixo — tematicamente ligado ao ganho de insight em human path (Cap. 2013).
+
+## D) Números e preços (continuação)
+- Exército de Xiao Qi Xing: 500+ Gu worms humanos (soldier/sergeant/lieutenant/captain Gu) (Cap. 2012).
+- Batalha nas muralhas de Divine Emperor City contra divine bean soldiers: durou 3 dias e 3 noites (Cap. 2012).
+- Blood Sea Ancestor: centenas de milhares de sítios de herança, apenas 9 verdadeiras (Cap. 2014).
+
+## E) Locais e atividades (continuação)
+- Sand Wolf City (Western Desert, clã Mo) — DESTRUÍDA; centro da cidade virou uma cratera gigante, pegada de uma única besta do tamanho de uma montanha; incontáveis mortos, incluindo a esposa de Mo Li (Cap. 2015).
+- Pinturas externas de Divine Emperor City — cenas históricas/temáticas diversas (colheita, passeio de primavera) invadidas por divine bean soldiers (Cap. 2011).
+
+## F) Golpes matadores e receitas (continuação)
+- Formações de divine bean soldiers — ataques coordenados em onda, força distribuída aleatoriamente entre pinturas (Cap. 2011–2012).
+- Autodetonação de Fang Di Chang — mata todos os atacantes próximos sem deixar corpos intactos, mas preserva secretamente uma "remnant will" (Cap. 2012).
+
+## G) Achados soltos (continuação)
+- **REVELAÇÃO GRANDE**: o golpe de Fang Di Chang para tomar Divine Emperor City via invasão de divine bean soldiers falha quando a vontade de Genesis Lotus intervém diretamente; ele é encurralado e autodetona, aparentemente morto pelas sementes de Gu Imortal (grupo de Xiao Qi Xing) — mas SECRETAMENTE sobrevive como "remnant will" escondida num corpo de mendigo criado a partir do Beggar Gu de Shen Shang (Cap. 2011–2013).
+- O mendigo que ajuda Shen Shang ao longo do arco anterior (resgatado por Hong Yi/Ye Fan, Cap. 1991) é na verdade a remnant will de Fang Yuan (ex-clone Fang Di Chang) — os dois mendigos vêm cooperando secretamente dentro da painting world o tempo todo, sem que ninguém perceba (Cap. 2013).
+- A vontade de Fang Yuan, presa na painting world, tem duas opções: esperar o corpo principal resgatá-la, ou cultivar ao lado de Shen Shang (que quer ficar ali para dominar human path) na esperança de achar uma saída através de insight combinado de human path (Cap. 2013).
+- Qin Ding Ling lamenta não ter capturado Fang Di Chang vivo (rastrearia o corpo principal de Fang Yuan) mas atribui o suicídio à natureza implacável de Fang Yuan — não faz ideia de que o "cadáver" escondia uma vontade sobrevivente (Cap. 2013).
+- Grupo de Xiao Qi Xing (sementes patrocinadas por Heavenly Court) acredita ter matado de fato um imortal e espera recompensas enormes — ironia dramática, já que a ameaça real sobrevive e Qin Ding Ling avalia o desempenho deles em particular como fraco (Cap. 2013).
+- Impasse confirmado em Eastern Sea: aliança dos dois céus (Wu Shuai) x coalizão de Qi Sea Ancestor lutam com frequência mas poucas baixas, pois ambos os lados usam o conflito principalmente como desculpa para testar métodos de remoção do qi harvest fruit em grotto-heavens capturados; grotto-heavens de variant humans superam em número os humanos nos dois céus, então o lado de Wu Shuai cresce mais rápido no total (Cap. 2013).
+- Demon Immortal Qi Jue viaja a Western Desert caçando Immortal Gu de qi path; encontra Red Heart Traveler (rank 8 de Heavenly Court, ex-líder de Demon Judgment Board, disfarçado de demônio blood path durante a guerra do Fate) e Nine Spiritual Fairy (transformation path) — ambos escapam por pouco do ataque direto dele (Cap. 2014).
+- Heavenly Court caça secretamente Qing Chou (a besta lendária ligada a Spectral Soul) usando informação secreta da vontade de Genesis Lotus; Nine Spiritual Fairy tenta atrair Demon Immortal Qi Jue para lutar contra Qing Chou e enfraquecer os dois, mas ele percebe a armadilha e recua, deixando Qing Chou escapar também (Cap. 2014).
+- Demon Immortal Qi Jue obtém uma das 9 heranças verdadeiras de Blood Sea Ancestor + um Immortal Gu de "blood qi" compatível — grande salto de poder, tornando-o visivelmente mais forte do que quando enfrentou Fang Yuan/Qi Sea Ancestor pela primeira vez (Cap. 2014).
+- **NOVO FIO NARRATIVO**: Sand Wolf City (cidade do clã Mo em Western Desert, lar de Peng Da/Mo Li desde o Cap. 1967) é totalmente destruída — não por qi tide, mas por uma única besta do tamanho de uma montanha que deixou pegadas gigantes e vaporizou o centro da cidade numa cratera; a esposa de Mo Li é encontrada morta, o filho dele (semente de Gu Imortal em treinamento) está desaparecido; dois Gu Imortais sobrevoando revelam que é algum tipo de "calamidade de besta" fugitiva ligada ao clã Mo, que agora caçam; Mo Li e Peng Da se juntam a um grupo de sobreviventes seguindo os Gu Imortais pelas pegadas da besta (Cap. 2015).
+
+---
+### Bloco 11 (linhas 8001–8800, Caps. 2015–2020)
+
+## A) Gu nomeados (continuação)
+- Thieving Heaven Demon Venerable's true inheritance | herança verdadeira | só responde a um "demônio de outro mundo" (transmigrado) genuíno — rejeita Gu Masters nativos mesmo dignos, como Mo Li; escolhe Peng Da (Cap. 2015–2016)
+- Bai Xiang | golpe imortal (trunfo) | de Bai Ning Bing; transforma o corpo em qi de gelo transbordante (Cap. 2017)
+- Nine Spiritual Transformations | golpe imortal lendário de transformation path | de Nine Spiritual Fairy; cria uma barreira de luz de nove cores/camadas que assume formas animais (rinoceronte, pássaro de fogo) mais fortes que transformações comuns; só pode ser usado 9 vezes na vida inteira de um Gu Imortal (Cap. 2017–2019)
+- Rank eight hatred Gu | Immortal Gu | Gu vital de Qing Chou, registrado em <<The Legends of Ren Zu>>; permite reconhecer/distinguir inimigos (especificamente coisas ligadas a Spectral Soul) (Cap. 2019)
+- Golpe de selo de sangue (sem nome ainda) | golpe temporário blood path | de Red Heart Traveler; uma esfera de sangue vira um "selo de sol vermelho" que amarra o alvo com fios de sangue, reduz movimento/interfere em golpes/baixa moral de luta; funciona especificamente contra seres com Gu vital do tipo ódio (Cap. 2019)
+- Electric circuit Gu | Gu (aparência de lightning path) | de Peng Da, parte da herança de Thieving Heaven; Mo Li interpreta erroneamente via lore de <<The Legends of Ren Zu>> sobre Gu de raio e "Blazing Glory Lightning Brilliance" escapando de immemorial blue heaven (Cap. 2019)
+- Calamity Luck Altar | Immortal Gu House rank 8 | criação de Giant Sun Immortal Venerable, usada por Bing Sai Chuan (Longevity Heaven) (Cap. 2017, reconfirmado)
+- Star Constellation Chessboard | Immortal Gu House | de Fairy Zi Wei, atualmente perdida/não em posse dela (Cap. 2017)
+
+## B) Sistemas e atividades jogáveis (continuação)
+- **Detecção de demônio de outro mundo**: a herança verdadeira de Thieving Heaven só responde a um "demônio de outro mundo" (alma transmigrada) genuíno, rejeitando Gu Masters nativos — explica o silêncio da herança/poço perante Mo Li (Cap. 2015–2016).
+- **Limite de uso de golpe lendário de transformation path**: Nine Spiritual Transformations só pode ser usado 9 vezes na vida inteira — teto rígido de recurso para golpes definitivos (Cap. 2017–2019).
+- **Conceito de Gu vital**: o "Gu vital" de uma besta desolada imemorial define/habilita traços-chave (o hatred Gu rank 8 de Qing Chou permite sentir coisas ligadas a Spectral Soul); conhecer o Gu vital de uma besta permite criar um contra-golpe específico (Cap. 2019).
+- **Aliança temporária Heavenly Court + Longevity Heaven**: a facção de Fairy Zi Wei (apoiando Spectral Soul) e Bing Sai Chuan (Longevity Heaven, apoiando Giant Sun Immortal Venerable) cooperam na caça a Fang Yuan apesar de veneráveis rivais, porque compartilham o objetivo de matá-lo enquanto está fraco (Cap. 2017–2018).
+- **Dedução por wisdom path via subordinados capturados**: Fairy Zi Wei usa uma formação de wisdom path com associados capturados de Fang Yuan (Bai Ning Bing, Hei Lou Lan, Ying Wu Xie) como "núcleos" de pista para deduzir a localização de Fang Yuan aos poucos — precisa de mais capturas para ter certeza (Cap. 2018).
+- **Histórico de fracasso da aliança dos dois céus**: TODO grotto-heaven usado até agora para testar remoção do qi harvest fruit detonou — um custo alto e disfarçado (Cap. 2020).
+- Quase todos os grotto-heavens independentes do céus imemoriais já se juntaram a Wu Shuai ou a Qi Sea Ancestor (Cap. 2018).
+
+## C) Regras do mundo (continuação)
+- <<The Legends of Ren Zu>> registra uma história de Gu de raio cooperando com "Blazing Glory Lightning Brilliance" para escapar de immemorial blue heaven — lore canônica citada até por mortais, mostrando sua difusão cultural (Cap. 2019).
+- A Cooking Luck Pot (rank 7) de Fang Yuan consegue extrapolar/deduzir o quadro completo de sua sorte a partir de um vislumbre parcial (Cap. 2018).
+
+## D) Números e preços (continuação)
+- Nine Spiritual Transformations: só 9 usos por vida (Cap. 2017–2019).
+- Batalha para capturar Qing Chou: durou mais de 2 horas até Red Heart Traveler achar a brecha (Cap. 2019).
+
+## E) Locais e atividades (continuação)
+- Crescent Moon grotto-heaven — grotto-heaven neutro/independente nos céus imemoriais, destruído pela aliança de Wu Shuai (dona Fairy Crescent Moon morta, alma devorada por "Lady Cold Ash"/Spectral Soul) (Cap. 2018).
+- Skeleton grotto-heaven (de Granny Skeleton) — junta-se formalmente à facção de Qi Sea Ancestor (Cap. 2018).
+- Forest Lightning grotto-heaven — próximo alvo de teste de qi harvest fruit da aliança dos dois céus; seu Grotto Lord era colaborador secreto de Qi Sea Ancestor, agora exposto (Cap. 2020, gancho).
+- Earth Trench, Central Continent — base secreta em caverna da facção de Fairy Zi Wei (Cap. 2018).
+
+## F) Golpes matadores e receitas (continuação)
+- Nine Spiritual Transformations — ver seção A.
+- Golpe de selo de sangue de Red Heart Traveler — ver seção A.
+- Bai Xiang — forma de gelo trunfo de Bai Ning Bing (Cap. 2017).
+
+## G) Achados soltos (continuação)
+- Destino de Peng Da: após achar milagrosamente a herança verdadeira de Thieving Heaven Demon Venerable (que só responde a ele por ser um "demônio de outro mundo" genuíno), é assassinado a sangue frio por seu "tio" de confiança Mo Li, que rouba a herança à força e captura a alma de Peng Da para torturá-lo e aprender a usar os Gu worms — reviravolta brutal (Cap. 2016, 2019).
+- Mo Li fica cada vez mais instável, movido por luto/vingança pela família assassinada (morta na calamidade de besta de Sand Wolf City), e interpreta mal a lore de Gu (chama "electric circuit" de forma de "caminho do raio" via referências equivocadas a <<Legends of Ren Zu>>), mostrando pouca compreensão real apesar de reivindicar a herança (Cap. 2019).
+- A "besta gigante" misteriosa que destruiu Sand Wolf City é revelada ser Qing Chou, fugindo da caçada de Nine Spiritual Fairy/Red Heart Traveler; dois Gu Imortais do clã Mo que tentam lutar contra ela (usando um immemorial sand monster capturado) são mortos casualmente, revelando que ela tem inteligência de nível humano e estava só brincando com eles (Cap. 2016).
+- Red Heart Traveler e Nine Spiritual Fairy (Heavenly Court) capturam Qing Chou viva com uma combinação: Nine Spiritual Fairy gasta um de seus únicos 9 usos vitalícios de Nine Spiritual Transformations para sobrepujá-la fisicamente, depois Red Heart Traveler explora o hatred Gu rank 8 dela com um golpe improvisado de blood path — grande vitória estratégica para o plano de Heavenly Court de rastrear Fang Yuan E Spectral Soul (Cap. 2019).
+- A facção de Fairy Zi Wei (Shadow Sect/Spectral Soul) e Bing Sai Chuan/Longevity Heaven formam aliança cautelosa após disputa pela custódia de Hei Lou Lan (subordinada enfraquecida e distanciada de Fang Yuan) — ambos os lados querem Fang Yuan morto enquanto está vulnerável, concordam em caçar outros associados dele (Lady White Rabbit, Fairy Miao Yin) por mais pistas (Cap. 2017–2018).
+- Hei Lou Lan: seus Immortal Gu foram tomados/consumidos/destruídos sob controle de Fang Yuan (via refém do pai dela, Hei Cheng); tentou migrar para fire path de Blazing Heaven Demoness em busca de independência secreta, mas é capturada antes de completar a transição, virando moeda de troca entre facções rivais (Cap. 2017–2018).
+- Spectral Soul (como "Lady Cold Ash") continua infiltrado na aliança de Wu Shuai, ganhando confiança de Xiao He Jian com bom desempenho em batalha e devorando almas (incluindo uma alma completa de Gu Imortal rank 8, Fairy Crescent Moon) sob pretexto de "coletar espólio de guerra" — ainda não conseguiu audiência privada com Wu Shuai (que só manda sua "vontade"/procurador às reuniões) (Cap. 2018).
+- Fang Yuan/Qi Sea Ancestor sente à distância as tentativas de dedução de wisdom path de Fairy Zi Wei tentando localizá-lo — uma "disputa silenciosa de métodos de wisdom path através do espaço" entre os dois (Cap. 2018).
+- Fang Yuan avalia sua sorte via Cooking Luck Pot: "uma calamidade fatal se aproxima, perigo em todo lugar, só um traço de esperança" — ligado diretamente ao problema não resolvido de refinar os heaven path dao marks (Cap. 2018).
+- Novo fio: o líder de Forest Lightning grotto-heaven é exposto por Xiao He Jian como colaborador secreto de Qi Sea Ancestor, depois que a aliança dos dois céus escolhe seu grotto-heaven como próximo local de teste (provavelmente fatal, dado que todo teste anterior detonou) para o qi harvest fruit — monta cena de execução/confronto (Cap. 2020, gancho).
+
+---
+### Bloco 12 (linhas 8801–9600, Caps. 2020–2025)
+
+## A) Gu nomeados (continuação)
+- Lightning Gu | Immortal Gu selvagem rank 8 (potencial rank 9) | lightning path | nasce naturalmente de um ponto de recurso de lightning path que virou uma floresta de raios; cresce com investimento de recursos em vez de refino direto; base do poder de Forest Lightning grotto-heaven; aparece em mito de <<Legends of Ren Zu>> (Cap. 2020–2022)
+- Hatred Gu | Gu (do mito de Legends of Ren Zu) | parece um love Gu mas é parasita: não pode ser morto (ressuscita maior a cada tentativa, alimentado por sangue), "constrói lar" no coração da vítima, cega o hospedeiro para tudo exceto o caminho da vingança; combinado a um lightning Gu enfurecido, é forte o bastante para destruir a parede de um céu imemorial inteiro; é o MESMO tipo de Gu vital de Qing Chou (rank 8) (Cap. 2021–2023)
+- Poetry Gu | Gu rank 5, information path (ramo secundário) | novo Gu vital de Li Xiao Bai após trocar de vital Gu via Book House; formato de coração, jade vermelho, radiância dourada (Cap. 2023)
+- Poetic Gu, emotion poetry Gu, gather poem Gu, poem wall Gu, poem boundary Gu | Gu information path/ramo poesia | progressão planejada de Li Xiao Bai; poem boundary Gu comparado a um golpe de campo de batalha (Cap. 2023)
+- Human qi / Earth qi / Heaven qi Immortal Gu | 3 Immortal Gu rank 8, qi path | núcleos insubstituíveis do golpe triple qi retraction; formato de abelha (human, ligado a human path), borboleta marrom (earth, ligado a earth path) e libélula verde (heaven, ligado a heaven path — crucial contra heaven path) (Cap. 2025)
+- Triple qi retraction | golpe imortal (herança de Primordial Origin) | exige os 3 Immortal Gu acima como núcleos insubstituíveis; sem eles, mesmo recriado com substitutos, seu valor de combate cai drasticamente (Cap. 2025)
+
+## B) Sistemas e atividades jogáveis (continuação)
+- **Crescimento de Immortal Gu selvagem**: um Immortal Gu selvagem (não refinado) pode crescer de rank naturalmente se o dono deliberadamente NÃO o refinar e em vez disso investir recursos no ambiente que o gerou (ex.: alimentar a floresta de raios em vez de capturar o Gu) — permite alcançar rank 9, algo impossível por refino normal (Cap. 2020).
+- **Mito de Legends of Ren Zu (Blazing Glory Lightning Brilliance & Myriad Gold Wondrous Essence)**: explica a combinação lightning Gu + hatred Gu — hatred Gu não pode ser destruído por força, cega o hospedeiro para só ver o caminho da vingança; ao emprestar poder a um lightning Gu enfurecido, a combinação destrói a parede de um céu imemorial inteiro (Cap. 2021).
+- **Hipótese de Fang Yuan**: a combinação lightning Gu + hatred Gu pode ser um caminho para conter/refinar heaven path dao marks, já que esses dao marks se concentram nos nove céus imemoriais (que a combinação do mito consegue destruir) e no próprio corpo de Fang Yuan — mas falta um hatred Gu e o conhecimento de como formar o golpe combinado (Cap. 2022).
+- **Troca de vital Gu**: normalmente um Gu Master não pode trocar seu Gu vital (o Gu "núcleo" que ancora identidade/caminho de cultivo), mas Book House tem uma função especial que permite isso — Li Xiao Bai troca para Poetry Gu (Cap. 2023).
+- **Manobra política "deixe o aliado sangrar" (Prince Feng Xian)**: reter deliberadamente informação de um aliado (Qi Sea Ancestor) sobre um ataque iminente, deixando suas forças serem esmagadas enquanto ele está ocupado ajudando Heavenly Court em outro lugar, para que sua reputação desabe e ele fique desesperado/dependente o bastante para se juntar totalmente a Heavenly Court depois (Cap. 2024).
+- Wu Shuai decide atacar preventivamente Qi Sea Ancestor assim que descobre que ele tem um método funcional de remover qi harvest fruit, convocando a aliança com discurso de "matar ou ser morto" (Cap. 2020–2024).
+
+## C) Regras do mundo (continuação)
+- Ramos principais de information path, em ordem de prestígio: (1) juramentos/votos (sea oath Gu, mountain pledge Gu, promise Gu, black-and-white paper Gu), (2) transmissão de mensagens (goose Gu, paper crane Gu, butterfly letter Gu, flying sword letter Gu, messenger dove Gu), (3) observar/ouvir/ler/escrever (water text Gu, beast language Gu); poesia/versos NÃO são mainstream, é um sub-ramo desprezado (Cap. 2023).
+- A ameaça de um qi harvest fruit rank 8 escala com o tamanho da apertura hospedeira — o de Heavenly Court só coube graças aos frutos de space path de Cang Xuan Zi que expandem o espaço interno (Cap. 2025).
+
+## D) Números e preços (continuação)
+- <<Legends of Ren Zu>>, capítulo 4, seção 30 — localização do mito de lightning Gu/hatred Gu (Cap. 2021).
+- Formação de remoção de qi harvest fruit de Qi Sea Ancestor em Heavenly Court: estimada em pelo menos 6 dias (depois atrasada de propósito por Heavenly Court) (Cap. 2024).
+- Preparação de guerra da aliança dos dois céus: 7 dias antes de atacar a coalizão de Qi Sea Ancestor (Cap. 2024).
+
+## E) Locais e atividades (continuação)
+- Forest Lightning grotto-heaven — destruída neste trecho; sua floresta de raios (ecossistema de Immortal Gu selvagem rank 8) arrasada junto (Cap. 2020–2022).
+- Su clan, capital de Profound Literature grotto-heaven — hospeda Li Xiao Bai; tem corte imperial própria de Gu Imortais, ensina a técnica "Calligraphy Immortal" à linhagem do clã (Cap. 2023).
+- Qi harvest fruit de Heavenly Court — tamanho de uma cordilheira, o maior já visto, só coube graças aos frutos de space path de Cang Xuan Zi (Cap. 2025).
+
+## F) Golpes matadores e receitas (continuação)
+- Combinação lightning Gu + hatred Gu (do mito) — destrói a parede de um céu imemorial inteiro; base da especulação de Fang Yuan sobre contramedida a heaven path (Cap. 2021–2022).
+- Triple qi retraction — exige os 3 Immortal Gu "qi" específicos (human, earth, heaven) como núcleos insubstituíveis (Cap. 2025).
+
+## G) Achados soltos (continuação)
+- A jogada de Forest Lightning Grotto Lord (usar o lightning Gu selvagem rank 8→9 como moeda de troca entre Wu Shuai e Qi Sea Ancestor) fracassa: Fang Yuan, temendo o desgaste político de uma guerra interna entre suas duas personas, ordena a Wu Shuai que simplesmente extermine Forest Lightning grotto-heaven inteira; Spectral Soul (como Lady Cold Ash) rouba o lightning Gu selvagem no último instante em meio ao caos (Cap. 2020–2022).
+- **CONFIRMADO**: o "hatred Gu" do mito de Legends of Ren Zu é o MESMO tipo de Gu vital de Qing Chou (rank 8) — Fang Yuan conecta os pontos e percebe que essa combinação pode ser seu caminho para conter heaven path dao marks, mas falta tanto um hatred Gu quanto o conhecimento de como executar o golpe de fusão (Cap. 2022–2023).
+- Heavenly Court (Qin Ding Ling) está estranhamente desesperada para obter lightning Gu — Fang Yuan não entende por que um Gu "mero" rank 8 (não do nível de fate Gu) gera tanta urgência, e suspeita que Heavenly Court tem espiões dentro da aliança de Wu Shuai por terem obtido a informação rápido demais (fio narrativo deixado em aberto/misterioso) (Cap. 2022).
+- Li Xiao Bai (clone de Fang Yuan) troca seu vital Gu para Poetry Gu via Book House, aprofundando sua identidade disfarçada e romance com Su Qi Han (herdeira do clã Su), enquanto planeja secretamente explorar as recompensas de "assisting literary talents" para ganhos de cultivo rápidos e seguros antes da guerra caótica das cinco regiões (Cap. 2023).
+- **GRANDE**: Qi Sea Ancestor (Fang Yuan) desenvolve e demonstra com sucesso (uma vez, em Profound Literature grotto-heaven) um método funcional para dissolver qi harvest fruits com segurança — transformando a crise numa qi tide benéfica controlada que fortalece a fundação do grotto-heaven em vez de destruí-lo. Isso o torna instantaneamente muito mais valioso que o lado de Wu Shuai (que arruinou todo grotto-heaven em que testou) (Cap. 2023).
+- Heavenly Court, eufórica, convida Qi Sea Ancestor para resolver pessoalmente seu próprio qi harvest fruit (o maior do mundo), mas Nine Spiritual Fairy relata que o refino do hatred Gu (de Qing Chou capturada) está mais lento que o esperado, então Qin Ding Ling decide não se apressar com lightning Gu e priorizar atrair secretamente Qi Sea Ancestor a Heavenly Court (Cap. 2023).
+- Wu Shuai, ao saber que Qi Sea Ancestor agora tem cura funcional para o qi harvest fruit, convoca a aliança e, com apoio público de Gu tribe's leader e dos dois vice-líderes (Ice Crystal Immortal Monarch, Xiao He Jian), compromete toda a aliança a uma guerra preventiva total contra a coalizão de Qi Sea Ancestor em 7 dias — internamente, é Fang Yuan orquestrando os dois lados de uma batalha "real" iminente que pretende sobreviver/controlar (Cap. 2024).
+- A estratégia cínica de Prince Feng Xian é adotada por Heavenly Court: deixar deliberadamente a coalizão de Qi Sea Ancestor ser esmagada pelo ataque-surpresa de Wu Shuai enquanto ele está ocupado (6+ dias) removendo o gigantesco qi harvest fruit de Heavenly Court, apostando que o desespero/humilhação resultante o empurrará a se juntar formalmente a Heavenly Court — Qin Ding Ling aprova o plano (Cap. 2024).
+- Qin Ding Ling mostra a Fang Yuan (como Qi Sea Ancestor) os 3 Immortal Gu núcleo insubstituíveis de "triple qi retraction" (human qi, earth qi, heaven qi) como isca para recrutá-lo definitivamente para Heavenly Court — Fang Yuan já possui a herança verdadeira do golpe mas não consegue usá-lo em força total sem esses 3 Gu exatos, já que substitutos o enfraquecem muito (Cap. 2025).
+
+---
+### Bloco 13 (linhas 9601–10400, Caps. 2025–2029)
+
+## A) Gu nomeados (continuação)
+- Heaven-human sensation | golpe de Star Constellation Immortal Venerable | permite que a vontade de um Gu Imortal se funda/interaja com heaven's will (Cap. 2028)
+- Human executing heaven's work | golpe, construído sobre heaven-human sensation | permite que um Gu Imortal substitua heaven's will até certo ponto — foi assim que Star Constellation controlou Fate Gu por 3 milhões de anos (Cap. 2028)
+- Rank eight hatred Immortal Gu (de Qing Chou) — ao ser interrompido no meio do refino, explode com poder que mostra um "traço de aura de Immortal Gu rank 9" (Cap. 2029)
+- Lista de Immortal Gu rank 8 de Fang Yuan: Attitude, Mutation, Wisdom Sword, Years Flow Like Water, Soul Beast Token, Regret, Spring, Summer, Big Qi, Region, Addition, Steal Life, Water Refinement, Advance Refinement, Dream Token (Cap. 2025)
+- Wisdom Gu (rank 9) — antigo Immortal Gu de Fang Yuan, corrompido por Giant Sun Immortal Venerable, sacrificado na guerra do Fate (Cap. 2025)
+
+## B) Sistemas e atividades jogáveis (continuação)
+- **Nenhum Gu Imortal pode cultivar heaven path**: por isso "heaven path true meaning" (verdadeiro significado) literalmente nunca existiu — é por isso que Heavenly Court construiu Heaven Overseeing Tower para aproveitar Fate Gu em vez de cultivo direto de heaven path (Cap. 2028).
+- **Dificuldade de criar true meaning por caminho**: wisdom path e rule path deixam true meaning com mais facilidade; outros caminhos precisam atingir um certo nível de "imitação" desse caminho primeiro (Cap. 2028).
+- **Pesquisa de heaven path de Heavenly Court**: acumulada ao longo de 3 milhões de anos seguindo/resistindo/alterando heaven's will — recurso secreto de valor único; tanto Spectral Soul (na vida anterior) quanto Limitless Demon Venerable (via aposta de xadrez com Star Constellation) buscavam exatamente isso (Cap. 2028).
+- **Evolução de Di Zang Sheng**: durante a guerra do Fate não tinha Gu worms/golpes (só corpo físico), pois Dragon Palace não teve tempo de equipá-lo; após a guerra, Wu Shuai finalmente o equipa com Gu worms saqueados via transações forçadas durante a crise do qi harvest fruit — agora tem golpes básicos (Cap. 2027).
+- Central Heaven Gate — sistema de Heavenly Court para mobilizar reforços das dez grandes seitas ancestrais, destruído por Fairy Zi Wei na guerra do Fate, indisponível agora (Cap. 2027).
+- Método de reserva de Primordial Origin Immortal Venerable contra Di Zang Sheng — ativa automaticamente quando a primordial qi wall se estilhaça, enfraquece Di Zang Sheng gravemente (já usado em Fang Yuan na guerra do Fate, quando Limitless Demon Venerable teve que intervir; agora nada protege Di Zang Sheng) (Cap. 2027).
+
+## D) Números e preços (continuação)
+- Qi harvest fruit de Heavenly Court encolhe via golpe incompleto de Fang Yuan: tamanho de cordilheira → carruagem → cabaça normal (Cap. 2027).
+- Che Wei mata/fere sozinho 2 Gu Imortais rank 8 variant human num só ataque combinado (Cap. 2027), depois mata Yang Zi He (um dos Four Dragon Generals) (Cap. 2027).
+
+## F) Golpes matadores e receitas (continuação)
+- Ataque duplo (lâmina + lança) dourado-prateado de Che Wei — abate/fere gravemente oponentes rank 8 (Cap. 2027, 2029).
+- Golpe incompleto de "encolher qi harvest fruit" de Fang Yuan — ele vira uma corrente de qi em forma humana que se funde à fruta para encolhê-la temporariamente; baseado em engenharia reversa do método de renascimento de Demon Immortal Qi Jue (Cap. 2027).
+- Heaven-human sensation / Human executing heaven's work — os dois golpes de Star Constellation ligados a heaven path (Cap. 2028).
+- Golpe oculto de Spectral Soul (como Lady Cold Ash) — um único golpe sem nome que arremessa Dragon Palace inteira como um projétil + invoca mais de 10 silhuetas de immemorial soul beasts que abrem um buraco enorme em Dragon Palace — comparado em poder a Duke Long (Cap. 2028–2029).
+
+## G) Achados soltos (continuação)
+- **REVELAÇÃO CENTRAL**: o objetivo real de Fang Yuan ao ir a Heavenly Court nunca foi (só) remover o qi harvest fruit — era pescar os "resultados de pesquisa de heaven path" de Heavenly Court, únicos no mundo porque ninguém pode cultivar heaven path e só Heavenly Court acumulou 3 milhões de anos de dados sobre interagir com heaven's will. Qin Ding Ling, desesperada durante o cerco encenado, entrega os dois golpes secretos de Star Constellation Immortal Venerable (heaven-human sensation, human executing heaven's work) — exatamente o que Fang Yuan queria (Cap. 2028).
+- **REVIRAVOLTA GRANDE**: todo o "ataque de Wu Shuai a Heavenly Court" foi arquitetado pelo próprio Fang Yuan como um golpe de confiança elaborado para extrair os segredos de heaven path de Heavenly Court sob disfarce de uma crise real e crível — Fang Yuan orquestra perdas reais dos dois lados de suas próprias personas (Night Heavenly Wolf Lord executado publicamente como prova/isca, Yang Zi He morto, dano real à apertura de Heavenly Court) para manter o engano crível, enquanto extrai secretamente o único ativo que realmente queria (lore de heaven path) (Cap. 2025–2028).
+- A dedução de Fairy Zi Wei (com ajuda velada de Bing Sai Chuan/Longevity Heaven) localiza Fang Yuan com sucesso: ele está escondido dentro da própria Heavenly Court — Spectral Soul (disfarçado de Lady Cold Ash, já infiltrado no exército da aliança dos dois céus que ataca Heavenly Court) recebe essa notícia no meio da batalha e percebe que estava bem ali sem saber (Cap. 2025–2026).
+- Spectral Soul esconde deliberadamente essa descoberta de Bing Sai Chuan/Longevity Heaven, querendo que o grupo de Fairy Zi Wei se infiltre sozinho, e prefere esperar Wu Shuai e Heavenly Court se desgastarem mutuamente antes de agir — uma batalha campal de traições múltiplas converge no mesmo campo de batalha (Cap. 2026, 2028).
+- Spectral Soul (como Lady Cold Ash) sobrevive a ser "morta" por Che Wei (um Gu Imortal de Heavenly Court revelando força de nível divino neste arco), finge ser cadáver através de ataques adicionais (esmagada por Di Zang Sheng, queimada, quase atingida pela Dreamy Light Smoke de Dragon Palace) para não revelar seu poder real, mas é forçada a agir e revela força chocante — comparável ao falecido Duke Long — surpreendendo os dois lados, e desafia abertamente "Fang Yuan, é hora de acertarmos as contas!", atacando Dragon Palace diretamente (Cap. 2027–2029).
+- A tentativa de Nine Spiritual Fairy e Red Heart Traveler de refinar completamente o hatred Gu de Qing Chou é interrompida pelo caos da batalha — o hatred Gu parcialmente refinado explode com poder que por um instante lembra a aura de um Immortal Gu rank 9, libertando Qing Chou completamente do controle deles e mandando-a em disparada rumo ao campo de batalha principal (Cap. 2029, gancho — Qing Chou agora é uma peça descontrolada na luta).
+- Che Wei surge como combatente surpreendentemente forte para Heavenly Court neste arco, matando/aleijando vários oponentes rank 8 sozinho, sugerindo força oculta/caminho novo desconhecido dos observadores (Cap. 2027, 2029).

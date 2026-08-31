@@ -184,6 +184,28 @@ Duas Aberturas Imortais podem se fundir — um Imortal "engole" a Terra Abençoa
 
 É um dos motivos pelos quais dois Imortais fortes raramente confiam um no outro por completo.
 
+### ⚔️ Como se toma uma Terra Abençoada à força
+
+A anexação pacífica exige Grão-Mestre. Tomá-la **na marra** é outro procedimento — uma cena de cerco inteira, canônica no romance: *"exige a cooperação de vários Imortais criando vantagem numérica, e então competir despejando essência; uma vez que a essência imortal da terra se esgota, o ataque começa."*
+
+**Fase 0 — o portão de números.** Um só Imortal não cerca uma terra alheia. O mínimo de atacantes coopera pela qualidade da terra: Mesquinha 1 (viável solo) · Comum 3 · Boa 5 · Excelente 7+ · Especial, um exército. Abaixo disso, o Espírito da Terra e a própria matriz da fenda simplesmente absorvem o ataque.
+
+**Fase 1 — o duelo de atrito.** A terra tem uma **Reserva de Defesa** que precisa ser drenada antes de qualquer ataque físico valer alguma coisa:
+
+```
+Reserva de Defesa = 200 PEI × multiplicador de qualidade
+(Mesquinha 1.000 · Comum 2.000 · Boa 4.000 · Excelente 6.000 · Especial 8.000)
+```
+
+Cada dia de cerco, os atacantes despejam Essência Imortal ou Pedras de Essência Imortal contra a Reserva — todo o grupo soma. Enquanto ela não zerar, a Terra Abençoada segue defendida: o Espírito, se Guardião, comanda a resposta ativa (ver [[🧿 Espíritos da Terra|Espíritos da Terra]]); se Neutro, só resiste passivamente; se Aliado, avisa o dono antes de ceder um PEI sequer.
+
+**Fase 2 — romper a barreira.** Reserva zerada, a fronteira da fenda racha: teste de VON do atacante-líder, CD `15 + rank do dono`. Falha custa **1 Ferimento** a todo o grupo cercante e adia a fase 3 por um dia (a Reserva regenera 10% nesse tempo). Sucesso abre a Terra por dentro.
+
+**Fase 3 — a caça aos núcleos.** Dentro, o Espírito da Terra (se Guardião) defende ativamente cada camada como se fosse um Guerreiro do rank da terra, e o dono pode reforçar de longe gastando a própria essência. **O defensor sempre tem a carta de autodetonar** — sacrificar a Terra Abençoada inteira em vez de perdê-la, arrastando quem estiver lá dentro (dano de Calamidade completa, ver [[🌩️ Calamidades e Provações]]). Ninguém cerca sem contar com isso.
+
+> [!warning] A maioria dos cercos dá prejuízo
+> O romance é explícito: quem ataca "frequentemente não ganha nada e ainda sofre perdas pesadas." Uma Terra Abençoada só vale um cerco quando o prêmio (a fenda em si, o Espírito, um Gu Imortal específico lá dentro) supera visivelmente o custo em Ferimentos e essência de vários Imortais por vários dias. Não é conteúdo de rotina — é clímax de arco.
+
 ---
 
 ## Como usar isso na mesa
