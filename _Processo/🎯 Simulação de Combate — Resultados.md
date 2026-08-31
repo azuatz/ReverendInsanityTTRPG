@@ -11,6 +11,8 @@ escopo: processo
 # 🎯 Simulação de Combate — Resultados
 
 > [!important] Rodada mais recente
+> A **sétima rodada** ([[#🔁 Sétima rodada — cura real remedida (2026-08-31)|2026-08-31]]) remede a bateria completa da sexta rodada trocando a heurística de cura (`M d8`, sem limite) pelo Gu real da ficha do Lee (**Gu do Broto Restaurador**, decisão 155: `M d6`, uma vez por cena) — fechando a pendência de "Em aberto" que a decisão 155 tinha deixado. **Nenhum número da sexta rodada precisou mudar de leitura**: as diferenças ficam dentro do ruído de Monte Carlo já aceito no vault (a maior é de ~6pp, a maioria 1-4pp), sem nenhuma composição cruzando de "ganhável" para "perda na maioria das vezes" ou vice-versa. A sexta rodada permanece como registro de referência do motor completo (Golpe Matador Coletivo, controle, terreno); a sétima só substitui a peça de cura.
+>
 > A **sexta rodada** ([[#🏁 Sexta rodada — validação completa pós-decisão 133 (2026-08-31)|2026-08-31]]) é a validação final do motor **completo** — decisões 103 a 145, com as composições de cena JÁ corrigidas (Padrão/Difícil por limite de Alma e por rank, decisões 135-137) e as quatro peças que nenhuma rodada anterior tinha modelado: **Golpe Matador Coletivo**, **cura** (com taxa de acionamento medida), **condições de controle** (Lentidão, implementada pela primeira vez) e **terreno** (com a composição atual de "Difícil"). Cobre ranks 1-5 (rank 4 pela primeira vez) e revalida o cenário duplo-gênio de rank 6. A quinta rodada logo abaixo continua valendo como o registro de quando o motor v2 pós-decisão 133 foi medido pela primeira vez, e como referência de comparação. As rodadas 1-4 mais abaixo são auditoria histórica do motor v1/v2 inicial — os números delas **não** descrevem o sistema como ele é hoje.
 
 Auditoria quantitativa do sistema em Monte Carlo, **3.000 combates por cenário**, com os quatro personagens da mesa, rodada nos **ranks 1, 2, 3 e 5**.
@@ -292,6 +294,121 @@ Documentadas por completo no cabeçalho do script. Resumo do que muda em relaç�
 
 > [!info] Bug de modelagem encontrado e corrigido nesta própria rodada, antes de fechar os números
 > A primeira versão do script aplicava a Retaliação de falha do Golpe Matador Coletivo **desligando o Gu de ataque dos 4 participantes** (não só do núcleo), o que — combinado com cada PJ deste modelo só ter UM Gu de ataque "de assinatura" — deixava o grupo inteiro reduzido a dano cru pelo resto da cena após uma falha (~85-95% das vezes). Isso derrubava a vitória do grupo pra 0,3-3,8% em **todo** rank, um número claramente artificial (o próprio texto da regra fala em desligar "os Gu do combo", e os apoios de um Golpe Matador de verdade são Gu baratos e diferentes do Gu principal de cada um — não o mesmo Gu que o modelo usa pra tudo). Corrigido antes de reportar: só o núcleo perde o próprio ataque; os apoios sofrem só o corte de Vitalidade da Retaliação. Os números acima já são os corrigidos.
+
+---
+
+## 🔁 Sétima rodada — cura real remedida *(2026-08-31)*
+
+Pendência fechada: a decisão 155 tinha registrado oficialmente o **Gu do Broto Restaurador** na ficha do Lee (Cinco Elementos, Madeira) e deixado marcado em "Em aberto" que as simulações precisavam ser **remedidas** com o valor real do Gu (`M d6`, uma vez por cena) em vez da heurística usada nas rodadas 1-6 (`M d8`, sem limite de usos, sempre que alguém caísse abaixo de 40% de Vitalidade). Esta rodada faz exatamente isso: **copia** [[simulacoes/2026-08-31-validacao-completa.py|_Processo/simulacoes/2026-08-31-validacao-completa.py]] em [[simulacoes/2026-08-31-cura-real-remedicao.py|_Processo/simulacoes/2026-08-31-cura-real-remedicao.py]] e troca só a peça de cura: `roll_pool(pc["M"], 8)` → `roll_pool(pc["M"], 6)`, mais um contador `cura_usada` na ficha do Lee (reinicia sozinho a cada combate, porque cada iteração de `simulate()` já cria fichas novas do zero) que bloqueia qualquer segunda cura na mesma cena. Alcance de toque não é modelado — o motor não tem posição, mesma simplificação já usada para Terreno. Todo o resto do motor (dano, Golpe Matador, Fratura, controle, terreno, composições de cena) é idêntico à sexta rodada. Mesma bateria: ranks 1-5, 5 tipos de cena, **3.000 iterações, semente `20260830`**.
+
+### Tabela completa — sétima rodada (cura real)
+
+| Cena | rank 1 | rank 2 | rank 3 | rank 4 | rank 5 |
+|---|---|---|---|---|---|
+| **Fácil** | 100% · 4,00 | 100% · 4,00 | 100% · 3,99 | 100% · 3,98 | 100% · 3,99 |
+| **Padrão** | 67,5% · 1,79 | 79,3% · 1,87 | 88,5% · 2,01 | 95,4% · 2,33 | 99,2% · 2,70 |
+| **Padrão pesado** | 74,2% · 1,98 | 71,1% · 1,73 | 72,5% · 1,61 | 76,3% · 1,70 | 90,9% · 2,32 |
+| **Difícil** | 34,4% · 0,84 | 38,0% · 0,78 | 51,3% · 0,92 | 67,2% · 1,24 | 48,1% · 0,80 |
+| **Clímax** | 3,4% · 0,08 | 55,4% · 1,33 | 84,5% · 1,91 | 74,9% · 1,52 | 89,2% · 2,03 |
+
+*(vitória do grupo · sobreviventes médios de 4)*
+
+### Comparação lado a lado — sexta rodada (cura heurística) vs. sétima (cura real)
+
+| Cena · rank | 6ª rodada (M d8, sem limite) | 7ª rodada (M d6, 1×/cena) | Δ (7ª − 6ª) |
+|---|---|---|---|
+| Padrão · 1 | 71,3% | 67,5% | −3,8pp |
+| Padrão · 2 | 78,0% | 79,3% | +1,3pp |
+| Padrão · 3 | 88,7% | 88,5% | −0,2pp |
+| Padrão · 4 | 95,0% | 95,4% | +0,4pp |
+| Padrão · 5 | 98,8% | 99,2% | +0,4pp |
+| Padrão pesado · 1 | 77,4% | 74,2% | −3,2pp |
+| Padrão pesado · 2 | 73,5% | 71,1% | −2,4pp |
+| Padrão pesado · 3 | 75,1% | 72,5% | −2,6pp |
+| Padrão pesado · 4 | 76,6% | 76,3% | −0,3pp |
+| Padrão pesado · 5 | 91,7% | 90,9% | −0,8pp |
+| Difícil · 1 | 37,0% | 34,4% | −2,6pp |
+| Difícil · 2 | 35,6% | 38,0% | +2,4pp |
+| Difícil · 3 | 49,1% | 51,3% | +2,2pp |
+| Difícil · 4 | 62,9% | 67,2% | +4,3pp |
+| Difícil · 5 | 45,5% | 48,1% | +2,6pp |
+| Clímax · 1 | 3,2% | 3,4% | +0,2pp |
+| Clímax · 2 | 56,2% | 55,4% | −0,8pp |
+| Clímax · 3 | 85,8% | 84,5% | −1,3pp |
+| Clímax · 4 | 69,0% | 74,9% | **+5,9pp** |
+| Clímax · 5 | 87,5% | 89,2% | +1,7pp |
+
+**Nenhum delta cruza uma fronteira de leitura.** A maior variação é de +5,9pp (Clímax rank 4) e a maioria fica entre 0,2 e 4,3pp — a mesma ordem de grandeza que a própria decisão 154 já chamou de "pequena" ao aceitar sem correção (2-9pp na comparação "Padrão pesado" antes/depois). Nenhuma cena muda de categoria: nada que já era "ganhável" (>50%) virou "perda na maioria das vezes" (<50%) nem o oposto — Difícil rank 1 (37,0%→34,4%) e rank 5 (45,5%→48,1%) continuam do mesmo lado da linha de 50%, só que agora mais perto dela nos dois sentidos.
+
+**O sinal misto (algumas cenas melhoram, outras pioram, sem padrão direcional) é o resultado esperado, não um artefato.** Uma cura mais fraca deveria, em tese, só piorar a vitória do grupo — mas o motor consome números aleatórios em ordem diferente a cada vez que a lógica de cura muda (a decisão de curar ou não, e quantos d6/d8 rolar, desloca todas as rolagens seguintes na mesma semente). Com a mesma semente `20260830`, isso descorrelaciona os dois fluxos de números aleatórios entre os dois scripts — cada cena efetivamente roda uma amostra de Monte Carlo *diferente*, não a mesma amostra com uma variável trocada. Os deltas aqui são, portanto, uma mistura de "efeito real da cura mais fraca" com "ruído de reamostragem", e não dá pra separar os dois sem uma técnica de números aleatórios pareados (fora do escopo desta remedição). Na prática isso não muda a leitura: mesmo somando os dois efeitos, nenhum delta se aproxima de mudar a categoria de nenhuma cena.
+
+**Taxa de acionamento da cura, sob o Gu real:**
+
+| Cenário | Disparos / Oportunidades | Taxa | *(6ª rodada, heurística)* |
+|---|---|---|---|
+| rank 1, Difícil | 2.734 / 6.594 | 41,5% | 80,6% |
+| rank 3, Difícil | 2.889 / 7.543 | 38,3% | 99,5% |
+| rank 3, Clímax | 2.930 / 8.312 | 35,3% | 99,7% |
+| rank 5, Difícil | 2.893 / 7.272 | 39,8% | 99,6% |
+
+A taxa cai pela metade ou mais em todo cenário — esperado, já que "disparos" agora satura em no máximo 1 por combate (3.000 no total possível) contra "oportunidades" que continuam contando toda vez que alguém está abaixo de 40%, cena inteira afora. **Isto confirma o achado da sexta rodada por outro ângulo**: o grupo passava a maior parte de cada combate abaixo de 40% de Vitalidade em algum PJ, e a heurística cobria quase toda essa janela; o Gu real cobre uma fatia bem menor dela, mas — como a tabela de vitória acima mostra — isso **não** derruba a taxa de vitória do grupo de forma proporcional. Os PJs sobrevivem majoritariamente com a Vitalidade que já tinham e com o dano que causam, não com a cura — a cura era um colchão de segurança em cenas já limítrofes, não a diferença entre ganhar e perder na maioria delas.
+
+> [!important] Nenhuma tabela de composição precisa mudar — isto é confirmação, não correção
+> Diferente do "Padrão pesado" da decisão 154 (onde a correção mudou o resultado por dezenas de pontos percentuais em alguns ranks, exigindo nova tabela publicada), aqui a mudança de cura fica dentro do ruído já tolerado no vault. **Não há fork de design a resolver** — não existe um cenário onde "manter a heurística" e "usar a cura real" levem a leituras de mesa diferentes (nenhuma composição vira "impossível" nem "trivial" sob a cura real). Por isso esta rodada **não** mexe em nenhuma tabela de [[⚔️ Ameaças Genéricas por Rank]]: é tratada como o mesmo tipo de correção mecânica de baixo impacto que a decisão 154 já aplicou para "Padrão pesado", registrada no Log e fechada.
+
+### 🌟 Rank 6 e demais peças — confirmação rápida
+
+Rodadas junto com a bateria principal (mesmo script), para registro — nenhuma delas depende do healer de forma relevante além do que já está capturado acima:
+
+| Peça | 6ª rodada | 7ª rodada | Leitura |
+|---|---|---|---|
+| Rank 6 Duplo-gênio (B=+3) | 5,4% | 6,5% | Ruído — cenário não usa o Lee como curandeiro de forma decisiva (poucos turnos, cena curta) |
+| Rank 6 Pequeno Feito (B=+1) | 18,3% | 19,8% | Ruído |
+| Golpe Coletivo · Clímax rank 3 | 49,8% | 54,4% | Ruído de reamostragem (mesma ressalva acima) |
+| Terreno · Difícil rank 3, neutro | 49,3% | 50,7% | Ruído |
+
+Nenhuma leitura qualitativa das seções de Golpe Matador Coletivo, Controle, Terreno ou Fratura da Abertura muda sob a cura real — os achados e recomendações já registrados na sexta rodada continuam valendo como estão.
+
+---
+
+## ☯️ Marcas de Dao no topo — a escada linear já entrega o veredito da ficção? *(2026-08-31)*
+
+Pendência testada: item de "Em aberto" no [[🧭 Log de Decisões]] apontando que a escada de domínio de [[☯️ Marcas de Dao]] (convertida em `01 — Fundação/⚔️ Combate.md#☯️ Marcas de Dao — o dano depois do rank 6`) é uma progressão em degraus (+1 de `B` por patamar, um único dobramento de pool no topo) enquanto o romance descreve a amplificação por Marca, no rank 8, como saltando para multiplicadores de "centenas ou milhares de vezes" — dado como a explicação canônica de por que rank 7 quase nunca vence rank 8.
+
+### Verificação da citação canônica (grep na fonte primária, antes de tratar como dada)
+
+Confirmado em `~/Documentos/Reverend-Insanity-fonte/texto/Volume_4_-_The_Demon_Lord_Rampages_Unhindered.txt`:
+
+> [!quote] Faixa baixa — ~linear, dobra por volta de 1.000 Marcas (perto do Cap. 852)
+> "Two hundred dao marks can increase power by twenty percent. Six hundred would mean a sixty percent increase." — confirma exatamente a leitura já registrada no Log: **+20% de poder a cada 200 Marcas**, extrapolação linear simples chegando a **+100% (dobro) por volta de 1.000 Marcas**.
+
+> [!quote] Rank 8 — salto para multiplicadores de centenas/milhares (linha 32839, poucos capítulos antes do 852, mesmo arco da Vol. 4)
+> "The dao marks on a Gu Immortal could amplify the power of Immortal Gu and immortal killer moves. This amplification was quite terrifying, rank eights could have an amplification with a multiplier of hundreds or even thousands, that was also why rank seven Gu Immortals could rarely beat rank eight Gu Immortals."
+
+Um terceiro trecho (Vol. 5) reforça o mesmo padrão qualitativo sem dar número: "between rank seven and eight, the difference in dao marks was like heaven and earth... when rank eight fought against rank seven, it was almost always a one-sided fight." **As duas citações do Log se confirmam** — a única imprecisão é o número exato do capítulo (a citação de "+20%/200 Marcas" está de fato no Cap. 852; a frase "hundreds or even thousands" está no Cap. 850, três capítulos antes, no mesmo arco de Star Form blessed land — próximo o bastante para não invalidar a citação registrada).
+
+**Ressalva importante para a leitura deste achado:** a citação de "centenas/milhares de vezes" descreve a diferença entre **ranks adjacentes** (rank 7 vs. rank 8), não entre patamares de domínio **dentro do mesmo rank 8** (que é o que a escada de [[☯️ Marcas de Dao]] modela pós-rank-6). A escada do vault usa essa citação só como *inspiração* de que o topo deveria ser decisivo — não como um número a bater literalmente em cada degrau.
+
+### Simulação — duelo 1v1, rank 8 (M=128), tudo igual exceto o nível de domínio
+
+Script novo: [[simulacoes/2026-08-31-marcas-de-dao-nao-linear.py|_Processo/simulacoes/2026-08-31-marcas-de-dao-nao-linear.py]]. Reaproveita a MESMA fórmula de dano/ataque/defesa/crítico/RD de [[simulacoes/2026-08-31-validacao-completa.py]] (pool `M dX` + `M×B`, `acerto = d20 + atributo + 2×rank + 2` contra Defesa, RD com piso `1×M`, crítico no 20 dobra os dados) — só troca o cenário de "grupo vs. moldes de inimigo" por um duelo 1v1 simétrico em tudo (CON, Destreza, atributo de ataque, dado — Caminho médio d10) exceto o nível de domínio. **5.000 duelos por confronto, semente `20260830`.**
+
+| Confronto | Escada LINEAR (atual) | Escada NÃO-LINEAR (proposta) |
+|---|---|---|
+| Grão-Mestre vs. Quase-Supremo | Grão-Mestre 30,6% · Quase-Supremo **69,4%** | Grão-Mestre 4,4% · Quase-Supremo **95,6%** |
+| Quase-Supremo vs. Grande Mestre Supremo | Quase-Supremo 5,3% · G.M.Supremo **94,7%** | Quase-Supremo 2,8% · G.M.Supremo **97,2%** |
+| Grão-Mestre vs. Grande Mestre Supremo | Grão-Mestre 0,5% · G.M.Supremo **99,5%** | Grão-Mestre 0,0% · G.M.Supremo **100,0%** |
+
+A escada NÃO-LINEAR testada mantém Vislumbre–Grão-Mestre intocados (faixa onde o cânone dá o número ~linear) e só acelera os dois últimos degraus: Quase-Supremo ganha o dobro de pool que hoje só aparece no Grande Mestre Supremo (`B+4`, pool ×2 em vez de ×1), e Grande Mestre Supremo sobe para `B+6`, pool ×8 (em vez de `B+5`, ×2).
+
+### Leitura
+
+**A escada LINEAR atual já produz "o patamar mais alto vence de forma esmagadora" em DOIS dos TRÊS confrontos** — qualquer confronto que atravesse o Grande Mestre Supremo (94,7% e 99,5%, ambos batendo a leitura de "quase sempre uma luta de lado só" que o cânone descreve para rank 7 vs. rank 8). Isso não é coincidência: a nota de Combate já registra que o Grande Mestre Supremo foi desenhado para **igualar um Venerável recém-chegado ao rank 9** (`256d12 + 640` médio 2.304 contra `256d12` médio 1.664) — exatamente o tipo de gap que a citação de "centenas/milhares de vezes" descreve para uma fronteira de rank.
+
+**O único confronto que fica longe de "esmagador" é Grão-Mestre vs. Quase-Supremo (69,4% / 30,6%)** — o único par onde nenhum dos dois lados atravessa o degrau que dobra o pool (a diferença entre eles é só `B+3` vs. `B+4`, sem mudança de multiplicador). Poder médio por golpe sobe só ~12% (`128×5,5+128×4=1216` contra `128×5,5+128×3=1088`), o suficiente para um favoritismo real (o lado mais forte ganha mais de 2× mais que perde), mas não para tornar a luta insustentável para o mais fraco.
+
+> [!important] Recomendação: manter a escada linear — a variante não-linear resolve um problema que o degrau do topo já resolve sozinho
+> A variante não-linear testada empurra até o confronto "moderado" (Grão-Mestre vs. Quase-Supremo) para 95,6% — mas isso contradiz a PRÓPRIA citação que motivou a pendência: o Cap. 852 descreve a faixa **baixa/intermediária** de Marcas como aproximadamente linear (+20% a cada 200 Marcas), e é só na fronteira de **rank** que o romance registra o salto para "centenas ou milhares de vezes". Nada no texto sugere que o salto deveria acontecer *dentro* do rank 8, entre Grão-Mestre e Quase-Supremo — a citação de "hundreds or thousands" nunca foi sobre essa fronteira. A escada atual já reserva o salto decisivo para o único lugar que a lógica da ficção pede: o topo (Grande Mestre Supremo, calibrado para igualar rank 9). Tornar TODOS os degraus decisivos, como a variante não-linear faz, apagaria a diferença de ritmo entre "ainda tem alguma chance contra o próximo patamar" (Grão-Mestre vs. Quase-Supremo, hoje) e "praticamente sem chance" (qualquer coisa contra Grande Mestre Supremo, hoje) — uma distinção que o próprio romance também faz (rank 6 vs. 7 "podem ser parelhos ocasionalmente", rank 7 vs. 8 "quase sempre um lado só", rank 9 vs. 8 "como pisar numa formiga" — três gradações, não uma escalada uniforme). **Veredito: nenhuma mudança na tabela de [[☯️ Marcas de Dao]] ou em `⚔️ Combate.md`.** Fecha a pendência de "Em aberto" como decisão negativa — a análise fica registrada para não ser reaberta sem simulação nova.
 
 ---
 
