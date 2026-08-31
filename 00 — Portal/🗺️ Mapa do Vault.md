@@ -174,7 +174,10 @@ escopo: processo
 | [[🩺 Lint do Vault]] | **A nota de saúde** — resultado de cada rodada de lint, editada no lugar; o script mecânico vive em `_Processo/ferramentas/lint_vault.py` |
 | [[🎯 Simulação de Combate — Resultados]] | **A prova de que os números fecham.** 3.000 combates por cenário com os quatro personagens da mesa: duelo entre PJs, PJ contra inimigo solo, grupo contra horda, grupo contra Chefe. Traz o que estava quebrado, o que foi corrigido, e onde a mesa ficou depois |
 | [[🔍 Auditoria de Coerência da Lore]] | **A varredura feita antes da lore** — 3 contradições reais encontradas e corrigidas no vault (vida de Imortal, mesada de clã, distribuição de Aptidão), 8 suspeitas verificadas e limpas, e as decisões autorais tomadas |
-| [[🔍 Síntese — Fidelidade ao Romance]] | **Frente 2 da síntese da leitura integral** — achados de mecânica/números onde as notas de regra divergem do que os 18 digests do romance realmente afirmam (Marcas de Dao por Provação, Longevidade de Veneráveis, estrutura da Cidade Shang, tamanho de Terra Abençoada). Só análise, nada aplicado ainda |
+| [[🔍 Síntese — Lacunas do Catálogo de Gu]] | **Frente 1 da síntese da leitura integral** — Gu do romance que faltavam no Catálogo, com o filtro de curadoria aplicado (3 candidatos fortes, 1 borderline) |
+| [[🔍 Síntese — Fidelidade ao Romance]] | **Frente 2 da síntese da leitura integral** — achados de mecânica/números onde as notas de regra divergem do que os 18 digests do romance realmente afirmam (Marcas de Dao por Provação, Longevidade de Veneráveis, estrutura da Cidade Shang, tamanho de Terra Abençoada). Metrópoles já corrigida (decisão 138); Marcas de Dao e Longevidade seguem em aberto |
+| [[🔍 Síntese — Atividades Jogáveis por Rank]] | **Frente 3 da síntese da leitura integral** — inventário do que dá pra fazer em cada fase de rank (1–9), com cobertura ✅/🔧/❌ contra o sistema atual e recomendações priorizadas |
+| [[🔍 Síntese — Atividades Jogáveis (material bruto)]] | Rascunho de trabalho por trás da nota acima — achados crus por volume, antes da organização por fase |
 
 ## 09 — Lore de Vespéria
 
