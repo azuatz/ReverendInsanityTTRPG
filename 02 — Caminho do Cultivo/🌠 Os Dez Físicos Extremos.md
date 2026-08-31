@@ -118,7 +118,7 @@ Quando a pressão aperta e não há inimigo pra gastar essência, existe o recur
 
 > **Ação livre, uma vez por cena.** Descarregue **toda a Essência atual de uma vez** num pulso do seu elemento. Isso conta como "esvaziar até 0" pra efeito de sangrar Pressão.
 >
-> **Efeito:** todos num raio de `3 m por 100 de Essência queimada` sofrem `1d6 × M` de dano do tipo do seu físico e fazem CON contra a CD dos seus Gu ou são jogados pra fora do raio. **Aliados incluídos** — o pulso não escolhe.
+> **Efeito:** todos num raio de `3 m por 100 de Essência queimada` sofrem `M d6` de dano do tipo do seu físico e fazem CON contra a CD dos seus Gu ou são jogados pra fora do raio. **Aliados incluídos** — o pulso não escolhe.
 >
 > **Você fica com 0 de Essência.** Não pode ativar nada até regenerar, o que numa rodada devolve no máximo o teto (100 a 200).
 

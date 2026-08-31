@@ -73,7 +73,7 @@ Com um Gu do Caminho da Força ou de Transformação ativo,
 o dano melee passa a ser multiplicado pelo M do RANK DAQUELE GU.
 ```
 
-**Os Níveis somam primeiro; o `× M` vem depois, e vem do Gu, não de você.** Um rank 5 com arma pesada (passo +1), um Gu de Força de rank 5 ativo (+3 Níveis) e uma Descarga (+3) ataca no **passo +7: `1d12+1d10 + FOR`, × 16**. O mesmo personagem com o Gu roubado, morto de fome ou desligado ataca com `1d8 + FOR` e nada mais — 13 de dano contra uma barra de 160.
+**Os Níveis somam primeiro; o `M` — quantos dados você rola — vem depois, e vem do Gu, não de você.** Um rank 5 com arma pesada (passo +1), um Gu de Força de rank 5 ativo (+3 Níveis) e uma Descarga (+3) ataca no **passo +7: `16d12 + 64 + FOR`** (4 Níveis acima de d12). O mesmo personagem com o Gu roubado, morto de fome ou desligado ataca com `1d8 + FOR` e nada mais — 13 de dano contra uma barra de 384.
 
 Repare no que isso significa: **um Gu de Força de rank 3 ativo multiplica por 4, não por 16.** O rank do *Gu* é o multiplicador. Carregar o Gu velho e barato é a armadilha clássica deste Caminho — ele custa pouco e te mantém no dano de dois ranks atrás.
 

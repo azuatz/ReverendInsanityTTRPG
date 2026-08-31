@@ -93,7 +93,7 @@ Conte os sucessos no fim da sequência inteira. Não se para no meio: **todas as
 | **2** | **Falhou.** Zero Marcas, **1 Ferimento**, um nível de Ferimento da Terra |
 | **0–1** | **Morte.** Sem Teste de Morte, sem ressurreição comum |
 
-**Cada etapa falhada, além do resultado final, custa `1d6 × M` no trilho que a Calamidade atacou** — Vitalidade se ela veio pelo corpo, Alma se veio pela mente. A mesa decide pelo formato que a Calamidade tomou, e avisa antes de rolar.
+**Cada etapa falhada, além do resultado final, custa `M d6` no trilho que a Calamidade atacou** — Vitalidade se ela veio pelo corpo, Alma se veio pela mente. A mesa decide pelo formato que a Calamidade tomou, e avisa antes de rolar.
 
 Um **1 natural** em qualquer etapa conta como **duas falhas**, igual à provação da [[♾️ A Ascensão Imortal]].
 
