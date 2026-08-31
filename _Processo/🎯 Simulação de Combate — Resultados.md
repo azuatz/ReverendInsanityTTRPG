@@ -11,6 +11,8 @@ escopo: processo
 # 🎯 Simulação de Combate — Resultados
 
 > [!important] Rodada mais recente
+> A **décima segunda rodada** ([[#🗡️ Décima segunda rodada — a peça de muitas ações (2026-08-31)|2026-08-31]]) mede a **opção 4** da pendência da decisão 208 — a peça de **muitas ações e pouca Vitalidade** (molde "Enxame": `7 × M` de Vitalidade, 2 ações, `M d4`, sem RD e sem especial), desenhada pelo autor para *desacoplar* duração de dificuldade. **Veredito: a hipótese não se sustenta, e nada foi aplicado.** Encurta só 5,8% (pior que a alavanca mais fraca da rodada anterior), põe Difícil em 5,8-23,8% e Clímax em 1,2-40,0% (muito fora das faixas), e deixa o penhasco de ações mais íngreme em 4 de 6 células. O achado que fecha o caso é um guarda-corpo novo: a peça é **ameaça de primeira linha ou decorativa dependendo de o grupo focá-la ou não** — 10 a 16 ações executadas se ignorada, 0,56 a 2,40 (abaixo do Recruta solto) se focada — o que faz a dificuldade da cena oscilar **16,2pp em média e até 59,3pp**, contra 3,1pp das cenas publicadas. Nenhuma Vitalidade de `7 × M` a `14 × M` satisfaz as duas metades: **a solda entre duração e dificuldade se repete dentro da própria peça.**
+>
 > A **décima primeira rodada** ([[#⏱️ Décima primeira rodada — encurtando a cena (2026-08-31)|2026-08-31]]) mede as três alavancas de encurtamento da decisão 160 **isoladas** (RD menor · mais dano por Nível · menos inimigos), contra o alvo do autor de ~4-6 rodadas e com dois guarda-corpos: a curva de letalidade da decisão 78 e o penhasco de ações da decisão 137. **Veredito: nenhuma passa limpa, e nada de motor foi aplicado.** RD menor encurta só 6-13% (mas é a única que *melhora* a fidelidade à decisão 78); mais dano por Nível encurta 13-23% reescrevendo a escada de letalidade inteira; menos inimigos encurta 25% e apaga a escada de dificuldade (Padrão vira 99-100%). O achado estrutural: **duração e dificuldade são o mesmo botão** — a cena é governada pelo número de corpos, não pela dureza deles. Menu de quatro saídas devolvido ao autor em "Em aberto".
 >
 > A **décima rodada** ([[#🔇 Décima rodada — Alma rara entre inimigos (2026-08-31)|2026-08-31]]) aplica a diretiva do autor "inimigos muito raramente terão poder de Alma": o molde Mestre de Gu troca o default da especial de Alma pela física, com o cultivador de Alma virando exceção rolada (1d6 = 6). Achado principal, **contraintuitivo e medido**: Alma rara torna as cenas 2-10pp MAIS difíceis, não mais fáceis — uma especial de Alma isolada desperdiça o golpe numa barra que nada mais ataca; os limites das decisões 135/137 já tinham removido a pilha que fazia Alma matar. Tabela de composição atualizada pros números do mix rolado; três células fora da faixa histórica (Padrão r1, Difícil r1-2) escaladas ao autor.
@@ -741,6 +743,171 @@ Duas hipóteses alternativas foram medidas e **rejeitadas** na mesma rodada, pra
 2. **L1a (`RD × 0,5`) por outro motivo que não a duração.** É a única alavanca que *melhora* um guarda-corpo: aproxima a letalidade de mesa dos números que a decisão 78 publica (razão 2,09 → 1,97). Compra 0,5 rodada de brinde. O preço é 6-9pp em Padrão pesado, dentro da ordem de grandeza que as decisões 154/163 já trataram como recalibração aceitável.
 3. **L2b + recalibrar a tabela de composição e reescrever a escada de letalidade.** Chega em 6/12 células no alvo, e é o único caminho de motor que entrega encurtamento de verdade — mas exige reabrir a decisão 78 (a escada vira 3,3/2,8/2,4/2,1) e remedir as cinco composições, porque o penhasco fica mais íngreme no Padrão.
 4. **Atacar o número de corpos com uma peça NOVA** — a única saída que a rodada não pôde medir porque não existe: um molde de inimigo com **muitas ações e pouca Vitalidade** (o inverso do Chefe). Isso desacopla os dois botões — mantém a pressão por rodada (dificuldade) cortando as rodadas necessárias pra limpar a mesa (duração). É a única hipótese estrutural que sobra depois desta rodada, e ela precisa de desenho do autor antes de simulação.
+
+*(Medida e fechada pela [[#🗡️ Décima segunda rodada — a peça de muitas ações (2026-08-31)|décima segunda rodada]]: a peça existe agora, foi desenhada e medida, e **não desacopla**.)*
+
+---
+
+## 🗡️ Décima segunda rodada — a peça de muitas ações *(2026-08-31)*
+
+Fecha a **opção 4** da pendência da decisão 208 — a única das quatro saídas que a rodada anterior não pôde medir, porque a peça não existia. O desenho veio do autor: um molde de **muitas ações e pouca Vitalidade**, o inverso do Chefe, com a teoria de que ele **desacopla os dois botões** (mantém a pressão por rodada, que é a dificuldade, cortando as rodadas necessárias pra limpar a mesa, que é a duração).
+
+Script: [[simulacoes/2026-08-31-decima-segunda-peca-nova.py|_Processo/simulacoes/2026-08-31-decima-segunda-peca-nova.py]] — cópia do motor da décima primeira rodada com o motor de dano, as fichas dos PJs, os Golpes Matadores e os moldes existentes **intocados**. As únicas adições são o molde novo, um seletor de escolha de alvo (explicado adiante) e a instrumentação do guarda-corpo 3. 3.000 iterações/célula, semente `20260830`, ranks 1/3/5, mix de Alma C.
+
+> [!warning] Enquadramento — encurtar deixou de ser obrigatório
+> O autor já aceitou a **saída 1** da pendência (6-8 rodadas é o ritmo real do jogo). O Enxame entrou nesta rodada como *bônus*, não como resgate: o critério de aprovação passou a ser **manter as faixas de vitória publicadas E encurtar, sem piorar o penhasco e sem ser decorativo**. Um resultado neutro (não encurta, mas não quebra nada) seria aceitável.
+
+### O candidato — molde "Enxame"
+
+| Enxame | Valor | De onde veio o número |
+|---|---|---|
+| **Vitalidade** | `7 × M` *(mais o `4 × M × Grau` de estágio que todo molde leva)* | Um terço do Mestre de Gu, pouco mais da metade do Guerreiro — morre em 1-2 golpes concentrados |
+| **Defesa** | `11 + rank` | Interpola Recruta (`10 + rank`) e Guerreiro (`12 + rank`) |
+| **Acerto** | `d20 + rank + 6` | Igual ao do Guerreiro — a peça ameaça por volume, não por ficha |
+| **RD** | nenhuma | O que compra a fragilidade |
+| **Ações** | **2 por rodada** | O ponto do molde |
+| **Dano** | `M d4` por ataque | Metade do Guerreiro, fraco por golpe de propósito |
+| **Ação Especial** | nenhuma | Idem |
+| **Por cena** | 2 a 4 | — |
+
+Além dele, quatro variantes medidas na mesma bateria: **E9** e **E10** (Vitalidade `9 × M` e `10 × M`), **E7d6** (o mesmo corpo com o dado do Recruta, `M d6` — o `d4` não existe em nenhum outro lugar do vault e a escada por Caminho da decisão 78 começa no `d6`) e **E7pr** (bônus de estágio proporcional, explicado no achado colateral mais abaixo).
+
+As três composições, todas por **substituição** nas cenas publicadas pós-decisão 207:
+
+- **Padrão-E** = 2 Mestres + 2 Enxames *(6 ações, a mesma contagem do Padrão de 3 Mestres)*
+- **Difícil-E** = 3 Mestres + 2 Enxames *(nos ranks 1-4 isto é exatamente a substituição pura: o Difícil vigente é 3 Mestres + 1 Guerreiro)*
+- **Clímax-E** = Chefe + 2 Enxames *(a segunda substituição pura: o Clímax vigente é Chefe + 1 Guerreiro)*
+
+### Fase 1 — vitória e duração *(motor histórico)*
+
+| Cena / rank | BASE | **E7** | E9 | E10 | E7d6 | E7pr |
+|---|---|---|---|---|---|---|
+| Padrão-E r1 *(faixa 75-99%)* | 92,7% | **80,1%** ✅ | 77,2% ✅ | 77,1% ✅ | 58,7% ❌ | 80,1% ✅ |
+| Padrão-E r3 | 85,6% | **84,3%** ✅ | 82,2% ✅ | 81,1% ✅ | 64,8% ❌ | 86,4% ✅ |
+| Padrão-E r5 | 98,7% | **97,2%** ✅ | 97,4% ✅ | 97,1% ✅ | 91,7% ✅ | 98,2% ✅ |
+| Difícil-E r1 *(faixa 40-52%)* | 29,8% | **12,8%** ❌ | 12,9% ❌ | 11,6% ❌ | 4,8% ❌ | 13,5% ❌ |
+| Difícil-E r3 | 46,0% | **5,8%** ❌ | 4,8% ❌ | 4,6% ❌ | 1,8% ❌ | 7,2% ❌ |
+| Difícil-E r5 | 35,8% | **23,8%** ❌ | 23,0% ❌ | 24,3% ❌ | 11,9% ❌ | 30,3% ❌ |
+| Clímax-E r1 *(faixa 56-87%)* | 3,2% 🔴 | **1,2%** ❌ | 1,1% ❌ | 1,1% ❌ | 0,4% ❌ | 1,1% ❌ |
+| Clímax-E r3 | 86,1% | **29,5%** ❌ | 28,6% ❌ | 27,1% ❌ | 13,4% ❌ | 32,9% ❌ |
+| Clímax-E r5 | 89,6% | **40,0%** ❌ | 39,2% ❌ | 39,6% ❌ | 24,0% ❌ | 46,1% ❌ |
+
+| Rodadas médias | BASE | E7 | E9 | E10 | E7d6 | E7pr |
+|---|---|---|---|---|---|---|
+| **média das 9 células** | **7,76** | 7,31 | 7,43 | 7,48 | 6,77 | 7,01 |
+| **encurtamento** | — | **−5,8%** | −4,2% | −3,5% | −12,7% | −9,7% |
+| **células dentro de 4-6** | 1/9 | 1/9 | 1/9 | 1/9 | 3/9 | 2/9 |
+
+**Duas leituras imediatas.** (1) **Não encurta**: 5,8% é menos que a pior das três alavancas da rodada anterior (L1a, `RD × 0,5`, −6,5%), e nenhuma célula nova entra na faixa de 4-6 rodadas. (2) **Duas Enxames não substituem um Guerreiro** — Difícil desaba de 46,0% para 5,8% e Clímax de 86,1% para 29,5%. A aritmética explica: uma ação de Guerreiro a `M d8` contra a `RD 1 × M` de um PJ entrega ~22 de dano por rodada no rank 3; **uma** Enxame entrega ~28 (duas ações de `M d4` a ~14 líquidos cada) — a paridade de pressão declarada estava certa para **uma** peça, e a composição usou **duas**. Só que a decisão 137 já dizia qual é o contador que importa: **rolagens de ataque**, não dano. Trocar 1 Guerreiro por 2 Enxames troca **uma** rolagem por **quatro**.
+
+Nas mãos das variantes: subir a Vitalidade (7 → 9 → 10) muda menos de 3pp em qualquer célula, e o `M d6` do E7d6 tira 17-25pp e derruba o Padrão da faixa. **A alavanca do molde não é nem a Vitalidade nem o dado — é a contagem de ações**, como sempre.
+
+### 🛡️ Guarda-corpo 1 — a escada de letalidade da decisão 78
+
+Intocada **por construção** (o Enxame é composição, não motor — mesma situação do L3 da rodada anterior). Verificada em vez de afirmada: no rank 1 sem RD a bateria devolve **d6 5,16 · d8 4,01 · d10 3,28 · d12 2,76**, razão d6/d12 **1,87** contra os 1,86 publicados. ✅
+
+### ⚠️ Guarda-corpo 2 — o penhasco de ações da decisão 137
+
+Swing de vitória ao somar **uma** peça, em pontos percentuais. A pergunta: o Enxame é um degrau mais suave que o Guerreiro?
+
+| Composição / rank | swing de **+1 Guerreiro** | swing de **+1 Enxame** |
+|---|---|---|
+| Padrão r1 | 23,8 | **18,7** ✅ |
+| Padrão r3 | 42,0 | **47,6** 🔴 |
+| Padrão r5 | 15,4 | **20,6** 🔴 |
+| Difícil r1 | 19,8 | **17,8** ✅ |
+| Difícil r3 | 36,0 | **38,6** 🔴 |
+| Difícil r5 | 30,3 | **34,2** 🔴 |
+| **média** | **27,9** | **29,6** |
+
+E o degrau **dentro** das composições novas (somar um terceiro Enxame a Padrão-E): 25,4 · 47,7 · 30,1 — média **34,4**, contra 27,1 do `+1 Guerreiro` sobre o Padrão publicado.
+
+**O penhasco fica um pouco mais íngreme, não mais raso** — em 4 das 6 células, e na média. Não é o desastre que o L2b da rodada anterior foi (23,8 → 31,6 numa célula só), mas é o oposto do que a peça prometia: ela deveria ser o degrau intermediário que o penhasco nunca teve. ⚠️
+
+### 🔴 Guarda-corpo 3 — "Recruta solto 2.0", e a armadilha que ele revelou
+
+O guarda-corpo novo desta rodada. A própria [[⚔️ Ameaças Genéricas por Rank]] chama o Recruta solto de **decorativo** porque morre antes de agir; a peça nova não pode repetir isso. Instrumentado direto: **quantas ações cada Enxame executa antes de morrer**.
+
+Medindo isso, apareceu um problema de método que muda o veredito. O motor de todas as rodadas anteriores faz o PJ atacar **quem tem a menor FRAÇÃO de Vitalidade** — ou seja, termina o ferido. Com a mesa inimiga inteira de pé no começo da cena, todos estão em 100%, o desempate é a ordem da lista, e **a peça frágil é atacada por último**. Mas a hipótese da opção 4 diz literalmente *"o grupo mata rápido, mas dói enquanto vive"* — e essa premissa **só existe se o grupo focar a peça frágil**. Julgar o Enxame só pelo motor histórico seria julgá-lo por um artefato.
+
+Então a bateria roda os **dois modos**: `fração` (o motor histórico) e `absoluto` (o PJ ataca quem tem menos Vitalidade restante em valor absoluto — mata o Enxame primeiro). Piso de referência do "decorativo", medido na mesma bateria: **6 Recrutas soltos executam 1,28 · 2,20 · 2,97 ações** nos ranks 1/3/5, com 24% · 12% · 8% morrendo sem agir nenhuma vez.
+
+| E7 · ações executadas por Enxame | alvo por **fração** | alvo **absoluto** |
+|---|---|---|
+| Padrão-E r1 | **10,78** *(0% com zero)* | **1,15** *(51,7% com zero)* |
+| Padrão-E r3 | **12,23** *(0%)* | **1,99** *(27,8%)* |
+| Padrão-E r5 | **10,74** *(0%)* | **2,33** *(22,4%)* |
+| Difícil-E r1 | **12,72** *(0%)* | **1,25** *(49,9%)* |
+| Difícil-E r3 | **12,37** *(0%)* | **2,10** *(26,2%)* |
+| Difícil-E r5 | **14,82** *(0%)* | **2,37** *(21,5%)* |
+| *referência: Mestre de Gu, cenas publicadas* | 5,57 a 10,14 | — |
+| *referência: Guerreiro, cenas publicadas* | 5,33 a 8,67 | — |
+| *piso do decorativo: 6 Recrutas soltos* | 1,28 a 2,97 | — |
+
+**As duas colunas são as duas metades de uma contradição, e é isso que mata a hipótese:**
+
+- **Se o grupo NÃO foca a peça frágil**, ela fica de pé **5,4 a 8,2 rodadas** e executa **10 a 16 ações** — mais que um Mestre de Gu e o dobro de um Guerreiro. Não é uma peça que sai rápido da mesa; é uma ameaça de primeira linha com um terço da Vitalidade. A cena não encurta porque nada é removido dela, e as faixas quebram porque as ações se acumulam.
+- **Se o grupo FOCA a peça frágil** — que é exatamente a premissa que a opção 4 assume — ela executa **0,56 a 2,40 ações** e **20% a 73% morrem sem agir uma vez**, ou seja, **abaixo do Recruta solto que a nota já classifica como decorativo**. A cena continua sem encurtar (Difícil-E r1 8,12 rodadas contra 8,20 do baseline; Clímax-E r1 7,61 contra 7,61) porque a peça não estava governando a duração.
+
+Não existe posição intermediária: **a peça é ameaça-de-verdade ou é decorativa, e quem decide qual não é o mestre — é a escolha de alvo do grupo.**
+
+### 🔴 O achado que fecha o caso — a volatilidade tática
+
+O corolário do parágrafo acima, quantificado. Diferença de vitória do grupo entre os dois modos de escolha de alvo, em pontos percentuais — quanto a dificuldade da cena depende de uma decisão tática:
+
+| Família de composição | volatilidade média *(diferença absoluta de vitória entre os dois modos)* | pior célula |
+|---|---|---|
+| **Cenas publicadas** *(Padrão · Difícil · Clímax)* | **3,1 pp** | Difícil r3: 14,2 |
+| Com **1** Enxame no lugar da peça trocada | 6,7 pp | Clímax r3: 17,8 |
+| Com **2** Enxames *(as composições da rodada)* | **16,2 pp** | **Clímax-E r3: 59,3** |
+
+Clímax-E de rank 3 mede **30,4%** se o grupo termina o ferido e **89,7%** se o grupo mata o frágil primeiro. É a mesma cena, os mesmos dados, a mesma semente. **Uma peça cuja dificuldade oscila 59 pontos com a tática do grupo não é dosável pelo mestre** — e a tabela de composição inteira do vault é uma promessa de dosagem. Isso é desqualificante por si só, independente de faixas e de duração.
+
+### Fase 3 — a varredura de Vitalidade, onde ela realmente morde
+
+A Fase 1 varreu 7/9/10 no modo `fração`, onde a Vitalidade do Enxame quase não importa (ele é atacado por último de qualquer jeito). Sob alvo `absoluto` ela é o que decide se a peça age ou é decorativa — então a varredura foi refeita ali, com uma quarta parada (`14 × M`, dois terços do Mestre de Gu):
+
+| Vitalidade | ações/Enxame *(r1 · r3 · r5)* | Padrão-E *(faixa 75-99%)* | Difícil-E *(faixa 40-52%)* | rodadas Padrão-E |
+|---|---|---|---|---|
+| `7 × M` | 1,15 · 1,99 · 2,33 🔴 *decorativo* | 89,5% · 93,9% · 98,7% ✅ | 21,9% · 15,9% · 35,7% ❌ | 6,25 · 6,88 · 6,43 |
+| `9 × M` | 1,51 · 2,46 · 2,37 🔴 | 84,6% · 90,2% · 99,2% | 17,6% · 9,1% · 33,8% ❌ | 6,64 · 7,44 · 6,47 |
+| `10 × M` | 1,72 · 2,59 · 2,44 🔴 | 81,3% · 88,3% · 98,8% ✅ | 14,1% · 7,1% · 32,8% ❌ | 6,93 · 7,50 · 6,53 |
+| `14 × M` | **2,49 · 3,19 · 3,35** ✅ | 68,3% ❌ · 78,0% · 94,9% | 5,9% · 3,4% · 13,9% ❌ | **7,85 · 8,25 · 7,51** |
+
+**É a mesma solda de novo, agora dentro do próprio molde.** A única Vitalidade que tira o Enxame do território decorativo (`14 × M`, o único degrau que passa das ~3 ações do Recruta) é também a que derruba o Padrão da faixa e **alonga a cena em 1,1 a 1,6 rodada**. Vitalidade da peça nova é mais um botão com o mesmo sinal de todos os outros: mais corpo = mais ação = mais tempo = mais dificuldade. A decisão 208 tinha medido a solda entre composições; esta rodada mede a mesma solda **dentro dos parâmetros de uma única peça**.
+
+### 🟡 Achado colateral que vale além desta rodada — o bônus de estágio dilui todo molde frágil
+
+`+4 × M × Grau` de Vitalidade é **igual para todo molde**, do Recruta ao Chefe. Consequência: qualquer peça desenhada como "pouca Vitalidade" perde a identidade conforme o rank sobe.
+
+| | rank 1 | rank 3 | rank 5 |
+|---|---|---|---|
+| Enxame `7 × M` como % da Vitalidade do **Guerreiro** | **58%** | 75% | **79%** |
+| Enxame `7 × M` como % da Vitalidade do **Mestre de Gu** | **33%** | 52% | **58%** |
+
+"Um terço do Mestre de Gu" só é verdade no rank 1. A variante **E7pr** (bônus de estágio proporcional, `4 × M × Grau × 7/21`) confirma que a diluição custa: encurta **9,7%** em vez dos 5,8% do E7, e devolve 2-6pp de vitória ao grupo nos ranks 3 e 5. **Não muda o veredito desta rodada** (a E7pr continua fora da faixa em Difícil e Clímax), mas fica registrado: qualquer molde futuro de pouca Vitalidade precisa de um bônus de estágio proporcional, ou vira um Guerreiro caro a partir do rank 3.
+
+### 🔴 O veredito — a hipótese do desacoplamento não se sustenta
+
+| Critério | Resultado |
+|---|---|
+| **Faixas de vitória** | Padrão-E dentro (80-97%) nas três variantes de Vitalidade; **Difícil-E (5,8-23,8%) e Clímax-E (1,2-40,0%) muito fora** ❌ |
+| **Encurtamento** | **−5,8%** (7,76 → 7,31 rodadas), pior que a alavanca mais fraca da rodada anterior; 1/9 células em 4-6, igual ao baseline ❌ |
+| **Guarda-corpo 78** | Intocado por construção, verificado (razão 1,87 vs 1,86 publicada) ✅ |
+| **Guarda-corpo 137** | Penhasco **mais íngreme** em 4 de 6 células (média 29,6 contra 27,9 do Guerreiro) ⚠️ |
+| **Guarda-corpo 3 (decorativo)** | **Falha no único modo em que a hipótese faz sentido**: sob foco de fogo, 0,56-2,40 ações por peça e 20-73% morrendo sem agir — abaixo do Recruta solto ❌ |
+| **Volatilidade tática** *(critério novo)* | **16,2pp de média contra 3,1pp das cenas publicadas**, com pico de 59,3pp ❌ |
+
+**A resposta à pergunta da rodada é não.** O Enxame não desacopla duração de dificuldade — ele anda **na mesma curva** das três alavancas da decisão 208, e de um jeito pior: as outras três pelo menos escolhiam um lado da curva de forma previsível. O Enxame escolhe o lado **em tempo de jogo**, pela tática do grupo, e por isso pode ser as duas coisas erradas ao mesmo tempo (decorativo *e* sem encurtar) ou a coisa errada de outro jeito (letal *e* sem encurtar).
+
+A razão estrutural, agora medida por dentro: **a hipótese pede que a peça seja simultaneamente rápida de matar e duradoura o bastante para pressionar**, e isso é uma contradição, não um problema de calibragem. Não existe valor de Vitalidade que satisfaça as duas — a Fase 3 percorreu a faixa inteira de `7 × M` a `14 × M` e o trade-off é monotônico.
+
+### Duas leituras positivas que sobraram, e por que nenhuma vira regra
+
+1. **Padrão-E (2 Mestres + 2 Enxames) é a única composição do vault que fica na faixa nos três ranks sem exceção por rank** — 80,1% · 84,3% · 97,2%, contra o Padrão publicado que precisa da exceção de rank 1 da decisão 207. Mas ela **alonga** a cena (6,84 contra 6,59 de média) e é **17× mais volátil** taticamente (6,8pp contra 0,4pp). Trocar uma exceção documentada por volatilidade não documentada é um mau negócio.
+2. **Clímax com UM Enxame no lugar do Guerreiro (Chefe + 1 Enxame)** põe os ranks 3 e 5 dentro da faixa — **80,5% e 83,9%**, contra os 88,1% e 89,4% do Chefe + Guerreiro, que estão *acima* do teto de 87% — e corta 0,4-0,6 rodada. É o resultado mais limpo da rodada inteira. Mas o rank 1 continua em 4,3% (o 🔴 histórico do Clímax de rank 1, que a peça não resolve) e a volatilidade tática da célula é de 10,6 a 17,8pp. **Fica registrado como candidato para uma rodada futura, não aplicado aqui.**
+
+**Aplicado: nada.** O molde não entra em [[⚔️ Ameaças Genéricas por Rank]], nenhuma composição muda, nenhum número publicado é tocado. A opção 4 da pendência da decisão 208 fecha como **medida e rejeitada**, deixando as saídas 1-3 — com a saída 1 (aceitar 6-8 rodadas) já escolhida pelo autor antes desta rodada.
 
 ---
 

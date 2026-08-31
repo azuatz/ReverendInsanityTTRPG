@@ -650,3 +650,27 @@ hipóteses alternativas medidas e rejeitadas (economia de Essência, barra da Ho
 Única edição de regra: a linha de Padrão pesado de [[⚔️ Ameaças Genéricas por Rank]]
 remedida (71/64/63/85 → 63/57/50/76), desatualizada pelo piso de Horda da decisão 207.
 Menu de quatro saídas devolvido ao autor em "Em aberto".
+
+## [2026-08-31] simulação | Décima segunda rodada — a peça de muitas ações (opção 4 da decisão 208)
+
+Desenho e medição da única saída que a décima primeira rodada não pôde testar: um
+molde de **muitas ações e pouca Vitalidade** (o inverso do Chefe), que na teoria
+desacoplaria duração de dificuldade. Desenho do autor — molde "Enxame": `7 × M` de
+Vitalidade, Defesa `11 + rank`, Acerto `d20 + rank + 6`, sem RD, 2 ações por rodada,
+dano `M d4`, sem Ação Especial. Script novo
+[[simulacoes/2026-08-31-decima-segunda-peca-nova.py]] (motor da rodada anterior
+intocado; só o molde novo, um seletor de escolha de alvo e a instrumentação do
+guarda-corpo novo), 3 composições por substituição × 5 variantes do molde × ranks
+1/3/5, 3.000 iterações/célula, semente 20260830. **A hipótese não se sustenta —
+decisão 209, negativa, nada aplicado.** Encurta só 5,8% (7,76 → 7,31 rodadas), põe
+Difícil em 5,8-23,8% e Clímax em 1,2-40,0%, e deixa o penhasco da decisão 137 mais
+íngreme em 4 de 6 células. O guarda-corpo novo ("não pode virar Recruta solto 2.0",
+medido como ações executadas por peça antes de morrer) é o que fecha o caso: ignorada
+a peça executa 10-16 ações, focada executa 0,56-2,40 — abaixo do Recruta solto — e a
+cena não encurta em nenhum dos dois casos, com a dificuldade oscilando 16,2pp em média
+(pico 59,3) só pela escolha de alvo do grupo. A varredura de Vitalidade de `7 × M` a
+`14 × M` é monotônica: a solda entre duração e dificuldade se repete dentro da própria
+peça. Achado colateral: o `+4 × M × Grau` fixo dilui todo molde frágil com o rank.
+Notas tocadas: [[🎯 Simulação de Combate — Resultados]] (seção nova + callout do topo),
+[[🧭 Log de Decisões]] (decisão 209 + item "Duração de cena" de "Em aberto" atualizado).
+Nenhuma nota de regra editada.
