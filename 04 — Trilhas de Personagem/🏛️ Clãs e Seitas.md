@@ -86,6 +86,30 @@ Todo clã que se preze tem um: o balcão onde o trabalho do clã vira tabela. O 
 
 **Pro mestre:** entregue 2–3 missões por visita ao Salão, de graus vizinhos, e deixe o grupo escolher — a escolha é a cena. A missão do quadro vermelho fica lá a campanha inteira, no canto, juntando poeira e olhares.
 
+### 🗺️ A versão imortal — os Três Quadros *(decisão 144 — digest 17, Vol 6 parte 2, cap. 2241–2251)*
+
+Ao ascender a Imortal (rank 6+, ver [[☯️ Marcas de Dao|Marcas de Dao]]) e se juntar a uma facção grande — clã imortal, aliança entre clãs, ou a Terra Abençoada de outro Imortal —, o Salão de Missões mortal não desaparece: ele **cresce**. O balcão de madeira vira três quadros de jade lado a lado, e a **CC continua sendo a moeda** — é o mesmo trilho de mérito que o personagem já carrega, só que emitido por um patrono maior, não uma terceira moeda pra decorar. (Quem chegou até aqui pela trilha de seita usa a mesma lógica: os Pontos de Contribuição viram Quadro imortal do mesmo jeito, porque a seção 3 já trata PC e CC como "mesma moeda, emissor diferente".)
+
+- **Quadro de Contribuição** — ranking público de todo membro por CC acumulada. Não é só vaidade: é sinal de confiança política. Quem lidera o quadro é convidado pra reuniões que o resto da facção nem sabe que aconteceram.
+- **Quadro de Missões** — a versão imortal do Salão de Missões. Mesmas cinco graduações ☆–☆☆☆☆☆, mesma lógica, escala maior (tabela abaixo).
+- **Quadro de Troca** — gasta CC em Gu Imortais, receitas, heranças e materiais — e, no topo, em algo que nenhum Salão mortal oferece: **um Venerável dedica tempo a ajudar um membro a atravessar uma tribulação**. É o item mais caro e mais raro do quadro; a maioria das facções só oferece quando tem um Venerável disponível e um motivo pra investir nesse membro específico.
+
+**Kit de ingresso.** Todo novo residente recebe um punhado de Gu mortais básicos ao entrar — e um deles é sempre um **Gu de monitoramento**, que a facção usa pra saber onde o novato está e como ele vai. Não é oferecido, é instalado: recusar o kit é recusar a entrada. Facção grande não confia num Imortal desconhecido sem uma coleira discreta primeiro.
+
+**CC imortal — escala.** Os postos mortais (30 CC = membro pleno, 100 CC = promessa do clã) não se apagam — viram histórico do personagem. A facção imortal soma em cima: **300 CC = voz no conselho interno; 1.000 CC = candidato natural a apadrinhamento de um Venerável.**
+
+| Grau | Tarefa típica (nível imortal) | CC ganho |
+|---|---|---|
+| ☆ | Patrulha de território, escolta de comerciante imortal, coleta de material rank 6 | 20 – 50 |
+| ☆☆ | Caça de fera imortal do próprio rank, missão de embaixador entre facções internas | 60 – 120 |
+| ☆☆☆ | Conter instabilidade territorial (vulcão, praga), resgatar membro capturado | 150 – 300 |
+| ☆☆☆☆ | Alvo de rank acima, incursão em domínio rival, sabotagem | 350 – 600 |
+| ☆☆☆☆☆ | O quadro vermelho imortal: risco real de morte ou de perder uma Terra Abençoada | 800 – 1.500 e um favor de Venerável |
+
+**Tribulação assistida.** No lugar de enfrentar sozinho uma Calamidade ou Provação (ver [[🌩️ Calamidades e Provações|Calamidades e Provações]]), o membro pode pedir ao patrono pra **destruir a própria tribulação preventivamente**, antes dela se completar. É seguro — sem teste, sem risco de Ferimento — e rende CC valiosa (trate como uma missão ☆☆☆☆☆ do quadro: 800–1.500 CC). O preço: **as Marcas de Dao que a tribulação daria não são ganhas**. O Quadro de Troca vende a reposição depois, mas cara — **3× a 5× o CC recebido na tribulação assistida** — e só quando a facção decide oferecer. Pra maioria dos personagens é uma troca de emergência (evitar morte certa numa Calamidade ruim), não rotina: quem abusa fica rico em CC e denso em rank sem nunca ficar forte de verdade.
+
+**Pro mestre:** o quadro vermelho imortal funciona igual ao mortal — fica exposto, ninguém pega, e quando alguém finalmente pega é porque a campanha decidiu que era hora. A escala muda (dezenas viram centenas); a lógica de "a escolha é a cena" não muda.
+
 ### O ônus: Obrigação
 
 **Trilho na ficha, de 0 a 5.** Ramo Principal começa em **1**; Ramo Secundário / Servo começa em **0** (ninguém espera nada dele — que é exatamente o que a Origem promete).

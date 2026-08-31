@@ -110,7 +110,7 @@ escopo: processo
 | [[🌱 Origens]] | As **5 origens** e, mais importante, **de onde vem o primeiro Gu** de cada uma — que é a decisão que a origem realmente toma |
 | [[📋 Guia de Criação de Ficha]] | Passo a passo completo, do conceito à ficha pronta |
 | [[🤝 Vínculos e Acordo de Mesa]] | **A nota que protege jogador, não personagem** — o Vínculo (vantagem 1×/sessão, quebra vira Débito), as 5 perguntas do Acordo de Mesa e as 5 amarras do protocolo de traição |
-| [[🏛️ Clãs e Seitas]] | Clã = sangue (heranças de linhagem + trilho de **Obrigação**) × Seita = contrato (**Pontos de Contribuição** com tabela de preços) |
+| [[🏛️ Clãs e Seitas]] | Clã = sangue (heranças de linhagem + trilho de **Obrigação**) × Seita = contrato (**Pontos de Contribuição** com tabela de preços). Salão de Missões mortal; ao ascender a Imortal, vira os **Três Quadros** (Contribuição, Missões, Troca) |
 
 ## 05 — Arsenal
 
@@ -126,6 +126,7 @@ escopo: processo
 | [[🏪 Céu Amarelo do Tesouro]] | **O mercado imortal** (Treasure Yellow Heaven) — negociação remota e anônima a partir do rank 6: balcão a 60%, leilão `1d6`, Assinatura e Teste de Anonimato, monopólio e guerra de preços em 3 anos |
 | [[🤝 O Débito]] | Favor devido como estrutura vinculante — o Pacto, a quebra, e como sair |
 | [[🎰 Aposta por Procuração]] | **Guerra por procuração entre Imortais** — um prêmio selado numa zona que expulsa Abertura ativa, peões mortais infundidos em segredo, Vontade de Batalha e a divisão do fundo comum |
+| [[🏯 Torres e Estradas de Prova]] | **Role uma masmorra de andares em minutos** — CD por bloco, 3 faixas de recompensa, sala de tesouros, pilares temáticos com supressão, a exceção local de PvP sem autodetonação, e a **Estrada de Prova**: variante de dificuldade auto-escalada pra desafiar rank 7–9 de poder desigual |
 
 ## 06 — Grimório de Ameaças
 

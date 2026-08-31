@@ -338,3 +338,37 @@ como pendência explícita, não resolvida. Teto de Longevidade Imortal subiu de
 (Cap. 598-601) — [[⏳ Longevidade]] agora registra abertamente a contradição
 com o Cap. 563 (o romance chama a premissa de "engano comum"), mantendo o
 mecanismo por necessidade estrutural (decisão 89), não por fidelidade.
+
+## [2026-08-31] ingest | Três Quadros — versão imortal do Salão de Missões em 🏛️ Clãs e Seitas (decisão 144)
+Item nº 8 das Recomendações prioritárias da 🔍 Síntese — Atividades Jogáveis por Rank
+(Fase 4, digest 17, Vol 6 parte 2, cap. 2241–2251). Nova seção logo após "📜 O
+Salão de Missões": Quadro de Contribuição (ranking público), Quadro de
+Missões (mesmas graduações ☆–☆☆☆☆☆, escala imortal) e Quadro de Troca (Gu
+Imortais, receitas, heranças, e um Venerável ajudando numa tribulação).
+Decisão de continuidade: a Contribuição do Clã (CC, decisão 118) não vira
+terceira moeda — é o mesmo trilho de mérito emitido por um patrono maior.
+Adaptados também o kit de ingresso vigiado e a tribulação assistida (troca
+Marcas de Dao por CC, reposição cara depois via Quadro de Troca). Tocados:
+`04 — Trilhas de Personagem/🏛️ Clãs e Seitas.md`, `_Processo/🧭 Log de
+Decisões.md` (decisão 144 + changelog), `00 — Portal/🗺️ Mapa do Vault.md` e
+`00 — Portal/📔 Dicionário do Sistema.md`.
+
+## [2026-08-31] ingest | Três padrões de masmorra do romance consolidados numa nota só (decisão 145)
+Itens 3 e 5 da Fase 3 e item 2 da Fase 5 da 🔍 Síntese — Atividades Jogáveis
+por Rank. Nova nota 🏯 Torres e Estradas de Prova em `05 — Arsenal`, por
+pedido explícito do autor de não inflar o vault com três notas quase
+idênticas. Parte 1: gerador de masmorra de andares/blocos com CD crescente
+(mesma fórmula do 🎲 Gerador de Heranças), recompensa em 3 faixas, sala de
+tesouros por troca de valor equivalente, pilares temáticos com supressão de
+Caminho, trilha oculta de "arestas" e entrada paga ao controlador — inclui a
+exceção local (opcional, sorteada) de PvP sem autodetonação, suspendendo
+⚰️ Espólio só dentro da masmorra, nunca como regra geral. Parte 2: Estrada de
+Prova, variante de dificuldade auto-escalada (CD pelo rank de quem anda, não
+da masmorra) com Predicaments isolando o desafiante e perseguição coletiva
+por quebra de acordo de loot — recomendada pra rank 7–9. Rodapé cita a
+Convenção do Caminho de Refino do romance como exemplo worked-out, ligando ao
+🚀 Gu de Avanço de Rank (Gu das Cem Batalhas Invicto) já fichado no vault.
+Tocados: `05 — Arsenal/🏯 Torres e Estradas de Prova.md` (nova), `05 —
+Arsenal/🗡️ Arsenal.md`, `_Processo/🧭 Log de Decisões.md` (decisão 145 +
+changelog), `00 — Portal/🗺️ Mapa do Vault.md` e `00 — Portal/📔 Dicionário do
+Sistema.md`.

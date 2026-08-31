@@ -37,6 +37,10 @@ Favor devido como estrutura vinculante, **com retaliação real** para quem não
 
 Guerra por procuração entre Imortais que não podem competir direto por um prêmio: peões mortais infundidos em segredo lutam uns contra os outros numa zona que expulsa Abertura ativa, e quem apostou mais controla mais peões e entra mais cedo. É como um grupo de mortais (ou um rank 6 disfarçado) participa de política imortal sem morrer nela — e como um Imortal "pobre" compete com um rico sem depender de força bruta.
 
+**[[🏯 Torres e Estradas de Prova]]**
+
+Role uma masmorra de andares em minutos: rounds crescentes por bloco, recompensa em 3 faixas, sala de tesouros, pilares temáticos com supressão de Caminho e a exceção local de PvP sem autodetonação. Traz também a **Estrada de Prova**, variante de dificuldade auto-escalada pra qualquer conteúdo — útil quando a mesa precisa desafiar personagens de poder muito diferente com a mesma peça (rank 7–9).
+
 ## Nível 4 — Só depois da Ascensão *(rank 6+)*
 
 **[[🏪 Céu Amarelo do Tesouro]]**
