@@ -267,6 +267,10 @@ Todas por diretiva direta do autor (fonte: `_Fontes/2026-08-30 — Feedback do a
 
 ---
 
+149. **Escala de tamanho da [[🗝️ Terra Abençoada]] reconferida — tabela mantida, agora com citação canônica.** Achado 4 da `🔍 Síntese — Fidelidade ao Romance` tinha ficado em aberto com confiança moderada, baseado só em dois exemplos concretos (Fang Yuan e Tai Bai Yun Sheng). Com a leitura integral já salva nos 18 digests, uma nova varredura achou o **grau formal de blessed land por área**, citado de forma consistente em quatro capítulos (609, 690, 939, 1027): Baixo (até 2.000 km²), Médio (2.700–4.000 km²), Alto (4.700–6.000 km²) e Super (6.700–13.000 km², exclusivo de Físico Extremo). Convertendo pela unidade do próprio romance (1 km² = 1.500 mu), essas faixas caem quase em cima das qualidades Comum/Boa/Excelente/Especial que a nota já usava — os dois exemplos antigos (Fang Yuan em grau Médio ≈ 5,25M mu, Tai Bai em grau Alto ≈ 7M mu) já caíam nas qualidades certas. **Nenhum número da tabela "Faixas de resultado" mudou** — a tabela era mais bem calibrada do que a confiança "moderada" original sugeria. O que mudou foi o veredito de canonicidade, de implícito pra **🔧 Adaptado** explícito com citação, e a nota ganhou uma 3ª coluna mapeando qualidade → grau do romance, mais uma citação sobre como o tamanho cresce depois da Ascensão (Marcas de Dao espaciais, Cap. 1027; anexação, que pode multiplicar o tamanho ~100× num arco, Cap. 1291/2243). Fecha a pendência do achado 4.
+
+---
+
 ## 🔔 Em aberto
 
 - [x] ~~Ranks 1–2 e rank 5 não foram simulados~~ — cobertos pela quinta rodada (ranks 1, 2, 3 e 5). Rank 4 segue sem simulação própria.

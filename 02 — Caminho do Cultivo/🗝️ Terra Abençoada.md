@@ -22,6 +22,8 @@ Não é sorteio nem tabela fixa por rank. Sai de uma conta com quatro entradas, 
 Tamanho (em milhões de mu) = Base de Aptidão + Qi Celestial + modificadores
 ```
 
+*(mu é a unidade de área que o próprio romance usa pra terra: 1 mu ≈ 666⅔ m², então 1 km² = 1.500 mu.)*
+
 ### 1. Base de Aptidão
 
 | Grau de Aptidão | Base |
@@ -56,13 +58,18 @@ Essa é a decisão de verdade: **tamanho, fertilidade ou segurança.** Uma terra
 
 ### Faixas de resultado
 
-| Tamanho final | Qualidade |
-|---|---|
-| menos de 1 milhão de mu | **Mesquinha** — mal sustenta os próprios Gu. Vergonha entre Imortais |
-| 1 a 3 milhões | **Comum** — o que a maioria dos Imortais de rank 6 tem |
-| 3,1 a 6 milhões | **Boa** — sustenta o dono e ainda sobra |
-| 6,1 a 10 milhões | **Excelente** — patamar de Imortal de destaque |
-| mais de 10 milhões | **Especial** — praticamente só quem tem [[🌠 Os Dez Físicos Extremos\|Físico Extremo]] (que ganha uma dessas **garantida**) ou quem investiu tudo em Qi Celestial e teve sorte |
+| Tamanho final | Qualidade | Grau no romance |
+|---|---|---|
+| menos de 1 milhão de mu | **Mesquinha** — mal sustenta os próprios Gu. Vergonha entre Imortais | abaixo de qualquer grau nomeado no texto |
+| 1 a 3 milhões | **Comum** — o que a maioria dos Imortais de rank 6 tem | Grau Baixo (até 2.000 km²) |
+| 3,1 a 6 milhões | **Boa** — sustenta o dono e ainda sobra | Grau Médio (2.700–4.000 km²) — ex.: Fang Yuan, ~5,25M mu (Cap. 633) |
+| 6,1 a 10 milhões | **Excelente** — patamar de Imortal de destaque | Grau Alto (4.700–6.000 km²) — ex.: Tai Bai Yun Sheng, ~7M mu (Cap. 609) |
+| mais de 10 milhões | **Especial** — praticamente só quem tem [[🌠 Os Dez Físicos Extremos\|Físico Extremo]] (que ganha uma dessas **garantida**) ou quem investiu tudo em Qi Celestial e teve sorte | Grau Super (6.700–13.000 km², teto documentado) — ex.: Hei Lou Lan (Cap. 690) |
+
+> [!info] Nota de canonicidade — escala reconferida em 2026-08-31
+> O romance nomeia formalmente **quatro graus de blessed land por área**, medidos na própria ascensão de rank 6: Baixo (até 2.000 km²), Médio (2.700–4.000 km²), Alto (4.700–6.000 km²) e Super (6.700–13.000 km², exclusivo de quem tem um [[🌠 Os Dez Físicos Extremos|Físico Extremo]]) — citados de forma consistente em quatro capítulos diferentes (609, 690, 939, 1027). Convertendo pela própria unidade do romance (1 km² = 1.500 mu), essas faixas caem quase em cima de Comum/Boa/Excelente/Especial acima; os dois únicos exemplos com número concreto na leitura (Fang Yuan em grau Médio, Tai Bai Yun Sheng em grau Alto) já caíam nas qualidades certas antes desta checagem.
+>
+> **Veredito: 🔧 Adaptado.** Os quatro graus e as faixas de área são canônicos; a conversão pra "milhões de mu", a subfaixa "Mesquinha" abaixo do Grau Baixo (o romance não nomeia nada aí — cobre a ascensão malsucedida) e a fórmula de geração por Aptidão/Porções são invenção do sistema, mas calibradas dentro do intervalo real, não às cegas. Isso fecha o **achado 4** da [[🔍 Síntese — Fidelidade ao Romance]], que tinha ficado como confiança moderada/pendência de vigilância só com dois pontos de dado — a releitura completa não achou motivo pra deslocar a tabela.
 
 ---
 
@@ -132,7 +139,7 @@ A Terra Abençoada é um corpo, e apanha. Calamidades mal-resolvidas, invasões,
 
 **Reparar** custa Pedras de Essência Imortal e tempo de reclusão: cerca de **50 Pedras Imortais e 3 meses internos por nível**, e não dá pra pular níveis (uma terra Dilacerada volta pra Ferida antes de voltar pra Rachada).
 
-O tamanho cresce depois conforme o rank sobe e conforme o Imortal investe recursos — não é fixo pro resto da vida, só muito difícil de mudar.
+O tamanho cresce depois conforme o rank sobe e conforme o Imortal investe recursos — não é fixo pro resto da vida, só muito difícil de mudar. *(🔧 Adaptado: no romance, o mecanismo real é acumular Marcas de Dao espaciais dentro da própria fenda — Cap. 1027 — e a anexação de outra Terra Abençoada, que pode multiplicar o tamanho em ordens de grandeza: a apertura soberana de Fang Yuan salta de ~335.000 km² pra ~33.500.000 km², cerca de 100×, num único arco de anexações e tribulações — Cap. 1291, 2243.)*
 
 ---
 

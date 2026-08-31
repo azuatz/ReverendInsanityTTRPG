@@ -412,3 +412,14 @@ no cálculo original e o fluxo atual (5×-40×, decisão 110). Proporções entr
 camadas preservadas. Preços do Céu Amarelo e Ração Imortal conferidos e
 mantidos — são referência de mercado, não produção. Pendência de "Em aberto"
 resolvida.
+
+## [2026-08-31] canon | Escala da Terra Abençoada reconferida (decisão 149)
+Achado 4 da `🔍 Síntese — Fidelidade ao Romance` (tamanho de Terra Abençoada,
+confiança moderada, só 2 exemplos) reaberto com os 18 digests já salvos.
+Achado o grau formal de blessed land por área, citado em 4 capítulos
+(609, 690, 939, 1027): Baixo/Médio/Alto/Super por km². Convertido pra mu
+(1 km² = 1.500 mu), bate quase em cima das qualidades Comum/Boa/Excelente/
+Especial que [[🗝️ Terra Abençoada]] já usava — nenhum número da tabela
+"Faixas de resultado" mudou. Nota ganhou 3ª coluna com o grau canônico e
+citação, definição inline de "mu", e citação sobre como o tamanho cresce
+(Marcas de Dao espaciais e anexação, Cap. 1027/1291/2243). Fecha o achado 4.
