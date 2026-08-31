@@ -1,0 +1,42 @@
+---
+tags:
+  - regra
+  - item
+  - indice
+aliases:
+  - Arsenal
+  - 05 — Arsenal
+escopo: sistema
+---
+
+# 🗡️ Arsenal
+
+Nota-mãe. **O que se compra, o que se acha e o que se deve.** Armas, materiais, mercados, heranças — e o favor devido, que neste sistema vale mais que dinheiro.
+
+---
+
+## Nível 1 — Você vai precisar já na sessão 1
+
+1. **[[🏪 O Mercado]]** — o que existe à venda nos ranks 1–5, com Disponibilidade, preços, leilão, Proveniência e as **4 vias de aquisição de Gu**. É a nota que responde *"posso comprar isso?"*, que a mesa pergunta toda sessão.
+2. **[[⚰️ Espólio]]** — **leia antes do primeiro inimigo morrer.** A regra é contraintuitiva: a vontade do dono **destrói** os Gu dele ao morrer. Se você não souber disto, vai distribuir tesouro errado na primeira luta. A nota traz as 3 formas de conseguir algo mesmo assim.
+
+## Nível 2 — O motor de arco mais reutilizável do vault
+
+- **[[📜 Manuais e Heranças]]** — o que uma Herança contém e as **4 amarras** que impedem que ela quebre a campanha.
+- **[[📜 Catálogo de Heranças]]** — **17 heranças prontas** em 3 camadas, com 7 quebra-cabeças (solução já escrita), Terras Abençoadas, testes de Espírito da Terra e uma armadilha. Se você precisa de um arco e não tem ideia, pegue uma daqui e o arco se escreve sozinho.
+
+## Nível 3 — Quando a mesa tiver política
+
+**[[🤝 O Débito]]**
+
+Favor devido como estrutura vinculante, **com retaliação real** para quem não paga. É como um personagem consegue o que a aptidão dele não permite — e uma das melhores fontes de conflito entre jogadores que este sistema tem. Liga direto com [[🌟 Aptidão e Abertura]].
+
+## Nível 4 — Só depois da Ascensão *(rank 6+)*
+
+**[[🏪 Céu Amarelo do Tesouro]]**
+
+O mercado imortal remoto: anonimato, balcão, leilão, monopólio e guerra de preços. **Não abra antes de alguém da mesa virar Imortal** — até lá é informação que não serve para nada.
+
+---
+
+Para itens que você inventar, use o [[Modelo — Item]]. Armas e materiais genéricos ficam aqui (`escopo: sistema`); a espada específica do vilão da sua campanha fica em [[🌍 Terras e Facções|07]] ou [[🌍 Lore de Vespéria|09]] (`escopo: campanha`).

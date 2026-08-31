@@ -1,0 +1,101 @@
+---
+tags:
+  - regra
+  - combate
+  - fechado
+aliases:
+  - Recursos e Dano
+escopo: sistema
+---
+
+# ❤️ Recursos e Dano
+
+## Os dois trilhos: Vitalidade e Alma
+
+Todo personagem tem **dois medidores de HP separados**:
+
+- **Vitalidade** — o corpo. Dano físico, dano de Gu de ataque comum, veneno, fogo.
+- **Alma** — a mente. Dano de Gu do Caminho da Alma, golpes mortais de sonho/ilusão, certas maldições.
+
+Os dois escalam pela tabela de M do rank **e pelo Grau de Densidade do estágio** (ver [[⚔️ Combate|Combate]] e [[🪜 Ranks e Estágios|Ranks e Estágios]]):
+
+```
+Vitalidade máxima = (18 + 3 × CON + 4 × Grau) × M do rank
+Alma máxima       = (12 + 2 × VON + 3 × Grau) × M do rank
+
+Grau = 0 (Inicial) · 1 (Médio) · 2 (Alto) · 3 (Pico)
+```
+
+> As bases foram calibradas por simulação contra o pool de dados — o porquê dos números está nas decisões 77–82 do [[🧭 Log de Decisões]]; a versão anterior, em [[_Arquivo/❤️ Recursos e Dano (v1 — VIT 12+3CON, sem estágio)|_Arquivo]].
+
+| CON | Vitalidade *(Inicial)* | Vitalidade *(Pico)* | Acertos de um Gu **d10** do seu rank |
+|---|---|---|---|
+| −1 | `15 × M` | `27 × M` | 2,7 |
+| **0** | **`18 × M`** | **`30 × M`** | **3,3** |
+| +2 | `24 × M` | `36 × M` | 4,4 |
+| +4 | `30 × M` | `42 × M` | 5,5 |
+
+**A calibragem, que sobreviveu à reforma:** mesmo com Constituição zero, você aguenta **cerca de três golpes** de um Gu d10 do próprio rank antes de cair — e isso **em qualquer estágio**, porque o dano e a carne crescem no mesmo compasso. Com um Gu de defesa decente, dobra.
+
+**A letalidade agora varia por Caminho**, e é essa a escala inteira do jogo:
+
+| Caminho do atacante | Acertos pra derrubar CON 0 |
+|---|---|
+| d6 — utilitário | **~5** |
+| d8 — moderado | **~4** |
+| d10 — dano alto | **~3,3** |
+| d12 — letalidade direta | **~2,8** |
+
+**Sem níveis de ferimento pra rastrear em combate.** Nada de tabela de penalidade por faixa de HP — é coisa demais pra lembrar no meio de uma cena. Os dois trilhos são só um número que desce. Fora zerar (ver abaixo), a ficha não aplica penalidade automática por estar "machucado" — é a mesa que decide o quanto isso pesa na narração.
+
+## Vitalidade zerada — Teste de Morte
+
+Zerar Vitalidade **não mata na hora**. O personagem cai, inconsciente, à beira da morte. No início de cada um dos turnos seguintes dele, role um **Teste de Morte**: `d20 sem bônus nenhum`.
+
+| Resultado | Efeito |
+|---|---|
+| 10 ou mais | Estabiliza — não piora neste turno, continua inconsciente |
+| 9 ou menos | Piora um degrau |
+| 1 natural | Piora dois degraus de uma vez |
+| 20 natural | Acorda com 1 de Vitalidade, ainda em perigo mas de pé |
+
+Três degraus de piora (por acúmulo de falhas) = morte. Um aliado pode estabilizar o personagem caído com uma ação dedicada perto dele (socorro, um Gu de cura, qualquer coisa que a cena aceite como cuidado real) — estabilizado, ele para de rolar Teste de Morte, mas continua inconsciente até tratamento de verdade ou descanso longo.
+
+**Falhar o Teste de Morte pelo menos uma vez** (mesmo que estabilize depois) deixa sequela — a escolha é da mesa, mas o padrão recomendado é **−1 permanente num atributo à escolha do jogador dentre os afetados pela cena**, ou **perder o estágio mais recente conquistado** (regride um estágio dentro do rank atual) — nunca os dois ao mesmo tempo por um único Teste de Morte falho. Um personagem que se aproximou da morte sai da cena mais fraco, mesmo sobrevivendo — é o preço de sobrevivente que o tom do jogo pede.
+
+## Descanso curto e longo
+
+Vitalidade e Verdadeira Essência recuperam pelo mesmo padrão simples:
+
+| Descanso | Recupera |
+|---|---|
+| **Curto** (uma pausa dentro da cena/sessão — minutos a algumas horas) | Metade do máximo de Vitalidade e de Essência |
+| **Longo** (descanso de verdade — durante a narrativa entre cenas, geralmente sono de uma noite) | Tudo — Vitalidade e Essência cheias de novo |
+
+Alma segue a mesma regra de descanso curto/longo, exceto quando a mesa decidir que um dano de Alma específico deixou sequela (algo permanente, tratado à parte, não por descanso).
+
+## Cura por Gu
+
+Gu de cura rola pool, igual a dano — mesmo M (ver [[⚔️ Combate|Combate]]):
+
+```
+Cura = M d8   (M = rank do Gu de cura)
+```
+
+O d8 é o padrão (decisão 14 do [[🧭 Log de Decisões]] — cerca de 25% da barra por ativação). Gu de cura excepcionais usam d10 ou d12; está na ficha de cada um no [[📖 Catálogo de Gu|Catálogo de Gu]]. **B não soma em cura** — Níveis de Dano não afetam cura.
+
+Níveis de Dano **não** afetam cura; o que afeta é um Gu de amplificação do Caminho da Água/Vida especificamente, que sobe o passo do Gu de cura da mesma forma.
+
+## 🩹 Ferimento
+
+Várias regras do sistema cobram "1 Ferimento" — Ativação Forçada, a Ascensão, o Retrocesso de Marca, o contragolpe de Golpe Matador, falha grave de refino. Isto é o que a palavra significa:
+
+> **Um Ferimento é −5% permanente na Vitalidade máxima e na Alma máxima.** Cumulativo. Não impõe penalidade em teste nenhum.
+
+Não é uma condição pra rastrear em combate, não tem tabela de faixa, não muda nada além dos dois números do topo da ficha — é coerente com a decisão de não ter níveis de ferimento (ver acima). É só um teto que desce e não volta sozinho.
+
+**Como se cura:** um Gu de cura de **rank 3 ou superior**, numa cena dedicada fora de combate (não vale no meio da luta), remove **1 Ferimento**. Fora isso, um arco inteiro de recuperação de verdade — reclusão, tratamento, um Gu específico caçado pra isso — remove todos.
+
+## Retrocesso (o contragolpe)
+
+Falhar num refino de Gu ou num Golpe Matador machuca de volta. O dano de retrocesso é `(soma dos ranks dos Gu envolvidos) × 2` em Vitalidade e `(soma dos ranks dos Gu envolvidos) × 1` em Alma — quanto mais ambicioso o combo, mais caro sai errar.

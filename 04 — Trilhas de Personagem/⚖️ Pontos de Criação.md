@@ -1,0 +1,108 @@
+---
+tags:
+  - regra
+  - personagem
+  - fechado
+aliases:
+  - Pontos de Criação
+escopo: sistema
+---
+
+# ⚖️ Pontos de Criação
+
+**Existe um orçamento só: os 12 pontos de atributo.** Não há moeda separada, não há loja de partida, e não se compra Gu na criação.
+
+> ### Duas regras que definem tudo
+>
+> **1. Todo personagem começa sem nenhum Gu.** O primeiro Gu é conquistado **em jogo**, na primeira ou segunda sessão. Ele não é uma escolha de ficha — é uma cena, e o Gu que sair dela vai ser lembrado a campanha inteira. É a coisa mais importante que a criação de personagem deste sistema faz de diferente.
+>
+> **2. Pontos não viram pedra, item nem favor.** Ponto de criação é caro demais pra trocar por dinheiro. Ele compra atributo, e compra Aptidão. Só.
+
+---
+
+## Os 12 pontos
+
+Todo personagem tem **12 pontos**, gastos em atributos (ver [[💪 Atributos|Atributos]]) — 1 ponto por degrau até +3, 2 pontos pra ir de +3 a +4, e descer um atributo pra −1 devolve 1 ponto.
+
+A **Aptidão** entra e sai desse mesmo bolso. Nada mais mexe nele.
+
+## Aptidão: vender ou comprar
+
+A Aptidão foi rolada (`1d80+20`, ver [[🌟 Aptidão e Abertura|Aptidão e Abertura]]). Depois de rolar, o jogador pode negociar o número:
+
+| Ajuste | Efeito no orçamento |
+|---|---|
+| **Baixar 5%** | **+1 ponto** |
+| **Baixar 10%** | **+2 pontos** |
+| **Subir 5%** | **−2 pontos** |
+| **Subir 10%** | **−4 pontos** |
+| **Ir a 100% e tomar um dos Dez Físicos Extremos** | **−8 pontos**, e a Dívida do Destino — *ou de graça, se for o seu Buff de Lore* |
+
+Baixar rende menos do que subir custa, de propósito: Aptidão é o teto da vida inteira do personagem, e o sistema não quer que seja barato comprá-la.
+
+**Piso e teto:** a Aptidão não pode ser negociada pra baixo de **20%** nem pra cima de **99%** — 100% só existe através do pacote dos Dez Físicos Extremos.
+
+### O pacote dos Dez Físicos Extremos
+
+Custa **8 dos seus 12 pontos**, sobrando 4 pra distribuir entre seis atributos — **a menos que o físico seja o seu Buff de Lore**, e aí ele sai de graça (ver a seção seguinte). Em troca:
+
+- Aptidão 100%, sem teto natural de rank.
+- Regeneração de Essência acelerada (10% do tanque por rodada, até o teto de 100–200), cultivo passivo mais rápido, vantagem em Quebra de Paredes, e **+2 Níveis de Dano** nos Gu do Caminho correspondente.
+- **A contagem regressiva:** a Pressão da Abertura sobe a cada 6 meses; teste de CON contra `10 + Pressão` ou −5% de Vitalidade máxima permanente. Só subir de rank zera a Pressão (e cura metade da perda).
+- Uma **Dívida do Destino** — um gancho de enredo que a mesa cobra quando quiser.
+
+Comprado com pontos, isso é deliberadamente brutal. Um Físico Extremo com 4 pontos de atributo é um personagem frágil, desequilibrado e apressado, carregando algo grande demais pro corpo dele. É exatamente a figura que o cenário produz — e quase nenhuma delas morre de velhice.
+
+**Concedido como Buff de Lore, o personagem fica com os 12 pontos inteiros** — mas a Pressão da Abertura, a Dívida do Destino e a exigência do Gu Imortal correspondente **continuam valendo**. O preço do físico nunca foram os pontos; os pontos eram só a parcela que dava pra cobrar na ficha.
+
+---
+
+## 🎁 Buffs de Lore
+
+**Cada jogador tem direito a um — um só, pra campanha inteira.** Um Buff de Lore é uma exceção que o mestre concede porque *o personagem é assim na história*, não porque ele pagou por isso. Não sai dos 12 pontos, não pode ser vendido de volta por pontos, e não muda depois que a campanha começa.
+
+**As quatro regras:**
+
+1. **Um por jogador, declarado na criação.** Ninguém ganha um segundo depois, por arco bem jogado ou por barganha. O que se conquista em jogo são Gu, Marcas e aliados — não mais exceções.
+2. **Ele dobra uma regra; não inventa um número maior.** Um Buff de Lore muda *quais* regras se aplicam a você (este Caminho conta como um só; este físico não custa pontos; você já nasceu sabendo isto). Ele **não** dá bônus solto de acerto, dano, Vitalidade ou RD — isso é trabalho de Gu, e Gu se conquista em jogo.
+3. **Ele vem com um preço pago em ficção.** Toda exceção tem um fio preso nela: uma dívida, um inimigo, um segredo, uma condição que pode ser tirada de você. O mestre escreve esse fio junto com o buff, e o jogador aceita antes de começar.
+4. **Os quatro pesam parecido.** Se um jogador ganha um dos Dez Físicos Extremos de graça, os outros três não podem ficar com "meu personagem é canhoto". Sugestões calibradas em [[🎲 A Mesa — Personagens dos Jogadores|A Mesa]].
+
+**Pro mestre, o teste é simples:** o buff dá uma *identidade* ou dá uma *vantagem numérica*? "Meus cinco elementos contam como um Caminho só" é identidade — ele rola exatamente como todo mundo, só com outra paleta. "+2 em tudo" é vantagem numérica, e isso não é Buff de Lore, é um item que o jogador não conquistou.
+
+## Origem: pequeno ajuste, e só em alguns casos
+
+A [[🌱 Origens|Origem]] é principalmente lore. Só duas delas mexem no orçamento, e pouco:
+
+| Origem                  | Ajuste       | O que ela dá de verdade                                                     |
+| ----------------------- | ------------ | --------------------------------------------------------------------------- |
+| Ramo Principal do Clã   | **0**        | Acesso ao depósito e às aulas do clã — e uma obrigação pendente             |
+| Ramo Secundário / Servo | **+1 ponto** | Ninguém olha de perto até ser tarde demais                                  |
+| Discípulo de Seita      | **0**        | Transmissão de conhecimento melhor — e uma lealdade que compete com o grupo |
+| Caminho Demoníaco       | **0**        | Acesso cedo a métodos proibidos, e o risco que vem junto                    |
+| Errante / Forasteiro    | **+1 ponto** | Liberdade total — que é outro nome pra estar sozinho                        |
+
+O ponto extra das duas Origens "de baixo" existe porque elas começam sem rede de apoio nenhuma — não é vantagem, é compensação. **Todas as cinco Origens são igualmente jogáveis**, e a escolha deve ser por conceito, não por matemática.
+
+---
+
+## O passo a passo, em ordem
+
+1. **Aptidão** — já rolada. Decida se vai negociar (e quanto isso custa ou rende).
+2. **Origem** — escolha por conceito. Aplique o ajuste, se houver.
+3. **Atributos** — distribua o que sobrou dos 12 pontos.
+4. **Calcule os derivados** — Vitalidade, Alma, Essência, Defesa, limite de Gu.
+5. **Nenhum Gu.** Você entra em jogo com as mãos vazias. O primeiro Gu é a primeira conquista.
+6. **Vínculo** — uma frase ligando seu personagem a pelo menos outro jogador.
+
+Ver [[📋 Guia de Criação de Ficha|Guia de Criação de Ficha]] pro passo a passo detalhado.
+
+## Por que começar sem Gu
+
+Três razões, e todas se pagam na primeira sessão:
+
+- **O primeiro Gu vira história.** "Eu comprei o Gu do Luar na criação" é uma linha de planilha. "Eu segui aquele verme por dois dias e o refinei escondido" é o começo de um personagem.
+- **A mesa aprende o sistema com um Gu só.** Quatro jogadores estreando com três Gu cada é confusão garantida.
+- **Dá ao mestre a primeira alavanca.** Quem entrega o primeiro Gu — o clã, um mestre, um cadáver, um roubo — já define a primeira dívida do personagem.
+
+O mestre deve garantir que **todo personagem tenha o primeiro Gu até o fim da sessão 2**, e que os primeiros Gu do grupo cubram papéis diferentes. Ver [[🎬 Como Criar Suas Sessões|Como Criar Suas Sessões]].
