@@ -126,8 +126,7 @@ Pendências novas no Log: simular o motor pós-103–112 e reauditar a economia
 imortal sob a Dilatação Temporal.
 
 ## [2026-08-30] ingest | Sistema de morte dos Gu (decisão 129)
-Pedido do autor: morte de Gu também dentro de Golpes Matadores. Criada [[💀 A Morte
-dos Gu]] — escada Saudável→Esgotado→Ferido→Morto, mirar Gu manifestado (−4),
+Pedido do autor: morte de Gu também dentro de Golpes Matadores. Criada [[💀 A Morte dos Gu]] — escada Saudável→Esgotado→Ferido→Morto, mirar Gu manifestado (−4),
 escudos que estouram contra 2/3+ ranks, Sobrecarga dos apoios mesmo no sucesso, e a
 Queima deliberada (matar 1 apoio por +2 Níveis / vantagem / anular a Brecha).
 Ligada em Combate, Golpes Matadores, Gu (nota-mãe), Mapa e Dicionário. Numeração
