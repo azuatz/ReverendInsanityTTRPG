@@ -85,11 +85,13 @@ O molde mais útil do conjunto, porque é o que o cenário produz o tempo todo: 
 | **Acerto** | `d20 + rank + 7` |
 | **Ações** | **2 por rodada** |
 | **Ataque** | Gu de ataque do próprio rank — **`M d8`** |
-| **Ação Especial** | Gu do **Caminho da Alma**: **`M d12`**, **ignora RD por completo**, e aplica Lentidão 2 |
+| **Ação Especial** | Gu do **próprio Caminho**: **+4 no acerto**, **`M d10`**, e aplica Lentidão 2 |
 
-**A especial de Alma é o que faz o molde funcionar.** A `RD 1 × M` que quase todo personagem carrega come cerca de 40% de um golpe comum; dano de Alma passa inteiro, e ainda bate num trilho que quase ninguém defende. Um Mestre de Gu com 2 ações e um golpe que ignora armadura ameaça de verdade com **metade da Vitalidade de um Chefe**.
+**A Ação Especial é o que separa o molde de um saco de pancada** — e a versão acima, medida, é a mais perigosa quando aparece sozinha: o +4 quase garante o acerto (e com ele a Lentidão), e o dano soma na mesma Vitalidade que o resto da cena já está batendo. Um Mestre de Gu com 2 ações e uma especial ameaça de verdade com **metade da Vitalidade de um Chefe**.
 
-**Como variar sem refazer a ficha:** troque o Caminho da especial. Vento vira reposicionamento que quebra o cerco do grupo; Força vira um melee de `M d10`; Sabedoria vira o inimigo que age primeiro toda rodada. A estrutura (`21 × M`, 2 ações, uma especial) não muda. **Isto não é só variação estética — é a ferramenta de balanceamento da tabela de composição de cena acima:** o limite de "no máximo 1 (Padrão) ou 2 (Difícil) Mestres com especial de Alma" se implementa trocando a especial dos demais por essa mesma troca de Caminho, sem tocar na regra de Alma em si nem refazer a ficha do molde.
+**A exceção rara — o cultivador do Caminho da Alma.** Inimigo com poder de Alma é raro: a maioria dos Mestres de Gu inimigos é de outros Caminhos. Ao montar a cena, **role 1d6 por Mestre de Gu — só em 6 ele é um cultivador de Alma de verdade**, e a Ação Especial dele vira **`M d12`, ignora RD por completo e mira a barra de Alma** (mantendo a Lentidão 2). Sozinho, esse golpe abre uma barra que nada mais na cena vai tocar; **várias especiais de Alma juntas, empilhadas na mesma barra, são um alfa-strike** — por isso "todos de Alma" é ferramenta de Clímax, nunca composição casual (ver a tabela de composição de cena mais abaixo).
+
+**Como variar sem refazer a ficha:** troque o Caminho da especial. Vento vira reposicionamento que quebra o cerco do grupo; Força vira o melee de `M d10` do molde; Sabedoria vira o inimigo que age primeiro toda rodada. A estrutura (`21 × M`, 2 ações, uma especial) não muda — e a tabela de composição de cena mais abaixo já assume especiais de Caminhos variados, com o cultivador de Alma entrando só pela exceção rolada de 1d6.
 
 **Ele também tem os limites de um cultivador**, e usá-los é o que torna a luta interessante: a Essência dele acaba, os Gu dele podem ser roubados depois, e ele tem um Golpe Matador com **Brecha** que o grupo pode ter descoberto antes da cena.
 
@@ -139,7 +141,7 @@ Um único inimigo contra um grupo perde a ação por turno na maioria dos sistem
 | 4 | 8 | 48 | 96 | **168** | 168 | 504 | **384** |
 | 5 | 16 | 96 | 192 | **336** | 336 | 1.008 | **768** |
 
-A Horda usa `6 × M × nº de membros` — a coluna acima é o caso de 8. O Mestre de Gu tem a mesma Vitalidade de um Elite, e a diferença entre os dois está nas **duas ações** e na especial de Alma.
+A Horda usa `6 × M × nº de membros` — a coluna acima é o caso de 8. O Mestre de Gu tem a mesma Vitalidade de um Elite, e a diferença entre os dois está nas **duas ações** e na Ação Especial própria.
 
 ## Como montar uma cena de combate
 
@@ -148,16 +150,19 @@ Os números entre parênteses são a **vitória medida do grupo** numa mesa de 4
 | Tipo de cena | **rank 1** | **rank 2** | **rank 3** | **rank 5** |
 |---|---|---|---|---|
 | **Fácil** | Horda de 8 *(100%)* | Horda de 8 *(100%)* | Horda de 8 *(100%)* | Horda de 8 *(100%)* |
-| **Padrão** | 3 Mestres de Gu — no máx. **1** com especial de Alma, os outros 2 com especial de outro Caminho *(75%)* | idem *(81%)* | idem *(89%)* | idem *(99%)* |
-| **Padrão pesado** | 2 Mestres — no máx. **1** com especial de Alma — + Horda de 8 *(77%)* | idem *(68%)* | idem *(71%)* | idem *(88%)* |
-| **Difícil** | 3 Mestres (1 com Alma) + 1 Guerreiro *(42%)* | idem *(40%)* | idem *(52%)* | 4 Mestres — no máx. **2** com especial de Alma *(46%)* |
-| **Clímax** | 1 Elite especial + 3 Mestres *(68%)*✝, ou Chefe + Guerreiro *(4%)* 🔴 | idem, Chefe + Guerreiro *(57%)* | 1 Elite especial + 3 Mestres *(44%)*✝, ou Chefe + Guerreiro *(86%)* | 1 Elite especial + 3 Mestres *(46%)*✝, ou Chefe + Guerreiro *(87%)* |
+| **Padrão** | 3 Mestres de Gu *(62%)* ⚠️ | idem *(77%)* | idem *(85%)* | idem *(99%)* |
+| **Padrão pesado** | 2 Mestres + Horda de 8 *(71%)* | idem *(64%)* | idem *(63%)* | idem *(85%)* |
+| **Difícil** | 3 Mestres + 1 Guerreiro *(30%)* ⚠️ | idem *(35%)* ⚠️ | idem *(46%)* | 4 Mestres *(38%)* |
+| **Clímax** | 1 Elite especial + 3 Mestres *(68%)*✝, ou Chefe + Guerreiro *(3%)* 🔴 | idem, Chefe + Guerreiro *(54%)* | 1 Elite especial + 3 Mestres *(44%)*✝, ou Chefe + Guerreiro *(86%)* | 1 Elite especial + 3 Mestres *(46%)*✝, ou Chefe + Guerreiro *(90%)* |
 
-*(✝ não retestado na quinta rodada — número da terceira rodada, pode estar igualmente desatualizado.)*
+*(✝ não retestado desde a terceira rodada — e sob a regra de Alma rara os 3 Mestres dessa variante também mudam de especial, então o número está duplamente desatualizado.)*
 
-**"Padrão pesado" também usa o limite de Alma** (1 dos 2 Mestres, o outro com especial física) — números medidos: 77% · 68% · 71% · 88% (ranks 1, 2, 3, 5). Histórico completo da correção em [[🎯 Simulação de Combate — Resultados#🏁 Sexta rodada — validação completa pós-decisão 133 (2026-08-31)|a sexta rodada]].
+**Os números acima já assumem a regra de Alma rara** (décima rodada de simulação): todo Mestre de Gu com a Ação Especial do próprio Caminho, e o cultivador de Alma entrando só pela exceção rolada de 1d6 (ver o molde acima). Contraintuitivo mas medido: **tirar o Alma do padrão deixou as cenas um pouco MAIS difíceis, não mais fáceis** (2-10 pontos) — uma especial de Alma isolada gasta o golpe numa barra que nada mais ataca, enquanto a especial física soma no foco de fogo e aplica Lentidão com mais frequência. Histórico completo em [[🎯 Simulação de Combate — Resultados#🔇 Décima rodada — Alma rara entre inimigos (2026-08-31)|a décima rodada]].
 
-**Clímax é o único nível onde "todos os Mestres com especial de Alma" é intencional.** É lá, e só lá, que o alfa-strike total contra as quatro barras de Alma do grupo deve acontecer — a promessa do Caminho da Alma ("ignora RD por completo", [[👻 Caminho da Alma]]) continua absoluta contra um só atacante de Alma ou numa cena Clímax; fora dela, o limite acima vale. Ver [[#🧑‍🦱 Mestre de Gu — o inimigo humano]] mais abaixo — "trocar o Caminho da especial" é a ferramenta usada pra montar os Mestres "extras" de Padrão e Difícil acima.
+> [!warning] ⚠️ Três células fora da faixa histórica — pendente de decisão do autor
+> Sob Alma rara, **Padrão no rank 1 (62%)** cai abaixo da faixa-alvo de 75-99%, e **Difícil nos ranks 1-2 (30%/35%)** abaixo da de ~40-52% — e o penhasco de ações (decisão 137) não deixa nenhuma composição intermediária com as peças existentes: no Padrão rank 1 a opção seguinte (2 Mestres + 1 Guerreiro) salta pra 92%, e no Difícil rank 1 tirar o Guerreiro salta pra 62%. As opções medidas estão em "Em aberto" no [[🧭 Log de Decisões]]; até lá, os números publicados acima são a realidade medida das composições como escritas.
+
+**Clímax é o único nível onde uma cena inteira de cultivadores de Alma é intencional.** É lá, e só lá, que o alfa-strike total contra as quatro barras de Alma do grupo deve acontecer — a promessa do Caminho da Alma ("ignora RD por completo", [[👻 Caminho da Alma]]) continua absoluta; a regra de Alma rara muda a **frequência** do inimigo de Alma, não o poder dele. Fora do Clímax, cultivador de Alma inimigo é a exceção de 1d6 do [[#🧑‍🦱 Mestre de Gu — o inimigo humano|Mestre de Gu]] mais acima.
 
 **"Fácil" é cena de abertura, não metade das cenas.** Uma Horda de 8 termina com os quatro personagens de pé em qualquer rank, e é isso que ela deve fazer: abrir uma sessão, gastar essência antes da cena que importa, ou mostrar que o grupo ficou mais forte. **Se metade das cenas for Fácil, a mesa cansa** — o padrão real de uma sessão é uma Fácil, uma ou duas Padrão, e uma Difícil, com o Clímax guardado para o fim do arco.
 
@@ -175,7 +180,7 @@ Os números entre parênteses são a **vitória medida do grupo** numa mesa de 4
 
 ### O contador que importa de verdade: ações inimigas por rodada
 
-**Conte ponderado: uma ação com Ação Especial ou dano de Alma vale mais que duas comuns** — dano de Alma ignora RD e Defesa de armadura por completo ([[👻 Caminho da Alma]]), então várias especiais de Alma disparando na mesma rodada é um alfa-strike quase simultâneo contra as quatro barras de Alma do grupo. É por isso que "Difícil" limita quantos Mestres usam Alma (tabela de composição acima) — mas o limite sozinho não basta: acima de 8 ações/rodada, o volume bruto já é o problema, com ou sem Alma envolvida. Histórico completo de como essa curva foi medida em [[🎯 Simulação de Combate — Resultados#🆕 Quinta rodada — motor v2 pós-decisão 133 (2026-08-30)|a quinta rodada]].
+**Conte ponderado: uma ação com Ação Especial ou dano de Alma vale mais que duas comuns** — dano de Alma ignora RD e Defesa de armadura por completo ([[👻 Caminho da Alma]]), então várias especiais de Alma disparando na mesma rodada é um alfa-strike quase simultâneo contra as quatro barras de Alma do grupo. É por isso que cultivador de Alma inimigo é raro fora do Clímax (a exceção de 1d6 do Mestre de Gu) — mas Alma não é o único perigo: acima de 8 ações/rodada, o volume bruto já é o problema, com ou sem Alma envolvida. Histórico completo de como essa curva foi medida em [[🎯 Simulação de Combate — Resultados#🆕 Quinta rodada — motor v2 pós-decisão 133 (2026-08-30)|a quinta rodada]].
 
 | Ações ponderadas / rodada | O que a mesa sente (grupo de 4, rank igual) |
 |---|---|

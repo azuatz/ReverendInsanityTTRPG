@@ -117,7 +117,7 @@ Todo monstro vira um dos moldes de [[⚔️ Ameaças Genéricas por Rank]], esca
 | **Goblins, kobolds, ratos gigantes** | **Horda** (nunca Recrutas soltos) | 1 | `6 × M × nº de membros` numa barra só. Um ataque por PJ de pé. Recruta solto é decorativo — ele morre antes de agir |
 | **Bandidos, soldados** | Horda ou Guerreiro | 1–2 | Guerreiro `12 × M`, com **uma Ação Especial por cena** |
 | **Orc, gnoll, hobgoblin** | Guerreiro | 1–2 | Ação Especial = a investida que aplica Lentidão |
-| **Feiticeiro inimigo, cultista, cavaleiro rival** | **Mestre de Gu** | igual ao grupo | **O molde mais útil do conjunto.** `21 × M`, **2 ações por rodada**, e uma especial de Alma (`M d12`) que **ignora RD por completo**. É a ameaça padrão de uma cena entre pessoas |
+| **Feiticeiro inimigo, cultista, cavaleiro rival** | **Mestre de Gu** | igual ao grupo | **O molde mais útil do conjunto.** `21 × M`, **2 ações por rodada**, e uma Ação Especial do próprio Caminho (+4 no acerto, `M d10`, Lentidão). Em 1d6 = 6 ele é um cultivador de Alma: a especial vira `M d12` e **ignora RD por completo**. É a ameaça padrão de uma cena entre pessoas |
 | **Ogro, urso-coruja, javali gigante** | Elite | 2 | `21 × M`, RD `2 × M`, um Golpe Matador próprio |
 | **Troll** | Elite | 3 | Dê a ele um Gu de regeneração sustentado — e a Brecha é fogo, exatamente como no original |
 | **Fantasma, aparição, espectro** | Mestre de Gu com tudo no Caminho da Alma | 2–4 | Ataca a barra de **Alma**, que quase ninguém defende. É a razão do Caminho da Alma existir |

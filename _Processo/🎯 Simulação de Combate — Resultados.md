@@ -11,6 +11,8 @@ escopo: processo
 # 🎯 Simulação de Combate — Resultados
 
 > [!important] Rodada mais recente
+> A **décima rodada** ([[#🔇 Décima rodada — Alma rara entre inimigos (2026-08-31)|2026-08-31]]) aplica a diretiva do autor "inimigos muito raramente terão poder de Alma": o molde Mestre de Gu troca o default da especial de Alma pela física, com o cultivador de Alma virando exceção rolada (1d6 = 6). Achado principal, **contraintuitivo e medido**: Alma rara torna as cenas 2-10pp MAIS difíceis, não mais fáceis — uma especial de Alma isolada desperdiça o golpe numa barra que nada mais ataca; os limites das decisões 135/137 já tinham removido a pilha que fazia Alma matar. Tabela de composição atualizada pros números do mix rolado; três células fora da faixa histórica (Padrão r1, Difícil r1-2) escaladas ao autor.
+>
 > A **oitava rodada** ([[#🏰 Oitava rodada — bateria de grupo nos ranks imortais (2026-08-31)|2026-08-31]]) fecha a última lacuna de cobertura: a primeira bateria de **grupo × cena nos ranks imortais (6-9)**, com dois perfis de densidade de Marca por rank. Achado principal: **a escada de dificuldade das composições mortais colapsa acima do rank 5** — quase toda cena vira ≥93% de vitória do grupo, e a dificuldade *cai* conforme o rank sobe. O dial de dificuldade imortal é o **diferencial de nível de domínio** (ΔB), não a composição — registrado como pendência nomeada pro autor, sem mexer nas tabelas.
 >
 > A **sétima rodada** ([[#🔁 Sétima rodada — cura real remedida (2026-08-31)|2026-08-31]]) remede a bateria completa da sexta rodada trocando a heurística de cura (`M d8`, sem limite) pelo Gu real da ficha do Lee (**Gu do Broto Restaurador**, decisão 155: `M d6`, uma vez por cena) — fechando a pendência de "Em aberto" que a decisão 155 tinha deixado. **Nenhum número da sexta rodada precisou mudar de leitura**: as diferenças ficam dentro do ruído de Monte Carlo já aceito no vault (a maior é de ~6pp, a maioria 1-4pp), sem nenhuma composição cruzando de "ganhável" para "perda na maioria das vezes" ou vice-versa. A sexta rodada permanece como registro de referência do motor completo (Golpe Matador Coletivo, controle, terreno); a sétima só substitui a peça de cura.
@@ -503,6 +505,92 @@ O resultado líquido da regra como escrita, solo: **pressão por rodada baixa e 
 
 1. Se a intenção é que 8 feras **assustem** um PJ isolado, a regra precisa de um piso (ex.: mínimo de 2-3 ataques/rodada contra 1-2 alvos); se a intenção é "horda é perigo de volume, e volume se dilui contra menos alvos", a regra atual entrega exatamente isso — é escolha de design, não bug.
 2. As 13-19 rodadas médias das vitórias solo contra a Horda agravam o item já aberto da decisão 160 (cenas 2-4× mais longas que o alvo de F&M) — solo, o pior caso encosta no teto de 20 rodadas.
+
+---
+
+## 🔇 Décima rodada — Alma rara entre inimigos *(2026-08-31)*
+
+Diretiva do autor, verbatim: *"os inimigos muito raramente terão poder de alma, a maior parte dos inimigos são normais ou de outros caminhos — refaça isso, provavelmente precisará refazer as simulações e rebalancear"*. Isso invalida o default do molde Mestre de Gu (especial de Alma de fábrica) e, com ele, toda a calibração das decisões 135/137/154 — os limites "máx. 1 de 3 com Alma" etc. só existiam **porque** Alma era o default. Script: [[simulacoes/2026-08-31-decima-rodada-alma-rara.py|_Processo/simulacoes/2026-08-31-decima-rodada-alma-rara.py]] — cópia do motor da sétima rodada, nada do motor reescrito; só a bateria muda. Ranks 1-5 × 5 cenas × **três mixes de especial**, 3.000 iterações/célula, semente `20260830`:
+
+- **A — mix atual** (baseline): os limites publicados (Padrão 1 de 3 · Padrão pesado 1 de 2 · Difícil 1 de 3 nos ranks 1-4, 2 de 4 no rank 5). *Nota de fidelidade:* o script da sétima rodada ainda modelava Padrão pesado com os **dois** Mestres de Alma (comentário herdado da sexta, anterior à correção da decisão 154); o mix A segue a tabela publicada (1 de 2), então a linha de Padrão pesado difere um pouco da sétima — as demais linhas conferem com ela em ≤0,5pp.
+- **B — Alma rara ao pé da letra**: ZERO especiais de Alma fora do Clímax (que, na composição da bateria, é Chefe + Guerreiro — sem Mestre nenhum, idêntico nos três mixes).
+- **C — Alma rara com exceção rolada**: cada Mestre de Gu rola **1d6 na montagem da cena — em 6, é um cultivador de Alma de verdade** (o mesmo gesto de rolagem do loadout de bagagem do molde).
+
+### As três tabelas *(vitória do grupo · sobreviventes médios de 4)*
+
+**Mix A — atual (baseline):**
+
+| Cena | rank 1 | rank 2 | rank 3 | rank 4 | rank 5 |
+|---|---|---|---|---|---|
+| **Fácil** | 100% · 4,00 | 100% · 4,00 | 100% · 3,99 | 100% · 3,98 | 100% · 3,99 |
+| **Padrão** | 67,5% · 1,79 | 79,3% · 1,87 | 88,4% · 2,01 | 95,2% · 2,32 | 99,1% · 2,69 |
+| **Padrão pesado** | 74,6% · 1,97 | 67,8% · 1,59 | 65,6% · 1,33 | 70,7% · 1,46 | 87,9% · 2,09 |
+| **Difícil** | 34,7% · 0,85 | 37,4% · 0,77 | 51,2% · 0,92 | 66,8% · 1,24 | 48,6% · 0,80 |
+| **Clímax** | 3,4% · 0,08 | 55,2% · 1,33 | 85,1% · 1,93 | 74,9% · 1,52 | 89,3% · 2,04 |
+
+**Mix B — Alma rara (zero fora do Clímax):**
+
+| Cena | rank 1 | rank 2 | rank 3 | rank 4 | rank 5 |
+|---|---|---|---|---|---|
+| **Fácil** | 100% · 4,00 | 100% · 4,00 | 100% · 3,99 | 100% · 3,98 | 100% · 3,99 |
+| **Padrão** | 60,6% · 1,58 | 72,6% · 1,60 | 83,9% · 1,77 | 91,6% · 2,08 | 98,2% · 2,49 |
+| **Padrão pesado** | 69,5% · 1,69 | 59,3% · 1,28 | 59,0% · 1,11 | 64,1% · 1,21 | 82,1% · 1,80 |
+| **Difícil** | 28,4% · 0,69 | 29,1% · 0,57 | 40,8% · 0,68 | 56,5% · 0,97 | 31,9% · 0,48 |
+| **Clímax** | 2,7% · 0,06 | 54,5% · 1,31 | 87,4% · 2,00 | 73,2% · 1,47 | 88,8% · 2,02 |
+
+**Mix C — Alma rara com exceção rolada (1d6 = 6 por Mestre):**
+
+| Cena | rank 1 | rank 2 | rank 3 | rank 4 | rank 5 |
+|---|---|---|---|---|---|
+| **Fácil** | 100% · 4,00 | 100% · 4,00 | 100% · 3,99 | 100% · 3,98 | 100% · 3,99 |
+| **Padrão** | 62,3% · 1,65 | 76,7% · 1,75 | 84,5% · 1,87 | 93,7% · 2,21 | 98,8% · 2,61 |
+| **Padrão pesado** | 71,2% · 1,78 | 64,3% · 1,42 | 63,3% · 1,25 | 66,7% · 1,30 | 84,7% · 1,92 |
+| **Difícil** | 29,8% · 0,73 | 35,1% · 0,70 | 45,5% · 0,79 | 60,9% · 1,08 | 38,2% · 0,61 |
+| **Clímax** | 3,2% · 0,07 | 53,5% · 1,28 | 85,6% · 1,93 | 74,3% · 1,48 | 90,3% · 2,06 |
+
+*(Clímax é a mesma composição nos três mixes — as diferenças da linha são só ruído de reamostragem, a mesma ressalva de semente documentada na sétima rodada.)*
+
+### 🔴 Achado principal — a direção INVERTE: Alma rara torna as cenas mais difíceis, não mais fáceis
+
+A expectativa (a da própria diretiva: "provavelmente precisará rebalancear" *pra baixo*) era que remover o dano que ignora RD deixasse tudo mais fácil. **Medido: o contrário.** Mix B custa de 1 a 17pp de vitória do grupo em relação ao baseline (Padrão −1 a −7 · Padrão pesado −5 a −9 · Difícil −6 a −17); mix C, a metade disso (−0,3 a −10). O mecanismo, visível na estrutura do motor e coerente com todo o histórico:
+
+1. **Uma especial de Alma isolada desperdiça o próprio dano.** O PJ cai quando **uma** das duas barras zera — e todo o resto do dano da cena bate na Vitalidade. O golpe de Alma (`M d12`, sem RD) abre ~35% de uma barra de Alma que **nada mais na cena vai tocar**: quase nunca completa um abate. Já a especial física (+4 no acerto, `M d10`) soma no mesmo foco de fogo que os ataques comuns — cada ponto dela conta.
+2. **O +4 da especial física quase garante a Lentidão.** As duas especiais aplicam Lentidão 2, mas a física acerta mais — e "tirar a ação de um personagem vale mais que tirar Vitalidade dele" (a tese da própria nota de Ameaças, confirmada de novo aqui).
+3. **Alma só é letal em pilha** — o alfa-strike de várias especiais na mesma barra, medido na quinta rodada (Difícil todo-Alma: 10-30%). Os limites das decisões 135/137 já tinham removido exatamente essa pilha; o que sobrava do default de Alma era a versão fraca. Corroboração interna: no mix A desta rodada, corrigir Padrão pesado de 2-Alma pra 1-Alma (decisão 154, aplicada agora ao script) **derrubou** a linha em 3-6pp em relação à sétima rodada — trocar Alma por física endurece a cena.
+
+A promessa da ficção continua de pé onde ela importa: o dano de Alma segue sendo o único que **não derrete com o rank** (oitava rodada: é a única ameaça inimiga que ainda arranha no rank 9), e a pilha de Alma segue sendo a ferramenta de Clímax. O que muda é a frequência — e o preço medido dela.
+
+### Recalibração — o que foi medido antes de propor
+
+Faixas-alvo históricas: Fácil ≈ 100% · Padrão 75-99% · Difícil ~40-52% · Clímax 56-87%. Sob o mix C: Fácil ✓ em tudo; Padrão ✓ nos ranks 2-5, **rank 1 fora (62,3%)**; Difícil ✓ no rank 3 (45,5%), **ranks 1-2 fora (29,8%/35,1%)** e rank 5 na beirada (38,2%); Clímax inalterado. As compensações candidatas, medidas nas duas direções:
+
+**Pra cima (a hipótese original — mais inimigos):** todas despencam no penhasco de ações da decisão 137, com ou sem Alma:
+
+| Compensação (mix C) | rank 1 | rank 2 | rank 3 | rank 4 | rank 5 |
+|---|---|---|---|---|---|
+| Padrão + 1 Guerreiro (7 ações) | 28,7% | 32,0% | 45,7% | 61,4% | 82,8% |
+| Difícil + 1 Guerreiro (8-9 ações) | 9,1% | 6,1% | 10,6% | 18,1% | 9,0% |
+| Difícil com 4º Mestre no lugar do Guerreiro (8-10 ações) | 7,1% | 6,1% | 8,6% | 15,2% | 0,6% |
+
+*(Consistência interna de graça: "Padrão + 1 Guerreiro" é literalmente a composição Difícil dos ranks 1-4 — 28,7% vs 29,8% na célula Difícil, 1,1pp de ruído de reamostragem.)*
+
+**Pra baixo (aliviar as células que caíram):**
+
+| Compensação (mix C) | Resultado | Veredito |
+|---|---|---|
+| Difícil ranks 1-4 com o Guerreiro **sem** Ação Especial | 31,4% · 35,3% · 48,5% · 64,5% | **Não move a agulha** (±2pp do baseline — dentro do ruído) |
+| Difícil rank 5: 3 Mestres + 2 Guerreiros em vez de 4 Mestres | 40,5% | Cai na beirada da faixa, mas é **empate estatístico** com os 38,2% dos 4 Mestres (+2,3pp ≈ 1,8σ) |
+| Padrão rank 1: 2 Mestres + 1 Guerreiro | **92,0%** (mix B) / 91,8% (mix C) | **Cai DENTRO da faixa 75-99** — mas salta por cima do buraco: nada existe entre 62% e 92% |
+
+**A leitura consolidada:** o penhasco de ações governa tudo — cada Mestre a mais ou a menos move a célula em 25-30pp, então **as faixas-alvo de Padrão rank 1 e Difícil ranks 1-2 não têm composição alcançável com as peças existentes** (Difícil rank 1: as opções são 30% ou 62%, nada no meio; Padrão rank 1: 62% ou 92%). Isso não é um efeito novo do Alma rara — é o penhasco da decisão 137 exposto de novo, agora sem a maquiagem de 5-7pp que a especial de Alma "fraca" dava às células baixas.
+
+### Por que o mix C foi o aplicado
+
+O C é a leitura mais fiel da diretiva: "muito raramente" não é "nunca" — e o molde já usa exatamente esse gesto no loadout (`role 1d6 → em 5-6, ele sabe uma receita`), então "role 1d6 por Mestre → em 6, é um cultivador de Alma" adiciona **zero regra nova**, só mais uma linha na rolagem que o mestre já faz. O custo de calibração é nulo: B e C diferem em no máximo 6pp, sempre na mesma direção, e o C ainda preserva a surpresa ocasional do golpe que ignora RD — que é o que mantém a promessa do [[👻 Caminho da Alma]] visível na mesa fora do Clímax.
+
+### O que mudou / o que fica pro autor
+
+**Aplicado** (era ordem direta, não escolha): o molde Mestre de Gu de [[⚔️ Ameaças Genéricas por Rank]] muda o default da Ação Especial de Alma pra especial física do próprio Caminho, com o cultivador de Alma virando exceção rolada (1d6 = 6); a tabela de composição recebe os números do mix C e perde a linguagem de limite de Alma das decisões 135/137/154 (obsoleta — sem Alma como default, não há o que limitar); [[🎓 Guia do Mestre Iniciante]] (Parte 7) e [[🏰 Conversão Medieval]] atualizados na mesma linha. **Pro autor** ("Em aberto" no Log): as três células fora da faixa (Padrão r1 62% · Difícil r1-2 30/35%) e o menu medido acima — aceitar os números novos como a régua real de rank baixo, adotar Padrão escalado por rank (2M+1G no rank 1, 92%), ou reabrir o desenho da cena Difícil de rank baixo, que o penhasco de ações deixou sem alvo alcançável.
 
 ---
 

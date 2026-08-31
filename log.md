@@ -617,3 +617,17 @@ nova de [[🎯 Simulação de Combate — Resultados]].
 
 ## [2026-08-31] ingest | Régua ΔB imortal e Colapso Espiritual (decisão 205)
 Duas das três marteladas do autor sobre o menu de decisões. [[⚔️ Ameaças Genéricas por Rank]]: callout declarando que a tabela de composição mortal não vale no rank 6+ — cena imortal se dosa por diferencial de domínio (ΔB 0 = passeio · +1 ≈ 20% · +3 ≈ 6%), números da oitava rodada virando régua oficial; opção (c) da pendência da decisão 202. [[❤️ Recursos e Dano]]: Colapso Espiritual pra Alma zerada — inconsciente + Teste de Morte espiritual, coma tratável em vez de morte no terceiro degrau, sequela obrigatória (Contaminação ou −1 VON), morte real só na segunda queda sem tratar. Termo no Dicionário. A terceira martelada (Alma rara entre inimigos + recalibração) é a décima rodada de simulação.
+
+## [2026-08-31] simulação | Décima rodada — Alma rara entre inimigos (decisão 206)
+A terceira martelada do autor ("inimigos muito raramente terão poder de alma").
+Bateria de três mixes em [[simulacoes/2026-08-31-decima-rodada-alma-rara.py]]
+(ranks 1-5 × 5 cenas × mix atual / zero Alma / exceção rolada 1d6, 3.000 it.,
+semente 20260830). Achado invertido: Alma rara deixa as cenas 2-17pp MAIS
+difíceis (especial de Alma isolada desperdiça o golpe numa barra que nada mais
+ataca; a pilha letal já tinha sido removida pelas decisões 135/137). Aplicado o
+mix C: molde do Mestre de Gu com especial física por default e cultivador de
+Alma em 1d6=6, tabela de composição de [[⚔️ Ameaças Genéricas por Rank]] com os
+números novos e sem a linguagem de limite de Alma (obsoleta); Guia do Mestre
+Iniciante e Conversão Medieval alinhados. Padrão r1 (62%) e Difícil r1-2
+(30/35%) ficam abaixo das faixas sem composição alcançável — fork em "Em
+aberto". Seção nova em [[🎯 Simulação de Combate — Resultados]].

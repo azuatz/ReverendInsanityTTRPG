@@ -374,18 +374,18 @@ Sem ideia e a sessão é hoje? Role `1d6` em cada coluna:
 
 ### As composições prontas (mesa de 4, mesmo rank do grupo)
 
-| Cena | Composição *(regra de Alma entre parênteses)* | Vitória medida (rank 1 → 5) |
+| Cena | Composição | Vitória medida (rank 1 → 5) |
 |---|---|---|
 | **Fácil** | Horda de 8 | 100% |
-| **Padrão** | 3 Mestres de Gu *(no máx. **1** com especial de Alma)* | 75% → 99% |
-| **Padrão pesado** | 2 Mestres *(máx. 1 com Alma)* + Horda de 8 | 68–88% |
-| **Difícil** | ranks 1–4: 3 Mestres (1 com Alma) + 1 Guerreiro · rank 5+: 4 Mestres (2 com Alma) | 40–52% |
-| **Clímax** | 1 Elite especial + 3 Mestres — **ou** Chefe + Guerreiro, **só do rank 2 em diante** | 44–87% |
+| **Padrão** | 3 Mestres de Gu | 62% → 99% |
+| **Padrão pesado** | 2 Mestres + Horda de 8 | 63–85% |
+| **Difícil** | ranks 1–4: 3 Mestres + 1 Guerreiro · rank 5+: 4 Mestres | 30–46% |
+| **Clímax** | 1 Elite especial + 3 Mestres — **ou** Chefe + Guerreiro, **só do rank 2 em diante** | 44–90% |
 
 > [!danger] Chefe contra grupo de rank 1: não faça
-> Medido: **4% de vitória** — não é clímax, é execução. No rank 1, o Clímax é o Elite especial + 3 Mestres (68%). O Chefe entra na mesa a partir do rank 2.
+> Medido: **3% de vitória** — não é clímax, é execução. No rank 1, o Clímax é o Elite especial + 3 Mestres (68%). O Chefe entra na mesa a partir do rank 2.
 
-Com 3 jogadores, tire uma unidade de cada linha. O limite de "quantos Mestres usam especial de Alma" **faz parte dos números** — ignorá-lo derruba a vitória do grupo em 20-50 pontos. Fichas completas e a tabela por rank em [[⚔️ Ameaças Genéricas por Rank]].
+Com 3 jogadores, tire uma unidade de cada linha. **Inimigo com poder de Alma é exceção, não padrão**: ao montar Mestres de Gu, role 1d6 por cabeça — só em **6** ele é um cultivador de Alma de verdade (a especial dele ignora RD e mira a barra de Alma; regra no molde de [[⚔️ Ameaças Genéricas por Rank]]). Empilhar vários de Alma **de propósito** é ferramenta de Clímax, e só de Clímax: as especiais somadas nas quatro barras de Alma derrubam a vitória do grupo em dezenas de pontos. Fichas completas e a tabela por rank em [[⚔️ Ameaças Genéricas por Rank]].
 
 > **"Fácil" é cena de abertura, não metade das cenas.** O padrão real de uma sessão é uma Fácil, uma ou duas Padrão, e uma Difícil — com o Clímax guardado pro fim do arco.
 
