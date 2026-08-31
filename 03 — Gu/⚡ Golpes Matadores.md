@@ -156,6 +156,9 @@ Vários cultivadores montando um golpe único, cada um contribuindo com os Gu de
 
 Essa é a peça que faz um grupo pequeno parecer maior que a soma das partes — e a razão mecânica pela qual vale a pena o inimigo separar o grupo antes de lutar. Um mestre que entende isso constrói encontros em torno disso.
 
+> [!warning] Na fase mortal, é golpe de desespero — não abertura de cena
+> A sexta rodada de simulação mediu a CD 22 do teste de conjuração coletivo (4 participantes) em ~15% de sucesso antes do rank 6. **Isso é decisão de mesa, não bug**: o Golpe Matador Coletivo nasce como a ferramenta que vira um combate perdido — algo que se monta com o grupo já ferido, os apoios já posicionados, contra um alvo que não vai se mexer a tempo de quebrar a formação — não como jogada de rodada 1 contra um encontro comum. Ensine a mesa a usá-lo assim: **jogada de última rodada, não de primeira.**
+
 ## Golpe Matador de rank 5 — o portão da imortalidade
 
 Um Golpe Matador montado com Gu núcleo de rank 5, **usado com sucesso contra um oponente de rank 5 ou superior**, é um dos dois portões que permitem tentar a [[♾️ A Ascensão Imortal|Ascensão Imortal]] — a rota de quem não conseguiu refinar um Gu Imortal.

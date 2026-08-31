@@ -36,6 +36,9 @@ Num Gu de defesa, um Nível vale +1 na RD base antes do M; num Gu de controle, +
 
 **A regra do chão que não existe.** Gu de Terra e Madeira que exijam *solo natural* (a maioria) simplesmente **não ativam** sobre pedra trabalhada, assoalho, telhado, convés ou no ar — não é penalidade de Nível, é falha total. **Uma perseguição pelos telhados de uma cidade grande é um deserto para dois dos cinco elementos**, e um mestre que quer apertar o jogador de Terra não precisa de inimigo novo, precisa de arquitetura.
 
+> [!info] O dial de terreno é forte de propósito — decisão do autor
+> A decisão 75 fechou terreno como "não é alavanca de dificuldade", medindo ~4 pontos percentuais de variação numa cena simples de rank 3. A sexta rodada de simulação, já com a composição atual de "Difícil" e o motor pós-decisão 133, mediu ~20 pontos percentuais de variação nessa mesma cena — o dial ficou mais forte à medida que o resto do sistema ficou mais letal. **Aceito como intencional**, não como desvio a amortecer: é exatamente o que dá ao Caminho dos Cinco Elementos o peso tático que a via de avanço promete ("chegar no matchup certo" acima) e que o Caminho da Força ou da Lua não têm que gerenciar. A mesa que achar 20pp forte demais pode declarar o terreno **antes** da iniciativa, dando ao grupo a chance de reagir — não escondê-lo é a válvula de escape, não mudar o número.
+
 ---
 
 ## ⚙️ O ciclo — as duas regras que definem o Caminho
