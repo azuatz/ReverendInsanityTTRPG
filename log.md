@@ -287,5 +287,4 @@ A correção de Alma (decisão anterior) resolveu "Padrão" mas só melhorou
 provando que a causa real era volume de ações (penhasco entre 6 e 8
 ações/rodada: 90%→13%, não uma rampa). Autor escolheu, entre 3 opções: composição
 escalada por rank, igual o Chefe já faz. Ranks 1-4: 3 Mestres (1 Alma) + 1
-Guerreiro; rank 5+: 4 Mestres (2 Alma). Aplicado em [[⚔️ Ameaças Genéricas por
-Rank]] e [[🎯 Simulação de Combate — Resultados]].
+Guerreiro; rank 5+: 4 Mestres (2 Alma). Aplicado em [[⚔️ Ameaças Genéricas por Rank]] e [[🎯 Simulação de Combate — Resultados]].
