@@ -50,11 +50,22 @@ Engolir essência pronta em vez de só condensar a sua: cada dia de cultivo **al
 
 | Seu rank | Pedras por dia de cultivo acelerado | Custo de um estágio inteiro acelerado *(Grau B)* |
 |---|---|---|
-| **1** | **1** | ~22 pedras |
-| **2** | **2** | ~86 |
-| **3** | **4** | ~343 |
-| **4** | **8** | ~1.372 |
-| **5** | **16** | ~5.488 |
+| **1** | **3** | ~65 pedras |
+| **2** | **6** | ~258 |
+| **3** | **12** | ~1.026 |
+| **4** | **24** | ~4.116 |
+| **5** | **48** | ~16.464 |
+
+> [!note] Calibrado pela fonte primária *(2026-08-30)*
+> O rank 1 tem citação direta e inequívoca: cap. 34, Fang Yuan (rank 1, Grau C)
+> — *"After a night of cultivation, I had expended three primeval stones"*,
+> explicitamente descrito como o uso de pedras "in order to pursue faster
+> cultivation speed" — é literalmente o cultivo acelerado desta nota, com o
+> número exato: **3 pedras/noite**, não 1. Corroborado pelo cap. 64 (Fang Yuan
+> já rank 2): "cultivating needs and living expenditures" somam ~5 pedras/dia,
+> com alimentação de 4 Gu consumindo "mais de 2" disso — sobrando ~3 pra
+> cultivo+vida, na mesma ordem de grandeza. A tabela foi recalibrada com o
+> rank 1 no valor canônico exato e a progressão ×2 preservada dali pra cima.
 
 O teto é ×2 — despejar mais pedras no mesmo dia não ajuda: a Abertura satura. (E lembre: **pedra não repõe essência em combate** — [[💠 Economia das Pedras Primordiais]].)
 

@@ -222,6 +222,10 @@ Todas por diretiva direta do autor (fonte: `_Fontes/2026-08-30 — Feedback do a
 
 ---
 
+136. **Consumo de pedras do cultivo acelerado triplicou — estava abaixo do cânone.** O autor apontou que 1 pedra/dia no rank 1 parecia baixo demais. Confirmado na fonte primária com citação direta e inequívoca: cap. 34, Fang Yuan rank 1 Grau C — *"After a night of cultivation, I had expended three primeval stones"*, explicitamente descrito como o uso de pedras para acelerar o cultivo, exatamente o mecanismo desta nota. Corroborado pelo cap. 64 (já rank 2): "cultivating needs and living expenditures" somam ~5 pedras/dia, com alimentação de 4 Gu consumindo "mais de 2" — sobrando ~3 pra cultivo+vida, mesma ordem de grandeza. [[🧘 Ritmo de Cultivo e Cultivo Fechado]] recalibrada: 3/6/12/24/48 pedras por dia (rank 1–5), progressão ×2 preservada, coluna de custo de estágio recalculada. Nota criada e mantida pela sessão paralela; edição coordenada com ela antes de aplicar.
+
+---
+
 ## 🔔 Em aberto
 
 - [ ] **Decisão pendente: o alfa-strike de dano de Alma em cenas com 3-4 Mestres de Gu.** A quinta rodada de simulação (decisão 135) mediu que "Padrão" (3 Mestres) caiu de ~98% pra 68–96% de vitória do grupo, e "Difícil" (4 Mestres) caiu de 56–76% pra 10–30% — mais letal que a maioria dos Chefes — porque o dano de Alma sempre ignorou RD (regra antiga) e nunca tinha sido medido direito contra vários ataques simultâneos. Opções, nenhuma aplicada: (a) reduzir o nº de Mestres de Gu nas composições de "Padrão"/"Difícil"; (b) dar aos PJs algum acesso mais barato a RD de Alma (hoje só existe via [[👻 Caminho da Alma|Gu do Casaco de Alma]], rank 3); (c) aceitar que "Difícil" hoje se comporta como Clímax e recalibrar o rótulo/ritmo de sessão em vez do encontro. Ver o aviso já deixado em [[⚔️ Ameaças Genéricas por Rank]].

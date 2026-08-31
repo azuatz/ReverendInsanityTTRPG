@@ -247,3 +247,10 @@ decisão do autor: dano de Alma sempre ignorou RD, mas nunca foi medido direito
 contra vários Mestres de Gu simultâneos — "Padrão" e "Difícil" são hoje muito
 mais letais do que a tabela de composição documentava. Números corrigidos com
 aviso explícito na mesma nota; a resposta de design fica pendente no Log.
+
+## [2026-08-30] canon | Consumo de pedras do cultivo acelerado corrigido (decisão 136)
+Achado do autor confirmado no cânone: citação direta do cap. 34 (Fang Yuan rank 1,
+"three primeval stones" por noite de cultivo acelerado) mostra que o vault estava
+3× abaixo. [[🧘 Ritmo de Cultivo e Cultivo Fechado]] recalibrada para 3/6/12/24/48
+(era 1/2/4/8/16), coluna de custo de estágio recalculada. Coordenado com a sessão
+paralela antes e depois da edição (nota é território dela).
