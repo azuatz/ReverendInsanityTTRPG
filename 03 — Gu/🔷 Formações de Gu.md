@@ -17,9 +17,14 @@ Três coisas nesta nota, em ordem de rank:
 - **Domínios de Campo de Batalha** — imortal, rank 6+. Marcas de Dao desdobradas no espaço durante um combate.
 - **Casa-Gu tripulada** — uma estrutura que várias pessoas operam juntas. **Uma por campanha.**
 
+> [!example] Um exemplo, do início ao fim
+> As três seções abaixo vivem em escalas diferentes (grau mortal, rank Imortal, tripulação) e raramente aparecem juntas na mesma cena — mas para não deixar cada subsistema abstrato, este exemplo segue **o mesmo Mestre de Gu genérico** ao longo da carreira: monta uma Formação Terrestre para defender o próprio clã ainda mortal, décadas depois abre um Domínio de Campo de Batalha ao virar Imortal, e por fim comanda a Casa-Gu que o clã dele possui. Cada seção retoma o fio num bloco **"Exemplo, parte N"**.
+
 ---
 
 # 🏯 Formações Terrestres
+
+*Subsistema 1 de 3 — mortal, rank 3+. Termina em "Formação e Supressão Regional", logo antes de Domínios de Campo de Batalha abaixo.*
 
 Uma matriz montada com Gu ancorados no solo de um território: **Gu-núcleo** (que definem o que a formação faz) mais **Gu de apoio** (que a sustentam e a escondem). É a infraestrutura defensiva de um clã, a armadilha de uma seita e o cofre de um Mestre de Gu.
 
@@ -35,6 +40,9 @@ Uma matriz montada com Gu ancorados no solo de um território: **Gu-núcleo** (q
 | **IV** | Território | 4 | 16 | 10 km | 3 semanas |
 
 **A montagem é ininterrupta.** Interromper (combate no local, um núcleo movido, o fundador ferido) perde metade dos Gu de apoio já assentados — eles morrem — e o tempo recomeça do zero. É por isso que ninguém monta uma formação de grau III em território disputado sem alguém segurando o perímetro.
+
+> [!example]+ Exemplo, parte 1 — montando a Formação Terrestre
+> Ainda mortal, rank 3, o Mestre de Gu decide proteger o pátio principal do clã. Escolhe **Grau II — Recinto**: 2 Gu-núcleo + 4 Gu de apoio, 200 m de raio, 6 horas de montagem ininterrupta. Um núcleo vira **Defesa de área**, o outro **Detecção** — juntos, a formação blinda quem está dentro (RD `2×M`) e avisa o fundador de quem se aproxima. Manutenção diária: `(2+4)² × 5 = 180` de essência, ~5 Pedras Primordiais/dia, pagas por um veio de essência natural que corre sob o pátio.
 
 **Cada Gu-núcleo escolhe uma função** da tabela abaixo, e a formação faz todas as funções dos núcleos que tiver. Uma formação de grau III com três núcleos pode ser Detecção + Supressão + Armadilha, ou três núcleos de Defesa empilhados (e aí a RD não empilha — vale a regra de [[⚔️ Combate|Combate]]: a maior mais metade da segunda).
 
@@ -126,6 +134,8 @@ Uma formação montada **fora da região de refino** dos Gu que a compõem opera
 
 # 🌐 Domínios de Campo de Batalha
 
+*Subsistema 2 de 3 — Imortal, rank 6+. Termina em "Como o alvo rompe", logo antes de Casa-Gu tripulada abaixo.*
+
 A versão imortal: em vez de ancorar Gu no solo ao longo de semanas, o Imortal **desdobra as próprias Marcas de Dao no espaço** durante o combate. O resultado não é uma parede — é uma região do mundo temporariamente reescrita, onde as leis do Caminho dele valem mais que as leis de fora.
 
 > Um Domínio não mata ninguém. Ele **garante que a luta aconteça e que ninguém saia dela.** É a razão pela qual Imortais matam Imortais e o mundo não fica sabendo.
@@ -174,6 +184,9 @@ Duração  = (Marcas do Caminho ÷ 2.000) rodadas, mínimo 5, máximo 20
 
 O Domínio fecha antes se a Essência Imortal acabar. Segurar além do tanque custa **1 Ferimento por rodada**, e o Imortal escolhe rodada a rodada se paga.
 
+> [!example]+ Exemplo, parte 2 — abrindo o Domínio de Campo de Batalha
+> Décadas depois, o mesmo Mestre de Gu já é Imortal de rank 6, com nível de domínio **Mestre** (10.000 Marcas) no próprio Caminho. Num duelo contra outro Imortal, abre o Domínio: sela 100 Marcas (1%, o mínimo) + gasta 100 de Essência Imortal pra erguê-lo, e paga 50 EI por rodada de sustento, mais 45/rodada de Manutenção (o Domínio conta como 3 Gu sustentados). O Domínio cobre 100 m por 5 rodadas — o bastante pra garantir que o duelo aconteça sem interrupção externa e sem que o oponente fuja antes da hora.
+
 ## O que ele bloqueia — e o que não bloqueia
 
 | Coisa | Dentro do Domínio |
@@ -201,6 +214,8 @@ O Domínio fecha antes se a Essência Imortal acabar. Segurar além do tanque cu
 ---
 
 # 🚢 Casa-Gu tripulada
+
+*Subsistema 3 de 3 — qualquer rank, refinada como estrutura própria. Uma por campanha.*
 
 Uma estrutura refinada — barco, carruagem, fortaleza móvel, besta oca — que **não funciona sozinha**. Ela tem três estações, e o que ela consegue fazer depende de quantas estão ocupadas por gente que sabe operá-las.
 
@@ -230,6 +245,9 @@ Rank operante = rank da Casa − (número de estações vazias)
 | 0 | — | **Objeto inerte.** Não se move, não atira, não defende |
 
 O rank operante vale pras **três** estações ao mesmo tempo, não só pras vazias. Uma Casa de rank 5 com duas estações ocupadas atira como rank 4 — o pool cai de **16 dados para 8**, e a RD e a Vitalidade dela caem junto. **A máquina inteira desanda junta**, e é isso que torna tirar um tripulante de cena uma jogada tática de verdade contra o grupo.
+
+> [!example]+ Exemplo, parte 3 — comandando a Casa-Gu do clã
+> Nessa altura da campanha, o clã do mesmo Mestre de Gu tem a única Casa-Gu da mesa: um barco de guerra de rank 5. Com as três estações ocupadas por discípulos, ela opera em rank pleno (`M=16`): a estação de Ataque dispara o pool cheio, a de Defesa dá RD `3×16 = 48`. Um dos discípulos cai em combate e a estação de Movimento fica vazia — rank operante cai pra 4 (`M=8`): o pool de Ataque cai de 16 dados pra 8, a RD e a Vitalidade caem junto, e a Casa não consegue mais tentar Fuga. A máquina inteira desanda com um só tripulante a menos.
 
 ## Quem tripula e o que paga
 
