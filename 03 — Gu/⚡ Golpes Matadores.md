@@ -162,17 +162,19 @@ Um Golpe Matador montado com Gu núcleo de rank 5, **usado com sucesso contra um
 
 Isso torna "desenvolver o meu Golpe Matador de rank 5" um objetivo de campanha declarado, não um detalhe tático. Ver [[📖 Catálogo de Gu|Catálogo de Gu]] pra exemplos prontos.
 
-## O contragolpe (backlash)
-
-Forçar um combo assim tem custo pro próprio corpo do cultivador — não é grátis nem sem risco pra quem executa. Depois de um Golpe Matador bem-sucedido, o personagem sofre um Ferimento ou fica com a Vontade reduzida até descansar; a maioria dos cultivadores guarda o golpe pra uma única vez por combate importante, não pra repetir à vontade.
-
 ## Golpes Matadores e o Caminho
 
 Depois da [[♾️ A Ascensão Imortal|Ascensão Imortal]], um Golpe Matador tende a refletir o Caminho do cultivador — um Caminho de Veneno monta combos de debilitação progressiva, um de Ilusão monta combos que terminam antes do alvo perceber que o combate começou. Antes da Ascensão, um Golpe Matador é só o que o jogador conseguiu montar com os Gu que tinha — e é justamente esse padrão repetido, sessão após sessão, que sinaliza qual Caminho o personagem está trilhando sem saber.
 
-## Como criar um pra um personagem (jogador ou NPC)
+## 🛠️ Como montar um, passo a passo (jogador ou mestre)
 
-1. Escolha o Gu núcleo — o que ele faz e qual rank.
-2. Escolha 1 a 3 Gu de apoio que preparam o terreno pro núcleo acertar.
-3. Descreva a sequência: o que precisa acontecer, em que ordem, pra o combo funcionar.
-4. Defina o contragolpe: o que o próprio cultivador paga depois.
+Seis passos, na ordem — cada um alimenta o seguinte:
+
+1. **Escolha o núcleo.** Um Gu que você já tem, refinado. O rank dele é a base de tudo que vem depois.
+2. **Escolha os apoios**, até o [[🪜 Ranks e Estágios|Teto de Combo]] do seu estágio menos um (Inicial 1 · Médio 2 · Alto 3 · Pico 4 — o núcleo ocupa a vaga que falta). Cada apoio precisa **fazer alguma coisa de verdade**: imobilizar, cegar, atrasar, esconder a preparação, furar defesa. Empilhar Gu de ataque não conta.
+3. **Descreva a sequência** — o que ativa primeiro, o que depende do quê, e o que o alvo veria se estivesse prestando atenção. É essa descrição que vira a cena na mesa.
+4. **Escreva a Brecha.** Obrigatória, sem exceção (decisão 32): a condição concreta em que este golpe específico falha ou não se aplica. Sem Brecha, o golpe não está pronto — ver [[#🕳️ A Brecha — todo golpe tem uma, e ela é escrita|a seção da Brecha]] pra exemplos do que conta.
+5. **Calcule o custo**: `(soma dos custos de ativação dos Gu do combo) × (nº de Gu no combo)`, **×2 se híbrido**. É esse número que decide se o golpe cabe no seu tanque — ver [[#O que um Golpe Matador custa|acima]].
+6. **Registre na ficha.** Ocupa uma vaga de `AST + 1`. A partir daqui ele é **fixo**: reaproveitar o mesmo golpe registrado dá **−4** no Teste de Conjuração (é treinado); improvisar um combo novo na hora dá **+4** (é a primeira vez).
+
+**Para um NPC**, os passos são os mesmos — só que o mestre escreve a Brecha primeiro, não por último: é ela que os jogadores vão caçar, então ela precisa ser descobrível em jogo (uma pista, um padrão, um comportamento), nunca uma condição que só existe na cabeça do mestre.

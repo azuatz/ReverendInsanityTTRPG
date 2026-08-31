@@ -214,6 +214,10 @@ Todas por diretiva direta do autor (fonte: `_Fontes/2026-08-30 — Feedback do a
 
 ---
 
+134. **O Ritual do Refino formaliza as tags 🔨Refino do Catálogo, e o guia de Golpe Matador foi reescrito.** Pedido do autor por um sistema de criação de receita/Gu escalando por rank e raridade, e por um "montar Golpe Matador" estruturado. Em vez de inventar uma segunda camada, formalizei o que já existia disperso: o [[📖 Catálogo de Gu]] já marca cada Gu com uma condição de refino (`Local`/`Sazonal`/`Sacrifício`/`Receita`/`Assistido`) sem regra geral por trás. [[🧩 Refino e Precificação]] ganhou a tabela "quantas condições esperar por rank" (0 no rank 1–2, crescendo até 2+ obrigatórias em Gu Imortal, sempre incluindo o Espírito da Terra como `Assistido`), calibrada por dois exemplos canônicos: o Gu de Qi de Força (rank 3) com ">20 ingredientes, >30 passos" e o Gu de Transformação de Forma (Imortal) com refino de "três dias e três noites". [[⚡ Golpes Matadores]] ganhou um guia de 6 passos (núcleo → apoios até o Teto de Combo → sequência → Brecha obrigatória → custo → registro), substituindo o guia antigo de 4 passos que nem mencionava Brecha; removida também uma seção de contragolpe desatualizada que duplicava, com números vagos, a Retaliação de Essência já detalhada em outra seção da mesma nota.
+
+---
+
 ## 🔔 Em aberto
 
 - [ ] **Ranks 1–2 e rank 5 não foram simulados** — a auditoria cobriu só o rank 3. No rank 1 quase ninguém tem Gu; no rank 5 os Golpes Matadores dominam. Ver [[🎯 Simulação de Combate — Resultados]].

@@ -51,6 +51,21 @@ Acumule N sucessos antes de 2 falhas
 
 > Isso vale pra elevar um Gu bruto (Refino único) ou pra completar uma fusão cuja receita você já tem. **Fusão sem receita não roda** — a única exceção universal é a Regra de Linhagem (ver [[📜 Livro de Receitas de Gu]]); quem não tem a receita do Gu-alvo primeiro [[#🧠 Deduzir uma Receita|deduz]] ou acha ela no mundo (decisão 123).
 
+### 🔨 O Ritual — quantas condições o refino exige
+
+O Catálogo já marca em cada Gu uma tag **🔨Refino** com a condição concreta que aquele refino específico cobra — `Local` (um lugar preciso: geleira, forja, veio de jade), `Sazonal` (uma janela de tempo: tempestade, lua cheia, solstício), `Sacrifício` (o refinador paga algo do próprio corpo além de essência), `Receita` (só funciona seguindo a receita à risca) ou `Assistido` (exige outra pessoa ou criatura no processo). **Esta seção é a regra por trás dessas tags** — quantas condições esperar, dado o rank e o quanto o Gu foge do comum:
+
+| Rank do Gu-alvo | Condições esperadas |
+|---|---|
+| 1–2 | **Nenhuma**, na maioria. Um em cada cinco ou seis carrega uma só |
+| 3–4 | **Uma condição**, quase sempre — a maioria dos Gu de Corpo e utilitários cai aqui |
+| 5 | **Uma ou duas**, e é onde `Sacrifício` aparece com mais frequência — o preço físico começa a valer a pena narrar |
+| Gu Imortal (6+) | **Sempre pelo menos duas**: o Espírito da Terra participando conta como uma `Assistido` obrigatória (decisão 38), mais no mínimo uma segunda — em geral `Sazonal` ou `Sacrifício` numa escala maior (dias seguidos, não uma cena) |
+
+**Isto é canônico e mensurável**, não estética: o Gu de Qi de Força (rank 3, refino reverso) exige *"mais de 20 ingredientes, mais de 30 passos"* — a nota do romance sobre ele é explícita quanto a complexidade excede o padrão do próprio rank; o Gu de Transformação de Forma (Imortal) leva **três dias e três noites** de refino sanguíneo corporal contínuo. Um Gu assim tem **uma condição a mais** que a tabela acima sugere pro rank dele — é o sinal de que aquela receita é rara mesmo dentro do rank, e o mestre pode cobrar por isso: tempo de história maior, ingredientes mais difíceis de achar, ou uma CD +2 no teste estendido.
+
+**Na prática:** ao criar uma receita nova (por Dedução ou de próprio punho), role ou escolha o número de condições pela tabela, depois escolha quais das cinco categorias fazem sentido pro Gu — é a mesma pergunta que o Catálogo já responde pra cada entrada existente, só que agora com régua.
+
 ### Quando o refino falha
 
 Acumular 2 falhas encerra o refino. Role `1d6` pra gravidade:

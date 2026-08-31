@@ -227,3 +227,10 @@ duplamente inatingível. Cânone mostra o oposto — Fang Yuan é rank 6 com
 Grão-Mestre em dois Caminhos ao mesmo tempo, não é anomalia única. Decisão 133:
 gênio pobre agora empilha até 2 feitos de compreensão. Propagado a
 [[☯️ Marcas de Dao]] e [[🔷 Formações de Gu]]. Pendente de simulação.
+
+## [2026-08-30] ingest | Ritual do Refino + guia de Golpe Matador reescrito (decisão 134)
+Formalizada a escala de condições de refino por rank/raridade em
+[[🧩 Refino e Precificação]], reaproveitando as tags 🔨Refino que o Catálogo já
+usava sem regra geral por trás. [[⚡ Golpes Matadores]] ganhou guia de montagem
+em 6 passos (era 4, sem Brecha); removida seção de contragolpe obsoleta que
+duplicava a Retaliação de Essência com números antigos.
