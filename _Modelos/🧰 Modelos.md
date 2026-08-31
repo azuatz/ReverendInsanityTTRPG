@@ -31,7 +31,12 @@ Não leia os sete. Você vai encontrá-los nesta ordem natural:
 
 - [[Modelo — Sessão]] — o registro do que aconteceu. Parece burocracia e não é: numa campanha longa, ninguém lembra quem devia favor a quem seis meses depois. Cinco a dez linhas bastam.
 
-### 3. Quando você for inventar coisas
+### 3. Conforme a campanha avança (blocos do privado de cada jogador)
+
+- [[Modelo — Caderno de Receitas]] — o registro das receitas de Gu que o personagem **já** conquistou, com estado (testada / não testada / cópia) e procedência. Cada jogador cola no chat privado dele no Discord; entregue junto com a primeira receita.
+- [[Modelo — Fenda Imortal]] — a ficha de gerenciamento da Terra Abençoada de um PJ que ascendeu: terra, tempo, ecologia, produção, refino, gente e cicatrizes de tribulação. **Segure até a primeira Ascensão** — antes disso é surpresa. Ambos já estão prontos pra colar como Mensagens 9–11 do [[🎲 Mão do Jogador — Pacote Discord|Pacote Discord]].
+
+### 4. Quando você for inventar coisas
 
 - [[Modelo — Gu]] — para um Gu que não está no [[📖 Catálogo de Gu]]. Preencha rank, Caminho, **o que ele come** e quem é o dono. O alimento não é enfeite: Gu que não come, morre.
 - [[Modelo — Inimigo]] — para um antagonista com bloco de combate. Para inimigos comuns, veja antes [[⚔️ Ameaças Genéricas por Rank]] — provavelmente já existe um pronto e você não precisa escrever nada.

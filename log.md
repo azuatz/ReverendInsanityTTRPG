@@ -573,3 +573,11 @@ modelo da Parte 3 (8 vivos = d8, não d10, com a queda pra d6 narrada); e
 "Nível de Dano" ganhou definição inline na Parte 2, no ponto onde travava a
 leitura. Os 2 achados restantes são lacuna de regra (dinheiro/equipamento
 inicial inexistente; Alma zerada sem regra) — decisão do autor, vão pro menu.
+
+## [2026-08-31] ingest | Blocos de gerenciamento do privado: Caderno de Receitas e Ficha da Fenda (decisão 201)
+Pedido do autor: modelos copiáveis pro chat privado de cada jogador no Discord.
+Criados [[Modelo — Caderno de Receitas]] e [[Modelo — Fenda Imortal]] (com o
+adendo do autor: ecologia viva, geração de essência, local de refino e o bloco
+de Cicatrizes das tribulações). Pacote Discord ganhou o canal privado com as
+Mensagens 9–11 (Fenda segurada até a 1ª Ascensão); nota-mãe 🧰 Modelos e Mapa
+atualizados. Zero regra nova; decisão 201.

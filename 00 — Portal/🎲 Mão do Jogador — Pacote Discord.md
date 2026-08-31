@@ -185,6 +185,123 @@ Dúvida? **#duvidas.** Ficha pronta? **Fixa em #fichas.** 🎲
 
 ---
 
+## Canal privado de cada jogador — os blocos de gerenciamento
+
+Os jogadores já usam o chat privado deles no Discord como bloco de notas. As mensagens abaixo são formulários pra isso — cada jogador cola **no próprio privado** e mantém atualizado. Não vão em canal público e **não são entregues no dia 1**:
+
+- **Mensagem 9** — entregue quando o personagem conquistar **a primeira receita** em jogo.
+- **Mensagens 10 e 11** — entregues **só quando o primeiro personagem ascender a Imortal**. Antes disso, a Fenda é surpresa de rank 6 — igual às notas de Caminho, que só se compartilham depois da escolha.
+
+As linhas `· regra: …` dentro dos blocos dizem ao jogador **qual regra perguntar** pra você — os nomes são das suas notas ([[Modelo — Caderno de Receitas]] e [[Modelo — Fenda Imortal]] têm as versões comentadas e exemplos preenchidos).
+
+### Mensagem 9 — o caderno de receitas
+
+# 📜 Caderno de Receitas — cole no seu privado e vá anotando
+
+Receita é chave: **sem ela, a fusão nem rola.** Anote cada uma que conseguir — e de quem veio, porque cópia pode vir errada de propósito.
+
+```
+📜 **CADERNO DE RECEITAS** de _____
+════════════════════════
+Estados (regra: Refino e Precificação):
+ ✅ completa e testada — +15% e vantagem no refino
+ 📄 completa, não testada — destrava a fusão, sem bônus
+    (o 1º refino bem-sucedido promove a ✅)
+ 🧩 parcial / cópia — só destrava a tentativa,
+    e pode estar errada de propósito
+Linhagem não se anota: 2 exemplares saudáveis + alimento
+em dose tripla → rank seguinte. Todo Mestre Gu sabe de cor.
+────────────────────────
+🧪 _____ (r__)
+   Fusão: _____ + _____ (+ material: _____)
+   Estado: ✅ / 📄 / 🧩
+   Origem: _____ (de quem, como)
+   Já refinei com ela? __
+   Valor de troca: ~__ pedras
+   Notas: _____
+────────────────────────
+🧪 _____ (r__)
+   Fusão: _____ + _____
+   Estado: ✅ / 📄 / 🧩
+   Origem: _____
+   Já refinei com ela? __
+   Valor: ~__ · Notas: _____
+```
+
+Copie o bloco 🧪 pra cada receita nova. Dúvida de regra? **#duvidas.**
+
+### Mensagem 10 — a ficha da Fenda Imortal *(segurar até a primeira Ascensão)*
+
+# 🗝️ Sua Fenda Imortal
+
+Você ascendeu — agora existe um **mundo dentro da sua Abertura**, e ele continua vivo (e apanhando) enquanto você não está olhando. Cole no seu privado; a próxima mensagem diz como manter.
+
+```
+🗝️ **FENDA IMORTAL** de _____ (rank 6)
+════════════════════════
+🧭 A TERRA              · regra: Terra Abençoada
+  Nome da fenda: _____
+  Sintonia: _____ · Grau __  (o Caminho com mais Marcas)
+  Qualidade: _____ · Tamanho: __ mi de mu (≈ __ km²)
+  Fertilidade: __ · Estabilidade: __
+  Camada de desenvolvimento: 1 · 2 · 3 · 4
+
+⏱️ O TEMPO              · regra: Dilatação Temporal
+  Fluxo: ×__  (1 dia fora = __ dias dentro)
+  Data interna: ano __ · Data externa: __/__
+  Próx. Calamidade Terrestre: ano interno __ (≈ __ fora)
+  Próx. Provação Celestial: ano interno __
+
+🌾 ECOLOGIA VIVA        · regra: Ecologia e Economia
+  Capacidade de Carga: __ / __ PB
+  🌱 Flora __ PB: _____
+  🐄 Herbívoros __ PB: _____
+  🐺 Predadores __ PB: _____
+  ⛏️ Veias __ PB: _____ (reserva: __)
+  Cadeia ok? flora ≥ 2× herbívoros ≥ 2× predadores (em PB)
+  ⚖️ Desequilíbrio: 0 · 1 · 2 · 3 · 4 · 5
+
+💰 PRODUÇÃO (ano externo) · regra: Materialização
+  Renda: __ PEI + __ PP
+  🍖 Ração dos Gu Imortais: comem __ PEI/ano → sobra __
+  ☯️ Marcas passivas: ~__/ano (Caminho: _____)
+  ⚡ Essência da fenda: __ / __ UV · regen __%/dia interno
+
+⚗️ REFINO               · regra: Refino · Materialização
+  Local: _____
+  Espírito assiste refino imortal? sim / não
+  Condição ideal (condensação ×2): _____
+
+🧿 GENTE                · regra: Espíritos da Terra
+  Espírito da Terra: nenhum · Aliado · Neutro · Guardião
+    nome/gênio: _____
+  Governador: _____     · regra: Governança (d. 183)
+  Moradores e facções internas: _____
+
+🌩️ CICATRIZES           · regra: Ferimentos da Terra
+  Ferimentos: 0 · 1 · 2 · 3 · 4  (Íntegra → Colapsada)
+  O que as tribulações já levaram: _____
+  Degradado agora: _____
+  Em risco na próxima: _____
+
+📝 Anotações: _____
+```
+
+### Mensagem 11 — como manter a ficha viva *(junto com a 10)*
+
+# 📆 O ritual da fenda, a cada sessão
+
+1. O mestre avança o calendário da campanha (**data externa**).
+2. Multiplique os dias pelo **fluxo** e mova a **data interna**.
+3. A data interna cruzou um múltiplo de **10 anos**? A **Calamidade Terrestre desce** — avise o mestre e marquem a cena.
+4. Some a produção do período, alimente os Gu, confira a cadeia da ecologia.
+
+O bloco 🌩️ **CICATRIZES** é o coração da ficha: o que a terra já perdeu, o que está quebrado agora, e o que a próxima cobrança ameaça. Fenda rápida produz mais — e encontra as tribulações mais rápido. É o acelerador e o freio no mesmo pedal.
+
+Dúvida sobre qualquer campo? A linha `· regra:` dele diz o nome da regra — pergunte em **#duvidas**. 🗝️
+
+---
+
 ## O que NÃO mandar pros jogadores
 
-Pra ficar registrado o critério: **nada de** Catálogo de Gu (matar a descoberta), Livro de Receitas, notas de Caminho (rank 6+ é surpresa), Grimório de Ameaças, lore marcada 🔒, nem a Folha de Referência completa (tem regra de mestre). Se um jogador quiser mais profundidade sobre o próprio Caminho **depois** de escolhê-lo em jogo, aí sim compartilhe a nota daquele Caminho.
+Pra ficar registrado o critério: **nada de** Catálogo de Gu (matar a descoberta), Livro de Receitas (o **Caderno** da mensagem 9 é outra coisa: só registra o que o personagem **já** conquistou), notas de Caminho (rank 6+ é surpresa), Grimório de Ameaças, lore marcada 🔒, nem a Folha de Referência completa (tem regra de mestre). Se um jogador quiser mais profundidade sobre o próprio Caminho **depois** de escolhê-lo em jogo, aí sim compartilhe a nota daquele Caminho.
