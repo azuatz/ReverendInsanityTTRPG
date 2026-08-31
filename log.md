@@ -85,7 +85,7 @@ revogadas — 16, 18, 21, 65, 77, 80 — foram marcadas no lugar, com o motivo.
 A [[📄 Folha de Referência]] se contradizia sozinha (oferecia a tabela de médias e
 declarava "DANO SEMPRE ROLADO") e [[📖 Catálogo de Gu]]`:35` ainda mandava resolver
 25+ dados pela média. Tabela removida da Folha e do índice, frase do Catálogo
-corrigida, regra arquivada em [[Médias do pool (v1)]] com o motivo do autor.
+corrigida, regra arquivada em [[Regras removidas 2026-08-30]] com o motivo do autor.
 Cumpre a decisão 103.
 
 ## [2026-08-30] ingest | Clipping do repositório GitHub do romance
