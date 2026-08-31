@@ -174,6 +174,7 @@ escopo: processo
 | [[🩺 Lint do Vault]] | **A nota de saúde** — resultado de cada rodada de lint, editada no lugar; o script mecânico vive em `_Processo/ferramentas/lint_vault.py` |
 | [[🎯 Simulação de Combate — Resultados]] | **A prova de que os números fecham.** 3.000 combates por cenário com os quatro personagens da mesa: duelo entre PJs, PJ contra inimigo solo, grupo contra horda, grupo contra Chefe. Traz o que estava quebrado, o que foi corrigido, e onde a mesa ficou depois |
 | [[🔍 Auditoria de Coerência da Lore]] | **A varredura feita antes da lore** — 3 contradições reais encontradas e corrigidas no vault (vida de Imortal, mesada de clã, distribuição de Aptidão), 8 suspeitas verificadas e limpas, e as decisões autorais tomadas |
+| [[🔍 Síntese — Fidelidade ao Romance]] | **Frente 2 da síntese da leitura integral** — achados de mecânica/números onde as notas de regra divergem do que os 18 digests do romance realmente afirmam (Marcas de Dao por Provação, Longevidade de Veneráveis, estrutura da Cidade Shang, tamanho de Terra Abençoada). Só análise, nada aplicado ainda |
 
 ## 09 — Lore de Vespéria
 

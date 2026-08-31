@@ -262,3 +262,21 @@ a Densidade da Essência do próprio vault, que já dobra a cada pequeno estági
 (era 3/6/12/24/48), mantendo um número por rank em vez de granular por estágio
 (que explodiria a >25 milhões/dia no Pico do rank 5). Coordenado com a sessão
 paralela.
+
+## [2026-08-31] query | Frente 2 da síntese da leitura integral — fidelidade do sistema ao romance
+Lidas as seções C) e D) dos 18 digests inteiros contra as notas de cultivo/economia
+mais comparáveis numericamente (Ranks e Estágios, Marcas de Dao, Terra Abençoada,
+Ecologia, Ascensão Imortal, Aptidão, Longevidade, O Mercado, Metrópoles, Economia
+das Pedras Primordiais). Checado contra o Log de Decisões até a 135 pra não
+retrabalhar o que a outra sessão já corrigiu. 5 achados novos gravados em
+[[🔍 Síntese — Fidelidade ao Romance]], ordenados por importância: (1) a tabela de
+Marcas por Calamidade/Provação erra por 6-8× nas faixas altas (o romance dá números
+exatos no cap. 1389, algo que não existia antes desta leitura); (2) o teto de vida
+de Veneráveis (decisão 89, ~2.000 anos) fica bem abaixo dos 3.000-25.000 anos
+documentados no cânone, e o cap. 563 chama a premissa de "engano comum" — tensão
+que precisa ir pro Log, não ser resolvida em silêncio; (3) divergências estruturais
+concretas da Cidade Shang real contra [[🏙️ Metrópoles — Centros, Tokens e Arena]]
+(faltam dois pedágios de entrada, o 1º/2º distrito são fechados a clã no cânone
+mas compráveis na nota, limiares de vitória da arena 5-6× abaixo do real); (4)
+tamanho de Terra Abençoada pode estar subdimensionado; (5) distribuição de Aptidão,
+baixa prioridade. Nada foi editado — só análise, achados apontados pro autor decidir.
