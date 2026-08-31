@@ -404,3 +404,11 @@ de toda rodada grande de notas novas. [[🎓 Guia do Mestre Iniciante]] ganhou u
 linha na trilha de leitura apontando pro cardápio opcional (Torres e Estradas
 de Prova, Aposta por Procuração, Três Quadros, Convenção do Caminho de
 Refino), que ele não citava.
+
+## [2026-08-31] canon | Economia imortal reauditada sob Dilatação Temporal (decisão 148)
+[[⚗️ Materialização e Alquimia Interna]]: tabela de produção (camadas 1-4)
+multiplicada ×10, corrigindo a defasagem entre o fluxo antigo (0,5×-3×) usado
+no cálculo original e o fluxo atual (5×-40×, decisão 110). Proporções entre
+camadas preservadas. Preços do Céu Amarelo e Ração Imortal conferidos e
+mantidos — são referência de mercado, não produção. Pendência de "Em aberto"
+resolvida.

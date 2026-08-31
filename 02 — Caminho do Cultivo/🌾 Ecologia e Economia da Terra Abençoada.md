@@ -365,7 +365,7 @@ RENDA ANUAL: ______ PEI        Assinatura do ano: ___
 
 ## 🎲 Um ano de exemplo, com as contas
 
-**Imortal de rank 6, terra Comum (1×), camada 3, Fertilidade 5, Sintonia Lua — Pequeno Feito (S = 1).** Dois Gu Imortais de rank 6. AST +3.
+**Imortal de rank 6, terra Comum (10×), camada 3, Fertilidade 5, Sintonia Lua — Pequeno Feito (S = 1).** Dois Gu Imortais de rank 6. AST +3.
 
 ```
 Capacidade de Carga = (3 × 5) + 5 + (2 × 1) = 22 PB

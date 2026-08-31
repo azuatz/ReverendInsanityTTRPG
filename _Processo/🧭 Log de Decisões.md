@@ -263,12 +263,15 @@ Todas por diretiva direta do autor (fonte: `_Fontes/2026-08-30 — Feedback do a
 
 ---
 
+148. **Economia imortal reauditada sob a Dilatação Temporal — produção ×10, preços de mercado intocados.** Pendência de "Em aberto": as tabelas de produção de [[⚗️ Materialização e Alquimia Interna]] (camadas 1-4, PP/PEI por ano externo) foram calibradas sob o fluxo antigo (~0,5×-3×); com o fluxo atual (5×-40×, decisão 110), a mesma produção por ano interno rende ~10× mais por ano externo. Tabela multiplicada ×10 (camada 1: 100→1.000 PP na Mesquinha, até 3.600→36.000 na Especial; camada 4: 20→200 PEI até 720→7.200). As proporções entre camadas e qualidades — a escada quadrática, "Especial produz nove vezes o que Comum produz" — não mudaram, só a escala absoluta. Verificado contra as referências de transação da própria nota (CD 22 pra transações de 201+ PEI): a produção antiga de topo (720 PEI/ano) mal cobria uma dúzia de transações médias por ano, subestimando o valor de uma Terra Abençoada madura; corrigido. **Preços do [[🏪 Céu Amarelo do Tesouro]] e a Ração Imortal (11 PEI) não mudam** — são referências fixas de mercado, não produção ligada ao fluxo de tempo, e continuam fechando: mesmo a produção de camada 2 Mesquinha (10 PEI/ano) agora cobre com folga o consumo de ração de um rank 6 típico (~2 PEI/ano), o que antes ficava justo demais (1 PEI/ano contra 2 de consumo).
+
+---
+
 ## 🔔 Em aberto
 
 - [x] ~~Ranks 1–2 e rank 5 não foram simulados~~ — cobertos pela quinta rodada (ranks 1, 2, 3 e 5). Rank 4 segue sem simulação própria.
 - [ ] **Golpe Matador, cura, controle e terreno ficaram fora do modelo** de simulação. Os números atuais são o piso da capacidade do grupo, não o teto — o Golpe Matador Coletivo de 4 vale simular à parte.
 - [ ] **A rodada 103–133 não foi simulada.** Crítico no 20, iniciativa rolada, fim da regeneração em combate, as 41 conversões de Nível, a Fratura da Abertura (decisão 132) e o gênio pobre duplo de rank 6 (decisão 133) mexem nas taxas medidas. Rodar a bateria padrão dos 4 perfis com o motor novo, incluindo um cenário de NPC rank 6 duplo-gênio, é a próxima simulação.
-- [ ] **A economia imortal precisa de reauditoria sob a Dilatação Temporal (decisão 110).** As tabelas de produção de [[⚗️ Materialização e Alquimia Interna]] foram calibradas no fluxo 0,5×–3×; com 5×–50×, produção, Ração e renda de camada 4 escalam ~10× — conferir se os preços do Céu Amarelo e a Ração Imortal continuam fechando.
 
 **Rejeitado deliberadamente:** subsistema de guerra de larga escala (é um segundo jogo — resolva com 3–4 testes de grupo); Attainment como escala numérica paralela a Marcas (redundante); rastrear Marca de Dao individualmente.
 

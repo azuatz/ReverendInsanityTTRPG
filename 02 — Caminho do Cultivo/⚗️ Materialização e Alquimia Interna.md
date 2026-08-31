@@ -211,18 +211,32 @@ Uma Terra Abençoada de camada 4 é "comércio externo" ([[🗝️ Terra Abenço
 
 > **Esta tabela é o teto, e continua valendo.** [[🌾 Ecologia e Economia da Terra Abençoada]] **decompõe** estes números — de qual canteiro, rebanho ou veia cada Pedra sai — e dá ao jogador as alavancas pra mexer neles (mineração predatória, desviar produção pra Ração, Teste de Gestão anual). Se a soma do detalhamento estourar muito a linha da camada, foi instalado mais do que a camada comporta.
 
-A produção acontece em **tempo interno**, então o fluxo de tempo da terra já está embutido. Os números abaixo são **por ano de tempo externo**, prontos pra usar (calibrados na escala antiga de fluxo — trate-os como o rendimento **por ano interno × dezena**; uma reauditoria da economia imortal sob a Dilatação Temporal está pendente no Log de Decisões):
+A produção acontece em **tempo interno**, então o fluxo de tempo da terra já está embutido. Os números abaixo são **por ano de tempo externo**:
 
 | Camada | Mesquinha *(5×)* | Comum *(10×)* | Boa *(20×)* | Excelente *(30×)* | Especial *(40×)* |
 |---|---|---|---|---|---|
-| **1** — produção básica | 100 PP | 400 PP | 900 PP | 1.600 PP | 3.600 PP |
-| **2** — materiais imortais | **1 PEI** *(autoconsumo)* | **5 PEI** | **11 PEI** | **20 PEI** | **45 PEI** |
-| **3** — ecossistema vivo | **5 PEI** | **20 PEI** | **45 PEI** | **80 PEI** | **180 PEI** |
-| **4** — comércio externo | **20 PEI** | **80 PEI** | **180 PEI** | **320 PEI** | **720 PEI** |
+| **1** — produção básica | 1.000 PP | 4.000 PP | 9.000 PP | 16.000 PP | 36.000 PP |
+| **2** — materiais imortais | **10 PEI** *(autoconsumo)* | **50 PEI** | **110 PEI** | **200 PEI** | **450 PEI** |
+| **3** — ecossistema vivo | **50 PEI** | **200 PEI** | **450 PEI** | **800 PEI** | **1.800 PEI** |
+| **4** — comércio externo | **200 PEI** | **800 PEI** | **1.800 PEI** | **3.200 PEI** | **7.200 PEI** |
+
+> [!note] Reauditada sob a Dilatação Temporal *(2026-08-31)*
+> Tabela recalibrada — os números antigos foram computados sob o fluxo de
+> tempo pré-decisão 110 (~0,5×–3×); com o fluxo atual (5×–40×, o mesmo
+> multiplicador de qualidade), a mesma produção *por ano interno* rende **10×
+> mais por ano externo**. Multiplicado ×10 em toda a tabela — as proporções
+> entre camadas e qualidades (a escada quadrática, a regra dos "nove vezes")
+> não mudaram, só a escala absoluta. Conferido contra as referências de
+> transação desta mesma nota (CD 22 para transações de 201+ PEI) e contra
+> [[🏪 Céu Amarelo do Tesouro]]: uma terra camada 4 bem desenvolvida agora gera
+> renda anual condizente com o que o próprio mercado imortal já tratava como
+> "grande" — antes da correção, a produção de topo (720 PEI/ano) mal cobria
+> uma dúzia de transações médias por ano, o que subestimava o que uma Terra
+> Abençoada madura deveria valer.
 
 *PP = Pedras Primordiais (moeda mortal). PEI = Pedras de Essência Imortal.*
 
-**A camada 2 é autoconsumo, não renda.** Ela zera a despesa de alimentar os próprios Gu Imortais (**~2 PEI/ano** pra um rank 6 típico: 1 Ração de 10 PEI a cada 5 anos) e nada mais. Vender a produção da camada 2 significa **deixar os próprios Gu Imortais com fome** — ver [[🍖 Sustento e Alimento|Sustento e Alimento]].
+**A camada 2 é autoconsumo, não renda.** Ela cobre a despesa de alimentar os próprios Gu Imortais (**~2 PEI/ano** pra um rank 6 típico: 1 Ração de 10 PEI a cada 5 anos) — mesmo uma terra Mesquinha produz 10 PEI/ano em camada 2, cinco vezes o necessário. Vender o excedente da camada 2 significa **deixar os próprios Gu Imortais com fome mais cedo do que precisava** — ver [[🍖 Sustento e Alimento|Sustento e Alimento]].
 
 **A escada é quadrática de propósito.** A qualidade entra duas vezes: uma pelo tamanho/fertilidade e outra pelo fluxo de tempo. Uma terra Especial produz **nove vezes** o que uma Comum produz na mesma camada. Isso é coerente com [[💠 Economia das Pedras Primordiais|Economia das Pedras Primordiais]], onde a riqueza salta ordens de grandeza junto com o poder — e é a razão mecânica pela qual a distribuição das 10 Porções na Ascensão define o personagem por séculos.
 
