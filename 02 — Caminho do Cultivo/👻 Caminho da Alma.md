@@ -38,7 +38,7 @@ Força de Alma (em homens)  →  multiplicador na Alma máxima
 
 | Estágio | Força | Alma máxima | Como se alcança | O que destrava |
 |---|---|---|---|---|
-| **Alma Humana** | **1** | `(8 + 2 × VON) × M` | Todo mundo nasce assim | — |
+| **Alma Humana** | **1** | `(12 + 2 × VON + 3 × B) × M` | Todo mundo nasce assim | — |
 | **Alma Reforçada** | **10** | **×1,5** | Devorar ~10 almas, ou consumir Gu das Tripas | Sente almas num raio de 20 m, através de parede |
 | **Alma de Dez Homens** | **50** | **×1,75** | Acúmulo | Vantagem contra todo ataque de Alma de rank inferior |
 | **🔴 Alma de Cem Homens** | **100** | **×2** | O topo do que um corpo mortal comporta | Sua alma pode **sair do corpo** por 1 cena (o corpo fica indefeso, Defesa 5) |
@@ -63,7 +63,7 @@ Devorar é rápido e sujo. Existem três métodos lentos, e todo cultivador de A
 | Método | O que é | Rende | Custo e risco |
 |---|---|---|---|
 | **Visualização** | Meditação estruturada: o cultivador constrói a própria alma como imagem mental e a segura, sem vacilar, por horas | **+1 Força de Alma por mês** de prática diária | Só tempo. Teste de **VON CD 14** por mês; falha significa que o mês não rendeu |
-| **Moagem da Alma** | Você projeta a própria alma pra fora do corpo e a expõe a atrito deliberado — corrente de vento, fluxo de rio, atrito de pedra. Dói de um jeito que o corpo não conhece | **+`1d4` Força por sessão**, uma sessão por semana | **VON CD 18.** Falha = `1d6 × M` de dano de **Alma** e a sessão não conta. Duas falhas seguidas: **−1 Força permanente** |
+| **Moagem da Alma** | Você projeta a própria alma pra fora do corpo e a expõe a atrito deliberado — corrente de vento, fluxo de rio, atrito de pedra. Dói de um jeito que o corpo não conhece | **+`1d4` Força por sessão**, uma sessão por semana | **VON CD 18.** Falha = `M d6` de dano de **Alma** e a sessão não conta. Duas falhas seguidas: **−1 Força permanente** |
 | **Maré Espiritual** | Expor a alma a um lugar de densidade espiritual extrema — vento frio de fenda, maré espiritual de nascente, campo de batalha antigo à noite | **+`1d6` Força por exposição**, uma por mês | **VON CD 20.** Falha = dano de Alma **e `1d3` de Contaminação** — o lugar tem coisas nele, e algumas grudam |
 
 **Combinar os três** é o cronograma padrão de um cultivador de Alma dedicado: ~1 (visualização) + ~10 (moagem, 4 sessões) + ~3,5 (maré) = **~15 de Força de Alma por mês**, sem matar ninguém e sem Contaminação — mas exigindo reclusão, o que é tempo que a campanha não está acontecendo.
@@ -107,7 +107,7 @@ Devorar uma alma é a fonte de recurso do Caminho, e é o preço dele.
 
 | Fonte devorada | Força de Alma | Rende |
 |---|---|---|
-| Mortal comum | **+1** | Cura `1d6 × M` de Alma **e** de Vitalidade · 10 de Essência |
+| Mortal comum | **+1** | Cura `M d6` de Alma **e** de Vitalidade · 10 de Essência |
 | Cultivador de rank 1–3 | **+`1d6`** | Cura completa de Alma · Essência até metade do tanque |
 | Cultivador de rank 4–5 | **+`2d10`** | Tudo acima · **+50 Marcas de Dao** do Caminho da Alma |
 | Fera desolada | **+`3d10`** | Tudo acima |
@@ -142,8 +142,8 @@ Contaminação é um número na ficha que **só sobe**, salvo purificação. Nos
 
 | Gu | Rank | Tipo | Efeito mecânico | Forte / Fraco | Peculiaridades | Alimentação |
 |---|---|---|---|---|---|---|
-| **Gu do Verme da Lembrança\*** | 2 | Ataque de Alma | `Ataque de Alma: 1d6 × M` (passo 0), toque ou 5 m. **Ignora RD e armadura.** O alvo revive a pior lembrança dele: falhando VON contra a CD dos seus Gu, perde a ação da próxima rodada | ⬆️ Alvo blindado até os dentes que nunca investiu em VON · ⬇️ Alcance curto: você precisa chegar perto de quem bate mais forte que você | ⚡Marca 🍖Proibida | Uma lembrança sua, entregue de verdade — o Gu come **suas** memórias se não achar outras. Uma por mês |
-| **Gu da Agulha Espectral\*** | 3 | Ataque de Alma | `Ataque de Alma: 1d6 × M` (passo 0), alcance 15 m. **Ignora RD, armadura e Defesa física por completo** — a Defesa contra ele é `10 + VON + rank`. Contra alvo que já tenha sofrido dano de Alma nesta cena, **+1 Nível**. Custo ×1,25 como todo Gu de Alma | ⬆️ A resposta do jogo pra RD alta: um bruto com `RD 2 × M` recebe o dano inteiro · ⬇️ Não derruba ninguém sozinho — a barra de Alma de um lutador de VON 0 no rank 3 são 32 pontos, e você tira 6 por acerto. É desgaste, não execução | ⚡Marca | Fragmento de alma, ou 1 dose de sangue de moribundo por semana |
+| **Gu do Verme da Lembrança\*** | 2 | Ataque de Alma | `Ataque de Alma: 2d6` (passo 0), toque ou 5 m. **Ignora RD e armadura.** O alvo revive a pior lembrança dele: falhando VON contra a CD dos seus Gu, perde a ação da próxima rodada | ⬆️ Alvo blindado até os dentes que nunca investiu em VON · ⬇️ Alcance curto: você precisa chegar perto de quem bate mais forte que você | ⚡Marca 🍖Proibida | Uma lembrança sua, entregue de verdade — o Gu come **suas** memórias se não achar outras. Uma por mês |
+| **Gu da Agulha Espectral\*** | 3 | Ataque de Alma | `Ataque de Alma: 4d6` (passo 0), alcance 15 m. **Ignora RD, armadura e Defesa física por completo** — a Defesa contra ele é `10 + VON + rank`. Contra alvo que já tenha sofrido dano de Alma nesta cena, **+1 Nível**. Custo ×1,25 como todo Gu de Alma | ⬆️ A resposta do jogo pra RD alta: um bruto com `RD 2 × M` recebe o dano inteiro · ⬇️ Não derruba ninguém sozinho — a barra de Alma de um lutador de VON 0 no rank 3 são 48 pontos, e você tira ~14 por acerto. É desgaste, não execução | ⚡Marca | Fragmento de alma, ou 1 dose de sangue de moribundo por semana |
 | **Gu do Casaco de Alma\*** | 3 | Defesa de Alma | **RD de Alma `3 × M`**, sustentado, 3 essência/rodada. Enquanto ativo, Gu de detecção de alma de rank igual ou menor falham contra você | ⬆️ A única defesa decente contra o Caminho da Alma inteiro, e ninguém carrega uma · ⬇️ Zero proteção contra dano físico. Um lutador comum te desmonta enquanto você está imune ao inimigo errado | ⚡Preso | Incenso queimado sobre osso — caro, e o cheiro fica em você |
 | **Gu do Grito Sem Boca\*** | 4 | Ataque de Alma, área | `Ataque de Alma: 1d8 × M` (passo +1) em **todos num cone de 12 m**, alcance por VON contra a CD dos seus Gu (não há teste de acerto). **Ignora RD, armadura e Defesa física.** Quem falhar fica também **Amedrontado por 1 rodada** — não pode se aproximar de você. Custo ×1,25 | ⬆️ Ataque de rank próprio que atravessa qualquer blindagem e resolve uma linha inimiga inteira · ⬇️ ⚡`Cego`: **pega aliados no cone**, e a **Contaminação sobe 1 por uso** (ver *Devoração e Contaminação*, nesta nota). Contra alvo com Gu de defesa de Alma ativo, o dano cai pela metade | ⚡Cego ⚡Ruidoso ⚡Recuo | Uma alma pequena por uso — inseto, ave, rato. Sem isso, come um pedaço da sua |
 | **Gu Devorador Espectral\*** | 4 | Devoração | Devora uma alma fresca como **ação livre** em vez de ação completa, e **dobra** o que ela rende (ver tabela de Devoração). Em compensação, **dobra a Contaminação** que ela gera | ⬆️ Transforma cada morte numa recarga completa no meio da luta · ⬇️ É o Gu que mais rápido te leva a 100 de Contaminação. Ele não é uma ferramenta, é um vício com estatísticas | ⚡Viciante ⚡Recuo 🍖Canibal | Uma alma por semana, ou ele começa a roer a sua — **−1 Alma máxima por semana sem alimento** |

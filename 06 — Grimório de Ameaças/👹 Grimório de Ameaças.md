@@ -14,13 +14,13 @@ escopo: sistema
 Nota-mãe. **De onde saem os inimigos.** Criaturas e adversários **genéricos**, reutilizáveis em qualquer campanha rodada com este sistema.
 
 > [!tip] A pasta menor do vault, e uma das mais usadas
-> Ela tem uma nota só, mas é a nota que você vai abrir toda vez que montar um combate. **Não precisa escrever inimigo nenhum para começar a jogar** — os moldes prontos cobrem do rank 1 ao 9.
+> Ela tem uma nota só, mas é a nota que você vai abrir toda vez que montar um combate. **Não precisa escrever inimigo nenhum para começar a jogar** — a tabela pronta traz os números já calculados do rank 1 ao 5, e daí pra cima as fórmulas por `M` sobem sozinhas.
 
 ---
 
 ## A nota desta pasta
 
-- **[[⚔️ Ameaças Genéricas por Rank]]** — os moldes **Recruta**, **Guerreiro**, **Elite** e **Chefe**, com Vitalidade, Defesa, Acerto, RD e dano já escalados por rank. Traz também a **tabela de composição de cena**: quantos inimigos de cada molde colocar contra um grupo de 3 ou de 4 jogadores.
+- **[[⚔️ Ameaças Genéricas por Rank]]** — os seis moldes: **Recruta**, **Horda**, **Guerreiro**, **Elite**, **Mestre de Gu** e **Chefe**, com Vitalidade, Defesa, Acerto, RD e dano já escalados por rank. Traz também a **tabela de composição de cena**, por rank: quantos inimigos de cada molde colocar numa cena Fácil, Padrão, Difícil ou de Clímax (calibrada para 4 jogadores, com o ajuste para 3 logo abaixo dela).
 
 ---
 

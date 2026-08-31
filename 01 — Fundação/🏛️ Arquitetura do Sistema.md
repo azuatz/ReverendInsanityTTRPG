@@ -9,7 +9,7 @@ escopo: sistema
 
 # 🏛️ Arquitetura do Sistema
 
-> A nota mais importante do vault. Tudo aqui está **fechado**. Se uma regra nova contradiz esta página, a regra nova está errada.
+> A nota mais importante do vault: é aqui que as peças do sistema aparecem juntas, e é por aqui que se entende como uma mexe na outra. **A autoridade final é o [[🧭 Log de Decisões]]** — se esta página contradiz o Log, é esta página que está errada e precisa ser corrigida.
 
 ---
 
@@ -31,7 +31,7 @@ escopo: sistema
 
 ### 1. A Porta — seu rank define o rank de Gu que você consegue usar
 
-São **9 ranks, sem compressão** — igual ao cânone. Ranks 1–5 são a fase mortal (Mestre de Gu), cada um com quatro estágios (inicial, intermediário, avançado, pico). Rank 6 é a Ascensão Imortal. **Rank 9 é o teto do mundo: Venerável** (ou Venerável Demônio, pelo Caminho proibido) — e não existe nada acima. Ver [[🪜 Ranks e Estágios|Ranks e Estágios]] pra tabela completa.
+São **9 ranks, sem compressão** — igual ao cânone. Ranks 1–5 são a fase mortal (Mestre de Gu), cada um com quatro estágios (Inicial, Médio, Alto, Pico). Rank 6 é a Ascensão Imortal. **Rank 9 é o teto do mundo: Venerável** (ou Venerável Demônio, pelo Caminho proibido) — e não existe nada acima. Ver [[🪜 Ranks e Estágios|Ranks e Estágios]] pra tabela completa.
 
 Um cultivador de rank X ativa normalmente Gu de rank igual ou menor. Um Gu 1 rank acima pode ser **forçado** — custa metade da essência máxima, um teste de Vontade e um Ferimento. Um de 2 ranks acima custa o tanque inteiro. Atravessar a linha mortal/imortal (usar um Gu de rank 6+ sendo mortal) nunca é possível — Gu Imortais não rodam com essência mortal, combustível errado, não preço alto.
 
@@ -70,7 +70,7 @@ Arredonde pra cima. O modificador vale pro custo de ativação **e** pra manuten
 
 **A leitura de mesa:** um cultivador de Sangue sustenta o dobro de ativações que um de Espaço, e é por isso que o Caminho do Sangue produz tanto monstro apesar de ser crime capital. Um de Tempo faz coisas que ninguém mais faz, e passa a cena inteira contando essência.
 
-Cada rank novo devolve ao começo — com ferramentas de outro patamar. E o dano de cada Gu também dobra a cada rank (M ×1 no rank 1 até ×256 no rank 9 — ver [[⚔️ Combate|Combate]]), a correção que faz o custo de ativação combinar com o quanto um Gu novo bate mais forte. Dano de Gu é **rolado em dado e multiplicado por M**, nunca um número fixo. **Dano corpo a corpo sem Gu ativo não entra nessa escala** — é físico, definido pela arma e o Corpo do personagem, e só sobe com um Gu do Caminho da Força ou de Transformação ativo.
+Cada rank novo devolve ao começo — com ferramentas de outro patamar. E o dano de cada Gu também dobra a cada rank (M ×1 no rank 1 até ×256 no rank 9 — ver [[⚔️ Combate|Combate]]), a correção que faz o custo de ativação combinar com o quanto um Gu novo bate mais forte. Dano de Gu é um **pool de dados**, nunca um número fixo: `M d(dado do Caminho) + (M × B)` — o M do rank diz **quantos dados** se rola, o Caminho diz **qual dado**, e o Grau de Densidade do estágio (B) soma **por dado**. **Dano corpo a corpo sem Gu ativo não entra nessa escala** — é físico, definido pela arma e o Corpo do personagem, e só sobe com um Gu do Caminho da Força ou de Transformação ativo.
 
 **Carregar um Gu não custa essência — custa comida.** Cada Gu come um tipo de coisa do mundo, ou pedras primordiais no lugar. Quantos cabem depende do tamanho da Abertura: `(sua % ÷ 10) + rank`. Gu de rank baixo ficam praticamente de graça de ativar conforme você sobe, então vale carregar os de utilidade pra sempre — mas os de dano, defesa e reforço precisam ser trocados a cada rank, porque o dado deles não cresce sozinho.
 

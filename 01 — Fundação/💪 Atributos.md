@@ -63,16 +63,17 @@ Nenhuma combinação legal deixa o personagem morto de fábrica — mesmo −1 �
 Defesa              = 10 + DES + rank + rank do Gu de movimento ativo
 Acerto melee        = d20 + FOR + (rank + 2) + treino
 Acerto à distância  = d20 + DES + (rank + 2) + treino
-Dano melee          = (dado da arma na Escada) + FOR
+Dano melee          = 1 dado da arma + FOR   [sem Gu de Força ativo]
 Acerto de Gu        = d20 + VON + (rank + 2) + rank do Gu + treino
 CD dos seus Gu      = 10 + VON + rank do Gu
-Vitalidade máxima   = (12 + 3 × CON) × M
-Alma máxima         = (8 + 2 × VON) × M
+Vitalidade máxima   = (18 + 3 × CON + 4 × B) × M
+Alma máxima         = (12 + 2 × VON + 3 × B) × M
+                      [B = Grau de Densidade do estágio: 0 · 1 · 2 · 3]
 Gu ativos ao mesmo tempo   = CON + rank
 Golpes Matadores registrados = AST + 1
 Aliados/escravos comandados  = CAR + 1
 Pontos de Plano máximos      = 2 + (o maior entre AST e CAR)
-Ordem de turno      = por Destreza, sem rolagem
+Iniciativa          = d20 + DES, rolada no início do combate
 ```
 
 **Astúcia e Carisma têm número derivado de propósito.** Sem isso os dois viravam atributos de despejo — dava pra zerar os dois e financiar FOR+4/CON+4/DES+3 sem perder nada mecânico. Agora zerar Astúcia significa **um único Golpe Matador registrado** a campanha inteira (ver [[⚡ Golpes Matadores|Golpes Matadores]]), e zerar Carisma significa comandar **um** aliado e ter o teto mínimo de Pontos de Plano (ver [[🕵️ Preparação e Informação|Preparação e Informação]]). Continua sendo uma escolha legítima — só não é mais de graça.

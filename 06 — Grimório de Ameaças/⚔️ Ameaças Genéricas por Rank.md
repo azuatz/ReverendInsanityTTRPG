@@ -10,7 +10,7 @@ escopo: sistema
 
 # ⚔️ Ameaças Genéricas por Rank
 
-Estatísticas prontas de inimigo, escaladas pela mesma tabela de M do rank que os personagens usam (ver [[⚔️ Combate|Combate]]). Os números por molde valem pra qualquer tamanho de mesa; o que muda com o número de jogadores é **quantos inimigos por cena** — ver a tabela de composição mais abaixo. Esta campanha tem 4 jogadores.
+Estatísticas prontas de inimigo, escaladas pela mesma tabela de M do rank que os personagens usam (ver [[⚔️ Combate|Combate]]). Os números por molde valem pra qualquer tamanho de mesa; o que muda com o número de jogadores é **quantos inimigos por cena** — ver a tabela de composição mais abaixo.
 
 ## Os três moldes
 
@@ -44,9 +44,9 @@ Recrutas individuais **morrem antes de agir**: um personagem do mesmo rank mata 
 | **Defesa** | `10 + rank` |
 | **Acerto** | `d20 + rank + 6` — o `+2` é o cerco |
 | **Ataques por rodada** | **Um por personagem de pé.** Não é iniciativa individual, é estar cercado |
-| **Dano** | `M d6`, **e o dado sobe um tipo a cada 4 membros vivos** (d6 → d8 → d10 → d12) |
+| **Dano** | `M d6`, **e o dado sobe um tipo a cada 4 membros vivos acima dos 4 primeiros**: 4 a 7 membros `M d6` · 8 a 11 `M d8` · 12 a 15 `M d10` · 16 ou mais `M d12` (teto) |
 
-Uma horda de 12 bate em **`M d10`**. Conforme perde Vitalidade, perde membros, e **o dado desce sozinho** — o grupo sente a horda enfraquecendo sem ninguém precisar contar corpos.
+Uma horda de 8 bate em **`M d8`**; uma de 12, em **`M d10`**. Conforme perde Vitalidade, perde membros, e **o dado desce sozinho** — o grupo sente a horda enfraquecendo sem ninguém precisar contar corpos.
 
 **Área é a resposta.** Um Gu de área contra uma horda tira Vitalidade da barra inteira; é a única situação do jogo em que dano em área supera dano concentrado, e é o que faz esses Gu valerem uma vaga na Abertura.
 
@@ -92,7 +92,7 @@ Um único inimigo contra um grupo perde a ação por turno na maioria dos sistem
 
 **Por que não é uma escala limpa.** A dificuldade de um Chefe não é governada por ele, e sim por **quantos Golpes Matadores o grupo consegue pagar naquele rank**. No rank 1 ninguém paga um, e o Chefe precisa de 4 ações para ameaçar. Nos ranks 2 e 3 o grupo paga um combo cada, esvazia o tanque, e **duas ações do Chefe já bastam**. Do rank 4 em diante o combo fica barato de novo e o Chefe precisa de 3. A tabela acima é medida, não deduzida — use os números dela e ignore a intuição.
 
-**Onde isso cai, medido:** contra uma mesa de 4 do mesmo rank, um Chefe com as ações da tabela acima mais um Guerreiro de apoio é uma luta de **7 a 10 rodadas** que o grupo ganha em **56% a 80% das vezes**, terminando com **1,5 a 2,1 personagens de pé**. Esse é o alvo de um clímax de arco. Para apertar sem sair do jogável, **suba a Vitalidade do Chefe** (`63 × M` → `94 × M`) em vez de subir o rank dele: alonga a luta sem dobrar o dano que entra no grupo. Esse é o alvo de um clímax de arco. Se você quiser apertar mais sem sair da margem do jogável, **suba a Vitalidade do Chefe** (`63 × M` → `94 × M`) em vez de subir o rank dele: isso alonga a luta sem dobrar o dano que entra no grupo. Subir pra 4 ações por rodada leva a vitória do grupo pra ~50% e é o teto do que a mesa aguenta.
+**Onde isso cai, medido:** contra uma mesa de 4 do mesmo rank, um Chefe com as ações da tabela acima mais um Guerreiro de apoio é uma luta de **7 a 10 rodadas** que o grupo ganha em **56% a 80% das vezes**, terminando com **1,5 a 2,1 personagens de pé**. Esse é o alvo de um clímax de arco. Para apertar sem sair do jogável, **suba a Vitalidade do Chefe** (`63 × M` → `94 × M`) em vez de subir o rank dele: alonga a luta sem dobrar o dano que entra no grupo. Subir pra 4 ações por rodada leva a vitória do grupo pra ~50% e é o teto do que a mesa aguenta.
 
 ## Referência rápida por rank (M já aplicado)
 
@@ -136,7 +136,7 @@ Os números entre parênteses são a **vitória medida do grupo** numa mesa de 4
 
 Não conte inimigos, conte **quantas vezes eles rolam ataque por rodada**. É esse número que decide se a cena machuca:
 
-**E conte ponderado: uma ação que vem com Ação Especial ou dano de Alma vale duas comuns.** Foi o que a simulação mostrou — oito ações de 4 Mestres de Gu derrubam o grupo (13% de vitória no rank 3), enquanto oito ações de 2 Mestres + uma Horda são uma luta ganhável (55%). O que machuca não é rolar mais dados, é **rolar dados que a RD não come e que custam a ação do jogador**.
+**E conte ponderado: uma ação que vem com Ação Especial ou dano de Alma vale duas comuns.** Foi o que a simulação mostrou — oito ações de 4 Mestres de Gu levam o grupo ao limite (56% de vitória no rank 3), enquanto as mesmas oito ações vindas de 2 Mestres + uma Horda são uma luta ganhável com folga (93%). O que machuca não é rolar mais dados, é **rolar dados que a RD não come e que custam a ação do jogador**.
 
 | Ações ponderadas / rodada | O que a mesa sente (grupo de 4, rank igual) |
 |---|---|
@@ -151,18 +151,18 @@ Não conte inimigos, conte **quantas vezes eles rolam ataque por rodada**. É es
 
 ## Exemplos prontos
 
-**Bandido da Estrada (Recruta, rank 1)** — VIT 4, Defesa 11, arma leve (`1d4+FOR`). Anda em bando de 3 a 5.
+**Bandido da Estrada (Recruta, rank 1)** — VIT 6, Defesa 11, arma leve `1d6+FOR` (é o `M d6` do molde, com M 1). Anda em bando de 3 a 5.
 
-**Batedor do Culto (Guerreiro, rank 2)** — VIT 16, Defesa 14, RD 2, Gu do Fulgor Lunar (`1d6 × 2`) + Gu de Escamas Ocultas ativo.
+**Batedor do Culto (Guerreiro, rank 2)** — VIT 24, Defesa 14, RD 2, Gu do Fulgor Lunar (`2d10`, o pool do [[📖 Catálogo de Gu|Catálogo]]) + Gu de Escamas Ocultas ativo.
 
-**Fera-Gu Selvagem de Presas Longas (Elite, rank 2)** — VIT 28, Defesa 16, RD 4, mordida `1d10+FOR` (arma pesada + 1 Nível natural), investida que aplica Lentidão.
+**Fera-Gu Selvagem de Presas Longas (Elite, rank 2)** — VIT 42, Defesa 16, RD 4, mordida `2d12+FOR` (arma pesada + 1 Nível natural), investida que aplica Lentidão.
 
-**Ancião Renegado (Chefe, rank 3)** — VIT 168 (rank 3, ×3), Defesa 18, RD 8 (Gu do Dossel Celestial sustentado), dois ataques por rodada: Gu do Cristal de Gelo (`1d8 × 4`, aplica Lentidão) ou golpe melee `1d12+FOR` (arma média + 2 Níveis do Gu de Força ativo). Ignora a primeira Lentidão/Confuso sofrida na cena.
+**Ancião Renegado (Chefe, rank 3)** — VIT 252 (`63 × M`, M 4), Defesa 18, RD 8 (Gu do Dossel Celestial sustentado), dois ataques por rodada: Gu do Cristal de Gelo (`4d10`, aplica Lentidão) ou golpe melee `4d12+FOR` (arma média + 2 Níveis do Gu de Força ativo). Ignora a primeira Lentidão/Confuso sofrida na cena.
 
 ### Imortais (rank 6+) — some a densidade de Marca
 
 Um Imortal não se descreve só pelo rank. Declare **rank + nível de domínio no Caminho principal** (ver [[☯️ Marcas de Dao|Marcas de Dao]]) — é o nível de domínio que diz quantos Níveis de Dano ele soma nos Gu do Caminho dele, e é isso que decide se a luta é difícil ou impossível.
 
-**Imortal Recém-Ascendido (Elite, rank 6, Vislumbre)** — VIT `14 × 32` = 448, Defesa 20, RD 64, Gu Imortal de ataque `1d8 × 32` no passo padrão. Perigoso, mas ainda "novo".
+**Imortal Recém-Ascendido (Elite, rank 6, Vislumbre)** — VIT `21 × 32` = 672, Defesa 20, RD 64, Gu Imortal de ataque `32d8` no passo padrão. Perigoso, mas ainda "novo".
 
-**Imortal Denso (Chefe, rank 6, Mestre — 30.000 Marcas)** — VIT 1.344, Defesa 22, RD 64, mesmo Gu Imortal mas **+2 Níveis** pelas Marcas: `1d12 × 32`. Rola quase o dobro do anterior no mesmo rank. É o exemplo de por que a contagem de Marca importa mais que o número do rank.
+**Imortal Denso (Chefe, rank 6, Mestre — 30.000 Marcas)** — VIT `63 × 32` = 2.016, Defesa 22, RD 64, mesmo Gu Imortal mas **+2 Níveis** pelas Marcas: `32d12`. Rola quase o dobro do anterior no mesmo rank. É o exemplo de por que a contagem de Marca importa mais que o número do rank.

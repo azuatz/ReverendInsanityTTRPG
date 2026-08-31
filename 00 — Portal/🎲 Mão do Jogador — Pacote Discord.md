@@ -57,7 +57,7 @@ Você **não precisa ter lido nada** pra jogar. Tudo que importa está neste ser
 
 **2 · Abertura e Essência.** Todo cultivador tem um espaço interno (a **Abertura**) com um combustível (a **Essência/QI**). Ativar um Gu gasta essência. Acabou a essência, acabou a mágica.
 
-**3 · Rank e Aptidão.** Rank vai de 1 a 9 — o seu e o dos Gu. A **Aptidão** (20% a 100%, rolada na criação) é seu talento nato: define o tamanho da sua Abertura e **até onde você pode chegar na vida**. É pública e é injusta. O mundo é assim de propósito.
+**3 · Rank e Aptidão.** Rank vai de 1 a 9 — o seu e o dos Gu. A **Aptidão** (21% a 100%, rolada na criação) é seu talento nato: define o tamanho da sua Abertura e **até onde você pode chegar na vida**. É pública e é injusta. O mundo é assim de propósito.
 
 **4 · Caminho.** Cada Gu pertence a um Caminho — Força, Lua, Sangue, Alma, Veneno... A sua coleção define seu estilo. **Você é os Gu que juntou, não o seu rank.**
 
@@ -108,7 +108,7 @@ Custo: 1 ponto por degrau até +3; de +3 pra +4 custam 2. Descer um atributo a �
 3. **Atributos** — distribua os 12 pontos (ou o que sobrou).
 4. **Números derivados** — a mensagem 8 tem as contas. São cinco minutos.
 5. **Arma** — escolha uma arma simples. É o que você tem.
-6. **Vínculos** — as três linhas do rodapé da ficha. **Não são opcionais**: por que você anda com o grupo, quem no mundo importa pra você, e o que te faria trair. O mestre usa as três.
+6. **Vínculo e amarras** — as três linhas do rodapé da ficha, e nenhuma é opcional. A **primeira** é o **Vínculo**, e é a única com regra: um laço declarado com o personagem de **outro jogador** — uma vez por sessão, agir por causa dele aceitando um custo real te dá **vantagem** num teste (e quebrar o Vínculo vira uma dívida em favor de quem foi deixado). As outras duas são **laços de ficha, sem mecânica**: quem no mundo importa pra você, e o que te faria trair. O mestre usa as três.
 
 **Nada de Gu na ficha.** Ele vem no jogo. 🐛
 

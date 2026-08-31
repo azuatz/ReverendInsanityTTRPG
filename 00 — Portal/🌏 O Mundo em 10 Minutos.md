@@ -39,13 +39,13 @@ Coisas importantes sobre eles:
 
 Todo personagem tem uma **Abertura** (um espaço interno, na barriga) que armazena **Verdadeira Essência** — o combustível pra ativar Gu. Ativar um Gu gasta essência.
 
-O **rank** do cultivador (1 a 9, igual aos Gu) diz duas coisas:
-- **Quanta essência ele tem** (dobra a cada degrau).
-- **Qual rank de Gu ele consegue ativar** — normalmente, do seu rank pra baixo. Um Gu acima do seu rank simplesmente não responde, salvo num truque caro e arriscado.
+O **rank** do cultivador (1 a 9, igual aos Gu) diz **qual rank de Gu ele consegue ativar** — normalmente, do seu rank pra baixo. Um Gu acima do seu rank simplesmente não responde, salvo num truque caro e arriscado. E quanto maior o rank, mais forte bate cada Gu na mão dele.
+
+Quem manda no **tamanho do tanque** é outra coisa: cada rank mortal tem **quatro estágios** (Inicial · Médio · Alto · Pico), e é subir de **estágio** que **dobra a essência** — `% de aptidão × 4`, dobrando a cada estágio. O rank não engorda o tanque: ao subir de rank o contador volta ao começo, só que agora com essência de um grau melhor.
 
 Ranks **1 a 5 são a fase mortal**. Rank 6 em diante é imortal, e a passagem entre os dois é o maior evento do jogo.
 
-**Aptidão** é o talento nato: uma porcentagem de 20% a 100%, sorteada na criação, que define o tamanho da Abertura e até onde a pessoa consegue chegar na vida. Um Grau D não passa do rank 2 sem ajuda excepcional. Isso é injusto de propósito — o mundo é assim.
+**Aptidão** é o talento nato: uma porcentagem de 21% a 100% (`1d80+20`), sorteada na criação, que define o tamanho da Abertura e até onde a pessoa consegue chegar na vida. Um Grau D não passa do rank 2 sem ajuda excepcional. Isso é injusto de propósito — o mundo é assim.
 
 ### 3. Caminho (Dao) — a especialidade
 

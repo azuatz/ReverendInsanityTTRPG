@@ -68,7 +68,7 @@ Cole isto na cabeça e 80% do sistema fica óbvio.
 | CA (Classe de Armadura) | **Defesa** | `10 + DES + rank + rank do Gu de movimento ativo`. Ninguém rola pra defender |
 | PV | **Vitalidade** *e* **Alma** — duas barras separadas | `(18 + 3×CON + 4×B) × M` e `(12 + 2×VON + 3×B) × M`. Dano de Alma **ignora armadura e RD por completo** |
 | Resistência a dano | **RD** | Subtrai do dano rolado. Duas fontes: a maior + metade da segunda |
-| Poção de cura | **Gu de Grama Curativa** (`M d10`, morre no uso) | Tradução 1:1. Só que é escassa e devolve mais ou menos o que um golpe tira |
+| Poção de cura | **Gu de Grama Curativa** (`M d8`, morre no uso) | Tradução 1:1. Só que é escassa e devolve mais ou menos o que um golpe tira |
 | Item mágico +1 | **Arma/armadura de material de fera** (+1 Nível ou +1 RD, uma vez só) | Ou um Gu. Não existe loja de item mágico |
 | Descanso curto / longo | **Iguais** | Curto = metade da Vitalidade e da Essência. Longo = tudo |
 | Iniciativa | **Não se rola.** Ordem por Destreza, do maior pro menor | Ganha 3 minutos por combate |
@@ -148,7 +148,7 @@ DANO = M d(dado do Caminho) + (M × B)
 Dano melee    = 1 dado da arma + FOR             ← sem Gu ativo, um dado só
 Dano melee    = (M do Gu de Força) d(arma) + FOR + (M × B)   ← com Gu ativo
 Armas         = improvisada d4 · leve d6 · média d8 · pesada d10
-Cura de Gu    = M d10
+Cura de Gu    = M d8
 ```
 
 **A partir do rank 5, não role tudo:** role 8 dados e some a média do resto (d6 3,5 · d8 4,5 · d10 5,5 · d12 6,5). Tabela pronta em [[📄 Folha de Referência]].
@@ -257,7 +257,7 @@ Custo: 1 ponto por degrau até +3, 2 pontos pra ir de +3 a +4, e baixar um atrib
 
 ```
 Hedda, a Filha do Ferreiro        Origem: Ramo Secundário (+1 ponto)
-Aptidão 63% (Grau B)              Rank 1, Estágio Inicial   M = 1   Grau B = 0
+Aptidão 63% (Grau de aptidão B)   Rank 1, Estágio Inicial   M = 1   B (Grau de Densidade) = 0
 
 FOR +3   CON +3   DES +2   AST +2   VON +2   CAR −1     (13 pontos)
 
@@ -437,7 +437,7 @@ Um Gu novo é a recompensa central deste jogo, e **quase toda sessão deve entre
 | **Rank** | A cada 8–12 sessões | Teste real: `1d20 + bônus de Aptidão` vs CD 10 / 14 / 18 / 22 |
 | **Ascensão Imortal** | Clímax de um ato inteiro | Nunca uma cena solta |
 
-**O que o estágio dá:** no **Avançado**, uma ativação por cena sai pela metade do preço. No **Pico**, a primeira ativação de cada combate sai **de graça**. É assim que o personagem sente que ficou mais solto sem você recalcular a ficha dele.
+**O que o estágio dá:** exatamente a tabela mestre, e nada além dela — a cada degrau (**Inicial · Médio · Alto · Pico**) o personagem ganha **+1 de dano por dado**, mais Vitalidade e Alma (`+4 × M` e `+3 × M`), **uma Vaga de Suporte** e **uma vaga a mais no Teto de Combo**. É assim que ele sente que ficou mais forte sem você recalcular a ficha dele.
 
 ---
 
