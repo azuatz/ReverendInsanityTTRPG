@@ -1557,3 +1557,165 @@ Extração bruta de dados de Volume 5 — Demon King's Domination, linhas 88801�
 - Zeng Luo Zi, Tu Tou Tuo e Tong Hua — 3 lone immortals rank 7 recrutados por Miao Ming Shen para a expedição, cada um com jogo político sutil de estabelecer status dentro do grupo (Zeng Luo Zi usa golpe de informação como demonstração de força; disputa silenciosa por prestígio ao escolher missões "difíceis" primeiro). (cap. 1649–1652)
 - Gui Qi Ye — companheiro leal de Miao Ming Shen, salvou a vida dele bloqueando o ataque do ice poison starfish; mais tarde cede deliberadamente a "melhor" missão restante a Miao Ming Shen como forma de retribuição/lealdade pública — gesto lido corretamente por Fang Yuan como sinal de devoção genuína ao líder, não ambição pessoal. (cap. 1648, 1652)
 - Fang Yuan reflete sobre como sua "primeira morte" na ilusão letal da blue dragon whale (como Chu Ying, rapidamente eliminado pelo thunder phoenix) na verdade poupa seus verdadeiros métodos de exposição perante o grupo — vantagem estratégica não-intencional de ser visto como "fraco" logo no início, o que reduz suspeitas sobre ele pelo resto da expedição (embora Gui Qi Ye inicialmente o subestime por isso, forçando Fang Yuan a recalibrar sutilmente sua reputação no grupo). (cap. 1650–1652)
+
+---
+
+### Trecho 30 (linhas 115501–116400) — arco: coleta de black oil na "unnamed island", resgate de Xia Lin, flashback de Xie Han Mo, sea market e pista de regret Gu
+
+## A) Gu nomeados (adendo)
+
+- **Water shell Gu** (rank 2 mortal, invenção de Fang Yuan) | rank 2 | água/movimento | forma uma casca de água ao redor do corpo do usuário, permite descer até 6 li no mar resistindo à pressão; consome pouca essência primeva | recipe criada por Fang Yuan a partir do spiral seashell encontrado na própria praia da ilha; distribuída de graça aos Mestres Gu da vila (~10 unidades + 1 para o village head) junto com a receita completa | cap. 1654
+- **Gather oil Gu** (mortal, invenção de Fang Yuan) | mortal | comida (aplicado à coleta de black oil) | aumenta a eficiência de coleta de black oil dos Mestres Gu locais | recipe desenhada por Fang Yuan usando como referência informações da herança verdadeira de Shadow Sect e da herança verdadeira de Lang Ya; ingrediente-chave inclui escamas de golden dragonfish (fera desolada) combinadas com o próprio black oil extraído | cap. 1657
+- **Regret Gu** | — (só citado pelo nome, sem detalhe de rank/efeito ainda) | — | associado à lenda do "supremo demônio" suprimido em Demon Suppression Regret Crying Sea | pista encontrada por Fang Yuan em registro deixado por Feng Jiang | cap. 1657
+- Gu de coleta especializada dos "oil collecting Gu Masters" (genérico, sem nome próprio revelado) | mortal | usado para extrair uma quantidade fixa de black oil por vez | cap. 1653
+- Gu de visão em água profunda (dark-green vision, obtido por troca por Fang Yuan em vida passada, sem nome revelado) | mortal | permite enxergar no escuro do mar profundo sem precisar de luz (luz atrairia predadores) | cap. 1656 (flashback)
+
+## B) Sistemas e atividades jogáveis (adendo)
+
+- **Profissão "oil collecting Gu Master"**: mortais especializados em explorar Earth Trenches (comuns ou submarinas) para extrair black oil; alto risco físico (pressão da profundidade, falta de oxigênio, feras marinhas, poluição corrosiva do próprio black oil no corpo mortal) compensado por alto status e riqueza; exige Gu worms especializados de coleta. Fang Yuan foi um deles por um tempo em sua vida passada. (cap. 1653)
+- **Confirmação do critério do Merit Obelisk via comparação de ranking**: Fang Yuan conclui que "mérito" = ajudar outros ativamente fazendo o trabalho (não apenas presentear soluções, nem fazer sozinho sem envolver a comunidade) — comparando sua colocação (3º lugar) contra o que teria obtido coletando black oil sozinho. Confirma-se lendo registros de outros grupos: quem escolheu missões difíceis que causaram baixas entre humanos implicados terminou no fundo do ranking, mesmo tendo matado a fera desolada alvo. (cap. 1658)
+- **Restrição de comunicação dentro do paraíso**: Gu Immortals presos na missão não conseguem se conectar a treasure yellow heaven/mundo externo nem falar diretamente uns com os outros; o único método de troca de informação entre expedições é deixar Gu mortal de informação largado na base do Merit Obelisk para o próximo grupo encontrar. (cap. 1658)
+- **Retorno ao Merit Obelisk**: basta recitar mentalmente a palavra "return" três vezes para ser teleportado de volta, de qualquer ponto dentro do raio de movimento permitido. (cap. 1658)
+- **Sea markets do Eastern Sea (sistema geral)**: classificados por tamanho (pequeno/médio/grande/super) e por duração (temporário/permanente). O modelo permanente usado aqui: ilha central que submerge periodicamente (mercado fecha) e emerge (mercado reabre); ao redor, dezenas de Gu houses em formato de barco com decks interligados formam o mercado periférico. (cap. 1658)
+- **Golden Jade House**: gambling den de acesso mais restrito da ilha central do sea market, incluindo modalidade "rock gambling" (apostas em pedras/minérios). (cap. 1658)
+- **Hierarquia social por cor de escama entre mermen**: branco (raríssimo, elegível a saint/saintess), azul e vermelho (comuns), preto (amaldiçoado — morto ao nascer, geralmente pelos próprios pais). (cap. 1656)
+
+## C) Regras do mundo (adendo)
+
+- Black oil é material imortal de caminho da comida (food path); TODA Earth Trench, comum ou submarina, o produz — recurso de alta produção e baixo custo (traço característico do caminho da comida). (cap. 1653)
+- Contato prolongado de corpo mortal com black oil causa poluição/corrosão progressiva e quase irreversível (marcas de dao conflitantes gravadas no corpo) — mata lentamente sem método especializado de remoção. (cap. 1653, 1655)
+- Merman é humano variante capaz de respirar debaixo d'água, afiliado a rios/corpos d'água, mestre nato de caminho da água; nesta grotto-heaven específica coexiste com humanos em pé de igualdade e há até casamentos mistos — situação rara, já que no mundo externo merfolk é oprimido e tem status inferior ao humano. (cap. 1656, 1658)
+- Regra espacial confirmada do paraíso: todo Gu Immortal em missão fica restrito a um raio de movimento limitado a partir do ponto de partida — mesma restrição vista na primeira missão de Fang Yuan. (cap. 1658)
+- Toda herança verdadeira (true inheritance) carrega a marca pessoal, estilo e desejo não realizado de seu criador — exemplos citados em retrospecto: Flower Wine Monk (vingança contra o clã Gu Yue), Eighty-Eight True Yang Building (proteção da linhagem Huang Jin, obra de Giant Sun Immortal Venerable), herança de Hei Fan (originalmente pretendida à neta, mas frustrada pelo destino), Shadow Sect (esperança residual de Spectral Soul Demon Venerable após sua captura). A herança de Paradise Earth se distingue por ser serena, gentil, quente e luminosa — reflexo do caráter de seu criador. (cap. 1658)
+
+## D) Números e preços (adendo)
+
+- Black oil disponível na Earth Trench da unnamed island: cerca de **3 milhões de kg**, extraíveis por um Gu Immortal em meio dia de esforço total. (cap. 1653)
+- Water shell Gu permite descida de até **6 li** no mar. (cap. 1654)
+- Water shell Gu distribuídos por Fang Yuan: **~10 unidades** aos Mestres Gu da vila + **1 unidade** ao village head = 11 no total, todas de graça, junto com a receita. (cap. 1654)
+- Ranking de Fang Yuan no Merit Obelisk após a missão da vila de pescadores: **3º lugar**. (cap. 1658)
+- Tempo decorrido entre a criação do gather oil Gu e a chegada ao sea market: **70 a 80 dias**. (cap. 1658)
+
+## E) Locais e atividades (adendo)
+
+- **Unnamed island / fishing village**: ilha pequena e pobre dentro da grotto-heaven, população de Mestres Gu em "dígitos únicos" (poucas unidades), desenvolvimento estagnado há séculos por causa da abundância de black oil suprimir outros recursos cultiváveis. (cap. 1653–1654)
+- **Earth Trench submarina local**: fonte do black oil, cercada de perigos (weaving sea spiders em enxame, seashell sharks — tubarões que criam dentes a partir de conchas enraizadas na boca —, impact currents que arremessam corpos com força brutal). (cap. 1653–1656)
+- **Sea market da grotto-heaven**: mercado marinho permanente situado próximo à Demon Suppression Regret Crying Sea; ilha central que submerge/emerge periodicamente; periferia de Gu houses-barco interligadas; presença mista de humanos e mermen (quase metade da população é merman, incomum fora deste paraíso). (cap. 1658)
+- **Demon Suppression Regret Crying Sea**: área proibida da grotto-heaven; segundo a lenda, Paradise Earth Immortal Venerable suprimiu ali um "supremo demônio" com uma super immortal formation para forçá-lo a se arrepender eternamente — o choro de arrependimento do demônio é constantemente audível na região. Ainda não visitada por Fang Yuan neste ponto da narrativa. (cap. 1657)
+- **Golden Jade House**: gambling den de mais alta autoridade na ilha central do sea market, acesso restrito a Mestres Gu comuns. (cap. 1658)
+
+## F) Golpes matadores e receitas (adendo)
+
+- **Water shell Gu** — recipe completa doada por Fang Yuan à vila; material-chave: spiral seashell nativo da própria praia da ilha (recurso 100% local e replicável pelos habitantes). (cap. 1654)
+- **Gather oil Gu** — recipe criada por Fang Yuan referenciando as heranças verdadeiras de Shadow Sect e de Lang Ya como base teórica; combina black oil com escamas de golden dragonfish (fera desolada) por alta compatibilidade de dao marks. (cap. 1657)
+
+## G) Achados soltos (adendo)
+
+- **Backstory da vida passada de Fang Yuan (500 anos)**: foi oil collecting Gu Master em Eastern Sea; quase se tornou genro de um velho Gu Master que o contaminou de propósito com black oil para forçá-lo ao casamento com a filha (único jeito de repassar o método/família sem herdeiro homem); quase morreu afogado em black oil numa Earth Trench após ser arremessado por impact currents; foi salvo por **Xie Han Mo**, saintess merman de escamas brancas — o grande amor de sua vida passada, cujo nome ele "nunca esqueceu". (cap. 1653, 1655–1656)
+- **Paralelo nesta vida**: Fang Yuan salva **Xia Lin**, jovem mermaid de escamas azuis (comuns) presa e quase corroída pelo black oil numa cena que espelha deliberadamente seu próprio resgate na vida passada; reconhece conscientemente que ela não é Xie Han Mo — aparência e cor de escama diferentes, disposição apenas parecida. (cap. 1655–1657)
+- **Flashback da vida passada**: Xie Han Mo intervém publicamente para defender Fang Yuan (então mortal comum) de humilhação por **Lu Da**, merman rank 4 apoiado pela liderança da tribo Frost Tide, num confronto de apostas no sea market — cena interrompida no momento em que Fang Yuan se oferece para apostar em nome dela, reconhecido pelos guardas dela como "o humano que salvamos". (cap. 1658)
+- **Filosofia pessoal de Fang Yuan sobre bem e mal**: reafirma que age sem culpa ao fazer o mal e sem alteração emocional ao fazer o bem — só existem "coisas que o beneficiam" e "coisas que o prejudicam"; está disposto a realizar boas ações estrategicamente diante da herança de Paradise Earth para maximizar benefício próprio. (cap. 1658)
+- Fang Yuan contempla, de forma inédita, deixar sua própria "herança verdadeira de Fang Yuan" no futuro caso morra sem esperança, para incentivar um herdeiro a perseguir a vida eterna — reflexão pessoal rara sobre legado, motivada pela experiência com a herança de Paradise Earth. (cap. 1658)
+- Registros de Miao Ming Shen e seu grupo deixados na base do Merit Obelisk (Gu mortal de informação): confirmam convivência igualitária entre humanos e mermen no paraíso; relatam que um grupo que escolheu missões difíceis (com baixas humanas colaterais) terminou no fundo do ranking apesar de matar a fera desolada alvo; a pista mais valiosa — existência da Demon Suppression Regret Crying Sea e menção a regret Gu — foi deixada especificamente por **Feng Jiang**. (cap. 1658)
+
+---
+
+### Trecho 31 (linhas 116401–117400) — arco: golpe de Fang Yuan contra Golden Jade House, flashback completo de Xie Han Mo (investigação de corrupção, acusação de affair), Sea God Ceremony e início do Saintess Test
+
+## A) Gu nomeados (adendo)
+
+- **Gather oil Gu** (retomado) — confirmado como **rank 5**, gasto de recurso é **medula óssea do usuário** (não essência primeva), o que permite até Mestres Gu rank 1 usá-lo; популар mas perigoso sem proteção — usuários sem Gu de caminho do osso já morreram por overuse; com Gu de caminho do osso junto, é seguro. Extremamente cobiçado no mercado por sua eficiência incomum na coleta de black oil. (cap. 1659)
+- Gu carcaça rank 5 sem nome revelado, usado como "trunfo" fraudulento pelo dono da Golden Jade House escondido dentro de uma rocha falsa — Fang Yuan o transporta com um immortal killer move de caminho do tempo (parada total de tempo na ilha) para dentro da rocha escolhida por Xia Lin, virando a aposta a favor dela sem que ninguém perceba. (cap. 1660)
+- Jade eye pearl — material Gu rank 4 (mortal, pérola em forma de globo ocular brilhante), usado por mermen como símbolo de pedido de casamento/declaração de amor no Sea God Ceremony; sem uso prático para um Gu Immortal como Fang Yuan. (cap. 1663)
+
+## B) Sistemas e atividades jogáveis (adendo)
+
+- **Rock gambling (jogo de apostas em pedras) — mecânica detalhada**: rochas contêm (ou não) Gu worms hibernando; jogadores escolhem rochas e as dissecam com métodos específicos (grey soil method, flame smoking method, dripping method, blue mark method, planting qi method — cada um com efeitos e riscos diferentes sobre a rocha e o Gu dentro); casas de apostas mantêm "rochas falsas" artificiais fabricadas com Gu vivos/mortos escondidos dentro de fragmentos de rocha para simular autenticidade; dissecação pode ser feita pelo próprio apostador ou por um "rock dissecting Gu Master" profissional contratado pela casa. (cap. 1659–1660)
+- **Sistema de empréstimo/agiotagem entre mermen**: taxa de mercado padrão citada como 30% de juros; casas de penhor golpistas (como Golden Jade House) alteram unilateralmente os termos do contrato (de 10% para 60%) usando Gu mortal de informação como "contrato" adulterável a favor do credor — mecanismo de exploração financeira central da trama local. (cap. 1659)
+- **Sea God Ceremony (cerimônia dos mermen)**: evento periódico onde (1) casais se formam via arremesso de pérolas (aceitar = pegar a pérola do chão e colocá-la na boca em público = aceitar o pedido), e (2) uma nova Saintess é eleita entre candidatas (não precisam ser todas de escama branca, ao contrário do que se esperaria). Detalhes de vestimenta tradicional: guerreiros usam armaduras de concha e armas feitas à mão com material local; mulheres usam tiras de alga colorida codificadas por status civil (rosa = solteira jovem, preto = viúva, dourado/prata/cristal = nobreza, marrom/azul-escuro/cinza = mermaids comuns). (cap. 1662–1663)
+- **Saintess Test — primeira etapa revelada: "agulha dourada no black oil"**: candidatas devem encontrar uma agulha dourada minúscula dentro de um vaso gigante cheio de black oil espesso, dentro de um tempo determinado — teste de precisão/resistência sob condições hostis (black oil corrosivo). (cap. 1664)
+- **Papel institucional da Saintess confirmado**: após eleita, sua missão principal é entrar na Demon Suppression Regret Crying Sea e usar canto para acalmar a intenção assassina do demônio selado, estabilizando a região — elo direto com o objetivo de Fang Yuan de obter acesso a essa área e ao regret Gu. (cap. 1662)
+- **Investigação institucional entre mermen**: existe um corpo de "investigadores" do Merman Sacred Court que pode investigar cidadãos comuns (incluindo humanos) sem autorização prévia, mas precisa de um "token da assembleia de anciãos" para investigar a própria Saintess — mostra estrutura de poder com camadas de proteção política. (cap. 1663)
+- **Sistema de recompensas do Merit Obelisk (detalhe expandido)**: itens listados têm "preço" em mérito acumulado — incluem materiais imortais, Immortal Gu, receitas de Immortal Gu, immortal killer moves e até Immortal Gu House; itens mais valiosos ficam fora do alcance de quem tem pouco mérito, gerando competição crescente entre os Gu Immortals presos no paraíso (alguns começam a espalhar desinformação uns contra os outros). (cap. 1662)
+
+## C) Regras do mundo (adendo)
+
+- Confirmado: dentro desta grotto-heaven/paraíso, **não existem Mestres Gu de caminho do roubo (theft path)** — ausência notável usada como plot device (impossibilita roubo do gather oil Gu de Xia Lin por meios convencionais). (cap. 1659)
+- Regra espacial reafirmada com número concreto: Fang Yuan tentou se aproximar da Demon Suppression Regret Crying Sea e foi barrado a **30 li** de distância da ilha — limite físico intransponível mesmo para um Gu Immortal rank 8. (cap. 1662)
+- Confirmado: **Fixed Immortal Travel** (killer move de espaço) não funciona para reentrar no paraíso depois que o usuário sai dele — arranjo de Paradise Earth Immortal Venerable bloqueia até movimentação espacial de alto nível. (cap. 1662)
+- No mundo externo (as cinco regiões), união entre humano e merman é proibida — casal e filhos mistos são discriminados, hostilizados ou até mortos por ambos os lados; dentro deste paraíso específico, essa união é livre e celebrada. (cap. 1663)
+- Regra confirmada sobre a Saintess do povo merman: ao assumir o cargo, deve permanecer virgem/solteira pela vida toda (não pode se casar). (cap. 1662)
+
+## D) Números e preços (adendo)
+
+- Interesse fraudado no golpe da Golden Jade House: contrato original de **10%**, alterado sem consentimento para **60%**; "oferta de acordo" da casa reduzia para 30% (justamente a taxa "de mercado" citada). (cap. 1659)
+- Aposta final da rock gambling entre Xia Lin e o dono da Golden Jade House: **cinco rodadas** (mudou de "2 de 3" para 5), apostando a **casa de jogo inteira (Golden Jade House)** contra o **gather oil Gu rank 5** de Xia Lin; Xia Lin venceu **todas as 5 rodadas** (a 1ª por sorte genuína, as demais manipuladas às escondidas por Fang Yuan). (cap. 1659–1661)
+- Ranking de Fang Yuan no Merit Obelisk despenca de 3º para **5º lugar** em ~20 dias, à medida que outros Gu Immortals avançam mais agressivamente em busca de recompensas. (cap. 1662)
+- Tempo decorrido: mais de **vinte dias** entre o caso da Golden Jade House e a checagem seguinte do ranking; mais **três dias** depois disso até a nova missão do Sea God Ceremony aparecer. (cap. 1662)
+- Total de candidatas ao posto de Saintess nesta rodada (2ª cerimônia, após acusação de affair forçar nova eleição): **sete** mermaid girls restantes na dança final, de um total inicial de **nove** competidoras. (cap. 1663–1664)
+
+## E) Locais e atividades (adendo)
+
+- **Merman Sacred City**: capital/cidade sagrada dos mermen dentro da grotto-heaven; ruas organizadas com casas em forma de concha/casco de caranguejo e tartaruga gigante, presença de Gu houses como símbolo de riqueza; palco do Sea God Ceremony. (cap. 1663)
+- **Sea God's Spring**: fonte espiritual gigante no centro da praça principal de Sacred City, de onde jorra água que carrega a grã-anciã (grand elder) do povo merman durante a cerimônia; local onde o Saintess Test é conduzido. (cap. 1664)
+
+## F) Golpes matadores e receitas (adendo)
+
+- **Snap de parada de tempo (immortal killer move de caminho do tempo, não-nomeado explicitamente no texto, marcado com nota de rodapé de humor "[1] ZA WARUDO")**: Fang Yuan estala os dedos e paralisa completamente Golden Jade House e a ilha inteira, movendo-se livremente enquanto tudo (incluindo pessoas) fica imóvel — usado para trocar sorrateiramente a carcaça de Gu rank 5 entre as rochas apostadas. Demonstração de altíssimo domínio de caminho do tempo em uso furtivo/não-letal. (cap. 1660)
+
+## G) Achados soltos (adendo)
+
+- **Backstory de Xia Lin**: órfã, criada só pelo avô (falecido há poucos meses antes destes eventos); funeral marinho de merman é caro, ela se endividou para pagá-lo, quase morreu coletando black oil para saldar a dívida (evento do Trecho anterior); posteriormente vítima de golpe de agiotagem da Golden Jade House que quase a forçou a entregar seu gather oil Gu. (cap. 1659)
+- **Su Yi** — mermaid de escama branca (raríssima), filha mimada de um líder de tribo forte, arrogante mas socialmente hábil; candidata a Saintess nesta cerimônia; usa Xia Lin estrategicamente como uma de suas 4 "seguidoras" cotadas (o gather oil Gu de Xia Lin será útil numa etapa específica do teste, segundo pesquisa prévia de Su Yi). Recebe dezenas de pérolas de pretendentes que na verdade eram destinadas a ela por engano de mira. (cap. 1662)
+- **Resolução do arco de vingança de Fang Yuan contra Golden Jade House**: após o golpe manipulado, o dono (yellow scaled merman) se rende publicamente; Xia Lin (guiada por Fang Yuan) devolve a casa em troca de promessa pública de reforma/boas ações — jogada calculada de Fang Yuan para reforçar sua própria estratégia de "ajudar sem se expor", com o dono humilhado chamando Xia Lin de "saintess" por engano. (cap. 1661)
+- **Flashback extenso da vida passada (arco Xie Han Mo)**: Fang Yuan ajuda Xie Han Mo, então Saintess vigente, a investigar corrupção da liderança da tribo Frost Tide via evidências obtidas na mesma Golden Jade House; a facção corrupta retalia espalhando boato de affair entre a Saintess e o "humano Gu Yue Fang Yuan", mobilizando um investigador do Sacred Court (Wu De) para acossar Fang Yuan mesmo sem autorização formal contra a própria Saintess; Xie Han Mo recusa entregá-lo, dizendo a frase-chave "Fang Yuan, você é uma boa pessoa" e explicando que reconhece nele um cansaço profundo da vida/mundo por trás da coragem de se sacrificar — cena que humaniza Fang Yuan em contraste com sua indiferença moral atual. Consequência direta: o boato força uma segunda edição do Sea God Ceremony para reeleger a Saintess, o que abre a mesma disputa política revivida nesta vida através de Su Yi vs. a candidata apoiada pela tribo Frost Tide (Lady Qiu Shuang). (cap. 1661–1662)
+- Confirmado: na narrativa atual (reencarnação/nova linha do tempo), o padrão se repete de forma paralela — Fang Yuan usando o pseudônimo "Chu Ying" ajuda Xia Lin como fez com Xie Han Mo, sugerindo um ciclo temático recorrente de "dívida de gratidão" que ele está reencenando conscientemente. (cap. 1662–1663)
+
+---
+
+### Trecho 32 (linhas 117401–118400) — arco final: clímax do flashback de Xie Han Mo (Saintess Test, discurso de Dong Lei/Frost Tide, canções de Fang Yuan, ameaça de Frost Tide tribe's leader) e retomada da linha atual (armadilha de Su Yi contra Xia Lin, resgate por "Chu Ying") — FIM DO ESCOPO DESTA LEITURA (linha 118400)
+
+## A) Gu nomeados (adendo)
+
+- **Zither Gu** (rank 3, mortal, genérico/emprestado) | rank 3 | som | instrumento-Gu usado para acompanhamento musical no Saintess Test; Fang Yuan pede emprestado um em público e finge refiná-lo/ajustá-lo no local como cortina de fumaça para ganhar tempo — na real ele já sabia tocar a canção de improviso. (cap. 1667)
+- Giant music shell (concha gigante, material de fera desolada, não é Gu mas immortal-tier) | — | som | usada como palco natural para o Saintess Test; contém vasta quantidade de dao marks de caminho do som, amplifica qualquer voz humana/merman num raio de mil li. (cap. 1666)
+- Cartilagem de caminho do som na garganta dos mermen (material de Gu, não nomeada) | — | som | órgão natural presente em todo merman que os torna cantores natos; historicamente caçada por humanos como material de Gu de som de alta qualidade. (cap. 1666)
+
+## B) Sistemas e atividades jogáveis (adendo)
+
+- **Saintess Test — rodadas reveladas em detalhe**: (1) agulha dourada em black oil (já registrada); rodada de "eerie fire" (fogo estranho que queima a alma, exige Gu especial de resistência — Frost Tide tribe cola com antecedência ao equipar sua candidata) — Fang Yuan atravessa esse "caminho de fogo" no lugar de Xie Han Mo, desmaiando ao final mas garantindo a passagem dela; (2) rodada final = competição de canto: cada candidata canta **três músicas** em cima da giant music shell, cada uma precisa produzir um efeito distinto — 1ª acalma as ondas do mar, 2ª atrai seres vivos, 3ª repele feras marinhas — preparadas com Gu de som e muita prática prévia; se todas as candidatas forem eliminadas, o posto de Saintess fica vago. (cap. 1664–1668)
+- **Mecânica de "seguidores" da Sea God Ceremony**: cada candidata a Saintess tem um número fixo de vagas de seguidores (4, confirmado no Trecho anterior); regras da cerimônia impedem abandonar um seguidor sem motivo formal — mas permitem expulsão por "corrupção ou crime comprovado", abrindo brecha para armações políticas (usada contra Xia Lin). (cap. 1669)
+- **Regra de substituição entre candidatas**: se uma candidata morre/desiste, uma "irmã" (outra seguidora do mesmo grupo/facção) pode assumir seu lugar na competição — usado por Frost Tide tribe's leader para substituir a executada Qiu Shuang por Dong Lei sem perder a vaga na disputa. (cap. 1665)
+- **Sistema de investigação corrupto do Merman Sacred Court**: confirmado que investigadores podem fabricar evidências (vídeos/áudios falsos via Gu mortal de informação) e prender um Mestre Gu sob falsa acusação a pedido de uma facção política, oferecendo à vítima "escolha" entre negar (perder de qualquer forma) ou confessar em troca de recursos — mecanismo de coação política plenamente ilustrado duas vezes na mesma linha narrativa (contra Xie Han Mo/Fang Yuan no passado, contra Xia Lin no presente). (cap. 1669–1670)
+- **Regra sobre teste de virgindade da Saintess**: candidatas devem ser comprovadamente virgens; violação descoberta publicamente resulta em execução sumária (decapitação) — ilustrado com o caso de Qiu Shuang. (cap. 1665)
+
+## C) Regras do mundo (adendo)
+
+- Confirmado: a posição de Saintess entre os mermen não é apenas religiosa — é o mecanismo formal pelo qual as facções da elite merman distribuem recursos e influência política por décadas sem conflito aberto; a facção vencedora "recebe fatia maior do bolo". Frost Tide tribe's leader articula isso explicitamente como uma verdade cínica do poder ("a escuridão é a verdadeira governante do mar"). (cap. 1668)
+- Regra confirmada: mesmo perdendo publicamente uma disputa política, um líder de facção poderoso (como Frost Tide tribe's leader) não sofre consequência existencial — apenas "sacrifica bodes expiatórios" e recua temporariamente; grande elder tem autoridade para conter mas não eliminar essas facções, por medo de fraturar toda a Sacred Court. (cap. 1668)
+- Regra confirmada sobre o corpo de mermen: todo merman nasce com dao marks abundantes de caminho da água e uma cartilagem vocal rica em dao marks de caminho do som — canto de mermaid pode literalmente hipnotizar marinheiros a ponto de ignorarem perigo iminente (lenda confirmada como realidade, não exagero). (cap. 1666)
+
+## D) Números e preços (adendo)
+
+- Alcance de amplificação da giant music shell: **mil li** de raio. (cap. 1666)
+- Zither Gu emprestado por Fang Yuan: **rank 3**. (cap. 1667)
+- Progresso da Sea God Ceremony (linha atual, arco Su Yi/Xia Lin): restam apenas **duas candidatas** (Su Yi e Zhao Lu) antes da rodada final. (cap. 1669)
+
+## E) Locais e atividades (adendo)
+
+- **Palco flutuante da giant music shell**: concha gigante que flutua na superfície do mar, estabilizada por dezenas de guerreiros merman; abre-se como um "palco natural" para os cantos do Saintess Test, iluminada por luar quando a performance é bem-sucedida. (cap. 1666–1667)
+- **Beco escuro na Merman Sacred City**: cenário da tentativa de sequestro/assédio contra Xia Lin (6 mermen emboscadores, incluindo um usando Gu de infiltração em parede) — resgatada por Fang Yuan/"Chu Ying". (cap. 1670)
+
+## F) Golpes matadores e receitas (adendo)
+
+- Nenhuma receita nova de Gu nesta seção; ver Trechos anteriores para gather oil Gu e water shell Gu.
+- **Duas canções compostas/"criadas" por Fang Yuan para o Saintess Test** (na verdade trazidas de sua vida em outro mundo/Terra — easter eggs confirmados pelas notas de rodapé do texto-fonte): a 1ª é identificada nas notas como "White Moonlight" (Jeff Chang), a 2ª como "Wishing We Last Forever" (Faye Wong, baseada no poema clássico "Shuidiao Getou" de Su Shi) — usadas como estratagema de última hora para substituir as músicas roubadas por espionagem inimiga, sem prática prévia, ainda assim vencendo pela qualidade da composição. (cap. 1667–1668)
+
+## G) Achados soltos (adendo)
+
+- **Resolução do flashback de Xie Han Mo (arco da vida passada de Fang Yuan)**: Fang Yuan atravessa o "eerie fire" no lugar dela (quase morre, desmaia), depois cobre o roubo da 1ª canção (por um espião infiltrado entre os 4 seguidores de Xie Han Mo, nunca identificado nominalmente) compondo e tocando de improviso duas canções trazidas de sua vida terrena; Xie Han Mo se emociona genuinamente, reconhecendo nele "alguém que a entende"; ao final do Trecho, Frost Tide tribe's leader transmite diretamente a Fang Yuan um longo discurso ameaçador/cínico sobre poder e cinismo político ("você é jovem demais, ingênuo demais") — o flashback é interrompido no meio desse discurso, sem resolução mostrada de como a disputa termina. (cap. 1664–1668)
+- **Revelação da identidade do espião**: nunca revelada explicitamente nesta leitura — só confirmado que era um dos 3 seguidores próximos (Fang Yuan, guarda de escama vermelha, guarda de escama azul), gerando tensão de desconfiança mútua breve mas não resolvida no trecho lido. (cap. 1666)
+- **Bu Su Lian**: viúva do ex-terceiro-ancião do Sacred Court, aliada estratégica (não subordinada) de Frost Tide tribe's leader; inteligente e cética, é a única que desconfia corretamente que a canção de Fang Yuan é criação genuína dele e não uma música preexistente — suspeita correta mas com conclusão errada sobre a origem. (cap. 1665, 1668)
+- **Retomada da linha temporal atual**: paralelo deliberado se completa — assim como Xie Han Mo foi vítima de acusação forjada de corrupção/affair para desestabilizá-la politicamente, agora Xia Lin é vítima de acusação forjada de traição contra Su Yi (evidências falsificadas via Gu de informação) articulada pelas próprias nanás de Su Yi para abrir uma vaga de seguidora para um "especialista" contratado pela tribo dela — Su Yi, ao contrário de Xie Han Mo (que protegeu Fang Yuan), escolhe sacrificar Xia Lin passivamente ("vá com eles, a justiça vai provar sua inocência"), numa reversão moral do padrão do flashback. (cap. 1669)
+- Xia Lin recusa o "acordo" oferecido pelo investigador corrupto (confessar falsamente em troca de recursos), escolhendo dignidade e silêncio; é expulsa da pousada por pressão pública, depois emboscada por 6 mermen numa rua escura antes de ser resgatada por Fang Yuan/"Chu Ying", que revela ter acompanhado toda a Sea God Ceremony à distância e decide levá-la embora, sentindo-se "parcialmente responsável" por tê-la colocado nessa situação ao lhe dar o gather oil Gu. (cap. 1669–1670)
+- **FIM DO ESCOPO DE LEITURA**: arquivo-fonte interrompido na linha 118400 (Chapter 1670, "Xia Lin nodded, she no longer had no interest in Sacred City" — Fang Yuan a leva embora da Sacred City). Continuação do arco (resultado da disputa Su Yi vs. Zhao Lu, destino de Xia Lin, avanço da missão de Fang Yuan rumo ao regret Gu) fica para a próxima parte da leitura integral.
