@@ -229,3 +229,98 @@ Leitura de "Volume_6_-_Demon_Venerables_Eternal_Life.txt", linhas 1–24700 (de 
 - Qin Ding Ling (Heavenly Court) está preocupada porque não recebe mais sinal da vontade de Star Constellation após a guerra do Fate — teme que heaven's will possa assimilá-la por falta de apoio (fio narrativo em aberto) (Cap. 1986).
 - Heavenly Court teoriza que Qi Sea Ancestor pode secretamente ser Fang Yuan disfarçado (já rank 8 antes de revelar rank 7 publicamente); alternativamente teoriza que Wu Shuai pode ser um "split soul" (alma dividida) criado com técnica de Spectral Soul, já que Fang Yuan foi líder de Shadow Sect e herdou parte da base de Spectral Soul (Cap. 1986).
 - Método de qi path assinatura de Fang Yuan: "unlimited qi sea", herdado de Qi Xiang de "Heaven Surveying Five Xiangs" (grupo histórico) (Cap. 1986).
+
+---
+### Bloco 5 (linhas 3201–4000, Caps. 1986–1991)
+
+## A) Gu nomeados (continuação)
+- Demon Judgment Board | rank 8 | Immortal Gu House (blood path/information path) | pertence a Fang Zheng (Heavenly Court); tem golpe de varredura de informação em área (luz vermelho-sangue coleta dados de todo mundo vivo na região), captura alma de quem mata (soul search), gera lista de alvos, ataques de chama de sangue devastadores (Cap. 1987–1990)
+- Qi harvest fruit | material imortal | qi path | essência de qi path formada pela fusão do qi das cinco regiões durante as qi tides; posta na apertura imortal acelera a adaptação/transformação do qi céu-terra (Cap. 1987)
+
+## B) Sistemas e atividades jogáveis (continuação)
+- **Plano de Heavenly Court contra a aliança dos dois céus**: usar o duelo entre Wu Shuai e Qi Sea Ancestor como cortina de fumaça para atacar de surpresa as sedes dos grotto-heavens da aliança, usando Gu Imortais com phantom aperture (imunes às qi tides) liderados por Fang Zheng com Demon Judgment Board (Cap. 1986–1990).
+- **"Nascidos juntos e se contrapõem" (luck path)**: Gu Yue Fang Zheng e Fang Yuan têm sortes entrelaçadas por arranjo do Heavenly Dao — mesmo se Fang Yuan trocar de corpo, a relação de "contraposição de sorte" continua; Qin Ding Ling (luck path) usa Fang Zheng ativamente como contrapeso natural contra Fang Yuan (Cap. 1989).
+- **Teto de crescimento por phantom aperture**: um Gu Imortal que ganha phantom aperture (apertura fantasma) praticamente para de crescer; por isso Qin Ding Ling não força Fang Zheng a entregar sua apertura própria a Heavenly Court enquanto ele ainda tem potencial de evolução (Cap. 1989).
+- **Humans alike dragons**: método de refinamento de Gu criado por Duke Long para transformar humanos em dragonmen (usado em Wu Shuai); corpos assim refinados são bem menos afetados pelas qi tides (Cap. 1988).
+- **Golpe de campo de batalha de Qi Sea Ancestor**: evolução da "primordial qi wall" (metade da herança verdadeira de Primordial Origin, dada por Duke Long); cria camadas de correntes de qi como fortaleza impenetrável e pode prender um oponente + zona de batalha inteira num bolso isolado (Cap. 1988).
+- **Herança racial (racial inheritance)**: cada raça de variant human tem uma herança oculta que só pode ser escavada ao reunir fragmentos suficientes de uma relíquia específica (ex.: inkmen precisam reunir fragmentos do Qian Kun Crystal Wall) (Cap. 1990).
+- **Golpe de extorsão política de Wu Shuai**: finge ferimentos graves pós-duelo para exigir grande quantidade de materiais imortais dos aliados como "custo de cura", atrasando o resgate de grotto-heavens atacados; usa Gu tribe's leader como testemunha falsa para dar credibilidade à mentira; manda o vice-líder (com poucos recursos, sem Dragon Palace) "ajudar" aliados já condenados — sacrificando os rank 8 da aliança para os ataques de Heavenly Court enquanto lucra com materiais e enfraquece rivais internos (Cap. 1990).
+- **Formação principal defensiva de grotto-heaven**: névoa negra adaptativa que devora ataques (inclusive chamas de blood path) e desorienta invasores — usada por Great Wisdom grotto-heaven (inkmen) (Cap. 1989).
+
+## C) Regras do mundo (continuação)
+- O River of Time (Rio do Tempo) ficou extremamente perigoso após a destruição de Fate Gu — mesmo grandes especialistas de time path arriscam a vida ao entrar; Heavenly Court perdeu essa ferramenta de investigação de identidades ocultas (Cap. 1988).
+- Human Sea (clã Xia) serve para reviver Gu Imortais do clã que morrem fora de casa: perdem os ganhos de Immortal Gu/apertura acumulados, mas mantêm nível de cultivo e a própria apertura imortal (Cap. 1991).
+
+## D) Números e preços (continuação)
+- Great Wisdom grotto-heaven (inkmen) já reuniu mais de 50% dos fragmentos do Qian Kun Crystal Wall; precisa de mais 10% para escavar a herança racial (Cap. 1990).
+- Duelo Wu Shuai x Qi Sea Ancestor: durou um dia e uma noite inteiros, terminou em empate quando uma qi tide interrompeu (encenado, ver G) (Cap. 1988).
+
+## E) Locais e atividades (continuação)
+- Great Wisdom grotto-heaven — território de inkmen (variant human) em immemorial black heaven, liderado por Great Wisdom Immortal Mother; tem cidade imortal central; guarda fragmentos do Qian Kun Crystal Wall (Cap. 1989–1990).
+- Qi Sea — domínio de Qi Sea Ancestor em Eastern Sea; clã Xia refugia-se lá após perder sua sede (Cap. 1990–1991).
+- Divine Emperor City, "painting path world" — uma zona temática de painting path dentro de Divine Emperor City; cenário de nova subtrama com Hong Yi e Ye Fan (Cap. 1991).
+
+## F) Golpes matadores e receitas (continuação)
+- Demon Judgment Board — varredura de informação em área, soul search ao matar, ataques de chama de sangue (blood path) (Cap. 1989).
+- Golpe de campo de batalha de Qi Sea Ancestor — muralha de qi em camadas + prende oponente e zona de batalha num bolso isolado (Cap. 1988).
+- Névoa negra adaptativa da formação principal de Great Wisdom grotto-heaven — devora ataques, desorienta (Cap. 1989).
+
+## G) Achados soltos (continuação)
+- **REVELAÇÃO IMPORTANTE**: Qi Sea Ancestor É o corpo principal de Fang Yuan disfarçado! O duelo de um dia inteiro contra Wu Shuai (clone) era encenado — ao final, os dois relaxam bebendo vinho dentro de Dragon Palace, e Wu Shuai entrega o Human Sea incompleto para o "corpo principal" de Fang Yuan. Confirma a suspeita levantada por Heavenly Court no bloco anterior (Cap. 1988).
+- Heavenly Court, mesmo desconfiando da identidade de Qi Sea Ancestor, ainda planeja tentar recrutá-lo como aliado usando a antiga estratégia de Duke Long (oferecer parte da herança de Primordial Origin) — ironia dramática, já que ele é secretamente Fang Yuan (Cap. 1986).
+- Gu Yue Fang Zheng — "contraparte de sorte" de Fang Yuan; lidera o esquadrão secreto de Heavenly Court (com Prince Feng Xian e Bai Cang Shui) usando Demon Judgment Board para destruir as sedes da aliança dos dois céus enquanto Wu Shuai/Qi Sea Ancestor "lutam"; destrói a cidade principal de Great Wisdom grotto-heaven e segue para o 3º alvo (Cap. 1987–1990).
+- Prince Feng Xian — imortal de Heavenly Court, racista contra variant humans, quer exterminá-los todos (Cap. 1989–1990).
+- Bai Cang Shui — imortal de Heavenly Court, mais pragmática, sugere escravizar/vender mortais em vez de genocídio (Cap. 1989).
+- Night Heavenly Wolf Lord confirmado como espião de Heavenly Court infiltrado na aliança dos dois céus; seus dao marks de information path (que o vinculavam ao juramento da aliança) foram removidos por Zhou Xiong Xin, permitindo traição sem represália mágica (Cap. 1990).
+- Xia Rui Zhi revela a Qi Sea Ancestor (sob pressão) que Human Sea serve para reviver Gu Imortais do clã Xia, mas mantém o método de criação em segredo mesmo de outros clãs aliados (clã Tang tenta extrair a informação) (Cap. 1991).
+- Shen Cong Sheng (clã Shen) é ambicioso, quer que o clã Shen vire a potência número um de Eastern Sea assim que encontrarem o Ancestor Shen Shang (rival à altura de Qi Sea Ancestor, desaparecido/enlouquecido) (Cap. 1991).
+- Nova subtrama introduzida: "painting path world" dentro de Divine Emperor City; personagens Hong Yi e Ye Fan testemunham um mendigo sendo espancado pelos capangas de um "jovem mestre" (Cap. 1991, início de arco).
+
+---
+### Bloco 6 (linhas 4001–4800, Caps. 1991–1996)
+
+## A) Gu nomeados (continuação)
+- Extreme Ice Crystal Light Immortal Suppression Coffin | golpe imortal, herança racial snowman | ice/snow path | corpo do usuário se dissolve em incontáveis luzes de gelo extremo que congelam tudo ao redor (imóveis viram tubos de gelo protetores para aliados); consome dao marks de ice/snow path E também tempo de vida (lifespan); fica mais forte quanto mais tempo dura; core do golpe não é um Immortal Gu, é o próprio corpo do variant human, por isso outras raças não conseguem usá-lo mesmo se aprenderem (Cap. 1995)
+- Rotting Smell Vicious Cloud formation | formação de batalha antiga | — | formada coletivamente por 6 Gu Imortais eggman de Rotten Egg grotto-heaven (Cap. 1994)
+- Black Emperor Building | Immortal Gu House incompleta | — | trazida por Strange Hair grotto-heaven como reforço (Cap. 1994)
+- Heaven's will dissipation | golpe | — | método de Fang Yuan para expulsar heaven's will infiltrada em sua apertura imortal (Cap. 1993)
+
+## B) Sistemas e atividades jogáveis (continuação)
+- **Sabotagem ativa de heaven's will contra Fang Yuan**: diferente do Heavenly Dao (impessoal, apenas rebalanceia o mundo), heaven's will ataca deliberadamente os pontos de recurso da apertura soberana de Fang Yuan, embaralhando os dao marks de um caminho puro (ex.: earth path dos stone mushrooms) com dao marks de vários outros caminhos ao mesmo tempo, tornando o recurso inutilizável — uma forma de o Heavenly Dao "combater" o demônio de outro mundo que desequilibra o mundo (Cap. 1993).
+- **Duas rotas de Fang Yuan para dominar heaven path dao marks**: (1) Emperor City — terra sagrada de human path criada por Genesis Lotus Immortal Venerable, em Central Continent, mas guardada pelos esquemas de Genesis Lotus e Red Lotus; (2) Crazed Demon Cave, 8ª camada — contém as derivações do próprio Heavenly Dao, território de loucura criado por Limitless Demon Venerable, mas ligado a Giant Sun Immortal Venerable. Ambas as rotas são extremamente perigosas (Cap. 1993).
+- **Colapso do River of Time (Rio do Tempo)**: antes da destruição de Fate Gu, o rio fluía suavemente porque tudo seguia uma trajetória fixa pelo destino (permitindo a Gu Imortais de time path "prever" o futuro observando trechos a jusante); agora que o destino não fixa mais nada, o rio ficou violento e turvo — Spring Autumn Cicada (Gu de renascimento/viagem no tempo de Fang Yuan) não pode mais ser usado com segurança (Cap. 1993).
+- **Golpes de herança racial**: o núcleo de um golpe de herança racial não é um Immortal Gu, é o próprio corpo/raça do usuário — por isso permanecem relevantes independente da era (ao contrário de golpes comuns que podem ficar obsoletos) e só podem ser usados por membros daquela raça específica (Cap. 1995).
+- **Hipótese não confirmada de Spectral Soul**: batalhas entre Gu Imortais poderosos podem atrair/desencadear qi tides — ele observa essa coincidência duas vezes (Wu Shuai x Qi Sea Ancestor, depois Ice Crystal Immortal Monarch x Fang Zheng) mas não tem atainment level de qi path para confirmar (Cap. 1996).
+- **Qi harvest fruit gigante parasita**: pode crescer DENTRO de um grotto-heaven, absorvendo continuamente o qi céu-terra da própria apertura para se alimentar; removê-lo prematuramente causa uma qi tide interna violenta com mortandade em massa; frutos normais têm o tamanho de uma carruagem, este tinha o tamanho de uma colina (Cap. 1996).
+- **Painting path world de Divine Emperor City**: golpe imortal "contented lifestyle" de Genesis Lotus Immortal Venerable — recria as principais cenas históricas de Emperor City fundidas numa só pintura viva; Heavenly Court manda secretamente sementes de Gu Imortal (jovens gênios de vários clãs/seitas) para lá treinarem human path sem revelar o propósito real; apenas quem descobre o segredo (via contatos, ex.: bisavô de Xiao Qi Xing) sabe que o objetivo é competir para eventualmente herdar parte da herança de Genesis Lotus e se tornar Lord of Divine Emperor City; dentro da pintura, imortais e mortais são basicamente iguais em poder; postos de guarda da cidade oferecem Gu worms (soldier, sergeant, lieutenant, captain Gu) úteis para fundação de human path (Cap. 1992).
+
+## C) Regras do mundo (continuação)
+- Ritual de maioridade snowman: sobreviver sozinho 7 dias na blizzard icy plain para se qualificar como Gu Master e despertar a apertura; tribos protegem qualquer jovem perdido nessa provação, com o princípio de que quem sobrevive deve depois proteger toda a raça (Cap. 1994).
+- Em batalhas entre Gu Imortais, número não é fator decisivo: aliados descoordenados atrapalham uns aos outros com seus próprios golpes (perdendo quase metade da força efetiva), e cada um prioriza a própria sobrevivência em vez de arriscar-se em conjunto (Cap. 1995).
+
+## D) Números e preços (continuação)
+- Blizzard icy plain destruída na batalha: cerca de 10 milhões de snowmen comuns morreram (Cap. 1994).
+- Camada de gelo sobre Demon Judgment Board chegou a 5 pés de espessura antes de Fang Zheng conseguir reagir (Cap. 1995).
+- Qi harvest fruit comum: tamanho de uma carruagem; o anômalo encontrado em Ice Crystal grotto-heaven: tamanho de uma colina (Cap. 1996).
+
+## E) Locais e atividades (continuação)
+- Stone mushroom valley — ponto de recurso em Mini Southern Border (dentro da apertura soberana de Fang Yuan), território da tribo rockman liderada por Shi Shi Cheng, arruinado por heaven's will (Cap. 1993).
+- Emperor City — terra sagrada de human path de Genesis Lotus Immortal Venerable, Central Continent (Cap. 1993).
+- Crazed Demon Cave, 8ª camada — domínio de Limitless Demon Venerable com as derivações do Heavenly Dao (Cap. 1993).
+- Blizzard icy plain — maior ponto de concentração de snowmen em Ice Crystal grotto-heaven, palco do ritual de maioridade de Ice Crystal Immortal Monarch, destruída na batalha contra Heavenly Court (Cap. 1994–1995).
+- Divine Emperor City, painting path world — expandido: base secreta de treinamento de human path de Heavenly Court para sementes de Gu Imortal de vários clãs (Cap. 1992).
+
+## F) Golpes matadores e receitas (continuação)
+- Extreme Ice Crystal Light Immortal Suppression Coffin — ver seção A/B; sela até uma Immortal Gu House de rank 8 em gelo grosso o suficiente para imobilizá-la (Cap. 1995).
+- Heaven's will dissipation — contramétodo de Fang Yuan contra sabotagem de heaven's will (Cap. 1993).
+- Demon Judgment Board's luz vermelho-sangue pode ser refletida como um espelho por formações defensivas adequadas (usado pelos snowmen) (Cap. 1994).
+
+## G) Achados soltos (continuação)
+- **REVELAÇÃO**: o mendigo louco salvo por Hong Yi e Ye Fan em Divine Emperor City é Shen Shang, o Ancestor desaparecido do clã Shen que todos procuram; ele enlouquece periodicamente por causa de um "black fire" (fogo negro) mas recupera a sanidade sozinho; secretamente foi ele quem colaborou com o clone de Fang Yuan, Fang Di Chang, para decifrar os métodos human path dos veneráveis durante a guerra do Fate (Cap. 1991–1992).
+- Novos candidatos/sementes de Gu Imortal na painting world: Sun Yao (Spirit Affinity House, substituiu Feng Jin Huang), Chen Da Jiang (Wind Cloud Manor, bondoso), Xiao Qi Xing (Spirit Butterfly Valley, arrogante, bisneto do Gu Immortal Xiao Bai Hong que revelou a ele o segredo da pintura) (Cap. 1992).
+- <<The Legends of Ren Zu>> reafirmado como a maior herança verdadeira de human path da história — profunda mas com pouquíssimos golpes efetivamente derivados dela até hoje (Cap. 1992).
+- O clone de Fang Yuan, Fang Di Chang, está possivelmente morto — sua "sorte" não é encontrada na inspeção de luck de Fang Yuan após um esquema de Genesis Lotus Immortal Venerable; Fang Di Chang tinha refinado/tinha autoridade sobre Divine Bean Palace (componente de Divine Emperor City) (Cap. 1992–1993).
+- Fang Yuan já retirou o Human Sea incompleto (via Wu Shuai) e o usa junto com a Thousand Wish Tree (estratégia "dois pontos") para resistir à transformação de heaven path em sua apertura soberana (Cap. 1993).
+- Os Three Crazed Demon Eccentrics (aliados que prometeram ajudar na guerra do Fate) desapareceram misteriosamente sem aparecer na batalha; Fang Yuan suspeita de Longevity Heaven ou de uma carta na manga de Giant Sun Immortal Venerable (Cap. 1993).
+- Spectral Soul (escondido dentro de An Xun) planeja usar o prestígio crescente de An Xun para se aproximar de Wu Shuai, com o objetivo final de escravizar Wu Shuai e tomar Dragon Palace (cobiçada por conter Immortal Gu de dream path) (Cap. 1996).
+- Um qi harvest fruit gigante e parasita é descoberto crescendo dentro de Ice Crystal grotto-heaven, se alimentando do próprio qi da apertura — situação inédita e perigosa, ninguém presente sabe como removê-lo com segurança (gancho de capítulo) (Cap. 1996).

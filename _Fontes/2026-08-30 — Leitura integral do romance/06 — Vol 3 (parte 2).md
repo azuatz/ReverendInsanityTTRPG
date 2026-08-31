@@ -271,6 +271,60 @@ Fonte: `Volume_3_-_The_Demon_Wreaks_Chaos_in_the_World.txt`
 
 - (nenhum golpe matador novo — foco em itens/estruturas do Eighty-Eight True Yang Building)
 
+## A6) Gu nomeados (cap. 561–565)
+
+- Little light Gu (rank 1, light path, assistência) | Ilumina áreas escuras | 36 usados por Fang Yuan na 1ª etapa do ritual de Di Qiu | Cap. 563
+- Light fences Gu (rank 3, light path) | Ativa e forma cercas de luz que restringem o alvo | 13 usados na mesma etapa | Cap. 563
+- Lightning flash Gu (rank 5, light path) | Aumenta velocidade | Cap. 563
+- Unlimited spring light Gu (rank 5, light path) | Cura | Cap. 563
+- Heaven blazing spark Gu (rank 5, light path, ataque) | Perfura auras/defesas concorrentes | Cap. 563
+- Shine back spike Gu (rank 5, defensivo) | 2 usados na 2ª etapa do ritual ("shine up to a hundred thousand feet high") | Cap. 563
+- High observation Gu (investigativo) | 3 usados na mesma etapa | Cap. 563
+- Ten thousand heart piercing arrow Gu (ataque) | 1 usado na mesma etapa | Cap. 563
+- Nine feet flame Gu (assistência) | 9 usados na mesma etapa | Cap. 563
+- Smelly fart Gu | Gu cômico/disfarce — solta um "perfume peculiar" que se espalha mesmo sem vento | Usado por Fang Yuan como cobertura na etapa final crítica do ritual de Di Qiu, para não expor sua posição | Cap. 564
+- Dark Limit (Immortal Gu) | Selo/restrição imposta sobre Hei Lou Lan — teria que "arrancar" esse selo para arriscar a vida em um confronto direto | Cap. 564
+- Immortal Gu de força path (buscado por Hei Lou Lan) | Necessário para ele conseguir ascender a Gu Immortal, pois possui uma das "dez constituições extremas" (Great Strength True Martial physique) | Ainda não encontrado | Cap. 564-565
+- Fire path Immortal Gu de Ye Lui tribe | Emprestado a Ye Lui Sang pelo ancião supremo Ye Lui Lai como investimento da tribo no torneio | Cap. 564
+- Lifespan Gu (raríssimo, path desconhecido) | Aumenta a expectativa de vida | Objeto de busca de Tai Bai Yun Sheng — difícil de encontrar/comprar/vender mesmo entre Gu Immortals | Cap. 563
+
+## B6) Sistemas e atividades jogáveis (cap. 561-565)
+
+- Origem de Eighty-Eight True Yang Building: Giant Sun Immortal Venerable pediu a Long Hair Ancestor um "tesouro de herança eterno". A princípio Long Hair Ancestor tentaria um Immortal Gu house de rank 9 (nível "venerable"), mas isso seria tecnicamente impossível de sustentar de forma permanente — em vez disso, criou um design alternativo: uma casa de Gu rank 8 que "renasce" a cada 10 anos como um pseudo-rank-9 temporário, dividida em incontáveis sub-corpos (as pequenas torres) que acumulam Gu selvagens por 10 anos e depois afundam, convergindo em "poder celestial" que forma cada andar. (Cap. 561)
+- Immortal Gu de rank 9 (lendários, nunca confirmados existirem hoje): strength Gu, wisdom Gu, fate Gu — mencionados só em "The Legends of Ren Zu"; nenhum sobrevive na era atual. (Cap. 561)
+- Os "Três Elementos" (heaven, earth, man) — condição para um mortal ascender a Gu Immortal: precisa fundir os três elementos, e se qualquer um for insuficiente, morre e a alma se dissipa. Eighty-Eight True Yang Building é desenhado para explorar isso em escala de sistema: o torneio da Corte Imperial fornece o "elemento homem" (competição entre pessoas), o blizzard de 10 anos fornece o "elemento céu" (calamidade natural cruel), e as pequenas torres afundando na terra abençoada fornecem o "elemento terra" — os três combinados "refinam" a estrutura e sustentam o poder da família Huang Jin indefinidamente. (Cap. 561)
+- Método de Gu Immortal para roubar o refino de Eighty-Eight True Yang Building: sabotar deliberadamente o reparo automático de uma pequena torre (selando a falha e enganando o sistema de reparo do prédio), redirecionando o "poder celestial" que fluiria de volta para aquele ponto — permitindo refinar um Immortal Gu próprio usando a força emprestada da estrutura, em vez da força do próprio corpo/abertura. Esse é o segredo por trás da herança Di Qiu. (Cap. 561)
+- Herança em cadeia (chain inheritance): heranças complexas podem ser divididas em partes sequenciais — quem só obtém uma parte (sem as pistas anteriores) recebe apenas uma fração do benefício; Di Qiu inheritance parece dividida entre uma "primeira metade" (em posse dos Gu Immortals de central continent, na vida passada de Fang Yuan) e a "segunda metade" que Fang Yuan obteve por acidente nesta vida. (Cap. 561)
+- Ritual de abertura de Di Qiu inheritance (3 etapas, cada uma correspondendo a uma frase da cifra): 1) "light in the soil" — combinação de Gu de luz de ranks 1/3/5 (little light, light fences, lightning flash, unlimited spring light, heaven blazing spark) provoca uma "transformação misteriosa" subterrânea; 2) "shine up to a hundred thousand feet high" — outra leva de Gu (defensivo, investigativo, ataque, assistência) — é um teste da habilidade de refino do Gu Master, não uma descrição literal; 3) etapa final (não nomeada no texto) — envolve espalhar "chuva" de dezenas de Gu de rank 1 a 5 de todos os paths usando a técnica "sprinkler" (ver abaixo) para estabilizar/redirecionar o fluxo de poder celestial. (Cap. 563-564)
+- Técnica de refino "sprinkler" (alto nível): espalhar múltiplos Gu worms com distâncias e tempos de queda extremamente precisos entre si — Gu Masters talentosos levam "milhares de tentativas" para dominar minimamente; Fang Yuan já está muito além desse nível. (Cap. 564)
+- Nascimento de Immortal Gu gera ressonância: quando um novo Immortal Gu está prestes a nascer, outros Immortal Gu próximos tremem em resposta ("ressonância do Grande Dao") — quanto mais relacionadas ou conflitantes as leis incorporadas nos dois Gu, mais forte a ressonância. Fang Yuan usa o tremor de seu Spring Autumn Cicada para deduzir que o Immortal Gu prestes a nascer em Di Qiu NÃO é de time path. (Cap. 564)
+- Abertura pública de Eighty-Eight True Yang Building por Hei Lou Lan: 800 entrantes/dia, taxa de entrada crescente conforme a ordem de chegada, poison vow Gu obrigando a entregar 50% dos ganhos a Hei tribe; forasteiros sem token próprio compram guest tokens de Hei tribe a preço alto. Motivo: Hei Lou Lan precisa "carne de canhão" (cannon fodder) de outras tribos para avançar pelos rounds difíceis, já que seus próprios anciões têm medo de morrer agora que a sobrevivência da tribo não está mais em jogo. (Cap. 562, 565)
+- Cada andar do Eighty-Eight True Yang Building tem 100 rounds, com dificuldade crescente drasticamente nos últimos; historicamente muito poucos vencedores da Corte Imperial conseguiram atravessar todos os rounds de sequer 1 andar. Dois caminhos para conseguir um Immortal Gu do prédio: (1) avaliação alta + entrar na sala de tesouros + trocar usando identidade de sangue Huang Jin; (2) vencer o round final de um andar inteiro (dá acesso a recompensa de Immortal Gu). (Cap. 565)
+- Quando o andar de Eighty-Eight True Yang Building "reseta" (como ocorreu por causa da sabotagem de Fang Yuan), todos os rounds já vencidos voltam ao zero — perda total de progresso para quem já tinha avançado, mas nova chance de recompensas para quem ainda não tinha tentado. (Cap. 565)
+- Ascensão de constituições extremas (dez no total, "ten extreme physiques"): certas pessoas nascem com corpos que trazem grande poder mas também "pressão da morte" caso não ascendam com o Immortal Gu certo — Hei Lou Lan tem a "Great Strength True Martial physique" e precisa especificamente de um Immortal Gu de strength path para sobreviver à ascensão. (Cap. 564-565)
+
+## C6) Regras do mundo (cap. 561-565)
+
+- Mesmo um Immortal Gu house de rank 8 (o mais grandioso construído por um rank 8 refinement master) não escapa ileso da manipulação de um Gu Immortal habilidoso — mas fazer isso é extremamente arriscado, pois pode acordar a "vontade adormecida" de um Immortal Venerable, capaz de aniquilar instantaneamente o infrator. (Cap. 559-561, 564)
+- Um mortal Gu Master comum não conseguiria decifrar ou executar o ritual de refino da herança Di Qiu mesmo com tempo ilimitado — requer domínio de refinement path em nível de grão-mestre, algo raríssimo mesmo entre Gu Immortals. (Cap. 562)
+- Advertência recorrente do romance: tornar-se Gu Immortal não aumenta automaticamente a expectativa de vida (lifespan) — é um erro comum supor isso; só um Gu específico de lifespan (raríssimo) resolve esse problema, e a ascensão em si é só uma "última opção" para quem já não tem alternativa. (Cap. 563)
+- Regra social observada por Fang Yuan: mesmo os mais nobres/renomados (ex.: Tai Bai Yun Sheng, "número 1 curador da planície norte") recorrem a suborno quando confrontados com medo da morte — reforça o tema central do romance de que "força e sobrevivência superam toda moral". (Cap. 563)
+
+## D6) Números e preços (cap. 561-565)
+
+- Refino da herança Di Qiu (segunda metade, calculado por Fang Yuan): precisa de mais de 200 Gu worms ao todo, dos quais 28 são rank 4 ou 5; ele prepara material para 3 tentativas completas (~600+ Gu worms no total) para se precaver contra falha. Preparação leva 16 dias. (Cap. 562)
+- Backflow de poder celestial no ritual: Fang Yuan estimava absorver no máximo 10% do fluxo, mas o resultado superou muito essa estimativa, chegando a colapsar todo o 1º andar recém-formado de Eighty-Eight True Yang Building antes de se reestabilizar. (Cap. 564)
+- Wolf group total de Fang Yuan neste ponto: ~200.000 lobos comuns (turtleback, water, night wolf etc.) além do grupo de azure wolves — usado como "zona de exclusão" de ~100 li de raio ao redor de Di Qiu, dissuadindo outros Gu Masters de se aproximarem sem ser notados. (Cap. 563)
+- Regras de acesso público a Eighty-Eight True Yang Building sob Hei Lou Lan: cota de 800 entrantes por dia; taxa de entrada cresce conforme a ordem de chegada do dia; poison vow Gu obriga entrega de 50% dos ganhos a Hei tribe; forasteiros sem token compram guest tokens de Hei tribe a preço alto. (Cap. 562)
+
+## E6) Locais e atividades (cap. 561-565)
+
+- (ver seções anteriores — mesma área: Di Qiu inheritance ground e Eighty-Eight True Yang Building)
+
+## F6) Golpes matadores e receitas (cap. 561-565)
+
+- (nenhum golpe matador novo — capítulos focados no ritual de Di Qiu e na politica interna de Hei tribe)
+
 ## G) Achados soltos
 
 - Northern plains segue calendário/tradição de Giant Sun Immortal Venerable: mulheres têm status inferior, por vezes "emprestadas" a convidados importantes como cortesia — mencionado ao explicar o costume ao redor de Ni Xue Tong. (Cap. 535)

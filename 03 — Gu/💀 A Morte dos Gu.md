@@ -45,7 +45,7 @@ O combo espreme os Gu além do que os corpos deles aguentam — **mesmo quando f
 |---|---|
 | **Fome** (enfraquece → letargia → morre) | [[🍖 Sustento e Alimento]] |
 | **Refino falho** (morte do material, Explosão) | [[🧩 Refino e Precificação]] |
-| **Combo-refino falho** (todos os ingredientes morrem) | [[🧩 Refino e Precificação]] |
+| **Combo-refino falho** (`1d6` por Gu: 1–2 morre, 3–6 fica Ferido) | [[🧩 Refino e Precificação]] |
 | **Ativação Forçada** (teste de VON ou o Gu morre depois de agir) | [[🏛️ Arquitetura do Sistema]] |
 | **Morte do dono** (a vontade destrói a coleção; 3 exceções) | [[⚰️ Espólio]] |
 | **Detonação** de Gu saqueado | [[⚰️ Espólio]] |

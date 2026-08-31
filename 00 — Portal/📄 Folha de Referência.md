@@ -87,6 +87,15 @@ Golpes registrados = AST + 1                Aliados = CAR + 1
 Pontos de Plano    = 2 + maior(AST, CAR)
 ```
 
+### 📐 As três regras que valem em toda parte
+
+Três convenções gerais que aparecem espalhadas em várias notas — a regra é uma
+só, esta é a versão que fica em pé sempre que uma nota específica não disser
+outra coisa:
+
+1. **Arredonde sempre para baixo.** `12,7 pedras` são `12`; `3,9 dias` são `3`.
+2. **Ordem de resolução de uma ação:** teste → efeito (dano/condição/controle) → RD e reduções → o que sobrar acontece. Nunca aplica RD antes do dano estar rolado.
+3. **A mesma fonte nunca soma com ela mesma — vale a maior.** Duas fontes de RD já seguem essa regra (`maior + metade da segunda`, acima); o mesmo princípio vale para qualquer bônus repetido do mesmo tipo (dois Gu de Vantagem no mesmo teste, dois efeitos idênticos de terreno) que uma nota específica não tenha resolvido de outro jeito.
 
 ## 💠 O estágio numa linha
 

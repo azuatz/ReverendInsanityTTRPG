@@ -87,6 +87,14 @@ Cobertura: linhas 16201–32385 do arquivo fonte `Volume_1_-_A_Demons_Nature_Doe
 - Força de combate comparativa: um lobo aleijado tem força de combate maior que dois macacos-de-pedra-de-olho-de-jade; coordenação em matilha aproximadamente dobra a força de combate combinada. (Cap. 122)
 - Norma social: inspecionar a aperture de outro Gu Master sem consentimento é considerado o maior tabu entre Gu Masters — nem para investigar um pequeno caso de disputa (como a posse de um Liquor worm) isso é aceitável. (Cap. 124)
 - Axioma social explícito do mundo: "a vida de um Gu Master vale mais que a de cem mortais" — não há conceito de direitos humanos para os mortais neste mundo. (Cap. 123)
+- Gu de alto poder com efeito colateral permanente geralmente precisa ser combinado com um segundo Gu que neutraliza o efeito colateral (ex.: Wood Charm Gu sem cuidado vira o corpo em madeira; Roaming Zombie Gu sem o Bloodline Gu drena sangue até virar um zumbi de verdade) — padrão de design que se repete na obra. (Cap. 126)
+- Limite natural de vida humana é ~100 anos sem intervenção; Lifespan Gu soma anos fixos (cem anos → +100, mil anos → +1000) mas não concede imortalidade — ainda se pode morrer por outras causas (Fang Yuan, na vida anterior, viveu 600 anos com um Lifespan Gu de 500 anos antes de se autodetonar). (Cap. 126)
+- Lobos-relâmpago (lightning wolves) têm visão excepcional (tipo águia) mas olfato fraco (comparável ao humano) — ponto fraco de design da espécie que torna Gu de camuflagem visual (como o Stealth Scales Gu) muito eficazes contra eles, mas inúteis contra detecção por outros sentidos. (Cap. 127, 130)
+- O lightning crown wolf (rei miríade) hospeda o Lightning Eye Gu, capaz de enxergar através de qualquer ocultação/camuflagem — evidencia que reis de fera de tier mais alto têm contramedidas específicas contra furtividade. (Cap. 127)
+- Vários tipos de Gu detectam furtividade por vias diferentes da visão: Snake Communication Gu (detecta calor), Beast Language Gu (permite conversar com feras para obter informação), Gu de audição clarividente (hiperaudição) — múltiplos "sentidos" contornam camuflagem puramente visual. (Cap. 127)
+- A aura de um Gu de rank muito alto (ex. Spring Autumn Cicada, Rank 6) tem efeito dissuasório forte sobre Gu de rank 1–4, fraco sobre rank 5, e nenhum sobre outro rank 6 — escala de intimidação por diferença de rank, comparada explicitamente à inveja/admiração social entre humanos. (Cap. 129)
+- Norma de uso de Gu por rank: um Gu Master normalmente usa Gu do próprio rank; pode possuir Gu de rank mais alto, mas ativá-los custa mais caro e é mais arriscado ("um bebê tentando usar um martelo grande pode quebrar a própria perna") — um limite suave contra explorar gaps de poder cedo demais. (Cap. 129)
+- Gu selvagens (como o Chainsaw Golden Centipede) são espertos: fogem/se enterram ao perceber perigo — capturar vivo é muito mais difícil que matar. (Cap. 129)
 
 ## D) Números e preços concretos
 
@@ -110,6 +118,14 @@ Cobertura: linhas 16201–32385 do arquivo fonte `Volume_1_-_A_Demons_Nature_Doe
 - Preço da folha de vitalidade: tabela do clã sobe de 55 para 60 pedras primevas com a aproximação da maré de lobos; Fang Yuan cobra 65 de Qing Shu; memória de Fang Yuan indica pico histórico acima de 100 pedras primevas no auge da crise. (Cap. 123)
 - "Compensação" de Chi Shan a Fang Yuan por evitar o duelo com Xiong Li: 200 pedras primevas. (Cap. 123)
 - Entrega de Jiang Ya (agente de vendas de Fang Yuan): mais de 400 pedras primevas arrecadadas, trocadas por 9 novas folhas de vitalidade entregues por Fang Yuan. (Cap. 123)
+- Quadro de méritos: 1 olho de lobo relâmpago = 10 pontos de mérito. (Cap. 127)
+- Cadeia de fusão do Wood Charm Gu: base Rank 3 → + Lifespan Gu de cem anos = Rank 4 ("Hundred-years Wood Charm Gu") → + Lifespan Gu de mil anos = Rank 5 ("Thousand-years Wood Charm Gu"). (Cap. 126)
+- Lifespan Gu: variante "cem anos" soma 100 anos de vida; variante "mil anos" soma 1000 anos; limite natural humano é 100 anos. (Cap. 126)
+- Vida anterior de Fang Yuan: viveu 600 anos (100 base + 500 de um Lifespan Gu de 500 anos) antes de se autodetonar. (Cap. 126)
+- Força combinada de Xiong Li: 1 urso (Brown Bear Innate Strength Gu) + 1 urso (Grand Bear Gu) = força de 2 ursos. (Cap. 126)
+- Alcance do Earth Communication Ear Grass: nível médio de um Gu de reconhecimento Rank 2 sem contato com o solo; salta para raio de 300 passos quando as raízes tocam a terra. (Cap. 129)
+- Matilha de lobos aleijados enfrentada: cerca de 100 indivíduos num bando de porte médio (Cap. 127); dozen de lobos-relâmpago saudáveis cercam Fang Yuan em outro encontro (Cap. 130).
+- Tempo de "acalmar" o enxame de centopeias após um alarme: 10 dias a meio mês. (Cap. 129)
 
 ## E) Locais e o que se faz neles
 
@@ -119,6 +135,8 @@ Cobertura: linhas 16201–32385 do arquivo fonte `Volume_1_-_A_Demons_Nature_Doe
 - **Bai village**: vila rival em ascensão, famosa pelo "white grain liquor" e possivelmente também pela bitter shell wine; produziu em poucos anos um prodígio de Rank 3 (Bai Ning Bing), ameaçando o antigo equilíbrio de poder entre as três vilas de Qing Mao mountain. (Cap. 117, 121)
 - **Xiong village**: a vila "especialista em força" entre as três de Qing Mao mountain; envia grupo diplomático liderado por Xiong Li (portador do Grand Bear Gu) para entregar carta do líder de clã e investigar o incidente do River Swallowing Toad. (Cap. 121)
 - **Alliance Slope**: encosta cerimonial que, ao longo de gerações, foi esculpida numa gigantesca praça de pedra junto à parede da montanha, com um "prédio" de rocha entalhada onde os líderes dos três clãs se sentam; palco tradicional da formalização da aliança das três vilas e de seus torneios de sparring diplomático. (Cap. 124–125)
+- **Praça central da vila / pavilhão da chefia**: onde fica o quadro de méritos de guerra físico (faixa animada por Swimword Gu), local de troca pública de pontos de mérito por recursos. (Cap. 127)
+- **Câmara subterrânea guardada por porta de pedra**, no fundo da floresta de pedra: inscrição de aviso ("o covil da centopeia dourada é traiçoeiro, a comunicação com a terra é o caminho para evitar o desastre"), contém uma Earth Treasury Flower com o Earth Communication Ear Grass; além da porta, um túnel escuro infestado por um enxame de centopeias governado pelo Chainsaw Golden Centipede. (Cap. 128–129)
 
 ## F) Golpes matadores e receitas explícitas
 
@@ -131,6 +149,9 @@ Cobertura: linhas 16201–32385 do arquivo fonte `Volume_1_-_A_Demons_Nature_Doe
 - **Passo a passo da fusão do Four Flavours Liquor worm**: os 2 Liquor worms são colocados primeiro no vinho de framboesa vermelha (azedo/sour); pedras primevas são alimentadas uma a uma até a "bola de luz" encolher a um tamanho fixo (~100 pedras); despeja-se o vinho de mel dourado (doce), a bola incha e o ciclo de alimentação se repete; depois o vinho de concha amarga (amargo) e por fim o licor de grãos brancos (picante); ao consumir o último vinho, um lampejo final de luz marca sucesso. O resultado muda de cor conforme o sabor (vermelho=picante, azul=amargo, verde=azedo, amarelo=doce), como um "neon". (Cap. 121)
 - **Receita do Stealth Scale Gu**: Stealth Rock Gu + Fish Scale Gu → Rank 2, esconde também roupas/equipamentos (não só o corpo). Receita anacrônica: só seria "descoberta" 200 anos depois na linha do tempo original de Fang Yuan — nesta era, ninguém mais a conhece. (Cap. 121, 123)
 - **Duelo de exibição — dano refletido (Xiong Jiang vs. Bai Bing Yi)**: o tanque (zumbi via Roaming Zombie Gu, insensível à dor) oferece o corpo para absorver o "Water Drill Gu" do atacante, enquanto o Shadow Bond Gu redireciona 10% de todo dano recebido de volta ao atacante através da sombra; como o atacante é frágil (corpo doente), mesmo 10% de retorno o faz cuspir sangue e admitir derrota — vitória por resiliência + reflexo de dano em vez de dano bruto. (Cap. 125)
+- **Duelo de exibição — vinha amplificada (Qing Shu vs. Xiong Li)**: Qing Shu amarra o oponente com Green Vine Gu, deixa-o quase se libertar, então ativa o Wood Charm Gu no meio da luta — a força de contenção das vinhas aumenta mais de 10x e as vinhas rompidas se regeneram e reconectam sozinhas, superando até a força combinada de 2 ursos de Xiong Li. (Cap. 126)
+- **Instalação de Gu por automutilação (Earth Communication Ear Grass)**: cortar a própria orelha com uma faca, pressionar imediatamente o Gu (já alimentado até o tamanho de uma palma adulta) na ferida fresca, canalizar essência primeva para forçar as raízes a se fundirem com a carne, suportar a dor sem Gu anestésico; depois destruir a orelha decepada (picada em pasta) e disfarçar a água ensanguentada (misturada com carvão, parecendo água suja de cozinha comum). O resultado final é visualmente indistinguível de uma orelha normal. (Cap. 128–129)
+- **Isca sacrificial + reconhecimento remoto**: para identificar uma ameaça sem se expor, Fang Yuan fere levemente um animal vivo (cervo) com um moonblade calibrado para causar dano mínimo, forçando-o a entrar numa área suspeita; então usa o Earth Communication Ear Grass para "ouvir" a distância o que acontece com a isca e identificar o predador pelo som característico (o zumbido de motosserra do Chainsaw Golden Centipede), sem nunca se aproximar fisicamente do perigo. (Cap. 129)
 
 ## G) Achados soltos para um designer de RPG
 
@@ -149,3 +170,9 @@ Cobertura: linhas 16201–32385 do arquivo fonte `Volume_1_-_A_Demons_Nature_Doe
 - Espectro de escala de heranças/legados (de "micro", resolvível em semanas, a legados multigeracionais espalhados por vários locais) dá aos mestres uma régua formal para calibrar o tamanho de uma "masmorra de recompensa" própria.
 - Mecânica de duelo com reflexo de dano (Shadow Bond Gu) é um design de habilidade distinto — transforma resistência a dano numa arma ofensiva contra "canhões de vidro".
 - Os dois axiomas sociais explícitos ("vida de Gu Master > 100 mortais" e "inspecionar aperture alheia é o maior tabu") são boas frases de referência para as notas de worldbuilding social do Dicionário do Sistema.
+- Instalação de Gu por automutilação corporal (decepar parte do corpo, enxertar um Gu vivo, dor extrema, resultado cosmeticamente invisível) é um subsistema de "Gu biotecnológico" forte e reaproveitável, distinto da fusão consumível — bom gancho para uma categoria de item "implante" com custo narrativo além de pedras primevas.
+- "Gu de alto poder precisa de um Gu-par para neutralizar efeito colateral permanente" é um princípio de design limpo o bastante para virar regra genérica do sistema (2 exemplos já confirmados: Wood Charm/Lifespan, Roaming Zombie/Bloodline).
+- Corrida de armas furtividade-vs-detecção (Stealth Scales Gu só visual, contornado por olfato/calor/audição/comunicação animal) é um ótimo template para testes de furtividade com múltiplos sentidos opostos num RPG.
+- Aura de intimidação por diferença de rank (Rank 6 suprime automaticamente rank ≤4, parcial em rank 5, nulo noutro rank 6) é uma regra limpa e escalável para habilidade passiva de intimidação de NPC.
+- Economia de pontos de mérito (matar → pontos → trocar por recursos, exibido publicamente e atualizado ao vivo) é um sistema de "quadro de guilda" pronto para adaptar a um sistema de facção/downtime de RPG de mesa.
+- "Líder de grupo solitário" (cumpre requisitos formais da organização sozinho, evita holofote de propósito) é bom material de arquétipo de PJ/NPC furtivo que quer evitar embaraço político.

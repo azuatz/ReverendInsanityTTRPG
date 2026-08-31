@@ -187,3 +187,16 @@ textura em [[🏛️ Estrutura do Clã]] (diplomacia e fronteiras). Uma terceira
 mecânica (Fratura da Abertura em crítico) ficou pendente de simulação, anotada
 em "Em aberto" no Log — soma dano incidental ao crítico e não deve entrar sem
 medir o impacto na letalidade.
+
+## [2026-08-30] crítica | Auditoria do Feiticeiros & Maldições (fidelidade e estilo)
+Achado principal: "Níveis de Dano" em F&M é modificador situacional, não motor de
+progressão — o motor real de F&M é um pool de dados por nível de Feitiço,
+estruturalmente igual ao `M dX` do vault. A decisão 77–83 converge com F&M melhor
+do que uma leitura literal da Escada sugeriria; adendo registrado na decisão 9
+para blindar contra reversão futura por engano. CDs, ataque/defesa e crítico
+conferem fiéis; Teste de Morte é simplificação deliberada, coerente com a
+filosofia "menos coisa pra lembrar" (decisões 97–100). Aplicada 1 de 3 técnicas
+de escrita recomendadas: seção "As três regras que valem em toda parte"
+(arredondamento, ordem de resolução, não-empilhamento por fonte) na
+[[📄 Folha de Referência]] — as outras duas (exemplo resolvido inline, tabelas
+rank→CD) ficam como orientação de estilo para notas futuras, não retrofit.

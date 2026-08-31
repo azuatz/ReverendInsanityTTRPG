@@ -48,7 +48,7 @@ Tudo o que o romance documenta de fato sobre origem de Gu — o resto do livro �
 | **Gu Imortal da Viagem Fixa** (r6) | **Base:** Gu da Viagem Divina (r6) **convertido** — não é fusão, é metamorfose: o próprio Gu "engole" um bambu de Céu de Jade e um fragmento de oito faces de Estrela Fixa enquanto banha na luz de glória do sol nascente | [[📖 Catálogo de Gu#A. Gu de rank 5 que viram Gu Imortal na Ascensão\|Catálogo, seção A]] |
 | **Gu Imortal do Deus de Sangue** (r6) | Exige um parente morto **por vontade própria** — o deus nasce leal | Catálogo, seção A |
 | **Gu Imortal da Segunda Abertura** (r6) | A receita que um Espírito da Terra tenta completar há milênios | Catálogo, seção A |
-| **Gu do Crânio de Sangue** (r4, com versão r5) | **Muda a Aptidão** de quem o refina — não é Imortal, e não concede Físico Extremo. A versão r4 consome a linhagem inteira de um parente de sangue; a r5 (desenvolvida em cânone) dispensa o massacre e só precisa extrair a linhagem de um parente vivo | [[#Rank 4 — receitas que valem uma guerra\|Rank 4]] |
+| **Gu do Crânio de Sangue** (r5) → **Gu Imortal do Crânio de Sangue** (r6) | 📕 Base canônica: mata um parente de sangue pra elevar a Aptidão/Abertura — o romance mostra isso a partir do rank 4, com uma versão r5 que dispensa massacrar o clã inteiro. **A elevação Imortal (Físico Extremo, tribulação 10× mais forte) é ✍️ invenção do sistema — não está no romance** | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Catálogo, rank 5]] |
 | **Gu Refinamento Avançado** (r8 → r9) | Elevado da versão rank 8 — a prova viva da exceção do Caminho do Refino | Rank 6+ |
 | **Gu da Reforma** (r5) | **Sem receita** — consumível que nunca se refinou; só circula em leilão | [[#Rank 5 — o teto mortal\|Rank 5]] |
 | **Gu do Mês** (r6) | Família canônica do Tempo (Dia → Mês → Ano) — nasce à margem do Rio do Tempo, não se refina | [[#Ranks 6 a 9 — por que Imortais não têm receita\|Rank 6+]] |
@@ -340,7 +340,6 @@ Chance base ~40%. Neste nível, **a receita costuma valer mais que o Gu** — um
 | **Gu de Jade Branco** (r4) | ✅ Gu do Dossel Celeste + Gu da Terra Amarela | Validada nesta campanha. A elevação canônica da linhagem (via "Artemísia Celestial") está perdida |
 | **Gu da Atmosfera** | Gu Qi Duro + Gu do Pulmão de Água | O ar que defende aprende a respirar por você |
 | **Gu de Escravidão** (r4) | Gu da Escravidão (r2) + Verme da Verdade | A verdade forçada abre o caminho da vontade implantada. 🔨 Proibida em metade do continente |
-| **Gu do Crânio de Sangue** (r4) | 📕 **Sem fusão** — linhagem canônica do Caminho de Sangue | **Canônica**: muda a **Aptidão** de quem o refina; consome a linhagem de um parente de sangue (no romance, o refinador massacra o próprio clã). 🔨 Proibida em todo lugar |
 | **Gu de Domar Lobos** | Gu da Escravidão (r2) ×2 + uma matilha viva presente | Salto de dois ranks — 🔨 Instável; receita de domador das estepes |
 | **Gu do Cão de Guerra** | Gu das Tripas de Cão (r2) + Gu do Empenho Total | Os fantasmas de fera ensinam disciplina de guerra à matilha |
 | **Gu de Multitarefa** (r4) | Gu de Multitarefa (r2) + Gu da Lanterna da Alma | A mente dividida ganha luz própria em cada linha |
@@ -421,7 +420,7 @@ Chance base ~25%. Cada receita desta tabela é **segredo de estado** de algum cl
 | **Gu da Poesia** | Gu do Arquivo Vivo + Gu da Esperança | Cem páginas + uma emoção sincera = um verso que vira jade |
 | **Gu da Vontade Própria** | **Sem receita** | Nasce sozinho onde a Vontade do Céu falhou. Achado, nunca feito |
 | **Gu Relíquia de Cristal Roxo** | **Sem receita** — relíquia da era antiga | O último da linha Relíquia |
-| **Gu do Crânio de Sangue** (r5) | 📕 Elevação da versão r4 — a mesma linhagem, refinada de novo | **Canônica**: a versão avançada do romance dispensa o massacre do clã inteiro — basta extrair a linhagem de um parente vivo. 🔨 Proibida em todo lugar |
+| **Gu do Crânio de Sangue** (r5) | 📕 **Sem fusão** — mata um parente de sangue e usa o Gu sobre o corpo | **Canônica**: eleva a Abertura em +10% (retornos decrescentes — ver [[📖 Catálogo de Gu#Rank 5 — M = 16\|Catálogo]]). No romance a receita aparece já no rank 4; a versão avançada (a que o vault usa) dispensa matar o clã inteiro — basta extrair a linhagem de um parente vivo. 🔨 Proibida em todo lugar |
 | **Gu da Segunda Fenda Vazia** | Gu Ancião Primevo + Gu de Abertura de Pedra ×2 | 🔨 Receita lendária, salto de ranks, 🔨 Instável — a segunda cavidade se escava sozinha |
 | **Gu da Viagem Espiritual** | Gu Espírito Refinado + Gu do Portal Estelar Duplo | A alma aprende o caminho de fora |
 | **Gu da Unidade Carne-Osso** | Gu de Carne-Osso + Par de Gu de Sangue Vinculado | 🔨 Proibida — o implante é em recém-nascido |

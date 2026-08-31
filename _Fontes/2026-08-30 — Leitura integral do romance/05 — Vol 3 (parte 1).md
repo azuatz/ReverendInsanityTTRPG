@@ -353,6 +353,88 @@ Fonte: `Reverend-Insanity-fonte/texto/Volume_3_-_The_Demon_Wreaks_Chaos_in_the_W
 - Man tribe — tribo dominante regional, controla Hong Yan valley, cresceu rapidamente nos últimos anos; filho Man Duo pretendia casar com Ge Yao (cap. 440-442)
 - Wang Ting blessed land — sob proteção da Huang Jin tribe, refúgio de elite contra a grande nevasca; ponto de encontro do "heroes assembly" (cap. 440)
 
+- Jin strength Gu (rank 1) | +1 jin (~500g) de força física; 220 primeval stones (cap. 442)
+- Strength of ten jin Gu (rank 2) | +10 jin de força; 690 primeval stones (cap. 442)
+- Jun strength Gu (rank 3) | +1 jun (30 jin) de força; 4.550 primeval stones (cap. 442)
+- Strength of ten jun Gu (rank 4) | +10 jun (300 jin) de força; 36.000 primeval stones; efeito empilhável (diferente de beast strength Gu) — Fang Yuan compra 5 unidades (cap. 442, 443)
+- "Strength of a Thousand Jun" (rank 6, Immortal Gu) | golpe/Gu do rank 7 Gu Immortal Chu Du, "Domination Immortal" — 1.000 jun = 30.000 jin de força (cap. 442)
+- Wolf strength Gu, Horse strength Gu | Gu de força "ancestral" (beast strength), dá força/resistência de lobo ou cavalo; caros por raridade de material (cap. 442)
+- Beast fetus Gu | Gu necessário para empilhar múltiplos beast strength Gu do mesmo tipo — caro e raro, perdeu a competição para jun strength Gu (cap. 442)
+- Ghost fire Gu, Ghost cry Gu, Ghost face Gu, Ghost axe Gu (ataque); Ghost cage Gu, Ghost hand Gu, Ghost hitting wall (confinamento); Ghost sealing shirt Gu, Soul shield Gu (defesa); Ghost qi Gu, Ghost tears Gu (cura); Ghost eye Gu (investigação); Soul fly Gu, Elusive ghost Gu (movimento); Ghost soldier Gu, Impermanence ghost Gu, Air travel ghost Gu, Nine son mother ghost Gu (escravização) — catálogo completo de Gu do caminho da alma disponível no mercado, ilustrando a abrangência desse caminho (cap. 442)
+- Wolf soul Gu (rank 3) | refina a alma do usuário rumo a uma "wolf soul" — efeito empilhável (múltiplos Gu necessários para saturar hundred man soul); 7.700 primeval stones cada, Fang Yuan compra os 8 disponíveis na loja, depois mais até completar 9 (cap. 442-443)
+- Azure wolf skin Gu (rank 4, defesa) | refinado por Fang Yuan a partir de golden back wolf skin Gu (rank 3) após 2 falhas — cobre corpo com pelagem de lobo protetora, cresce sob comando (cap. 442, 445)
+- Wolf travel Gu | Gu de movimento usado em combate por Fang Yuan/Chang Shan Yin (cap. 443)
+- Flying bone shields, Iron bone broad axes | Gu de defesa/ataque de Shi Wu, elder de caminho ósseo (bone path) (cap. 443)
+
+## B10) Sistemas (continuação — strength path, soul path, wolfman soul)
+
+- **Caminho da força (strength path) hoje**: está no seu ponto mais fraco histórico, mas Northern Plains é a região onde ainda floresce mais (batalhas constantes recompensam força física bruta quando a primeval essence acaba). Ramo "ancestral" usa beast strength Gu (caro, raro, mas dá "beast phantom"); ramo moderno (invenção de Chu Du, "Domination Immortal", rank 7 Gu Immortal morto em batalha por Feng Jiu Ge) usa jin/jun strength Gu — barato, alta taxa de sucesso de refino, empilhável sem limite teórico (mas o corpo tem limite físico de uso simultâneo) (cap. 442)
+- **Caminho da alma (soul path) é hoje o maior caminho do mundo**: tem Gu para todas as funções (ataque, defesa, cura, investigação, movimento, escravização) — diferente do strength path que só tem Gu de ataque. Refinar a alma com um "soul" temático (wolf soul, dragon soul, ice soul etc.) dá bônus a Gu do mesmo tema usados depois (cap. 442, 443)
+- **Mecânica de refino de "wolfman soul"**: cada wolf soul Gu absorvido funde-se com a "hundred man soul" existente, tornando-a progressivamente mais "lupina" em aparência (orelhas, cabelo, olhos, corpo) e mais condensada (de branco-pálido a cinza-esbranquiçado); ao saturar (9 unidades), Fang Yuan atinge o "wolfman soul" — categoria muito mais forte que hundred man soul comum, e ainda pode ser fortalecida além, rumo a thousand/ten thousand/hundred million man soul (limite teórico ilimitado). Spectral Soul Demon Venerable, fundador do soul path, teria ultrapassado "hundred million man soul" — sua forma lendária tem 3 cabeças e mil braços, cultuada como ícone religioso em Southern Border até hoje (cap. 443)
+- **Origem histórica do enslavement path**: nasceu como um ramo do soul path, combinado depois com o "wisdom path" primitivo até se tornar independente — por isso Gu de escravização (slavery Gu, beast enslavement Gu) e Gu de alma compartilham mecânica de "controle mental" (cap. 443)
+- **Etiqueta/diplomacia de Northern Plains**: anfitrião cavalga até 10 li para receber convidado de honra; presentear com bens raros (100 bone bamboo Gu) é pedido de desculpas formal; um "duelo" tribal aceito publicamente decide disputas — vencer sem matar o oponente rank inferior é visto como sinal de honra/magnanimidade (Fang Yuan poupa Shi Wu deliberadamente para não parecer "bully") (cap. 443-445)
+- **Reparo de Gu danificado (battle bone wheel)**: usa bone bamboo Gu (queimado com ghost fire Gu, como uma vela) — a fumaça óssea branca resultante é sugada pelas rachaduras do Gu danificado, remendando-o aos poucos; processo demorado (30+ bone bamboo Gu só para consertar a rachadura mais profunda; ainda restam outros danos) (cap. 445)
+- **Gu Immortals rank 6 negociando recursos entre blessed lands**: Gui Wang (rank 6, soul path) troca 3.500.000 "lava bats" (morcegos de lava) com Loner Hong Yu (rank 6) — cada blessed land tem sua própria "porta" única de entrada com aparência distinta (a de Hong Yu blessed land é um "mini sol" vermelho brilhante); lava bats servem para descartar excesso de lava mensalmente da blessed land de Hong Yu (cap. 446)
+
+## D10) Números e preços (continuação)
+
+- Preços de mercado (Northern Plains): jin strength Gu rank1 = 220 primeval stones; strength of ten jin Gu rank2 = 690; jun strength Gu rank3 = 4.550; strength of ten jun Gu rank4 = 36.000; wolf soul Gu rank3 = 7.700 cada (cap. 442)
+- Fang Yuan gastou ~500-600 mil primeval stones em 3 dias de compras; ao final de 13 dias de mercado, restavam apenas 3.000 primeval stones (de ~1.000.000+ recebidos) (cap. 442)
+- Compra final: mais de 1.000 water wolves (incluindo 1 fera mutante jovem) (cap. 442)
+- Força física de Fang Yuan após 3 strength of ten jun Gu: 20 jun = 600 jin (cap. 443)
+- Shi Wu (external elder de Man tribe, bone path) é rank 3 pico; oferece 100.000 primeval stones de aposta no duelo contra Ge tribe (cap. 443-444)
+- Man Duo oferece 500.000 primeval stones para Fang Yuan não interferir (recusado); Man tribe leader Man Tu é rank 4 pico (cap. 444-445)
+- Presente de desculpas de Man tribe: 100 bone bamboo Gu (cap. 445)
+- Reparo do battle bone wheel: mais de 30 bone bamboo Gu consumidos só para fechar a rachadura mais profunda; ainda resta ~3/4 do total de 100 Gu disponíveis, mas o Gu está longe de utilizável em combate (cap. 445)
+- Gui Wang entrega 3.500.000 lava bats a Loner Hong Yu, ambos rank 6 Gu Immortals (cap. 446)
+
+## E8) Locais (continuação)
+
+- Hong Yu blessed land — pertence ao rank 6 Gu Immortal "Loner Hong Yu"; porta de entrada em forma de "mini sol" vermelho; precisa descartar lava mensalmente (recebe lava bats para isso) (cap. 446)
+
+- Nether ghost claw | golpe de Gui Wang (rank 6 Gu Immortal, soul path) — projeção de garra fantasmagórica verde que captura Gu selvagens em massa (cap. 446)
+- Hundred ghost night travel Gu (rank 5) | libera 100 espíritos errantes que esmagam almas de inimigos sem ferir o corpo — arma anti-alma de Gui Wang (cap. 446)
+- Chase smoke Gu (ancient/antiga, rank não dito) | Gu de rastreamento — fumaça colorida invisível gruda em quem tocou o alvo marcado e permanece por meses; revela contato físico ao ser reativada (cap. 447)
+- Hints and clues Gu (rank 5) | Gu de rastreamento de posse — marca itens/Gu de um Gu Master; se o alvo morrer, aponta a direção de quem ficou com os pertences dele (raio de 500 li fora de aperture, 1.000 passos se escondido em aperture) — Fang Yuan ganha este Gu de presente de Ge tribe leader (cap. 447-448)
+- Wolf lure Gu | Gu escondido em provisões que atrai lobos — usado por Man tribe para sabotar a migração de Ge tribe (cap. 450)
+- Turtleback wolf | espécie de lobo com a maior defesa entre lobos de Northern Plains (cap. 451)
+
+## B11) Sistemas (continuação — intriga política, Gu Immortals caçando Immortal Gu)
+
+- **Gui Wang (rank 6 Gu Immortal, soul path) caça o fixed immortal travel Gu de Fang Yuan**: rastreia a aura pelo caminho de Fang Yuan (poison grassland, sunflower sea, earth spike rats, shadow crows, campo de batalha) mas a aura enfraquece cada vez mais (graças às camadas de selagem de Fang Yuan) até sumir de vez perto do local onde foi enterrado com iron cabinet Gu; Gui Wang conclui erroneamente que a rank 7 Gu Immortal Lady Poison Scorpion (Zi Yan Ran) deve tê-lo capturado, e desiste por não ter poder de fogo suficiente para atacá-la (estava reunindo aliados — Hua Hai three immortals e Loner Hong Yu — apenas para atacar Lang Ya blessed land, não Zi Du). Demonstra como as camadas de disfarce de Fang Yuan (bright pearl+dusty/dark toss, depois iron cabinet+earth treasury flower king) enganaram até um Gu Immortal rank 6 investindo esforço concentrado (cap. 446, 448)
+- **Aliança demoníaco-reta oportunista entre Gu Immortals**: Gui Wang (soul path) e Loner Hong Yu (rank 6) recrutam os "Hua Hai three immortals" (righteous path) para atacar juntos a Lang Ya blessed land por recipes valiosas — mostrando que "path" (caminho reto/demoníaco) não impede alianças quando o interesse é grande o suficiente ("o que é reto, o que é demoníaco? É só interesse pessoal") (cap. 446)
+- **Regra de primeval essence infinita de Gu Immortal**: 1 grão de green grape immortal essence, diluído, sustenta uma blessed land inteira por até 100 anos — por isso Gu Immortals podem usar Gu rank 5 sem parar em combate, diferente de mortais/Gu Masters que ficam sem primeval essence rapidamente (cap. 446)
+- **Intriga de "chase smoke Gu" no banquet**: Man Duo tenta expor Fang Yuan como assassino de Ge Yao usando fumaça de rastreio que gruda em quem teve contato físico com ela; Fang Yuan escapa alegando que um lobo de sua matilha comeu o corpo dela e passou o resíduo para ele por contato — mentira coerente e verificável (fuma mais forte em alguns lobos específicos) que na visão de todos prova sua inocência (cap. 447)
+- **Contra-jogada do velho líder de Ge tribe**: sabendo que Fang Yuan pode ser o assassino real, ele finge confiança total publicamente e depois entrega de bom grado o hints and clues Gu (que provaria contato de Fang Yuan com os pertences de Ge Yao, mas não foi usado a tempo/propositalmente) como "prova de inocência" e cimento de aliança — jogada calculada para amarrar Fang Yuan como escudo político contra Man tribe, mesmo desconfiando dele (cap. 447-449)
+- **Golpe do "pedido de compra por carta comum" (sinalização política)**: Fang Yuan manda pedido de Gu/materiais para Man tribe via carta comum (não Gu de correio) deliberadamente, para que Ge tribe veja o conteúdo e interprete como sinal de que ele não se tornará inimigo de Man tribe — Man tribe, por sua vez, entende o gesto e entrega os itens de graça como resposta diplomática, sem que dinheiro real mude de mãos; a troca serve só como linguagem simbólica entre elites (cap. 450)
+- **Emboscada de "salvamento fingido"**: Man tribe esconde wolf lure Gu nas provisões dadas a Ge tribe (parte do "presente de despedida"), atraindo 3 grupos de ~10.000 lobos (myriad wolf groups) para atacar a caravana migrante — planejando "resgatá-los" depois para reabsorver a tribo enfraquecida sob pretexto de bondade; avaliam Chang Shan Yin como ameaça mas o creem enfraquecido (rank 4 inicial, alma caída para "apenas" hundred man soul, comparado ao antigo thousand man soul) (cap. 450-451)
+
+## D11) Números e preços (continuação)
+
+- Presente final de Man tribe a Ge tribe (disfarce de emboscada): 1.500 toneladas de provisões, com wolf lure Gu escondidos dentro (cap. 450)
+- Força de emboscada: 3 grupos de ~10.000 lobos cada (myriad wolf groups) = ~30.000 lobos totais, incluindo turtleback wolves de defesa muito alta (cap. 450-451)
+- Exército de Fang Yuan antes da emboscada: ~1.000 wind wolves + ~1.000 poison beard wolves + ~1.000 water wolves = ~3.000 lobos (cap. 450)
+
+- Firelight Gu (rank não dito) | Gu de fogo protetor de um wolf king inimigo — queima a fumaça do wolf enslavement Gu antes de fazer efeito (cap. 451)
+- Self-ignition Gu (rank 3) | envolve o portador em chamas constantes, queima wolf enslavement Gu antes de ele agir (cap. 453)
+- Wolf care Gu | permite ao usuário "ver" através dos olhos de um lobo específico de sua matilha — usado com um olho fechado, permitindo visão dupla simultânea (cap. 452)
+- White-eyes wolf | besta mutante (mutated beast) — versão de água comum a partir de linhagem rara; adulta tem força equivalente a myriad beast king e visão ampliada equiparável a Gu investigativo rank 4, inclusive noturna; Fang Yuan a identificou ainda filhote entre water wolves comuns no mercado e comprou o lote inteiro para escondê-la; acelerou seu crescimento com third watch Gu (13x mais apetite, vida útil reduzida) (cap. 452)
+- Three claw water dragon Gu, Fist stone Gu, Lightning web Gu | Gu de ataque usados por elders de Ge tribe para deter um wind blade de myriad wolf king (cap. 452)
+
+## B12) Sistemas (continuação — batalha em massa, wolf enslavement)
+
+- **Regra de força de thousand/myriad beast king**: um thousand beast king tem Gu rank 3, requer no mínimo 3 grupos cooperativos de Gu Masters (ou 3 Gu Masters rank 3) para abater; um myriad beast king tem inteligência muito superior à espécie e pode identificar e focar ameaças específicas (como Fang Yuan) (cap. 452-453)
+- **Wolf enslavement Gu é consumível (expenditure)**: cada uso gasta 1 unidade, então Fang Yuan recicla ativamente saqueando wolf enslavement Gu dos corpos/wolf kings capturados durante a batalha para reabastecer seu estoque (cap. 452)
+- **Custo mental de escravizar em massa**: cada disputa de alma via hundred man soul deixa Fang Yuan mais "impaciente e impulsivo"; uso excessivo sem descanso arrisca tontura, dano à alma, perda de memória ou de inteligência — ele precisa meditar entre lotes de captura para "acalmar" a hundred man soul (cap. 452)
+- **Tática de "bola de neve" de Fang Yuan em batalha de horda**: em vez de lutar defensivamente, ele ataca em movimento constante, capturando wolf kings enfraquecidos ou sem defesa anti-escravização primeiro, ignorando os protegidos (self-ignition Gu, firelight Gu) até estarem vulneráveis; sua matilha cresce a cada captura, tornando-se uma "bola de neve" que rola e engole o exército inimigo; evita deliberadamente enfrentar o myriad wolf king sozinho até ter massa suficiente para cercá-lo (8.000 wolf kings cercando 1 myriad wolf king) (cap. 451-454)
+- **Preço de Gu rank 4 sobe abruptamente**: Gu de escravização de besta rank 4 (controla myriad beast king) normalmente não é vendido no mercado aberto — junto com relic Gu, é um dos poucos tipos cujo preço "salta" drasticamente ao alcançar rank 4 (cap. 454)
+
+## D12) Números e preços (continuação)
+
+- Ataque de turtleback wolves: 38.000+ lobos confirmados por batedores; formação em 5-6 grupos cercando o acampamento Ge (cap. 451)
+- Ao fim da batalha: Fang Yuan acumula ~12.000+ lobos sob comando, incluindo 8 thousand wolf kings e 59 hundred wolf kings; consegue um rank 4 wolf enslavement Gu do corpo do myriad wolf king abatido (cap. 453-454)
+- Distância de alcance do wolf howl Gu de Fang Yuan: 1.000 li (durante a batalha) (cap. 453)
+
 ## G) Achados soltos
 
 - Fang Yuan (protagonista) tomou posse de Hu Immortal blessed land ao chegar via fixed immortal travel Gu no pico de Dang Hun mountain, expulsando concorrentes via land spirit e fechando a blessed land (evento pré-cap.406, referenciado retrospectivamente)
