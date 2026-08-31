@@ -174,10 +174,10 @@ O Gu do Manto Fervente dá `+N Níveis` a **Gu de Sangue e a golpes corpo a corp
 ```
 Manto Fervente (N=3) + Gu de Força de rank 5 ativo
 → golpe de arma pesada no passo +1, +3 do Manto, +3 do Gu de Força = passo +7
-→ 1d12+1d10 + FOR, × 16
+→ 16d12 + 64 + FOR  (4 Níveis acima de d12; 16 dados do Gu de Força)
 ```
 
-**Os Níveis somam antes do multiplicador; o `× M` vem do Gu de Força ativo, não do Manto.** É a interação mais forte que a fase mortal permite, e o freio é que o Manto **bloqueia toda cura por 3 rodadas** — exatamente o Caminho que mais apanha, com a cura desligada.
+**Os Níveis somam antes do pool; o `M` — quantos dados você rola — vem do Gu de Força ativo, não do Manto.** É a interação mais forte que a fase mortal permite, e o freio é que o Manto **bloqueia toda cura por 3 rodadas** — exatamente o Caminho que mais apanha, com a cura desligada.
 
 ### 3. As Correntes seguram o que a Força arremessa
 

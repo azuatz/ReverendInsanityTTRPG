@@ -156,7 +156,7 @@ Os dois Caminhos gastam a **mesma moeda** — o corpo — e cada um resolve meta
 
 O corpo em movimento sangra menos. Na prática, é o que permite manter o **Gu do Manto Fervente** aceso numa luta longa sem terminar em **Lívido** — e o cultivador duplo é o único da mesa que consegue isso.
 
-### 2. A Descarga e o Manto empilham antes do `× M`
+### 2. A Descarga e o Manto empilham antes do `M`
 
 As duas maiores fontes de Nível da fase mortal são de Caminhos diferentes e **somam**:
 
@@ -165,10 +165,11 @@ arma pesada (passo +1)
   + Gu de Força rank 5 ativo (+3)
   + Manto Fervente a N=3 (+3)
   + DESCARGA de 5 Ímpeto (+3)
-= passo +10: 2d12+1d6 + FOR, × 16 do Gu de Força, ignorando RD
+= passo +10: 16d12 + 112 + FOR  (7 Níveis acima de d12; 16 dados do Gu de Força),
+  ignorando RD
 ```
 
-**O `× M` vem do Gu de Força, sempre — o Manto dá Níveis, não multiplicador.** O freio é honesto e duplo: o Manto **bloqueia toda cura por 3 rodadas**, a Descarga cobra 16 de Vitalidade e −1 FOR, e a Sangria do Manto (24) entra na Dívida. Você fez o maior número da mesa e entrou na rodada seguinte com o corpo aberto e a cura desligada.
+**O `M` — quantos dados você rola — vem do Gu de Força, sempre; o Manto dá Níveis, não dados.** O freio é honesto e duplo: o Manto **bloqueia toda cura por 3 rodadas**, a Descarga cobra 16 de Vitalidade e −1 FOR, e a Sangria do Manto (24) entra na Dívida. Você fez o maior número da mesa e entrou na rodada seguinte com o corpo aberto e a cura desligada.
 
 ### 3. Corrente prende, Força quebra
 

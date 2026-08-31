@@ -57,18 +57,20 @@ Nem todo alimento se caça — a maior parte se compra. A conversão de mesa, pr
 
 | Situação | Pedras |
 |---|---|
-| **Pagamento do clã a um membro rank 1** | **10 por semana** |
+| **Mesada do clã a um membro de rank 1** | **40 por mês** |
+| **Mesada do clã a um membro de rank 2** | **120 por mês** |
+| **Mesada do clã a um membro de rank 3** | **400 por mês** |
 | **Gu Vital de um membro do clã** | **0** — o clã alimenta |
 | **Cada Gu extra de rank 1–2** | **20 por mês** |
 | Cada Gu de rank 3 | 60 por mês |
 | Cada Gu de rank 4 | 200 por mês *(pago em blocos, não mensalmente)* |
 | Gu de rank 5+ | Não se compra. É expedição |
 
-**A conta que o jogador de rank 1 faz toda semana:** ele ganha 40 por mês e cada Gu além do Vital come 20. **Dois Gu extras já consomem tudo que ele recebe** — o terceiro só existe se ele arranjar renda fora do clã, caçar o alimento em vez de comprá-lo, ou aceitar uma dívida. É o primeiro aperto econômico da campanha e acontece por volta da terceira sessão.
+**A conta que o jogador de rank 1 faz todo mês:** ele ganha 40 por mês e cada Gu além do Vital come 20. **Dois Gu extras já consomem tudo que ele recebe** — o terceiro só existe se ele arranjar renda fora do clã, caçar o alimento em vez de comprá-lo, ou aceitar uma dívida. É o primeiro aperto econômico da campanha e acontece por volta da terceira sessão.
 
-**Fora do clã não tem salário.** Errantes e demoníacos não recebem as 10 semanais — e é por isso que roubam.
+**Fora do clã não tem salário.** Errantes e demoníacos não recebem mesada nenhuma — e é por isso que roubam.
 
-**Anote as duas linhas na ficha:** quanto tem, e quanto gasta por semana. Ver [[Modelo — Ficha Compacta|Ficha Compacta]].
+**Anote as duas linhas na ficha:** quanto tem, e quanto gasta por mês. Ver [[Modelo — Ficha Compacta|Ficha Compacta]].
 
 ## Quantos Gu cabem
 

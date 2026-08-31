@@ -44,10 +44,10 @@ Nas contas abaixo, **`M`** é o Multiplicador de Rank da formação (tabela de [
 
 | Função | Efeito dentro do raio |
 |---|---|
-| **Defesa de área** | Todos os defensados ganham **RD `2 × M`**. Ataques vindos de fora do raio sofrem **−2 no acerto**. Atravessar a fronteira à força exige teste de FOR ou VON, **CD `10 + 2G + rank da formação`** — falhou, não passou e leva `1d6 × M` de dano |
+| **Defesa de área** | Todos os defensados ganham **RD `2 × M`**. Ataques vindos de fora do raio sofrem **−2 no acerto**. Atravessar a fronteira à força exige teste de FOR ou VON, **CD `10 + 2G + rank da formação`** — falhou, não passou e leva **`M d6`** de dano (rank 3 = `4d6`) |
 | **Detecção** | O fundador sabe posição, rank aproximado e número de Gu ativos de tudo que está dentro. Furtividade contra a formação: **DES vs. CD `10 + 2G + rank da formação`**. A informação chega ao fundador com atraso de `4 − G` horas se ele estiver fora do raio |
 | **Supressão** | Gu de rank **igual ou inferior** ao da formação custam **o dobro** pra ativar (só pra quem o fundador não autorizou). Gu de movimento de intrusos operam **1 rank abaixo** — o que derruba a Defesa deles pela conta padrão. Não afeta quem a formação reconhece |
-| **Armadilha** | **Uma vez por cena**, a formação dispara o efeito do próprio Gu-núcleo contra uma zona escolhida na montagem: dano `(passo do núcleo) × M`, ou o efeito de controle dele com **CD `10 + VON do fundador + rank da formação`**. Recarrega em 24 horas |
+| **Armadilha** | **Uma vez por cena**, a formação dispara o efeito do próprio Gu-núcleo contra uma zona escolhida na montagem: dano **`M d(dado do Caminho do núcleo, já com o passo dele)`**, com o `M` da **formação** e não o do Gu, ou o efeito de controle dele com **CD `10 + VON do fundador + rank da formação`**. Recarrega em 24 horas |
 
 **Uma formação não é um Gu ativo do fundador.** Ela está ancorada no solo, não na Abertura dele — não ocupa vaga no limite de `CON + rank` e não entra na Manutenção por rodada. É isso que permite a um Mestre de Gu de rank 4 ter uma formação de grau II em casa **e** lutar com o arsenal completo.
 
@@ -175,7 +175,7 @@ O Domínio fecha antes se a Essência Imortal acabar. Segurar além do tanque cu
 |---|---|
 | **Teleporte e Gu de Espaço** | Gu de rank **inferior** ao do dono simplesmente não ativam. Rank igual ou superior exigem **VON CD `10 + VON do dono + rank do dono`** e custam o dobro. Falhou, a essência foi embora e você continua aqui |
 | **Gu de movimento** (voo, velocidade, sombra) | Operam **2 ranks abaixo** dentro do raio. Continuam funcionando pra manobrar; não servem pra sair |
-| **Sair pela borda** | Teste **oposto de VON** contra o dono. Sucesso atravessa e o Domínio se fecha atrás de você; falha custa a ação e `2d12 × M` de dano de fronteira |
+| **Sair pela borda** | Teste **oposto de VON** contra o dono. Sucesso atravessa e o Domínio se fecha atrás de você; falha custa a ação e **`(2 × M) d12`** de dano de fronteira — o dobro do pool do rank do dono (rank 6 = `128d12`, média 832) |
 | **Comunicação** | **Cortada por completo.** Gu de informação, mensageiros, marcas de alma, sinais visuais — nada sai, nada entra |
 | **Socorro externo** | Ninguém de fora entra sem passar pela fronteira (mesmo teste da saída, contra o dono). Aliado que estava fora quando abriu, fica fora |
 | **Percepção externa** | Quem está de fora não vê, não ouve e não sente o que acontece dentro. O mundo vê um borrão parado |
@@ -207,7 +207,7 @@ O **rank da Casa** é definido no refino, tipicamente o rank do fundador.
 
 | Estação | Atributo | Custo por rodada | O que faz |
 |---|---|---|---|
-| **Ataque** | VON | 40 × modificador de Caminho | Um ataque por rodada: `d20 + VON do operador + (rank operante + 2) + rank operante`. Dano: **passo +2 na Escada × M do rank operante** |
+| **Ataque** | VON | 40 × modificador de Caminho | Um ataque por rodada: `d20 + VON do operador + (rank operante + 2) + rank operante`. Dano: **`M d(dado do Caminho da Casa) com +2 Níveis`**, `M` do **rank operante** — uma Casa de Caminho d8 atira `M d12`; uma de Caminho d12 atira `M d12 + 2 × M` |
 | **Defesa** | CON | 40 | **RD `3 × M`** do rank operante pra tudo e todos dentro. A Casa tem Vitalidade `40 × M` e Defesa `10 + rank da Casa` |
 | **Movimento** | DES | 40 | A Casa se desloca. Concede Defesa `10 + DES do operador + rank operante` à estrutura, e permite tentar Fuga ([[🏃 Fuga e Perseguição\|Fuga e Perseguição]]) com o teste do operador |
 
@@ -224,7 +224,7 @@ Rank operante = rank da Casa − (número de estações vazias)
 | 1 | rank − 2 | Um quarto do dano. Funciona, mal |
 | 0 | — | **Objeto inerte.** Não se move, não atira, não defende |
 
-O rank operante vale pras **três** estações ao mesmo tempo, não só pras vazias. Uma Casa de rank 5 com duas estações ocupadas atira como rank 4 — o dano cai de `× 16` pra `× 8`. **A máquina inteira desanda junta**, e é isso que torna tirar um tripulante de cena uma jogada tática de verdade contra o grupo.
+O rank operante vale pras **três** estações ao mesmo tempo, não só pras vazias. Uma Casa de rank 5 com duas estações ocupadas atira como rank 4 — o pool cai de **16 dados para 8**, e a RD e a Vitalidade dela caem junto. **A máquina inteira desanda junta**, e é isso que torna tirar um tripulante de cena uma jogada tática de verdade contra o grupo.
 
 ## Quem tripula e o que paga
 

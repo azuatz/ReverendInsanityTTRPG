@@ -70,13 +70,13 @@ Um `1 natural` em qualquer rolagem do teste estendido — a qualquer momento, me
 
 | Efeito | |
 |---|---|
-| **Dano** | `1d12 × M do rank do Gu que estava sendo refinado`, em Vitalidade, **sem RD** — a explosão vem de dentro da fornalha, e a fornalha é você |
+| **Dano** | **`M d12`**, com o `M` do rank do Gu que estava sendo refinado (rank 3 = `4d12`, rank 5 = `16d12`), em Vitalidade, **sem RD** — a explosão vem de dentro da fornalha, e a fornalha é você |
 | **Materiais** | Tudo perdido, **inclusive o Gu Vital**, que fica ferido e **inutilizável por `1d6` semanas** (é a única circunstância que tira o Gu Vital de jogo sem matá-lo) |
 | **Área** | Raio de 3 m. Quem estiver assistindo sofre metade — refino não é atividade de sala cheia |
 | **A Abertura** | **1 Ferimento permanente**, sempre |
 | **O local** | Se você refinava numa Terra Abençoada, ela ganha **1 Ferimento da Terra** (ver [[🗝️ Terra Abençoada\|Terra Abençoada]]) |
 
-**Refino de Gu Imortal** (com Espírito da Terra, ver [[🧿 Espíritos da Terra|Espíritos da Terra]]) usa a mesma regra, com `M` de rank 6 — `1d12 × 32`. É por isso que ninguém tenta sem a vantagem do espírito.
+**Refino de Gu Imortal** (com Espírito da Terra, ver [[🧿 Espíritos da Terra|Espíritos da Terra]]) usa a mesma regra, com `M` de rank 6 — **`32d12`** (32–384, média 208). É por isso que ninguém tenta sem a vantagem do espírito.
 
 ## Combo-refino — fundir Gu num de rank superior
 
