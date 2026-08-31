@@ -521,16 +521,16 @@ acumulam, usa-se o maior — matar com Golpe Matador decisivo é ×2, não ×3.
 Pedido do autor: verificar, criticar e melhorar o trabalho paralelo. Veredito: os 12 commits (Dicionário, Golpes Matadores reordenado, legenda de Gu Lendários, Marcas de Dao enxugada, Guia de Criação com exemplo resolvido, exemplo triplo em Formações, links de Retrocesso, VB resolvido como decisão 193) estão disciplinados — inclusive corrigiram uma imprecisão da minha própria crítica (a notação "MD" não morava em Gu Lendários) em vez de aplicar cegamente. Dois achados da revisão: (1) erro de unidade no exemplo novo do [[📋 Guia de Criação de Ficha]] — "6% por minuto" corrigido pra "6 pontos por minuto" (240 de tanque = 40 min), verificado contra a fórmula de [[🌟 Aptidão e Abertura]]; (2) contradição pré-existente de 2× na taxa essência↔pedra (20 em Refino/Materialização vs 40 na tabela de Formações de Gu) — exposta pelo exemplo novo, registrada em "Em aberto" por ser número de balanceamento. Todos os demais números dos dois exemplos novos verificados na mão contra as fórmulas-fonte: corretos.
 
 ## [2026-08-31] ingest | Três diretivas do autor: divisão leve, teto rompido no salto, regen canônica, Caminho da fenda (decisões 195-197)
-Rodada de diretivas diretas: (a) subseção de divisão de Caminhos em [[☯️ Marcas
-de Dao]] reescrita em formato leve — só "como funciona + o que os personagens
+Rodada de diretivas diretas: (a) subseção de divisão de Caminhos em
+[[☯️ Marcas de Dao]] reescrita em formato leve — só "como funciona + o que os personagens
 da obra fazem", sem tabela prescritiva de otimização; (b) o furo "teto do rank
 8 é 299.999 mas Venerável pede 300.000 num Caminho" resolvido como na obra: as
 condições se consolidam NO rompimento do bloqueio, com as Marcas da provação
 final entrando já sem teto ([[🪜 Ranks e Estágios]]); (c) regeneração de
 essência refeita no ritmo canônico — % do tanque por hora pelo Grau (D 2 · C 4
 · B 6 · A 8, 📕 Cap. 10), recarga em dias e não minutos, sincronizada em 5
-notas; (d) nova seção "De que Caminho nasce a fenda" em [[♾️ A Ascensão
-Imortal]] costurando as decisões 39/42/84 que estavam soltas — Gu Vital ancora,
+notas; (d) nova seção "De que Caminho nasce a fenda" em
+[[♾️ A Ascensão Imortal]] costurando as decisões 39/42/84 que estavam soltas — Gu Vital ancora,
 trajetória confirma, primeiras Marcas selam, sem Marca prévia necessária.
 
 ## [2026-08-31] crítica | Taxa essência↔Pedra unificada em 20, Formações reprecificada (decisão 198)
@@ -539,3 +539,15 @@ só no sistema inteiro (1 pedra ≈ 20, a de Refino/Materialização); a tabela 
 manutenção de [[🔷 Formações de Gu]] convertia a 40 e foi reprecificada — custo
 em essência intacto, equivalente em pedras dobrou (grau IV: 100/dia, 3.000/mês),
 calibragem econômica reescrita junto.
+
+## [2026-08-31] crítica | Playtest de leitura — persona "mestre de D&D que nunca leu o romance"
+Simulada a jornada completa da trilha do mestre novo (Mundo em 10 Minutos →
+Guia do Mestre Iniciante → Folha de Referência) mais as três tarefas reais:
+sessão zero (ficha de teste criada do zero), primeiro combate (Padrão rank 1,
+2 rodadas rodadas no papel com dados) e entrega do primeiro Gu (Luar, via
+Índice → Catálogo → Receitas). Relatório completo com ~20 tropeços em
+[[🔍 Playtest de Leitura — Mestre Novo (2026-08-31)]]. Top 5: tabela de
+composições da Parte 7 do Guia contradiz Ameaças (Clímax r1 = 4% medido);
+dinheiro inicial inexistente ("orçamento de jogo" órfão); régua da Horda errada
+na cena-modelo da Parte 3; "Níveis de Dano" sem definição no ponto de uso;
+Alma zerada sem regra. Nenhuma nota de regra editada — correções ficam pro autor.
