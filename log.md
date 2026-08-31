@@ -514,8 +514,7 @@ dividido entre Caminhos, ou com gênio pobre empilhado). Nova subseção "regra
 do degrau" ensina como a divisão entre dois Caminhos realmente funciona
 (atribuição por fonte, tabela de impacto por rank, recomendação 70:30-90:10
 pensando em degraus e não porcentagem), com canonicidade 🔧 do conflito de
-dao marks (Cap. 1272-1275, 1863-1865). E a ambiguidade de VB em [[🎰 Aposta
-por Procuração]] foi fechada como decisão 193: multiplicadores nunca
+dao marks (Cap. 1272-1275, 1863-1865). E a ambiguidade de VB em [[🎰 Aposta por Procuração]] foi fechada como decisão 193: multiplicadores nunca
 acumulam, usa-se o maior — matar com Golpe Matador decisivo é ×2, não ×3.
 
 ## [2026-08-31] crítica | Revisão da rodada de otimização da outra sessão (12 commits)
