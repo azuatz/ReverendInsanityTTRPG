@@ -255,6 +255,10 @@ Todas por diretiva direta do autor (fonte: `_Fontes/2026-08-30 — Feedback do a
 
 ---
 
+146. **A última recomendação da Frente 3 implementada: Convenção do Caminho de Refino.** Nota nova [[🏆 Convenção do Caminho de Refino]] (03 — Gu) — o torneio de attainment coletivo a cada 100 anos, item 6 das recomendações prioritárias de `🔍 Síntese — Atividades Jogáveis por Rank`. Adaptado sem número novo: reaproveita o teste estendido de [[🧩 Refino e Precificação]] por cima de uma estrutura de fases — qualificação em uma cena (mesma CD de Dedução de Receita, `15 + 3×rank`), Fase dos Postos (2-3 testes estendidos sucessivos, funil sem eliminação direta) e Fase de Território de Fera (duelo direto no mesmo teste, sem prêmio de consolação), coroada pela Marca de Sucesso — sucesso automático garantido num refino até rank 6, item que nem a maior organização do mundo já conseguiu comprar ou fabricar. As 8 recomendações da Frente 3 estão agora todas implementadas.
+
+---
+
 ## 🔔 Em aberto
 
 - [x] ~~Ranks 1–2 e rank 5 não foram simulados~~ — cobertos pela quinta rodada (ranks 1, 2, 3 e 5). Rank 4 segue sem simulação própria.

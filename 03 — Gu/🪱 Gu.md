@@ -41,6 +41,7 @@ Núcleo + apoio: o combo que define um cultivador em combate. É o momento em qu
 
 - **[[🗺️ Supressão Regional]]** — Gu usado fora da região onde foi refinado **conta um rank abaixo**. É a regra que dá peso a viajar, e a que os jogadores mais esquecem.
 - **[[🔷 Formações de Gu]]** — matrizes territoriais, Domínios de Campo de Batalha e a Casa-Gu tripulada. Escala de cerco e de guerra; só aparece em campanha avançada.
+- **[[🏆 Convenção do Caminho de Refino]]** — o torneio de attainment coletivo a cada 100 anos, pra quando a mesa quiser competir refinando em vez de lutando. Reaproveita o teste estendido de [[🧩 Refino e Precificação]] por cima de um formato de fases e eliminação.
 
 ---
 

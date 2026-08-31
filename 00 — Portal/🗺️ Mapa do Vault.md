@@ -96,6 +96,7 @@ escopo: processo
 | [[🚀 Gu de Avanço de Rank]] | **Todo Gu de progressão num lugar só** — estágio, salto de rank, Ascensão e fase imortal, com a tabela de planejamento rank a rank dos 4 personagens |
 | [[💀 A Morte dos Gu]] | **Como Gu se machucam e morrem** — a escada Esgotado→Ferido→Morto, escudos que estouram, mirar um Gu, e a Sobrecarga e a **Queima** dentro de Golpes Matadores |
 | [[🗂️ Índice de Gu por Caminho]] | **Todos os Gu por Caminho e rank** — a porta de consulta do catálogo |
+| [[🏆 Convenção do Caminho de Refino]] | **Torneio de attainment coletivo a cada 100 anos** — reaproveita o teste estendido de Refino num formato de fases (Postos → Território de Fera) e um prêmio que não se compra |
 | [[📜 Livro de Receitas de Gu]] | **De onde sai cada Gu** — origem selvagem (r1), receita de fusão (r2–5), elevação (r6+); receitas canônicas marcadas 📕 |
 | [[🧬 Receitas de Combo-Refino]] | Quais Gu fundem em quais, exemplos por salto de rank |
 | [[🗺️ Supressão Regional]] | Gu fora da região onde foi refinado conta 1 rank abaixo; Muralhas Regionais pros Imortais |

@@ -381,3 +381,10 @@ mais o sistema de morte dos Gu pedido à parte (129) e as correções de fidelid
 da outra sessão (142-143). Pendências abertas deliberadamente (Terra Abençoada,
 Aptidão populacional, candidato borderline do catálogo, aceleração de frequência
 de Calamidade) documentadas explicitamente na nota, não escondidas.
+
+## [2026-08-30] ingest | Convenção do Caminho de Refino — última recomendação da Frente 3 (decisão 146)
+Nota nova [[🏆 Convenção do Caminho de Refino]] em 03 — Gu: torneio de
+attainment coletivo a cada 100 anos, reaproveitando o teste estendido de
+[[🧩 Refino e Precificação]] sem número novo — só estrutura de fases (Postos →
+Território de Fera) e o prêmio (Marca de Sucesso). Fecha as 8 recomendações da
+Frente 3 (atividades jogáveis) da síntese da leitura integral.
