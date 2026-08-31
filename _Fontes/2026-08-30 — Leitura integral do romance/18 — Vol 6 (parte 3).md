@@ -297,6 +297,9 @@ Fonte: `Volume_6_-_Demon_Venerables_Eternal_Life.txt`, linhas 49401–73957 (par
 - Um Immortal Gu selvagem, uma vez refinado/vinculado por qualquer pessoa, perde permanentemente sua utilidade "selvagem" (ex.: como núcleo de formação compartilhado multiusuário) — é exatamente por isso que Star Constellation se recusa a refinar seu próprio Derivation Gu mesmo podendo (cap. 2291).
 - A vontade celestial trata todos os venerables vivos atuais com hostilidade em graus variados: venerables revividos (Giant Sun, Star Constellation) são malvistos por terem driblado a morte; Fang Yuan é ainda pior visto por destruir o Fate Gu; só o insano Spectral Soul Demon Venerable mantém o favor celestial — mas sua loucura torna esse favor inútil para ele (cap. 2291).
 - Um ser denso demais em dao marks (um venerable) pode destruir fisicamente um ambiente-bolsa frágil e isolado de baixo rank (o Four Paths Air Bubble) só de tocar nele — exigindo o uso de um clone/subordinado mais fraco para trabalhos de recuperação delicados assim (cap. 2292).
+- Gu selvagens puxam poder da energia primeva ambiente porque ainda carregam "vontade celestial"; uma vez refinados/possuídos por qualquer cultivador, esse componente é purgado e substituído pela vontade humana do dono, cortando permanentemente o Gu do acesso livre a energia ambiente — explica o requisito de "alimentação" de essência em todo o cenário como efeito colateral inerente da posse, não regra arbitrária de balanceamento (cap. 2297).
+- Essência imortal/primeva de indivíduos diferentes, por carregar "vontades" distintas, pode se cancelar mutuamente — é dado como a razão pela qual Gu Immortals rank 6 comumente falham ao tentar invadir/tomar uma blessed land já possuída: a vontade residual do defensor resiste ativamente à vontade do invasor dentro dos Gu/formações disputados (cap. 2297).
+- Um domínio recluso de céu e terra é classificado como "meio Immortal Gu rank 9" em termos de densidade/poder bruto de dao marks — âncora explícita de comparação de poder para o mestre balancear itens mágicos de alto nível contra características de terreno (cap. 2296).
 - Existências rank 9 (Gu Immortal ou Immortal Gu) são inerentemente "invejadas pelo céu" e não conseguem viver/existir para sempre — mesmo venerables têm prazo de validade; isso explica por que só houve 11 venerables em toda a história e por que Immortal Gu rank 9 são tão raros.
 - O potencial de um caminho (quantos Immortal Gu rank 9 ele pode eventualmente gerar) escala com o quanto aquele caminho é praticado pela população de cultivadores — caminhos universais como refino têm muito mais potencial de rank 9 que caminhos raros/secretos como sorte.
 - Vigilância/investigação de caminho sorte por um venerable consome essência imortal de verdade a cada uso — não é grátis, e o custo obriga até venerables a racionar quanto espionam os rivais.
@@ -368,6 +371,9 @@ Fonte: `Volume_6_-_Demon_Venerables_Eternal_Life.txt`, linhas 49401–73957 (par
 - Sovereign immortal aperture de Fang Yuan: 30+ Gu Masters ascendem com sucesso em poucos meses, todos colhidos secretamente via Stealing Heavenly Secret, ofuscando o recorde público do clã Wu (cap. 2291).
 - Giant Sun Immortal Venerable refina 60% dos dao marks de sorte de toda a Northern Plains (limiar parcial escolhido antes de seguir adiante) (cap. 2291).
 - Splendid Cloud Cover: ~30% rank 7, <10% rank 8, quase nada rank 9, maioria rank 6 — ainda longe de 1 sessão completa de alimentação do Heavenly Secret Gu (cap. 2292).
+- Sovereign immortal aperture: veia de terra tem 3 anéis; fogo, vento e água têm 1 anel cada (cap. 2292).
+- Giant Sun reanima Fei Wu via Destined Birth Through Luck gastando mais do Blood Sea incompleto do que a ressurreição anterior de Light Emperor; no ritmo atual (com 5 novos Immortal Gu de sangue), o Blood Sea deve se completar em ~meio ano (cap. 2296).
+- Sorte de Fei Wu: descrita como superando a maioria dos rank 7, mas abaixo da média dos rank 8 — referência relativa de poder/sorte (cap. 2296).
 
 ## E) Locais e atividades
 
@@ -417,6 +423,9 @@ Fonte: `Volume_6_-_Demon_Venerables_Eternal_Life.txt`, linhas 49401–73957 (par
 - **Painting Worlds de Divine Emperor City**: onde os "dez filhos do caminho humano" foram criados/treinados (detalhe reconfirmado) (cap. 2284).
 - **Four Paths Air Bubble**: nome dado por Fang Yuan a um ambiente-bolsa raro no fundo do mar de Eastern Sea, formado pela combinação de dao marks de fogo+terra+água+qi (vulcão submarino + água do mar + marés de qi); abrigava o Wisdom Gu selvagem rank 6 (cap. 2292).
 - **Splendid Cloud Cover**: nova construção/ponto de recurso dentro dos mini nove céus da sovereign immortal aperture, formação de nuvem flutuante de 10+ li de raio, produz o material imortal "Splendid Cloud" em ranks 6–9 (cap. 2292).
+- **Blue Dragon Whale's grotto-heaven**: a immortal aperture por trás do próprio treasure yellow heaven; fundação explicitamente inferior à sovereign immortal aperture de Fang Yuan (cap. 2292).
+- **Blood Sea (expandido)**: classificado como domínio recluso de céu e terra, ativo escondido de Longevity Heaven, ainda incompleto; cresce por contribuições de Immortal Gu de caminho sangue (cap. 2296).
+- **Dez Grandes Áreas Ferozes de Northern Plains**: categoria de zonas perigosas; uma delas foi o local da destruição do clã Fei (tentativa de escavação despertou a besta imemorial lendária Yi Qi Zi, disparando uma maré de bestas catastrófica) (cap. 2296).
 
 ## F) Golpes matadores e receitas
 
@@ -457,6 +466,8 @@ Fonte: `Volume_6_-_Demon_Venerables_Eternal_Life.txt`, linhas 49401–73957 (par
 - **Destiny Song** (uso expandido) — além de ler destino, pacifica um Immortal Gu selvagem devorado com seu hospedeiro insano, fazendo os dois "coexistirem" ao longo de ~3 dias (cap. 2285).
 - **Stealing Heavenly Secret** — golpe rank 9 de caminho céu de Fang Yuan, rouba o conhecimento de inspiração natural de qualquer Gu Master em ascensão observado secretamente; ver detalhes completos em A/B (caps. 2290–2291).
 - **Golpe de sorte sem nome de Giant Sun** — campo de sorte de área ampla que ajusta a dificuldade de calamidades/tribulações para quem está dentro do alcance (cap. 2291).
+- **Endless Learning** — golpe de caminho humano de Star Constellation: eleva attainment diretamente através de imersão no Grande Dao, com ganho proporcional ao talento/fundação do usuário (cap. 2293).
+- **Destined Birth Through Luck** (reuso) — reanima Fei Wu, gastando mais do Blood Sea incompleto que a ressurreição anterior de Light Emperor (cap. 2296).
 
 ## G) Achados soltos
 
@@ -500,3 +511,9 @@ Fonte: `Volume_6_-_Demon_Venerables_Eternal_Life.txt`, linhas 49401–73957 (par
 - Revelação maior: Fang Yuan sabe secretamente da formação de derivação de Star Constellation (via Stealing Heavenly Secret), mas ela não sabe do Heavenly Secret Gu rank 9 dele nem desse golpe — assimetria de informação crítica para a trama entre os dois venerables mais "inteligentes", boa pista de campanha.
 - Nota de tradutor no cap. 2289: "sorte inata" no chinês original é literalmente "variável de qi", explicando o vínculo conceitual com caminho qi — paratexto.
 - Lista longa de PNJs secundários nomeados ascendendo nas cinco regiões nesta fatia (Mu Huai, Ouyang Bi Sang, Yi Chong, Ben Duo Yi, Tie Ruo Nan, Shang Xin Ci, os nove do clã Wu etc.) — montagem de textura de mundo, não individualmente relevante além das regras de apadrinhamento político e risco de ascensão já registradas.
+- Trecho seguinte cobre meio do cap. 2292 ao início do cap. 2297 (linhas ~65401–66400).
+- Contém um trecho ficcional extenso de *As Lendas de Ren Zu* (parábola do Self Gu / "reconhecer a si mesmo") — não reproduzido aqui, só a lição conceitual: Self Gu é retratado como cada vez menor e mais difícil de achar quanto mais a própria "habilidade" cresce, e achá-lo exige "passar por situações" (crescimento experiencial) ao lado de um parceiro — texto religioso/filosófico do universo que parece embasar a lore de caminho humano e o simbolismo dos estágios de rank de Gu Master (membranas de luz/água/pedra/cristal).
+- Revela nova agenda perturbadora de "engenharia populacional" de Fang Yuan (incentivo a gêmeos + loop de massacre-ressurreição via Blood Skull Gu, vestido publicamente de benevolência) — material de intriga política sombria, não regra genérica além do loop de fazenda de aptidão já registrado.
+- Pano de fundo emocional de Giant Sun Immortal Venerable: sua falecida esposa de vida passada "Zhu Zhu" (meio-Gu-Immortal) e como ele historicamente conseguiu tantos descendentes — cor de personagem, não mecânica.
+- Ressurreição de Fei Wu abre fio de trama maior sobre o mecanismo oculto por trás do monopólio de produção/distribuição de pedras de essência imortal da Corte Celestial — continua além desta fatia, sinalizado para acompanhar na próxima leitura.
+- Nota de tradutor: o nome de Fei Wu é homófono de "lixo/inútil" em chinês — paratexto.
