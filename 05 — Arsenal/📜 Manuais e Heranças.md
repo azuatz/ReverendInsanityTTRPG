@@ -24,7 +24,7 @@ Uma Herança é o legado deixado por um cultivador (normalmente morto ou desapar
 
 Nada é de graça. Toda Herança de peso vem com pelo menos um destes:
 
-- **Um teste ou selo de mérito** — só quem prova algo específico (força, virtude, um Caminho compatível) consegue acessar o conteúdo de verdade; quem força a entrada sem qualificação sofre um Retrocesso severo.
+- **Um teste ou selo de mérito** — só quem prova algo específico (força, virtude, um Caminho compatível) consegue acessar o conteúdo de verdade; quem força a entrada sem qualificação sofre um [[❤️ Recursos e Dano|Retrocesso]] severo.
 - **Uma dívida embutida** — a herança carrega uma missão, um juramento, ou um inimigo que vem junto do pacote.
 - **Incompatibilidade de Caminho** — um manual de Caminho incompatível com o que o personagem já pratica gera atrito de Marcas de Dao (ver [[🏛️ Arquitetura do Sistema|Arquitetura do Sistema]]) até ele abandonar um dos dois.
 - **Vigilância alheia** — uma herança boa o bastante para valer a pena costuma ter outros interessados de olho nela havia tempo.
