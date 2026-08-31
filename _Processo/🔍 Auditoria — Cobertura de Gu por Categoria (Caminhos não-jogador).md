@@ -223,8 +223,7 @@ nenhuma forma catalogada de se proteger além de esconder-se atrás da própria 
 
 20 Gu nativos + 1 de Adivinhação + 1 de Encantamento (subcaminhos, por [[🛤️ Os Caminhos]] e
 decisão 150 no [[🧭 Log de Decisões]]) = 22 no total. Especialidade: cálculo, dedução, previsão de
-combate — Gu deste Caminho **custam Alma, não Essência** (regra própria, ver [[🛤️ Os
-Caminhos#Sabedoria — pensa-se com a Alma]]).
+combate — Gu deste Caminho **custam Alma, não Essência** (regra própria, ver [[🛤️ Os Caminhos#Sabedoria — pensa-se com a Alma]]).
 
 | Categoria | Ranks mortais cobertos | Faltando (mortal) | Imortal |
 |---|---|---|---|
@@ -308,8 +307,7 @@ combate incomum" (Os Caminhos).
 | Formação/matriz | nenhum | 1–5 | nunca teve |
 
 **Sinalização:** zero ataque e zero defesa em todo o Catálogo, mortal e imortal — mas **este é o
-caso mais claramente intencional dos sete**: a própria descrição do Caminho em [[🛤️ Os
-Caminhos]] já diz que é "utilidade fora de combate", e a categoria que domina é exatamente a que
+caso mais claramente intencional dos sete**: a própria descrição do Caminho em [[🛤️ Os Caminhos]] já diz que é "utilidade fora de combate", e a categoria que domina é exatamente a que
 deveria dominar (cultivo/suporte de abertura, 5/5 ranks mortais). Não li isto como buraco — leio
 como o Caminho fazendo exatamente o que promete.
 
@@ -386,8 +384,7 @@ descrever "Domínios de Campo de Batalha" territoriais de alto nível em [[🔷 
 
 ## Sonhos
 
-7 Gu (a seção "Sonho", singular, no Índice — subcaminho "Sonho → Sonhos" por [[🛤️ Os
-Caminhos]]). **Rank 2 inteiramente vazio** — não há entrada nenhuma de nenhuma categoria nesse
+7 Gu (a seção "Sonho", singular, no Índice — subcaminho "Sonho → Sonhos" por [[🛤️ Os Caminhos]]). **Rank 2 inteiramente vazio** — não há entrada nenhuma de nenhuma categoria nesse
 degrau. Especialidade: explorar e manipular sonhos — "dificuldade extremamente alta".
 
 | Categoria | Ranks mortais cobertos | Faltando (mortal) | Imortal |
@@ -467,8 +464,7 @@ Especialidade: comunicação a distância, criptografia, juramentos — base da 
 | Formação/matriz | nenhum | 1–5 | nunca teve |
 
 **Sinalização:** zero ataque e zero defesa em todo o Catálogo, mortal e imortal — mas, como
-Alimentação, este é um caso claramente intencional: nem a própria descrição do Caminho em [[🛤️
-Os Caminhos]] menciona traço de combate, e a categoria investigação está com a cobertura mais
+Alimentação, este é um caso claramente intencional: nem a própria descrição do Caminho em [[🛤️ Os Caminhos]] menciona traço de combate, e a categoria investigação está com a cobertura mais
 densa de toda a lista (todos os 5 ranks mortais, vários Gu cada). O Caminho faz exatamente o que
 promete.
 
