@@ -33,6 +33,10 @@ Nota-mãe. **O que se compra, o que se acha e o que se deve.** Armas, materiais,
 
 Favor devido como estrutura vinculante, **com retaliação real** para quem não paga. É como um personagem consegue o que a aptidão dele não permite — e uma das melhores fontes de conflito entre jogadores que este sistema tem. Liga direto com [[🌟 Aptidão e Abertura]].
 
+**[[🎰 Aposta por Procuração]]**
+
+Guerra por procuração entre Imortais que não podem competir direto por um prêmio: peões mortais infundidos em segredo lutam uns contra os outros numa zona que expulsa Abertura ativa, e quem apostou mais controla mais peões e entra mais cedo. É como um grupo de mortais (ou um rank 6 disfarçado) participa de política imortal sem morrer nela — e como um Imortal "pobre" compete com um rico sem depender de força bruta.
+
 ## Nível 4 — Só depois da Ascensão *(rank 6+)*
 
 **[[🏪 Céu Amarelo do Tesouro]]**

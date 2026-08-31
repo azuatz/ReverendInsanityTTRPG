@@ -34,9 +34,27 @@ Existe **um único método limpo** de ganhar anos: o **Gu de Longevidade**. Todo
 
 ```
 Ascender ao rank 6 destrói a Abertura mortal e com ela o relógio mortal.
-O Imortal recebe 500 anos de vida, contados do zero.
-Cada rank seguinte (7, 8, 9) concede outros 500 anos ao ser alcançado.
+O Imortal recebe 1.000 anos de vida, contados do zero.
+Rank 7 soma mais 1.500 (total 2.500) · rank 8 soma mais 2.000 (total 4.500)
+Rank 9 — Venerável — soma mais 2.500 (total 7.000)
 ```
+
+> [!warning] Isto contradiz uma frase explícita do romance — mantido por necessidade de jogo, não por fidelidade
+> O texto chama esta premissa de **engano comum**: *"tornar-se Gu Immortal não
+> aumenta automaticamente a expectativa de vida... só um Gu específico de
+> Longevidade (raríssimo) resolve isso; a Ascensão em si é só uma última opção
+> para quem já não tem alternativa"* (Cap. 563). Há um caso concreto: **Dong
+> Fang Chang Fan, Imortal de rank 7, está morrendo de velhice** por não ter
+> conseguido um Gu de Longevidade — nenhum relógio-zerado-pela-Ascensão o salva
+> (Cap. 519). A decisão 89 criou esta regra porque, sem ela, **a escada de
+> ranks era impossível de caber numa vida** — esse problema estrutural continua
+> real, e a regra fica. Os números acima foram recalibrados (eram 500 fixos por
+> rank, teto de 2.000) pra aproximar o teto do rank 9 da média canônica dos
+> Veneráveis documentados: **Giant Sun ~8.000 · Primordial Origin ~25.000 (o
+> mais longevo) · Red Lotus ~3.000 (o mais curto) · média ~7.000** (Cap.
+> 598–601) — mesmo o Venerável mais "jovem" da lista já superava em 50% o teto
+> antigo. 3.000–25.000 são os extremos documentados, não a régua: a fórmula
+> mira a média, não o recorde.
 
 **O que NÃO muda, e é o pilar:** cultivar **não** estende nada no mundo mortal. Um rank 5 aos 90 anos tem dez anos de vida e todo o poder que o mundo mortal oferece. A extensão vem **só** da Ascensão — que é o gargalo do jogo, que quase ninguém atravessa, e cuja janela costuma se abrir exatamente quando o corpo já está acabando.
 

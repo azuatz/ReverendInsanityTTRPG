@@ -294,3 +294,38 @@ Fidelidade (Frente 2/3 da síntese): pedágios de base (10+100 antes dos 5 centr
 centro fechados a dinheiro (sangue de clã, não preço), limiares de arena 30/80 (não
 5/15), regra matar-vs-vencer no saque, desafio forçado mensal, teto mundial do token
 Cristal Roxo (~200). [[🏙️ Metrópoles — Centros, Tokens e Arena]] atualizada.
+
+## [2026-08-31] ingest | Frente 3 da síntese — Aposta por Procuração e refino territorial (decisões 139–140)
+Duas prioridades máximas da síntese de atividades jogáveis (leitura integral,
+Fase 4 e 5) implementadas como regra de mesa. (1) Nova nota [[🎰 Aposta por
+Procuração]] em `05 — Arsenal`: guerra por procuração entre Imortais com peões
+mortais infundidos em segredo, Vontade de Batalha por combate e reivindicação
+do prêmio acima de 50% — adaptado do "Yi Tian Mountain" do romance, sem nomes
+de personagens. (2) [[☯️ Marcas de Dao]] ganhou a seção "Refino territorial —
+a guerra fria entre Veneráveis": refino de dao marks em região aberta (não em
+Abertura de terceiro), sensação passiva do Caminho na área, amplificar/sabotar
+cultivo alheio, e reivindicação territorial exclusiva de rank 9 (a lacuna mais
+séria que o topo do jogo tinha). Notas tocadas: `🎰 Aposta por Procuração`
+(nova), `☯️ Marcas de Dao`, `🗡️ Arsenal`, `🗺️ Mapa do Vault`, `📔 Dicionário
+do Sistema`, `🧭 Log de Decisões` (decisões 139–140 + changelog).
+
+## [2026-08-31] ingest | Frente 1 da síntese — 3 Gu novos no Catálogo (decisão 141)
+Os 3 candidatos fortes da síntese de lacunas do Catálogo (leitura integral do
+romance) viraram ficha completa, curadoria deliberadamente curta a pedido do
+autor. (1) **Gu Imortal do Deus de Sangue** (r6, Sangue): preenchia uma
+referência pendurada — o Livro de Receitas e a seção A do próprio Catálogo já
+citavam o nome sem ficha; agora tem invocação `32d8+32` com dreno vampírico e
+cláusula de contragolpe por sacrifício rancoroso. (2) **Rede Celestial** (r8 →
+evolução r9, Celestial): primeiro Gu de combate/defesa do Caminho Celestial —
+as 6 entradas anteriores eram todas dedução ou presságio; núcleo do "Véu de
+Proteção da Rede Celestial", e a versão r9 potencializa o "Segredo Celestial
+Obscurecido" já fichado. (3) **Gu do Voto Envenenado** (r3, Leis): o Caminho
+das Leis tinha uma única entrada no catálogo inteiro; este detecta má-fé por
+teste de VON antes de selar o pacto, e quebrar o voto selado mata o infrator.
+Catálogo de 457 para **460**. Notas tocadas: `📖 Catálogo de Gu` (3 entradas +
+4 subtotais de rank), `📜 Livro de Receitas de Gu` (linha 49 corrigida),
+`🗂️ Índice de Gu por Caminho` (3 linhas novas + contagens de Sangue, Celestial
+e Leis), `🪱 Gu.md` e `🧬 Receitas de Combo-Refino` (contagem 457→460),
+`🧭 Log de Decisões` (decisão 141 + changelog). Candidato borderline "Homem
+que Triunfa sobre o Céu" (r5) descartado por decisão deliberada, ver a
+síntese.

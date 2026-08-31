@@ -11,7 +11,7 @@ escopo: sistema
 
 # 🗂️ Índice de Gu por Caminho
 
-Todos os **457 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Caminho** e ordenados por rank — para quando você sabe *o que* procura ("um Gu de Gelo de rank 3") mas não *onde* está. **De onde cada um sai:** [[📜 Livro de Receitas de Gu]].
+Todos os **460 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Caminho** e ordenados por rank — para quando você sabe *o que* procura ("um Gu de Gelo de rank 3") mas não *onde* está. **De onde cada um sai:** [[📜 Livro de Receitas de Gu]].
 
 > [!tip] Como usar
 > 1. Ache o Caminho na lista abaixo (ordem alfabética).
@@ -23,7 +23,7 @@ Todos os **457 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Os Caminhos deste índice
 
-[[#Adivinhação\|Adivinhação]] 1 · [[#Alimentação\|Alimentação]] 10 · [[#Alma\|Alma]] 28 · [[#Ar\|Ar]] 2 · [[#Assassinato\|Assassinato]] 1 · [[#Celestial\|Celestial]] 6 · [[#Cosmos\|Cosmos]] 4 · [[#Cura\|Cura]] 2 · [[#Encantamento\|Encantamento]] 1 · [[#Escravidão\|Escravidão]] 22 · [[#Espada\|Espada]] 11 · [[#Espaço\|Espaço]] 16 · [[#Estrelas\|Estrelas]] 4 · [[#Fera\|Fera]] 3 · [[#Fogo\|Fogo]] 12 · [[#Formações\|Formações]] 8 · [[#Força\|Força]] 36 · [[#Gelo\|Gelo]] 15 · [[#Humano\|Humano]] 29 · [[#Informação\|Informação]] 15 · [[#Leis\|Leis]] 1 · [[#Lua\|Lua]] 14 · [[#Luz\|Luz]] 15 · [[#Madeira\|Madeira]] 32 · [[#Metal\|Metal]] 23 · [[#Movimento\|Movimento]] 7 · [[#Osso\|Osso]] 14 · [[#Qi\|Qi]] 5 · [[#Reconhecimento\|Reconhecimento]] 1 · [[#Refino\|Refino]] 13 · [[#Regra\|Regra]] 8 · [[#Relâmpago\|Relâmpago]] 15 · [[#Roubo\|Roubo]] 6 · [[#Sabedoria\|Sabedoria]] 20 · [[#Sangue\|Sangue]] 22 · [[#Som\|Som]] 2 · [[#Sombras\|Sombras]] 14 · [[#Sonho\|Sonho]] 7 · [[#Sorte\|Sorte]] 9 · [[#Tempo\|Tempo]] 15 · [[#Terra\|Terra]] 40 · [[#Transformação\|Transformação]] 32 · [[#Trevas\|Trevas]] 5 · [[#Veneno\|Veneno]] 9 · [[#Vento\|Vento]] 5 · [[#Vida\|Vida]] 11 · [[#Vontade\|Vontade]] 1 · [[#Água\|Água]] 20 · [[#Casas de Gu Imortal\|Casas de Gu Imortal]] 12 · [[#Especiais sem Caminho\|Especiais sem Caminho]] 1
+[[#Adivinhação\|Adivinhação]] 1 · [[#Alimentação\|Alimentação]] 10 · [[#Alma\|Alma]] 28 · [[#Ar\|Ar]] 2 · [[#Assassinato\|Assassinato]] 1 · [[#Celestial\|Celestial]] 8 · [[#Cosmos\|Cosmos]] 4 · [[#Cura\|Cura]] 2 · [[#Encantamento\|Encantamento]] 1 · [[#Escravidão\|Escravidão]] 22 · [[#Espada\|Espada]] 11 · [[#Espaço\|Espaço]] 16 · [[#Estrelas\|Estrelas]] 4 · [[#Fera\|Fera]] 3 · [[#Fogo\|Fogo]] 12 · [[#Formações\|Formações]] 8 · [[#Força\|Força]] 36 · [[#Gelo\|Gelo]] 15 · [[#Humano\|Humano]] 29 · [[#Informação\|Informação]] 15 · [[#Leis\|Leis]] 2 · [[#Lua\|Lua]] 14 · [[#Luz\|Luz]] 15 · [[#Madeira\|Madeira]] 32 · [[#Metal\|Metal]] 23 · [[#Movimento\|Movimento]] 7 · [[#Osso\|Osso]] 14 · [[#Qi\|Qi]] 5 · [[#Reconhecimento\|Reconhecimento]] 1 · [[#Refino\|Refino]] 13 · [[#Regra\|Regra]] 8 · [[#Relâmpago\|Relâmpago]] 15 · [[#Roubo\|Roubo]] 6 · [[#Sabedoria\|Sabedoria]] 20 · [[#Sangue\|Sangue]] 23 · [[#Som\|Som]] 2 · [[#Sombras\|Sombras]] 14 · [[#Sonho\|Sonho]] 7 · [[#Sorte\|Sorte]] 9 · [[#Tempo\|Tempo]] 15 · [[#Terra\|Terra]] 40 · [[#Transformação\|Transformação]] 32 · [[#Trevas\|Trevas]] 5 · [[#Veneno\|Veneno]] 9 · [[#Vento\|Vento]] 5 · [[#Vida\|Vida]] 11 · [[#Vontade\|Vontade]] 1 · [[#Água\|Água]] 20 · [[#Casas de Gu Imortal\|Casas de Gu Imortal]] 12 · [[#Especiais sem Caminho\|Especiais sem Caminho]] 1
 
 ## Adivinhação
 
@@ -104,15 +104,17 @@ Todos os **457 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Celestial
 
-6 Gu.
+8 Gu.
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
 | 5 | **Gu da Segunda Fenda Vazia** — *Celestial/Humano* | Especial, permanente | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Gu da Vontade Própria** — *Humano/Celestial* | Consumível | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 7 | **Inveja do Céu** | Especial | [[📖 Catálogo de Gu#Rank 7 — M = 64\|Rank 7]] |
+| 8 | **Rede Celestial** | Defesa, área | [[📖 Catálogo de Gu#Rank 8 — M = 128\|Rank 8]] |
 | 8 | **Segredo Celestial Menor** ✱ — *Celestial/Sabedoria* | Dedução | [[📖 Catálogo de Gu#Rank 8 — M = 128\|Rank 8]] |
 | 9 | **Gu do Destino** | MacGuffin absoluto | [[📖 Catálogo de Gu#Rank 9 — M = 256\|Rank 9]] |
+| 9 | **Rede Celestial (rank 9)** | Defesa / Suporte | [[📖 Catálogo de Gu#Rank 9 — M = 256\|Rank 9]] |
 | 9 | **Segredo Celestial** — *Celestial/Sabedoria* | Dedução suprema | [[📖 Catálogo de Gu#Rank 9 — M = 256\|Rank 9]] |
 
 ## Cosmos
@@ -393,11 +395,12 @@ Todos os **457 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Leis
 
-1 Gu.
+2 Gu.
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
 | 1 | **Gu do Fio de Palavra** ✱ | Juramento, mútuo | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
+| 3 | **Gu do Voto Envenenado** | Juramento, contrato | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 
 ## Lua
 
@@ -665,7 +668,7 @@ Todos os **457 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Sangue
 
-22 Gu — dano em **d8**.
+23 Gu — dano em **d8**.
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
@@ -691,6 +694,7 @@ Todos os **457 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 5 | **Verme de Sangue de Parentesco** — *Sangue/Informação* | Rastreio | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 6 | **Ativo de Sangue** | Suporte / Cura | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
 | 6 | **Deidade do Relâmpago** — *Relâmpago/Sangue* | Invocação | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
+| 6 | **Gu Imortal do Deus de Sangue** | Invocação / Ataque | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
 
 ## Som
 

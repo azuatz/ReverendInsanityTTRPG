@@ -111,6 +111,8 @@ escopo: sistema
 | **Vontade do Céu** | O mundo reage a quem cresce demais — o Contador de Ameaça mede o quanto você incomoda | [[⛈️ A Vontade do Céu]] |
 | **Físico Extremo** | Nascer com o sangue dos dez primeiros filhos — poder absurdo, tribulação na medida | [[🌠 Os Dez Físicos Extremos]] |
 | **Venerável** | Rank 9, o teto absoluto do mundo. Uma pessoa por era, quando muito | [[🪜 Ranks e Estágios]] |
+| **Refino territorial / reivindicação de domínio** | Um Venerável refina os dao marks soltos do próprio Caminho numa região aberta (não numa Terra Abençoada de terceiro): sente material e cultivadores do Caminho na área, e pode amplificar ou sabotar quem treina ali. Ao completar 100%, ganha reivindicação exclusiva — outro Venerável tentando refinar ali dispara guerra | [[☯️ Marcas de Dao]] |
+| **Aposta por Procuração** | Guerra por procuração entre Imortais: um prêmio selado numa zona que expulsa Abertura ativa; patronos infundem mortais em segredo como peões, que lutam entre si gerando Vontade de Batalha; quem passa de 50% leva o prêmio | [[🎰 Aposta por Procuração]] |
 | **Casa de Gu Imortal** | Construção viva com um Gu Imortal de núcleo — fortaleza, tribunal, caldeirão | [[📖 Catálogo de Gu]] |
 | **Céu Amarelo do Tesouro** | O mercado dos Imortais (rank 6+): remoto, anônimo, com trégua absoluta lá dentro e 10% de comissão. O balcão paga 60% na hora; a Rede de Compradores paga mais, mas em escambo e favores | [[🏪 Céu Amarelo do Tesouro]] |
 | **Pedra de Essência Imortal** | A moeda dos Imortais. 1 = uma unidade de essência de rank 6; a escala sobe brutalmente | [[💠 Economia das Pedras Primordiais]] |

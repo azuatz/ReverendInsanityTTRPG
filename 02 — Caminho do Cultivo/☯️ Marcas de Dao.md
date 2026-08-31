@@ -120,9 +120,30 @@ Um Imortal típico investe 3 a 4 Porções de Qi Terrestre, então entra no rank
 |---|---|---|---|
 | **Calamidade Terrestre** | a cada **10 anos de tempo interno** | **200 – 500** | **400 – 1.000** *(dobro)* |
 | **Provação Celestial** | a cada **100 anos internos** | **1.000 – 2.000** | **2.000 – 4.000** |
-| **Grande Calamidade** *(rank 7+)* | a cada 100 anos internos | **3.000 – 5.000** | dobro |
-| **Calamidade das Dez Mil** *(rank 8+)* | a cada 100 anos internos | **10.000 – 15.000** | dobro |
+| **Grande Calamidade** *(rank 7+)* | a cada 100 anos internos | **6.000 – 8.500** | dobro |
+| **Calamidade das Dez Mil** *(rank 8+)* | a cada 100 anos internos | **75.000 – 100.000** | dobro |
 | **Calamidade do Caos** *(rank 9)* | a cada 100 anos internos | **30.000+** | dobro |
+
+> [!note] Rendimento recalibrado pela fonte primária *(2026-08-30)*
+> O romance dá uma contagem oficial de Marcas por tribulação: **Calamidade
+> Terrena ≈ 250 · Tribulação Celestial ≈ 750 · Grande Tribulação ≈ 7.250 ·
+> Tribulação Miríade ≈ 86.750** (Cap. 1389). As duas faixas baixas já batiam;
+> **Grande Calamidade estava em 50–70% do valor real, e Calamidade das Dez Mil
+> em 10–17% dele** — um erro de 6 a 8×, não diferença de escala de mesa.
+> Corrigido acima. Calamidade do Caos (rank 9) segue **✍️ autoral** — a
+> referência não documenta esse patamar com número.
+
+> [!warning] Pendência não resolvida — a frequência também acelera por rank, e isto não foi corrigido
+> O romance mostra a **cadência** ficando mais rápida a cada rank, não só uma
+> provação nova se somando à antiga: no rank 7 a Tribulação Celestial passa a
+> vir a cada **50 anos** (não mais 100); no rank 8, a cada **10 anos**, com a
+> Grande Tribulação a cada **50** (Cap. 1007). A tabela acima mantém "a cada
+> 100 anos internos" congelado em toda provação do rank 7 em diante — o que a
+> auditoria de fidelidade não teve como corrigir sem o texto completo do
+> intervalo entre ranks. **Mudar isso reabre o cálculo de calendário externo
+> por Dilatação Temporal para os ranks 7–9** (a conta de "300 anos pro rank 6"
+> abaixo não muda — ela usa só Calamidade Terrestre e Provação Celestial, que
+> já batem). Fica registrado como pendência explícita, não decisão silenciosa.
 
 **A frequência é contada no tempo interno da Terra Abençoada, não no do mundo.** Com a Dilatação Temporal (decisão 110), uma terra Comum (10×) encontra a Calamidade Terrestre a cada **~1 ano de fora**; uma Especial (40×), a cada **~3 meses**. Ver [[🗝️ Terra Abençoada|Terra Abençoada]].
 
@@ -170,6 +191,46 @@ Um portador de Físico Extremo entra no rank 6 com o dobro de Marcas, terra Espe
 | **Cooperação em Calamidade** | Dois Imortais que atravessam provações juntos (pactos de socorro mútuo) falham menos e colhem mais — é o único desconto de risco que não custa Marca | O pacto é um Débito, e Débito entre Imortais dura séculos |
 
 > **Pro mestre desta mesa:** é assim que os outros três alcançam o Xie Lang depois da Ascensão. Ele avança sozinho, no automático da terra Especial — os outros avançam **caçando as rotas desta tabela**, que é onde estão as sessões. A paridade de relógio interno já foi medida (decisão 100); o que a mesa disputa é o calendário externo, e as rotas acima são o que o encurta.
+
+## 🗺️ Refino territorial — a guerra fria entre Veneráveis
+
+Tudo até aqui mede o que um Imortal **é** — domínio pessoal, dentro do próprio corpo e da própria Abertura. A partir de **Venerável** (rank 9, Grande Mestre Supremo consolidado), um Caminho consegue sair do corpo e se espalhar pelo **terreno aberto**: dao marks do Caminho, soltos e sem dono, impregnados numa região por séculos de uso — cultivo, combate, Gu vivendo e morrendo ali. Um Venerável pode **refinar** esses marks como refina um Gu, reivindicando a região inteira pro próprio Caminho (🔧 adaptado do romance — decisão 140, ver Frente 3 da [[🔍 Síntese — Atividades Jogáveis por Rank]]).
+
+**Isto não é anexar uma Terra Abençoada.** Anexação (acima, e [[🗝️ Terra Abençoada]]) toma a Abertura pessoal e fechada de outro Imortal — um espaço de bolso. Refino territorial opera no **mundo aberto**: uma cordilheira, um vale, uma província inteira. **Não funciona dentro da Terra Abençoada fechada de um terceiro** — lá dentro, o Caminho do dono manda, e o refino de fora simplesmente não penetra.
+
+### Como se refina uma região
+
+O Venerável precisa **estar presente e dedicar tempo** — não é instantâneo, é uma campanha de meditação e presença, do mesmo jeito que investir numa Terra Abençoada custa décadas de gestão.
+
+| Escala da região | Exemplo de referência | Tempo pra refinar por completo |
+|---|---|---|
+| **Local** | um vale, uma cidade, uma cordilheira baixa | meses |
+| **Territorial** | uma província, um "reino" mortal inteiro | poucos anos a uma década |
+| **Regional** | uma das grandes Terras do mapa, um continente | décadas |
+
+O refino é **gradual, medido em percentual** — como a saturação de uma Terra Abençoada. Interromper não perde o progresso, só o congela: o Venerável retoma depois, e um rival que chegue enquanto o refino está incompleto encontra uma região **disputada**, não tomada.
+
+### Enquanto refina — mesmo sem terminar
+
+**Sensação passiva total do Caminho na região.** O Venerável sente qualquer material do Caminho escondido ali, e sente qualquer cultivador **usando aquele Caminho** dentro da área — não quem são, mas que estão lá e o que estão fazendo. É vigilância ambiental, sem gastar ação nenhuma.
+
+Também pode, à vontade, **amplificar ou sabotar em segredo** o cultivo de qualquer um que treine ali usando o Caminho dele: **+2 Níveis de Dano** (amplificar) ou desvantagem em qualquer teste de ativação daquele Caminho (sabotar), alvo a alvo, sem que a vítima saiba a causa. É a ferramenta clássica de política de bastidores — recompensar um protegido ou minar um rival sem nunca aparecer na cena.
+
+### Reivindicação territorial exclusiva
+
+Ao **completar 100%** do refino do próprio Caminho numa região, o Venerável ganha **reivindicação territorial exclusiva**: nenhum outro Venerável — do mesmo Caminho ou de qualquer outro — pode começar a refinar ali. Tentar **dispara retaliação total**: não é um duelo pessoal, é **guerra declarada** entre as facções dos dois Veneráveis envolvidos, com todo o peso institucional que isso carrega numa mesa de rank alto.
+
+Dentro do próprio território reivindicado, o Venerável soma **+1 Nível de Dano** em qualquer Gu do Caminho reivindicado — empilha com a amplificação do próprio nível de domínio (a mesma lógica de "amplificação do céu e da terra" do Grande Mestre Supremo, acima, agora espalhada pelo território e não só pela Abertura pessoal).
+
+### Quando dois Veneráveis disputam a mesma região
+
+É aqui que a guerra fria nasce — e é a lacuna que o sistema não tinha no topo do jogo. Três leituras, e a mesa escolhe qual serve à cena:
+
+- **Corrida.** Os dois refinam a mesma região ao mesmo tempo, sem saber (ou sabendo e fingindo não saber). Quem chega a 100% primeiro reivindica; o outro perde todo o tempo investido, sem retaliação — ele nunca chegou a reivindicar nada, então não há acordo pra quebrar.
+- **Confronto aberto.** Um dos dois descobre o rival refinando e ataca **antes** dele fechar os 100%. Impedir um refino alheio não é regido pela reivindicação exclusiva (que só existe depois de completa) — é só um combate de rank 9 comum, com todo o peso político de atacar outro Venerável sem provocação formal.
+- **Por procuração.** Um Venerável sem recursos pra sustentar presença longa numa região pode fazer o que os Imortais fazem quando não podem competir diretamente: recrutar peões pra desgastar o rival por baixo enquanto refina em silêncio em outro canto — o mesmo mecanismo de [[🎰 Aposta por Procuração]], sem a zona proibida.
+
+> **Pro mestre:** antes de rank 9, "o que fazer" é combate e Marcas pessoais; depois, é **mapa**. Duas facções de Veneráveis podem viver anos numa disputa territorial que nunca vira uma luta única e decisiva — é a guerra fria que dá substância política à campanha de fim de jogo, sem exigir que a mesa resolva tudo num encontro de dados grandes demais pra rolar.
 
 ## Na mesa
 

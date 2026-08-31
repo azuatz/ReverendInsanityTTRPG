@@ -64,7 +64,7 @@ escopo: processo
 | [[🐛 Caminho do Cultivo]] | Nota-mãe |
 | [[🪜 Ranks e Estágios]] | Os 9 ranks completos + a **Densidade da Essência**: o que cada estágio dá em dano por dado, Vitalidade, Alma, Vagas de Suporte e Teto de Combo |
 | [[♾️ A Ascensão Imortal]] | **O gargalo do jogo** — os dois portões (Gu Imortal ou Golpe Matador de rank 5), os Três Ares, a provação de 5 testes |
-| [[☯️ Marcas de Dao]] | **A progressão depois do rank 6** — 6 níveis de domínio, as 4 fontes, **quantas Marcas se começa e quanto rende cada Calamidade**, e o preço |
+| [[☯️ Marcas de Dao]] | **A progressão depois do rank 6** — 6 níveis de domínio, as 4 fontes, **quantas Marcas se começa e quanto rende cada Calamidade**, o preço, e o **refino territorial entre Veneráveis** (rank 9) |
 | [[🧿 Espíritos da Terra]] | Consciência da Terra Abençoada — 3 atitudes, o preço que cobra, e por que é a única forma de um mortal refinar Gu Imortal |
 | [[🛤️ Os Caminhos]] | Os 23 Caminhos, sinergias, e a **via de avanço** de cada um (o que rende Marca em dobro) |
 | [[🗝️ Terra Abençoada]] | Território de um Imortal — tamanho decidido na Ascensão pelos Três Ares, **fluxo de tempo e essência por qualidade**, 4 camadas, **Ferimentos da Terra**, anexação |
@@ -125,6 +125,7 @@ escopo: processo
 | [[🎲 Gerador de Heranças]] | **Role uma herança em dez minutos**, rank 4–9 — dono justo/demoníaco, conteúdo, Terra Abençoada, Espírito × Vontade, provação e amarra |
 | [[🏪 Céu Amarelo do Tesouro]] | **O mercado imortal** (Treasure Yellow Heaven) — negociação remota e anônima a partir do rank 6: balcão a 60%, leilão `1d6`, Assinatura e Teste de Anonimato, monopólio e guerra de preços em 3 anos |
 | [[🤝 O Débito]] | Favor devido como estrutura vinculante — o Pacto, a quebra, e como sair |
+| [[🎰 Aposta por Procuração]] | **Guerra por procuração entre Imortais** — um prêmio selado numa zona que expulsa Abertura ativa, peões mortais infundidos em segredo, Vontade de Batalha e a divisão do fundo comum |
 
 ## 06 — Grimório de Ameaças
 
