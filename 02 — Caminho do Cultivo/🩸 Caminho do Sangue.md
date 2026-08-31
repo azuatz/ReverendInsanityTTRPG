@@ -127,7 +127,7 @@ Custo de ativação: Sangue é **×0,5** — **20** (rank próprio) · 5 · 2 ·
 
 ### O sangue de parente
 
-O [[📖 Catálogo de Gu|Gu do Crânio de Sangue]] (rank 6, catálogo) eleva a Abertura em **+10%** matando um consanguíneo, com retornos decrescentes (+10%, +5%, +2%…). A Lâmina de Parentesco e o Verme de Sangue de Parentesco operam na mesma lógica.
+O [[📖 Catálogo de Gu|Gu do Crânio de Sangue]] (rank 5, catálogo) eleva a Abertura em **+10%** matando um consanguíneo, com retornos decrescentes (+10%, +5%, +2%…). A Lâmina de Parentesco e o Verme de Sangue de Parentesco operam na mesma lógica.
 
 **Regra fixa:** qualquer uso confirmado de sangue de parente vai a **Suspeita 5 direto**, sem passar pelos degraus, e **não pode ser apagado por Débito** — não existe favor que compre isso. A linhagem inteira do morto vira antagonista permanente da campanha, e a mesa deve criar esse NPC na hora, com nome.
 

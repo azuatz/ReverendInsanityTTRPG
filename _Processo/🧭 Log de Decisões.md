@@ -259,13 +259,16 @@ Todas por diretiva direta do autor (fonte: `_Fontes/2026-08-30 — Feedback do a
 
 ---
 
+147. **Gu do Crânio de Sangue fixado em rank 5 — três de quatro notas já concordavam, e o cânone confirma.** Pendência de "Em aberto" (rank 5 vs 6 vs cânone 4). O [[📖 Catálogo de Gu]] mestre já tinha a entrada sob "Rank 5 — M = 16"; o [[🗂️ Índice de Gu por Caminho]] e o [[🚀 Gu de Avanço de Rank]] já diziam rank 5. Só [[🩸 Caminho do Sangue]] destoava, dizendo rank 6 — corrigido pra 5. A fonte primária confere rank 4 como base canônica (com variante de rank 5), então 5 também é a leitura mais próxima do cânone das duas opções internas. Nenhuma outra nota precisou mudar.
+
+---
+
 ## 🔔 Em aberto
 
 - [x] ~~Ranks 1–2 e rank 5 não foram simulados~~ — cobertos pela quinta rodada (ranks 1, 2, 3 e 5). Rank 4 segue sem simulação própria.
 - [ ] **Golpe Matador, cura, controle e terreno ficaram fora do modelo** de simulação. Os números atuais são o piso da capacidade do grupo, não o teto — o Golpe Matador Coletivo de 4 vale simular à parte.
 - [ ] **A rodada 103–133 não foi simulada.** Crítico no 20, iniciativa rolada, fim da regeneração em combate, as 41 conversões de Nível, a Fratura da Abertura (decisão 132) e o gênio pobre duplo de rank 6 (decisão 133) mexem nas taxas medidas. Rodar a bateria padrão dos 4 perfis com o motor novo, incluindo um cenário de NPC rank 6 duplo-gênio, é a próxima simulação.
 - [ ] **A economia imortal precisa de reauditoria sob a Dilatação Temporal (decisão 110).** As tabelas de produção de [[⚗️ Materialização e Alquimia Interna]] foram calibradas no fluxo 0,5×–3×; com 5×–50×, produção, Ração e renda de camada 4 escalam ~10× — conferir se os preços do Céu Amarelo e a Ração Imortal continuam fechando.
-- [ ] **Gu do Crânio de Sangue em três ranks diferentes.** [[🩸 Caminho do Sangue]]`:130` diz **rank 6**; [[🚀 Gu de Avanço de Rank]]`:44` e [[🗂️ Índice de Gu por Caminho]]`:688` dizem **rank 5**; a fonte primária (conferida durante a implementação da decisão 123–125) diz **rank 4** (com variante de rank 5), mudando a **Aptidão**, não a Abertura por salto direto. O [[📖 Catálogo de Gu]]`:671` não declara rank e já está coerente com o cânone na exigência de "sangue de parente consanguíneo" — é só o número de rank que diverge entre notas. Mexer nisso toca `🩸 Caminho do Sangue`, `🚀 Gu de Avanço de Rank`, `🗂️ Índice de Gu por Caminho`, `🌟 Aptidão e Abertura` e a elevação para Imortal do `📖 Catálogo` (`:729`, que dá Físico Extremo) — **precisa de decisão do autor sobre qual rank fixar antes de tocar as cinco**, para não corrigir uma nota e deixar as outras quatro erradas.
 
 **Rejeitado deliberadamente:** subsistema de guerra de larga escala (é um segundo jogo — resolva com 3–4 testes de grupo); Attainment como escala numérica paralela a Marcas (redundante); rastrear Marca de Dao individualmente.
 

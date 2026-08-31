@@ -388,3 +388,9 @@ attainment coletivo a cada 100 anos, reaproveitando o teste estendido de
 [[🧩 Refino e Precificação]] sem número novo — só estrutura de fases (Postos →
 Território de Fera) e o prêmio (Marca de Sucesso). Fecha as 8 recomendações da
 Frente 3 (atividades jogáveis) da síntese da leitura integral.
+
+## [2026-08-31] canon | Gu do Crânio de Sangue fixado em rank 5 (decisão 147)
+Três de quatro notas já diziam rank 5 (Catálogo mestre, Índice, Gu de Avanço);
+só [[🩸 Caminho do Sangue]] destoava com rank 6, corrigido agora. Cânone
+confirma rank 4 como base (variante rank 5) — 5 é a opção interna mais
+próxima. Pendência de "Em aberto" resolvida.
