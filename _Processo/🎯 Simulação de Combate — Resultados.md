@@ -448,6 +448,64 @@ Recém-chegado e denso produzem números **quase idênticos** — quando os dois
 
 ---
 
+## 🥷 Nona rodada — batalhas solo *(2026-08-31)*
+
+Pedido direto do autor: toda bateria até aqui mede **a mesa de 4** — as rodadas 1-4 tinham duelos PJ×PJ, mas **nunca um PJ sozinho contra um molde de inimigo**. Esta rodada roda cada um dos quatro, sozinho, contra três cenas: **Mestre de Gu solo** (especial de Alma, o teto da variante), **Horda de 8** (a cena "Fácil" do grupo) e o **Rei de Cem Feras** de [[🐺 Reis Fera e a Maré]] (Elite + escolta de Horda de 8). Script: [[simulacoes/2026-08-31-nona-rodada-batalhas-solo.py|_Processo/simulacoes/2026-08-31-nona-rodada-batalhas-solo.py]] — cópia do motor da sétima rodada, nada reescrito. Ranks 1, 3 e 5 × 4 PJs × 3 cenas = 36 células, 3.000 iterações cada, semente `20260830`, MAX_ROUNDS 20 (timeout conta como derrota; ficou ≤2,1% em toda célula — sem estagnação).
+
+**Duas regras mudam de comportamento em jogo solo, e foram medidas COMO ESTÃO ESCRITAS:** (a) a Horda ataca **uma vez por personagem de pé** — solo, isso vira 1 ataque/rodada, um quarto do volume que o grupo recebe (ver o achado 3); (b) a cura do Lee ("o aliado mais machucado abaixo de 40%") — solo, o único candidato é ele mesmo: o Lee se cura, 1×/cena, com o Gu real da decisão 155; os outros três não têm cura nenhuma. Golpe Matador não dispara (o gatilho do motor é "há um Chefe na cena", como em todas as baterias — nenhuma das três cenas tem Chefe).
+
+### Tabelas *(vitória · rodadas médias nas vitórias · % de Vitalidade restante nas vitórias)*
+
+**Mestre de Gu solo** (especial de Alma):
+
+| PJ | rank 1 | rank 3 | rank 5 |
+|---|---|---|---|
+| **Xie Lang** (caster de Alma) | 73,7% · 4,0r · 51% | 84,0% · 4,1r · 47% | **94,3%** · 3,9r · 54% |
+| **Jiaotang** (melee-tank) | 71,5% · 4,2r · 44% | 50,6% · 5,2r · 30% | 58,7% · 5,6r · 30% |
+| **Lee** (curandeiro) | **9,9%** · 6,4r · 31% | 10,1% · 6,8r · 26% | 24,9% · 6,9r · 27% |
+| **Demvi** (striker frágil) | 19,0% · 4,8r · 39% | 33,6% · 5,8r · 30% | 59,0% · 5,8r · 34% |
+
+**Horda de 8** (a cena "Fácil" do grupo — 100% pra mesa de 4 em todo rank):
+
+| PJ | rank 1 | rank 3 | rank 5 |
+|---|---|---|---|
+| **Xie Lang** | 69,6% · 9,7r · 40% | 56,6% · 13,0r · 20% | 57,5% · 14,5r · 21% |
+| **Jiaotang** | **99,1%** · 5,8r · 59% | 51,6% · 12,6r · 17% | **34,3%** · 15,7r · 15% |
+| **Lee** | 71,6% · 10,2r · 29% | **10,2%** · 17,3r · 10% | 12,3% · 19,0r · 12% |
+| **Demvi** | 15,2% · 12,1r · 26% | 30,3% · 14,5r · 17% | 39,2% · 16,1r · 19% |
+
+**Rei de Cem Feras** (Elite + Horda de 8 — o grupo mede ~99% a ~55-60% de custo):
+
+| PJ | rank 1 | rank 3 | rank 5 |
+|---|---|---|---|
+| **Xie Lang** | 3,7% | 3,0% | 6,0% |
+| **Jiaotang** | **8,4%** | 0,1% | 0,1% |
+| **Lee** | 0,0% | 0,0% | 0,0% |
+| **Demvi** | 0,0% | 0,0% | 0,1% |
+
+*(Nas células do Rei com <10 vitórias em 3.000, rodadas e Vitalidade restante são ruído — omitidas. Nas vitórias que existem, o PJ termina a 3-33% de Vitalidade e a cena roda 9-19 rodadas.)*
+
+### 1. Rei de Cem solo é sentença — esperado, agora quantificado
+
+O grupo leva o Rei de Cem em ~99% pagando ~55-60% da Vitalidade; **sozinho, o melhor caso da mesa inteira é 8,4%** (Jiaotang no rank 1, antes de os moldes ganharem grau de estágio), e nos ranks 3-5 **nenhum PJ passa de 6%** — três dos quatro ficam em 0,0-0,1%. Não é achado de quebra: é o comportamento que [[🐺 Reis Fera e a Maré]] promete ("cena Difícil de verdade" **pra mesa de 4**) se comportando como deve quando a mesa não está lá. Nenhum ajuste pedido.
+
+### 2. Quem sobrevive sozinho — e a dupla esperada troca de lugar com o rank
+
+- **Xie Lang é o único PJ com perfil solo de verdade**: 74-94% contra o Mestre, 57-70% contra a Horda — nunca abaixo de 56% fora do Rei. São as mesmas duas vantagens já diagnosticadas na oitava rodada, operando dentro da fase mortal: o ataque de **Alma** mira a Defesa de Alma (que escala +1/rank contra o acerto dele a +2/rank) e a maior Aptidão da mesa (86) banca a cena longa sem cair no dado cru.
+- **Lee colapsa em tudo** (9,9-24,9% contra o Mestre; 10-12% contra a Horda nos ranks 3-5): o kit dele é suporte — d8 de dano, e a cura real (`M d6`, 1×/cena) devolve ~meio golpe inimigo. Solo, o papel que ele exerce na mesa simplesmente não existe. É o retrato invertido do achado da sexta rodada ("a cura dispara em 80-99% dos combates do grupo"): o valor do Lee é sistêmico, não individual.
+- **Jiaotang × Demvi invertem com o rank** — e não é o resultado que a intuição "tank aguenta, vidro quebra" prevê: Jiaotang **domina o rank 1** (99,1% contra a Horda, 71,5% contra o Mestre) e **decai** (34,3% e 58,7% no rank 5); Demvi faz o caminho oposto (15-19% no rank 1 → 39-59% no rank 5). O cruzamento é **economia de essência**, não ficha de combate: a Aptidão 56 do Demvi dá só ~5 ativações de Gu no rank 1 (aí ele cai no d4 cru e afunda), mas o pool de essência dobra por estágio enquanto o custo fica fixo — no rank 5 ele ativa a cena inteira. Já o Jiaotang bate na parede oposta: a Vitalidade da Horda cresce com o grau de estágio dos moldes (`6M+4M×B` por membro) mais rápido do que o dano físico dele, e sem essência sobrando pra compensar.
+
+### 3. A regra da Horda escala PARA BAIXO solo — mas NÃO trivializa a cena, e isso é achado pro autor
+
+A hipótese era: se a Horda ataca "uma vez por personagem de pé", um PJ sozinho leva 1/4 dos ataques e a cena viraria trivial. **Medido: não vira** — só o Jiaotang de rank 1 trivializa (99,1%); o resto da tabela fica entre 10% e 72%. O que segura a cena não é o dano por rodada, é a **parede de Vitalidade** (a Vit da Horda é por membro × 8 — idêntica pra quem chega em 4 ou sozinho) somada à economia de essência: solo contra a Horda, a cena vira **guerra de atrito de 10-19 rodadas** em que perde quem esvazia a Abertura primeiro.
+
+O resultado líquido da regra como escrita, solo: **pressão por rodada baixa e constante, dificuldade errática entre perfis (99% a 10%) e cena comprida** — a Horda ameaça o PJ isolado mais por exaustão do que por perigo. Dois pontos pra decisão do autor (registrados em "Em aberto" no [[🧭 Log de Decisões]]):
+
+1. Se a intenção é que 8 feras **assustem** um PJ isolado, a regra precisa de um piso (ex.: mínimo de 2-3 ataques/rodada contra 1-2 alvos); se a intenção é "horda é perigo de volume, e volume se dilui contra menos alvos", a regra atual entrega exatamente isso — é escolha de design, não bug.
+2. As 13-19 rodadas médias das vitórias solo contra a Horda agravam o item já aberto da decisão 160 (cenas 2-4× mais longas que o alvo de F&M) — solo, o pior caso encosta no teto de 20 rodadas.
+
+---
+
 ## ☯️ Marcas de Dao no topo — a escada linear já entrega o veredito da ficção? *(2026-08-31)*
 
 Pendência testada: item de "Em aberto" no [[🧭 Log de Decisões]] apontando que a escada de domínio de [[☯️ Marcas de Dao]] (convertida em `01 — Fundação/⚔️ Combate.md#☯️ Marcas de Dao — o dano depois do rank 6`) é uma progressão em degraus (+1 de `B` por patamar, um único dobramento de pool no topo) enquanto o romance descreve a amplificação por Marca, no rank 8, como saltando para multiplicadores de "centenas ou milhares de vezes" — dado como a explicação canônica de por que rank 7 quase nunca vence rank 8.

@@ -598,8 +598,19 @@ leitura — o bug recorrente do vault).
 Escolha do autor no menu de decisões: o buraco de dinheiro/equipamento inicial
 (achado 🔴 do playtest de leitura) fecha com kit pronto por Origem em
 [[🌱 Origens]] — arma + armadura + Pedras + gancho de sabor por Origem, zero
-compra na sessão zero. Sincronizado no passo 8 do [[🎓 Guia do Mestre
-Iniciante]] e no checklist/exemplo do [[📋 Guia de Criação de Ficha]]. As
+compra na sessão zero. Sincronizado no passo 8 do [[🎓 Guia do Mestre Iniciante]]
+e no checklist/exemplo do [[📋 Guia de Criação de Ficha]]. As
 outras duas escolhas do menu (régua ΔB imortal, Colapso Espiritual) + a
 diretiva "poder de Alma é raro entre inimigos" estão com a outra sessão
 (01/06/simulação — décima rodada a caminho).
+
+## [2026-08-31] simulação | Nona rodada — batalhas solo, 1 PJ contra a cena (decisão 203)
+Pedido do autor: cada um dos 4 PJs sozinho contra Mestre de Gu solo, Horda de 8
+e o Rei de Cem Feras (Elite + Horda 8, molde de [[🐺 Reis Fera e a Maré]]),
+ranks 1/3/5 — 36 células, 3.000 iterações cada, motor da sétima rodada intacto
+([[simulacoes/2026-08-31-nona-rodada-batalhas-solo.py]]). Achados: Rei de Cem
+solo é sentença (melhor caso 8,4% vs ~99% do grupo); Xie Lang é o único perfil
+solo real; Lee colapsa (10-25%); Jiaotang e Demvi trocam de lugar com o rank
+(economia de essência). A regra da Horda (1 ataque por personagem de pé) escala
+pra baixo solo sem trivializar — item novo em "Em aberto". Resultados na seção
+nova de [[🎯 Simulação de Combate — Resultados]].
