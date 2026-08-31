@@ -69,12 +69,12 @@ Cole isto na cabeça e 80% do sistema fica óbvio.
 | PV | **Vitalidade** *e* **Alma** — duas barras separadas | `(18 + 3×CON + 4×B) × M` e `(12 + 2×VON + 3×B) × M`. Dano de Alma **ignora armadura e RD por completo** |
 | Resistência a dano | **RD** | Subtrai do dano rolado. Duas fontes: a maior + metade da segunda |
 | Poção de cura | **Gu de Grama Curativa** (`M d8`, morre no uso) | Tradução 1:1. Só que é escassa e devolve mais ou menos o que um golpe tira |
-| Item mágico +1 | **Arma/armadura de material de fera** (+1 Nível ou +1 RD, uma vez só) | Ou um Gu. Não existe loja de item mágico |
+| Item mágico +1 | **Arma/armadura de material de fera** (arma: +1 no acerto · armadura: +1 RD — uma vez só) | Ou um Gu. Não existe loja de item mágico |
 | Descanso curto / longo | **Iguais** | Curto = metade da Vitalidade e da Essência. Longo = tudo |
-| Iniciativa | **Não se rola.** Ordem por Destreza, do maior pro menor | Ganha 3 minutos por combate |
-| Crítico em 20 natural | **Não existe** | Um 20 garante o acerto, e nada além disso. Falha crítica em 1 também não existe |
+| Iniciativa | **Igual:** `d20 + DES`, rolada no início do combate | Uma rolagem só, e a ordem vale a cena inteira |
+| Crítico em 20 natural | **Existe** | Um 20 acerta sempre e **dobra os dados** de dano (`2 × M` dados; o bônus por dado não dobra). Falha crítica em 1 não existe |
 | Morte a 0 PV | **Teste de Morte:** `d20 puro` no início de cada turno, 10+ estabiliza | Falhar uma vez, mesmo sobrevivendo, deixa **sequela permanente** |
-| Loja de equipamento | **Existe** pra arma e armadura. **Não existe** pra Gu | Gu se compra com um teste de Disponibilidade, ou se refina, se caça, se saqueia |
+| Loja de equipamento | **Existe** pra arma, armadura **e Gu** | Mas Gu passa por um teste de Disponibilidade e custa caro (rank 1 ≈ 500 pedras, um ano de mesada de clã). Comprar é de propósito a via mais fraca: o normal é refinar, caçar ou saquear |
 
 **A única mecânica realmente nova pra quem vem de D&D é a economia de Gu:** eles ocupam espaço, custam essência pra ligar, custam essência por rodada pra manter ligados, e custam comida por semana pra continuarem vivos. É a espinha do jogo. Tudo o mais você já sabe.
 
@@ -151,7 +151,7 @@ Armas         = improvisada d4 · leve d6 · média d8 · pesada d10
 Cura de Gu    = M d8
 ```
 
-**A partir do rank 5, não role tudo:** role 8 dados e some a média do resto (d6 3,5 · d8 4,5 · d10 5,5 · d12 6,5). Tabela pronta em [[📄 Folha de Referência]].
+**O dano é sempre rolado, em qualquer rank** — não existe média nem dano fixo (decisão 103). Pools grandes rolam em punhados de 8 dados, somando, ou num rolador digital (`/roll 64d12`).
 
 > **A regra que segura o jogo inteiro:** a **Força nunca entra no pool**. O músculo humano é o mesmo no rank 1 e no rank 9. O que cresce é o bicho que você carrega. Se você errar isso, um lutador vira invencível no rank 4.
 
@@ -204,11 +204,11 @@ Dano        M d6, e o dado sobe um tipo a cada 4 membros vivos → com 8 vivos, 
 
 **A rodada:**
 
-1. **Ordem de turno:** liste todo mundo por Destreza, do maior pro menor. Não role nada.
+1. **Iniciativa:** todo mundo rola `d20 + DES` uma vez, e a ordem vale a cena inteira.
 2. **A guerreira (FOR +3, machado pesado, sem Gu de Força ativo)** ataca: `d20 + 3 + 3` = `d20+6` contra Defesa 11 — acerta com 5+. Dano: **um dado só**, `1d10 + 3`. Tirou 5 → **8 de dano**. A barra da Horda cai pra 40.
 3. **O usuário de Gu (VON +3, Gu do Luar rank 1, Caminho da Luz = d8)** ativa: paga **40 de essência** (Gu do próprio rank). Acerto `d20 + 3 + 3 + 1` = `d20+7`. Dano `1 d8` — um dado, porque M = 1 no rank 1. Tirou 4 → **4**. A Horda cai pra 36. *Com 36 de Vitalidade ela ainda tem 6 membros, então o dado dela continua em d8 na próxima rodada — o grupo sente a horda enfraquecendo sem contar corpo.*
 4. **A Horda age:** um ataque por personagem de pé, quatro ataques, `d20+7` contra as Defesas do grupo (11 + DES). Contra Defesa 13, acerta 75% das vezes. Dano `1d10` cada, **menos a RD da armadura** — quem comprou couro batido (RD 2) come 2 de cada golpe.
-5. **Fim da rodada:** todo mundo recupera essência sozinho — `% de aptidão ÷ 10` por rodada. Um Grau B (65%) recupera **6**. Ou seja: **um sétimo de uma ativação.** O tanque é um recurso que acaba, e é assim de propósito.
+5. **Fim da rodada:** ninguém recupera nada. **Essência não regenera em combate** (decisão 107) — a recuperação é `% de aptidão ÷ 10` **por minuto de descanso, entre cenas**. O tanque é um recurso que acaba dentro da luta, e é assim de propósito. A única exceção do jogo é o [[🌠 Os Dez Físicos Extremos|Físico Extremo]].
 
 **Onde o mestre iniciante erra nesta cena:** esquece o `+ rank` na Defesa (11 + DES no rank 1, não 10 + DES), e esquece que o número de dados vem do rank **do Gu**, não do personagem.
 
@@ -241,7 +241,7 @@ Custo: 1 ponto por degrau até +3, 2 pontos pra ir de +3 a +4, e baixar um atrib
 - **AST** é quantos Golpes Matadores cabem na ficha (`AST + 1`) e metade da investigação.
 - **CAR** é quantos aliados se comanda (`CAR + 1`) e a outra metade da investigação.
 
-**3. A Aptidão sai do mesmo bolso.** Baixar 5% rende +1 ponto; subir 5% custa −2. Deliberadamente desigual: a Aptidão é o teto da vida inteira.
+**3. A Aptidão rolada não se negocia.** O número que saiu no dado é definitivo — não se compra nem se vende % com ponto de criação (decisão 111). A única exceção é o pacote dos **Dez Físicos Extremos**, que custa **8 dos 12 pontos** e é escolha consciente da mesa, nunca surpresa de dado.
 
 **4. Cada jogador escolhe uma Origem** — de onde veio ([[🌱 Origens]]). O mais importante que ela faz é dizer **de onde vem o primeiro Gu do personagem**.
 
@@ -262,7 +262,7 @@ Aptidão 63% (Grau de aptidão B)   Rank 1, Estágio Inicial   M = 1   B (Grau d
 FOR +3   CON +3   DES +2   AST +2   VON +2   CAR −1     (13 pontos)
 
 Vitalidade  27   (18 + 3×3)        Alma      16   (12 + 2×2)
-Essência   252   (63 × 4)          Regeneração  6 / rodada
+Essência   252   (63 × 4)          Regeneração  6 / minuto, fora de combate
 Defesa      13   (10 + 2 + 1 + 0)  ← sem Gu de movimento ainda
 Acerto melee  d20 + 6              Acerto de Gu  d20 + 5 + rank do Gu
 CD dos Gu dela  12 + rank do Gu
@@ -473,7 +473,8 @@ Dado           d12 Alma/Espada/Relâmpago · d10 Fogo/Vento · d8 Lua/Sangue/
                Veneno/Sombras · d6 utilitários (+2 na CD deles)
 B              Grau do estágio (0·1·2·3) + Níveis excedentes
 Vitalidade     (18 + 3×CON + 4×B) × M   Alma  (12 + 2×VON + 3×B) × M
-Essência       % de aptidão × 4 × 2^(estágio−1)     Regen  % ÷ 10 por rodada
+Essência       % de aptidão × 4 × 2^(estágio−1)
+Regeneração    % ÷ 10 por minuto — FORA de combate (em luta, não regenera)
 Ativar um Gu   40 (rank próprio) · 10 · 4 · 1 (por rank abaixo)
 Sustentar      (nº de Gu ligados)² × 5 por rodada
 Ferimento      −5% permanente em Vitalidade E Alma máximas

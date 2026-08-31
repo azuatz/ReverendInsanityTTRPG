@@ -17,7 +17,7 @@ Neste mundo, **favor devido é uma estrutura com força mecânica**, não uma pr
 
 ## O Pacto
 
-Um Débito só existe se for **selado por um Gu de Juramento**. Palavra sem Gu é palavra.
+Um Débito **selado** só existe se houver um **Gu de Juramento**. Palavra sem Gu é palavra — e é por isso que a versão sem Gu cobra de outro jeito ([[#🩸 Débito sem Gu: o Vínculo quebrado|ver abaixo]]).
 
 O instrumento clássico é o **par de Gu de Sangue Vinculado**: uma gota de sangue de cada parte, e os dois Gu passam a se reconhecer. Eles autenticam ordens e mensagens à distância — impossível de falsificar sem um Gu de Sangue de rank alto — e **se estendem a descendentes e discípulos**, o que faz um Débito atravessar gerações.
 
@@ -59,6 +59,31 @@ Quebrar um Débito selado custa, na hora:
 Existe, e é gancho de arco por si só: **um Gu específico que dissolve restrições e retaliações de pacto**, de qualquer Caminho de origem.
 
 Ele é raríssimo, **nunca está à venda**, e quem tem só **empresta** — o que significa que se livrar de um Débito custa contrair outro, com alguém pior. É deliberadamente circular: no fim, ninguém sai da rede, só troca de credor.
+
+---
+
+## 🩸 Débito sem Gu: o Vínculo quebrado
+
+**A segunda porta de entrada de um Débito não tem verme nenhum.** Quebrar um [[🤝 Vínculos e Acordo de Mesa|Vínculo]] — agir contra quem confiava em você — **vira um Débito em favor de quem foi deixado**, e ninguém precisou selar nada.
+
+É o caso mais comum na mesa, porque é o único que nasce entre personagens de jogadores.
+
+**O que não acontece.** Sem Gu, não há Retrocesso imediato, o credor não sabe na hora, e não há retaliação cármica. Nada explode. Essa é a diferença inteira: **um Débito selado cobra por conta própria; um Vínculo quebrado precisa de gente pra cobrar.** E gente cobra devagar, torto e com juros.
+
+**O que acontece.** A mesa escreve as três linhas do pacto do mesmo jeito — mas quem as redige é **quem foi deixado**, e o traidor não tem voto:
+
+| Consequência | Detalhe |
+|---|---|
+| **A palavra corre** | Não é magia, é boca. Toda testemunha, todo sobrevivente e todo aliado do credor sabe em `1d6` semanas. Onde o credor tem clã, seita ou família, a notícia chega antes do devedor |
+| **+1 pro credor, e só pra ele** | O credor ganha **+1 em qualquer teste feito pra cobrar** — encontrar, pressionar, denunciar, negociar contra. O devedor não ganha nada: ele já gastou a boa-fé |
+| **Sem Gu, sem sigilo** | O credor pode contar a quem quiser, e o valor de mercado de um traidor conhecido é **metade** — mesada de clã cortada, portas fechadas, sessão de refino recusada |
+| **O Vínculo some** | Da ficha de quem quebrou, permanentemente. Ele escolhe outro, com outra pessoa, e a frase nova precisa reconhecer a antiga |
+
+**Selar depois.** O devedor que quiser fechar o assunto pode **oferecer um Gu de Juramento** e converter o Débito social num Débito selado. Isso trava a fofoca e devolve o crédito social — ao preço de aceitar toda a retaliação automática deste documento. É a jogada de quem tem mais a perder em reputação do que em Vitalidade, e é uma cena boa.
+
+**Quitar.** Só de um jeito: **quem foi deixado declara satisfeito.** Não há prazo, não há tabela e não há pagamento suficiente por padrão — o credor é um jogador, e a decisão é dele. É a mesma lógica do [[🤝 Vínculos e Acordo de Mesa#O protocolo de traição|protocolo de traição]], onde a vítima escolhe o desfecho.
+
+> **Aviso de mesa.** Isto **não** é licença pro mestre punir. A retaliação de um Vínculo quebrado é conduzida por quem foi traído, no ritmo dele. Se a vítima decidir perdoar na cena seguinte, o Débito acabou — e isso também é uma história.
 
 ---
 

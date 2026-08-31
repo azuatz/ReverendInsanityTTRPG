@@ -10,7 +10,7 @@ escopo: sistema
 
 # 🪜 Ranks e Estágios
 
-O cultivo tem **nove ranks** (Nove Giros) — sem compressão, sem teto artificial abaixo do nono. Ranks 1 a 5 são a fase mortal (Mestre de Gu). Ranks 6 a 9 são a fase imortal (Imortal de Gu), e o rank 9 é o topo absoluto: **Venerável** (ou **Venerável Demônio**, para quem chega lá pelo Caminho demoníaco/proibido). Cada rank mortal tem quatro estágios — Inicial, Intermediário, Avançado, Pico.
+O cultivo tem **nove ranks** (Nove Giros) — sem compressão, sem teto artificial abaixo do nono. Ranks 1 a 5 são a fase mortal (Mestre de Gu). Ranks 6 a 9 são a fase imortal (Imortal de Gu), e o rank 9 é o topo absoluto: **Venerável** (ou **Venerável Demônio**, para quem chega lá por fora das facções estabelecidas). Cada rank mortal tem quatro estágios — Inicial, Médio, Alto, Pico.
 
 ## Fase mortal — Mestre de Gu (rank 1 a 5)
 
@@ -158,7 +158,7 @@ Chegar ao rank 5 Pico **não** dá direito de tentar. É preciso passar por um d
 | 6 | Sexto Giro | Uva Verde | 0 – 9.999 | Calamidade Terrestre (10 em 10 anos) / Provação Celestial (100 em 100 anos) |
 | 7 | Sétimo Giro | Jujuba Vermelha (100 Uvas Verdes = 1) | 10.000 – 99.999 | + Grande Calamidade (100 em 100 anos, cada uma ordens de grandeza pior que a anterior) |
 | 8 | Oitavo Giro | Lichia Branca (100 Jujubas = 1) | 100.000 – 299.999 | + Calamidade das Dez Mil Calamidades (100 em 100 anos) |
-| 9 | Nono Giro — **Venerável** | Damasco Amarelo (1 = 1.000.000 de Pedras Primordiais) | 300.000+ | Calamidade do Caos (a cada 100 anos) — quem morre por ela não pode ser ressuscitado |
+| 9 | Nono Giro — **Venerável** | Damasco Amarelo (1 = ~100.000.000 de Pedras Primordiais) | 300.000+ | Calamidade do Caos (a cada 100 anos) — quem morre por ela não pode ser ressuscitado |
 
 ### ⬆️ Como se sobe de rank depois da imortalidade *(decisão 108 — calibrado pelo cânone)*
 
@@ -187,7 +187,7 @@ Cada grau vale **100 do grau abaixo**, e a conversão é o motor da economia imo
 | 8 | **Lichia Branca** (LB) | 100 JV | ~1.000.000 |
 | 9 | **Damasco Amarelo** (AA) | 100 LB | ~100.000.000 |
 
-> *Nota de tradução: no material em inglês o rank 7 aparece como "Red Jujube". Alguns resumos traduzem como "lótus vermelha" — é a mesma coisa, e o vault usa **Jujuba Vermelha** por ser o termo canônico.*
+> *Nota de tradução: no romance o termo é **"red date"**, que a referência canônica do vault registra como **Tâmara Vermelha** ("red jujube" não aparece na obra). Alguns resumos traduzem como "lótus vermelha". É tudo a mesma essência de rank 7 — o vault padronizou **Jujuba Vermelha** por convenção interna, não por canonicidade.*
 
 **Você produz apenas a essência do seu rank.** Um Imortal de rank 6 gera Uva Verde e mais nada; se ele quiser Jujuba, tem que comprar, roubar ou receber.
 
@@ -220,7 +220,9 @@ Cumprir três das quatro e falhar na última é uma tragédia de campanha em si 
 
 ### Venerável × Venerável Demônio
 
-Ambos são rank 9 — o mesmo teto de poder. A diferença é de Caminho e reputação: um Venerável ortodoxo chegou lá por um Caminho reconhecido pelas facções corretas; um **Venerável Demônio** chegou pelo Caminho do Sangue, da Escravidão ou outro caminho proibido/heterodoxo, e é caçado por isso onde quer que vá. Mecanicamente idênticos — narrativamente, um é lenda, o outro é pesadelo.
+Ambos são rank 9 — o mesmo teto de poder. **A diferença é de posição social, não de Caminho e nem de moral:** "reto" e "demoníaco" descrevem como o cultivador se coloca diante das estruturas estabelecidas (clãs, seitas, alianças), e não uma escala simples de bem contra mal. Um Venerável ortodoxo chegou ao topo **dentro** dessas estruturas e com o aval delas; um **Venerável Demônio** chegou **fora** delas — sozinho, contra elas, ou por meios que elas condenam — e é caçado por isso onde quer que vá.
+
+Na mesa isso vira uma pergunta prática, não uma etiqueta de alinhamento: **quem abre a porta pra ele e quem manda matá-lo.** Caminhos como Sangue e Escravidão praticamente garantem o rótulo demoníaco porque nenhuma facção ortodoxa os tolera — mas o rótulo vem da posição, não do Caminho: existe Venerável Demônio de Caminho banal, e existe ortodoxo de mãos muito sujas. Mecanicamente idênticos — narrativamente, um é lenda, o outro é pesadelo.
 
 **Senhor do Dao:** um Venerável que refina por completo as marcas naturais do seu Caminho vira Senhor do Dao — dentro do próprio domínio, cada ação dele recebe amplificação automática do céu e da terra. Só outro Venerável rivaliza com um Senhor do Dao.
 

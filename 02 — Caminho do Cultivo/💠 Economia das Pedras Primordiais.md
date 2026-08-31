@@ -31,7 +31,7 @@ Uma Pedra Primordial, quando usada, vira Verdadeira Essência que reabastece a A
 
 ## Pedra de Essência Imortal
 
-Moeda de nível Imortal. Uma Pedra de Essência Imortal equivale a uma unidade de Essência Imortal de Uva Verde (a essência de rank 6). A conversão sobe junto com o rank da essência: 100 Uvas Verdes = 1 Jujuba Vermelha (rank 7), 100 Jujubas = 1 Lichia Branca (rank 8), e uma única Damasco Amarelo (rank 9) vale **1 milhão** de Pedras Primordiais comuns. Um Imortal de rank 6 típico guarda algumas centenas de Pedras Imortais; um de rank 7, milhares a dezenas de milhares; rank 8, dezenas a centenas de milhares — a escala de riqueza salta ordens de grandeza a cada rank, igual à escala de poder.
+Moeda de nível Imortal. Uma Pedra de Essência Imortal equivale a uma unidade de Essência Imortal de Uva Verde (a essência de rank 6). A conversão sobe junto com o rank da essência: 100 Uvas Verdes = 1 Jujuba Vermelha (rank 7), 100 Jujubas = 1 Lichia Branca (rank 8) — que já vale **1 milhão** de Pedras Primordiais comuns —, e uma única Damasco Amarelo (rank 9) vale **~100 milhões**. Um Imortal de rank 6 típico guarda algumas centenas de Pedras Imortais; um de rank 7, milhares a dezenas de milhares; rank 8, dezenas a centenas de milhares — a escala de riqueza salta ordens de grandeza a cada rank, igual à escala de poder.
 
 ## Fontes de recurso
 

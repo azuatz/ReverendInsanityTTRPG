@@ -5,12 +5,12 @@ tags:
   - mestre
 aliases:
   - Catálogo de Heranças
-escopo: campanha
+escopo: sistema
 ---
 
 # 📜 Catálogo de Heranças
 
-Complemento prático de [[📜 Manuais e Heranças|Manuais e Heranças]]. Cada entrada aqui é um **motor de arco**: um morto com uma história, um lugar com um obstáculo, um prêmio coerente, uma provação jogável e um problema que sobra depois. Use assim: escolha uma herança pelo rank do grupo, apague o que não servir, e trate a **amarra** como o gancho da sessão seguinte — ela é o motivo pelo qual a história não acaba quando o cofre abre. As localizações são descritas **por tipo de lugar**, não por nome canônico: encaixe no seu mapa. Os Gu citados existem no [[📖 Catálogo de Gu|Catálogo de Gu]]; os marcados com `*` são invenções desta nota, com efeito escrito no formato do sistema (dano = dado do passo × M, RD = base × M).
+Complemento prático de [[📜 Manuais e Heranças|Manuais e Heranças]]. Cada entrada aqui é um **motor de arco**: um morto com uma história, um lugar com um obstáculo, um prêmio coerente, uma provação jogável e um problema que sobra depois. Use assim: escolha uma herança pelo rank do grupo, apague o que não servir, e trate a **amarra** como o gancho da sessão seguinte — ela é o motivo pelo qual a história não acaba quando o cofre abre. As localizações são descritas **por tipo de lugar**, não por nome canônico: encaixe no seu mapa. Os Gu citados existem no [[📖 Catálogo de Gu|Catálogo de Gu]]; os marcados com `*` são invenções desta nota, com efeito escrito no formato do sistema — **dano = `M d(dado do Caminho)`**, com o passo próprio do golpe já aplicado, e **RD = `base × M`** (ver [[⚔️ Combate|Combate]]). Some o `M × B` do estágio de quem rola; a entrada não o inclui.
 
 Três camadas: **Mortais** (atos 1 e 2, rank 1–5), **Imortais** (o gatilho da [[♾️ A Ascensão Imortal|Ascensão]], rank 6–8), e **Legados de Venerável** (rank 9 — eventos de campanha, não loot).
 
@@ -41,7 +41,7 @@ Legados de Mestres de Gu de rank 3 a 5. Raramente têm Terra Abençoada: o dono 
 
 **Espírito da Terra:** nenhum.
 
-**A Provação da Herança:** a galeria termina em cinco bocas de fornalha em semicírculo, cada uma com o sigilo de um elemento — Madeira, Fogo, Terra, Metal, Água. Placa de bronze: *"Acenda na ordem em que uma coisa faz nascer a seguinte. Comece por aquela que ninguém aqui faz nascer."* A boca da Água está **rachada e fria** — o cano dela arrebentou há décadas. Acender fora de ordem: explosão de vapor, `1d10 × 4` (passo +2, M do rank 3) em raio de 4 m, e a fornalha reinicia. Três erros e a galeria desaba (todos: DES CD 15 ou 3d6 de dano e saída soterrada por uma semana).
+**A Provação da Herança:** a galeria termina em cinco bocas de fornalha em semicírculo, cada uma com o sigilo de um elemento — Madeira, Fogo, Terra, Metal, Água. Placa de bronze: *"Acenda na ordem em que uma coisa faz nascer a seguinte. Comece por aquela que ninguém aqui faz nascer."* A boca da Água está **rachada e fria** — o cano dela arrebentou há décadas. Acender fora de ordem: explosão de vapor, `4d12+4` (Fogo, passo +2, M do rank 3) em raio de 4 m, e a fornalha reinicia. Três erros e a galeria desaba (todos: DES CD 15 ou 3d6 de dano e saída soterrada por uma semana).
 
 **Quebra-cabeças:** *(veja acima)*
 > **Resposta.** O ciclo de geração é Madeira → Fogo → Terra → Metal → Água → Madeira. Como a boca da **Água está morta**, ninguém gera a Madeira: **a Madeira é o começo**. Ordem correta: **Madeira, Fogo, Terra, Metal — e deixar a Água apagada.** A quinta ação é *não* agir. Um grupo que acende a Água tentando "completar o ciclo" acerta o raciocínio e erra a leitura: a Água apagaria o Fogo e reverteria tudo (explosão automática, sem teste). Dica que o mestre pode entregar depois de um erro: soprar fumaça em cada boca — só quatro puxam ar.
@@ -93,14 +93,14 @@ Legados de Mestres de Gu de rank 3 a 5. Raramente têm Terra Abençoada: o dono 
 - Gu: **Gu da Centopeia Dourada Serra-Circular** (r3), **Gu de Escravidão (rank 4)**, **Gu de Domar Lobos** (r4), **Gu do Cão de Guerra** (r4), **Gu das Tripas de Cão** (r2), **Gu da Fumaça de Lobo** (r4)
 - Receitas: nenhuma escrita — Bo Kang não sabia ler
 - Materiais / Pedras: ~1.500 Pedras Primordiais em placas de osso entalhado; 40 kg de carne curada (ainda comestível, com um teste)
-- Golpe Matador: **"O Cerco de Bo Kang"** — Gu de Domar Lobos + Gu das Tripas de Cão + Gu da Fumaça de Lobo ativados em sequência. Efeito: até seis feras domadas atacam como uma unidade, `Ataque: 1d10 × M` (passo +2) coletivo, e o alvo fica *Amedrontado* (VON CD 16). **Contragolpe:** o dono perde controle de **todas** as feras por 1d3 rodadas depois — elas atacam o que estiver mais perto, incluindo ele
+- Golpe Matador: **"O Cerco de Bo Kang"** — Gu de Domar Lobos + Gu das Tripas de Cão + Gu da Fumaça de Lobo ativados em sequência. Efeito: até seis feras domadas atacam como uma unidade, `Ataque: M d12` (Escravidão d8, +2 Níveis dos dois apoios) coletivo, e o alvo fica *Amedrontado* (VON CD 16). **Brecha (ambiental):** o cerco é uma manobra de matilha e precisa de **espaço pra fechar** — em corredor, vão, ponte, fenda ou qualquer lugar em que as feras não consigam ocupar dois lados do alvo ao mesmo tempo, o golpe dispara como um ataque comum de uma fera só e perde os Níveis. **Contragolpe:** o dono perde controle de **todas** as feras por 1d3 rodadas depois — elas atacam o que estiver mais perto, incluindo ele
 - Manual de Caminho: **"Nós e Coleiras"**, entalhado em 40 placas de osso. Manual de Escravidão. Ensina a via do Caminho (submeter algo mais forte que você) e concede vantagem no primeiro teste de submissão de cada fera nova
 
 **Terra Abençoada:** nenhuma.
 
 **Espírito da Terra:** nenhum.
 
-**A Provação da Herança:** **combate contra guardião — mas o guardião é o prêmio.** A **Centopeia Dourada Serra-Circular** (rank 4, ~120 de Vitalidade, Defesa 16, `Ataque: 1d10 × 8` passo +2, RD `2 × 8` = 16 contra corte) defende a toca. Duas vitórias possíveis:
+**A Provação da Herança:** **combate contra guardião — mas o guardião é o prêmio.** A **Centopeia Dourada Serra-Circular** (rank 4, **168 de Vitalidade**, Defesa 16, `Ataque: 8d12+8` — Metal d10, passo +2 —, RD `2 × 8` = 16 contra corte) defende a toca. Duas vitórias possíveis:
 
 - **Matar:** combate direto. Ela é grande demais pra usar a toca inteira — dentro da fenda estreita ela só ataca um alvo por rodada, o que é a única razão de um grupo de rank 3 sobreviver. Matá-la destrói o **Gu da Centopeia** junto (é o Gu vital dela).
 - **Submeter:** com o **Gu de Escravidão (rank 4)** — que está do lado de fora, no cinto do esqueleto de Bo Kang, alcançável por quem entrar rastejando enquanto ela dorme (Furtividade **CD 17**). Depois: VON **CD 20** pra submeter, com desvantagem se alguém a feriu antes na mesma cena. Sucesso = o grupo ganha uma fera de rank 4 viva **e** o Gu intacto, e o manual reconhece o feito (via do Caminho da Escravidão: Marca em dobro).
@@ -123,7 +123,7 @@ Legados de Mestres de Gu de rank 3 a 5. Raramente têm Terra Abençoada: o dono 
 - Gu: **Gu do Empenho Total** (r3), **Gu do Trabalho Árduo** (r4), **Gu da Força Amarga** (r4), **Gu do Qi de Força** (r3), **Gu Ancião Primevo** (r3), **Gu Cuidadoso** (r3)
 - Receitas: nenhuma
 - Materiais / Pedras: 600 Pedras Primordiais; um cantil que **nunca esvazia** enquanto houver luz do sol nele (utilitário puro, mas vale um clã inteiro no deserto)
-- Golpe Matador: **"Mais um Degrau"** — Gu do Empenho Total + Gu do Trabalho Árduo ativados juntos (o combo de referência de Força, ver [[🧬 Receitas de Combo-Refino|Receitas]]). Aqui vem com a sequência já validada e o contragolpe já mapeado: **+3 Níveis de Dano por 3 rodadas; depois, −2 em tudo por 1d6 rodadas e 2 de Vitalidade por rodada durante o efeito**
+- Golpe Matador: **"Mais um Degrau"** — **Gu do Empenho Total** como núcleo, com **três apoios**: Gu do Trabalho Árduo, Gu da Força Amarga e Gu do Qi de Força, todos ativados juntos (é o combo de referência de Força, ver [[🧬 Receitas de Combo-Refino|Receitas]], aqui na versão completa que o Peregrino montou). Quatro Gu, **três apoios = +3 Níveis de Dano por 3 rodadas** — o que exige **Teto de Combo 4, ou seja, estágio Alto** (ver [[⚡ Golpes Matadores]]). Quem só tiver os dois primeiros Gu dispara a versão curta: **+1 Nível**. **Brecha (de janela):** a sequência se monta com o corpo, e trava só se o portador passar a rodada inteira **com os dois pés firmes no chão, sem sair do lugar**. Qualquer coisa que o mova antes do disparo — empurrão, agarrão, terreno que cede, ser derrubado, ser tirado do chão — **cancela o golpe e cobra o Retrocesso mesmo assim**. Contra quem tenha Gu de Vento, Água ou Espaço, este golpe praticamente não sai. **Contragolpe:** depois, **−2 em tudo por 1d6 rodadas**, e 2 de Vitalidade por rodada durante o efeito
 - Manual de Caminho: **"Trezentos Degraus"** — não é um manual técnico; são trezentas frases, uma por degrau, a maioria banal. Quem ler as trezentas em ordem, no lugar, ganha **+1 permanente em Vontade**. Quem ler fora de ordem ou pular não ganha nada e não pode tentar de novo
 
 **Terra Abençoada:** nenhuma.

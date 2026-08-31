@@ -81,9 +81,9 @@ Para escala: uma família comum de três pessoas vive com **1 Pedra por mês**, 
 
 | Item | Preço | Regra |
 |---|---|---|
-| Arma leve / média / pesada | **5 / 15 / 30** | Passo na Escada em [[⚔️ Combate]] |
+| Arma leve / média / pesada | **5 / 15 / 30** | Dado da arma (`d6` / `d8` / `d10`), tabela em [[⚔️ Combate]] |
 | Couro · couro batido · malha · placas | **10 / 30 / 120 / 400** | RD fixa, tabela em [[⚔️ Combate]] |
-| **Material de fera de rank 3+** | **200 – 800**, ou uma caçada | **+1 de RD** ou **+1 passo**, uma vez só |
+| **Material de fera de rank 3+** | **200 – 800**, ou uma caçada | **+1 de RD** na armadura **ou +1 no acerto** na arma, uma vez só |
 | Sessão de refino assistida por um Mestre de Gu de rank 1 | **~7** | [[🧩 Refino e Precificação]] |
 
 Armadura é barata e decisiva no rank 1, e vira decoração a partir do rank 4. **Comprar placas no começo da campanha é uma jogada boa**, e é a única vez em que o dinheiro compra sobrevivência direta.

@@ -85,7 +85,7 @@ Um Físico Extremo não é "aptidão A+". É outra categoria de existência — 
 | | |
 |---|---|
 | **A contagem regressiva** | A **Pressão da Abertura** sobe a cada 6 meses; teste de CON contra `10 + Pressão` ou **−5% de Vitalidade máxima, permanente**. Ver [[🌠 Os Dez Físicos Extremos\|Os Dez Físicos Extremos]] |
-| **Como se para** | A única forma de zerar o relógio é **subir de rank**. É por isso que todo portador de Físico Extremo é apressado — e é por isso que quase nenhum chega velho |
+| **Como se para** | O relógio zera de duas formas: **subir de rank**, ou **esvaziar a Essência** — gastar poder de forma imprudente é a válvula de escape do físico. E a contagem **cessa de vez no rank 6**: a Abertura Imortal comporta o que o corpo mortal não comportava, mas **a perda já acumulada permanece**. É por isso que todo portador de Físico Extremo é apressado — e é por isso que quase nenhum chega velho |
 | **Autoexplosão** | Se a Vitalidade máxima chegar a zero por esse acúmulo, o físico detona. A escala é regional: um portador do Físico da Alma de Gelo do Norte congela uma montanha inteira ao morrer |
 | **Tribulações violentas** | Toda Calamidade e Provação, incluindo a Ascensão, vem em escala muito pior |
 | **A trava da Ascensão** | Pra ascender, o Gu Imortal vital precisa **corresponder exatamente ao físico** — Físico da Verdadeira Marcialidade da Grande Força exige um Gu Imortal do Caminho da Força, sem substituto |

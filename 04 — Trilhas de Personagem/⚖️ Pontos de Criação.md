@@ -38,7 +38,7 @@ Custa **8 dos seus 12 pontos**, sobrando 4 pra distribuir entre seis atributos �
 
 - Aptidão 100%, sem teto natural de rank.
 - Regeneração de Essência acelerada (10% do tanque por rodada, até o teto de 100–200), cultivo passivo mais rápido, vantagem em Quebra de Paredes, e **+2 Níveis de Dano** nos Gu do Caminho correspondente.
-- **A contagem regressiva:** a Pressão da Abertura sobe a cada 6 meses; teste de CON contra `10 + Pressão` ou −5% de Vitalidade máxima permanente. Só subir de rank zera a Pressão (e cura metade da perda).
+- **A contagem regressiva:** a Pressão da Abertura sobe a cada 6 meses; teste de CON contra `10 + Pressão` ou **−5% de Vitalidade máxima permanente — e essa perda fica**. São **duas** as válvulas: subir de rank **zera** a Pressão, e **esvaziar a Essência até 0** dentro do mês a faz **cair 1** (decisão 44 — a válvula de escape é gastar poder de forma imprudente). A contagem **cessa no rank 6** e nunca recomeça, mas a perda acumulada até ali **permanece** (decisão 99). Regra completa em [[🌠 Os Dez Físicos Extremos]].
 - Uma **Dívida do Destino** — um gancho de enredo que a mesa cobra quando quiser.
 
 Comprado com pontos, isso é deliberadamente brutal. Um Físico Extremo com 4 pontos de atributo é um personagem frágil, desequilibrado e apressado, carregando algo grande demais pro corpo dele. É exatamente a figura que o cenário produz — e quase nenhuma delas morre de velhice.

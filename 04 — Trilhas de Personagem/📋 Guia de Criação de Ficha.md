@@ -18,17 +18,11 @@ Passo a passo, do zero até a mesa. Todo personagem novo começa **rank 1, está
 
 Uma frase: quem é, de onde vem, o que quer. Escolha uma [[🌱 Origens|Origem]] — ela dá contexto social (qual ramo do clã, ou se nem é do clã), define de onde vem o seu primeiro Gu, e em dois casos dá **+1 ponto** (Ramo Secundário e Errante, como compensação por não terem rede de apoio).
 
-## 2. Aptidão — e a decisão de negociar
+## 2. Aptidão — rolada, e ponto final
 
-A Aptidão foi rolada (`1d80+20`, ver [[🌟 Aptidão e Abertura|Aptidão e Abertura]]). Antes de gastar os pontos, decida se quer negociar o número — sai do mesmo bolso:
+A Aptidão foi rolada (`1d80+20`, ver [[🌟 Aptidão e Abertura|Aptidão e Abertura]]) e **o número que saiu é o número**: não se compra pra cima nem se vende pra baixo com pontos de criação (decisão 111). Piso 20%, teto 99%.
 
-| Ajuste | Efeito |
-|---|---|
-| Baixar 5% / 10% | **+1 / +2 pontos** |
-| Subir 5% / 10% | **−2 / −4 pontos** |
-| Ir a 100% + Dez Físicos Extremos | **−8 pontos** e a Dívida do Destino |
-
-Piso 20%, teto 99% — 100% só pelo pacote dos Físicos Extremos.
+A única exceção é o **pacote dos Dez Físicos Extremos** — 100% de aptidão por **−8 pontos** e a Dívida do Destino. Não é comprar aptidão; é assumir outra categoria de existência. Ver [[⚖️ Pontos de Criação|Pontos de Criação]].
 
 **Antes de decidir, pergunte ao mestre qual é o seu Buff de Lore.** Cada jogador tem direito a **um**, de graça, e ele pode ser exatamente a coisa que você ia pagar aqui (ver [[⚖️ Pontos de Criação|Pontos de Criação]]). Fechar o buff primeiro muda toda a conta dos pontos.
 
@@ -47,14 +41,17 @@ Distribua o que sobrou dos **12 pontos** entre Força, Constituição, Destreza,
 ## 4. Os números derivados
 
 ```
-Vitalidade máxima  = (12 + 3 × CON) × M          Alma máxima = (8 + 2 × VON) × M
+Vitalidade máxima  = (18 + 3 × CON + 4 × B) × M
+Alma máxima        = (12 + 2 × VON + 3 × B) × M
+                     (B = Grau de Densidade — no estágio Inicial, B = 0)
 Defesa             = 10 + DES + rank + rank do Gu de movimento ativo
                                             (no rank 1, sem Gu: 11 + DES)
 Acerto melee       = d20 + FOR + rank + 2   (no rank 1: d20 + FOR + 3)
-Acerto à distância = d20 + DES + rank + 2
+                     (não existem armas à distância mundanas — alcance é Gu)
 Acerto de Gu       = d20 + VON + rank + 2 + rank do Gu
 CD dos seus Gu     = 10 + VON + rank do Gu
-Regeneração        = (% de aptidão ÷ 10) por rodada
+Regeneração        = (% de aptidão ÷ 10) por minuto de descanso
+                     (a Essência NÃO regenera durante o combate)
 Gu que cabem na Abertura   = (% de aptidão ÷ 10) + rank
 Gu ativos ao mesmo tempo   = CON + rank
 Golpes registrados         = AST + 1
@@ -67,7 +64,7 @@ No rank 1, M é 1 — o multiplicador só começa a importar a partir do rank 2.
 
 ## 5. Arma
 
-Escolha uma. Ela define seu passo inicial na [[⚔️ Combate|Escada de Dano]]: desarmado −2 (`1d3`), leve −1 (`1d4`), média 0 (`1d6`), pesada +1 (`1d8`). O dano soma FOR.
+Escolha uma. Ela define **o dado do seu golpe corpo a corpo** (tabela em [[⚔️ Combate|Combate]]): desarmado/improvisada `d4`, leve `d6`, média `d8`, pesada `d10`. O dano soma FOR.
 
 **Sem Gu de Força ou Transformação ativo, o dano melee não multiplica por nada** — é humano batendo em humano. Isso é normal no rank 1 e é o que o primeiro Gu vai mudar.
 
@@ -88,10 +85,10 @@ Uma frase ligando seu personagem ao personagem de **outro jogador**, e ela preci
 | Campo | Vem de |
 |---|---|
 | Nome, Origem, conceito | Passo 1 |
-| Aptidão %, Grau, e o que você negociou | Passo 2 |
+| Aptidão % e Grau | Passo 2 |
 | FOR / CON / DES / AST / VON / CAR | Passo 3 |
 | Vitalidade, Alma, Essência, Defesa, acertos, limites de Gu | Passo 4 |
-| Arma e passo na Escada | Passo 5 |
+| Arma e o dado dela | Passo 5 |
 | Rank 1, Estágio Inicial | Sempre, pra todo personagem novo |
 | Gu | **vazio** — vem em jogo |
 | Vínculo | Passo 7 |

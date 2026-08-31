@@ -98,7 +98,7 @@ Faça a conta de um lote de **Jade Fria Yin**: 25 Cargas = **2.500 pontos de ess
 >
 > A leitura de mesa: **a essência gasta em Condensação é sempre a essência que sobrou.** Se o jogador está condensando enquanto deveria estar lutando, ele está jogando errado — não porque a mesa proíbe, mas porque a matemática já cobrou.
 
-**A exceção deliberada: Sangue a 50%.** O Caminho do Sangue tem ×0,5 no custo, então o Coral condensa com metade das Cargas e é o único material que quase se paga. O contrapeso é duplo e obrigatório: cada lote **custa `1d6 × M` de Vitalidade** além das Cargas (o combustível é o corpo, não a Abertura — coerente com o [[🏛️ Arquitetura do Sistema|modificador de Sangue]]), e **vender Coral de Sangue é crime capital em qualquer facção ortodoxa**. O material mais lucrativo do sistema é o que te enforca. Isso é o Caminho do Sangue funcionando como deve.
+**A exceção deliberada: Sangue a 50%.** O Caminho do Sangue tem ×0,5 no custo, então o Coral condensa com metade das Cargas e é o único material que quase se paga. O contrapeso é duplo e obrigatório: cada lote **custa `M d6` de Vitalidade** além das Cargas (o combustível é o corpo, não a Abertura — coerente com o [[🏛️ Arquitetura do Sistema|modificador de Sangue]]), e **vender Coral de Sangue é crime capital em qualquer facção ortodoxa**. O material mais lucrativo do sistema é o que te enforca. Isso é o Caminho do Sangue funcionando como deve.
 
 **Material condensado é puro e chato.** Todo material desta tabela carrega a impressão de **um único cultivador**, e qualquer comprador competente percebe (AST CD 14). Isso corta o preço em relação ao material natural equivalente — e dá o bônus: material condensado **sempre conta como "Materiais puros"** pra efeito de vantagem no [[🧩 Refino e Precificação|Refino]], sem pagar os 50% a mais de Pedras.
 
@@ -167,7 +167,7 @@ Forjar consome **Força de Alma em homens** ([[👻 Caminho da Alma|Caminho da A
 | 1d6 | O que acontece |
 |---|---|
 | 1–2 | **Molde vazio.** A Força se perde, o item não sai. Nada mais |
-| 3–4 | **Recuo.** O acima, mais `2d6 × M` de dano de **Alma** (ignora RD e armadura) e **+2 de Contaminação** |
+| 3–4 | **Recuo.** O acima, mais `(2 × M) d6` de dano de **Alma** (ignora RD e armadura) e **+2 de Contaminação** |
 | 5 | **Fenda.** O acima, e a Alma máxima cai **−1 permanente** |
 | 6 | **Vazamento.** O acima, e o item **sai vivo e errado**: um construto hostil de rank igual ao seu −1 aparece na cena e não te obedece. Ele sabe o que você fez |
 
@@ -222,7 +222,7 @@ A produção acontece em **tempo interno**, então o fluxo de tempo da terra já
 
 *PP = Pedras Primordiais (moeda mortal). PEI = Pedras de Essência Imortal.*
 
-**A camada 2 é autoconsumo, não renda.** Ela zera a despesa de alimentar os próprios Gu Imortais (~10 PEI/ano pra um rank 6 típico) e nada mais. Vender a produção da camada 2 significa **deixar os próprios Gu Imortais com fome** — ver [[🍖 Sustento e Alimento|Sustento e Alimento]].
+**A camada 2 é autoconsumo, não renda.** Ela zera a despesa de alimentar os próprios Gu Imortais (**~2 PEI/ano** pra um rank 6 típico: 1 Ração de 10 PEI a cada 5 anos) e nada mais. Vender a produção da camada 2 significa **deixar os próprios Gu Imortais com fome** — ver [[🍖 Sustento e Alimento|Sustento e Alimento]].
 
 **A escada é quadrática de propósito.** A qualidade entra duas vezes: uma pelo tamanho/fertilidade e outra pelo fluxo de tempo. Uma terra Especial produz **nove vezes** o que uma Comum produz na mesma camada. Isso é coerente com [[💠 Economia das Pedras Primordiais|Economia das Pedras Primordiais]], onde a riqueza salta ordens de grandeza junto com o poder — e é a razão mecânica pela qual a distribuição das 10 Porções na Ascensão define o personagem por séculos.
 

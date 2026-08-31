@@ -139,7 +139,7 @@ VÍNCULO           1 por personagem · vantagem 1×/sessão · quebrar vira Déb
 
 **Calibragem central:** três golpes de um Gu do próprio rank derrubam alguém com CON 0, antes de RD.
 
-**Golpe Matador:** cada apoio dá +1 Nível ao núcleo (até +3; +6 num coletivo de 4). **Brecha obrigatória.** Custo `= (soma dos custos) × (nº de Gu)`, **×2 se híbrido**. Teste `d20 + AST + domínio` vs `12 + 2×(nº de Gu)`, com Retaliação em caso de falha.
+**Golpe Matador:** cada apoio dá +1 Nível ao núcleo, até o **Teto de Combo do estágio menos um** (Inicial +1 · Médio +2 · Alto +3 · Pico +4); +6 num coletivo de 4. **Brecha obrigatória.** Custo `= (soma dos custos) × (nº de Gu)`, **×2 se híbrido**. Teste `d20 + AST + domínio` vs `12 + 2×(nº de Gu)`, com Retaliação em caso de falha.
 
 ---
 
@@ -152,7 +152,7 @@ As fórmulas acima estão fechadas de propósito — sem exceções, sem casos d
 | Atributos, os 12 pontos, o que cada um faz | [[💪 Atributos]] |
 | Vitalidade, Alma, Ferimento, cura, Teste de Morte | [[❤️ Recursos e Dano]] |
 | Defesa, Acerto, CD, ordem de turno | [[⚔️ Combate]] |
-| A caixa do **dano**, M, B, Níveis de Dano, RD, rolagem rápida | [[⚔️ Combate]] |
+| A caixa do **dano**, M, B, Níveis de Dano, RD | [[⚔️ Combate]] |
 | Dano melee, armas | [[⚔️ Combate]] |
 | **Dado por Caminho** — por que Alma é d12 e Terra é d6 | [[🛤️ Os Caminhos]] |
 | Essência, custo de ativação, manutenção, regeneração | [[🪜 Ranks e Estágios]] |

@@ -87,7 +87,7 @@ A frase certa depois de uma vitória é: *"conseguimos... e olha o que custou."*
 
 **Regra 1 — Você começa SEM nenhum Gu.** O primeiro Gu é conquistado **jogando**, na primeira ou segunda sessão. Não é uma escolha de ficha: é uma cena, e vai ser lembrada a campanha inteira.
 
-**Regra 2 — Existe um orçamento só: 12 pontos.** Eles compram atributos e podem negociar sua Aptidão. Não compram Gu, itens nem dinheiro extra.
+**Regra 2 — Existe um orçamento só: 12 pontos.** Eles compram **atributos**, e nada mais: não compram Gu, itens, dinheiro extra — nem Aptidão. A Aptidão é rolada e é definitiva.
 
 **Os seis atributos** (de −1 a +4):
 - **FOR** — briga corpo a corpo
@@ -104,8 +104,8 @@ Custo: 1 ponto por degrau até +3; de +3 pra +4 custam 2. Descer um atributo a �
 # 📋 Montando a ficha (sessão zero, juntos)
 
 1. **Conceito e Origem** — quem você era antes do Despertar. O mestre apresenta as 5 origens na mesa.
-2. **Aptidão** — role `1d80+20` na frente de todos. Depois dá pra negociar o número gastando ou ganhando pontos de criação.
-3. **Atributos** — distribua os 12 pontos (ou o que sobrou).
+2. **Aptidão** — role `1d80+20` na frente de todos. **O número que sair é definitivo**: não dá pra negociar com pontos de criação.
+3. **Atributos** — distribua os 12 pontos.
 4. **Números derivados** — a mensagem 8 tem as contas. São cinco minutos.
 5. **Arma** — escolha uma arma simples. É o que você tem.
 6. **Vínculo e amarras** — as três linhas do rodapé da ficha, e nenhuma é opcional. A **primeira** é o **Vínculo**, e é a única com regra: um laço declarado com o personagem de **outro jogador** — uma vez por sessão, agir por causa dele aceitando um custo real te dá **vantagem** num teste (e quebrar o Vínculo vira uma dívida em favor de quem foi deixado). As outras duas são **laços de ficha, sem mecânica**: quem no mundo importa pra você, e o que te faria trair. O mestre usa as três.

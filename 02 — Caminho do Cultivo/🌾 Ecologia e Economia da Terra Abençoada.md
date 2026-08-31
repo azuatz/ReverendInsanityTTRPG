@@ -53,7 +53,7 @@ Grau (S)      = o nível de domínio nesse Caminho:
 | Sintonia | Clima e relevo | Prospera | **Rejeita** |
 |---|---|---|---|
 | **Fogo** | Vulcânico, ar seco, céu vermelho permanente | Flora ígnea, feras de magma, veias de enxofre e minério fundido | **Água · Gelo** |
-| **Água / Gelo** | Arquipélago, névoa, ou tundra sem verão | Flora aquática, feras de escama, pérola e coral imortal | **Fogo** |
+| **Água / Gelo** | Arquipélago, névoa, ou tundra sem verão | Flora aquática, feras de escama, pérola e coral imortal | **Terra** |
 | **Madeira** | Floresta antiga sem clareira | Ervas imortais, feras herbívoras, seiva e madeira-espírito | **Metal** |
 | **Metal** | Cordilheira nua, veios expostos | Pouca flora, muitas veias. **+1 veia mineral de graça** | **Fogo** |
 | **Terra** | Planalto, cânion, caverna profunda | Fungos imortais, feras cavadoras, jade e minério comum | **Madeira** |
