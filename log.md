@@ -566,8 +566,8 @@ Pedido direto do autor: sistema de hordas gigantes pros Reis Fera canônicos. No
 ## [2026-08-31] crítica | Correções do playtest de leitura aplicadas no Guia do Mestre
 Dos 5 tropeços do [[🔍 Playtest de Leitura — Mestre Novo (2026-08-31)]], os 3
 mecânicos corrigidos direto no [[🎓 Guia do Mestre Iniciante]]: tabela de
-composições da Parte 7 sincronizada com os números vigentes de [[⚔️ Ameaças
-Genéricas por Rank]] (incluindo o limite de Alma que faz parte dos números e o
+composições da Parte 7 sincronizada com os números vigentes de
+[[⚔️ Ameaças Genéricas por Rank]] (incluindo o limite de Alma que faz parte dos números e o
 aviso "Chefe contra rank 1 = 4%, não faça"); régua da Horda consertada na cena-
 modelo da Parte 3 (8 vivos = d8, não d10, com a queda pra d6 narrada); e
 "Nível de Dano" ganhou definição inline na Parte 2, no ponto onde travava a
@@ -581,3 +581,15 @@ adendo do autor: ecologia viva, geração de essência, local de refino e o bloc
 de Cicatrizes das tribulações). Pacote Discord ganhou o canal privado com as
 Mensagens 9–11 (Fenda segurada até a 1ª Ascensão); nota-mãe 🧰 Modelos e Mapa
 atualizados. Zero regra nova; decisão 201.
+
+## [2026-08-31] simulação | Oitava rodada — bateria de grupo nos ranks imortais (decisão 202)
+Primeira bateria grupo × cena nos ranks 6-9 (2 perfis de densidade de Marca ×
+5 composições × 3.000 iterações, `2026-08-31-oitava-rodada-ranks-imortais.py`,
+motor da sétima rodada com o PJ imortal generalizado). Achado: a escada de
+dificuldade mortal colapsa — toda cena imortal ≥93% de vitória (Clímax rank 6:
+77-85%) e a dificuldade inverte com o rank; diagnóstico instrumentado aponta o
+acerto dos moldes (+1/rank vs Defesa +2/rank) como causa dominante. Sem
+estagnação no rank 9 (timeout ≤0,1%). Nada corrigido — pendência nomeada em
+"Em aberto" pro autor. Também consertados 3 wikilinks quebrados por quebra de
+linha no próprio log.md (entradas das decisões 195-197 e do playtest de
+leitura — o bug recorrente do vault).

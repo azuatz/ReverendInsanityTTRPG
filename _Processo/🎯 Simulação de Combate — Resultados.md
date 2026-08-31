@@ -11,6 +11,8 @@ escopo: processo
 # 🎯 Simulação de Combate — Resultados
 
 > [!important] Rodada mais recente
+> A **oitava rodada** ([[#🏰 Oitava rodada — bateria de grupo nos ranks imortais (2026-08-31)|2026-08-31]]) fecha a última lacuna de cobertura: a primeira bateria de **grupo × cena nos ranks imortais (6-9)**, com dois perfis de densidade de Marca por rank. Achado principal: **a escada de dificuldade das composições mortais colapsa acima do rank 5** — quase toda cena vira ≥93% de vitória do grupo, e a dificuldade *cai* conforme o rank sobe. O dial de dificuldade imortal é o **diferencial de nível de domínio** (ΔB), não a composição — registrado como pendência nomeada pro autor, sem mexer nas tabelas.
+>
 > A **sétima rodada** ([[#🔁 Sétima rodada — cura real remedida (2026-08-31)|2026-08-31]]) remede a bateria completa da sexta rodada trocando a heurística de cura (`M d8`, sem limite) pelo Gu real da ficha do Lee (**Gu do Broto Restaurador**, decisão 155: `M d6`, uma vez por cena) — fechando a pendência de "Em aberto" que a decisão 155 tinha deixado. **Nenhum número da sexta rodada precisou mudar de leitura**: as diferenças ficam dentro do ruído de Monte Carlo já aceito no vault (a maior é de ~6pp, a maioria 1-4pp), sem nenhuma composição cruzando de "ganhável" para "perda na maioria das vezes" ou vice-versa. A sexta rodada permanece como registro de referência do motor completo (Golpe Matador Coletivo, controle, terreno); a sétima só substitui a peça de cura.
 >
 > A **sexta rodada** ([[#🏁 Sexta rodada — validação completa pós-decisão 133 (2026-08-31)|2026-08-31]]) é a validação final do motor **completo** — decisões 103 a 145, com as composições de cena JÁ corrigidas (Padrão/Difícil por limite de Alma e por rank, decisões 135-137) e as quatro peças que nenhuma rodada anterior tinha modelado: **Golpe Matador Coletivo**, **cura** (com taxa de acionamento medida), **condições de controle** (Lentidão, implementada pela primeira vez) e **terreno** (com a composição atual de "Difícil"). Cobre ranks 1-5 (rank 4 pela primeira vez) e revalida o cenário duplo-gênio de rank 6. A quinta rodada logo abaixo continua valendo como o registro de quando o motor v2 pós-decisão 133 foi medido pela primeira vez, e como referência de comparação. As rodadas 1-4 mais abaixo são auditoria histórica do motor v1/v2 inicial — os números delas **não** descrevem o sistema como ele é hoje.
@@ -368,6 +370,81 @@ Rodadas junto com a bateria principal (mesmo script), para registro — nenhuma 
 | Terreno · Difícil rank 3, neutro | 49,3% | 50,7% | Ruído |
 
 Nenhuma leitura qualitativa das seções de Golpe Matador Coletivo, Controle, Terreno ou Fratura da Abertura muda sob a cura real — os achados e recomendações já registrados na sexta rodada continuam valendo como estão.
+
+---
+
+## 🏰 Oitava rodada — bateria de grupo nos ranks imortais *(2026-08-31)*
+
+Fecha a última lacuna de cobertura da simulação: os ranks 1-5 têm bateria completa de grupo (rodadas 5-7), mas nos ranks imortais só existiam o cenário-Chefe do duplo-gênio (rank 6, decisão 133) e um duelo 1v1 (rank 8, decisão 164) — **nunca uma bateria grupo × cena**. Esta rodada roda os 4 PJs contra as 5 composições de [[⚔️ Ameaças Genéricas por Rank]] nos ranks **6, 7, 8 e 9**, em dois perfis de densidade de Marca por rank. Script: [[simulacoes/2026-08-31-oitava-rodada-ranks-imortais.py|_Processo/simulacoes/2026-08-31-oitava-rodada-ranks-imortais.py]] (cópia do motor da sétima rodada com o `make_pc(imortal=True)` generalizado — nada do motor reescrito). 3.000 iterações por célula, semente `20260830`, MAX_ROUNDS 20 (timeout conta como derrota; taxa medida em separado).
+
+### Premissas (resumo — a versão completa está no cabeçalho do script)
+
+- **Nível de domínio por rank × perfil**, tirado da escada e dos tetos de [[☯️ Marcas de Dao]] (decisões 194/195):
+
+| Rank | **Recém-chegado** | **Denso** (veterano do rank) |
+|---|---|---|
+| 6 | Vislumbre (B+0) — entra com 800-900 Marcas | Pequeno Feito (B+1) — o teto de 9.999 do rank 6 não passa disso (decisão 194; Mestre no rank 6 só via gênio pobre, que é exceção) |
+| 7 | Mestre (B+2) — especialista recém-convertido cruza os 10.000 | Grão-Mestre (B+3) — teto 99.999 |
+| 8 | Grão-Mestre (B+3) — chega com ~100.000 num Caminho | Quase-Supremo (B+4) — teto 299.999; **nenhum rank 8 é Grande Mestre Supremo** (decisão 195) |
+| 9 | Grande Mestre Supremo (B+5, **pool 2×M**) — o GMS nasce no rompimento pra Venerável (decisão 195), então **todo** rank 9 já é GMS | idem — a escada satura; os dois perfis coincidem por regra, e as diferenças medidas entre as duas linhas são ruído de reamostragem |
+
+- **PJs especialistas** no Caminho de assinatura (a norma canônica); dado de ataque com o upgrade imortal da sexta rodada (+2 passos, teto d12). O pool 2×M do GMS segue a Escada de [[⚔️ Combate]] (bônus `M×B` **não** dobra — mesmo modelo da decisão 164).
+- **Inimigos com o mesmo B do grupo** (recém enfrenta recém, denso enfrenta denso) — é a instrução da própria nota de Ameaças ("declare rank + nível de domínio"); o molde Elite B+0 bate com o exemplo publicado "Imortal Recém-Ascendido" (VIT 672). No rank 9, inimigos também GMS (B+5, pool 2×M).
+- **Essência imortal**: mantida a simplificação documentada da sexta rodada (fator do estágio Pico mortal por analogia) — o Log não tem fórmula de pool de essência imortal, só o grau econômico (Uva Verde → Damasco).
+- **Golpe Matador**: `golpe_mode="solo"`, o padrão da bateria (o coletivo é desespero tardio, decisão 161).
+
+### Tabela — perfil Recém-chegado *(vitória do grupo · sobreviventes médios de 4)*
+
+| Cena | rank 6 · Vislumbre (B+0) | rank 7 · Mestre (B+2) | rank 8 · Grão-Mestre (B+3) | rank 9 · GMS (B+5, 2×M) |
+|---|---|---|---|---|
+| **Fácil** | 100% · 4,00 | 100% · 4,00 | 100% · 4,00 | 100% · 3,98 |
+| **Padrão** | 100% · 3,48 | 100% · 3,38 | 100% · 3,47 | 100% · 3,45 |
+| **Padrão pesado** | 100% · 3,72 | 99,9% · 3,61 | 100% · 3,66 | 99,2% · 3,27 |
+| **Difícil** | 96,3% · 2,57 | 97,9% · 2,52 | 99,2% · 2,70 | 94,0% · 2,43 |
+| **Clímax** | 77,1% · 1,64 | 97,1% · 2,52 | 99,9% · 2,96 | 100% · 3,35 |
+
+### Tabela — perfil Denso *(vitória do grupo · sobreviventes médios de 4)*
+
+| Cena | rank 6 · P. Feito (B+1) | rank 7 · Grão-Mestre (B+3) | rank 8 · Quase-Supremo (B+4) | rank 9 · GMS (B+5, 2×M) |
+|---|---|---|---|---|
+| **Fácil** | 100% · 4,00 | 100% · 4,00 | 100% · 4,00 | 100% · 3,98 |
+| **Padrão** | 100% · 3,33 | 100% · 3,34 | 100% · 3,43 | 100% · 3,46 |
+| **Padrão pesado** | 99,9% · 3,56 | 99,9% · 3,49 | 99,9% · 3,54 | 99,5% · 3,29 |
+| **Difícil** | 94,5% · 2,33 | 97,5% · 2,40 | 98,7% · 2,62 | 93,1% · 2,41 |
+| **Clímax** | 85,0% · 1,87 | 98,1% · 2,63 | 99,9% · 3,04 | 100% · 3,33 |
+
+### 🔴 Achado principal — a escada de dificuldade mortal COLAPSA nos ranks imortais
+
+Na fase mortal a escada entrega gradação de verdade (sétima rodada: Difícil 34-67%, Clímax 3-89%). Nos ranks imortais, **toda cena vira ≥93% de vitória, nos dois perfis** — a única exceção é o Clímax de rank 6 (77,1% recém / 85,0% denso), e mesmo ele está acima de qualquer Clímax mortal. "Difícil" e "Clímax" imortais jogam como o "Padrão" mortal; a gradação sobrevive só como **atrito de recursos** (sobreviventes médios ainda ordenam as cenas: 4,0 → ~3,4 → ~2,5) — não como risco real de derrota.
+
+Pior: **a dificuldade INVERTE com o rank** — Clímax vai de 77% (rank 6) pra 97% (7), 99,9% (8) e 100% (9). Quanto mais alto o rank, mais trivial a cena.
+
+**Diagnóstico — são duas assimetrias estruturais entre PJ e molde de inimigo**, medidas em isolamento (perfil recém-chegado; não é proposta de regra, é instrumentação):
+
+| rank · cena | moldes atuais | inimigo com dado imortal (+2 passos) | inimigo com acerto 2/rank | as duas juntas |
+|---|---|---|---|---|
+| 6 · Difícil | 96,9% | 83,8% | 49,3% | 13,1% |
+| 6 · Clímax | 75,2% | 44,1% | 8,9% | 1,1% |
+| 8 · Difícil | 99,1% | 95,3% | 11,2% | 3,2% |
+| 8 · Clímax | 99,7% | 98,6% | 48,8% | 25,5% |
+
+1. **Acerto do inimigo escala +1/rank; a Defesa de PJ escala +2/rank** (decisão 10). Na fase mortal a diferença acumulada é pequena; no rank 9 o inimigo físico só acerta com ~25-35% enquanto o PJ acerta ~100%. É a assimetria dominante — sozinha, devolve Difícil/Clímax pra faixa mortal (e no rank 8 já passa do ponto, 11-49%).
+2. **Os PJs imortais ganham upgrade de dado (+2 passos, teto d12); os moldes ficam no d8/d10 mortal** — um Mestre de Gu inimigo de rank 9 ainda ataca com d8. Efeito secundário (5-31pp), mas real.
+
+O ataque de **Alma é a exceção que confirma**: a Defesa de Alma escala +1/rank (igual ao acerto do inimigo), então a especial de Alma continua acertando a mesma fração em todo rank — é o único dano inimigo que não derrete, e é por isso que "Padrão pesado" (2 especiais de Alma) ainda arranha no rank 9 (99,2-99,5%, as únicas células não-100% fora de Difícil/Clímax).
+
+### O dial que funciona nos ranks imortais é o ΔB, não a composição
+
+Recém-chegado e denso produzem números **quase idênticos** — quando os dois lados sobem de densidade juntos, o B cancela. O que muda tudo é o **diferencial** de nível de domínio, e a âncora desta rodada (o duplo-gênio da decisão 133, rerodado no mesmo binário: **6,2%** com ΔB+3; **19,5%** com ΔB+1; 7ª rodada: 6,5%/19,8%) mostra a escada real: **ΔB 0 → 77-100% · ΔB+1 → ~20% · ΔB+3 → ~6%**. O aviso já publicado em [[⚔️ Ameaças Genéricas por Rank]] ("o duplo-gênio é sentença, não encontro") é o caso particular; o geral é: **nos ranks imortais, dificuldade se dosa por densidade de Marca do inimigo, não por quantidade de inimigo**.
+
+### O que NÃO quebrou
+
+- **Sem estagnação no rank 9**: timeout ≤0,1% em todas as 40 células, mesmo com pools de 512 dados (crítico: 1.024) — o piso de RD cresce com M mas os pools crescem com M × dado, então nenhuma composição congela. A preocupação da premissa 6 (travamento por RD/pool gigante) **não se materializou**.
+- **Fácil continua fazendo o serviço de cena de abertura** (100%, 4/4 de pé) — igual à fase mortal.
+- **A âncora confere com a sétima rodada** (deltas de 0,3pp) — o motor é o mesmo; os números novos vêm das premissas imortais, não de regressão.
+
+> [!warning] Nenhuma tabela foi corrigida — isto é achado pra decisão do autor, não correção mecânica
+> As composições de [[⚔️ Ameaças Genéricas por Rank]] foram escritas e calibradas pra fase mortal, e esta rodada mostra que elas **não transferem** pros ranks 6-9 como estão. Consertar exige escolher entre caminhos com cara de regra nova (escalar o acerto/dado dos moldes imortais? uma tabela de composição própria pra rank 6+? declarar que cena imortal se dosa por ΔB e documentar isso na nota?) — registrado como pendência nomeada em "Em aberto" no [[🧭 Log de Decisões]] (decisão 202), junto com o diagnóstico acima.
 
 ---
 
