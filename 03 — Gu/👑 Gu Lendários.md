@@ -17,6 +17,10 @@ escopo: sistema
 
 **Como usar esta nota:** cada cadeia é uma linha de Combo-Refino completa, do rank 1 até pelo menos o rank 6 — várias continuam além disso, até rank 9. Um PJ pode encontrar qualquer degrau da cadeia (não só o topo) como tesouro de sessão; o Gu "lendário" propriamente dito só nasce no rank marcado **vira lendário aqui**. Números de dado/M seguem a fórmula normal de [[⚔️ Combate]] para o Caminho e o rank — nenhuma regra de combate nova, só entradas de Catálogo com árvore genealógica visível.
 
+> [!info] Duas notações usadas sem explicação abaixo
+> - **UV / JV / LB** são as moedas de Essência Imortal que substituem essência mortal a partir do rank 6 (Uva Verde no rank 6, Jujuba Vermelha no rank 7, Lichia Branca no rank 8) — cada uma vale 100 da anterior. Custo de ativação de Gu Imortal é pago nelas, não em essência comum. Regra completa e tabela em [[📖 Catálogo de Gu#Como funcionam os Gu Imortais|Catálogo de Gu]].
+> - **Marca de Dao** é o recurso de Imortal por Caminho (ex.: "uma Marca de Dao de Lua inteira", rank 7 da cadeia do Corte Sem Sombra) — gasto que **não volta com descanso**, só se recupera sobrevivendo a uma Calamidade ou Provação do Caminho. Regra completa em [[☯️ Marcas de Dao]].
+
 ---
 
 ## 🎲 Caminhos dos personagens da mesa
