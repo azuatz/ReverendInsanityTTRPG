@@ -631,3 +631,6 @@ números novos e sem a linguagem de limite de Alma (obsoleta); Guia do Mestre
 Iniciante e Conversão Medieval alinhados. Padrão r1 (62%) e Difícil r1-2
 (30/35%) ficam abaixo das faixas sem composição alcançável — fork em "Em
 aberto". Seção nova em [[🎯 Simulação de Combate — Resultados]].
+
+## [2026-08-31] ingest | Padrão escalado por rank e piso de ataques da Horda (decisão 207)
+Duas marteladas do autor sobre pendências de simulação, ambas em [[⚔️ Ameaças Genéricas por Rank]]. Padrão vira escalado por rank (2 Mestres + 1 Guerreiro no rank 1 = 92% medido; 3 Mestres do rank 2 em diante), fechando a pendência da décima rodada; Difícil de rank 1-2 aceito como quase-Clímax por decisão explícita, com o aviso de "células fora da faixa" substituído pela explicação das duas exceções. A Horda ganha piso de ataques (mínimo 2/rodada contra dois alvos, 3 contra um só), fechando a pendência da nona rodada — sem o piso, a nona mediu cena solo virando atrito de 10-19 rodadas. Fechados também no "Em aberto" os itens já resolvidos pela decisão 205 (composição imortal → régua ΔB). A terceira martelada (encurtar a duração das cenas pra 4-6 rodadas) virou a décima primeira rodada, em curso.

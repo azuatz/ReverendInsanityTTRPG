@@ -43,10 +43,12 @@ Recrutas individuais **morrem antes de agir**: um personagem do mesmo rank mata 
 | **Vitalidade** | `6 × M × (nº de membros)`, somada numa barra só |
 | **Defesa** | `10 + rank` |
 | **Acerto** | `d20 + rank + 6` — o `+2` é o cerco |
-| **Ataques por rodada** | **Um por personagem de pé.** Não é iniciativa individual, é estar cercado |
+| **Ataques por rodada** | **Um por personagem de pé — com piso de 2 contra dois alvos e 3 contra um alvo só.** Não é iniciativa individual, é estar cercado |
 | **Dano** | `M d6`, **e o dado sobe um tipo a cada 4 membros vivos acima dos 4 primeiros**: 4 a 7 membros `M d6` · 8 a 11 `M d8` · 12 a 15 `M d10` · 16 ou mais `M d12` (teto) |
 
 Uma horda de 8 bate em **`M d8`**; uma de 12, em **`M d10`**. Conforme perde Vitalidade, perde membros, e **o dado desce sozinho** — o grupo sente a horda enfraquecendo sem ninguém precisar contar corpos.
+
+**O piso existe porque oito feras cercando uma pessoa devem assustar, não cansar.** Sem ele, a nona rodada de simulação mediu a horda contra um alvo solitário virando guerra de atrito de 10 a 19 rodadas — um ataque por rodada contra uma parede de Vitalidade dimensionada para quatro. Com o piso, o cerco volta a ser cerco: quem fica sozinho contra a matilha sente o número dela.
 
 **Área é a resposta.** Um Gu de área contra uma horda tira Vitalidade da barra inteira; é a única situação do jogo em que dano em área supera dano concentrado, e é o que faz esses Gu valerem uma vaga na Abertura.
 
@@ -150,17 +152,19 @@ Os números entre parênteses são a **vitória medida do grupo** numa mesa de 4
 | Tipo de cena | **rank 1** | **rank 2** | **rank 3** | **rank 5** |
 |---|---|---|---|---|
 | **Fácil** | Horda de 8 *(100%)* | Horda de 8 *(100%)* | Horda de 8 *(100%)* | Horda de 8 *(100%)* |
-| **Padrão** | 3 Mestres de Gu *(62%)* ⚠️ | idem *(77%)* | idem *(85%)* | idem *(99%)* |
+| **Padrão** | **2 Mestres + 1 Guerreiro** *(92%)* | 3 Mestres de Gu *(77%)* | idem *(85%)* | idem *(99%)* |
 | **Padrão pesado** | 2 Mestres + Horda de 8 *(71%)* | idem *(64%)* | idem *(63%)* | idem *(85%)* |
-| **Difícil** | 3 Mestres + 1 Guerreiro *(30%)* ⚠️ | idem *(35%)* ⚠️ | idem *(46%)* | 4 Mestres *(38%)* |
+| **Difícil** | 3 Mestres + 1 Guerreiro *(30%)* | idem *(35%)* | idem *(46%)* | 4 Mestres *(38%)* |
 | **Clímax** | 1 Elite especial + 3 Mestres *(68%)*✝, ou Chefe + Guerreiro *(3%)* 🔴 | idem, Chefe + Guerreiro *(54%)* | 1 Elite especial + 3 Mestres *(44%)*✝, ou Chefe + Guerreiro *(86%)* | 1 Elite especial + 3 Mestres *(46%)*✝, ou Chefe + Guerreiro *(90%)* |
 
 *(✝ não retestado desde a terceira rodada — e sob a regra de Alma rara os 3 Mestres dessa variante também mudam de especial, então o número está duplamente desatualizado.)*
 
 **Os números acima já assumem a regra de Alma rara** (décima rodada de simulação): todo Mestre de Gu com a Ação Especial do próprio Caminho, e o cultivador de Alma entrando só pela exceção rolada de 1d6 (ver o molde acima). Contraintuitivo mas medido: **tirar o Alma do padrão deixou as cenas um pouco MAIS difíceis, não mais fáceis** (2-10 pontos) — uma especial de Alma isolada gasta o golpe numa barra que nada mais ataca, enquanto a especial física soma no foco de fogo e aplica Lentidão com mais frequência. Histórico completo em [[🎯 Simulação de Combate — Resultados#🔇 Décima rodada — Alma rara entre inimigos (2026-08-31)|a décima rodada]].
 
-> [!warning] ⚠️ Três células fora da faixa histórica — pendente de decisão do autor
-> Sob Alma rara, **Padrão no rank 1 (62%)** cai abaixo da faixa-alvo de 75-99%, e **Difícil nos ranks 1-2 (30%/35%)** abaixo da de ~40-52% — e o penhasco de ações (decisão 137) não deixa nenhuma composição intermediária com as peças existentes: no Padrão rank 1 a opção seguinte (2 Mestres + 1 Guerreiro) salta pra 92%, e no Difícil rank 1 tirar o Guerreiro salta pra 62%. As opções medidas estão em "Em aberto" no [[🧭 Log de Decisões]]; até lá, os números publicados acima são a realidade medida das composições como escritas.
+> [!note] Duas exceções por rank, e as duas são deliberadas
+> **Padrão muda de composição no rank 1** (2 Mestres + 1 Guerreiro em vez de 3 Mestres) pelo mesmo motivo que Difícil já muda desde a decisão 137: o penhasco de volume de ações não deixa composição intermediária, e 3 Mestres no rank 1 dão 62% — abaixo da faixa de 75-99% que "Padrão" promete. Do rank 2 em diante, 3 Mestres volta a ser a composição certa.
+>
+> **Difícil nos ranks 1-2 (30%/35%) é quase-Clímax, e está aceito assim** (decisão do autor): nessa faixa o grupo ainda não tem arsenal pra amortecer 7 ações por rodada, e a cena Difícil de rank baixo é legitimamente a mais perigosa da fase inicial. Se a mesa quiser algo mais suave ali, use Padrão pesado (71%/64%) — não existe degrau entre os dois com as peças atuais.
 
 **Clímax é o único nível onde uma cena inteira de cultivadores de Alma é intencional.** É lá, e só lá, que o alfa-strike total contra as quatro barras de Alma do grupo deve acontecer — a promessa do Caminho da Alma ("ignora RD por completo", [[👻 Caminho da Alma]]) continua absoluta; a regra de Alma rara muda a **frequência** do inimigo de Alma, não o poder dele. Fora do Clímax, cultivador de Alma inimigo é a exceção de 1d6 do [[#🧑‍🦱 Mestre de Gu — o inimigo humano|Mestre de Gu]] mais acima.
 
