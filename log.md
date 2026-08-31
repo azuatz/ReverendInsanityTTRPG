@@ -532,3 +532,10 @@ essência refeita no ritmo canônico — % do tanque por hora pelo Grau (D 2 · 
 notas; (d) nova seção "De que Caminho nasce a fenda" em [[♾️ A Ascensão
 Imortal]] costurando as decisões 39/42/84 que estavam soltas — Gu Vital ancora,
 trajetória confirma, primeiras Marcas selam, sem Marca prévia necessária.
+
+## [2026-08-31] crítica | Taxa essência↔Pedra unificada em 20, Formações reprecificada (decisão 198)
+Aprovação do autor sobre a recomendação do "Em aberto": a taxa passa a ser uma
+só no sistema inteiro (1 pedra ≈ 20, a de Refino/Materialização); a tabela de
+manutenção de [[🔷 Formações de Gu]] convertia a 40 e foi reprecificada — custo
+em essência intacto, equivalente em pedras dobrou (grau IV: 100/dia, 3.000/mês),
+calibragem econômica reescrita junto.

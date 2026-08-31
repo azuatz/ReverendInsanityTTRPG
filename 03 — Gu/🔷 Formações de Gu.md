@@ -68,16 +68,16 @@ Manutenção da Formação = (Gu-núcleo + Gu de apoio)² × 5 de essência,
                           UMA VEZ POR DIA
 ```
 
-| Grau | Gu na matriz | Custo diário | Em Pedras Primordiais (1 pedra = 40 de essência) |
+| Grau | Gu na matriz | Custo diário | Em Pedras Primordiais (1 pedra ≈ 20 de essência — a taxa única do sistema, ver [[🧩 Refino e Precificação]]) |
 |---|---|---|---|
-| I | 3 | 45 | ~2 pedras/dia |
-| II | 6 | 180 | ~5 pedras/dia |
-| III | 11 | 605 | ~16 pedras/dia |
-| IV | 20 | **2.000** | **50 pedras/dia** |
+| I | 3 | 45 | ~2–3 pedras/dia |
+| II | 6 | 180 | ~9 pedras/dia |
+| III | 11 | 605 | ~30 pedras/dia |
+| IV | 20 | **2.000** | **100 pedras/dia** |
 
 **Quem paga:** qualquer fonte de essência ancorada — o fundador em reclusão, um veio de essência natural, um tesouro de Pedras Primordiais, ou um turno de discípulos alimentando a matriz. Ver [[💠 Economia das Pedras Primordiais|Economia das Pedras Primordiais]].
 
-> **Calibragem contra a economia.** Uma Pedra Primordial sustenta **uma família de três pessoas por um mês**. Então: um grau I (2 pedras/dia) é despesa de um cultivador individual bem estabelecido; um grau III (16/dia) é o orçamento de uma família forte dentro de um clã; e um **grau IV (50/dia ≈ 1.500 pedras/mês) é o orçamento inteiro de um clã grande**, sustentável apenas por quem controla um Ponto de Origem. Isso é de propósito: formações de grau IV são propriedade de potências, e um grupo de jogadores que tomar uma vai descobrir que **manter** é mais difícil que conquistar.
+> **Calibragem contra a economia.** Uma Pedra Primordial sustenta **uma família de três pessoas por um mês**. Então: um grau I (~2–3 pedras/dia) é despesa de um cultivador individual bem estabelecido; um grau III (~30/dia ≈ 900 pedras/mês) já é orçamento de um clã médio inteiro; e um **grau IV (100/dia = 3.000 pedras/mês) engole o orçamento de um clã grande com folga**, sustentável apenas por quem controla um Ponto de Origem ou um veio de essência natural. Isso é de propósito: formações de grau IV são propriedade de potências, e um grupo de jogadores que tomar uma vai descobrir que **manter** é mais difícil que conquistar.
 
 **Formação sem pagamento** entra em Dormência ao fim do dia: nenhuma função opera, mas os Gu não morrem. Sete dias seguidos em Dormência e os Gu de apoio começam a morrer de fome (1 por dia — ver [[🍖 Sustento e Alimento|Sustento e Alimento]]).
 
