@@ -11,7 +11,7 @@ escopo: processo
 # 🎯 Simulação de Combate — Resultados
 
 > [!important] Rodada mais recente
-> A **quinta rodada** (2026-08-30, logo abaixo da ficha dos quatro personagens) mede o motor **atual** — decisões 103-133: crítico no 20, iniciativa rolada, essência sem regeneração em combate, as 41 conversões de Nível, a **Fratura da Abertura** e o **gênio pobre duplo do rank 6**. As rodadas 1-4 abaixo continuam no vault como auditoria histórica do motor v1/v2 inicial — os números delas **não** descrevem o sistema como ele é hoje.
+> A **sexta rodada** ([[#🏁 Sexta rodada — validação completa pós-decisão 133 (2026-08-31)|2026-08-31]]) é a validação final do motor **completo** — decisões 103 a 145, com as composições de cena JÁ corrigidas (Padrão/Difícil por limite de Alma e por rank, decisões 135-137) e as quatro peças que nenhuma rodada anterior tinha modelado: **Golpe Matador Coletivo**, **cura** (com taxa de acionamento medida), **condições de controle** (Lentidão, implementada pela primeira vez) e **terreno** (com a composição atual de "Difícil"). Cobre ranks 1-5 (rank 4 pela primeira vez) e revalida o cenário duplo-gênio de rank 6. A quinta rodada logo abaixo continua valendo como o registro de quando o motor v2 pós-decisão 133 foi medido pela primeira vez, e como referência de comparação. As rodadas 1-4 mais abaixo são auditoria histórica do motor v1/v2 inicial — os números delas **não** descrevem o sistema como ele é hoje.
 
 Auditoria quantitativa do sistema em Monte Carlo, **3.000 combates por cenário**, com os quatro personagens da mesa, rodada nos **ranks 1, 2, 3 e 5**.
 
@@ -151,6 +151,134 @@ Com o dano de Alma descartado como causa dominante, testei o eixo real — **nú
 **Não é uma rampa, é um penhasco.** Entre 6 e 8 ações a vitória do grupo despenca de ~90% pra ~13% — cada ação a mais custa 30-40 pontos percentuais, não uma fração proporcional. Nenhuma composição fixa cobre os 4 ranks dentro da faixa-alvo (50-75%, "mais difícil que Padrão, não pior que a maioria dos Chefes"): 7 ações funciona no rank 3 (52%) mas fica abaixo da faixa nos ranks 1-2 (~41%) e acima dela no rank 5 (85%); 8 ações só funciona (aproximadamente) no rank 5 (46%).
 
 **Resolução escolhida pelo autor:** "Difícil" escala por faixa de rank, pelo mesmo princípio que já rege o Chefe (nenhum número de ação é constante entre ranks) — **ranks 1-4: 3 Mestres (1 com Alma) + 1 Guerreiro** (42% · 40% · 52% nos ranks 1/2/3); **rank 5+: 4 Mestres (2 com Alma)** (46%). Aplicado em [[⚔️ Ameaças Genéricas por Rank]]. Alternativas descartadas: uma composição sem tabela fixa (o mestre mira o contador de ações ponderadas ao vivo) e aceitar "Difícil" como quase-Clímax nos ranks 1-3 — ambas cogitadas, o autor preferiu manter a tabela com números fixos por serem mais rápidas de usar na mesa.
+
+---
+
+## 🏁 Sexta rodada — validação completa pós-decisão 133 *(2026-08-31)*
+
+Validação final do dia: todas as mudanças de regra desde a quinta rodada (decisões 103 a 145) testadas juntas, nos 4 personagens da mesa, em **todos os ranks jogáveis (1-5)** com as composições de cena **atuais** de [[⚔️ Ameaças Genéricas por Rank]] (pós-correção das decisões 135-137), mais quatro peças que **nenhuma rodada anterior tinha modelado**: **Golpe Matador Coletivo**, **cura** (com taxa de acionamento medida pela primeira vez), **condições de controle** (Lentidão, implementada mecanicamente pela primeira vez) e **terreno** (contra a composição atual, não a antiga). Script: [[simulacoes/2026-08-31-validacao-completa.py|_Processo/simulacoes/2026-08-31-validacao-completa.py]], que estende o motor de [[simulacoes/2026-08-30-motor-v2-pos-decisao-133.py]] e [[simulacoes/2026-08-30-dificil-rank-escalado.py]] sem reescrever o que já estava certo. **3.000 iterações por cenário, limite de 20 rodadas, semente `20260830`** — mesmo padrão das rodadas anteriores.
+
+### Tabela completa — ranks 1 a 5, todos os tipos de cena
+
+| Cena | rank 1 | rank 2 | rank 3 | rank 4 *(inédito)* | rank 5 |
+|---|---|---|---|---|---|
+| **Fácil** — Horda de 8 | 100% · 4,00 | 100% · 4,00 | 100% · 3,99 | 100% · 3,99 | 100% · 3,99 |
+| **Padrão** — 3 Mestres, máx. 1 com Alma | 71,3% · 2,02 | 78,0% · 2,00 | 88,7% · 2,12 | **95,0% · 2,37** | 98,8% · 2,75 |
+| **Padrão pesado** — 2 Mestres (Alma) + Horda 8 | 77,4% · 2,25 | 73,5% · 2,09 | 75,1% · 2,05 | **76,6% · 2,05** | 91,7% · 2,76 |
+| **Difícil** — ranks 1-4: 3M(1 Alma)+1G · rank 5+: 4M(2 Alma) | 37,0% · 0,96 | 35,6% · 0,84 | 49,1% · 0,96 | **62,9% · 1,22** | 45,5% · 0,80 |
+| **Clímax** — Chefe + Guerreiro especial | 3,2% · 0,07 | 56,2% · 1,50 | 85,8% · 2,07 | **69,0% · 1,45** | 87,5% · 2,06 |
+
+*(vitória do grupo · sobreviventes médios de 4)*
+
+**Rank 4, medido pela primeira vez em qualquer rodada, não quebra nenhum padrão.** Padrão e Padrão pesado seguem a curva esperada (sobem suavemente com o rank). Difícil sobe para 62,9% dentro da mesma composição de rank 1-4 (3 Mestres + 1 Guerreiro) — consistente com o padrão já visto entre rank 1 (37%) e rank 3 (49%): a mesma composição fica relativamente mais fácil conforme o rank sobe dentro da faixa em que ela não muda — e cai de novo para 45,5% no rank 5 porque **a composição muda ali** (vira 4 Mestres, 2 com Alma, 8 ações em vez de 7). O salto não é um bug: é o "penhasco de composição" que a decisão 137 já descreveu, agora visível também na borda 4→5, não só na 3→4 antiga.
+
+**Clímax no rank 4 (69,0%) fica abaixo do rank 3 (85,8%) e do rank 5 (87,5%)** — mesmo formato de "vale" que a nota de Ameaças já registra para o Chefe (a dificuldade dele é regida por quantos Golpes Matadores o grupo paga naquele rank, não por ele mesmo: `CHEFE_ACOES` dá 2 ações no rank 3 mas 3 no rank 4-5, e o rank 4 ainda não tem a folga de essência do rank 5). Consistente com o texto já publicado ("nunca é uma escala limpa"); não é achado novo, é o rank que faltava confirmar o padrão.
+
+### Comparação com a quinta rodada, nos cenários que se sobrepõem
+
+| Cena | rank 1 | rank 2 | rank 3 | rank 5 |
+|---|---|---|---|---|
+| **Padrão** — 5ª rodada (corrigida) | 74,6% | 80,8% | 88,9% | 99,0% |
+| **Padrão** — 6ª rodada (motor completo) | 71,3% | 78,0% | 88,7% | 98,8% |
+| **Difícil** — publicado em [[⚔️ Ameaças Genéricas por Rank]] (decisão 137) | 42% | 40% | 52% | 46% |
+| **Difícil** — 6ª rodada (motor completo) | 37,0% | 35,6% | 49,1% | 45,5% |
+| **Clímax** — 5ª rodada | 3,5% | 56,6% | 85,9% | 87,4% |
+| **Clímax** — 6ª rodada (motor completo) | 3,2% | 56,2% | 85,8% | 87,5% |
+
+**A composição corrigida de "Difícil" continua valendo — a diferença de 3-5 pontos percentuais tem causa identificada, não é ruído nem regressão.** Clímax bate quase exatamente com a quinta rodada (diferenças de 0,1-0,4pp, dentro do ruído de Monte Carlo) porque o Chefe não usa Ação Especial e só há um Guerreiro aplicando Lentidão uma vez. Padrão e Difícil caem de forma pequena, mas **consistente e nova**: esta é a primeira rodada em que a Lentidão das Ações Especiais realmente custa a ação do alvo — as rodadas anteriores (motor v2 e a correção de composição) descreviam a Lentidão na ficha dos moldes, mas nunca a implementavam mecanicamente. Isso está confirmado pela seção de Controle abaixo (mesmo efeito, mesma direção, mesma ordem de grandeza). **Nada aqui indica que a tabela de composição da decisão 137 precisa mudar** — o efeito é pequeno o bastante para caber dentro da margem "não precisa cravar o número exato" que a própria decisão já usava.
+
+### 🤝 Golpe Matador Coletivo vs. Chefe
+
+Cenário dedicado: Clímax (Chefe + Guerreiro especial), comparando três aberturas — **nenhum Golpe Matador**, **solo** (só o Xie Lang, como nas rodadas 5-6 anteriores) e **coletivo** (os 4 PJs, [[⚡ Golpes Matadores#🤝 Golpe Matador Coletivo]], peça nova desta rodada).
+
+| Rank | Nenhum golpe | Solo (Xie Lang) | **Coletivo (4 PJs)** |
+|---|---|---|---|
+| 1 | 2,9% | 3,2% | 2,8% |
+| 2 | 54,5% | 54,4% | **2,5%** |
+| 3 | 86,2% | 86,8% | **49,8%** |
+| 4 | 73,0% | 70,6% | **30,2%** |
+| 5 | 87,5% | 86,7% | **50,0%** |
+
+> [!warning] Achado a sinalizar — Golpe Matador Coletivo é uma jogada de risco altíssimo pra esta mesa, se usado de abertura
+> **Disparar o coletivo automaticamente no início de todo Clímax é PIOR do que não usá-lo, em todo rank a partir do 2.** A causa é matemática, não é bug de script: a CD de conjuração de um coletivo de 4 é **22** (a linha "5 Gu, coletivo" da tabela em [[⚡ Golpes Matadores]]), e mesmo aplicando o modificador **−2** de "rodada inteira de preparação sem ser incomodado" (que se aplica aqui, porque o combo é lançado antes de qualquer troca de golpe na cena), a CD efetiva fica em **20** contra um teste de `d20 + AST`. O maior AST da mesa é **+2** (Xie Lang) — ou seja, **só um 18, 19 ou 20 natural passa: 15% de chance.** Nos outros 85%, o grupo perde a rodada inteira de ação de todo mundo, o núcleo (Xie Lang) fica sem o próprio Gu de ataque pelo resto da cena, e os 4 tomam um corte de 15% no teto de Vitalidade (Retaliação de golpe híbrido, distribuída a todos os participantes por regra explícita da nota). Numa cena que já era enforcável (rank 2, 54%), isso derruba a vitória do grupo pra **2,5%**.
+>
+> **Isto não é um efeito pequeno nem um capricho do motor — é a mesma lição que a decisão 71 já registrou pro Golpe Matador solo ("disparar contra o alvo errado perde a luta"), elevada ao quadrado**: o coletivo tem CD mais alta que qualquer combo solo pagável nesta mesa mortal (nenhum dos 4 PJs tem nível de domínio de Marcas de Dao pra somar ao teste — isso só existe a partir do rank 6), então ele nunca deveria ser a abertura padrão de um Clímax nesta faixa de rank. **Sugestão para o autor, sem aplicar sozinho:** ou (a) documentar explicitamente que o coletivo é jogada de **desespero tardio** (só depois que a cena já está perdida e não há mais nada a proteger), nunca abertura, ou (b) revisar a CD do coletivo pra fase mortal — por exemplo, um desconto quando os 4 participantes já lutaram juntos antes (o equivalente coletivo do −4 "golpe já registrado com sucesso"), já que atualmente nada na regra dá a um grupo mortal um caminho realista pra essa CD ficar alcançável antes da Ascensão.
+
+### ❤️ Cura — taxa de acionamento e a lacuna na ficha
+
+Confirmado: o motor usa `roll_pool(pc["M"], 8)` — **`M d8`, batendo com a decisão 14.** O bug de `M d10` que a Folha de Referência tinha foi corrigido pela decisão 102 e não reapareceu aqui.
+
+| Cenário | Disparos / Oportunidades | Taxa de acionamento |
+|---|---|---|
+| rank 1, Difícil | 5.880 / 7.294 | **80,6%** |
+| rank 3, Difícil | 8.676 / 8.721 | **99,5%** |
+| rank 3, Clímax | 9.999 / 10.027 | **99,7%** |
+| rank 5, Difícil | 8.276 / 8.313 | **99,6%** |
+
+**A cura dispara quase toda vez que é preciso, exceto no rank 1** (80,6%) — onde a Essência baixa (`aptidão × 4`, sem multiplicar por `M`) faz o Lee ficar sem tanque pra curar antes do fim da cena. Do rank 3 em diante a taxa satura perto de 100%: sempre que alguém cai abaixo de 40%, o Lee cura.
+
+> [!warning] Achado a sinalizar — nenhum PJ tem Gu de cura registrado na ficha oficial
+> Conferido em [[🎲 A Mesa — Personagens dos Jogadores]]: **nenhum dos 4 personagens lista um Gu de cura na ficha.** O papel de curandeiro do Lee, usado nesta e em todas as rodadas anteriores, é uma escolha de **modelagem**, justificável (Lee tem acesso ao Gu do Broto Restaurador — Madeira, dentro do arsenal de Cinco Elementos que a ficha dele já reivindica, ver [[☯️ Os Cinco Caminhos Wu Xing]]) mas **mais generosa que o Gu real**: o Broto Restaurador cura `M d6` (não `M d8`), **uma vez por cena** (não toda vez que alguém cai abaixo de 40%), só a distância de toque, e não repara dano de Metal ou fogo. Com a taxa de acionamento medida em ~80-99,7% por combate, o grupo está sobrevivendo em boa parte com uma cura que ainda não existe por escrito. **Recomendação para o autor:** ou registrar oficialmente o Broto Restaurador (ou outro Gu de cura) na ficha do Lee, ou aceitar que os números de vitória acima têm uma folga não lastreada em ficha — não é um bug de implementação, é uma lacuna de registro que a simulação expôs.
+
+### 🌀 Condições de controle (Lentidão) — implementada pela primeira vez
+
+Lentidão modelada como "o alvo perde a ação da rodada seguinte" (simplificação documentada no script — a leitura literal de outros Gu do Catálogo é "metade do deslocamento", mas o modelo não tem posição). Aplicada pela Ação Especial de Guerreiro/Elite e pela especial de Alma do Mestre de Gu, com o Chefe ignorando a primeira condição de controle da cena (regra já escrita em [[⚔️ Ameaças Genéricas por Rank]]).
+
+| Cena | Com controle | Sem controle | Δ na vitória do grupo |
+|---|---|---|---|
+| rank 1, Difícil | 36,9% | 39,7% | +2,8pp |
+| rank 3, Difícil | 47,5% | 52,5% | +5,0pp |
+| rank 3, Clímax | 86,6% | 85,3% | −1,3pp |
+| rank 5, Difícil | 44,9% | 48,4% | +3,5pp |
+
+**Efeito pequeno mas real e consistente em "Difícil" (2,8 a 5,0 pontos percentuais a favor de desligar o controle), e ruído em "Clímax"** — porque só há um Guerreiro aplicando Lentidão uma vez ali, contra 3-4 Mestres de Gu com especial em "Difícil". É o mesmo efeito que explica a diferença de 3-5pp entre esta rodada e a quinta na tabela de comparação acima: **agora que a Lentidão custa a ação de verdade, ela pesa exatamente onde a nota de Ameaças já dizia que "Ação Especial vale mais que tirar Vitalidade"** — só que até esta rodada isso nunca tinha sido medido, só afirmado.
+
+### 🌍 Terreno — a composição atual muda a leitura da decisão 75
+
+Testado no Lee, rank 3, na composição **atual** de "Difícil" (3 Mestres [1 com Alma] + 1 Guerreiro) — a composição antiga usada no teste de terreno das rodadas 3-4 (1 Elite + 2 Guerreiros + 2 Recrutas) não existe mais na tabela de Ameaças.
+
+| Terreno | Vitória do grupo | Sobreviventes |
+|---|---|---|
+| **Hostil** (−1 Nível, decisão 98) | 38,7% | 0,73 |
+| **Neutro** | 49,3% | 0,95 |
+| **Favorável** (+1 Nível) | 58,7% | 1,17 |
+
+> [!warning] Achado a sinalizar — o terreno agora vale ~20 pontos percentuais, não 4
+> A decisão 75 fechou o dial de terreno como "não é alavanca de dificuldade do mestre", medindo **4 pontos percentuais** de ponta a ponta (92,2% a 95,9%) contra o "Difícil" antigo (1 Elite + 2 Guerreiros + 2 Recrutas, ±2 Níveis na época). Com o "Difícil" **atual** (3 Mestres + 1 Guerreiro, resultado ~50% em vez de ~95%) e o dial já reduzido pela decisão 98 (±1 Nível, não mais ±2), o mesmo terreno vale **20 pontos percentuais** (38,7% a 58,7%). **A regra do terreno não ficou mais forte — a cena em que ela é testada ficou muito mais equilibrada**, e a mesma alavanca pesa muito mais numa moeda de 50/50 do que numa cena já decidida a 95%. Isto não invalida a decisão 75 (ela dizia respeito a uma dificuldade que não existe mais), mas **reabre a pergunta que ela fechou**: numa cena "Difícil" de verdade, o terreno de fato decide o resultado sozinho pro personagem elemental — o autor deve decidir se isso é o dial funcionando como pretendido (recompensar preparação e leitura de terreno) ou se precisa de outro olhar agora que "Difícil" não é mais um passeio.
+
+### 🌟 Rank 6 — Imortal Denso Duplo-Gênio, revalidado com o motor completo
+
+Mesmo cenário da quinta rodada (decisão 133), rerodado com Lentidão mecanicamente implementada e a cura já presente:
+
+| Cenário | Vitória do grupo | Sobreviventes | *(5ª rodada, referência)* |
+|---|---|---|---|
+| **Duplo-gênio** (B=+3) | **5,4%** | 0,09/4 | 5,2% |
+| Controle — Pequeno Feito real (B=+1) | **18,3%** | 0,33/4 | 20,0% |
+
+**Confirma a quinta rodada, sem mudança de leitura.** A pequena queda no controle (20,0% → 18,3%) é o mesmo efeito da Lentidão agora sendo real, não um novo achado sobre o gênio pobre duplo. O aviso já registrado em [[⚔️ Ameaças Genéricas por Rank]] ("este perfil é sentença, não encontro") continua de pé.
+
+### 🎲 Fratura da Abertura — reconfirmação rápida
+
+| rank · cena | Com Fratura | Sem Fratura | Δ |
+|---|---|---|---|
+| 3 · Difícil | 47,8% | 49,8% | +2,0pp |
+| 3 · Clímax | 85,7% | 86,7% | +1,0pp |
+
+Mesma ordem de grandeza da quinta rodada (0,1 a 1,2pp então; 1,0 a 2,0pp agora, ainda pequeno frente às composições novas). **Nenhuma razão nova para mexer no gatilho de 25%.**
+
+### Achados de desbalanceamento a sinalizar — não corrigidos nesta rodada
+
+1. **"Padrão pesado" nunca recebeu a correção de limite de Alma que "Padrão" e "Difícil" já têm**, e cai bem abaixo do que a nota ainda documenta (97%/94%/93%/96%, marcado ✝ "não retestado"): medido aqui em **77,4% / 73,5% / 75,1% / 76,6% / 91,7%** (ranks 1-5) com o motor completo — os mesmos 2 Mestres, ambos com especial de Alma, sofrendo o mesmo alfa-strike que motivou a correção das decisões 135-137. **Sugestão, sem aplicar sozinho:** aplicar a mesma correção (1 dos 2 Mestres com especial de outro Caminho) e remedir.
+2. **Golpe Matador Coletivo é matematicamente inviável como abertura pra esta mesa antes do rank 6** (ver caixa de aviso acima) — CD 22 (20 com o modificador de preparação) contra um teste de no máximo `d20+2`. Sinalizado para decisão do autor: documentar como jogada de desespero, ou revisar a CD pra fase mortal.
+3. **O terreno dos Cinco Elementos, medido contra a composição atual de "Difícil", vale ~20pp — não os 4pp que fecharam a decisão 75.** Não é regressão nem bug: é a mesma regra, numa cena que ficou de fato equilibrada. Reabre a pergunta pro autor, não resolve sozinha.
+4. **Nenhum PJ tem Gu de cura na ficha oficial**, apesar de a cura modelada disparar em 80-99,7% dos combates simulados. Ver a caixa de aviso da seção de Cura acima.
+
+### Metodologia e simplificações desta rodada
+
+Documentadas por completo no cabeçalho do script. Resumo do que muda em relação à quinta rodada: **Lentidão** vira "perde a ação seguinte" em vez de descrição sem efeito; **Golpe Matador Coletivo** usa Xie Lang como núcleo e os outros 3 como apoio, com o modificador de conjuração −2 aplicado (a preparação é de fato "sem ser incomodado", já que dispara antes de qualquer troca de golpe); a Retaliação de falha do coletivo desliga o Gu de ataque só do **núcleo** (não dos 4) — uma correção feita **durante** esta própria rodada, documentada abaixo. **Terreno** só afeta o Lee, via o `B` (Grau por dado), sem modelar o desconto/sobretaxa de custo de essência por terreno (mesma simplificação das rodadas 3-4). **Cura** mantém a heurística "Lee cura quem estiver <40%", instrumentada com contadores de disparo/oportunidade.
+
+> [!info] Bug de modelagem encontrado e corrigido nesta própria rodada, antes de fechar os números
+> A primeira versão do script aplicava a Retaliação de falha do Golpe Matador Coletivo **desligando o Gu de ataque dos 4 participantes** (não só do núcleo), o que — combinado com cada PJ deste modelo só ter UM Gu de ataque "de assinatura" — deixava o grupo inteiro reduzido a dano cru pelo resto da cena após uma falha (~85-95% das vezes). Isso derrubava a vitória do grupo pra 0,3-3,8% em **todo** rank, um número claramente artificial (o próprio texto da regra fala em desligar "os Gu do combo", e os apoios de um Golpe Matador de verdade são Gu baratos e diferentes do Gu principal de cada um — não o mesmo Gu que o modelo usa pra tudo). Corrigido antes de reportar: só o núcleo perde o próprio ataque; os apoios sofrem só o corte de Vitalidade da Retaliação. Os números acima já são os corrigidos.
 
 ---
 

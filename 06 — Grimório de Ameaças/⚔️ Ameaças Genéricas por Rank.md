@@ -134,11 +134,22 @@ Os números entre parênteses são a **vitória medida do grupo** numa mesa de 4
 |---|---|---|---|---|
 | **Fácil** | Horda de 8 *(100%)* | Horda de 8 *(100%)* | Horda de 8 *(100%)* | Horda de 8 *(100%)* |
 | **Padrão** | 3 Mestres de Gu — no máx. **1** com especial de Alma, os outros 2 com especial de outro Caminho *(75%)* | idem *(81%)* | idem *(89%)* | idem *(99%)* |
-| **Padrão pesado** | 2 Mestres + Horda de 8 *(97%)*✝ | 2 Mestres + Horda de 8 *(94%)*✝ | 2 Mestres + Horda de 8 *(93%)*✝ | 2 Mestres + Horda de 8 *(96%)*✝ |
+| **Padrão pesado** | 2 Mestres — no máx. **1** com especial de Alma — + Horda de 8 *(77%)* | idem *(68%)* | idem *(71%)* | idem *(88%)* |
 | **Difícil** | 3 Mestres (1 com Alma) + 1 Guerreiro *(42%)* | idem *(40%)* | idem *(52%)* | 4 Mestres — no máx. **2** com especial de Alma *(46%)* |
 | **Clímax** | 1 Elite especial + 3 Mestres *(68%)*✝, ou Chefe + Guerreiro *(4%)* 🔴 | idem, Chefe + Guerreiro *(57%)* | 1 Elite especial + 3 Mestres *(44%)*✝, ou Chefe + Guerreiro *(86%)* | 1 Elite especial + 3 Mestres *(46%)*✝, ou Chefe + Guerreiro *(87%)* |
 
 *(✝ não retestado na quinta rodada — número da terceira rodada, pode estar igualmente desatualizado.)*
+
+> [!note] "Padrão pesado" recebeu a correção de limite de Alma na sexta rodada
+> A tabela acima ainda listava "2 Mestres + Horda de 8" com **ambos** os Mestres
+> de especial de Alma, número desatualizado (97%/94%/93%/96%) da terceira
+> rodada. Corrigido com o mesmo limite de "Padrão" e "Difícil" (1 dos 2 Mestres
+> com especial de outro Caminho) e remedido na sexta rodada: 77% · 68% · 71% ·
+> 88% (ranks 1, 2, 3, 5). **A queda é bem menor que em "Padrão"/"Difícil"** —
+> só 2–9 pontos percentuais, não os 20+ vistos lá — porque a Horda de 8 já
+> carrega a maior parte do dano da cena; o Caminho da especial dos 2 Mestres
+> pesa menos quando não são eles que dominam a rodada. Ver
+> [[🎯 Simulação de Combate — Resultados#🏁 Sexta rodada — validação completa pós-decisão 133 (2026-08-31)|a sexta rodada]] e a decisão correspondente no Log.
 
 **Clímax é o único nível onde "todos os Mestres com especial de Alma" é intencional.** É lá, e só lá, que o alfa-strike total contra as quatro barras de Alma do grupo deve acontecer — a promessa do Caminho da Alma ("ignora RD por completo", [[👻 Caminho da Alma]]) continua absoluta contra um só atacante de Alma ou numa cena Clímax; o que mudou foi só quantos atacantes de Alma diferentes podem se somar fora dela. Ver [[#🧑‍🦱 Mestre de Gu — o inimigo humano]] mais abaixo — "trocar o Caminho da especial" é a ferramenta usada pra montar os Mestres "extras" de Padrão e Difícil acima.
 
