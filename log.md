@@ -167,3 +167,11 @@ responde "matamos o cara, e agora?". Ligadas à nota-mãe, ao Mapa e às âncora
 ideias) e `Feiticeiros e Maldições v2.5` (o RPG de Jujutsu Kaisen de onde saiu a
 Escada de Dano da decisão 9 — 368 págs., para conferir balanceamento e escrita).
 Ambas registradas em [[📥 Fontes]]; avaliação pendente.
+
+## [2026-08-30] ingest | Leitura integral do romance — tentativa 1, interrompida
+Fonte primária clonada (~/Documentos/Reverend-Insanity-fonte/texto/, 6 volumes,
+~435 mil palavras). 18 agentes leram os trechos inteiros com sucesso (cobertura
+confirmada: caps. 1–2334), mas TODOS morreram no limite de sessão no passo de
+gravar o digest — zero arquivos no disco. Plano de relançamento, fatiamento e a
+lição principal (gravar incrementalmente, não só no fim) em
+[[🔖 Retomada — Leitura integral do romance]]. Retomar por aí.
