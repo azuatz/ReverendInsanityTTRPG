@@ -87,6 +87,9 @@ escopo: sistema
 | **Débito** | Favor devido como estrutura vinculante, com retaliação real por calote | [[🤝 O Débito]] |
 | **Espólio** | A vontade do dono morto **destrói** os Gu dele. Matar não é lootear — há 3 exceções | [[⚰️ Espólio]] |
 | **Herança** | O legado escondido de um cultivador morto: manuais, Gu, receitas — com amarras | [[📜 Manuais e Heranças]] |
+| **Herança de Força** | A versão de baixo rank da Herança: masmorra pessoal de 4 salas fixas, cada uma testando uma virtude só (constância, autocontrole, respeito, sorte) | [[🏺 Achados de Baixo Rank]] |
+| **Pedra de Aposta** | Rocha comum vendida às cegas num antro de aposta — a maioria vazia, algumas com Gu morto, raríssimas com Gu vivo dentro. Sorte pura, sem teste | [[🏺 Achados de Baixo Rank]] |
+| **Reino do Tesouro** | Cofre ancestral guardado por uma porta viva que só troca por valor equivalente — e item sacado sem refino vira selvagem em 3 respirações (2 rodadas) | [[🏺 Achados de Baixo Rank]] |
 | **Crítico** | 20 natural no ataque: acerta sempre e **dobra os dados** de dano | [[⚔️ Combate]] |
 | **Iniciativa** | `d20 + DES`, rolada no início do combate | [[⚔️ Combate]] |
 | **Metrópole / Centros** | A grande cidade dentro da montanha, em 5 anéis — do 5º (livre, rank 1) ao 3º (pago, rank 3); o 2º e o 1º não se compram, só sangue de clã abre | [[🏙️ Metrópoles — Centros, Tokens e Arena]] |

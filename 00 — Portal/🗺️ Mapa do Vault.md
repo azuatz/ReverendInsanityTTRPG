@@ -129,6 +129,7 @@ escopo: processo
 | [[🤝 O Débito]] | Favor devido como estrutura vinculante — o Pacto, a quebra, e como sair |
 | [[🎰 Aposta por Procuração]] | **Guerra por procuração entre Imortais** — um prêmio selado numa zona que expulsa Abertura ativa, peões mortais infundidos em segredo, Vontade de Batalha e a divisão do fundo comum |
 | [[🏯 Torres e Estradas de Prova]] | **Role uma masmorra de andares em minutos** — CD por bloco, 3 faixas de recompensa, sala de tesouros, pilares temáticos com supressão, a exceção local de PvP sem autodetonação, e a **Estrada de Prova**: variante de dificuldade auto-escalada pra desafiar rank 7–9 de poder desigual |
+| [[🏺 Achados de Baixo Rank]] | **Três minigames de rank 1–3** — o Antro de Aposta de Rochas (pedra às cegas + serviço de dissecação), a Herança de Força (masmorra pessoal de 4 salas, uma virtude por sala) e o Reino do Tesouro (porta viva, troca por valor equivalente, relógio de 3 respirações) |
 
 ## 06 — Grimório de Ameaças
 

@@ -41,6 +41,10 @@ Guerra por procuração entre Imortais que não podem competir direto por um pr�
 
 Role uma masmorra de andares em minutos: rounds crescentes por bloco, recompensa em 3 faixas, sala de tesouros, pilares temáticos com supressão de Caminho e a exceção local de PvP sem autodetonação. Traz também a **Estrada de Prova**, variante de dificuldade auto-escalada pra qualquer conteúdo — útil quando a mesa precisa desafiar personagens de poder muito diferente com a mesma peça (rank 7–9).
 
+**[[🏺 Achados de Baixo Rank]]**
+
+Três minigames independentes de rank 1–3, pra quando a mesa ainda está no começo: o Antro de Aposta de Rochas (comprar pedra às cegas, pura sorte, com um serviço de dissecação pago pra reduzir o risco), a Herança de Força (masmorra pessoal de 4 salas, cada uma testando uma virtude — constância, autocontrole, respeito, sorte) e o Reino do Tesouro (cofre vivo que só troca por valor equivalente, com um relógio de 3 respirações antes do item sacado virar hostil).
+
 ## Nível 4 — Só depois da Ascensão *(rank 6+)*
 
 **[[🏪 Céu Amarelo do Tesouro]]**
