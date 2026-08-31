@@ -83,6 +83,8 @@ escopo: sistema
 | **Força de Alma** | O tamanho da alma, medido **em homens** (todo mundo começa em 1). Multiplica a Alma máxima e destrava truques de Alma — e **passar de 100 num corpo mortal mata na hora** | [[👻 Caminho da Alma]] |
 | **Contaminação** | O preço de devorar almas no Caminho da Alma: um número que só sobe (salvo purificação) e trava efeitos colaterais permanentes em limiares (10 · 25 · 50 · 75 · 100) | [[👻 Caminho da Alma]] |
 | **Ação Especial** | O truque que todo Guerreiro e Elite tem: **uma vez por cena**, um ataque com +4 no acerto que ainda aplica **Lentidão 2**. É o que separa um inimigo de um saco de pancada | [[⚔️ Ameaças Genéricas por Rank]] |
+| **Rei Fera** | O líder de um grupo de feras — o título vem do tamanho do bando: **Cem** (centenas), **Mil** (~mil), **Miríade** (dez mil+). O Rei é sempre um molde normal (Elite/Chefe); o que muda é quanta horda vem junto | [[🐺 Reis Fera e a Maré]] |
+| **Varredura** | Pular uma onda de horda num teste de grupo só, marcando o custo (Vitalidade, essência, tempo) em vez de rodar o combate | [[🐺 Reis Fera e a Maré]] |
 | **Ficha de Azar** | O botão da Vontade do Céu na mão do mestre — uma por faixa do Contador de Ameaça, por sessão. Gasta-se pra fazer você rerrolar um sucesso, desligar um Gu sustentado, ou a coincidência ruim acontecer | [[⛈️ A Vontade do Céu]] |
 | **Ferimento** | Dano permanente: −5% em Vitalidade **e** Alma máximas, pra sempre. Cicatriz mecânica | [[❤️ Recursos e Dano]] |
 | **Retrocesso** | O contragolpe de falhar um refino de Gu ou um Golpe Matador: `(soma dos ranks dos Gu envolvidos) × 2` em Vitalidade e `× 1` em Alma. *(Diferente de **Retrocesso de Marca**, a corrosão de Marcas de Dao impressas à força — ver [[☯️ Marcas de Dao]])* | [[❤️ Recursos e Dano]] |
@@ -90,6 +92,8 @@ escopo: sistema
 | **Ficha de Plano / Pontos de Plano** | A preparação como recurso gastável — o pilar "quem prepara, vence" em números | [[🕵️ Preparação e Informação]] |
 | **Débito** | Favor devido como estrutura vinculante, com retaliação real por calote | [[🤝 O Débito]] |
 | **Espólio** | A vontade do dono morto **destrói** os Gu dele. Matar não é lootear — há 3 exceções | [[⚰️ Espólio]] |
+| **Entrega sob ameaça** | A 3ª exceção do Espólio: o derrotado **vivo** entrega Gu (refino sem Detonação nem desvantagem) e receitas (contam como cópia até validar). O Gu Vital, nunca — antes a morte | [[⚰️ Espólio]] |
+| **Mercador itinerante** | Mestre de Gu de caravana que vive da estrada: `1d4+1` Gu e `1d4` receitas à venda com ágio de +25%. Matá-lo destrói o estoque e fecha a rota — com ele, negocia-se | [[🏪 O Mercado]] |
 | **Herança** | O legado escondido de um cultivador morto: manuais, Gu, receitas — com amarras | [[📜 Manuais e Heranças]] |
 | **Herança de Força** | A versão de baixo rank da Herança: masmorra pessoal de 4 salas fixas, cada uma testando uma virtude só (constância, autocontrole, respeito, sorte) | [[🏺 Achados de Baixo Rank]] |
 | **Torneio de Classificação Prévio** | Variante de Herança (rank 4–6): um torneio antes da porta abrir decide a **ordem de entrada** — quem entra primeiro cultiva mais tempo, porque lá dentro o tempo roda mais rápido que fora | [[🎲 Gerador de Heranças]] |

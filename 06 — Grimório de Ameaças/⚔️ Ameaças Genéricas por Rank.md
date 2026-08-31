@@ -70,6 +70,8 @@ Três ondas, com a Horda que já existe:
 2. **O bando** — Horda de 8 a 12 (`M d8`–`M d10`), Instinto + Sentidos. A onda de verdade.
 3. **O que as trouxe** — um Elite ou Chefe com Instinto + Sentidos comandando à distância (nunca no meio da matilha) — é o gancho que sobra pra depois: por que as feras vieram pra cá?
 
+**Maré grande de verdade** — centenas ou milhares de feras sob um Rei de Cem/Mil/Miríade de Feras, com a regra de ondas e a resolução abstrata pra não rodar tudo turno a turno: [[🐺 Reis Fera e a Maré]].
+
 ## 🧑‍🦱 Mestre de Gu — o inimigo humano
 
 O molde mais útil do conjunto, porque é o que o cenário produz o tempo todo: um cultivador rival, não uma fera com números. **É a ameaça padrão de uma cena entre pessoas.**
@@ -90,6 +92,19 @@ O molde mais útil do conjunto, porque é o que o cenário produz o tempo todo: 
 **Como variar sem refazer a ficha:** troque o Caminho da especial. Vento vira reposicionamento que quebra o cerco do grupo; Força vira um melee de `M d10`; Sabedoria vira o inimigo que age primeiro toda rodada. A estrutura (`21 × M`, 2 ações, uma especial) não muda. **Isto não é só variação estética — é a ferramenta de balanceamento da tabela de composição de cena acima:** o limite de "no máximo 1 (Padrão) ou 2 (Difícil) Mestres com especial de Alma" se implementa trocando a especial dos demais por essa mesma troca de Caminho, sem tocar na regra de Alma em si nem refazer a ficha do molde.
 
 **Ele também tem os limites de um cultivador**, e usá-los é o que torna a luta interessante: a Essência dele acaba, os Gu dele podem ser roubados depois, e ele tem um Golpe Matador com **Brecha** que o grupo pode ter descoberto antes da cena.
+
+### 🎒 O que ele carrega — loadout em três rolagens
+
+Todo Mestre de Gu morto, rendido ou extorquido tem uma bagagem, e ela é o motivo de rendição valer mais que execução (ver [[⚰️ Espólio]]). Role na hora, só quando importar:
+
+```
+Gu carregados = rank + 1d3          (metade do rank dele, resto 1 abaixo)
+Papéis: 1 ataque · 1 defesa ou movimento · o resto utilidade/investigação
+Receita: role 1d6 → em 5-6, ele sabe UMA receita de valor
+         (em 6, ela é rara — sorteie no [[📜 Livro de Receitas de Gu]])
+```
+
+Escolha os Gu concretos no [[📖 Catálogo de Gu]] pelo Caminho que a especial dele já declarou — ou deixe genérico ("um Gu de fuga, dois de utilidade") até alguém perguntar. **A receita não está escrita num papel no bolso**: está na cabeça dele, e é isso que faz um Mestre de Gu capturado valer uma cena de interrogatório ou barganha em vez de um saque.
 
 ## O Chefe — a regra especial pra combate solo
 

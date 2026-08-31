@@ -551,3 +551,14 @@ composições da Parte 7 do Guia contradiz Ameaças (Clímax r1 = 4% medido);
 dinheiro inicial inexistente ("orçamento de jogo" órfão); régua da Horda errada
 na cena-modelo da Parte 3; "Níveis de Dano" sem definição no ponto de uso;
 Alma zerada sem regra. Nenhuma nota de regra editada — correções ficam pro autor.
+
+## [2026-08-31] ingest | Entrega sob ameaça (Espólio) e mercador itinerante (Mercado) — decisão 199
+Pedido do autor: NPCs como alvo de negociação/extorsão, não só combate. Em ⚰️ Espólio,
+a via "Coagir" virou a entrega sob ameaça (Gu entregue refina sem Detonação nem
+desvantagem; receita extorquida conta como cópia até validar; Gu Vital jamais; extorsão
+escritura como Vínculo quebrado). Em 🏪 O Mercado, o mercador itinerante (📕 Vol. 1,
+caravana de Jia Fu): 1d4+1 Gu + 1d4 receitas, ágio +25%, intocável por Espólio + Débito
+de rota. Dois termos novos no 📔 Dicionário; linhas do 🗺️ Mapa atualizadas.
+
+## [2026-08-31] ingest | Reis Fera, regra de ondas, Varredura e loadout de Mestre de Gu (decisão 200)
+Pedido direto do autor: sistema de hordas gigantes pros Reis Fera canônicos. Nova nota [[🐺 Reis Fera e a Maré]] (06) — os três Reis reusando moldes existentes, a regra de ondas (hordas simultâneas medidas como sentença: 2× = 36-83%, 3× = 0%) e a Varredura (pular onda num teste de grupo, custo calibrado por 1.500 iterações/cenário no motor da sétima rodada). Régua canônica do Vol. 1 cap. 114-115 confere com o medido: Rei de Cem = 99% de vitória a ~60% da Vitalidade; Rei de Mil = 0% pra um grupo só. Molde de Mestre de Gu ganhou loadout em três rolagens (Gu carregados + receita), fechando a metade 06 do pedido de extorsão da decisão 199. Links: nota-mãe, Mapa, Dicionário (Rei Fera, Varredura).

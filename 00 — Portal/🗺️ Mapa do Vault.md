@@ -121,8 +121,8 @@ escopo: processo
 | [[🗡️ Arsenal]] | Nota-mãe |
 | [[📜 Manuais e Heranças]] | Heranças e Heranças Imortais — o que contêm, o preço de cada uma |
 | [[📜 Catálogo de Heranças]] | **17 heranças prontas** — 10 mortais, 5 imortais, 2 legados de Venerável. Gu, receitas, Terra Abençoada, teste do Espírito, provação, 7 quebra-cabeças com solução, e 1 armadilha |
-| [[⚰️ Espólio]] | O que sobra dos Gu de um inimigo morto — a vontade destrói, e as 3 formas de conseguir algo |
-| [[🏪 O Mercado]] | **O mercado mortal** — lojas de Gu por assentamento, teste de Disponibilidade, a **escala canônica de preços** (r1 ≈ 500 → r5 até 1 milhão; Relíquias com tabela própria), leilões, Proveniência e as quatro vias de pôr um Gu na Abertura |
+| [[⚰️ Espólio]] | O que sobra dos Gu de um inimigo morto — a vontade destrói, as 3 formas de conseguir algo, e a **entrega sob ameaça** (render em vez de matar: Gu sem Detonação, receitas como cópia, Gu Vital jamais) |
+| [[🏪 O Mercado]] | **O mercado mortal** — lojas de Gu por assentamento, teste de Disponibilidade, a **escala canônica de preços** (r1 ≈ 500 → r5 até 1 milhão; Relíquias com tabela própria), o **mercador itinerante**, leilões, Proveniência e as quatro vias de pôr um Gu na Abertura |
 | [[🏙️ Metrópoles — Centros, Tokens e Arena]] | **A grande cidade comercial** — cinco centros dentro da montanha (taxas 200→5.400), o **Token de Sangue** em cinco cores com descontos e acessos, a **Arena** (bolsa por espectador, vencedor escolhe um Gu do perdedor, 18 vitórias seguidas vira **Ancião Externo**), as **Zonas da cidade** (Cuidado de Gu, Luta de Gu, Refino por Procuração, Leilão em 3 portes) e o **Teste de Sucessão Comercial** (arco de 3 meses por um posto) |
 | [[🎲 Gerador de Heranças]] | **Role uma herança em dez minutos**, rank 4–9 — dono justo/demoníaco, conteúdo, Terra Abençoada, Espírito × Vontade, provação e amarra |
 | [[🏪 Céu Amarelo do Tesouro]] | **O mercado imortal** (Treasure Yellow Heaven) — negociação remota e anônima a partir do rank 6: balcão a 60%, leilão `1d6`, Assinatura e Teste de Anonimato, monopólio e guerra de preços em 3 anos |
@@ -137,6 +137,7 @@ escopo: processo
 |---|---|
 | [[👹 Grimório de Ameaças]] | Nota-mãe |
 | [[⚔️ Ameaças Genéricas por Rank]] | Recruta/Guerreiro/Elite/Chefe, com composição de cena pra 3 e pra 4 jogadores |
+| [[🐺 Reis Fera e a Maré]] | Os três Reis Fera canônicos (Cem/Mil/Miríade), a regra de ondas pra hordas gigantes, e a Varredura — pular uma onda num teste de grupo, marcando só o custo |
 
 ## 07 — Terras e Facções
 
