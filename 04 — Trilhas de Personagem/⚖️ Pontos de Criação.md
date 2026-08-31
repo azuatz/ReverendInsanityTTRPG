@@ -56,7 +56,7 @@ Comprado com pontos, isso é deliberadamente brutal. Um Físico Extremo com 4 po
 1. **Um por jogador, declarado na criação.** Ninguém ganha um segundo depois, por arco bem jogado ou por barganha. O que se conquista em jogo são Gu, Marcas e aliados — não mais exceções.
 2. **Ele dobra uma regra; não inventa um número maior.** Um Buff de Lore muda *quais* regras se aplicam a você (este Caminho conta como um só; este físico não custa pontos; você já nasceu sabendo isto). Ele **não** dá bônus solto de acerto, dano, Vitalidade ou RD — isso é trabalho de Gu, e Gu se conquista em jogo.
 3. **Ele vem com um preço pago em ficção.** Toda exceção tem um fio preso nela: uma dívida, um inimigo, um segredo, uma condição que pode ser tirada de você. O mestre escreve esse fio junto com o buff, e o jogador aceita antes de começar.
-4. **Os quatro pesam parecido.** Se um jogador ganha um dos Dez Físicos Extremos de graça, os outros três não podem ficar com "meu personagem é canhoto". Sugestões calibradas em [[🎲 A Mesa — Personagens dos Jogadores|A Mesa]].
+4. **Os quatro pesam parecido.** Se um jogador ganha um dos Dez Físicos Extremos de graça, os outros três não podem ficar com "meu personagem é canhoto". Sugestões calibradas, como exemplo de campanha, em [[🎲 A Mesa — Personagens dos Jogadores|A Mesa]].
 
 **Pro mestre, o teste é simples:** o buff dá uma *identidade* ou dá uma *vantagem numérica*? "Meus cinco elementos contam como um Caminho só" é identidade — ele rola exatamente como todo mundo, só com outra paleta. "+2 em tudo" é vantagem numérica, e isso não é Buff de Lore, é um item que o jogador não conquistou.
 

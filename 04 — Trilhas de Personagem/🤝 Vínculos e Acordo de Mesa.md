@@ -19,9 +19,9 @@ São duas coisas: o **Vínculo**, que é regra de ficha, e o **Acordo**, que é 
 
 Na criação, cada personagem declara **um Vínculo** com o personagem de outro jogador. Uma frase, e ela precisa dizer o que você arriscaria:
 
-> *"Eu devo a vida ao Demvi, e ele sabe que eu sei."*
-> *"Jiāotáng é a única pessoa da vila que nunca mentiu pra mim."*
-> *"Eu prometi ao pai do Lee que traria ele de volta."*
+> *"Eu devo a vida ao meu companheiro de grupo, e ele sabe que eu sei."*
+> *"A filha do ferreiro é a única pessoa da vila que nunca mentiu pra mim."*
+> *"Eu prometi ao pai do meu melhor amigo que traria ele de volta."*
 
 Um Vínculo não precisa ser recíproco, e **é melhor quando não é**.
 
@@ -75,7 +75,7 @@ Se a resposta 1 for sim, ela vem com cinco amarras. Não são sugestões:
 
 ### Onde ficam as respostas desta mesa
 
-O Acordo é sistema; **as respostas são campanha**. Anote-as em [[🎲 A Mesa — Personagens dos Jogadores]], junto com os Vínculos declarados — e releia no começo de cada arco novo, porque a mesa muda e o combinado velho para de valer sem ninguém perceber.
+O Acordo é sistema; **as respostas são campanha**. Anote-as na ficha da sua própria mesa — [[🎲 A Mesa — Personagens dos Jogadores|A Mesa]] é o exemplo de campanha de como isso fica preenchido — junto com os Vínculos declarados, e releia no começo de cada arco novo, porque a mesa muda e o combinado velho para de valer sem ninguém perceber.
 
 ---
 

@@ -36,6 +36,7 @@ escopo: sistema
 | **Rank** | O "nível", de 1 a 9 — tanto de cultivadores quanto de Gu. 1–5 é a fase mortal; 6+ é imortal | [[🪜 Ranks e Estágios]] |
 | **Primeiro Giro** | O nome do **rank 1** — quem acabou de sair da camada de gente comum. Os ranks mortais vão do Primeiro ao **Quinto Giro**, cada um com sua cor de essência (o do rank 1 é o Cobre Verde) | [[🪜 Ranks e Estágios]] |
 | **Estágio** | Quatro degraus dentro de cada rank mortal: Inicial, Médio, Alto, Pico | [[🪜 Ranks e Estágios]] |
+| **Ativação Forçada** | Ativar um Gu acima do rank atual: custa metade da Essência máxima (1 rank acima) ou o tanque inteiro (2 acima), e sempre 1 Ferimento. Nunca atravessa a linha mortal/imortal | [[🏛️ Arquitetura do Sistema]] |
 | **M** | O multiplicador do rank: 1·2·4·8·16… — quantos **dados** se rola no dano, entre outras coisas | [[⚔️ Combate]] |
 | **B (Grau de Densidade)** | O bônus do estágio (0·1·2·3): soma por dado no dano, engorda Vitalidade e Alma. Também aparece como **Densidade da Essência** — é a mesma coisa, e não tem relação com o *Grau de aptidão* (A/B/C/D) | [[🪜 Ranks e Estágios]] |
 | **Caminho (Dao)** | A especialidade: Força, Lua, Sangue, Alma… 23 jogáveis. Decide o **dado de dano** dos seus Gu | [[🛤️ Os Caminhos]] |
@@ -44,7 +45,7 @@ escopo: sistema
 | **Longevidade** | Todo mundo nasce com ~100 anos e cultivar não devolve nenhum. O Gu de Longevidade estica — com desvios | [[⏳ Longevidade]] |
 | **Cultivo fechado** | Retiro longo só cultivando: mais rápido, zero renda, e a ração dos Gu estocada antes | [[🧘 Ritmo de Cultivo e Cultivo Fechado]] |
 | **Contribuição do Clã (CC)** | O trilho de mérito do clã: missões do Salão viram pontos, pontos viram acesso | [[🏛️ Clãs e Seitas]] |
-| **Pontos de Contribuição (PC)** | A mesma ideia, do lado da **seita**: a moeda interna que missão cumprida rende e que compra Gu, receita e acesso. Não converte em Pedra nem em CC | [[🏛️ Clãs e Seitas]] |
+| **Pontos de Contribuição (PC)** | A mesma ideia, do lado da **seita**: a moeda interna que missão cumprida rende e que compra Gu, receita e acesso. Só troca por Pedra numa via oficial (4 PC = 10 Pedras); nunca em CC | [[🏛️ Clãs e Seitas]] |
 | **Obrigação** | O ônus de pertencer a um clã: trilho de **0 a 5** na ficha. Recusar uma Cobrança sobe 1, e quanto mais alto, mais o clã aperta — má vontade, mesada cortada, vigilância, e a partir do 3 a exigência de selar um juramento | [[🏛️ Clãs e Seitas]] |
 | **Salão de Missões** | O balcão do clã: depois de um ano de aulas básicas, seu grupo pega missões ☆ a ☆☆☆☆☆ por pedras e CC | [[🏛️ Clãs e Seitas]] |
 
@@ -111,6 +112,7 @@ escopo: sistema
 | **Calamidade / Provação** | O céu cobra dos Imortais em desastres periódicos. Sobreviver rende Marcas | [[🌩️ Calamidades e Provações]] |
 | **Vontade do Céu** | O mundo reage a quem cresce demais — o Contador de Ameaça mede o quanto você incomoda | [[⛈️ A Vontade do Céu]] |
 | **Físico Extremo** | Nascer com o sangue dos dez primeiros filhos — poder absurdo, tribulação na medida | [[🌠 Os Dez Físicos Extremos]] |
+| **Pressão da Abertura** | O cronômetro do Físico Extremo: sobe a cada 6 meses, testa CON contra ela, e falhar corrói Vitalidade máxima pra sempre. Subir de rank zera; esvaziar a Essência de propósito também baixa | [[🌠 Os Dez Físicos Extremos]] |
 | **Venerável** | Rank 9, o teto absoluto do mundo. Uma pessoa por era, quando muito | [[🪜 Ranks e Estágios]] |
 | **Refino territorial / reivindicação de domínio** | Um Venerável refina os dao marks soltos do próprio Caminho numa região aberta (não numa Terra Abençoada de terceiro): sente material e cultivadores do Caminho na área, e pode amplificar ou sabotar quem treina ali. Ao completar 100%, ganha reivindicação exclusiva — outro Venerável tentando refinar ali dispara guerra | [[☯️ Marcas de Dao]] |
 | **Aposta por Procuração** | Guerra por procuração entre Imortais: um prêmio selado numa zona que expulsa Abertura ativa; patronos infundem mortais em segredo como peões, que lutam entre si gerando Vontade de Batalha; quem passa de 50% leva o prêmio | [[🎰 Aposta por Procuração]] |

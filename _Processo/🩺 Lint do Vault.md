@@ -77,15 +77,16 @@ números, trocar os nomes).
 3. [[💪 Caminho da Força]] ~l.189–199 — mesma ficha do Jiāotáng duplicada → idem.
 4. [[🌪️ Caminho do Vento]] ~l.107, 125–145 — "o golpe de campanha do Demvi", "por que o Demvi não é descartável", e "os de rank 5 do **Pepo**" (nome de **jogador**) → "um cultivador de Vento de Grau C" / "aptidão 56% não é descartável" / "do especialista mais forte do grupo".
 5. [[📖 Catálogo de Gu]] ~l.582–584 — "como o Lee joga… build do jogador" → "build de referência de um lutador dos cinco elementos".
-6. [[🤝 Vínculos e Acordo de Mesa]] ~l.22–24 — os 3 exemplos de Vínculo citam Demvi/Jiāotáng/Lee → nomes neutros ou papéis.
+6. ~~[[🤝 Vínculos e Acordo de Mesa]] ~l.22–24 — os 3 exemplos de Vínculo citam Demvi/Jiāotáng/Lee → nomes neutros ou papéis.~~ **✅ corrigido — crítica da pasta 04, 2026-08-31.**
 7. [[⚔️ Ameaças Genéricas por Rank]] l.13 — "Esta campanha tem 4 jogadores." → apagar (as tabelas já parametrizam 3 e 4).
 
 **Limítrofes (6):** [[🌠 Os Dez Físicos Extremos]] l.49/198 (regra da Abertura
 Incompleta calibrada no rolo de 86% do PC — reescrever como "+2% por Marco até
 100%, ex.: quem rolou 86% precisa de sete"); [[🛤️ Os Caminhos]] l.64 (regra de
 sistema apontando a Rede de Informação de 07 como "base mecânica" — inverter a
-seta); [[⚖️ Pontos de Criação]] l.69 e [[🤝 Vínculos e Acordo de Mesa]] l.78
-(ponteiros hardwired em "A Mesa"); [[🤝 O Débito]] l.71 (link aponta para
+seta); ~~[[⚖️ Pontos de Criação]] l.69 e [[🤝 Vínculos e Acordo de Mesa]] l.78
+(ponteiros hardwired em "A Mesa")~~ **✅ ambos rotulados "(exemplo de campanha)" —
+crítica da pasta 04, 2026-08-31**; [[🤝 O Débito]] l.71 (link aponta para
 🏛️ Estrutura do Clã de **campanha** quando existe [[🏛️ Clãs e Seitas]] de
 **sistema** — provável alvo errado); [[🧬 Receitas de Combo-Refino]] (escopo
 `sistema`, mas é livro-razão de "validadas nesta campanha", ecoado no

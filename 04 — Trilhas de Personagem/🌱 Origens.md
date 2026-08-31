@@ -10,7 +10,7 @@ escopo: sistema
 
 # 🌱 Origens
 
-De onde o personagem vem antes da Cerimônia do Despertar — muda recursos iniciais, expectativa social e o tipo de vínculo que ele já carrega ao entrar em jogo. As cinco origens valem pra **qualquer** clã ou cenário; pra vê-las aplicadas a um clã concreto, ver o exemplo em [[🌍 Terras e Facções|Terras e Facções]].
+De onde o personagem vem antes da [[🌟 Aptidão e Abertura|Cerimônia do Despertar]] — muda recursos iniciais, expectativa social e o tipo de vínculo que ele já carrega ao entrar em jogo. As cinco origens valem pra **qualquer** clã ou cenário; pra vê-las aplicadas a um clã concreto, ver o exemplo em [[🌍 Terras e Facções|Terras e Facções]].
 
 ## As cinco Origens
 

@@ -65,7 +65,7 @@ Anciãos não são um bloco: são facções que competem. Pedir a um cria dívid
 
 ### 📜 O Salão de Missões *(decisão 118 — ingest 2026-08-30)*
 
-Todo clã que se preze tem um: o balcão onde o trabalho do clã vira tabela. O ciclo do jovem cultivador é fixo — **um ano de aulas básicas** depois da Cerimônia do Despertar (fundamentos de essência, primeiro Gu, letras e leis do clã; é o ano em que quase todo mundo chega ao **rank 1 Pico ou rank 2**), e então a formatura: o novato é **alocado num grupo** (3–5 membros da mesma geração, às vezes com um veterano de babá) e o grupo passa a **receber missões do Salão**.
+Todo clã que se preze tem um: o balcão onde o trabalho do clã vira tabela. O ciclo do jovem cultivador é fixo — **um ano de aulas básicas** depois da [[🌟 Aptidão e Abertura|Cerimônia do Despertar]] (fundamentos de essência, primeiro Gu, letras e leis do clã; é o ano em que quase todo mundo chega ao **rank 1 Pico ou rank 2**), e então a formatura: o novato é **alocado num grupo** (3–5 membros da mesma geração, às vezes com um veterano de babá) e o grupo passa a **receber missões do Salão**.
 
 É o motor de sessão da fase de clã: a missão dá dinheiro, dá **Contribuição**, e dá o mapa da região — e o grupo dos jogadores é, naturalmente, um desses grupos.
 
@@ -212,7 +212,7 @@ Discípulos negociam entre si — e a seita tolera porque isso faz o interno com
 | **Acesso alto** | Depende de com quem você é parente | Depende de quanto você acumulou |
 | **Herança exclusiva** | **Sim** — Gu de linhagem, −1 grau de essência, +2 no refino da linhagem | Não. Só o que está no pavilhão |
 | **Ajuda acima do seu rank** | Ancião, 1 pedido/arco, escala grátis → Obrigação → Débito | Comprável, e só até onde seu posto alcança |
-| **Recurso passivo** | Mesada 2/6/20 Pedras + nascente de graça no território | Nenhum. Missão ou nada |
+| **Recurso passivo** | Mesada 40/120/400 Pedras (rank 1/2/3) + nascente de graça no território | Nenhum. Missão ou nada |
 | **Custo de um erro grave** | Punição alcança a **família**, não só você | 60 PC e um Débito — pagou, acabou |
 | **Pressão principal** | **Obrigação** (0–5), imprevisível, sem prazo | **Ordem de Missão**, previsível, no pior momento |
 | **Se você morre** | O clã lembra e vinga | A seita repõe |

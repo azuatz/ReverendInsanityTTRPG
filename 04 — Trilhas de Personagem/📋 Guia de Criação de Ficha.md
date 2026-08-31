@@ -20,7 +20,7 @@ Uma frase: quem é, de onde vem, o que quer. Escolha uma [[🌱 Origens|Origem]]
 
 ## 2. Aptidão — rolada, e ponto final
 
-A Aptidão foi rolada (`1d80+20`, ver [[🌟 Aptidão e Abertura|Aptidão e Abertura]]) e **o número que saiu é o número**: não se compra pra cima nem se vende pra baixo com pontos de criação (decisão 111). Piso 20%, teto 99%.
+A Aptidão foi rolada (`1d80+20`, ver [[🌟 Aptidão e Abertura|Aptidão e Abertura]]) e **o número que saiu é o número**: não se compra pra cima nem se vende pra baixo com pontos de criação (decisão 111). Piso 21%, teto 100%.
 
 A única exceção é o **pacote dos Dez Físicos Extremos** — 100% de aptidão por **−8 pontos** e a Dívida do Destino. Não é comprar aptidão; é assumir outra categoria de existência. Ver [[⚖️ Pontos de Criação|Pontos de Criação]].
 
