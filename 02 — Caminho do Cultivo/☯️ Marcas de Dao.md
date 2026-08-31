@@ -31,21 +31,8 @@ O que importa não é o total de Marcas, e sim **quantas você tem no Caminho es
 | **Quase-Supremo** | 150.000 – 299.999 | +4 Níveis; Golpes Matadores do Caminho ganham vantagem no teste; ignora RD de fontes de rank inferior |
 | **Grande Mestre Supremo** | 300.000+ | +5 Níveis; pré-requisito obrigatório pra virar Venerável; dentro do próprio domínio, cada ação recebe amplificação do céu e da terra |
 
-> [!info] 🔧 Adaptado — o nome "Quase-Supremo" não é o nome canônico deste patamar
-> O romance descreve a escada de attainment com 5 patamares principais e
-> sub-degraus "quase-" intercalados entre eles (Cap. 1326, 1501–1502): Comum →
-> Mestre → Grão-mestre → **Grão-grão-mestre** (também chamado de "Grande
-> Grão-Mestre" — o patamar que a maioria dos Imortais de rank 8 atinge na
-> vida) → Grão-mestre Supremo (pico absoluto: os Dez Veneráveis são todos
-> grão-mestres supremos, e só existiram 3 grão-mestres supremos em toda a
-> história do Caminho de Refino). O nome canônico do quinto degrau da tabela
-> acima é **Grão-grão-mestre**, não "quase-supremo" — no romance, "quase-X" é
-> sempre um sub-degrau **abaixo** de um patamar principal, então um
-> "quase-supremo" de verdade seria um degrau ainda mais raro que este, logo
-> abaixo do topo. A tabela mantém o nome "Quase-Supremo" por já estar
-> consolidado em mais de dez notas do vault (inclusive como resposta de um
-> enigma em [[📜 Catálogo de Heranças]]) — renomear em cascata é decisão do
-> autor, não desta auditoria.
+> [!info] 🔧 Adaptado — "Quase-Supremo" não é o nome canônico deste patamar
+> O romance chama esse degrau de **Grão-grão-mestre** / "Grande Grão-Mestre" (Cap. 1326, 1501–1502) — "quase-X" no cânone é sempre um sub-degrau abaixo de um patamar, não este. O vault mantém "Quase-Supremo" por já estar consolidado em mais de dez notas (inclusive resposta de enigma em [[📜 Catálogo de Heranças]]); renomear em cascata é pendência do autor. Citação completa e raciocínio: [[🧭 Log de Decisões]] (decisão 153).
 
 Os Níveis de Dano são os mesmos da [[⚔️ Combate|Escada de Dano]] — Marcas empurram os Gu do seu Caminho pra cima na escada. É a razão mecânica pela qual um Imortal veterano de rank 6 mata um Imortal recém-ascendido de rank 7 sem suar: mesmo com M menor, ele rola dados muito maiores.
 
@@ -70,8 +57,8 @@ Marca é estrutura física, mas **entendimento não é a mesma coisa que múscul
 
 **Cada feito reconhecido sobe um nível de domínio, e eles empilham** — até dois níveis acima da contagem real, cada salto exigindo o seu próprio feito, distinto e memorável. Ele ganha **os Níveis de Dano** do nível emprestado — mas **não** o que depende de estrutura física: refino de Gu Imortal de rank mais alto e anexação de Abertura continuam travados na contagem real.
 
-> [!important] Isto não é exceção rara — é como os fortes de rank 6 funcionam
-> A correção acima existe porque a versão anterior (um nível só) tornava **Grão-Mestre estruturalmente impossível no rank 6** — o teto de 9.999 Marcas totais nem chega ao piso de Mestre (10.000), então um salto de um nível só nunca alcançava Grão-Mestre. Isso contradiz o cânone com força: **Fang Yuan é rank 6 com Grão-Mestre em Força e Sangue** ao mesmo tempo (*"strength path and blood path were at grandmaster attainment realm... he was only rank six"*), e depois também em Humano; a Espadachim You Lan é rank 6 com Grão-Mestre em Espada, descrita como "famosa", não como anomalia única na história. **Este é o padrão dos rank 6 fortes na obra, não uma singularidade.** Com dois saltos empilhados, um rank 6 denso (Pequeno Feito real) chega a operar como Grão-Mestre — exatamente a faixa que o cânone mostra. Refino e anexação continuam travados na contagem real de propósito: um gênio bate mais forte antes de ter a estrutura pra fazer o que só a densidade real permite.
+> [!note] Calibrado pelo cânone — rank 6 com Grão-Mestre é o padrão dos fortes do romance, não uma exceção
+> Citação, raciocínio completo e por que o empilhamento vai até dois níveis: [[🧭 Log de Decisões]] (decisões 120 e 133).
 
 ## Rank e Marcas: as duas travas
 
@@ -86,7 +73,7 @@ Rank e Marcas se travam mutuamente — não dá pra correr num sem o outro. **O 
 
 **Subir de rank** exige saturar o teto **e** ter sobrevivido às provações do patamar, e então vencer a **Provação de Avanço** — o procedimento completo, com o que acontece na conversão, está em [[🪜 Ranks e Estágios|Ranks e Estágios]] (decisão 108). Acumular densidade num Caminho só sem correr pro salto é possível e comum — é o Imortal "denso", perigoso acima do que o rank dele sugere.
 
-**Retrocesso de Marca** (a corrosão) não vem mais de "acumular demais" — no teto, o excesso simplesmente não gruda. Ele vem de **Marcas impressas à força** acima do teto: anexação de uma Abertura grande demais, Marca emprestada recebida no limite, Gu que gravam Marcas num cofre cheio. Aí sim: **1 Ferimento permanente por 1.000 Marcas forçadas**, até subir de rank ou expurgá-las.
+No teto, o excesso de Marcas simplesmente não gruda — acúmulo natural nunca corrói a Abertura. O que corrói é o **Retrocesso de Marca**: Marcas impressas à força acima do teto (anexação grande demais, Marca emprestada no limite, Gu que gravam Marcas num cofre cheio). Definição completa em "O preço: as Marcas mandam em você" (item 4), abaixo.
 
 ### De qual Caminho é cada Marca que entra
 
@@ -140,24 +127,13 @@ Um Imortal típico investe 3 a 4 Porções de Qi Terrestre, então entra no rank
 | **Calamidade das Dez Mil** *(rank 8+)* | ranks 8–9, ver cadência abaixo | **75.000 – 100.000** | dobro |
 | **Calamidade do Caos** *(rank 9)* | só Venerável, ver cadência abaixo | **30.000+** | dobro |
 
-> [!note] Rendimento recalibrado pela fonte primária *(2026-08-30)*
-> O romance dá uma contagem oficial de Marcas por tribulação: **Calamidade
-> Terrena ≈ 250 · Tribulação Celestial ≈ 750 · Grande Tribulação ≈ 7.250 ·
-> Tribulação Miríade ≈ 86.750** (Cap. 1389). As duas faixas baixas já batiam;
-> **Grande Calamidade estava em 50–70% do valor real, e Calamidade das Dez Mil
-> em 10–17% dele** — um erro de 6 a 8×, não diferença de escala de mesa.
-> Corrigido acima. Calamidade do Caos (rank 9) segue **✍️ autoral** — a
-> referência não documenta esse patamar com número.
+> [!note] 🔧 Adaptado — faixas altas corrigidas contra a contagem oficial do romance (Cap. 1389)
+> Calamidade do Caos (rank 9) segue **✍️ autoral** — a fonte não documenta esse patamar com número. Números originais e o tamanho do erro corrigido: [[🧭 Log de Decisões]] (decisão 142).
 
 ### A cadência acelera por rank
 
-> [!success] Pendência da decisão 142 resolvida *(2026-08-31)* — 📕 canônico
-> A leitura integral encontrou a regra completa, repetida quase palavra por
-> palavra em vários volumes (Cap. 740, 826, 1097, 1161, 1185, 1217, 1703, 1007,
-> 2136, 2300): a cadência **não é fixa em "a cada 100 anos"** — ela acelera a
-> cada rank, num padrão consistente. A cada salto, o evento mais frequente do
-> patamar anterior é descartado, todo o resto acelera um degrau (100 → 50 → 10
-> anos), e um evento novo aparece no topo, a cada 100 anos.
+> [!success] 📕 Canônico — a cadência acelera por rank
+> Não é fixa em "a cada 100 anos": a cada salto, o evento mais frequente do patamar anterior desaparece, o resto acelera um degrau (100 → 50 → 10 anos), e um evento novo aparece no topo a cada 100 anos. Citações (Cap. 740 e outros) e detalhe: [[🧭 Log de Decisões]] (decisão 151).
 
 | Rank | A cada 100 anos (mais raro) | A cada 50 anos | A cada 10 anos (mais frequente) |
 |---|---|---|---|
@@ -295,5 +271,5 @@ Ninguém no mundo mortal ressuscita ninguém. Entre Veneráveis, existe um servi
 - **A pergunta de ficha que importa é:** "quantas Marcas você tem no Caminho que vai usar nesta cena?" — não "qual seu rank".
 - **Um Imortal NPC bem construído** declara duas coisas: rank (o que ele pode ativar) e nível de domínio no Caminho principal (o quanto isso dói). Ver [[⚔️ Ameaças Genéricas por Rank|Ameaças Genéricas por Rank]].
 
-> [!warning] Achado sinalizado, não aplicado — amplificação por Marca pode ser não-linear no topo
-> O cânone (Cap. 852) documenta ~+20% de poder a cada 200 Marcas na faixa baixa, mas descreve saltos de centenas a milhares de vezes em rank 8 — não-linear, ao contrário dos +1 Nível de Dano por patamar desta escada. É número de combate/letalidade: não mexido sem simulação, registrado em `_Processo/🧭 Log de Decisões.md` → 🔔 Em aberto, pra decisão do autor.
+> [!success] 📕 Fechado por simulação — escada linear mantida
+> O cânone (Cap. 852) documenta ~+20% de poder a cada 200 Marcas na faixa baixa, mas descreve saltos de centenas a milhares de vezes em rank 8. Testado: simulação de duelo 1v1 no topo mostra que a escada linear atual já é esmagadora (>94% de vitória) em qualquer confronto que atravesse o Grande Mestre Supremo — o cânone descreve a fronteira entre ranks 7 e 8, não um salto dentro do rank 8. **Nenhuma mudança aplicada.** Detalhe: [[🧭 Log de Decisões]] (decisão 164).
