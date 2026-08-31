@@ -31,13 +31,15 @@ Toda cobrança do céu usa as mesmas cinco etapas, na mesma ordem. A **Calamidad
 
 | Evento | Etapas | Frequência |
 |---|---|---|
-| **Calamidade Terrestre** | **1 · 3 · 5** *(três testes)* | A cada 10 anos internos |
-| **Provação Celestial** | **1 · 2 · 3 · 4 · 5** *(cinco testes)* | A cada 100 anos internos |
-| **Grande Calamidade** *(rank 7+)* | As cinco | A cada 100 anos internos |
-| **Calamidade das Dez Mil** *(rank 8+)* | As cinco | A cada 100 anos internos |
-| **Calamidade do Caos** *(rank 9)* | As cinco | A cada 100 anos internos |
+| **Calamidade Terrestre** | **1 · 3 · 5** *(três testes)* | 10 anos internos nos ranks 6–7. **Para de ocorrer no rank 8** |
+| **Provação Celestial** | **1 · 2 · 3 · 4 · 5** *(cinco testes)* | 100 anos no rank 6 → 50 no rank 7 → 10 no rank 8. **Some no Venerável** |
+| **Grande Calamidade** *(rank 7+)* | As cinco | 100 anos no rank 7 → 50 no rank 8 → 10 no Venerável |
+| **Calamidade das Dez Mil** *(rank 8+)* | As cinco | 100 anos no rank 8 → 50 no Venerável |
+| **Calamidade do Caos** *(rank 9)* | As cinco | 100 anos internos, sempre |
 
-A Terrestre pula justamente as duas etapas que exigem o mestre desenhar algo sob medida. **A cobrança de rotina se resolve em três rolagens e dez minutos de mesa** — é isso que a torna jogável a cada década de tempo interno, em vez de virar um evento que a mesa passa a evitar.
+**A cadência acelera por rank: a cada salto, o evento mais frequente do patamar anterior some, todo o resto sobe um degrau (100→50→10 anos), e um evento novo aparece no topo a 100 anos.** Tabela completa de rank × evento, com a citação canônica, em [[☯️ Marcas de Dao]] — aqui só a resolução de cada uma importa.
+
+A Terrestre pula justamente as duas etapas que exigem o mestre desenhar algo sob medida. **A cobrança de rotina se resolve em três rolagens e dez minutos de mesa** — é isso que a torna jogável a cada década de tempo interno (nos ranks em que ela ainda ocorre), em vez de virar um evento que a mesa passa a evitar.
 
 ---
 

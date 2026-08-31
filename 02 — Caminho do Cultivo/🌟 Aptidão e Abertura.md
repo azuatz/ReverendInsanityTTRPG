@@ -36,7 +36,7 @@ Aptidão não é só o teto — também afeta a **velocidade de recuperação de
 Recuperação em descanso = (sua % de Abertura ÷ 10) por minuto
 ```
 
-Um Grau A (90%) enche um tanque de 360 em ~40 minutos de respiração tranquila; um Grau D leva mais que o dobro. Na prática de mesa: **entre uma cena e outra, todo mundo volta cheio; no meio de uma sequência apertada de cenas, quem tem Aptidão alta se recupera e quem não tem entra pela metade.**
+**Repare no que a conta faz sozinha: o grau de Aptidão sai da equação.** Essência máxima e velocidade de recuperação escalam pela mesma %, então um cancela o outro — um Grau A (90%) enche um tanque de 360 no mesmo tempo que um Grau D (30%) enche um de 120: **~40 minutos, estágio Inicial, qualquer grau.** O que muda o tempo de recarga é o **estágio**, não a Aptidão: como a Essência dobra a cada estágio mas a velocidade de recuperação não, encher o tanque no Pico leva `40 × 2³` = **320 minutos** (mais de 5 horas) — em qualquer grau. Na prática de mesa: **entre uma cena e outra, um personagem em estágio baixo volta cheio fácil; um personagem avançado no Pico pode não recuperar o tanque inteiro nem numa noite de descanso** — é o estágio que aperta a torneira, não o grau de Aptidão.
 
 ## 🌍 A distribuição do mundo — e por que ela NÃO é a rolagem de criação
 
@@ -50,7 +50,7 @@ Um Grau A (90%) enche um tanque de 360 em ~40 minutos de respiração tranquila;
 | ~21% | **Grau D** (20–39%) — teto rank 1–2. A base de qualquer clã |
 | ~6% | **Grau C** (40–59%) — teto rank 2 |
 | ~2,5% | **Grau B** (60–79%) — teto rank 3–4. Um por geração numa vila grande |
-| **~0,5%** | **Grau A** (80–99%) — teto rank 5. **Um a cada duzentos que abrem**, ou um a cada seiscentas pessoas |
+| **~0,5%** | **Grau A** (80–99%) — teto rank 5. **Um a cada sessenta que abrem**, ou um a cada duzentas pessoas |
 | **~1 em muitos milhões** | Um dos Dez Físicos Extremos. Uma vez por era, por região |
 
 **Como usar:** role `1d80+20` para PJs e para qualquer NPC que a história declare excepcional. Para preencher população, use a coluna da esquerda — a maioria absoluta de quem o grupo encontra **nunca abriu Abertura nenhuma**, e é exatamente isso que faz um Mestre de Gu de rank 1 ser uma autoridade numa aldeia.

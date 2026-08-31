@@ -25,7 +25,7 @@ Uma Pedra Primordial, quando usada, vira Verdadeira Essência que reabastece a A
 | Gu de rank 1 no mercado | ~500 Pedras |
 | Gu de rank 3 no mercado | 1.000 – 10.000 Pedras |
 | Entrar no 4º centro de uma [[🏙️ Metrópoles — Centros, Tokens e Arena\|metrópole]] | 200 Pedras |
-| Um dia de cultivo acelerado a pedra ([[🧘 Ritmo de Cultivo e Cultivo Fechado]]) | 1 – 16 Pedras, pelo rank |
+| Um dia de cultivo acelerado a pedra ([[🧘 Ritmo de Cultivo e Cultivo Fechado]]) | 3 – 768 Pedras, pelo rank (1/2/3/4/5) |
 
 **Não dá pra usar Pedra Primordial pra repor essência durante o combate.** Parar pra isso no meio de uma luta é o mesmo que se entregar — o processo exige atenção total, tempo que ninguém tem em combate.
 

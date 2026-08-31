@@ -93,7 +93,7 @@ Quando um personagem ascende, ele ganha a própria Terra Abençoada — que **na
 Três atalhos existem, todos caros:
 
 - **Herdar uma terra que já tem espírito** — a rota mais comum, e o motivo pelo qual heranças imortais são disputadas a ferro (ver [[📜 Manuais e Heranças|Manuais e Heranças]]).
-- **Anexar a Terra Abençoada de outro Imortal** com o espírito junto — exige nível Grão-Mestre no Caminho (ver [[☯️ Marcas de Dao|Marcas de Dao]]). O espírito anexado guarda rancor: começa **Guardião**, nunca Aliado, e sabota se puder.
+- **Anexar a Terra Abençoada de outro Imortal** com o espírito junto — o domínio exigido escala com o rank da terra-alvo: nível **Mestre** já basta contra uma terra de rank 6, **Grão-Mestre** só é exigido a partir de rank 7 (ver [[☯️ Marcas de Dao|Marcas de Dao]]). O espírito anexado guarda rancor: começa **Guardião**, nunca Aliado, e sabota se puder.
 - **Semear um espírito** — investir a Terra Abençoada até a camada 3 e depois alimentá-la com essência por décadas ininterruptas. Projeto de fundo de campanha longa; o único caminho que gera um espírito naturalmente leal.
 
 ---
