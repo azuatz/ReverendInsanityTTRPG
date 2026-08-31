@@ -288,3 +288,9 @@ provando que a causa real era volume de ações (penhasco entre 6 e 8
 ações/rodada: 90%→13%, não uma rampa). Autor escolheu, entre 3 opções: composição
 escalada por rank, igual o Chefe já faz. Ranks 1-4: 3 Mestres (1 Alma) + 1
 Guerreiro; rank 5+: 4 Mestres (2 Alma). Aplicado em [[⚔️ Ameaças Genéricas por Rank]] e [[🎯 Simulação de Combate — Resultados]].
+
+## [2026-08-31] otimização | Metrópoles conferida contra a fonte primária (decisão 138)
+Fidelidade (Frente 2/3 da síntese): pedágios de base (10+100 antes dos 5 centros), 2º/1º
+centro fechados a dinheiro (sangue de clã, não preço), limiares de arena 30/80 (não
+5/15), regra matar-vs-vencer no saque, desafio forçado mensal, teto mundial do token
+Cristal Roxo (~200). [[🏙️ Metrópoles — Centros, Tokens e Arena]] atualizada.

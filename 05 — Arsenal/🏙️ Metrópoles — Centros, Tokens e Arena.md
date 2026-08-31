@@ -19,7 +19,7 @@ Toda campanha precisa de no máximo uma ou duas metrópoles — elas são o **fi
 
 ## 🏔️ Os cinco centros
 
-A cidade sobe (e entra) pela montanha em anéis. **Paga-se pra atravessar cada portão**, e a taxa é o filtro — não há teste de mérito, não há convite: há Pedras Primordiais. *(Números conferidos contra a fonte primária — decisão 137.)*
+A cidade sobe (e entra) pela montanha em anéis. **Paga-se pra atravessar cada portão**, e a taxa é o filtro — não há teste de mérito, não há convite: há Pedras Primordiais. *(Números conferidos contra a fonte primária — decisão 138.)*
 
 **Antes dos cinco centros, dois portões de base:** a **cidade externa** (toda a superfície da montanha — **10 pedras** por pessoa) e o **checkpoint da caverna**, que separa a superfície da cidade escavada por dentro (**100 pedras**, sem token que isente). Só depois desses dois começam os cinco centros abaixo — chegar ao portão do 5º já custou 110 pedras.
 
@@ -77,7 +77,7 @@ Toda metrópole tem uma — na prática é a maior casa de espetáculos e de apo
 6. **Desafio forçado:** qualquer lutador pode forçar um confronto que o alvo não pode recusar — **1 vez por mês**, e no máximo **1 desafio emitido por dia** (por quem desafia). Fora isso, todo pareamento pode ser aceito ou recusado livremente.
 7. **Regra de atividade:** lutar pelo menos **1 vez a cada 10 dias**, ou perde uma vitória do histórico; **5 derrotas totais** cancela a qualificação da faixa e devolve o lutador ao nível baixo.
 
-| Faixa | Onde | Requisito *(conferido contra a fonte — decisão 137)* | Bolsa por vitória *(pela lotação)* |
+| Faixa | Onde | Requisito *(conferido contra a fonte — decisão 138)* | Bolsa por vitória *(pela lotação)* |
 |---|---|---|---|
 | **Nível baixo** | 5º centro | 0 vitórias líquidas | **20 – 100 pedras** |
 | **Nível médio** | 4º centro | **30+ vitórias líquidas** | **150 – 600 pedras** |
@@ -93,4 +93,4 @@ Toda metrópole tem uma — na prática é a maior casa de espetáculos e de apo
 
 ---
 
-*Nascida do ingest de 2026-08-30 (decisão 114). Estrutura de centros e tokens: 🔧 adaptado da Cidade Shang por diretiva do autor; cores dos tokens: escala canônica das Relíquias. Conferida e corrigida contra a fonte primária na leitura integral de 2026-08-31 (decisão 137 — pedágios de base, 2º/1º centro fechados a dinheiro, limiares de arena 30/80, matar-vs-vencer no saque, teto mundial do token Cristal Roxo).*
+*Nascida do ingest de 2026-08-30 (decisão 114). Estrutura de centros e tokens: 🔧 adaptado da Cidade Shang por diretiva do autor; cores dos tokens: escala canônica das Relíquias. Conferida e corrigida contra a fonte primária na leitura integral de 2026-08-31 (decisão 138 — pedágios de base, 2º/1º centro fechados a dinheiro, limiares de arena 30/80, matar-vs-vencer no saque, teto mundial do token Cristal Roxo).*
