@@ -63,6 +63,16 @@ Três degraus de piora (por acúmulo de falhas) = morte. Um aliado pode estabili
 
 **Falhar o Teste de Morte pelo menos uma vez** (mesmo que estabilize depois) deixa sequela — a escolha é da mesa, mas o padrão recomendado é **−1 permanente num atributo à escolha do jogador dentre os afetados pela cena**, ou **perder o estágio mais recente conquistado** (regride um estágio dentro do rank atual) — nunca os dois ao mesmo tempo por um único Teste de Morte falho. Um personagem que se aproximou da morte sai da cena mais fraco, mesmo sobrevivendo — é o preço de sobrevivente que o tom do jogo pede.
 
+## Alma zerada — Colapso Espiritual
+
+Zerar a Alma **também não mata na hora** — mas o trilho é outro. O personagem desaba **inconsciente** (o corpo está intacto; a mente apagou), e no início de cada turno dele rola o mesmo **Teste de Morte** (`d20 sem bônus`, mesma tabela acima), agora espiritual. A diferença está nas pontas:
+
+- **Três degraus de piora** não matam: a alma se apaga num **coma espiritual** — o personagem não acorda com descanso nem cura de Vitalidade, só com tratamento de verdade (um Gu de cura de Alma ou Gu Médico de **rank 3+**, numa cena dedicada fora de combate).
+- **Sobreviver a um Colapso sempre deixa sequela de Alma**: **+1d6 de Contaminação** (se o personagem tem esse trilho — ver [[👻 Caminho da Alma]]) ou **−1 VON** até ser tratado (mesma via do coma: cena dedicada, Gu de rank 3+). A Alma máxima recalcula junto com a VON.
+- **A morte real é a segunda queda.** Zerar a Alma de novo **enquanto a sequela não foi tratada** apaga o personagem — sem teste, sem estabilização. A alma rachada não segura o segundo golpe.
+
+O desenho espelha o corpo: a primeira queda nunca mata, a repetição sem cuidado sim. Na prática, um golpe de Alma que apaga alguém tira essa pessoa da cena **e** cria o relógio da campanha — tratar a sequela antes da próxima luta contra qualquer coisa que bata na Alma.
+
 ## 💥 Destruição da Abertura — o estado terminal que não é morte
 
 Existe uma saída pior que morrer e melhor que sobreviver ileso: perder tudo e continuar vivo. **Raro por desenho** — nunca automático, sempre escolha do jogador. *(Decisão 130, inspirada pela adaptação em 3DeT Victory trazida como referência — ver [[Homebrew 3DeT — Lamúrias do Reverendo]].)*

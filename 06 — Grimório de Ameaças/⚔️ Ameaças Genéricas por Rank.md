@@ -202,6 +202,23 @@ Os números entre parênteses são a **vitória medida do grupo** numa mesa de 4
 
 Um Imortal não se descreve só pelo rank. Declare **rank + nível de domínio no Caminho principal** (ver [[☯️ Marcas de Dao|Marcas de Dao]]) — é o nível de domínio que diz quantos Níveis de Dano ele soma nos Gu do Caminho dele, e é isso que decide se a luta é difícil ou impossível.
 
+> [!important] A régua imortal é o ΔB, não a quantidade — a tabela de composição acima NÃO vale no rank 6+
+> Medido na oitava rodada de simulação: nos ranks 6-9, **toda** composição da
+> tabela mortal vira passeio (≥93% de vitória, chegando a 100% no rank 9) —
+> a escada de dificuldade por quantidade colapsa na fase imortal. O que regula
+> dificuldade lá é **uma coisa só: o diferencial de nível de domínio (ΔB)**
+> entre o inimigo e o grupo:
+>
+> | ΔB do inimigo vs. o grupo | Vitória do grupo *(medida)* | Use como |
+> |---|---|---|
+> | **igual (ΔB 0)** | 77-100% — passeio | Fácil / cena de abertura, em qualquer quantidade razoável |
+> | **+1 nível de domínio** | **~20%** | A cena Difícil imortal — um inimigo só já basta |
+> | **+3 níveis** | **~6%** | Sentença. Fuga, negociação, ou Golpe Matador com a Brecha descoberta |
+>
+> Monte a cena imortal escolhendo o ΔB do inimigo principal, não contando
+> cabeças. Escolta (Guerreiros/Hordas do rank) é textura — não muda a conta.
+> A fase mortal (ranks 1-5) segue a tabela de composição normalmente.
+
 **Imortal Recém-Ascendido (Elite, rank 6, Vislumbre)** — VIT `21 × 32` = 672, Defesa 20, RD 64, Gu Imortal de ataque `32d8` no passo padrão. Perigoso, mas ainda "novo".
 
 **Imortal Denso (Chefe, rank 6, real Pequeno Feito · ~9.000 Marcas · dois feitos de gênio pobre empilhados = opera como Grão-Mestre, decisão 133)** — VIT `63 × 32` = 2.016, Defesa 22, RD 64, mesmo Gu Imortal mas **+3 Níveis** pela densidade emprestada: passo padrão d8 sobe três degraus até `d12 + 1/dado` = **`32d12 + 32`**. É o exemplo de por que a contagem de Marca importa mais que o número do rank — e por que, no romance, é o mesmo Fang Yuan de rank 6 que bate como Grão-Mestre.

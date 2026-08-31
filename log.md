@@ -614,3 +614,6 @@ solo real; Lee colapsa (10-25%); Jiaotang e Demvi trocam de lugar com o rank
 (economia de essência). A regra da Horda (1 ataque por personagem de pé) escala
 pra baixo solo sem trivializar — item novo em "Em aberto". Resultados na seção
 nova de [[🎯 Simulação de Combate — Resultados]].
+
+## [2026-08-31] ingest | Régua ΔB imortal e Colapso Espiritual (decisão 205)
+Duas das três marteladas do autor sobre o menu de decisões. [[⚔️ Ameaças Genéricas por Rank]]: callout declarando que a tabela de composição mortal não vale no rank 6+ — cena imortal se dosa por diferencial de domínio (ΔB 0 = passeio · +1 ≈ 20% · +3 ≈ 6%), números da oitava rodada virando régua oficial; opção (c) da pendência da decisão 202. [[❤️ Recursos e Dano]]: Colapso Espiritual pra Alma zerada — inconsciente + Teste de Morte espiritual, coma tratável em vez de morte no terceiro degrau, sequela obrigatória (Contaminação ou −1 VON), morte real só na segunda queda sem tratar. Termo no Dicionário. A terceira martelada (Alma rara entre inimigos + recalibração) é a décima rodada de simulação.
