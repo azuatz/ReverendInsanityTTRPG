@@ -44,6 +44,14 @@ contradições. O script mecânico fica em `_Processo/ferramentas/lint_vault.py`
 
 **Abra quando:** quiser saber o que ainda está pendente de revisão no vault.
 
+### 🗺️ [[🗺️ Plano de Ingest — Feedback 2026-08-30]]
+
+Roteiro das 10 frentes de trabalho abertas pelo feedback do autor de 2026-08-30
+(remoções de combate, economia canônica, cidades grandes, arenas, tempo de
+cultivo, imortalidade, Níveis de Dano, heranças, missões e catálogo).
+
+**Abra quando:** for retomar o trabalho no sistema e quiser saber o que falta.
+
 ---
 
 ## Se você mudar uma regra

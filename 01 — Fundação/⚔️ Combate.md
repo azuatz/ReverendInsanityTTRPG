@@ -94,31 +94,11 @@ Uma regra só cobre a escada inteira, do chão ao teto. Um Gu de Terra (d6) que 
 
 ---
 
-## ⏱️ Rolagem rápida — como não rolar 256 dados
+## ⏱️ Rolar é obrigatório — o dano nunca é fixo
 
-Obrigatório a partir do rank 5. A média de um dado é `(faces + 1) ÷ 2`: **d6 = 3,5 · d8 = 4,5 · d10 = 5,5 · d12 = 6,5.**
+**Dano é sempre rolado, em qualquer rank.** A graça do pool é a incerteza — trocar os dados pela média transforma o clímax da campanha em aritmética, e foi decidido que isso não acontece nesta mesa (decisão 103).
 
-| Quantos dados | Como resolver |
-|---|---|
-| **1 a 8** | Role todos. É a faixa dos ranks 1 a 4 |
-| **9 a 24** | **Role 8 dados** e some a média dos restantes. Mantém a sensação de rolagem sem virar aritmética |
-| **25 ou mais** | **Use a média direto.** Role 8 dados só se a cena for um clímax e a mesa quiser o teatro |
-
-### Tabela de médias (já arredondada)
-
-| M | Rank | **d6** | **d8** | **d10** | **d12** |
-|---|---|---|---|---|---|
-| 1 | 1 | 4 | 5 | 6 | 7 |
-| 2 | 2 | 7 | 9 | 11 | 13 |
-| 4 | 3 | 14 | 18 | 22 | 26 |
-| 8 | 4 | 28 | 36 | 44 | 52 |
-| 16 | 5 | 56 | 72 | 88 | 104 |
-| 32 | 6 | 112 | 144 | 176 | 208 |
-| 64 | 7 | 224 | 288 | 352 | 416 |
-| 128 | 8 | 448 | 576 | 704 | 832 |
-| 256 | 9 | 896 | 1.152 | 1.408 | 1.664 |
-
-**Some o bônus por dado depois:** `média da tabela + (M × B)`. Um rank 6 d12 no domínio Mestre (B = 2) causa `208 + 64` = **272** sem rolar nada.
+Pra rolar 32+ dados sem travar a mesa: rolem em punhados (8 de cada vez, somando), ou usem um rolador digital (`/roll 64d12` em qualquer bot de Discord). O que não se faz é substituir a rolagem por um número pronto.
 
 ---
 
@@ -134,8 +114,9 @@ Defesa = 10 + DES + rank do personagem + rank do Gu de movimento/defesa ativo
 | Você está atacando com... | Atributo |
 |---|---|
 | **Arma ou corpo, corpo a corpo** | FOR |
-| **Arma à distância** | DES |
 | **Um Gu de ataque** | VON |
+
+**Não existem armas à distância mundanas.** Arco, besta e funda não fazem parte do arsenal deste mundo — ataque à distância é trabalho de Gu, sempre (decisão 104). Quem quer alcance carrega um Gu de ataque à distância.
 
 E quando um Gu **força um teste no alvo** em vez de rolar acerto:
 

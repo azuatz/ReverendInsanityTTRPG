@@ -47,9 +47,20 @@ grafo fechado. Achados e o que foi feito:
 
 ## Rodada [2026-08-30] — as quatro auditorias profundas
 
-Quatro varreduras de leitura feitas em paralelo por agentes. Achados de conteúdo
-**aguardam decisão do autor** (schema §5-Lint: correção de conteúdo passa pelo
-autor); nada foi editado nas notas de regra ainda.
+Quatro varreduras de leitura feitas em paralelo por agentes.
+
+> [!warning] Nada aqui foi corrigido ainda
+> Estes são achados de **conteúdo**, e o schema (`CLAUDE.md` §5-Lint) manda que
+> correção de conteúdo passe pelo autor. Nenhuma nota de regra foi editada.
+> Quando um achado for resolvido, marque-o aqui e registre a mudança no
+> [[🧭 Log de Decisões]].
+
+> [!danger] Se for consertar só uma coisa, conserte esta
+> O [[🎓 Guia do Mestre Iniciante]] ensina cura de Gu como `M d10` em dois
+> lugares, contra o `M d8` da **decisão 14** do [[🧭 Log de Decisões]], da
+> [[📄 Folha de Referência]] e do [[📖 Catálogo de Gu]]. É a rota de leitura
+> recomendada para o mestre novo ensinando um número errado — e pela hierarquia
+> do vault, quem está errado é o Guia.
 
 ### A. Vazamento de escopo (pastas 01–06)
 
@@ -152,8 +163,8 @@ tão boa — 47 verbetes de uma linha, rotas de leitura com tempo estimado, e
 consertos pontuais, nenhum estrutural.
 
 **As 5 divergências — o achado mais perigoso, porque o leigo não tem repertório
-para desconfiar de qual lado está certo, e duas estão no [[🎓 Guia do Mestre
-Iniciante]], que é a rota recomendada:**
+para desconfiar de qual lado está certo, e duas estão no
+[[🎓 Guia do Mestre Iniciante]], que é a rota recomendada:**
 
 1. **Cura de Gu: d10 vs d8.** O [[🎓 Guia do Mestre Iniciante]] diz `M d10` em
    dois lugares (Parte 1 e Parte 2); [[❤️ Recursos e Dano]] l.82, a

@@ -27,4 +27,4 @@ permanece intocada como registro do que foi dito originalmente.
 
 | Fonte | Ingerida em | Notas tocadas |
 |---|---|---|
-| *(vazio — primeira fonte ainda não chegou)* | | |
+| [[Feedback do autor — grande rodada 2026-08-30]] | 2026-08-30 *(em curso)* | ver [[🗺️ Plano de Ingest — Feedback 2026-08-30]] |
