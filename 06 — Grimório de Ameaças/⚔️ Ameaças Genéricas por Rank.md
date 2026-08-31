@@ -153,18 +153,22 @@ Os números entre parênteses são a **vitória medida do grupo** numa mesa de 4
 |---|---|---|---|---|
 | **Fácil** | Horda de 8 *(100%)* | Horda de 8 *(100%)* | Horda de 8 *(100%)* | Horda de 8 *(100%)* |
 | **Padrão** | **2 Mestres + 1 Guerreiro** *(92%)* | 3 Mestres de Gu *(77%)* | idem *(85%)* | idem *(99%)* |
-| **Padrão pesado** | 2 Mestres + Horda de 8 *(71%)* | idem *(64%)* | idem *(63%)* | idem *(85%)* |
+| **Padrão pesado** | 2 Mestres + Horda de 8 *(63%)* | idem *(57%)* | idem *(50%)* | idem *(76%)* |
 | **Difícil** | 3 Mestres + 1 Guerreiro *(30%)* | idem *(35%)* | idem *(46%)* | 4 Mestres *(38%)* |
 | **Clímax** | 1 Elite especial + 3 Mestres *(68%)*✝, ou Chefe + Guerreiro *(3%)* 🔴 | idem, Chefe + Guerreiro *(54%)* | 1 Elite especial + 3 Mestres *(44%)*✝, ou Chefe + Guerreiro *(86%)* | 1 Elite especial + 3 Mestres *(46%)*✝, ou Chefe + Guerreiro *(90%)* |
 
 *(✝ não retestado desde a terceira rodada — e sob a regra de Alma rara os 3 Mestres dessa variante também mudam de especial, então o número está duplamente desatualizado.)*
+
+**A linha de "Padrão pesado" caiu 8-13 pontos porque o piso de ataques da Horda a endurece** — os 71/64/63/85 anteriores eram medição feita **antes** do piso. Remedida na décima primeira rodada de simulação: 63% · 57% · 50% · 76%. É a única cena da tabela que o piso move de verdade (as outras quatro conferem com o publicado dentro de 1,5 ponto), porque é a única em que a Horda é metade da força inimiga.
+
+**Quanto tempo a cena dura, medido:** Fácil 2,5-4,6 rodadas · Padrão 6,0-7,7 · Padrão pesado 7,6-10,4 · Difícil 8,3-8,9 · Clímax 6,8-10,7. Se a mesa quiser cenas curtas, o botão **não** é dano nem RD — é o número de peças, e ele é o mesmo botão da dificuldade (ver [[🎯 Simulação de Combate — Resultados#⏱️ Décima primeira rodada — encurtando a cena (2026-08-31)|a décima primeira rodada]]).
 
 **Os números acima já assumem a regra de Alma rara** (décima rodada de simulação): todo Mestre de Gu com a Ação Especial do próprio Caminho, e o cultivador de Alma entrando só pela exceção rolada de 1d6 (ver o molde acima). Contraintuitivo mas medido: **tirar o Alma do padrão deixou as cenas um pouco MAIS difíceis, não mais fáceis** (2-10 pontos) — uma especial de Alma isolada gasta o golpe numa barra que nada mais ataca, enquanto a especial física soma no foco de fogo e aplica Lentidão com mais frequência. Histórico completo em [[🎯 Simulação de Combate — Resultados#🔇 Décima rodada — Alma rara entre inimigos (2026-08-31)|a décima rodada]].
 
 > [!note] Duas exceções por rank, e as duas são deliberadas
 > **Padrão muda de composição no rank 1** (2 Mestres + 1 Guerreiro em vez de 3 Mestres) pelo mesmo motivo que Difícil já muda desde a decisão 137: o penhasco de volume de ações não deixa composição intermediária, e 3 Mestres no rank 1 dão 62% — abaixo da faixa de 75-99% que "Padrão" promete. Do rank 2 em diante, 3 Mestres volta a ser a composição certa.
 >
-> **Difícil nos ranks 1-2 (30%/35%) é quase-Clímax, e está aceito assim** (decisão do autor): nessa faixa o grupo ainda não tem arsenal pra amortecer 7 ações por rodada, e a cena Difícil de rank baixo é legitimamente a mais perigosa da fase inicial. Se a mesa quiser algo mais suave ali, use Padrão pesado (71%/64%) — não existe degrau entre os dois com as peças atuais.
+> **Difícil nos ranks 1-2 (30%/35%) é quase-Clímax, e está aceito assim** (decisão do autor): nessa faixa o grupo ainda não tem arsenal pra amortecer 7 ações por rodada, e a cena Difícil de rank baixo é legitimamente a mais perigosa da fase inicial. Se a mesa quiser algo mais suave ali, use Padrão pesado (63%/57%) — não existe degrau entre os dois com as peças atuais.
 
 **Clímax é o único nível onde uma cena inteira de cultivadores de Alma é intencional.** É lá, e só lá, que o alfa-strike total contra as quatro barras de Alma do grupo deve acontecer — a promessa do Caminho da Alma ("ignora RD por completo", [[👻 Caminho da Alma]]) continua absoluta; a regra de Alma rara muda a **frequência** do inimigo de Alma, não o poder dele. Fora do Clímax, cultivador de Alma inimigo é a exceção de 1d6 do [[#🧑‍🦱 Mestre de Gu — o inimigo humano|Mestre de Gu]] mais acima.
 

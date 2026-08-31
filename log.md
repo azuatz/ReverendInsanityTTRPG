@@ -634,3 +634,19 @@ aberto". Seção nova em [[🎯 Simulação de Combate — Resultados]].
 
 ## [2026-08-31] ingest | Padrão escalado por rank e piso de ataques da Horda (decisão 207)
 Duas marteladas do autor sobre pendências de simulação, ambas em [[⚔️ Ameaças Genéricas por Rank]]. Padrão vira escalado por rank (2 Mestres + 1 Guerreiro no rank 1 = 92% medido; 3 Mestres do rank 2 em diante), fechando a pendência da décima rodada; Difícil de rank 1-2 aceito como quase-Clímax por decisão explícita, com o aviso de "células fora da faixa" substituído pela explicação das duas exceções. A Horda ganha piso de ataques (mínimo 2/rodada contra dois alvos, 3 contra um só), fechando a pendência da nona rodada — sem o piso, a nona mediu cena solo virando atrito de 10-19 rodadas. Fechados também no "Em aberto" os itens já resolvidos pela decisão 205 (composição imortal → régua ΔB). A terceira martelada (encurtar a duração das cenas pra 4-6 rodadas) virou a décima primeira rodada, em curso.
+
+## [2026-08-31] simulação | Décima primeira rodada — encurtando a cena (decisão 208)
+Medição isolada das três alavancas de encurtamento da pendência da decisão 160
+(RD menor · mais dano por Nível · menos inimigos), contra o alvo do autor de ~4-6
+rodadas, com os dois guarda-corpos obrigatórios (curva de letalidade da decisão 78,
+penhasco de ações da decisão 137). Script novo
+[[simulacoes/2026-08-31-decima-primeira-duracao.py]], 3.000 iterações/célula,
+semente 20260830. **Nenhuma alavanca passa limpa — decisão negativa, nada de motor
+aplicado.** Baseline 8,13 rodadas; RD menor encurta 6-13% (mas é a única que melhora
+a fidelidade à decisão 78), +Níveis encurta 13-23% reescrevendo a escada de
+letalidade, menos inimigos encurta 25% e apaga a escada de dificuldade. Achado
+estrutural: duração e dificuldade são o mesmo botão (o número de corpos). Duas
+hipóteses alternativas medidas e rejeitadas (economia de Essência, barra da Horda).
+Única edição de regra: a linha de Padrão pesado de [[⚔️ Ameaças Genéricas por Rank]]
+remedida (71/64/63/85 → 63/57/50/76), desatualizada pelo piso de Horda da decisão 207.
+Menu de quatro saídas devolvido ao autor em "Em aberto".

@@ -11,6 +11,8 @@ escopo: processo
 # 🎯 Simulação de Combate — Resultados
 
 > [!important] Rodada mais recente
+> A **décima primeira rodada** ([[#⏱️ Décima primeira rodada — encurtando a cena (2026-08-31)|2026-08-31]]) mede as três alavancas de encurtamento da decisão 160 **isoladas** (RD menor · mais dano por Nível · menos inimigos), contra o alvo do autor de ~4-6 rodadas e com dois guarda-corpos: a curva de letalidade da decisão 78 e o penhasco de ações da decisão 137. **Veredito: nenhuma passa limpa, e nada de motor foi aplicado.** RD menor encurta só 6-13% (mas é a única que *melhora* a fidelidade à decisão 78); mais dano por Nível encurta 13-23% reescrevendo a escada de letalidade inteira; menos inimigos encurta 25% e apaga a escada de dificuldade (Padrão vira 99-100%). O achado estrutural: **duração e dificuldade são o mesmo botão** — a cena é governada pelo número de corpos, não pela dureza deles. Menu de quatro saídas devolvido ao autor em "Em aberto".
+>
 > A **décima rodada** ([[#🔇 Décima rodada — Alma rara entre inimigos (2026-08-31)|2026-08-31]]) aplica a diretiva do autor "inimigos muito raramente terão poder de Alma": o molde Mestre de Gu troca o default da especial de Alma pela física, com o cultivador de Alma virando exceção rolada (1d6 = 6). Achado principal, **contraintuitivo e medido**: Alma rara torna as cenas 2-10pp MAIS difíceis, não mais fáceis — uma especial de Alma isolada desperdiça o golpe numa barra que nada mais ataca; os limites das decisões 135/137 já tinham removido a pilha que fazia Alma matar. Tabela de composição atualizada pros números do mix rolado; três células fora da faixa histórica (Padrão r1, Difícil r1-2) escaladas ao autor.
 >
 > A **oitava rodada** ([[#🏰 Oitava rodada — bateria de grupo nos ranks imortais (2026-08-31)|2026-08-31]]) fecha a última lacuna de cobertura: a primeira bateria de **grupo × cena nos ranks imortais (6-9)**, com dois perfis de densidade de Marca por rank. Achado principal: **a escada de dificuldade das composições mortais colapsa acima do rank 5** — quase toda cena vira ≥93% de vitória do grupo, e a dificuldade *cai* conforme o rank sobe. O dial de dificuldade imortal é o **diferencial de nível de domínio** (ΔB), não a composição — registrado como pendência nomeada pro autor, sem mexer nas tabelas.
@@ -591,6 +593,154 @@ O C é a leitura mais fiel da diretiva: "muito raramente" não é "nunca" — e 
 ### O que mudou / o que fica pro autor
 
 **Aplicado** (era ordem direta, não escolha): o molde Mestre de Gu de [[⚔️ Ameaças Genéricas por Rank]] muda o default da Ação Especial de Alma pra especial física do próprio Caminho, com o cultivador de Alma virando exceção rolada (1d6 = 6); a tabela de composição recebe os números do mix C e perde a linguagem de limite de Alma das decisões 135/137/154 (obsoleta — sem Alma como default, não há o que limitar); [[🎓 Guia do Mestre Iniciante]] (Parte 7) e [[🏰 Conversão Medieval]] atualizados na mesma linha. **Pro autor** ("Em aberto" no Log): as três células fora da faixa (Padrão r1 62% · Difícil r1-2 30/35%) e o menu medido acima — aceitar os números novos como a régua real de rank baixo, adotar Padrão escalado por rank (2M+1G no rank 1, 92%), ou reabrir o desenho da cena Difícil de rank baixo, que o penhasco de ações deixou sem alvo alcançável.
+
+---
+
+## ⏱️ Décima primeira rodada — encurtando a cena *(2026-08-31)*
+
+Pendência da decisão 160, agora com veredito do autor: **encurtar de verdade, alvo ~4-6 rodadas** (o vault media 7-12 contra o alvo declarado de ~3 de *Feiticeiros e Maldições*), sabendo que é recalibração de motor. A pendência lista três alavancas — **RD menor · mais dano por Nível · menos inimigos por cena** — e o autor pediu o método que funcionou nos três mixes de Alma da décima rodada: **medir cada alavanca ISOLADA, mesma semente, antes de aplicar qualquer coisa**, com dois guarda-corpos obrigatórios (a curva de letalidade por Caminho da decisão 78 e o penhasco de ações da decisão 137).
+
+Script: [[simulacoes/2026-08-31-decima-primeira-duracao.py|_Processo/simulacoes/2026-08-31-decima-primeira-duracao.py]] — cópia do motor da décima rodada com a contagem de rodadas de `2026-08-31-duracao-de-cena-vs-fm.py` e duas sincronizações com a tabela publicada depois da decisão 207 (Padrão de rank 1 = 2 Mestres + 1 Guerreiro; piso de ataques da Horda). 3.000 iterações/célula, semente `20260830`, mix de Alma C.
+
+### Como cada alavanca foi parametrizada *(e por que)*
+
+| Alavanca | Grau fraco | Grau forte |
+|---|---|---|
+| **L1 — RD menor** | `RD × 0,5` nos dois lados (o `1 × M` do molde vira `0,5 × M`) | `RD = 0` — nenhuma RD na cena |
+| **L2 — mais dano por Nível** | **+1 Nível de Dano** em todo ataque dos dois lados | **+2 Níveis** |
+| **L3 — menos inimigos** | uma peça a menos em cada composição *(grau único)* | — |
+
+Duas escolhas de parametrização, declaradas: **(a)** o **piso de dano** (`nunca abaixo de M`) fica intacto nos dois graus de L1 — ele não é RD, é o chão que impede a anulação, e baixar RD só faz o piso deixar de ser atingido. **(b)** Em L2 **não** usei "B conta dobrado", que era a sugestão: no rank 1 o estágio é Inicial e `B = 0`, então dobrar B é rigorosamente nulo em um terço da bateria — justamente onde a cena mais dói. Usei a moeda que a decisão 79 já define e que funciona em todo rank: +1/+2 Níveis sobem o tipo do dado (d6→d8→d10→d12) e, já em d12, viram `+1 por dado`.
+
+### Baseline — o estado atual, já com a decisão 207 dentro
+
+| Cena | rank 1 | rank 2 | rank 3 | rank 5 |
+|---|---|---|---|---|
+| **Fácil** | 100% · **2,51 rd** | 100% · **3,44 rd** | 100% · **4,08 rd** | 100% · **4,57 rd** |
+| **Padrão** | 92,3% · 6,04 rd | 76,6% · 7,71 rd | 86,1% · 7,47 rd | 98,1% · 6,34 rd |
+| **Padrão pesado** | **63,3%** · 7,58 rd | **57,2%** · 8,92 rd | **50,1%** · 9,68 rd | **75,5%** · 10,44 rd |
+| **Difícil** | 30,8% · 8,29 rd | 31,9% · 8,83 rd | 45,8% · 8,91 rd | 37,7% · 8,77 rd |
+| **Clímax** | 3,1% · 6,75 rd | 54,7% · 10,66 rd | 87,2% · 9,28 rd | 89,3% · 8,06 rd |
+
+Dois achados já no baseline, antes de qualquer alavanca:
+
+1. **A decisão 207 já comprou 1-2 rodadas de graça.** A medição que abriu a pendência (7,59-11,61) virou 6,04-10,66 sem nenhuma mudança de motor — só o Padrão aliviado no rank 1 e o piso de ataques da Horda. **"Fácil" já está dentro do alvo** (2,5-4,6 rodadas) e "Padrão" encosta nele.
+2. 🔴 **A linha de "Padrão pesado" publicada ficou desatualizada pela própria decisão 207.** O piso de ataques da Horda endurece a cena que mais depende dela: os **71% · 64% · 63% · 85%** da tabela são medição pré-piso e valem hoje **63,3% · 57,2% · 50,1% · 75,5%** (−8 a −13pp). É correção mecânica de número medido, não escolha de design — corrigida em [[⚔️ Ameaças Genéricas por Rank]]. As outras quatro linhas conferem com o publicado dentro de ≤1,5pp.
+
+### As três alavancas — RODADAS MÉDIAS *(alvo do autor: 4-6)*
+
+| Cena / rank | BASE | L1a `RD×0,5` | L1b `RD=0` | L2a `+1 Nível` | L2b `+2 Níveis` | L3 `−1 peça` |
+|---|---|---|---|---|---|---|
+| Padrão r1 | 5,94 | 5,79 | 5,39 | 5,53 | **4,97** | **4,35** |
+| Padrão r3 | 7,51 | 7,05 | 6,70 | 6,66 | 6,02 | **4,41** |
+| Padrão r5 | 6,31 | 6,25 | **5,77** | **5,79** | **5,32** | **4,06** |
+| Padrão pesado r1 | 7,56 | 7,21 | 6,79 | 6,36 | **5,55** | **4,81** |
+| Padrão pesado r3 | 9,70 | 9,22 | 8,78 | 8,44 | 7,42 | 6,66 |
+| Padrão pesado r5 | 10,42 | 10,31 | 9,95 | 9,44 | 8,46 | 6,78 |
+| Difícil r1 | 8,29 | 7,55 | 6,84 | 6,71 | **5,69** | 7,67 |
+| Difícil r3 | 8,92 | 8,21 | 7,76 | 7,59 | 6,63 | 7,51 |
+| Difícil r5 | 8,81 | 8,15 | 7,76 | 7,56 | 6,78 | 6,32 |
+| Clímax r1 | 6,75 | 6,35 | **5,90** | **5,80** | **5,10** | 7,59 |
+| Clímax r3 | 9,29 | 8,01 | 7,13 | 8,03 | 7,17 | 6,99 |
+| Clímax r5 | 8,01 | 7,14 | 6,23 | 7,01 | 6,28 | **5,91** |
+| **média das 12 células** | **8,13** | 7,60 | 7,08 | 7,08 | **6,28** | **6,09** |
+| **encurtamento** | — | −6,5% | −12,9% | −12,9% | **−22,7%** | **−25,1%** |
+| **células dentro de 4-6** | 1 / 12 | 1 / 12 | 3 / 12 | 3 / 12 | **6 / 12** | **5 / 12** |
+
+### As três alavancas — VITÓRIA DO GRUPO *(o que cada uma custa)*
+
+| Cena / rank | BASE | L1a | L1b | L2a | L2b | L3 |
+|---|---|---|---|---|---|---|
+| Padrão r1 | 92,7% | 91,8% | 89,7% | 86,2% | 84,0% | **99,0%** |
+| Padrão r3 | 85,6% | 82,8% | 82,4% | 80,3% | 75,8% | **100,0%** |
+| Padrão r5 | 98,7% | 97,5% | 97,9% | 97,7% | 96,3% | **100,0%** |
+| Padrão pesado r1 | 64,4% | 58,7% | **51,4%** | 53,0% | **47,3%** | **98,8%** |
+| Padrão pesado r3 | 50,0% | 42,9% | **36,7%** | 45,5% | **39,5%** | **99,0%** |
+| Padrão pesado r5 | 76,5% | 67,7% | **61,9%** | 68,8% | 65,0% | **99,9%** |
+| Difícil r1 | 29,8% | 28,8% | 25,1% | 25,3% | 21,0% | **63,7%** |
+| Difícil r3 | 46,0% | 43,3% | 43,1% | 40,2% | 35,6% | **84,3%** |
+| Difícil r5 | 35,8% | 31,1% | 34,0% | 32,3% | 31,9% | **98,6%** |
+| Clímax r1 | 3,2% | 5,9% | 8,5% | 5,4% | 5,3% | 10,6% |
+| Clímax r3 | 86,1% | 91,1% | 94,8% | 85,4% | 86,5% | **99,6%** |
+| Clímax r5 | 89,6% | 93,9% | 95,9% | 89,4% | 90,1% | **99,2%** |
+
+**L1 e L2 tiram vitória do grupo, não dão.** É a mesma assimetria de sempre: os inimigos têm mais ações por rodada que os PJs, então qualquer coisa que acelere a troca de golpes acelera mais o lado que bate mais vezes. A exceção é o Clímax, onde o inimigo é **um** corpo — lá L1 devolve 3-9pp ao grupo, porque a `RD 2 × M` do Chefe era metade do problema.
+
+### 🛡️ Guarda-corpo 1 — a curva de letalidade da decisão 78
+
+Acertos pra derrubar um alvo de rank igual com CON padrão, medido direto (Vitalidade ÷ dano médio por acerto, com RD e piso já aplicados — não inferido). No **rank 1 sem RD** a medição reproduz a escada publicada com 3 casas, o que valida o método antes de julgar qualquer alavanca:
+
+| Leitura | d6 | d8 | d10 | d12 | razão d6/d12 |
+|---|---|---|---|---|---|
+| **publicada (decisão 78)** | **5,14** | **4,00** | **3,27** | **2,77** | **1,86** |
+| BASE — sem RD *(a definição)* | 5,16 | 4,01 | 3,27 | 2,76 | 1,87 ✅ |
+| BASE — com RD `1 × M` *(a mesa de verdade)* | 6,78 | 4,98 | 3,90 | 3,25 | 2,09 |
+| L1a — com RD `0,5 × M` | 5,87 | 4,44 | 3,57 | 2,98 | 1,97 |
+| L1b — RD zero | 5,17 | 4,00 | 3,30 | 2,74 | 1,89 |
+| **L2a — +1 Nível** *(sem RD)* | **4,02** | **3,26** | **2,78** | **2,41** | 1,67 |
+| **L2b — +2 Níveis** *(sem RD)* | **3,29** | **2,77** | **2,40** | **2,12** | 1,55 |
+| L3 — idêntico ao BASE | 5,16 | 4,01 | 3,27 | 2,76 | 1,87 ✅ |
+
+Três leituras, e elas decidem a rodada:
+
+- ✅ **L1 não toca a escada — ela a CONSERTA.** A definição da decisão 78 é sem RD, então baixar RD não muda um dígito dela; o que muda é a leitura prática de mesa, que hoje está *distorcida* pela RD (2,09 de razão contra os 1,86 declarados, com o d6 pagando 6,78 acertos em vez de 5,14). Meia RD leva a mesa a 1,97; RD zero, a 1,89. **A alavanca de RD aproxima o jogo real do número publicado.**
+- 🔴 **L2 reescreve a escada inteira, nos dois graus.** Com +1 Nível, cada Caminho passa a matar como o Caminho **um degrau acima** matava (d6 vira 4,02 ≈ o d8 de hoje; d8 vira 3,26 ≈ o d10; d10 vira 2,78 ≈ o d12) — os quatro números publicados em [[⚔️ Combate]] e em [[❤️ Recursos e Dano]] ficam todos errados. Com +2 Níveis é pior: **d10 e d12 convergem** (2,40 vs 2,12, porque os dois já rolam d12 e só diferem no `+1 por dado`), e a razão d6/d12 cai de 1,86 pra 1,55 — o "um Caminho d6 leva quase o dobro de acertos que um d12" deixa de ser verdade. **Quatro perfis de letalidade viram uns três e meio.**
+- ✅ **L3 não toca a escada** — é composição, não motor.
+
+*(A escada não é perfeitamente estável entre ranks nem hoje: a Densidade da Essência soma `+4 × M × Grau` na Vitalidade e `+1 por dado` no dano, e as duas não crescem na mesma proporção — a razão d6/d12 cai de 1,87 no rank 1 pra 1,54 no rank 3 e 1,46 no rank 5. Isso é efeito da decisão 80, anterior a esta rodada, e não muda o veredito; fica registrado porque a decisão 78 afirma estabilidade "em todos os nove ranks" e a afirmação vale para o Grau 0, não para todos os Graus.)*
+
+### ⛰️ Guarda-corpo 2 — o penhasco de ações da decisão 137
+
+Swing de vitória ao somar **um Guerreiro** à composição publicada, em pontos percentuais. É o degrau sobre o qual a tabela de composição inteira repousa:
+
+| Alavanca | Padrão r1 | Padrão r3 | Padrão r5 | Difícil r1 | Difícil r3 | Difícil r5 |
+|---|---|---|---|---|---|---|
+| **BASE** | 23,8 | 41,1 | 15,0 | 24,6 | 33,6 | 28,4 |
+| L1a `RD×0,5` | 26,6 | 39,6 | 18,9 | 19,5 | 32,2 | 24,7 |
+| L1b `RD=0` | **29,3** | 40,7 | 18,3 | 19,1 | 31,5 | 27,0 |
+| L2a `+1 Nível` | **28,4** | 40,6 | **20,5** | 18,1 | 32,0 | 24,8 |
+| L2b `+2 Níveis` | **31,6** | 39,7 | **21,3** | 16,0 | 27,5 | 23,8 |
+| L3 `−1 peça` | 23,8 | 41,1 | 15,0 | 24,6 | 33,6 | 28,4 |
+
+**L1 e L2 inclinam o penhasco de um lado e o achatam do outro** — Padrão fica mais íngreme (23,8 → 31,6 no rank 1, 15,0 → 21,3 no rank 5, sob L2b), Difícil fica mais raso (24,6 → 16,0). Não é uma melhora: é o penhasco **mudando de lugar**, o que obriga a recalibrar a tabela de composição inteira em vez de só encurtar a cena. Sob L2b uma cena Padrão de rank 1 está a 31,6pp de virar uma cena Difícil por causa de um Guerreiro a mais — a tabela fica **menos** perdoável ao erro do mestre, não mais.
+
+**L3 é idêntico ao BASE por construção** (não mexe no motor) — mas isso é a armadilha, não o alívio: L3 **é** o penhasco. Aplicá-lo significa descer todas as cenas um degrau de 15 a 41pp de uma vez, e é exatamente o que a tabela de vitória acima mostra.
+
+### 🔴 O veredito — nenhuma das três alavancas passa limpa
+
+| Alavanca | Encurta? | Guarda-corpo 78 | Guarda-corpo 137 | Veredito |
+|---|---|---|---|---|
+| **L1a** `RD × 0,5` | −6,5% (8,13 → 7,60 rd). **Não chega perto de 4-6** | ✅ **melhora** a fidelidade (razão 2,09 → 1,97) | ⚠️ Padrão +3pp mais íngreme, Difícil −5pp | ❌ **Efeito pequeno demais.** Custa 6-9pp em Padrão pesado por 0,5 rodada |
+| **L1b** `RD = 0` | −12,9% (→ 7,08 rd). 3/12 células no alvo | ✅ razão 1,89, praticamente a publicada | ⚠️ Padrão +5,5pp mais íngreme | ❌ **Deleta um subsistema.** Sem RD, "Alma ignora RD por completo" e "Espada/Relâmpago ignoram metade" viram frases sem efeito — a coluna "o que ganha" do perfil **d12** em [[⚔️ Combate]] deixa de existir, e com ela a resposta estrutural do jogo ao inimigo de rank superior. Armadura mortal (0/1/2/3/4) vira decoração. Custa 13-15pp em Padrão pesado |
+| **L2a** `+1 Nível` | −12,9% (→ 7,08 rd). 3/12 no alvo | 🔴 **escada inteira sobe um degrau** — os 4 números publicados ficam errados | 🔴 Padrão +4,6 / +5,5pp mais íngreme | ❌ **Paga a escada de letalidade e não chega ao alvo** |
+| **L2b** `+2 Níveis` | **−22,7%** (→ 6,28 rd). 6/12 no alvo — o melhor resultado de motor | 🔴 **d10 e d12 convergem**; razão 1,86 → 1,55; "quatro perfis" vira três e meio | 🔴 **o penhasco mais íngreme de todos** (Padrão r1: 31,6pp) | ❌ **O melhor encurtamento é também o que quebra os dois guarda-corpos ao mesmo tempo.** E ainda custa 4-17pp de vitória, com Padrão pesado despencando pra 39-47% |
+| **L3** `−1 peça` | **−25,1%** (→ 6,09 rd), e **Padrão inteiro cai em 4,0-4,4 rd** | ✅ intocada | ✅ inalterado *(mas é literalmente descer o penhasco)* | ❌ **Apaga a escada de dificuldade.** Padrão 99-100%, Padrão pesado 98,8-99,9%, Difícil 63,7-98,6% — o jogo inteiro vira "Fácil". E nem resolve: Difícil r1/r3 continuam em 7,5-7,7 rd, e **Clímax r1 fica MAIS LONGO** (6,75 → 7,59) |
+
+### O que a rodada descobriu além do menu — duração e dificuldade estão soldadas no mesmo botão
+
+O padrão que atravessa as cinco medições: **a duração da cena não é governada pela dureza dos alvos, é governada pelo número de corpos.** Dobrar a letalidade por acerto (L2b move o dano médio em ~40-50%) compra só 22,7% de cena; tirar **um** corpo compra 25,1% sozinho. E corpos são ações — o próprio penhasco da decisão 137. As três alavancas da pendência não são três opções independentes: **duas empurram a dureza (a variável a que a duração é pouco sensível) e a terceira empurra os corpos (a variável que É a dificuldade).**
+
+Duas hipóteses alternativas foram medidas e **rejeitadas** na mesma rodada, pra não deixar o diagnóstico só no argumento:
+
+- **"A cena arrasta porque os PJs ficam sem Essência e caem no dano cru."** Instrumentado: só **0-21%** dos ataques de PJ se resolvem em dano cru, e nos ranks 3 e 5 é **0-6%** — a economia de Essência não é o freio. *(A intuição vinha da nona rodada, mas lá a cena era solo.)*
+- **"A barra da Horda é o vilão da duração, e encolhê-la é quase de graça."** É a maior barra do jogo (`(6×M + 4×M×Grau) × membros`: 2.304 no rank 5, mais que o Chefe) e o volume de ataques dela **não** depende do número de membros — só o dado desce. Parecia a alavanca limpa. Medido, não é: Horda de 8 → 6 em Padrão pesado corta 0,5-1,8 rodada e **entrega 18-25pp de vitória ao grupo** (63,8→81,8 · 51,4→76,3 · 76,9→93,4), porque o dado cai de `M d8` pra `M d6` no mesmo passo. Mesmo botão de novo.
+
+| Horda em Padrão pesado | rank 1 | rank 2 | rank 3 | rank 5 |
+|---|---|---|---|---|
+| **8 membros** *(publicado)* | 63,8% · 7,55 rd | 54,6% · 8,79 rd | 51,4% · 9,70 rd | 76,9% · 10,55 rd |
+| 6 membros | 81,8% · 7,02 rd | 80,2% · 8,13 rd | 76,3% · 8,89 rd | 93,4% · 8,79 rd |
+| 5 membros | 83,8% · 6,63 rd | 81,7% · 7,61 rd | 80,3% · 8,26 rd | 95,2% · 8,07 rd |
+
+### O que foi aplicado / o que volta pro autor
+
+**Aplicado: nada de motor.** Nenhuma das três alavancas passou os dois guarda-corpos, e o autor pediu explicitamente que, nesse caso, a rodada volte com os números em vez de escolher no escuro. Única edição de regra: a linha de **Padrão pesado** da tabela de composição, corrigida para a medição pós-decisão 207 (é sincronização de número medido, não alavanca).
+
+**Pro autor**, o menu medido, em ordem de custo:
+
+1. **Aceitar 6-8 rodadas como o ritmo real** e mover o alvo, não o motor. A decisão 207 já entregou "Fácil" em 2,5-4,6 e "Padrão" em 6,0-7,7 de graça; o que passa de 8 rodadas é Padrão pesado, Difícil e Clímax — as cenas que a mesa joga **uma vez por sessão**, não quatro.
+2. **L1a (`RD × 0,5`) por outro motivo que não a duração.** É a única alavanca que *melhora* um guarda-corpo: aproxima a letalidade de mesa dos números que a decisão 78 publica (razão 2,09 → 1,97). Compra 0,5 rodada de brinde. O preço é 6-9pp em Padrão pesado, dentro da ordem de grandeza que as decisões 154/163 já trataram como recalibração aceitável.
+3. **L2b + recalibrar a tabela de composição e reescrever a escada de letalidade.** Chega em 6/12 células no alvo, e é o único caminho de motor que entrega encurtamento de verdade — mas exige reabrir a decisão 78 (a escada vira 3,3/2,8/2,4/2,1) e remedir as cinco composições, porque o penhasco fica mais íngreme no Padrão.
+4. **Atacar o número de corpos com uma peça NOVA** — a única saída que a rodada não pôde medir porque não existe: um molde de inimigo com **muitas ações e pouca Vitalidade** (o inverso do Chefe). Isso desacopla os dois botões — mantém a pressão por rodada (dificuldade) cortando as rodadas necessárias pra limpar a mesa (duração). É a única hipótese estrutural que sobra depois desta rodada, e ela precisa de desenho do autor antes de simulação.
 
 ---
 
