@@ -30,12 +30,6 @@ Na mesa isso é uma frase só: **"role seus dados, e some o número de dados vez
 
 Um Gu de Alma de rank 3 (M = 4, Caminho d12) de um cultivador no estágio Alto (B = 2) causa `4d12 + 8` — de 12 a 56, média 34.
 
-### Por que o pool em vez do multiplicador
-
-`1d12 × 16` e `16d12` têm **exatamente a mesma média** (104). O que muda é o desvio: o multiplicador plano dava 16 resultados possíveis, espaçados de 16 em 16, e um combate de rank alto virava cara ou coroa. O pool dá uma curva de sino — o dano de rank alto fica **previsível**, que é o que a ficção pede (num confronto entre patamares, quem é mais forte ganha; a incerteza está em *quanto custa*, não em *quem*).
-
-A troca também é o que torna esta reforma segura: **como as médias não mudaram, nenhuma calibragem antiga quebrou.**
-
 ---
 
 ## 🗡️ A Tabela de Letalidade dos Caminhos
@@ -135,6 +129,8 @@ CD dos seus Gu = 10 + VON + rank do Gu          (+2 se o Caminho for do perfil d
 1. **Acertou, role o pool.** Não existe dano extra por "quanto passou" no teste.
 2. **20 natural é crítico:** acerta automaticamente, mesmo contra Defesa maior, e **dobra os dados de dano** — role `2 × M` dados em vez de `M`. O bônus por dado não dobra: o crítico fica `2M d(dado) + (M × B)`. **Sem falha automática em 1** — errar por número é só errar.
 
+> **Exemplo resolvido, passo a passo:** um rank 3 (M = 4) ataca com um Gu de Fogo (d10) de rank 3, estágio Médio (B = 1). Rola `d20 + VON + (3+2) + 3 + treino` contra a Defesa do alvo — passou. Rola o pool: `4d10 + (4×1)` = `4d10 + 4`, digamos 22 no dado + 4 = **26**. O alvo tem RD 6 de armadura: `26 − 6 = 20` de dano final na Vitalidade dele.
+
 > [!warning] Fratura da Abertura *(decisão 131 — ainda sem simulação)*
 > Crítico que deixa o alvo com **25% ou menos** da Vitalidade máxima: role `1d6`.
 >
@@ -165,6 +161,18 @@ Iniciativa = d20 + DES
 ```
 
 Empate: maior DES fica na frente; persistindo, quem embosca ou tem Gu de movimento ativo passa primeiro. Gu e efeitos que mexem na iniciativa (ex.: Grilo Pílula-de-Dragão) somam nessa rolagem.
+
+---
+
+## 🐌 Lentidão — a condição de controle mais comum
+
+`Lentidão N` aparece em Gu, Ações Especiais e efeitos de terreno por todo o vault. É sempre a mesma coisa:
+
+```
+Lentidão N = metade do deslocamento do alvo por N rodadas
+```
+
+Sem número, "Lentidão" sozinha vale `N = 1`. Alguns efeitos somam `−2 DES` junto — a ficha do Gu diz quando.
 
 ---
 
@@ -249,24 +257,6 @@ O pool dobrado no topo é o que torna verdadeira a promessa da ficção: um rank
 Todas as capacidades não-numéricas de cada nível de domínio seguem inalteradas em [[☯️ Marcas de Dao]].
 
 ---
-
-## 🔁 Convertendo um Gu da v1 para a v2
-
-Três passos, e leva dez segundos por Gu:
-
-1. **O dado vem do Caminho** — olhe a Tabela de Letalidade acima.
-2. **O passo antigo do Gu vira Nível** — `passo 0` = o dado do Caminho; `+1` sobe um tipo; `−1` desce um.
-3. **`× M` vira `M dados`.**
-
-| Exemplo (v1) | Vira (v2) |
-|---|---|
-| Gu do Luar, Luz, `1d6 × M` (passo 0) | Luz é d8 → **`M d8`** |
-| Gu da Foice Crescente, Lua, `1d8 × M` (passo +1) | Lua é d8, +1 passo → **`M d10`** |
-| Gu da Agulha Espectral, Alma, `1d6 × M` (passo 0) | Alma é d12 → **`M d12`** |
-| Gu do Ácido Ralo, Veneno, `1d3 × M` (passo −2) | Veneno é d8, −2 → **`M d4`** |
-| Gu Imortal do Luar Imemorial, `1d12 × 32` | Lua é d8, mas é Gu Imortal de ataque → **`32 d10`** *(ver nota)* |
-
-*Gu Imortais de ataque sobem **um tipo** sobre o Caminho deles — é o que a Ascensão compra.*
 
 ## 📝 Changelog
 

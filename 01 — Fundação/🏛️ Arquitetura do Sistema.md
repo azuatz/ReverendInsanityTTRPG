@@ -45,9 +45,11 @@ Não existe número fixo de espaços. Existe uma conta:
 Essência = sua % de abertura × 4 × 2^(estágio − 1)
 ```
 
+*(Exemplo: aptidão 25%, estágio Alto (3) → 25 × 4 × 2² = 400 de essência máxima.)*
+
 A **% de abertura** vem da aptidão de cada personagem — construída na criação (ver [[🧑‍🎤 Trilhas de Personagem|04 — Trilhas de Personagem]]), não escolhida como "bruxo" ou "marcial". Uma aptidão alta abre mais; uma baixa abre menos, mas ninguém fica de fora do sistema.
 
-Cada estágio **dobra** a essência. Ao subir de rank o contador volta ao começo — não porque você perdeu algo, mas porque a essência mudou de grau e cada ponto vale muito mais.
+Cada estágio **dobra** a essência, e o contador volta ao começo a cada rank novo.
 
 O custo de ativar um Gu depende de **duas coisas: o que ele faz, e a diferença de rank.** O estágio não muda nada:
 
@@ -59,16 +61,14 @@ O custo de ativar um Gu depende de **duas coisas: o que ele faz, e a diferença 
 
 Sobre o custo base, aplique o multiplicador do que o Gu faz. É o que dá identidade econômica a cada Caminho:
 
-| Categoria | Custo | Por quê |
-|---|---|---|
-| **Sangue, Carne, Osso** | **×0,5** | O combustível já está no corpo do usuário. Barato de ligar — e é por isso que o Caminho do Sangue seduz tanta gente. O preço dele nunca foi essência |
-| **Elementais e físicos** (fogo, água, metal, madeira, terra, vento, gelo, raio, luz, força, transformação) | **×1** | O padrão do jogo. É por aqui que a maioria dos cultivadores vive |
-| **Alma, Sabedoria, Escravidão, Informação, Sorte** | **×1,25** | Mexer em mente, destino e vontade alheia sempre cobra mais |
-| **Tempo, Espaço, Sonho, Leis, e qualquer coisa que altere a realidade** | **×1,5** | Os Caminhos que quebram as regras do mundo cobram por isso. Um Gu de teleporte custa 60 onde um de fogo custa 40 |
+| Categoria | Custo |
+|---|---|
+| **Sangue, Carne, Osso** | **×0,5** |
+| **Elementais e físicos** (fogo, água, metal, madeira, terra, vento, gelo, raio, luz, força, transformação) | **×1** |
+| **Alma, Sabedoria, Escravidão, Informação, Sorte** | **×1,25** |
+| **Tempo, Espaço, Sonho, Leis, e qualquer coisa que altere a realidade** | **×1,5** |
 
-Arredonde pra cima. O modificador vale pro custo de ativação **e** pra manutenção por rodada.
-
-**A leitura de mesa:** um cultivador de Sangue sustenta o dobro de ativações que um de Espaço, e é por isso que o Caminho do Sangue produz tanto monstro apesar de ser crime capital. Um de Tempo faz coisas que ninguém mais faz, e passa a cena inteira contando essência.
+Arredonde pra cima. O modificador vale pro custo de ativação **e** pra manutenção por rodada. *(Exemplo: um Gu de teleporte de rank igual ao seu custa 40 × 1,5 = 60; um de fogo do mesmo rank custa 40.)*
 
 Cada rank novo devolve ao começo — com ferramentas de outro patamar. E o dano de cada Gu também dobra a cada rank (M ×1 no rank 1 até ×256 no rank 9 — ver [[⚔️ Combate|Combate]]), a correção que faz o custo de ativação combinar com o quanto um Gu novo bate mais forte. Dano de Gu é um **pool de dados**, nunca um número fixo: `M d(dado do Caminho) + (M × B)` — o M do rank diz **quantos dados** se rola, o Caminho diz **qual dado**, e o Grau de Densidade do estágio (B) soma **por dado**. **Dano corpo a corpo sem Gu ativo não entra nessa escala** — é físico, definido pela arma e o Corpo do personagem, e só sobe com um Gu do Caminho da Força ou de Transformação ativo.
 
@@ -166,12 +166,4 @@ Da Ascensão em diante não existem mais estágios. O que define um Imortal é *
 
 ## 🚫 O que este sistema deliberadamente **não** tem
 
-| Não tem | Por quê |
-|---|---|
-| Uma trilha de personagem sem Gu | Contradiz o pilar 1 — poder emprestado é a identidade do jogo, ninguém fica de fora |
-| Espaços/slots de técnica | Substituídos pela economia de Sustento — a capacidade é uma conta, não uma tabela |
-| Tabela de XP e níveis | Progressão automática contradiz "poder tem preço" |
-| Sobrecarga barata | Amolecia a Porta. Substituída pela Ativação Forçada com pedras do rank do Gu |
-| Ascensão Imortal como compra de nível | Substituída por um evento de campanha com recursos reais e risco |
-| Tabela de níveis de ferimento com penalidade em teste | Coisa demais pra lembrar durante o combate — HP é só um número que desce, sem tabela de efeito por faixa |
-| Falha crítica punitiva | Pune quem rola mais dados |
+Trilha de personagem sem Gu · espaços/slots de técnica · tabela de XP e níveis · sobrecarga barata · Ascensão Imortal como compra de nível · tabela de níveis de ferimento com penalidade em teste · falha crítica punitiva. O porquê de cada rejeição está no [[🧭 Log de Decisões|Log de Decisões]].

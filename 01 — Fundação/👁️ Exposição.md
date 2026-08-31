@@ -20,7 +20,7 @@ escopo: sistema
 | **1** | tem um **boato** com a sua descrição | Testemunhas reconhecem com teste de AST |
 | **2** | pôs **cartaz e recompensa** (mortal) | Caçadores de recompensa ocasionais; preços sobem pra você na região |
 | **3** | mandou uma **equipe de caça** do clã/seita ofendida | Uma cena de caçada por arco, montada como emboscada |
-| **4** | te inscreveu na **rede regional** — o equivalente mortal da Placa de Julgamento Demoníaco | Todo assentamento grande te reconhece; teste pra entrar sem incidente |
+| **4** | te inscreveu numa **rede regional de procurados**, compartilhada entre clãs e seitas da área | Todo assentamento grande te reconhece; teste pra entrar sem incidente |
 | **5** | formou **coalizão** | Caçada ativa e contínua; NPCs neutros recusam negociar |
 
 ## O que sobe o trilho
@@ -51,7 +51,7 @@ O que a insígnia não diz, a **aura** diz — e aura é **liberação voluntár
 | **Selada** *(ação livre)* | Você passa por **um rank abaixo**. Ler seu rank real exige teste de AST (CD `12 + seu rank`). É o estado normal de quem viaja |
 | **Liberada** *(ação livre)* | Seu rank é inequívoco num raio de gritar. **+2 em Intimidar** contra qualquer um de rank menor — e **+1 de Exposição** se a cena tiver testemunha que importe |
 
-**Discrepância é escândalo**: insígnia de rank 1 com aura de rank 2 liberada vira a cena inteira contra você — no romance, o salão inteiro se cala e olha. É a jogada de quem *quer* ser visto.
+**Discrepância é escândalo**: insígnia de rank 1 com aura de rank 2 liberada vira a cena inteira contra você — a sala inteira se cala e olha. É a jogada de quem *quer* ser visto.
 
 > [!tip] Para o mestre
 > Estas duas colunas são a mesma decisão vista de dois lados: **andar selado** conserva a Exposição baixa e abre a porta do disfarce; **liberar** compra medo agora pagando notoriedade depois. Deixe o jogador escolher toda vez — a escolha é a regra.

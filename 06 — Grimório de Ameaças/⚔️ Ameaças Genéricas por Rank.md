@@ -140,63 +140,11 @@ Os números entre parênteses são a **vitória medida do grupo** numa mesa de 4
 
 *(✝ não retestado na quinta rodada — número da terceira rodada, pode estar igualmente desatualizado.)*
 
-> [!note] "Padrão pesado" recebeu a correção de limite de Alma na sexta rodada
-> A tabela acima ainda listava "2 Mestres + Horda de 8" com **ambos** os Mestres
-> de especial de Alma, número desatualizado (97%/94%/93%/96%) da terceira
-> rodada. Corrigido com o mesmo limite de "Padrão" e "Difícil" (1 dos 2 Mestres
-> com especial de outro Caminho) e remedido na sexta rodada: 77% · 68% · 71% ·
-> 88% (ranks 1, 2, 3, 5). **A queda é bem menor que em "Padrão"/"Difícil"** —
-> só 2–9 pontos percentuais, não os 20+ vistos lá — porque a Horda de 8 já
-> carrega a maior parte do dano da cena; o Caminho da especial dos 2 Mestres
-> pesa menos quando não são eles que dominam a rodada. Ver
-> [[🎯 Simulação de Combate — Resultados#🏁 Sexta rodada — validação completa pós-decisão 133 (2026-08-31)|a sexta rodada]] e a decisão correspondente no Log.
+**"Padrão pesado" também usa o limite de Alma** (1 dos 2 Mestres, o outro com especial física) — números medidos: 77% · 68% · 71% · 88% (ranks 1, 2, 3, 5). Histórico completo da correção em [[🎯 Simulação de Combate — Resultados#🏁 Sexta rodada — validação completa pós-decisão 133 (2026-08-31)|a sexta rodada]].
 
-**Clímax é o único nível onde "todos os Mestres com especial de Alma" é intencional.** É lá, e só lá, que o alfa-strike total contra as quatro barras de Alma do grupo deve acontecer — a promessa do Caminho da Alma ("ignora RD por completo", [[👻 Caminho da Alma]]) continua absoluta contra um só atacante de Alma ou numa cena Clímax; o que mudou foi só quantos atacantes de Alma diferentes podem se somar fora dela. Ver [[#🧑‍🦱 Mestre de Gu — o inimigo humano]] mais abaixo — "trocar o Caminho da especial" é a ferramenta usada pra montar os Mestres "extras" de Padrão e Difícil acima.
+**Clímax é o único nível onde "todos os Mestres com especial de Alma" é intencional.** É lá, e só lá, que o alfa-strike total contra as quatro barras de Alma do grupo deve acontecer — a promessa do Caminho da Alma ("ignora RD por completo", [[👻 Caminho da Alma]]) continua absoluta contra um só atacante de Alma ou numa cena Clímax; fora dela, o limite acima vale. Ver [[#🧑‍🦱 Mestre de Gu — o inimigo humano]] mais abaixo — "trocar o Caminho da especial" é a ferramenta usada pra montar os Mestres "extras" de Padrão e Difícil acima.
 
-> [!success] Achado da quinta rodada — resolvido: Padrão por limite de Alma, Difícil por composição escalada
-> A quinta rodada corrigiu como o motor simula **dano de Alma** (que sempre foi
-> regra — "ignora RD física e Defesa de armadura", [[👻 Caminho da Alma]] — só
-> nunca tinha sido medido certo): a especial de Alma de vários Mestres de Gu
-> disparando na mesma rodada é um alfa-strike quase simultâneo contra as quatro
-> barras de Alma do grupo, pequenas e sem RD nenhuma. **"Padrão" (3 Mestres)
-> caiu de ~98% pra 68–96%**, e **"Difícil" (4 Mestres) caiu de 56–76% pra
-> 10–30%, mais letal que a maioria dos Chefes**.
->
-> **Correção aplicada e verificada por nova simulação** (3.000 iterações/cenário,
-> ranks 1/2/3/5, script [[simulacoes/2026-08-30-correcao-composicao-alma.py]]):
-> limitar quantos Mestres de Gu com especial de Alma aparecem juntos fora do
-> Clímax, trocando os demais pela especial física de rank equivalente (ver nota
-> "Como variar sem refazer a ficha" em [[#🧑‍🦱 Mestre de Gu — o inimigo humano]]).
->
-> - **Padrão (máx. 1 de 3 com Alma): resolvido.** Vitória do grupo sobe pra
->   **75% · 81% · 89% · 99%** (ranks 1/2/3/5) — dentro da faixa alta e segura
->   esperada, sem precisar voltar aos ~98% cravados de antes do achado.
-> - **Difícil, primeira tentativa (4 Mestres, máx. 2 de 4 com Alma): melhorou,
->   mas não resolveu.** Vitória subiu pra **14% · 11% · 16% · 46%** — ainda bem
->   mais letal que a maioria dos Chefes (56–80%) nos ranks 1–3.
->
-> **Achado que forçou uma segunda correção:** o motor dominante da letalidade
-> de "Difícil" não era mais o dano de Alma especificamente — testando **zero**
-> Mestres com a especial de Alma (100% especial física), o resultado continuou
-> catastrófico (8–41%, quase idêntico ao original). A causa real é um
-> **penhasco de volume de ações**: 6 ações/rodada (Padrão) ficam em 75–99%,
-> 7 ações caem pra 40–52%, e 8 ações despencam pra 11–16% nos ranks 1–3 — uma
-> queda muito mais brusca que proporcional, resultado das decisões 103–133
-> (crítico dobra dano, essência sem regeneração em combate, Densidade
-> corrigida) se somando.
->
-> **Correção final, pelo mesmo princípio que já rege o Chefe** (o número certo
-> de ações não é constante entre ranks): **"Difícil" passa a escalar por
-> faixa de rank**. Ranks 1–4 usam **3 Mestres (1 com Alma) + 1 Guerreiro**
-> (7 ações — 42% · 40% · 52% no ranks 1/2/3); rank 5+ usa **4 Mestres (2 com
-> Alma)** (8 ações — 46%, a melhor opção medida naquela faixa). Nenhuma
-> composição fixa cobria os cinco ranks; esta é a combinação que chega mais
-> perto de "difícil de verdade, mas não pior que a maioria dos Chefes" em toda
-> a faixa jogável. Ver a varredura completa (ações de 5 a 8, e a comparação
-> rank a rank) em
-> [[🎯 Simulação de Combate — Resultados#🆕 Quinta rodada — motor v2 pós-decisão 133 (2026-08-30)|a quinta rodada]].
-
-> **"Fácil" é cena de abertura, não metade das cenas.** Uma Horda de 8 termina com os quatro personagens de pé em qualquer rank, e é isso que ela deve fazer: abrir uma sessão, gastar essência antes da cena que importa, ou mostrar que o grupo ficou mais forte. **Se metade das cenas for Fácil, a mesa cansa** — o padrão real de uma sessão é uma Fácil, uma ou duas Padrão, e uma Difícil, com o Clímax guardado para o fim do arco.
+**"Fácil" é cena de abertura, não metade das cenas.** Uma Horda de 8 termina com os quatro personagens de pé em qualquer rank, e é isso que ela deve fazer: abrir uma sessão, gastar essência antes da cena que importa, ou mostrar que o grupo ficou mais forte. **Se metade das cenas for Fácil, a mesa cansa** — o padrão real de uma sessão é uma Fácil, uma ou duas Padrão, e uma Difícil, com o Clímax guardado para o fim do arco.
 
 **Com 3 jogadores**, tire uma unidade de cada linha (um Mestre, ou 4 membros da horda). A horda se ajusta sozinha, porque o número de ataques dela é **um por personagem de pé**.
 
@@ -208,15 +156,11 @@ Os números entre parênteses são a **vitória medida do grupo** numa mesa de 4
 >
 > **Se você quer um inimigo acima do grupo, ele não é um encontro — é uma cena de fuga**, uma negociação, ou um Golpe Matador com a Brecha já descoberta. Ver [[🏃 Fuga e Perseguição|Fuga e Perseguição]] e [[⚡ Golpes Matadores|a Brecha]].
 
-**A regra de ouro antiga ("nunca dois Elites") foi removida** — ela proibia uma cena confortável e não protegia de nada. O que mata personagem é **volume de ações por rodada, ponderado pela qualidade delas** — ver a tabela logo abaixo. Não conte inimigos, e não confie na intuição de "orçamento": quatro Mestres de Gu, que somam oito ações com dano de Alma, são muito mais perigosos que um Chefe de três ações.
+**O que mata personagem é volume de ações por rodada, ponderado pela qualidade delas** — não conte inimigos, conte quantas vezes eles rolam ataque. Quatro Mestres de Gu com oito ações no total são muito mais perigosos que um Chefe de três ações, mesmo "contando menos inimigos".
 
 ### O contador que importa de verdade: ações inimigas por rodada
 
-Não conte inimigos, conte **quantas vezes eles rolam ataque por rodada**. É esse número que decide se a cena machuca:
-
-**E conte ponderado: uma ação que vem com Ação Especial ou dano de Alma vale mais que duas comuns.** A quinta rodada de simulação mostrou isso com mais força do que a terceira imaginava — oito ações de 4 Mestres de Gu não apenas "levam o grupo ao limite", **derrubavam a vitória do grupo pra 11% no rank 3** (por isso "Difícil" não usa mais 4 Mestres nos ranks 1–4, ver a tabela de composição acima), enquanto as mesmas oito ações vindas de 2 Mestres + uma Horda seguem ganháveis com folga (93%, número da terceira rodada, não retestado). O que machuca não é rolar mais dados, é **rolar dados que a RD não come e que custam a ação do jogador** — e a quinta rodada mediu esse efeito maior do que se pensava. Ver o achado no bloco acima.
->
-> **Correção adicional, calibrada depois:** limitar quantos desses oito atacam com dano de Alma resolve "Padrão" (3 Mestres, máx. 1 de Alma), mas **não** resolve "Difícil" sozinho — testando as mesmas oito ações com **zero** delas usando dano de Alma, a vitória do grupo continua catastrófica (8–41% conforme o rank). O que domina em "Difícil" não é mais especificamente o dano de Alma, é o **volume bruto de 8 ações/rodada** (4 inimigos com 2 ações cada), que ficou pesado demais depois de crítico dobrado, essência sem regeneração em combate e a correção do Grau de Densidade. Ver o achado completo e os números no bloco de aviso acima e em [[🎯 Simulação de Combate — Resultados#🆕 Quinta rodada — motor v2 pós-decisão 133 (2026-08-30)|a quinta rodada]] — ainda pendente de decisão do autor.
+**Conte ponderado: uma ação com Ação Especial ou dano de Alma vale mais que duas comuns** — dano de Alma ignora RD e Defesa de armadura por completo ([[👻 Caminho da Alma]]), então várias especiais de Alma disparando na mesma rodada é um alfa-strike quase simultâneo contra as quatro barras de Alma do grupo. É por isso que "Difícil" limita quantos Mestres usam Alma (tabela de composição acima) — mas o limite sozinho não basta: acima de 8 ações/rodada, o volume bruto já é o problema, com ou sem Alma envolvida. Histórico completo de como essa curva foi medida em [[🎯 Simulação de Combate — Resultados#🆕 Quinta rodada — motor v2 pós-decisão 133 (2026-08-30)|a quinta rodada]].
 
 | Ações ponderadas / rodada | O que a mesa sente (grupo de 4, rank igual) |
 |---|---|

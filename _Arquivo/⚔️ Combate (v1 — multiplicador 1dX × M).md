@@ -253,6 +253,26 @@ Sem rolar iniciativa a cada cena — mantém o ritmo rápido. Ordem padrão: **p
 
 ---
 
+## 🔁 Convertendo um Gu da v1 para a v2
+
+*(Movido de [[⚔️ Combate]] na repaginação de clareza — conversão já concluída em todo o Catálogo desde a decisão 102; guia mantido aqui só de referência histórica.)*
+
+Três passos, e levava dez segundos por Gu:
+
+1. **O dado vem do Caminho** — ver a Tabela de Letalidade em [[⚔️ Combate]].
+2. **O passo antigo do Gu vira Nível** — `passo 0` = o dado do Caminho; `+1` sobe um tipo; `−1` desce um.
+3. **`× M` vira `M dados`.**
+
+| Exemplo (v1) | Vira (v2) |
+|---|---|
+| Gu do Luar, Luz, `1d6 × M` (passo 0) | Luz é d8 → **`M d8`** |
+| Gu da Foice Crescente, Lua, `1d8 × M` (passo +1) | Lua é d8, +1 passo → **`M d10`** |
+| Gu da Agulha Espectral, Alma, `1d6 × M` (passo 0) | Alma é d12 → **`M d12`** |
+| Gu do Ácido Ralo, Veneno, `1d3 × M` (passo −2) | Veneno é d8, −2 → **`M d4`** |
+| Gu Imortal do Luar Imemorial, `1d12 × 32` | Lua é d8, mas é Gu Imortal de ataque → **`32 d10`** *(ver nota)* |
+
+*Gu Imortais de ataque sobem **um tipo** sobre o Caminho deles — é o que a Ascensão compra.*
+
 ## 📝 Changelog
 
 - `2026-08-26` — **dano de Gu deixou de ser fixo e voltou a ser rolado.** "Base N × M" virou "dado da Escada × M". Criada a Escada de Dano única, que agora serve Gu, armas e combos ao mesmo tempo — antes existiam 4 linhas paralelas por categoria de arma e o dano de Gu ficava fora do sistema de Níveis. Adicionada RD (Redução de Dano) como estatística formal, com regra de não-empilhamento.
