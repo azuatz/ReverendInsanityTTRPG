@@ -10,6 +10,8 @@ escopo: sistema
 
 # ⚖️ Pontos de Criação
 
+*Esta é a regra completa da economia de criação — orçamento de pontos, Aptidão, Origem, Buffs de Lore. O checklist de execução, mais curto e sem reexplicar nada disso, está em [[📋 Guia de Criação de Ficha|Guia de Criação de Ficha]] (que também tem um personagem de exemplo resolvido do início ao fim).*
+
 **Existe um orçamento só: os 12 pontos de atributo.** Não há moeda separada, não há loja de partida, e não se compra Gu na criação.
 
 > ### Duas regras que definem tudo
