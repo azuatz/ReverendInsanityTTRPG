@@ -72,6 +72,24 @@ No topo, um prêmio que nenhum dinheiro compra: a **Marca de Sucesso**, um selo 
 
 ---
 
+## 🐝 Colmeia Flutuante de Refino — a trilha de guilda pra quem não quer competir sozinho
+
+Trilha alternativa pra um personagem de rank alto focado em Refino que prefere se associar a uma guilda de elite a esperar 100 anos por uma Convenção (🔧 adaptado — *Origem: digest 18, Cap. 2306*; nome canônico "Floating Refinement Hive", traduzido livremente). Onde a Convenção é evento raro e competitivo, a Colmeia é **serviço permanente, sob prova**: a guilda testa quem quer entrar, mas o prêmio é acesso contínuo, não um selo único.
+
+**Nenhum número novo** — os três estágios reaproveitam o [[🧩 Refino e Precificação#Refino como teste estendido|teste estendido de Refino]] que já existe.
+
+| Estágio | Quando | O que testa | Formato |
+|---|---|---|---|
+| **1. Prova solo** | Na inscrição | Processar um material bruto sozinho, em até 3 dias | 1 teste estendido de Refino completo, sozinho — nenhuma vantagem de assistente disponível |
+| **2. Prova colaborativa** | ~14 dias depois | Trabalhar em equipe remota, por telepresença (Gu de comunicação, formação de sensores) | 1 teste estendido de Refino em grupo — todos os candidatos da mesma leva contribuem; a vantagem de "Assistentes qualificados" está sempre disponível |
+| **3. Prova final** | ~10 dias depois da segunda | Material real, sob a liderança de um Gu Imortal — um representante da guilda comanda a cena | 1 teste estendido de Refino de Gu Imortal (rank 6) — exige Espírito da Terra, como qualquer refino desse rank |
+
+**Falhar em qualquer estágio elimina o candidato daquela leva.** Pode tentar de novo na próxima abertura de vagas (sugestão de mesa: 1×/ano — bem mais frequente que a Convenção).
+
+**Aprovação nos três estágios dá 50 anos de acesso livre**: uso das instalações da guilda, materiais do estoque comum a preço de custo, e a rede de contatos que uma guilda de elite carrega. Passados os 50 anos, o acesso expira e exige reteste — não é status permanente, é assinatura renovável.
+
+> **Pro mestre:** as duas trilhas convivem sem conflito. A Colmeia dá progresso de longo prazo pra quem investiu em Refino mas não quer (ou ainda não pode) competir na Convenção; nada impede o mesmo PJ de estar numa guilda **e** disputar a Convenção quando ela vier — são recompensas de escalas diferentes (acesso contínuo vs. um selo lendário único).
+
 ## 🎭 Na mesa
 
 - **Um PJ competindo é uma sessão, não uma campanha.** Qualificação → 2-3 Postos → 1-2 duelos de Território de Fera cabem numa sessão só, com cada fase sendo uma cena, não um arco.

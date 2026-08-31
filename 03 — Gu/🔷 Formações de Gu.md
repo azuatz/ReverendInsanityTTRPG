@@ -119,6 +119,9 @@ Uma formação montada **fora da região de refino** dos Gu que a compõem opera
 
 É a razão mecânica pela qual exércitos não levam fortalezas junto, e pela qual invadir a casa de alguém é sempre pior do que emboscá-lo na estrada.
 
+> [!tip] Formação de Cálculo Estelar — ideia de ativo de facção, não regra nova
+> Uma formação de grau IV+ pode ser ampliada pra cobrir uma região inteira como rede viva de inteligência: terreno, clima, movimento de facções e localização de indivíduos, tudo visível de um único ponto de comando. Poder de combate próprio é básico — o valor real é **coordenação centralizada**. Efeito colateral de mesa: a formação expõe sem querer quem precisa de quê, e vira mercado natural de trocas entre os membros da facção que a possui. Ideia pronta pra um PJ Venerável construir ou disputar, não mecânica nova (🔧 adaptado — *Origem: digest 18, Cap. 2283, 2293*).
+
 ---
 
 # 🌐 Domínios de Campo de Batalha

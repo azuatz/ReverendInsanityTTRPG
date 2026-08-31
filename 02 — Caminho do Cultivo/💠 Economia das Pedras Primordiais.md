@@ -37,6 +37,20 @@ Moeda de nível Imortal. Uma Pedra de Essência Imortal equivale a uma unidade d
 
 A base econômica de qualquer facção é um **Ponto de Origem** — uma fonte espiritual, normalmente subterrânea, que produz Pedras Primordiais continuamente. Controlar um Ponto de Origem é controlar o sustento de uma facção inteira; é por isso que clãs se instalam exatamente em cima deles, não por acaso geográfico.
 
+## Escala de pontos de recurso — do veio de esquina ao domínio recluso
+
+Não é mecânica nova, é **régua de referência**: quando o mestre precisar avaliar de relance quanto vale um "ponto de recurso" — um Ponto de Origem, um filão de material raro, uma fonte de essência natural — que uma facção controla, use esta escala em vez de inventar um número na hora. Ela sobe junto com o rank, do mesmo jeito que a riqueza de um Imortal salta ordens de grandeza a cada rank (ver Pedra de Essência Imortal, acima).
+
+| Grau | Rank associado | Leitura de mesa |
+|---|---|---|
+| Minúsculo / Pequeno / Médio | 1–5 (mortal) | O dia a dia da economia mortal — um veio de minério comum, uma clareira de ervas raras. Não move a política de ninguém |
+| Grande | 6 | Um Ponto de Origem de porte razoável; sustenta uma facção pequena, dá pra um clã brigar por ele |
+| Gigante | 7 | Recurso que sustenta uma facção inteira — perdê-lo é crise de gestão, não contratempo |
+| Super | 8 | Pode **desencadear guerra total entre super-forças**. Nenhuma potência de rank 8 ignora um quando aparece no mapa |
+| Auge | 9 / único | "Domínio recluso de céu e terra" — não é um recurso entre muitos, é o único do tipo no mundo conhecido. Existe no singular |
+
+> 🔧 Adaptado (*Origem: digest 18, Cap. 2257*) — o romance descreve a escala como observação de mundo, não como mecânica com números; aqui vira ferramenta rápida pro mestre calibrar a riqueza territorial de qualquer facção de rank alto sem abrir uma calculadora. Usada também como unidade de preço em [[☯️ Marcas de Dao#⚰️ Ressurreição — o preço de trazer alguém de volta|Ressurreição]].
+
 ## Materiais de refino
 
 Além de Gu prontos, refinar exige matéria-prima — minérios, ervas, ossos de fera, e coisas mais estranhas quanto mais alto o Caminho:

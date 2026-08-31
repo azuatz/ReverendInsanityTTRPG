@@ -136,6 +136,10 @@ escopo: sistema
 | **Gu Lendário** | O topo do que existe: um Gu-assinatura por Caminho, com cadeia de evolução completa desde o rank 1. A raridade não está no ingrediente — está na receita do salto que quebra a Regra de Linhagem | [[👑 Gu Lendários]] |
 | **Céu Amarelo do Tesouro** | O mercado dos Imortais (rank 6+): remoto, anônimo, com trégua absoluta lá dentro e 10% de comissão. O balcão paga 60% na hora; a Rede de Compradores paga mais, mas em escambo e favores | [[🏪 Céu Amarelo do Tesouro]] |
 | **Pedra de Essência Imortal** | A moeda dos Imortais. 1 = uma unidade de essência de rank 6; a escala sobe brutalmente | [[💠 Economia das Pedras Primordiais]] |
+| **Ponto de recurso** | Régua de referência pra riqueza territorial de uma facção: minúsculo/pequeno/médio (rank 1–5) → grande (6) → gigante (7) → super (8) → auge (9/único) | [[💠 Economia das Pedras Primordiais]] |
+| **Chave de Qi Humano** | Extração feita em vida, guardada com antecedência (às vezes sem o alvo saber), sem a qual nenhuma ressurreição funciona depois | [[☯️ Marcas de Dao]] |
+| **Colmeia Flutuante de Refino** | Guilda de elite de Refino: 3 provas (solo, colaborativa remota, final sob liderança de um Gu Imortal) dão 50 anos de acesso livre, depois exige reteste | [[🏆 Convenção do Caminho de Refino]] |
+| **Formação de Cálculo Estelar** | Formação de grau IV+ ampliada em rede de inteligência regional — terreno, clima, facções, indivíduos; coordenação é o valor, não o combate | [[🔷 Formações de Gu]] |
 
 ---
 

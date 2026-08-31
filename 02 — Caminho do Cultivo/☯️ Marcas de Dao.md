@@ -255,6 +255,40 @@ Dentro do próprio território reivindicado, o Venerável soma **+1 Nível de Da
 
 > **Pro mestre:** antes de rank 9, "o que fazer" é combate e Marcas pessoais; depois, é **mapa**. Duas facções de Veneráveis podem viver anos numa disputa territorial que nunca vira uma luta única e decisiva — é a guerra fria que dá substância política à campanha de fim de jogo, sem exigir que a mesa resolva tudo num encontro de dados grandes demais pra rolar.
 
+### ⚔️ Como resolver o "Confronto aberto" — três camadas, referência de mestre
+
+Isto não é regra de jogador — é **roteiro pro mestre** pra quando "Confronto aberto" (acima), ou qualquer choque armado entre Veneráveis, chega efetivamente à mesa, sem precisar inventar uma escala de poder nova na hora (🔧 adaptado — *Origem: digest 18, Cap. 2309, 2313, 2315*). O romance mostra um padrão consistente: a disputa se resolve em três camadas, nesta ordem, e a mesa só sobe de camada quando a de baixo empatou de verdade.
+
+1. **Gu Imortal de rank 9.** O confronto começa como qualquer combate — Escada de Dano, Marcas de Dao, arsenal, Golpes Matadores. Na maioria das vezes já decide: a diferença de domínio e de arsenal entre dois Veneráveis raramente empata de verdade.
+2. **Domínios — Terra Abençoada / Gruta-Céu.** Se o combate bruto empata, a disputa sobe pro nível dos domínios: quem consegue desdobrar o próprio [[🔷 Formações de Gu#🌐 Domínios de Campo de Batalha|Domínio de Campo de Batalha]] ou puxar o rival pra dentro da própria [[🗝️ Terra Abençoada|Terra Abençoada]]/Gruta-Céu briga em casa — vantagem de terreno, recursos por perto, e a chance de isolar o rival do socorro externo.
+3. **Como os ativos se encaixam.** Só quando as duas camadas de cima empatam de verdade, o fator decisivo deixa de ser "quem é mais forte" e vira "quem trouxe as peças certas": aliados, Gu Lendários, formações territoriais já refinadas, dívidas cobráveis na hora. Aqui é a **Escada de Dano normal do vault** que decide — rolando o combate de verdade entre os ativos que cada lado colocou em campo. Não é regra nova, é o motor de sempre aplicado ao elenco de apoio.
+
+**Duas texturas de cena, sem virar teste:**
+
+- **Negociação em pleno combate.** Veneráveis não só trocam golpe — eles negociam e manipulam incentivos um do outro no meio da luta (ameaçar um clã aliado, oferecer retirada com honra, revelar um segredo). Deixe a mesa jogar isso como diálogo antes de rolar dado.
+- **Aliados em turnos.** Quando aliados de cada lado carregam Marcas de Caminhos que **conflitam entre si** (ver "Deformação de Caminho", acima), eles não agem em uníssono — trate como se atacassem **um de cada vez**, não como ação de grupo simultânea. É o preço narrativo de reunir aliados de Caminhos incompatíveis sob a mesma bandeira.
+
+> A maioria dos confrontos nunca sai da camada 1. A camada 3 só deveria aparecer quando a mesa já rolou dois Veneráveis genuinamente parelhos — o que, por design, é raro.
+
+## ⚰️ Ressurreição — o preço de trazer alguém de volta
+
+Ninguém no mundo mortal ressuscita ninguém. Entre Veneráveis, existe um serviço raríssimo pra isso — o único do vault com tabela de preço formal pra reverter a morte (🔧 adaptado do romance — *Origem: digest 18, Cap. 2263*). Fica aqui, ao lado do refino territorial e do confronto multi-venerável acima, por ser da mesma escala: um recurso de facção de rank 9, não um item de loja.
+
+**O portão que vem antes do preço.** Ressurreição não está à disposição de qualquer defunto: só funciona em quem já teve a própria **Chave de Qi Humano** coletada **em vida** — uma extração feita por Gu ou ritual específico, que guarda o suficiente da identidade e da vontade do alvo pra puxá-lo de volta depois. Sem a Chave guardada de antemão, não há preço que resolva; a pessoa está morta de verdade, ponto final.
+
+> **Gancho de campanha embutido:** a Chave pode ter sido guardada **por um terceiro, anos antes da morte, sem o alvo jamais saber** — um seguro de vida imortal comprado às escondidas por um mestre precavido, um clã que nunca deixa um membro valioso sem rede de segurança, ou uma armadilha: alguém que planejou a morte de outro justamente para controlar o retorno dele depois. Um PJ pode descobrir tarde demais que foi "segurado" sem consentimento — ou pode ser quem guarda a chave de outra pessoa.
+
+**Tabela de preço**, usando a [[💠 Economia das Pedras Primordiais#Escala de pontos de recurso — do veio de esquina ao domínio recluso|escala de pontos de recurso]]:
+
+| Rank do ressuscitado | Preço |
+|---|---|
+| Até rank 6 | **1 ponto de recurso grande** (base) |
+| Rank 7 | Base + **2 pontos de recurso gigantes** |
+| Rank 8 | **Sem teto fixo** — negociado caso a caso: território, segredos, favores, além de qualquer soma de recursos gigantes que a mesa achar justa pra cena |
+| Rank 9 (Venerável) | **Fora da tabela.** Se acontecer, é virada de campanha, não transação — nenhum preço em pontos de recurso compra de volta um Venerável |
+
+**Não é um mercado aberto.** É um serviço de facção de rank alto, prestado por quem domina o Caminho certo (Alma, ou algo adjacente à identidade/vontade) e tem a rede pra validar a Chave. Trate a cobrança como [[🤝 O Débito|Débito]] antes de tratar como transação: quem paga fica devendo, e quem presta o serviço passa a saber demais sobre a vida de quem revive.
+
 ## Na mesa
 
 - **Não rastreie Marca por Marca.** Anote a contagem por Caminho na ficha e atualize em blocos, no fim de cada arco ou depois de cada Calamidade. O número exato só importa perto de uma virada de nível de domínio.

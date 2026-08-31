@@ -64,7 +64,7 @@ escopo: processo
 | [[🐛 Caminho do Cultivo]] | Nota-mãe |
 | [[🪜 Ranks e Estágios]] | Os 9 ranks completos + a **Densidade da Essência**: o que cada estágio dá em dano por dado, Vitalidade, Alma, Vagas de Suporte e Teto de Combo |
 | [[♾️ A Ascensão Imortal]] | **O gargalo do jogo** — os dois portões (Gu Imortal ou Golpe Matador de rank 5), os Três Ares, a provação de 5 testes |
-| [[☯️ Marcas de Dao]] | **A progressão depois do rank 6** — 6 níveis de domínio, as 4 fontes, **quantas Marcas se começa e quanto rende cada Calamidade**, o preço, e o **refino territorial entre Veneráveis** (rank 9) |
+| [[☯️ Marcas de Dao]] | **A progressão depois do rank 6** — 6 níveis de domínio, as 4 fontes, **quantas Marcas se começa e quanto rende cada Calamidade**, o preço, o **refino territorial entre Veneráveis** (rank 9), como resolver um **confronto multi-venerável em 3 camadas** e a **ressurreição como serviço raríssimo** |
 | [[🧿 Espíritos da Terra]] | Consciência da Terra Abençoada — 3 atitudes, o preço que cobra, e por que é a única forma de um mortal refinar Gu Imortal |
 | [[🛤️ Os Caminhos]] | Os 23 Caminhos, sinergias, e a **via de avanço** de cada um (o que rende Marca em dobro) |
 | [[🗝️ Terra Abençoada]] | Território de um Imortal — tamanho decidido na Ascensão pelos Três Ares, **fluxo de tempo e essência por qualidade**, 4 camadas, **Ferimentos da Terra**, anexação |
@@ -80,7 +80,7 @@ escopo: processo
 | [[🌩️ Calamidades e Provações]] | **Como se joga uma cobrança do céu** — cinco etapas (três na Calamidade de rotina), CD por rank e faixa, Marcas proporcionais aos sucessos, e a espiral de falhar duas seguidas |
 | [[⛈️ A Vontade do Céu]] | **Contador de Ameaça Celestial**, Fichas de Azar, e a Tribulação feita sob medida pro ponto fraco da ficha |
 | [[⏳ Longevidade]] | 100 anos pra todos; o Gu de Longevidade é o único caminho limpo, mais **10 desvios canônicos** (zumbificação, ressurreição, possessão) e o que cada um cobra |
-| [[💠 Economia das Pedras Primordiais]] | Preços de referência, Pedra Imortal, Pontos de Origem |
+| [[💠 Economia das Pedras Primordiais]] | Preços de referência, Pedra Imortal, Pontos de Origem, e a **escala de pontos de recurso** (minúsculo → auge) pra riqueza territorial de facção |
 | [[🧘 Ritmo de Cultivo e Cultivo Fechado]] | **Quanto tempo leva cada estágio** (dias por rank × Aptidão), cultivo acelerado a Pedras (consumo 1–16/dia pelo rank), e o **cultivo fechado**: −1/3 do tempo, zero renda, ração dos Gu estocada antes |
 | [[🌟 Aptidão e Abertura]] | Graus D a A, teto natural, as duas rolagens de criação, e os **Dez Físicos Extremos** com a contagem regressiva |
 
@@ -96,12 +96,12 @@ escopo: processo
 | [[🚀 Gu de Avanço de Rank]] | **Todo Gu de progressão num lugar só** — estágio, salto de rank, Ascensão e fase imortal, com a tabela de planejamento rank a rank dos 4 personagens |
 | [[💀 A Morte dos Gu]] | **Como Gu se machucam e morrem** — a escada Esgotado→Ferido→Morto, escudos que estouram, mirar um Gu, e a Sobrecarga e a **Queima** dentro de Golpes Matadores |
 | [[🗂️ Índice de Gu por Caminho]] | **Todos os Gu por Caminho e rank** — a porta de consulta do catálogo |
-| [[🏆 Convenção do Caminho de Refino]] | **Torneio de attainment coletivo a cada 100 anos** — reaproveita o teste estendido de Refino num formato de fases (Postos → Território de Fera) e um prêmio que não se compra |
+| [[🏆 Convenção do Caminho de Refino]] | **Torneio de attainment coletivo a cada 100 anos** — reaproveita o teste estendido de Refino num formato de fases (Postos → Território de Fera) e um prêmio que não se compra; e a **Colmeia Flutuante de Refino**, trilha de guilda com 3 provas e 50 anos de acesso |
 | [[👑 Gu Lendários]] | **28 cadeias de evolução completas** — um ou dois Gu-assinatura por Caminho (dois nos Caminhos da mesa), caríssimos, raramente à venda: herança, aposta, leilão grande, ou já tem dono |
 | [[📜 Livro de Receitas de Gu]] | **De onde sai cada Gu** — origem selvagem (r1), receita de fusão (r2–5), elevação (r6+); receitas canônicas marcadas 📕 |
 | [[🧬 Receitas de Combo-Refino]] | Quais Gu fundem em quais, exemplos por salto de rank |
 | [[🗺️ Supressão Regional]] | Gu fora da região onde foi refinado conta 1 rank abaixo; Muralhas Regionais pros Imortais |
-| [[🔷 Formações de Gu]] | Matrizes territoriais em 4 graus, **Domínios de Campo de Batalha** (isolam e cortam fuga) e a Casa-Gu tripulada |
+| [[🔷 Formações de Gu]] | Matrizes territoriais em 4 graus (com a ideia de **Formação de Cálculo Estelar**, rede de inteligência regional), **Domínios de Campo de Batalha** (isolam e cortam fuga) e a Casa-Gu tripulada |
 
 ## 04 — Trilhas de Personagem
 
@@ -179,6 +179,7 @@ escopo: processo
 | [[🩺 Lint do Vault]] | **A nota de saúde** — resultado de cada rodada de lint, editada no lugar; o script mecânico vive em `_Processo/ferramentas/lint_vault.py` |
 | [[🎯 Simulação de Combate — Resultados]] | **A prova de que os números fecham.** 3.000 combates por cenário com os quatro personagens da mesa: duelo entre PJs, PJ contra inimigo solo, grupo contra horda, grupo contra Chefe. Traz o que estava quebrado, o que foi corrigido, e onde a mesa ficou depois |
 | [[🔍 Auditoria de Coerência da Lore]] | **A varredura feita antes da lore** — 3 contradições reais encontradas e corrigidas no vault (vida de Imortal, mesada de clã, distribuição de Aptidão), 8 suspeitas verificadas e limpas, e as decisões autorais tomadas |
+| [[🔍 Auditoria — Cobertura de Gu por Categoria (Caminhos não-jogador)]] | Varredura dos 16 Caminhos sem PJ contra ataque/defesa/cura/etc. no Catálogo — lacunas reais (Cosmos, Espaço, Sabedoria) separadas de raridade intencional (Alimentação, Informação, Sonhos) |
 | [[🔍 Síntese — Lacunas do Catálogo de Gu]] | **Frente 1 da síntese da leitura integral** — Gu do romance que faltavam no Catálogo, com o filtro de curadoria aplicado (3 candidatos fortes, 1 borderline) |
 | [[🔍 Síntese — Fidelidade ao Romance]] | **Frente 2 da síntese da leitura integral** — achados de mecânica/números onde as notas de regra divergem do que os 18 digests do romance realmente afirmam (Marcas de Dao por Provação, Longevidade de Veneráveis, estrutura da Cidade Shang, tamanho de Terra Abençoada). Metrópoles já corrigida (decisão 138), tamanho de Terra Abençoada reconferido e mantido (decisão 149); Marcas de Dao e Longevidade seguem em aberto |
 | [[🔍 Síntese — Atividades Jogáveis por Rank]] | **Frente 3 da síntese da leitura integral** — inventário do que dá pra fazer em cada fase de rank (1–9), com cobertura ✅/🔧/❌ contra o sistema atual e recomendações priorizadas |
