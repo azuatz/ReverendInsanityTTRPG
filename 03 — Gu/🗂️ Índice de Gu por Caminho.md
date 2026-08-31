@@ -11,7 +11,7 @@ escopo: sistema
 
 # 🗂️ Índice de Gu por Caminho
 
-Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Caminho** e ordenados por rank — para quando você sabe *o que* procura ("um Gu de Gelo de rank 3") mas não *onde* está. **De onde cada um sai:** [[📜 Livro de Receitas de Gu]].
+Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Caminho** e ordenados por rank — para quando você sabe *o que* procura ("um Gu de Gelo de rank 3") mas não *onde* está. **De onde cada um sai:** [[📜 Livro de Receitas de Gu]]. **Procurando um Gu-assinatura raríssimo por Caminho, com cadeia de evolução?** Isso é [[👑 Gu Lendários]] — nota separada, fora dos 461.
 
 > [!tip] Como usar
 > 1. Ache o Caminho na lista abaixo (ordem alfabética).

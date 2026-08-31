@@ -18,6 +18,9 @@ Os nove ranks, construídos a partir dos Gu que aparecem de fato no romance (os 
 >
 > Este arquivo continua sendo a fonte da verdade das entradas; as duas notas acima só apontam pra cá.
 
+> [!tip] Procurando o Gu mais raro que existe?
+> **[[👑 Gu Lendários]]** — um Gu-assinatura por Caminho (dois nos Caminhos da mesa), com cadeia de evolução completa e gancho de aquisição próprio. Vive numa nota separada porque não é item de loja: é herança, aposta, leilão grande, ou já tem dono. Não conta no total de 461 abaixo.
+
 ## Como ler
 
 **As entradas estão na notação do motor** ([[⚔️ Combate|Combate]], pool de dados). O dano escrito em cada Gu é o pool pronto **para o rank do Gu**:

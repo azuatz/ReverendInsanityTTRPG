@@ -97,6 +97,7 @@ escopo: processo
 | [[💀 A Morte dos Gu]] | **Como Gu se machucam e morrem** — a escada Esgotado→Ferido→Morto, escudos que estouram, mirar um Gu, e a Sobrecarga e a **Queima** dentro de Golpes Matadores |
 | [[🗂️ Índice de Gu por Caminho]] | **Todos os Gu por Caminho e rank** — a porta de consulta do catálogo |
 | [[🏆 Convenção do Caminho de Refino]] | **Torneio de attainment coletivo a cada 100 anos** — reaproveita o teste estendido de Refino num formato de fases (Postos → Território de Fera) e um prêmio que não se compra |
+| [[👑 Gu Lendários]] | **28 cadeias de evolução completas** — um ou dois Gu-assinatura por Caminho (dois nos Caminhos da mesa), caríssimos, raramente à venda: herança, aposta, leilão grande, ou já tem dono |
 | [[📜 Livro de Receitas de Gu]] | **De onde sai cada Gu** — origem selvagem (r1), receita de fusão (r2–5), elevação (r6+); receitas canônicas marcadas 📕 |
 | [[🧬 Receitas de Combo-Refino]] | Quais Gu fundem em quais, exemplos por salto de rank |
 | [[🗺️ Supressão Regional]] | Gu fora da região onde foi refinado conta 1 rank abaixo; Muralhas Regionais pros Imortais |

@@ -124,6 +124,7 @@ escopo: sistema
 | **Convenção do Caminho de Refino** | Torneio de attainment coletivo a cada 100 anos: qualificação em uma cena, Fase dos Postos (funil sem eliminação direta) e Fase de Território de Fera (duelo direto, sem consolação), coroada pela Marca de Sucesso | [[🏆 Convenção do Caminho de Refino]] |
 | **Marca de Sucesso** | Prêmio da Convenção: garante sucesso automático num único refino de rank até 6. Nem a maior organização do mundo já conseguiu comprar, vender ou fabricar uma | [[🏆 Convenção do Caminho de Refino]] |
 | **Casa de Gu Imortal** | Construção viva com um Gu Imortal de núcleo — fortaleza, tribunal, caldeirão | [[📖 Catálogo de Gu]] |
+| **Gu Lendário** | O topo do que existe: um Gu-assinatura por Caminho, com cadeia de evolução completa desde o rank 1. A raridade não está no ingrediente — está na receita do salto que quebra a Regra de Linhagem | [[👑 Gu Lendários]] |
 | **Céu Amarelo do Tesouro** | O mercado dos Imortais (rank 6+): remoto, anônimo, com trégua absoluta lá dentro e 10% de comissão. O balcão paga 60% na hora; a Rede de Compradores paga mais, mas em escambo e favores | [[🏪 Céu Amarelo do Tesouro]] |
 | **Pedra de Essência Imortal** | A moeda dos Imortais. 1 = uma unidade de essência de rank 6; a escala sobe brutalmente | [[💠 Economia das Pedras Primordiais]] |
 
