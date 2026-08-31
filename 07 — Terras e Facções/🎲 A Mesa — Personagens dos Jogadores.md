@@ -237,6 +237,7 @@ Teste de Conjuração = d20 + AST(2) vs CD 12 + 2×4 = 20   (−4 se já usado c
 ### Lee *(Gush)* — Cinco Elementos
 - Aptidão 63% (Grau B) · Pontos: 12
 - **Melee com elementos** — ver os Gu de ataque elemental corpo a corpo e os Gu de Corpo elementais no [[📖 Catálogo de Gu|Catálogo]].
+- **Gu do Broto Restaurador** (Madeira, dentro do arsenal de Cinco Elementos) — cura `M d6`, uma vez por cena, só a toque. É o único Gu de cura registrado nas quatro fichas da mesa — sem ele, nenhum PJ tinha suporte de cura por escrito, apesar de toda simulação de combate assumir o Lee curando o aliado mais ferido. *(Registrado pela sexta rodada de simulação, decisão 154 — a heurística de simulação usada até aqui, M d8 sem limite de usos, era mais forte que o Gu real; simulações futuras devem usar M d6/cena.)*
 
 ### Demvi *(Binho)* — Vento
 - Aptidão 56% (Grau C) · Pontos: 12
