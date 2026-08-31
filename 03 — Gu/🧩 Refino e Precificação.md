@@ -42,12 +42,14 @@ Acumule N sucessos antes de 2 falhas
 
 **Vantagem no teste** (2d20, fica com o maior), cumulativa por condição atendida — cada uma vale uma vez:
 
-- **Receita exata em mãos** — herança, sala de receitas, ou um refino anterior bem-sucedido do mesmo Gu.
+- **Receita completa e testada em mãos** — herança, sala de receitas, ou um refino anterior bem-sucedido do mesmo Gu. (Receita **parcial, copiada ou adulterada** não vale este bônus — ela só te deixa tentar, ver [[📜 Livro de Receitas de Gu]].)
 - **Materiais puros** — gastar 50% a mais em Pedras Primordiais nos ingredientes.
 - **Local condizente** — refinar um Gu de Fogo num vulcão, um de Água numa nascente, um Imortal numa Terra Abençoada.
 - **Assistentes qualificados** — outro cultivador de rank igual ou superior canalizando junto.
 
 *(Mecanicamente, vantagens acima da primeira viram +2 cada no teste — não role três dados.)*
+
+> Isso vale pra elevar um Gu bruto (Refino único) ou pra completar uma fusão cuja receita você já tem. **Fusão sem receita não roda** — a única exceção universal é a Regra de Linhagem (ver [[📜 Livro de Receitas de Gu]]); quem não tem a receita do Gu-alvo primeiro [[#🧠 Deduzir uma Receita|deduz]] ou acha ela no mundo (decisão 123).
 
 ### Quando o refino falha
 
@@ -56,7 +58,7 @@ Acumular 2 falhas encerra o refino. Role `1d6` pra gravidade:
 | 1d6 | O que acontece |
 |---|---|
 | 1–2 | **Desperdício** — os materiais se perdem, o Gu base sobrevive. Pode tentar de novo |
-| 3–4 | **Morte do material** — todos os Gu ingredientes morrem, menos o Gu Vital |
+| 3–4 | **Danos aos materiais** — cada Gu envolvido rola `1d6` (o Gu Vital é protegido e não rola): **1–2 morre**, **3–6 fica [[💀 A Morte dos Gu\|Ferido]]** *(decisão 125 — a falha comum deixou de matar todo mundo)* |
 | 5 | **Contragolpe** — o acima, mais o Retrocesso completo (ver [[❤️ Recursos e Dano\|Recursos e Dano]]) |
 | 6 | **Colapso do Dao** — o acima, mais 1 Ferimento permanente e a Abertura fica instável: todo Gu custa o dobro até um descanso longo |
 
@@ -66,21 +68,57 @@ Acumular 2 falhas encerra o refino. Role `1d6` pra gravidade:
 
 Um `1 natural` em qualquer rolagem do teste estendido — a qualquer momento, mesmo que você fosse ganhar — encerra o refino na hora com **Explosão**:
 
-> A essência acumulada no processo não tem pra onde ir e sai de uma vez.
+> Não é a fusão estourando — a bola de luz do refino estoura até quando dá certo, então isso nunca foi o sinal de falha. É **contragolpe**: a essência acumulada não tem pra onde ir e retorna de uma vez pra dentro de quem refinava, corpo e alma juntos (decisão 125).
 
 | Efeito | |
 |---|---|
-| **Dano** | **`M d12`**, com o `M` do rank do Gu que estava sendo refinado (rank 3 = `4d12`, rank 5 = `16d12`), em Vitalidade, **sem RD** — a explosão vem de dentro da fornalha, e a fornalha é você |
-| **Materiais** | Tudo perdido, **inclusive o Gu Vital**, que fica ferido e **inutilizável por `1d6` semanas** (é a única circunstância que tira o Gu Vital de jogo sem matá-lo) |
+| **Dano** | **`M d12`**, com o `M` do rank do Gu que estava sendo refinado (rank 3 = `4d12`, rank 5 = `16d12`) — **metade em Vitalidade, metade em Alma**, **sem RD** — o contragolpe vem de dentro da fornalha, e a fornalha é você |
+| **Materiais** | Tudo perdido, **inclusive o Gu Vital**, que fica [[💀 A Morte dos Gu\|Ferido]] (inutilizável por `1d6` semanas) — **o Gu Vital nunca morre no refino**, nem aqui: literal do cânone, Vol. 1 cap. 106 |
 | **Área** | Raio de 3 m. Quem estiver assistindo sofre metade — refino não é atividade de sala cheia |
 | **A Abertura** | **1 Ferimento permanente**, sempre |
 | **O local** | Se você refinava numa Terra Abençoada, ela ganha **1 Ferimento da Terra** (ver [[🗝️ Terra Abençoada\|Terra Abençoada]]) |
 
 **Refino de Gu Imortal** (com Espírito da Terra, ver [[🧿 Espíritos da Terra|Espíritos da Terra]]) usa a mesma regra, com `M` de rank 6 — **`32d12`** (32–384, média 208). É por isso que ninguém tenta sem a vantagem do espírito.
 
+## 🧠 Deduzir uma Receita
+
+**Receita é portão, não bônus** (decisão 123): sem a receita de uma fusão, ela não roda — não existe "tentar às cegas para ver o que sai". A única exceção universal continua sendo a **Regra de Linhagem** (dois exemplares saudáveis do rank anterior — ver [[📜 Livro de Receitas de Gu]]), que todo Mestre Gu conhece de cor. Pra quem quer a receita de um Gu-alvo que ainda não tem, a segunda chave é **deduzi-la** — um movimento de **intervalo, nunca em combate**.
+
+**Procedimento:**
+
+1. **Declare o Gu-alvo** — qualquer Gu do catálogo, de rank **≤ o rank do próprio personagem**, cuja receita ele ainda não possui.
+2. **Queime o conjunto completo de ingredientes** — sempre, sucesso ou não. É o preço de tentar (Vol. 2 cap. 378).
+3. **Role** `d20 + AST + treino de Refino` contra `CD 15 + 3 × rank do alvo`.
+
+A receita completa ao acumular **3 Fragmentos**:
+
+| Resultado | Fragmentos |
+|---|---|
+| Sucesso | +1 |
+| Sucesso por 5 ou mais | +1, **e** a próxima tentativa gasta só metade dos ingredientes |
+| Falha | 0 — role a [[#Quando o refino falha\|tabela 1d6 de falha]] acima |
+| 1 natural | 0 — dispara a [[#💥 A Explosão de Refino\|Explosão de Refino]] acima |
+
+**Aceleradores** — cada um vale **+1 Fragmento imediato OU +5 na rolagem** (escolha um; um acelerador por tentativa):
+
+- **Receita remanescente de espólio** — já entra com 1–2 Fragmentos preenchidos.
+- **Sócio do Caminho da Sabedoria** — ver [[🧠 Dedução]].
+- **Gu de Inspiração** consumido na tentativa.
+- **Engenharia reversa** — possuir um exemplar do próprio Gu-alvo.
+- **Alvo do próprio Caminho principal** do personagem.
+
+**Travões:**
+
+- **Acima do rank 3, nunca do zero** — exige receita remanescente de espólio ou engenharia reversa (Vol. 4 cap. 655: *"from scratch… he would not even reach one percent"*).
+- **Rank 6+ exige Espírito da Terra E receita remanescente** — ver [[🧿 Espíritos da Terra|Espíritos da Terra]].
+
+Receita deduzida é **permanente, validada** (soma o bônus de receita completa e testada, acima) **e vendível** — é tesouro que se produz, não só se acha.
+
 ## Combo-refino — fundir Gu num de rank superior
 
 Sintetizar dois ou mais Gu conhecidos num Gu novo, de rank mais alto. Isso é o motor da progressão de arsenal — trocar uma dúzia de Gu médios por um punhado de Gu fortes.
+
+**Sem receita não há combo-refino** (decisão 123, exceção universal: a Regra de Linhagem). Quem não tem a receita do Gu-alvo [[#🧠 Deduzir uma Receita|deduz]] ou acha ela no mundo antes de rolar qualquer coisa abaixo.
 
 **Taxa de sucesso base**, antes de modificadores:
 
@@ -92,9 +130,9 @@ Sintetizar dois ou mais Gu conhecidos num Gu novo, de rank mais alto. Isso é o 
 | Rank 4 → Rank 5 | ~25% |
 | Rank 5 → Gu Imortal (rank 6) | <10% |
 
-**Modificadores:** ter uma receita já validada (+15%); nunca ter usado nenhum dos Gu envolvidos em combate antes (−20%); ser o Gu Vital do personagem, que nunca morre num combo-refino falho — só fica ferido (proteção única do Gu Vital).
+**Modificadores:** receita **completa e testada** em mãos dá **+15%**; receita **parcial, copiada ou adulterada** só destrava a tentativa — sem bônus nenhum, e o mestre pode ter entregado ela errada de propósito (ver [[📜 Livro de Receitas de Gu]]); nunca ter usado nenhum dos Gu envolvidos em combate antes (−20%); ser o Gu Vital do personagem, que nunca morre num combo-refino falho — só fica ferido (proteção única do Gu Vital).
 
-**Falha:** todos os Gu usados na fusão morrem, exceto o Gu Vital (que só sofre ferimento). Isso torna combo-refino sempre uma aposta real — mesmo com receita e experiência, nunca é garantido.
+**Falha:** cada Gu usado na fusão rola `1d6` (o Gu Vital é protegido e não rola): **1–2 morre**, **3–6 fica [[💀 A Morte dos Gu|Ferido]]** *(decisão 125)*. Isso torna combo-refino sempre uma aposta real — mesmo com receita e experiência, nunca é garantido.
 
 ## O Gu Vital — proteção extra
 

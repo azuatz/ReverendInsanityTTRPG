@@ -11,12 +11,14 @@ escopo: sistema
 
 # 📜 Livro de Receitas de Gu
 
-De onde sai **cada Gu do [[📖 Catálogo de Gu]]** — a origem selvagem dos de rank 1, a receita de fusão dos de rank 2 a 5, e por que os Imortais não têm receita nenhuma.
+De onde sai **cada Gu do [[📖 Catálogo de Gu]]** — a origem selvagem dos de rank 1, a receita de fusão dos de rank 2 a 5, e por que as receitas imortais são o tesouro máximo do mundo.
+
+> **A decisão 101 dizia que "rank 6+ não tem receita" — a decisão 124 corrigiu esse ponto.** Receitas de Gu Imortal existem, e o cânone é enfático: cofres com "milhares de receitas de Gu Imortal" num só lugar, heranças imortais que só contêm receitas, e até uma guerra travada por um acervo delas. Elas são raras, quase nunca à venda (trocam-se por outras receitas) e refiná-las exige um [[🧿 Espíritos da Terra|Espírito da Terra]]. As três vias sem receita continuam sendo elevação na Ascensão, forja de Calamidade e espólio — ver a seção "Ranks 6 a 9" abaixo.
 
 > [!important] Este livro é do mestre — os personagens não o possuem
-> Mecanicamente, ter **a receita escrita em mãos** é o que dá +15% num combo-refino e vantagem no teste estendido ([[🧩 Refino e Precificação]]). Este livro diz *qual é* a receita; **onde ela existe no mundo é decisão sua**: uma sala de receitas de clã (guardada num [[📖 Catálogo de Gu#Rank 2 — M = 2|Gu da Sombra Digital]]), uma herança ([[📜 Catálogo de Heranças]]), um mestre que cobra caro, um leilão. Entregar uma receita é entregar tesouro — trate como tal.
+> **Receita é portão, não bônus (decisão 123): sem receita não há fusão.** A exceção universal é a **Regra de Linhagem** (dois exemplares saudáveis do rank anterior, ver abaixo) — o resto precisa da receita em mãos antes de rolar qualquer coisa em [[🧩 Refino e Precificação]]. Mecanicamente, ter a receita **completa e testada** é o que dá +15% no combo-refino e vantagem no teste estendido; uma receita **parcial, copiada ou adulterada** só destrava a tentativa, sem bônus algum. Este livro diz *qual é* a receita; **onde ela existe no mundo é decisão sua**: uma sala de receitas de clã (guardada num [[📖 Catálogo de Gu#Rank 2 — M = 2|Gu da Sombra Digital]]), uma herança ([[📜 Catálogo de Heranças]]), um mestre que cobra caro, um leilão. Entregar uma receita é entregar tesouro — trate como tal.
 >
-> Um personagem **pode tentar qualquer fusão sem receita** — pelas regras normais, sem o bônus. Se acertar, acabou de *descobrir* a receita, e ela passa a valer como validada para ele.
+> Quem quer a receita de um Gu que não tem, **deduz** — a segunda chave, ao lado de achar a receita pronta no mundo. O procedimento completo (Fragmentos, aceleradores, travões) está na seção "Deduzir uma Receita" de [[🧩 Refino e Precificação]], que usa a [[🧠 Dedução]] como um dos aceleradores.
 
 ## Como ler
 
@@ -24,7 +26,7 @@ De onde sai **cada Gu do [[📖 Catálogo de Gu]]** — a origem selvagem dos de
 Ingrediente + Ingrediente (+ material) → condição de refino
 ```
 
-- **Gu ingredientes são consumidos** na fusão (exceto o Gu Vital, que só fica ferido em falha — ver [[🧩 Refino e Precificação]]).
+- **Gu ingredientes são consumidos** na fusão; numa falha, cada um rola pra ver se morre ou fica [[💀 A Morte dos Gu|Ferido]] — **exceto o Gu Vital, que é protegido e nunca morre** no refino (ver [[🧩 Refino e Precificação]]).
 - **📕** = receita canônica: a fusão está documentada no romance (ver [[📚 Referência Canônica|10 — Referência Canônica]]). **✅** = já validada nesta campanha ([[🧬 Receitas de Combo-Refino]]). Sem marca = registro plausível deste mundo — o mestre decide se a versão que os jogadores encontram está correta, incompleta ou **errada de propósito**.
 - Um Gu pode ter **mais de uma receita** — o romance mostra isso repetidas vezes. Duas receitas diferentes para o mesmo Gu produzem o mesmo Gu.
 - Materiais citados seguem os preços de [[🏪 O Mercado]]; quem quer encurtar caminho compra o ingrediente pronto em vez de refiná-lo.
@@ -35,18 +37,18 @@ Tudo o que o romance documenta de fato sobre origem de Gu — o resto do livro �
 
 | Gu | Receita canônica | Onde no livro |
 |---|---|---|
-| **Gu do Fulgor Lunar** (r2) | Gu do Luar + Gu da Luzinha — a 1ª tentativa do romance falha e mata uma luzinha | [[#Rank 2 — as primeiras fusões\|Rank 2]] |
+| **Gu do Fulgor Lunar** (r2) | Gu do Luar + **duas** Gu da Luzinha — a 1ª tentativa do romance falha e mata uma das luzinhas | [[#Rank 2 — as primeiras fusões\|Rank 2]] |
 | **Gu de Jade Branco** (r2) | Gu do Javali Branco + Gu da Pele de Jade | Rank 2 |
-| **Verme do Licor de Quatro Sabores** (r2) | Dois Vermes do Licor + conchas amargas centenárias | Rank 2 |
+| **Verme do Licor de Quatro Sabores** (r2) | Dois Vermes do Licor + quatro vinhos (doce, ácido, amargo e picante — o amargo é de concha-amarga centenária) | Rank 2 |
 | **Gu da Lua Sangrenta** (r3) | Gu do Fulgor Lunar + Gu da Essência de Sangue — da sala de receitas do clã | [[#Rank 3 — onde o refino vira profissão\|Rank 3]] |
 | **Gu do Qi de Força** (r3) | Conversão de um Gu da Atmosfera (r4) — ~20 ingredientes, ~30 passos | Rank 3 |
 | **Jade Branco → "Artemísia Celestial"** (r3) | A elevação canônica da linhagem — receita perdida | Rank 4 (nota) |
 | **Lótus do Tesouro** (r3 → r6 → r9) | Evolui com material e nascente — nunca se fabrica | Rank 3 |
 | **Gu Paisagem Como Antes** (r6) | Rio Como Antes + Montanha Como Antes — fusão **espontânea** na Ascensão | [[#Ranks 6 a 9 — por que Imortais não têm receita\|Rank 6+]] |
-| **Gu Imortal da Viagem Fixa** (r6) | Céu de Jade + Estrela Fixa + a luz de glória de um Golpe de Luz de r5 | [[📖 Catálogo de Gu#A. Gu de rank 5 que viram Gu Imortal na Ascensão\|Catálogo, seção A]] |
+| **Gu Imortal da Viagem Fixa** (r6) | **Base:** Gu da Viagem Divina (r6) **convertido** — não é fusão, é metamorfose: o próprio Gu "engole" um bambu de Céu de Jade e um fragmento de oito faces de Estrela Fixa enquanto banha na luz de glória do sol nascente | [[📖 Catálogo de Gu#A. Gu de rank 5 que viram Gu Imortal na Ascensão\|Catálogo, seção A]] |
 | **Gu Imortal do Deus de Sangue** (r6) | Exige um parente morto **por vontade própria** — o deus nasce leal | Catálogo, seção A |
 | **Gu Imortal da Segunda Abertura** (r6) | A receita que um Espírito da Terra tenta completar há milênios | Catálogo, seção A |
-| **Gu Imortal do Crânio de Sangue** (r6) | Concede um Físico Extremo; a tribulação vem 10× mais forte | Catálogo, seção A |
+| **Gu do Crânio de Sangue** (r4, com versão r5) | **Muda a Aptidão** de quem o refina — não é Imortal, e não concede Físico Extremo. A versão r4 consome a linhagem inteira de um parente de sangue; a r5 (desenvolvida em cânone) dispensa o massacre e só precisa extrair a linhagem de um parente vivo | [[#Rank 4 — receitas que valem uma guerra\|Rank 4]] |
 | **Gu Refinamento Avançado** (r8 → r9) | Elevado da versão rank 8 — a prova viva da exceção do Caminho do Refino | Rank 6+ |
 | **Gu da Reforma** (r5) | **Sem receita** — consumível que nunca se refinou; só circula em leilão | [[#Rank 5 — o teto mortal\|Rank 5]] |
 | **Gu do Mês** (r6) | Família canônica do Tempo (Dia → Mês → Ano) — nasce à margem do Rio do Tempo, não se refina | [[#Ranks 6 a 9 — por que Imortais não têm receita\|Rank 6+]] |
@@ -144,7 +146,7 @@ Chance base ~70% ([[🧩 Refino e Precificação]]). É aqui que um cultivador a
 
 | Gu | Receita | Condição / nota |
 |---|---|---|
-| **Gu do Fulgor Lunar** | 📕 Gu do Luar + Gu da Luzinha | **Canônica** — no romance a primeira tentativa falha e mata uma das luzinhas. O risco é parte da receita |
+| **Gu do Fulgor Lunar** | 📕 Gu do Luar + **duas** Gu da Luzinha | **Canônica** — no romance a primeira tentativa falha e mata uma das duas luzinhas. O risco é parte da receita |
 | | ✅ *alt:* Gu do Luar + Gu do Luar | Regra de Linhagem, validada nesta campanha — mais cara (dois Luares), mais segura |
 | **Gu do Convite Lunar** | Gu do Luar + Gu da Agulha de Alfinete | Sob lua cheia. A precisão da agulha ensina as duas lâminas a serem uma |
 | **Gu da Sombra da Espada** | Gu da Faísca da Espada + Gu da Lâmina de Sombra | Refinar junto de uma lâmina quebrada em duelo de verdade — treino não serve |
@@ -174,7 +176,7 @@ Chance base ~70% ([[🧩 Refino e Precificação]]). É aqui que um cultivador a
 | **Gu de Aço Vivo** | Gu de Pele de Ferro + Gu de Luz Aquática | Metal que cuida de Gu. Refinar em forja fria |
 | **Gu de Limpar o Calor** | Gu do Calor Brando + Joaninha de Cristal | Quem detecta veneno aprende a limpá-lo |
 | **Grama da Vitalidade de Nove Folhas** | **Sem receita** — tesouro natural | Não se refina; acha-se, rouba-se ou herda-se. Transplante exige solo de nascente |
-| **Verme do Licor de Quatro Sabores** | 📕 Verme do Licor + Verme do Licor + conchas amargas **centenárias** | **Canônica** — as conchas são o segredo, e são caras |
+| **Verme do Licor de Quatro Sabores** | 📕 Verme do Licor ×2 + **quatro vinhos**: doce, ácido, amargo e picante | **Canônica** — o vinho amargo vem de concha-amarga **centenária**, o segredo caro da receita; os outros três são comuns |
 | **Gu Relíquia de Aço Vermelho** | **Sem receita** — relíquia da era antiga | A linhagem Relíquia inteira não se refina: só se encontra ou se compra |
 | **Gu de Abertura de Pedra** | Gu de Pele de Pedra + Gu do Sussurro da Terra | Refinado "voltado pra dentro" — a pedra aprende o lado de dentro da Abertura |
 | **Gu da Água Purificadora** | Gu de Luz Aquática + Gu do Calor Brando | Refinar em nascente, na primeira luz da manhã |
@@ -275,7 +277,7 @@ Chance base ~55%. A partir daqui, quase toda receita circula **trancada** — sa
 | **Gu do Portal Estelar** | Gu do Passo Curto + Gu do Sinal de Fogo | O clarão marca o destino; o passo aprende a ir até ele |
 | **Gu do Pirilampo Estelar** | Gu da Luzinha (o par) + Gu do Sussurro de Linha | O par que se ilumina aprende a se mostrar o que vê |
 | **Gu da Reunião Sanguínea** | Gu da Troca de Sangue + Gu do Sussurro de Linha | 🔨 Assistido — as duas partes do laço refinam juntas |
-| **Verme do Vinho de Sete Fragrâncias** | Verme do Licor de Quatro Sabores + sete bebidas de sete terras | O verme bebe as sete numa noite só. Elevação de linhagem com material raro |
+| **Verme do Vinho de Sete Fragrâncias** | 📕 Verme do Licor de Quatro Sabores ×2 + sete especiarias | **Canônica** — o verme bebe as sete numa noite só. Elevação de linhagem com material raro |
 | **Gu Relíquia de Prata Branca** | **Sem receita** — relíquia da era antiga | — |
 | **Caverna das Três Estrelas** | Gu Lagarto de Casa + Gu da Videira Verde | A casa que anda aprende a criar raiz |
 | **Gu de Escamas Ocultas Maior** ✱ | Linhagem (Gu de Escamas Furtivas ×2) | — |
@@ -338,6 +340,7 @@ Chance base ~40%. Neste nível, **a receita costuma valer mais que o Gu** — um
 | **Gu de Jade Branco** (r4) | ✅ Gu do Dossel Celeste + Gu da Terra Amarela | Validada nesta campanha. A elevação canônica da linhagem (via "Artemísia Celestial") está perdida |
 | **Gu da Atmosfera** | Gu Qi Duro + Gu do Pulmão de Água | O ar que defende aprende a respirar por você |
 | **Gu de Escravidão** (r4) | Gu da Escravidão (r2) + Verme da Verdade | A verdade forçada abre o caminho da vontade implantada. 🔨 Proibida em metade do continente |
+| **Gu do Crânio de Sangue** (r4) | 📕 **Sem fusão** — linhagem canônica do Caminho de Sangue | **Canônica**: muda a **Aptidão** de quem o refina; consome a linhagem de um parente de sangue (no romance, o refinador massacra o próprio clã). 🔨 Proibida em todo lugar |
 | **Gu de Domar Lobos** | Gu da Escravidão (r2) ×2 + uma matilha viva presente | Salto de dois ranks — 🔨 Instável; receita de domador das estepes |
 | **Gu do Cão de Guerra** | Gu das Tripas de Cão (r2) + Gu do Empenho Total | Os fantasmas de fera ensinam disciplina de guerra à matilha |
 | **Gu de Multitarefa** (r4) | Gu de Multitarefa (r2) + Gu da Lanterna da Alma | A mente dividida ganha luz própria em cada linha |
@@ -349,7 +352,7 @@ Chance base ~40%. Neste nível, **a receita costuma valer mais que o Gu** — um
 | **Par de Gu de Sangue Vinculado** | Gu da Reunião Sanguínea + Gu do Selo de Cera Viva | Uma gota de sangue de cada parte, no fecho do selo. 🔨 Assistido |
 | **Gu da Troca de Taças** | Gu do Portal Estelar + Sapo Barrigudo | O portal aprende a engolir e cuspir |
 | **Gu Relíquia de Ouro** | **Sem receita** — relíquia da era antiga | — |
-| **Verme do Vinho de Nove Olhos** | Verme do Vinho de Sete Fragrâncias + bebida de nove destilações | Elevação de linhagem; a bebida leva um ano pra destilar |
+| **Verme do Vinho de Nove Olhos** | 📕 Verme do Vinho de Sete Fragrâncias ×2 + olhos de nove reis-de-cem-feras diferentes | **Canônica** — elevação de linhagem; os nove olhos são de reis de bandos de cem feras distintos |
 | **Gu de Escamas Ocultas** (r4) ✱ | Linhagem (Gu de Escamas Ocultas Maior ×2) | — |
 | **Gu do Dossel Celeste Maior** ✱ | Linhagem | — |
 | **Gu da Lua Cheia Sangrenta** ✱ | Linhagem (Gu da Lua Sangrenta ×2) | Só sob lua cheia — a linhagem inteira respeita a lua |
@@ -418,7 +421,7 @@ Chance base ~25%. Cada receita desta tabela é **segredo de estado** de algum cl
 | **Gu da Poesia** | Gu do Arquivo Vivo + Gu da Esperança | Cem páginas + uma emoção sincera = um verso que vira jade |
 | **Gu da Vontade Própria** | **Sem receita** | Nasce sozinho onde a Vontade do Céu falhou. Achado, nunca feito |
 | **Gu Relíquia de Cristal Roxo** | **Sem receita** — relíquia da era antiga | O último da linha Relíquia |
-| **Gu do Crânio de Sangue** | Gu da Lua Cheia Sangrenta + crânio de parente morto pela própria mão | 🔨 Proibida em todo lugar. O material diz tudo |
+| **Gu do Crânio de Sangue** (r5) | 📕 Elevação da versão r4 — a mesma linhagem, refinada de novo | **Canônica**: a versão avançada do romance dispensa o massacre do clã inteiro — basta extrair a linhagem de um parente vivo. 🔨 Proibida em todo lugar |
 | **Gu da Segunda Fenda Vazia** | Gu Ancião Primevo + Gu de Abertura de Pedra ×2 | 🔨 Receita lendária, salto de ranks, 🔨 Instável — a segunda cavidade se escava sozinha |
 | **Gu da Viagem Espiritual** | Gu Espírito Refinado + Gu do Portal Estelar Duplo | A alma aprende o caminho de fora |
 | **Gu da Unidade Carne-Osso** | Gu de Carne-Osso + Par de Gu de Sangue Vinculado | 🔨 Proibida — o implante é em recém-nascido |

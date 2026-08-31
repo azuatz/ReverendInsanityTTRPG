@@ -201,12 +201,17 @@ Todas por diretiva direta do autor (fonte: `_Fontes/2026-08-30 — Feedback do a
 
 ---
 
+130. **Duas importações do homebrew de 3DeT: Destruição da Abertura e Ganhos por criatividade.** Auditoria comparativa contra [[Homebrew 3DeT — Lamúrias do Reverendo]] (10 candidatos avaliados; 7 já existiam iguais ou melhores no vault, e não foram reabertos — inclusive o "Elo da Morte" do Gu Vital, cuja morte instantânea sem chance de reação contradiz as decisões 1 e 18). Dois valiam a pena: **Destruição da Abertura** ([[❤️ Recursos e Dano]]) — estado terminal raro entre "sobreviveu" e "morreu": overkill catastrófico ou o Gu Vital ferido pela segunda vez colapsam a Abertura em vez de matar; o personagem sobrevive mortal, sem Gu, sem Aptidão, reversível só por tesouro de rank 6+. Resolve de vez a pergunta do Gu Vital sem violar "sem falha automática punitiva". **Ganhos por criatividade** ([[⚔️ Combate]]) — uso não-óbvio e taticamente relevante de um Gu concede Vantagem ou impõe Desvantagem, sem custo, 1×/cena — reaproveita o mecanismo de Vantagem que já existe em Preparação. Três detalhes de textura de campanha (casas de chá, zonas de caça, bode expiatório demoníaco) entraram em [[🏛️ Estrutura do Clã]], pasta 07, sem tocar `01`–`06`.
+
+---
+
 ## 🔔 Em aberto
 
 - [ ] **Ranks 1–2 e rank 5 não foram simulados** — a auditoria cobriu só o rank 3. No rank 1 quase ninguém tem Gu; no rank 5 os Golpes Matadores dominam. Ver [[🎯 Simulação de Combate — Resultados]].
 - [ ] **Golpe Matador, cura, controle e terreno ficaram fora do modelo** de simulação. Os números atuais são o piso da capacidade do grupo, não o teto — o Golpe Matador Coletivo de 4 vale simular à parte.
 - [ ] **A rodada 103–112 não foi simulada.** Crítico no 20, iniciativa rolada, fim da regeneração em combate e as 41 conversões de Nível mexem nas taxas medidas (o crítico sobe ~5–10% o dano esperado; o fim da regeneração encurta lutas longas). Rodar a bateria padrão dos 4 perfis com o motor novo é a próxima simulação.
 - [ ] **A economia imortal precisa de reauditoria sob a Dilatação Temporal (decisão 110).** As tabelas de produção de [[⚗️ Materialização e Alquimia Interna]] foram calibradas no fluxo 0,5×–3×; com 5×–50×, produção, Ração e renda de camada 4 escalam ~10× — conferir se os preços do Céu Amarelo e a Ração Imortal continuam fechando.
+- [ ] **Fratura da Abertura em crítico — candidata a regra, não regra ainda.** Auditoria comparativa com o homebrew de 3DeT propôs: um 20 natural que reduza o alvo a 25% ou menos da Vitalidade máxima rola `1d6` (1–2 Vazamento de Essência · 3–4 Gu Atordoados/Esgotados · 5 desvantagem no próximo Teste de Morte · 6 um Gu sorteado, nunca o Vital, fica Ferido). Soma dano incidental ao crítico (~5–10% a mais na letalidade medida) — **exige simulação antes de entrar em [[⚔️ Combate]]**.
 
 **Rejeitado deliberadamente:** subsistema de guerra de larga escala (é um segundo jogo — resolva com 3–4 testes de grupo); Attainment como escala numérica paralela a Marcas (redundante); rastrear Marca de Dao individualmente.
 

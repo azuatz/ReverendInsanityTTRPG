@@ -174,3 +174,16 @@ confirmada: caps. 1–2334), mas TODOS morreram no limite de sessão no passo de
 gravar o digest — zero arquivos no disco. Plano de relançamento, fatiamento e a
 lição principal (gravar incrementalmente, não só no fim) em
 [[🔖 Retomada — Leitura integral do romance]]. Retomar por aí.
+
+## [2026-08-30] crítica | Homebrew 3DeT — 10 candidatos avaliados, 2 adotados
+Comparação sistemática contra [[Homebrew 3DeT — Lamúrias do Reverendo]]. 7 de 10
+mecânicas já existiam iguais ou melhores no vault (Quebra de Paredes, Pressão da
+Abertura, Jogo das Pedras Seladas, backlash de refino, Estrutura do Clã — e o
+"Elo da Morte" do Gu Vital foi rejeitado por contradizer as decisões 1 e 18).
+Adotados como decisão 130: **Destruição da Abertura** em [[❤️ Recursos e Dano]]
+(estado terminal entre sobreviver e morrer) e **Ganhos por criatividade** em
+[[⚔️ Combate]] (uso esperto de Gu dá Vantagem, sem custo). Três ganchos de
+textura em [[🏛️ Estrutura do Clã]] (diplomacia e fronteiras). Uma terceira
+mecânica (Fratura da Abertura em crítico) ficou pendente de simulação, anotada
+em "Em aberto" no Log — soma dano incidental ao crítico e não deve entrar sem
+medir o impacto na letalidade.

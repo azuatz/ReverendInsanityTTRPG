@@ -1,362 +1,241 @@
 ---
 tags:
   - fonte
+aliases:
+  - Vol 5 parte 1
 escopo: referência
 ---
 
-# Volume 5 — Demon King's Domination (parte 1) — Leitura integral
+# Volume 5 — Demon King's Domination (parte 1: linhas 1–29600)
 
-Cobertura: capítulos 1022–1169 (linhas 1–29600 do arquivo-fonte). Arco: pós-batalha de Yi Tian Mountain — Fang Yuan renasce no corpo soberano (sovereign immortal body), Ying Wu Xie reconstrói a Shadow Sect, calamidades terrenas 1–5, herança verdadeira de Hei Fan, aliança das quatro raças, disputa por Hei Fan grotto-heaven.
+Extração bruta de dados de jogo do texto-fonte, para uso em `10 — Referência Canônica/`. Fonte: `Volume_5_-_Demon_Kings_Domination.txt`.
 
----
+## A) Gu nomeados (inclua Gu Imortais)
 
-## A) Gu nomeados
-
-### Gu Imortais
-
-| Nome (inglês) | Rank | Caminho | Efeito | Alimentação/refino/aquisição | Cap. |
-|---|---|---|---|---|---|
-| Cigarra Primavera-Outono (Spring Autumn Cicada) | 6 | Tempo | Renascimento: consome tudo do imortal, retém só uma vontade que viaja pelo Rio do Tempo até o corpo do passado. Tem taxa de falha; reduz a sorte do usuário. Gu vital de Red Lotus Demon Venerable (a versão original era rank 9) | Come água do Rio do Tempo. Selada por Wei Ling Yang (Corte Celestial) por 3 meses; contém vontade do céu — usar é suicídio p/ Fang Yuan; devolvida a FY na transação com a Shadow Sect | 1022, 1030, 1052, 1076, 1079, 1095 |
-| Feto Imortal Soberano (Sovereign Immortal Fetus) | 9 | Humano/transformação/céu (essência de todos) | Consumível de uso único: cria corpo soberano + abertura imortal 9-5 (dao marks de todos os caminhos sem conflito). Fruto de 100 mil anos da Shadow Sect | Refinado com: formação sem-vida dos dez zumbis imortais extremos + corpos/aberturas de incontáveis imortais + >100 zumbis da Zombie Alliance + auto-sacrifício de Spectral Soul + tribulações grandiosas e miríades | 1027–1028, 1041, 1103 |
-| Gu da Sabedoria (Wisdom Gu) | 9 | Sabedoria | Emite a "luz da sabedoria" (deduções). Ex-Gu vital de Star Constellation Immortal Venerable. Só responde a FY com corpo+alma originais juntos; vivos pagam com lifespan ao entrar na luz | Come Gu de lifespan (alimentado por Lang Ya land spirit); guardado em Lang Ya como colateral/empréstimo | 1027, 1029, 1073–1074, 1078 |
-| Gu da Atitude (Attitude Gu) | 8 | (lendário, Legends of Ren Zu) | Esconde emoções verdadeiras e projeta atitude falsa convincente; núcleo do familiar face | Só consome energia mental (usável por rank 6!). Come frutas de luz fluida (flowing light fruits). Pertencia a Hei Fan → neta Hei Feng Yue → perdido → Hei Lou Lan → FY | 1024–1025, 1082–1083, 1115, 1121 |
-| Espada da Sabedoria (Wisdom Sword) | 8 | Espada/Sabedoria | "A espada da sabedoria corta os fios do amor" — cortou os dao marks do Gu do amor em Bo Qing | Precisa essência imortal rank 8 p/ ativar. Come flores soberanas multicoloridas (rank 7; exigem iluminação + aromas doces + solo de pérola) | 1083 |
-| Anos Fluem Como Água (Years Flow Like Water) | 8 | Tempo | Produz Gu do ano (year Gu) ao gastar essência imortal (até nível imortal); usável até por rank 6 com essência uva-verde | Come água do Rio do Tempo. Falha: aura atrai bestas do ano (year beasts). Criado por Hei Fan (esvaziou o tesouro da tribo, 2 grão-mestres de refino, 9 falhas) | 1129, 1131 |
-| Viagem Imortal Fixa (Fixed Immortal Travel) | 6 | Espaço | Teleporte a locais conhecidos. Não transporta rank 7+ (excesso de dao marks). Único no mundo | Toda receita exige luz da era imemorial (material extinto; tesouros de Wind Cloud Manor/Corte Celestial). Receita alternativa: precisa divine travel Gu (que exige 4 licores supremos). Autodestruída pela vontade especial de FY; rerefinada pela Corte Celestial (Granny Sha). Corte já tentaria rank 7 só 3x; rank 8 impossível | 1038–1039, 1052, 1069 |
-| Troca de Alma (Change Soul) | 7 | Alma | Troca almas entre corpos | Come incenso azul-pílula (pill azure incense) | 1022, 1114 |
-| Sobrancelhas de Espada (Sword Eyebrows) | 7 | Espada | FY o usa para aumentar seus dao marks de espada | De Bo Qing; refinado com a formação de refino da sabedoria | 1032, 1168 |
-| Espada-Onda (Wave Sword) | 7 | Espada | Núcleo do golpe "onda de espada tripla" | De Bo Qing | 1055, 1078 |
-| Fuga da Espada (Sword Escape) | 7 | Espada/mov. | Voo linear rapidíssimo (par do qi escape Gu rank 7); precisa parar p/ mudar de direção | De Bo Qing | 1032–1033, 1061 |
-| Espada Voadora (Flying Sword) | 7 | Espada | Perfuração fatal (cabeça/coração); espada prateada de 3 m; Gu mais usado de Bo Qing ("o mais forte abaixo do rank 9") | De Bo Qing; penhorada com Chu Du; recuperada; carrega insígnia de herança de caminho da informação | 1032, 1038, 1046, 1102, 1114 |
-| Convocação de Calamidade (Calamity Beckoning) | 7 | Sorte | Atrai/puxa a calamidade para fora (Chu Du a usa de fora para arrastar a calamidade da abertura de FY). Mo Yao quis usá-la na tribulação de Bo Qing (falhou: era só rank 7 vs tribulação miríade) | Come sangue negro da serpente de seis cabeças | 1079, 1113–1114 |
-| Depois (After) | 7 | Tempo | Núcleo de "problema sem fim" (adia calamidade p/ a próxima) e "visão do futuro de três respirações" | Come qualquer material imortal VIA formigas negras mortais que ela mesma produz (1/mês); se as formigas morrem, o Gu passa fome | 1128–1130 |
-| Uivo da Alma (Soul Howl) | 7 | Alma (selvagem) | Onda sonora de alma; ativação consome fundação da alma, não essência (fez besta ancestral cair a desolada) | Selvagem, vivia numa besta-alma; depois com Ying Wu Xie (usado no truque de queimar alma por sorte) | 1038, 1068 |
-| Centopeia-Dragão (Dragon Centipede) | 7 | Espada (selvagem) | Gu imortal selvagem caçador: 7 li de comprimento, corpo com dao marks de espada, carrega dezenas de milhares de espadas nos membros | Caça bestas desoladas ancestrais como comida; único no mundo | 1086 |
-| Desvendar Mistério (Unravel Mystery) | 6 | Sabedoria | Núcleo do golpe mortal "desvendar sonho" (contra dream realms); componente da formação de refino da sabedoria | — | 1022–1023, 1084 |
-| Coração de Mulher (Woman's Heart) | 6 | Sabedoria | Núcleo de "coração malicioso"/"cuspe venenoso"; componente da formação de refino da sabedoria | Ficou em Hu Immortal; devolvida via Lang Ya | 1083–1084, 1096 |
-| Ativo de Sangue (Blood Asset) | 6 | Sangue | No refino: protege parte dos materiais/Gu; se falhar, restaura-os. Nas mãos de FY (grão-mestre de sangue): núcleo de blood torrent, robe do conquistador manchado de sangue, lago de cura de sangue, marca de sangue apostando a vida | Criado pelo antigo Lang Ya land spirit com receitas compradas no TYH; comprado por FY; recupera-se descansando num lago de sangue | 1058, 1061, 1150, 1167 |
-| Limite Escuro (Dark Limit) | 6 | Trevas | Oculta aura, bloqueia deduções e esconde da vontade do céu (parcialmente); efeito decai com o tempo; precisa descanso entre usos; escondeu o físico de Hei Lou Lan quando mortal | Original destruída com Jiang Yu; rerefinada por Lang Ya; comprada por FY | 1039, 1042, 1087, 1101 |
-| Sorte de Merda de Cachorro (Dog Shit Luck) | 6 | Sorte | Gu vital de Giant Sun na juventude (antes de Fortune Rivalling Heaven); eleva sorte passivamente, enfraquece calamidades | Come fezes de seis tipos de cães desolados; a versão rank 7 comeria fezes de cães celestiais remanescentes. Destruída no ataque à Lang Ya; rerefinada; vendida a FY | 1029, 1056, 1093, 1133 |
-| Mudança de Forma (Change Form) | 6 | Transformação | "Essência do caminho da transformação": transforma em qualquer coisa (só a forma; força/velocidade exigem outros Gu). Reckless Savage a elevou a rank 9; destruída/rerefinada dezenas de vezes na história; quase sempre rank 6 | Refinada por FY + Lang Ya (estilo homem-peludo; sucesso na 1ª tentativa com Dog Shit Luck + Refinement Cauldron) | 1063–1065, 1068, 1099 |
-| Força-Qi (Strength Qi) | 6 | Força | Material de refino do airsac Gu (contêiner do guts Gu) | Era de Hei Lou Lan; recomprada por FY | 1033, 1079 |
-| Força Própria (Self Strength) | 6 | Força | (elevava o self strength phantom de Hei Lou Lan) | Recomprada | 1079 |
-| Força do Urso Voador (Flying Bear Strength) | 6 | Força | Aumenta força; amplificada por dao marks de força | Recomprada | 1079–1080 |
-| Puxar Montanha (Pulling Mountain) | 6 | Força | Ergue e move montanhas inteiras (Dang Hun, Become Dragon Mound, Five Light Mountain) | Recomprada | 1079, 1095, 1152, 1167 |
-| Puxar Água (Pulling Water) | 6 | Força | Move rios/lagos inteiros | Recomprada | 1079, 1133 |
-| Paisagem Como Antes (Landscape as Before) | 6 | Tempo | Restaura terreno/objeto ao estado anterior (Dang Hun Mountain reduzida a morrote → restaurada) | De Tai Bai Yun Sheng; recomprada | 1079, 1096, 1098 |
-| Homem Como Antes (Man as Before) | 6 | Tempo | Restaura o corpo ao estado de um momento atrás (cura ferida fatal); consome essência imortal | De Tai Bai Yun Sheng; recomprada | 1079, 1097, 1140 |
-| Olhos de Estrela (Star Eyes) | 6 | Estrela | FY o usa para refinar estrelas do céu negro | Único Gu de estrela recuperado | 1079, 1168 |
-| Gu do Ano (Year Gu) | 6–8 | Tempo | Consumível-recarregável: usos gastam "anos"; refino paralelo com materiais/mortal year Gu repõe. Mortal <10 anos; rank 6 = 10–99 anos; rank 7 = 100 anos (refino normal, 10–100x mais difícil); rank 8 = 1000 anos; rank 9 (10 mil) nunca existiu | Come água do Rio do Tempo; atrai year beasts (até nas aberturas, via tributário do Rio do Tempo). Herança de Hei Fan (selada em gelo de Immortal Bing Ren) | 1129–1131 |
-| Inspeção de Sorte (Luck Inspection) | 6 | Sorte (investigação) | Vê a coluna de sorte de pessoas; expôs FY disfarçado (a sorte não se esconde com familiar face) | Ex-Qin Bai Sheng → Ying Wu Xie | 1060, 1151, 1154 |
-| Conectar Sorte (Connect Luck) | 6? | Sorte | Liga sortes (efeito atinge corpo E alma; sobrevive à troca de corpos) | Da herança "sorte de todos os seres"; presa no TYH fechado; recuperada por Ying Wu Xie | 1060, 1082, 1153 |
-| Quebrar Sorte (Break Luck) / Desviar Desastre (Divert Disaster) | ? | Sorte | Divert Disaster mandava calamidades da Corte Imperial p/ fora | Herança "sorte de todos os seres" (Corte Imperial, perdida) | 1051, 1093 |
-| Fortuna Rivalizando o Céu (Fortune Rivalling Heaven) | 8 | Sorte | Gu vital tardio de Giant Sun | Refino por Xue Hu: Ma Hong Yun como material principal (refino-relâmpago → essência de sorte dourada); esvaziou o tesouro de Snowy Mountain; 1ª tentativa falhou | 1029, 1093, 1144, 1168–1169 |
-| Sorte-Qi (Qi Luck) | ? | Sorte | Núcleo de "redemoinho da sorte" e "sensação de sorte-qi" | Da herança de Eighty-Eight True Yang Building (linhagem de Feng Jun); espoliada por FY | 1126, 1150 |
-| Luz da Visão (Sight Light) | ? | Luz | Núcleo de "luz-arma de visão distante" (Zhou Min) | Herança de Hei Fan grotto-heaven | 1126 |
-| Escravizar Bestas (Beast Enslavement) | 6 | Escravização | Escraviza bestas desoladas (falha em seres cheios de vontade do céu) | De Lang Ya (emprestada a Twelfth Hair; depois a FY) | 1080, 1094–1095, 1098 |
-| Escravo Imortal (Immortal Slave) | 6 | Escravização | Adiciona dao marks de escravização ao corpo (permite duplo cultivo) | Embrião obtido por acidente de refino de Twelfth Hair | 1080 |
-| Marionete de Grama (Grass Puppet) | 6 | (madeira) | Cria avatar de grama com força de batalha rank 6 | Presente de Old Man Bei Feng a Feng Chan Zi | 1052, 1060 |
-| Traço de Sangue (Blood Trace) | ? | Sangue | Mostra "sombras de sangue" dos eventos passados num local (investigação) | Criada pelos irmãos Ding Qi/Ding Yan | 1157 |
-| Juramento de Sangue (Blood Oath) | ? | Sangue | Pactos por juramento de sangue | Criada pelos irmãos Ding | 1045, 1157 |
-| Dao Perceptível (Perceivable Dao) | 6 | Informação (investigação) | Revela tipos e quantidades de dao marks do alvo (água estrelada cobre o alvo, >10 respirações). Não lê Gu Imortais (fragmentos do Grande Dao); custo maior em materiais de caminhos conflitantes | Única sobrevivente da herança de informação do Mar Oriental (2 imortais + 5 mortais mortos pelo tempo) | 1156, 1161 |
-| Espinho de Osso (Bone Spike) | ? | Osso | Gu ofensivo | Última herança de Immortal Succession Mountain | 1132 |
-| Sim ou Não (Yes or No) | ? | Informação | Responde qualquer pergunta com sim/não usando informação do céu e da terra; cada resposta custa 50 anos de lifespan do usuário | Refinado por Ni Ren NA LINHAGEM do clã Ni (não pode ser roubado nem refinado reversamente; usável por mortais) | 1035–1036, 1039 |
-| Placa de Formação (Formation Plate) | 6 | Formação | Arranja formações Gu automaticamente (montou a formação de teleporte em Tai Qiu em 6 h) | De Lang Ya | 1089 |
-| Filho Viajante (Traveling Son) + Mãe Zelosa (Doting Mother) | ? | Emoção | Par famoso: o filho retorna à mãe (teleporte de retorno; funcionou no mar turbulento porque emoção não existia quando a área se formou) | De Ren Xiu Ping | 1156 |
-| Força do Caldeirão (Cauldron Strength) | ? | Força? | Forma caldeirão gigante de refino (Yao Huang) | — | 1144 |
-| Ressuscitar dos Mortos (Resurrection From the Dead) | 8 | ? | Em refino por Yao Huang (para resolver lifespan) | — | 1131, 1144 |
-| Fuga Espacial (Space Escape) | ? | Espaço | Criada por Long Hair Ancestor para Thieving Heaven; ele não conseguia ativá-la (devolveu parte do pagamento) | Sorte não ajudou no refino (theft path é inferior a luck path para auxiliar refino) | 1051, 1065 |
-| Tornar Real (Become Real) | ? | Sonho | Criou o corpo falso de Ying Wu Xie a partir do dream realm (vida de 18 h) | — | 1023 |
-| Gu do Destino (Fate Gu) | 9 | Destino/regra | Núcleo da Heaven Overseeing Tower; danificado por Red Lotus mas não destruído; detecta fugitivos do destino nas 5 regiões + céus branco/negro | Corte Celestial | 1070 |
-| Segredo Celestial (Heavenly Secret) | ? | Sabedoria? | Usado por Old Man Yan Shi p/ deduzir Fang Yuan | — | 1031 |
-| Expandir Espaço (Expand Space) | ? | Espaço | Aumenta dao marks de espaço da abertura (aumenta espaço interno) | — | 1027 |
-| Viagem Divina (Divine Travel) | ? | ? | Material-chave da receita clássica de Fixed Immortal Travel | Exige "quatro licores supremos do mundo"; está com Lang Ya | 1038 |
-| Grande Fumo de Chá (Big Smoke Tea) | ? | Alimento? | Gu-droga: vicia e degenera Gu Masters; suprimido pelos poderes | — | 1093 |
-| Verme do Licor (Liquor Wine Worm) | ? | — | Célebre Gu de vinho (FY o usou p/ crescer) | — | 1093 |
-
-Perdidos/destruídos no arco: Eat Strength, Cleanse Soul, Star Shoot, Star Mark, Starlight (autodetonados pela vontade especial de FY, cap. 1079); Star Thought (paradeiro incerto); iron crown eagle strength e Connect Luck (presos no TYH fechado, 1079); extreme light Gu (morta com Xiao Mang, 1039); dark limit original (morta com Jiang Yu, 1039); flash sword + rumbling thunder (citadas como núcleos de "espada-relâmpago som de trovão", 1039); qi escape (referência de velocidade, 1033).
-
-### Gu mortais nomeados
-- Conectar Céu (connecting heaven) + Senso Divino (divine sense): necessidades básicas de todo imortal para acessar o Treasure Yellow Heaven (1027).
-- Capa de Fogo (fire cape, r5): chamas decorativas inofensivas; Fumaça Voadora (flying smoke, r5): voo (1024–1025).
-- Copo de Perspectiva Móvel (moving perspective cup): transporta objetos pela Porta Espacial, ATRAVESSA muros regionais (mortal superior); Portão Estelar (stargate): viaja pelas 5 regiões via luz estelar do céu negro; só serve a imortais rank 6 de fundo/zumbis com poucos dao marks; não transporta nem um Gu Imortal (1032, 1044, 1077–1078).
-- Gu de lifespan: mortal, mas "moeda mais forte" das transações imortais; produzido naturalmente onde há seres vivos (1073–1074, 1128).
-- Vontade Própria (self will, r5, sabedoria): consumível; produz "vontade própria" que limpa/bloqueia a vontade do céu; receita (incompleta) da Shadow Sect; centenas p/ limpar uma cabeça de monstro de neve (1092, 1095).
-- Verme-livro (bookworm): r1 valioso; Long Hair criou versões r2 e r3 (1051).
-- Comida/moradia: saco de vinho (wine sack flower), bolsa de arroz (rice pouch grass), água de nascente (spring water), comer vento beber orvalho (eating wind drinking dew), caverna três estrelas (three star cave, madeira — vira casa-árvore) (1032).
-- Sapo Engole-Rio (River Swallowing Toad, r5): refino exige ordem profound gold → ice gold → tear gold; comanda marés; gasta muita energia mental (1050, 1065, 1167).
-- Bainha de Espada (sword sheath, r5): atrai Gu de espada selvagens para dentro de si (Hong Yi, Broken Sword Valley) (1059).
-- Ouro Polido (polished gold): consumível único que AUMENTA APTIDÃO de um Gu Master (corrente de fragmentos de ouro) (1155, 1160).
-- Dragão Dourado (golden dragon), Aurora Dourada (golden aurora, voo) — metal, da corrente de ouro (1155); water dragon, earth dragon, dragon claw, dragon breath, dragon pearl Gu — produção de Become Dragon Mound (1167).
-- Serpente Imortal de Forma Branca (white form immortal snake, r5): pista-chave da aposta dos Cinco Xiangs (dada a Bai Ning Bing) (1166).
-- Gu do dia (day Gu) e do mês (month Gu): suplementares dos golpes de dilatação temporal; compráveis/refináveis por receitas de Hei Fan (1130, 1132).
-- Luz Deslumbrante (dazzling light): produz aurora vermelha; come pedras de cisne escaldante (scorching swan stones) (1083).
-- Guts Gu (Dang Hun Mountain) e airsac Gu (contêiner p/ exportar guts Gu; refinado de Strength Qi; FY deduziu receita alternativa) (1033).
-- Formiga negra mortal: produzidas pelo After Gu, devoram materiais imortais por ele (1128).
-- Sino de alerta (alert bell), Gu de espada-qi (sword qi — fraqueza: perfuração única, contornável), muddy Gu (lama afundante) — mortais do clã Ni (1034).
-
----
+- **Spring Autumn Cicada (Cigarra Primavera-Outono)** | Rank 6 (era rank 9 quando Demônio Venerável Lótus Vermelho vivia) | Caminho do Tempo | Gu Imortal vital de Demônio Venerável Lótus Vermelho; ativação envia a vontade do usuário para o Rio do Tempo e permite renascimento (reescrever o passado); tem taxa de falha e reduz a sorte de quem usa; ativação por autodetonação de alma+corpo como combustível (Cap. 1022)
+- **Sovereign Immortal Fetus Gu (Gu Feto Imortal Soberano)** | Rank 9 | essência dos caminhos Humano + Transformação + Céu | refinado por Demônio Venerável Alma Espectral com recursos da Seita Sombria (dez físicos extremos, formação de zumbis imortais, mais de cem zumbis imortais, corpos/aperturas de incontáveis Imortais mortos); concede a "Nine-Five Sovereign Immortal Aperture" (Cap. 1027, 1029, 1031)
+- **Wisdom Gu (Gu Sabedoria)** | Rank 9 | Caminho da Sabedoria | Gu vital de Imortal Venerável Constelação Estelar; concede "luz da sabedoria"; corpo vivo que a usa perde longevidade como preço — só corpo sem essa restrição (ex. zumbi imortal) pode usar livremente; usada para deduzir receitas de Gu Imortais (Cap. 1027, 1029)
+- **Dog Shit Luck (Sorte de Cocô de Cachorro)** | Gu Imortal vital de Imortal Venerável Sol Gigante em seus anos iniciais (depois substituído por Fortune Rivalling Heaven) (Cap. 1029)
+- **Fortune Rivalling Heaven (Fortuna Rivalizando o Céu)** | Gu Imortal vital de Imortal Venerável Sol Gigante em seus anos finais (Cap. 1029)
+- **Change Soul (Trocar Alma)** | Imortal, Caminho da Alma | permite tomar controle/trocar consciência em um corpo (Cap. 1023)
+- **Unravel Mystery (Desvendar Mistério)** | Imortal, Caminho da Sabedoria | associado ao golpe matador "unravel dream" (precisa de estoque de Gu mortais) (Cap. 1023)
+- **Attitude Gu (Gu Atitude)** | rank "lendário" (alto) | oculta a emoção verdadeira e mostra uma atitude falsa, convincente para outros; custo baixo (só energia mental); pertence a Hei Lou Lan, emprestado/usado por Fang Yuan (Cap. 1023–1025)
+- **Fixed Immortal Travel (Viagem Imortal Fixa)** | teleporte de alto valor | autodetona por vontade especial implantada por Fang Yuan (Cap. 1023, 1026)
+- **Fire Cape Gu (Gu Manto de Fogo)** | Rank 5 | Caminho do Fogo | corpo pega fogo, inofensivo, efeito cosmético/vistoso (Cap. 1025)
+- **Flying Smoke Gu (Gu Fumaça Voadora)** | Rank 5 | movimento/voo | permite voar, deixa rastro de fumaça negra (Cap. 1025)
+- **Connecting Heaven Gu (Gu Conectar ao Céu)** | Rank 5 mortal | necessário junto com Divine Sense Gu para acessar Treasure Yellow Heaven (Cap. 1025, 1027)
+- **Divine Sense Gu (Gu Sentido Divino)** | Rank 5 mortal | par do Connecting Heaven Gu para acessar Treasure Yellow Heaven (Cap. 1025, 1027)
+- **Expand Space Immortal Gu (Gu Imortal Expandir Espaço)** | aumenta marcas de dao espaciais na apertura imortal, aumentando o tamanho da terra bendita (Cap. 1027)
+- **Wine Sack Flower Gu, Rice Pouch Grass Gu, Spring Water Gu, Eating Wind Drinking Dew Gu** | Gu mortais de alimentação/sustento (Cap. 1032)
+- **Heavenly Secret Gu (Gu Segredo Celestial)** | usado por Old Man Yan Shi (Seita Sombria) para deduzir informações sobre Fang Yuan (Cap. 1031)
 
 ## B) Sistemas e atividades jogáveis
 
-### Treasure Yellow Heaven (TYH) — o mercado das 5 regiões
-- Origem: Daoist Countless Treasures (rank 8, Era Antiga Medieval) fundiu um fragmento do céu amarelo imemorial à sua grotto-heaven ~300 mil anos atrás; localização é mistério absoluto (nem venerados a deduziram); sem sucessor — governado pelo espírito celeste (heavenly spirit), orgulhoso e incorruptível (preferiu a morte a ceder a um venerado; nunca houve corrupção registrada) (1073).
-- Acesso: connecting heaven Gu + divine sense Gu; envia-se a "vontade" ou o senso divino para negociar; imortais deixam vontades permanentes cuidando de estoques (1027, 1114).
-- Taxas: cobradas por transação conforme a ALTURA da luz-tesouro das mercadorias (luz de Gu Imortal rank 7 ≈ 300 m — comoção geral). Transportar o wisdom sword rank 8 custaria mais que todas as economias de FY. Mercado aberto: sem segredos, transações rastreáveis (1032–1033, 1039).
-- Compra de conhecimento: enciclopédias de bestas desoladas, mapas, experiências — mas limitado a rank 6–7 (rank 8 não vende saber) (1116).
-- Fechamento: o espírito celeste fecha o mercado quando absorve novo fragmento do céu amarelo (casos históricos; fechamento mínimo registrado: pouco mais de 2 meses). A Corte Celestial VENDEU um fragmento enorme barato só para fechar o TYH e sufocar as vendas de Ying Wu Xie — guerra econômica de rank 8 (1071, 1073).
-- Impacto macro: com o TYH fechado, todo desenvolvimento de aberturas paralisa; preços sobem, rank 8 fazem compras de esvaziamento; a reabertura detona corrida de compras (1092, 1104, 1114).
-- Venda de Gu Imortais: normalmente só se trocam Gu Imortais por Gu Imortais; Ying Wu Xie inovou aceitando LISTAS de materiais imortais — comoção geral (1071).
-- Moedas: pedras de essência imortal (básica) < Gu de lifespan (moeda dura, exigida em transações de alto nível); leilões privados do Mar Oriental transacionam em lifespan Gu (1128, 1154).
+- **Treasure Yellow Heaven** — o maior mercado de Imortais Gu das cinco regiões; formado da fusão de uma terra-gruta de um Imortal Gu com um grande fragmento do céu amarelo imemorial; acesso via Connecting Heaven Gu + Divine Sense Gu (rank 5 cada) (Cap. 1025, 1027)
+- **Pontos de contribuição de seita (Lang Ya Sect)** — Dang Hun Mountain = 100 pts, Luo Po Valley = 100 pts, Wisdom Gu (rank 9!) = 100 pts — valores de EMPRÉSTIMO/custódia, não de doação plena; doar definitivamente valeria muito mais e pode render o posto de primeiro grande-ancião (mas exige virar hairy man de verdade); pontos trocam por receitas de Gu Imortal, Gu Imortais e métodos secretos (Cap. 1029, 1032)
+- **Acordo de aliança (caminho da Informação)** — grava marcas de dao de informação no corpo E na alma de ambos os lados; comparado a "duas bombas interligadas": quem quebra o acordo sofre punição severa e libera o outro lado da obrigação; a cláusula de liberação é ela própria uma marca de dao específica, teoricamente removível isoladamente para libertar só um lado (jogo de guerra de informação) (Cap. 1030–1031)
+- **Método de revivificação por apertura imortal de vida-e-morte** — criado pela Seita Sombria por experimentação; mata um Imortal (idealmente de físico extremo) e usa o cadáver para reviver via zumbi imortal; risco: apertura pode explodir se a sorte for ruim; o Sovereign Immortal Fetus Gu é a versão aperfeiçoada/definitiva desse método (Cap. 1031)
+- **"Defy" (Desafiar)** — organização secreta fundada pela Seita Sombria dentro de Continente Central, abaixo do radar das dez grandes seitas ancestrais; membros identificados por números que codificam ordem de entrada/status; "boss" é o fundador; usada para emprestar Gu Imortais secretamente, mas membros nem sempre obedientes (Cap. 1030)
+- **Grades/tamanhos de terra bendita (ao ascender rank 6)** — Baixa grade: até 2000 km²; Média grade: 2700–4000 km²; Alta grade: 4700–6000 km² (imortais com herança/fundação notável, ex. Tai Bai Yun Sheng); Grade Super: 6700–13000 km² (exclusiva de físicos extremos, ex. Hei Lou Lan) (Cap. 1027)
+- **Terra-gruta (grotto-heaven)** — estágio acima de terra bendita; a apertura imortal se divide em áreas/segmentos distintos quando atinge esse estágio (ex. Starry Sky grotto-heaven); Lang Ya blessed land é uma terra-gruta "caída" que voltou a ser terra bendita, mas manteve espaço único (ao contrário da apertura dividida de Fang Yuan) (Cap. 1027–1028)
+- **Nove Céus Imemoriais** — originalmente 9 céus (cores: vermelho, laranja, amarelo, verde, azul-claro, azul, roxo, branco, preto); Ren Zu e seus dez filhos causaram o colapso de sete deles em "mundos fragmento"; hoje restam só o céu branco e o céu preto; Treasure Yellow Heaven vem do fragmento do céu amarelo (Cap. 1027–1028)
+- **Regra corpo-alma-pensamento** — o corpo sozinho não produz pensamentos (só fornece a "mente"/recipiente); a alma produz pensamentos, mas eles não persistem sem uma mente para armazená-los e colidi-los (raciocínio); Mestres Gu controlam Gu worms através de pensamentos — por isso uma alma diferente num corpo não consegue usar os Gu vinculados à vontade/padrão de pensamento do dono anterior (explica por que Ying Wu Xie não conseguia usar os Gu de Fang Yuan) (Cap. 1025)
 
-### Lang Ya Sect — pontos de contribuição (economia de seita jogável)
-- Tudo tem preço em pontos; até o 1º supremo elder obedece às regras (1032, 1081).
-- Valores registrados: emprestar Dang Hun Mountain = 100; Luo Po Valley = 100; wisdom Gu = 100 (a seita banca alimentação/manutenção). Transporte de Gu via TYH numa leva = 30 pontos. Aulas de combate a imortais peludos = 20/aula (depois reduzido a quase nada por atrito político). Plano estratégico aceito (transformação p/ os peludos) = 200. Missão do cão-estrela-cadente = 800 → recusada; depois elevada a 1000+ (paga ao completar). Exploração de Tai Qiu = 600. Achar aliados variantes/aliança das 4 raças ≈ 1000. Recrutar Chu Du = 1000 (missão pendente). Ler livros do acervo = 100. Elder externo ganha 10 pontos/mês fixos; membros plenos ganham mais conforme o posto (promoção de posto muda o NOME: Sixth Hair → Fifth Hair) (1032–1033, 1082, 1093, 1116, 1139, 1147).
-- Missões-tipo: coletar materiais de refino; treinar combate dos peludos; caçar bestas em Tai Qiu; refinar Gu por encomenda (FY terceiriza self will/day/month/year Gu aos peludos pagando pontos) (1032, 1092, 1148).
-- Três chances de refino grátis (acordo Thieving Heaven–Long Hair): FY usou em stargate, second aperture e change form (1038, 1065).
-- Três heranças supremas: refino (Long Hair), sorte-própria (Giant Sun; contém Dog Shit Luck), roubo (Thieving Heaven; a menos valiosa; heranças de Thieving Heaven vêm em PARES e, das 10 que deixou, quase todas só aceitam demônios de outro mundo) (1051).
+## C) Regras do mundo
 
-### Tribulações — mecânica completa
-- Cadência: calamidade/tribulação ocorre por TEMPO INTERNO da abertura. Rank 6 normal: calamidade terrena a cada 10 anos, tribulação celeste a cada 100; após 300 anos e 3 tribulações celestes → rank 7 (27 terrenas + 3 celestes). FY (tempo 1:60): calamidade a cada 2 meses externos (1053, 1097).
-- Procedimento: colocar a abertura no mundo (ela vira um ponto invisível; o imortal fica dentro como um land spirit — não pode sair); abrir a entrada suga qi do céu e da terra (quanto mais recursos, mais qi e mais tempo); o tributário do Rio do Tempo se funde ao rio externo e o tempo interno desacelera até ~1:1 (1053, 1095).
-- Lei do equilíbrio: quanto mais forte a tribulação, mais dao marks o sobrevivente ganha ("fortuna e desastre andam juntos") (1066, 1099, 1161).
-- Vontade do céu só age DIRETAMENTE durante tribulações; fora delas, apenas influencia seres subconscientemente (decisões situacionais) — contramedida: VELOCIDADE e rotas em arco; "calamidades humanas" são armadas com tempo (1086, 1096, 1111, 1140).
-- Métodos anti-tribulação registrados: desacelerar o tempo da abertura (dias passam como anos); Calamity Beckoning por aliado externo (co-op!); immortal tribulation tempering aperture; sorte (Dog Shit Luck); terreno (Dang Hun Mountain como fortaleza); "endless trouble" (adiar e enfrentar 2 juntas — enfurece o céu, tribulações seguintes ficam mais fortes); bestas escravizadas como trunfo; Corte Celestial: membros fundem a abertura na grotto-heaven da Corte e ficam SEM tribulações (recebem phantom aperture para carregar essência/Gu) (1070, 1113, 1130).
-- Tribulação de refino: refinar Gu Imortal pelo estilo homem-peludo convida tribulação no local (o heavenly drum thunder + 20 blue charm lightning shadows na 1ª tentativa do change form — 20x o normal, sabotável pela vontade do céu) (1067–1068).
-- Locais especiais: planície gelada do norte — ascensões de força/transformação atraem "verdadeiro significado" de Reckless Savage no lugar da vontade do céu (infusões elevam attainment; overdose destrói a consciência); tribulações lá CONSOMEM o qi terrestre e encolhem o lar dos homens-de-neve/pedra sob o gelo (1053–1056, 1143). Chu Du construiu carreira criando discípulos só para colher o significado nas ascensões deles (1056–1057).
+- Gu Imortais de rank 9 têm status equivalente a Veneráveis rank 9: raríssimos, preciosíssimos, extremamente poderosos (Cap. 1027)
+- Tamanho da terra bendita escala com a grade/herança/físico do Imortal Gu na ascensão (ver tiers na seção B) (Cap. 1027)
+- Aperturas imortais maiores = mais marcas de dao espaciais = mais capacidade de carga e potencial de crescimento (Cap. 1027)
+- Status de terra-gruta faz a apertura imortal se dividir em regiões diferenciadas conforme a natureza/corpo do Imortal Gu (Cap. 1027)
+- Um corpo vivo não pode usar a "luz da sabedoria" do Wisdom Gu com segurança — custa longevidade; só corpos sem essa restrição (zumbis imortais) usam livremente (Cap. 1029)
+- Renascimento via Spring Autumn Cicada tem taxa de falha e reduz a sorte de quem usa (Cap. 1022)
+- Demônios de outro mundo (otherworldly demons) podem renascer/mudar o passado e não são presos ao decreto do destino, mas se "incompletos" ainda podem ser manipulados pela vontade do céu através de vontades/wills (mais fracas que almas, fáceis de influenciar) (Cap. 1022)
+- Vontade do Céu é descrita como imparcial: tira do excedente, repõe o déficit, mantém o equilíbrio; se opõe à natureza humana (que busca acumular mais); age para conter quem rompe o equilíbrio/regras, como um demônio de outro mundo que escapa das restrições (Cap. 1022)
+- Feras ferozes têm inimigos naturais; até Veneráveis rank 9 têm expectativa de vida limitada — princípio de equilíbrio (Cap. 1022)
 
-### Immortal tribulation tempering aperture (golpe de refino, Lang Ya)
-- Vários Gu Imortais + >100.000 Gu mortais; conecta a abertura ao ambiente externo e ENVIESA o tipo de calamidade (ex.: Lang Ya perto de Crescent Lake → calamidades de água/refino → 180 mil anos transformaram o continente em 3 ilhas + mar). Não é garantido (às vezes vem fogo/raio). Método de Spectral Soul p/ refinar o feto soberano deriva daí (mais refinado: deduzia o tipo antes). Custo de FY: dezenas de milhares de essências por ativação (~60% do estoque na 1ª vez) (1051, 1053, 1096).
+## D) Números e preços
 
-### Refino de Gu — dois estilos e economia
-- Estilo homem-peludo "céu e terra": usa dao marks do ambiente; taxa de sucesso maior; atrai tribulação (explorável pela vontade do céu). Estilo humano "isolamento": seguro, mas sucesso de rank 6 frequentemente <1% por lote — teoricamente 100 porções de materiais; na prática pode falhar mesmo com mais (1060, 1067).
-- Uma porção de luz da era imemorial ≈ 9 tentativas de refino de Fixed Immortal Travel (1060). Ying Wu Xie: 10 tentativas (3+7 porções), todas falharam — a Corte refinara primeiro (unicidade!) (1066–1069).
-- Refino reverso (r7→r6): mais fácil que promover, mas ainda arriscado; demora (1038, 1054).
-- Refino paralelo (year Gu): raro; 5 receitas de Hei Fan; a melhor injeta year Gu mortais no imortal (1131).
-- Refino relâmpago (lightning refinement): transforma pessoa-material (Ma Hong Yun) em essência pura (essência de sorte dourada); falha causa backlash no refinador (1168–1169).
-- Unicidade: Gu Imortais são únicos; refinar um que já existe FALHA automaticamente (a causa oculta das 10 falhas de Ying Wu Xie); destruição recente eleva a chance do re-refino (1038, 1069).
-- Regret Pool (casa Gu de tempo, mar turbulento): re-refina Gu Imortais DESTRUÍDOS usando insígnia deixada no refino original + tributário do Rio do Tempo; sucesso 50–60%; insígnia é consumida e deve ser reposta (1103).
-- Blood Asset como "seguro de refino" (1058). Sun Ming Lu imitou o Regret Pool numa formação de 1 dia p/ Xue Hu (1169).
+- Grades de terra bendita ao ascender rank 6: Baixa ≤2000 km²; Média 2700–4000 km²; Alta 4700–6000 km²; Super 6700–13000 km² (Cap. 1027)
+- Apertura imortal soberana (nine-five) de Fang Yuan: 10 camadas, cada uma >33500 km², total >335000 km² (Cap. 1028)
+- Pontos de contribuição da Lang Ya Sect: Fang Yuan tinha 300 no total; Dang Hun Mountain = 100, Luo Po Valley = 100, Wisdom Gu (rank 9) = 100 (valor de empréstimo/custódia, não doação) (Cap. 1029, 1032)
+- Teste de queda do corpo de Fang Yuan (sem Gu defensivo): aterrissagem de 330 m causa só vermelhidão leve/hematoma; impacto de cabeça de 180 m só causa tontura leve (dura 3 respirações) (Cap. 1024)
+- Corpo criado por "Become Real" (Ying Wu Xie): vida útil de 18 horas; rank de cultivo sobe 1 a cada 2 horas (mortal→rank1→...→rank8, quase rank9 no fim) e então autodetona virando reino de sonho (Cap. 1023)
+- Reino de sonho da autodetonação de Ying Wu Xie: expandiu até parar num raio de ~1000 li (Cap. 1023)
+- Gu "emprestados" por Huo Kong Dong a Fang Yuan: 4 Gu mortais rank 5 (fire cape, flying smoke, connecting heaven, divine sense) (Cap. 1024–1025)
 
-### Economia da abertura imortal (gestão de base)
-- 3 estágios: inicial (produzir a comida dos próprios Gu Imortais), médio (excedente p/ vender), superior (criar humanos variantes/humanos dentro — minimen cultivam flores, rockmen escavam, snowmen produzem lágrimas de gelo; humanos criam receitas/golpes sozinhos; podem nascer Gu Imortais nativos leais) (1159).
-- Colocar recursos conforme dao marks locais; recursos incompatíveis definham (solo fértil comprado só adia — dao marks de terra dos solos se dissipam) (1066, 1148).
-- Comprar escravos p/ trabalhar dá prejuízo (lição de Hu Immortal: peludos morriam refinando sem reproduzir); deixá-los viver e procriar naturalmente é o caminho (1159).
-- Aberturas vivas produzem essência imortal (FY: 16 contas/dia externas = 480/mês; "96/ano interno"); apertura de zumbi é terra morta (tempo = externo, espaço desmorona) (1029, 1082, 1148).
-- Anexação de blessed lands: exige attainment compatível com o caminho da terra anexada (FY anexou a de Ding Qi por ser grão-mestre de sangue; não pôde anexar a de luz de Liu Qing Yu) (1152, 1157).
-- Espólio de imortal morto: (a) deixar a abertura assentar no mundo → blessed land → invadir e colher recursos (chance de virar dono satisfazendo a obsessão do land spirit); (b) engolir a abertura na própria → detona e deixa os dao marks (1043, 1152). Corpo com dao marks é espólio (Nian Er Fu coletando cadáveres) (1106). O corpo soberano ABSORVE dao marks de qualquer caminho de inimigos mortos — via de crescimento única (1127).
-- Guerra econômica: monopólio do guts Gu (FY+Lang Ya, lucro 6.000 pedras de essência/mês); venda de recursos únicos saqueados; rockmen são os maiores compradores de guts Gu (crescimento populacional) (1033, 1146).
+## E) Locais e atividades
 
-### Sorte como sistema
-- "O destino é difícil de desafiar, mas a sorte pode ser explorada" — doutrina da Shadow Sect (1022, 1093).
-- Sorte conectada flui do mais sortudo aos conectados (Dog Shit Luck de FY beneficiou Ying Wu Xie via cadeia Hei Lou Lan; Feng Chan Zi "coincidentemente" precisou vender a luz imemorial) (1060).
-- Qi luck sensation: rastreia conectados ATRAVÉS de muros regionais (única investigação inter-regional vista); contramedida: esconder-se dentro de abertura imortal + métodos de alma (1150, 1153, 1160).
-- Giant disaster blazing tree: drena sorte de quem se aproxima (anti-Dog Shit Luck) (1113).
-- Sorte auxilia refino (Giant Sun ajudou Long Hair no Eighty-Eight True Yang Building); dado: imortal queima a própria alma p/ subir sorte (trump card de Ying Wu Xie) (1065, 1068).
+- **Yi Tian Mountain** — local da batalha final, agora coberto por um reino de sonho gigante (~1000 li) surgido da autodetonação de Ying Wu Xie (Cap. 1023)
+- **Earth Abyss (Abismo Terrestre)** — bases secretas da Seita Sombria; túneis subterrâneos de rockmen; abriga Star Form blessed land; base/sala secreta de Ying Wu Xie tem uma super-formação Gu que bloqueia o sinal de Connecting Heaven Gu (Cap. 1026, 1030–1031)
+- **Hu Immortal blessed land** — terra bendita original de Fang Yuan, forte em caminho de escravização, ligada a Spirit Affinity House e Immortal Crane Sect; cercada e tomada pelas dez grandes seitas ancestrais mas encontrada vazia; depois presenteada a Feng Jin Huang (Cap. 1026–1027)
+- **Star Form blessed land** — segunda terra bendita de Fang Yuan, escondida no Earth Abyss
+- **Lang Ya blessed land** — terra-gruta caída deixada por Long Hair Ancestor; chamada de "número um" entre as terras benditas das cinco regiões após a destruição de Imperial Court blessed land; governada pelo espírito da terra Lang Ya (atualmente na forma "cabelo preto", supremacista hairy man); recebe Dang Hun Mountain, Luo Po Valley e Wisdom Gu em custódia de Fang Yuan (Cap. 1028–1029, 1032)
+- **Dang Hun Mountain** — tesouro antes de Demônio Venerável Alma Espectral, usado para refino/fortalecimento de alma; realocado para Lang Ya blessed land (Cap. 1026–1029)
+- **Luo Po Valley** — outro tesouro de Alma Espectral, originalmente em Star Form blessed land; realocado para Lang Ya blessed land (Cap. 1026–1029)
+- **Ming Tang Valley** — Continente Central; produção de Gu de caminho da luz, controlada por Wind Cloud Manor e Heavenly Lotus Sect (duas das dez grandes seitas); Gu Imortal de luz selvagem surge aprox. a cada 20 anos; esconderijo do Imortal demoníaco Gong Sun Liang "Unmoving Mountain" (Cap. 1030)
+- **Great Heavenly Sword Sect** — força vassala de Immortal Crane Sect; tem 3 Imortais Gu (Miao Jun, Miao Yue, +1 atraído para longe por Immortal Crane Sect) (Cap. 1030)
 
-### Acordos de aliança (informação) e como quebrá-los
-- Essência: dao marks de informação gravados no corpo E na alma; remover = apagar os dao marks (Ying Wu Xie usou formação de LUZ p/ apagar os de Fairy Li Shan em Hei Lou Lan) (1031, 1038).
-- Cláusulas encadeadas: "se um lado quebra, o outro é liberado" — remover só um lado exige achar e remover primeiro os dao marks-cláusula específicos (dificílimo) (1031).
-- Imitação por outros caminhos: hundred years harmony (tempo→informação, 100 anos); ritual das 4 raças (terra→informação); método de Ying Wu Xie (alma→informação). Quebrar exige o caminho de ORIGEM (1130, 1146, 1149).
-- Efeitos colaterais: cada acordo deposita dao marks daquele caminho no corpo do signatário (FY ganhou marks de terra/tempo/informação assim) (1161).
+## F) Golpes matadores e receitas
 
-### Formações de batalha ancestrais (co-op)
-- Heavenly Giant Solor (2ª colocada da Era Antiga): ~10 peludos formam gigante prateado; golpes: mundo silencioso (anti-som), sacrifício de um braço; dano à formação reflete nos membros (1028, 1068).
-- Omni-directional Travel: 4 imortais como núcleos (N/S/L/O); teleporte de longa distância sem restrição de dao marks (fugiu até da Corte Celestial); "usa pessoas como núcleo da formação" (1090, 1103, 1151).
-- Green City Rampage (4 supremos de Hei tribe ≈ rank 8; acidente os impedia de se separarem); versão menor "Green City battle formation" (5 núcleos; quebra = backlash) (1101, 1109, 1127).
-- Grey cloud battle puppet (criação de Lady Earth Mother): campo de batalha imortal com marionetes de nuvem controladas remotamente (corpos seguros no subsolo); marionetes reconstroem cabeças destruídas; bloqueia conexão com o TYH (1140–1142).
+- **Unravel Dream** — golpe matador imortal ligado a Unravel Mystery; requer estoque suficiente de Gu mortais (Fang Yuan não tinha o suficiente) (Cap. 1023)
+- **Lead Soul Into Dream** — golpe/método de caminho dos sonhos usado por/associado a Spectral Soul (Cap. 1023)
+- **Myriad Flash Fire** — golpe matador de campo de batalha do nono grande-ancião do Chai clan (mencionado, não detalhado) (Cap. 1024)
 
-### Aposta dos Cinco Xiangs (mini-jogo geracional)
-- 5 rank 8 do Sul (Qi, Ni, Bai, Xue, Chi Xiang) acharam um segredo no céu branco que só um podia obter → aposta: mil anos sem ajudar descendentes; clã com mais Gu Imortais vence; empates renovaram a aposta por milênios. Trapaça de Ni Ren: refinar Gu Imortais NA LINHAGEM (o "Ni Xiang da geração" carrega o Yes or No). Qi clan preserva/pastoreia vilas Ni como gado de respostas (1035–1036). Bai Ning Bing é a última descendente de Bai Xiang; a white form immortal snake é a chave da aposta (1166).
+- **Sword Escape Immortal Gu** | Rank 7 | Caminho da Espada | de Bo Qing; Gu de movimento, tão rápido quanto Qi Escape Gu rank 7; comprado por Fang Yuan via Treasure Yellow Heaven (Cap. 1032–1033)
+- **Flying Sword Gu** | Rank 7 | Caminho da Espada | de Bo Qing; famoso Gu ofensivo/defensivo (Cap. 1032–1033)
+- **Wisdom Sword Gu** | Rank 8 | Caminho da Espada | de Bo Qing, ficou em Hu Immortal blessed land, não refinado (Cap. 1032)
+- **Sword Eyebrows Gu** | Rank 7 | Caminho da Espada | de Bo Qing, não refinado, ficou em Hu Immortal blessed land (Cap. 1032)
+- **Moving Perspective Cup Gu (Gu Copo de Perspectiva Móvel)** | mortal, "Space Door" | transporta objetos ignorando as paredes regionais das cinco regiões; Gu mortal de altíssimo valor (Cap. 1032)
+- **Stargate Gu (Gu Portal Estelar)** | mortal | teleporte de objetos/pessoas entre terras benditas (usado por hairy man Gu Immortals para levar formações/tesouros) (Cap. 1028, 1032)
+- **Three Star Cave Gu (Gu Caverna Três Estrelas)** | Caminho da Madeira | vira uma casa-árvore com espaço interno no tronco (Cap. 1032–1033)
+- **Muddy Gu (Gu Lodoso)** | mortal, Caminho da Terra | transforma o solo sob o alvo em lama funda, prendendo-o; efeito acumulativo em usos repetidos (Cap. 1034)
+- **Sword Qi Gu (Gu Qi de Espada)** | mortal, Caminho da Espada | dispara um jato de qi de espada perfurante pelos dedos; fraqueza: dano de perfuração é anulado por Gu defensivo tipo "casca dura" (Cap. 1034)
+- **Alert Bell Gu (Gu Sino de Alerta)** | mortal, clã | soa alarme de emergência do clã (Cap. 1034)
+- **Yes or No Immortal Gu ("Sim ou Não")** | Caminho da Informação | pergunta a céu-e-terra e responde só "sim" ou "não"; custa 50 anos de longevidade do usuário por resposta; refinado no sangue/linhagem de descendentes do clã Ni por Ni Ren (permite a um MORTAL controlar um Gu Imortal, embora a preço altíssimo) (Cap. 1035–1036)
+- **Familiar Face (Rosto Familiar)** | golpe matador imortal (immortal killer move) | de caminho de disfarce, requer grande estoque de Gu mortais; permite disfarce perfeito, indetectável mesmo por quem conhece a vítima pessoalmente (Cap. 1036)
+- **Lifespan Gu (Gu Longevidade)** | mantém aparência jovem apesar da idade avançada (usado por Qi Zai, rank 7, centenas de anos mas aparenta jovem) (Cap. 1035)
+- **Investigative Gu Formation (clã)** | formação de investigação usada por líderes de clã para ver eventos a longa distância em tempo real (Cap. 1034)
 
-### Herança de Hei Fan (design de dungeon de herança)
-- Camadas de teste: (1) golpes mortais de refino ensinados à tribo por gerações; (2) aura do attitude Gu (perdido com a neta — trava de 3 mil anos); (3) reconhecimento de linhagem via golpe de refino de sangue ESCONDIDO em "erros" deliberados dos golpes ensinados ("pense por si mesmo"); (4) ovo "morto" da águia celeste extrema (chave viva da grotto-heaven); (5) voto de metade dos imortais da grotto-heaven em 3 anos (teste de liderança — FY "cumpriu" matando todos e votando em si) (1115, 1118, 1121–1127).
-- Conteúdo: lifespan Gu (720 anos), After (r7), year Gu (r6) + Years Flow Like Water (r8) selados em gelo de Immortal Bing Ren, carta com >30 golpes imortais, ~100 receitas imortais completas, receitas mortais (day/month/year), mapas das 5 regiões + céus branco/negro, incompletas (Before, 57%) (1128–1132).
+## B) Sistemas e atividades jogáveis (cont.)
 
-### Lang Ya blessed land (mundo-jogável)
-- 4 continentes: Black/White/Yellow Hair (mar) + Cloud Cover (flutuante, sagrado; 12 cidades-nuvem = casas Gu mortais; juntas formam a formação de confusão de nuvens de doze ondas). Guerra entre os 3 continentes instaurada pelo land spirit p/ selecionar "sementes imortais" a cada 10 anos; reis promovem torneios marciais (prêmio: item do tesouro real). Mercado de escravos (humanos como raridade cara). Produz lifespan Gu continuamente há 300 mil anos (1049–1050, 1074, 1084).
+- **Comércio de guts Gu (tripas)** — cadeia de produção: hairy man slaves refinam airsac Gu (usando strength qi Immortal Gu como material) → airsac Gu serve de recipiente para tirar guts Gu de Dang Hun Mountain e vendê-los fora; limitação histórica: número de escravos hairy man (caríssimos em Treasure Yellow Heaven, mortalidade alta no refino); ao ingressar na Lang Ya Sect, Fang Yuan ganha acesso à imensa população de hairy men de Lang Ya blessed land, multiplicando a produção (Cap. 1033)
+- **Taxa de transporte da Treasure Yellow Heaven** — cobrada conforme a altura da "luz de tesouro" (treasure light) emitida na transação; paga em pontos de contribuição de seita quando transacionado via patrocinador (Lang Ya land spirit pagou e descontou de Fang Yuan); transação de 2 Imortais Gu rank 7 custou 30 pontos de contribuição (Cap. 1032–1033)
+- **Fluxo de tempo em apertura imortal** — varia por Imortal: Hei Lou Lan (físico extremo) tinha proporção 1:38 (1 dia fora = 38 dias dentro); apertura soberana de Fang Yuan tem 1:60, superando terras benditas de grade super mas sem ser exagerada (Cap. 1033)
+- **Produção de essência imortal em apertura viva** — apertura soberana de Fang Yuan produzia 16 contas de "green grape immortal essence" por dia (480/mês) — muito acima do padrão de sua vida anterior (Cap. 1033)
+- **Marcas de dao no corpo de Fang Yuan (novo corpo)** — cerca de 100 marcas de dao por caminho, em MÚLTIPLOS caminhos (fogo, água, madeira, luz, trevas, veneno, sorte etc.) sem o enfraquecimento cruzado normal entre caminhos opostos; 100 marcas amplificam efeito de Gu em ~10%; anomalia: normalmente um Imortal só investe fundo em 1 caminho e sofre penalidade ao usar Gu de caminho oposto — o corpo soberano de Fang Yuan ignora essa penalidade (Cap. 1033)
+- **Gu vital ausente** — todo Mestre Gu que ascende a Imortal tem um "vital Gu"; a apertura soberana de Fang Yuan não tem nenhum — mistério não resolvido nesta parte (Cap. 1033)
+- **Grudge qi / revival por rancor (qi path)** — método de clã Qi: reúne "grudge qi" (aura verde-pálida) deixada por vítimas mortas com ódio extremo, injeta em lama/material com marcas de dao terrestres, forma um "mudman" que revive parcialmente a personalidade/memória do morto (baixa inteligência, só responde perguntas lentas); after fate Gu quebrado, métodos de revivificação se multiplicaram no mundo (Cap. 1036–1037)
+- **Aposta ancestral dos Heaven Surveying Five Xiangs** — 5 Imortais rank 8 de Southern Border (Qi, Ni, Bai, Xue, Chi Xiang) apostaram há milênios: caminhos gerando qual clã teria mais Imortais Gu Imortais em 1000 anos; empate levou a prorrogações sucessivas (2000, 3000+ anos); ainda em curso; clã Ni tentou trapacear via "Yes or No" Gu de linhagem (Cap. 1035–1037)
 
----
+## E) Locais e atividades (cont.)
 
-## C) Regras do mundo (fatos mecânicos)
+- **Rotten Mud Mountain (Southern Border)** — território do clã Ni (terra escura peculiar que preserva sangue fresco); solo raro de "mud monster" desolate beast (Cap. 1034, 1036)
+- **Qi Sea grotto-heaven** — terra-gruta do clã Qi, onde os Imortais anciões residem (Cap. 1035)
 
-- Blessed lands por grau (tamanho inicial na ascensão): baixa ≤2.000 km²; média 2.700–4.000; alta 4.700–6.000; super (dez físicos extremos) 6.700–13.000 km² (1027).
-- Abertura soberana: 10 camadas, cada uma >33.500 km² (total >335.000 km²); 1ª camada = 5 regiões, camadas 2–10 = 9 céus; espaço dividido em camadas é traço de GROTTO-heaven, não de blessed land (1027–1028).
-- Tempo: abertura soberana 1:60 (1 dia fora = 2 meses dentro); Hei Lou Lan (físico extremo) 1:38; tempo rápido = mais produção E tribulações mais frequentes (1033).
-- 100 dao marks = +10% no efeito de um Gu do caminho; 1.000 = dobra; 16.000 = 16x — sem aumentar o custo de essência (1033, 1161).
-- Dao marks de caminhos diferentes conflitam (enfraquecem Gu de outros caminhos); imortais cultivam 1 caminho principal; o corpo soberano é a exceção única (sem conflito, cultiva todos) (1033, 1064).
-- Contrapartida do corpo soberano: golpes inimigos NÃO são amortecidos pelos próprios dao marks; se coincidem com o caminho do golpe, podem até AMPLIFICÁ-LO — péssimo em combate corpo a corpo; ótimo para curas de qualquer caminho (1058, 1140, 1161).
-- Rank 7 típico: ~10.000 dao marks no caminho principal após ~40–50 calamidades terrenas, 4–5 tribulações celestes, 1+ grande tribulação (1161).
-- Bestas: desolada = rank 6; ancestral desolada = rank 7; imemorial desolada = rank 8 (1035). Pégaso: 4 asas = rei-besta; 6 asas = desolada; 6 asas + chifre = ancestral (1086). Monstros de neve: 60 pés = desolada, 70 pés = ancestral (1054).
-- Muros regionais: miasma (Sul, roxo-negro), alcaçuz (Norte, verde), chama furiosa (Oeste, vermelho), água azul (Leste, azul), santo (Central, branco-dourado). Quanto maior o rank/dao marks, maior a repulsão; o corpo soberano passa livre (tratado como Gu Imortal, que muros não barram) e TROCA de aura regional ao cruzar (1043–1045).
-- Os 9 céus imemoriais cobrem todas as 5 regiões — seres/veículos dos céus (bestas-nuvem, Heaven Overseeing Tower via céu branco, stargate via céu negro) cruzam regiões livremente (1044).
-- Rank 8 viaja entre regiões pelos céus branco/negro; motivo dos demais não viajarem: (1) a abertura precisa de qi da PRÓPRIA região quando assentada; (2) territorialismo; (3) tribulações não esperam (1077–1078).
-- Em 400–500 anos os muros regionais desaparecerão e as 5 regiões se fundirão (conhecimento de renascido) (1078).
-- Gu Imortais raramente entram em aberturas alheias: choque de dao marks consome/expulsa; maior contendo menor é estável; rank 8 nem entra em blessed land (estouraria); abertura morta de zumbi não resiste (só desmorona mais rápido) (1070, 1167).
-- Entrar num mundo-fragmento exige força compatível; forte demais o destrói (1070).
-- Colocada no mundo e fechada, a abertura é um ponto indetectável; invadi-la exige métodos de espaço (ou conexão de linhagem, ex.: Immortal Crane usou o sangue de Fang Zheng) (1058).
-- Vital Gu: todo ascendido tem um; a abertura soberana NÃO tem (anomalia) (1033).
-- Corpo fornece a mente; alma produz pensamentos; a mente os armazena e colide (= pensar); Gu são controlados por pensamentos — alma alheia não usa os Gu de outrem (1025).
-- Ativar cada Gu gasta ≥1 pensamento; um golpe imortal consome milhares/dezenas de milhares de pensamentos; caminho da sabedoria especializa-se em multitarefa de golpes (1140).
-- Falha na ativação de golpe = backlash (sangue, dano); golpes recém-criados falham mais; excesso de golpes simultâneos sobrecarrega a mente e mata (1055, 1139).
-- Golpes imortais vazam aura complexa; ativar só o Gu Imortal vaza aura simples (rank/caminho legíveis); dark assassination é exceção (zero aura, alcance <100 passos) (1041, 1043).
-- Batalha: imortais brigam no céu; matar imortal é difícil, derrotá-lo é fácil — fuga é norma; campos de batalha (battlefield killer moves) prendem, mas exigem preparação prévia/emboscada (1042).
-- Campos imortais não podem ser armados DENTRO da própria abertura (choque de dao marks); mortais podem (1054).
-- Aura pode ser suprimida/fingida; luck inspection fura o familiar face (sorte não se disfarça) (1041, 1151, 1154).
-- Alma: 3 pilares — fortalecer (guts Gu/Dang Hun), refinar (vento Luo Po + névoa da perdição/Luo Po Valley), pacificar (sopa pacificadora do Lago Enfeitiçante, na porta da vida e morte) (1092).
-- Land spirits não mentem; espírito celeste de grotto que absorveu fragmento dos 9 céus fica DEMENTE (vontade do céu entra e corrói a autoridade); grotto com fragmento é livre de tribulações mas vigiada pelo céu (1029, 1119, 1133).
-- Morte de imortal: dao marks voltam à abertura (blessed land póstuma); zumbis retêm marks no corpo; almas podem autodetonar; obsessão do morto vira condição de herança do land spirit (1152, 1156).
-- Immortal Gu são frágeis (até uma criança mata um rank 9); guardar no corpo (tatuagem) é arriscado; o mais seguro é a abertura (1058).
-- Gu de rank alto: mais comida, intervalos maiores entre refeições (1083).
-- "Quality over quantity": 2–3 Gu Imortais é o padrão; >3 vira fardo (comida/essência); FY é exceção pela abertura/receita (1082).
-- Usar Gu de rank acima do seu: custo brutal (rank 7 custa >100 contas de essência uva-verde por uso vs. renda de 16/dia de FY) (1038).
-- Aptidão/rank: rank 6 = fundo, rank 7 = meio, rank 8 = topo ("na ausência do rank 9, rank 8 domina"); só 5 rank 8 públicos no Norte; só Feng Jiu Ge lutou com rank 8 sendo rank 7 nos últimos milênios (1089, 1101, 1145).
-- Variantes humanos não alcançam rank 9 (falha inata); vida média humana = 100 anos (1032, 1074).
-- Snowmen: choram no máx. 3 vezes/60 gotas na vida; cada choro custa lifespan (lágrimas de gelo = material E símbolo de amor) (1147).
-- Eagle hounds reproduzem por INFECÇÃO (veneno converte cães/águias) (1136).
-- Águia celeste extrema: 80 anos de vida; renasce de ovo com memórias+dao marks; entra em grottos/9 céus já visitados (1117).
-- Transformação: ficar transformado demais/tempo demais = perder-se na forma (imortal virou eagle hound sem mente); transformação perfeita é, em si, um golpe do caminho; Gu de transformação são os mais fáceis de refinar (1064, 1137).
-- Caminho do sangue: qualquer imortal do caminho entra no Demon Judgment Board; refino de Gu de sangue é barato (1058, 1066).
-- Caminhos: restrição < regra; emoção < sabedoria (pensamentos/vontades/emoções); os 5 caminhos de maior poder bélico: metal, fogo, raio, espada, sangue; qi é mais antigo que força e mais decadente; alimento (food path) quase extinto (criador foi um imortal-besta); 9 em 10 Gu Masters do Norte cultivam força (ramo jun-força humana de Chu Du; ramos anteriores: fantasma de força bestial, céu-e-terra atmosférico) (1040, 1057, 1064, 1092–1093).
-- Rank 8 marca-se por imitar efeitos de outros caminhos com o próprio (Hei Fan: tempo→força/informação/sorte; Ying Wu Xie: alma→informação; 4 raças: terra→informação) (1130).
-- Corte Celestial: 3 milhões de anos; 3 gerações de Immortal Venerables; membros iguais (sem líder absoluto, salvo venerado); dormem p/ poupar lifespan (drawback desconhecido); fusão de aberturas = obra de Primordial Origin (1069–1070).
-- White Bone Chariot (Shen Jie Ao, Proud Bone Demon Lord): único golpe MORTAL da história a rivalizar com Gu Imortal (1041).
-- Dream realms: explorá-los eleva attainment (extração de "verdadeiro significado" das vontades acumuladas); alma imersa em dream realm é consumida com o tempo (1055, 1044).
-- Attainment por dao marks: certo volume de marks dá "sentidos" ao imortal (refino: percepção fina; fogo: sente Gu/bestas de fogo; sabedoria: deduz sem Gu; sorte: sente a própria sorte) (1119).
-- Otherworldly demons: únicos capazes de mudar o passado; imunes à influência mental da vontade do céu quando "completos"; a Hei tribe desenvolveu (vivissecção de um deles) um golpe investigativo que os expõe (1075, 1110).
-- Vontade do céu: reside nas 5 regiões + 2 céus; tem limites e se recupera; ficou "esperta" depois de Star Constellation; itens/seres impregnados dela ressoam com o exterior mesmo dentro de aberturas; escravização/venda de seres impregnados falha (autodetonam) (1044, 1087, 1094–1095).
-- Famosas montanhas/rios e domínios reclusos pesam sobre o qi do céu e da terra (1063).
-- Chás/vinhos = receitas Gu incompletas (se completadas viram Gu de chá/vinho) — teoria do food path (1093).
-- Aliança de casamento/aliança em geral: cada acordo reduz a liberdade e cria obrigações de defesa mútua (FY já acumula: Lang Ya, Chu Du, 4 raças) (1149).
+## F) Golpes matadores e receitas (cont.)
 
----
+- (ver "Familiar Face" e "Yes or No" em A)
 
-## D) Números e preços concretos
+- **Second Aperture Gu (Gu Segunda Apertura)** | refinado por Lang Ya land spirit para Fang Yuan (2ª de 3 solicitações usando o pacto Thieving Heaven/Long Hair Ancestor); função não detalhada nesta parte (Cap. 1038)
+- **Divine Travel Gu (Gu Viagem Divina)** | material central para refinar Fixed Immortal Travel; requer 4 licores supremos do mundo; estava em posse de Lang Ya land spirit (Cap. 1038)
+- **Extreme Light Gu (Gu Luz Extrema)** | fonte de "light of the immemorial era" usada por Fang Yuan para refinar seu Fixed Immortal Travel original; pertencia a Xiao Mang (morto); Gu destruído com a morte dele (Cap. 1039)
+- **Soul Howl Immortal Gu (Gu Imortal Uivo de Alma)** | Rank 7, selvagem, vive dentro de uma "soul beast"; ativa sem gastar essência imortal (usa a base da própria alma); dano de área sonoro que fere almas de quem está perto (Cap. 1039)
+- **Sword Flash Thunder Sound** | golpe matador imortal (movimento) do caminho da espada; núcleo: Flash Sword Gu + Rumbling Thunder Gu (Cap. 1039)
+- **Dark Assassination** | golpe matador imortal (ofensivo) do caminho da espada; núcleo: Flying Sword Immortal Gu + Dark Limit Immortal Gu (Dark Limit destruído após morte de Fairy Jiang Yu) (Cap. 1039)
+- **Divine Flick (Estalo Divino)** | golpe matador MORTAL do caminho qi; dispara um pellet de qi do tamanho de um polegar, rápido demais para desviar (Cap. 1040)
+- **Qi Lockdown (Bloqueio de Qi)** | golpe matador de campo de batalha MORTAL (caminho qi); imobiliza o ar numa área, criando arena translúcida temporária — pouca ameaça contra Imortal Gu (Cap. 1041)
+- **Snow Domain (Domínio de Neve)** | golpe matador de campo de batalha MORTAL, assinatura de Xue Song Zi; obtido por Fang Yuan via soul search em Xue Song Zi (Cap. 1041)
+- **Lion Fur Armor (Armadura de Pele de Leão)** | golpe matador mortal defensivo, forte contra ataques físicos/cortantes (bloqueou o "Divine Flick" e resistiu a 2 cortes de lâmina de qi) (Cap. 1040)
+- **Surging Clouds / Nine Cloud Ring (Nove Anéis de Nuvem)** | golpes matadores mortais de caminho de nuvem, aprendidos de Tai Bai Yun Sheng; Nine Cloud Ring absorve dano de fogo (4 dos 9 anéis tingidos de vermelho ao bloquear um inferno) (Cap. 1040)
+- **Dark Vortex (Vórtice Negro)** | golpe matador mortal ofensivo de caminho das trevas (Cap. 1040)
+- **Black Oil defensivo (de Hei Cheng)** | golpe matador mortal defensivo: camada oleosa preta reduz em 60% o poder de lâminas/cortes que a atingem (Cap. 1040)
+- **White Bone Chariot** | golpe matador MORTAL criado por Proud Bone Demon Lord Shen Jie Ao (rank 8 demoníaco); único golpe mortal conhecido na história capaz de igualar o poder de um Gu Imortal (Cap. 1041)
+- **Qi Grand Lion (Leão Grande de Qi)** | fera selvagem com marcas de dao do caminho qi; controla correntes de ar para "voar" sem realmente pisar em nuvens; quase extinta, só vista em céu branco/preto hoje (Cap. 1035)
 
-- Vida do corpo falso de Ying Wu Xie: 18 horas; +1 rank a cada 2 horas (mortal→rank 8; rank 9 no fim); detona virando dream realm de 1.000 li de raio (1023).
-- Corpo soberano recém-nascido: salta 10 m parado; aguenta queda de 330 m com hematomas (limite não atingido); ~100 dao marks por caminho, >1.000 no total inicial (1024, 1033, 1038).
-- Blessed lands: ≤2.000 / 2.700–4.000 / 4.700–6.000 / 6.700–13.000 km²; soberana: 10 × >33.500 km² (1027–1028).
-- Tempo: 1:60 (FY), 1:38 (Hei Lou Lan) (1033).
-- Essência: 16 contas de uva-verde/dia (480/mês; "96/ano interno"); 1 ativação de Gu rank 7 > 100 contas (1029, 1033, 1038).
-- Lucros de FY: antes ~2.000 pedras de essência/mês no total; com o guts Gu via Lang Ya, 6.000/mês só dessa linha (Lang Ya fica com mais da metade do negócio) (1033).
-- Pontos Lang Ya: 300 iniciais (100+100+100); −30 por leva de transporte; missões: 20/aula; 200 (plano); 600 (Tai Qiu); 800→1000+ (cão); ~1000 (aliança); 1000 (recrutar Chu Du); 100 (livros); mensalidade 10 (elder externo); total de FY chegou a >2.000 (1032–1033, 1081–1082, 1116, 1139, 1147).
-- Refino: sucesso <1%/lote (rank 6, estilo humano); 1 porção de luz imemorial = 9 tentativas; Ying Wu Xie juntou 3 → 6 → 10 porções de materiais e falhou 10x (1060, 1066–1068).
-- Tribulação de refino do change form: 20 blue charm lightning shadows (20x o padrão; 1 delas matou Hu Immortal no passado) (1068).
-- Corte Celestial: pode tentar refino do Fixed Immortal Travel rank 7 só 3 vezes com o estoque de luz imemorial; selo de Wei Ling Yang sobre a Cigarra: 3 meses; Corte existe há 3 milhões de anos; TYH há 300 mil anos; fechamento mínimo histórico do TYH: pouco mais de 2 meses (1052, 1069, 1073).
-- Yes or No: 50 anos de lifespan por resposta (o líder Ni, >50 anos, morreu ao responder) (1035, 1039).
-- Aposta dos Cinco Xiangs: duração de 1.000 anos por rodada, renovada por milênios (1035).
-- Familiar face de FY (sem change form): >1.000 Gu mortais suplementares (1024, 1040).
-- Golpe de Tang Song: 490 vermes Gu; triple layered sword wave: >500 mortais; immortal tribulation tempering aperture: >100.000 mortais; bountiful year: dezenas de milhares de mortais e 2–3 dias de preparação até para Hei Fan (1046, 1055, 1051, 1130).
-- Interior rain (material r6): processamento = >50 passos, >20 métodos de refino, 30 golpes mortais de refino, em minutos; 3 bacias desperdiçadas até acertar a 4ª (1065).
-- Luck whirlwind: ~100 usos/dia; taxa de sucesso solo 80–90% (cai em combate) (1126, 1139).
-- Preços/somas: 4 Gu mortais rank 5 "emprestados" de Huo Kong Dong (1024); pill azure incense ≈ 10.000 pedras de essência (alimenta o Change Soul 3x) (1114); slippery soil: estoque inteiro por 202 pedras (1148); ovo da águia: ofertas recusadas de Lang Ya = 3 heranças supremas / Luo Po Valley / Heavenly Essence Treasure Imperial Lotus + Refinement Cauldron incompleto (1147); trigo dourado: ≥500.000 kg de essência de metal (material mortal r5) por colheita bienal (1103); ninho 13: 500 kg de cristais celestes (material r8) (1115); corrente de ouro: FY coletou ~500 kg de fragmentos (mortal comum) (1155).
-- Lifespan: herança de Hei Fan = 720 anos em lifespan Gu; Chen Chi pediu 300→barganha 150 anos; FY tem ~84 anos restantes (corpo de ~16 anos); águia celeste extrema vive 80 anos (1074, 1123, 1128, 1117).
-- Dao marks de FY (pós-5ª calamidade): gelo/neve 16.000; sorte 15.000; qi ~13.000; som ~13.000; sangue 12.000; regra 12.000; água 11.000; transformação+força ~9.000; trevas +9.000 (5ª calamidade); comida>vento/madeira>terra/tempo/informação; mínimo (fantasma) ~100. Total das 4 primeiras calamidades ≈ 30.000 marks — 3x o que um rank 7 acumula no caminho principal na vida (1161, 1165).
-- Armadilha da alma no corpo original: ~10.000 marks de alma; devorou 1 alma imortal e cresceu +2.000 (1162).
-- Combates: 9 imortais variantes (4 r7 + 5 r6) + dragão de pedra imemorial na emboscada (1139–1140); 9 cadáveres+almas colhidos em Hei Fan grotto (1128); Chu Sect atacou com 8 imortais de força (1163); ataque à Iron Eagle: FY + 4 mercenários r7 (1169); City Well: golpes amplificados 10–100x, custo idem; 3 giant hands ≈ custo de 100 (1157–1158).
-- Iron Eagle blessed land: 12 ninhos com materiais r7 (ex.: cobre da dominação) + 13º ninho oculto (r8); águias: >50 investiram contra Nu Er Gu (1106–1110).
-- Tai Qiu: árvore-névoa das mil serpentes com 70.770 galhos ("setenta mil setecentos e setenta"); viva após 300.000 anos; incêndio que a derrubou ardeu meses (1088).
-- Ming Tang valley: um Gu Imortal selvagem de luz a cada ~20 anos (1030).
-- Hei Fan grotto: saque ≈ 600 anos de desenvolvimento próprio; valor da abertura de FY ≈ pico do rank 7 (1133, 1148).
-- Snowmen: 3 choros/60 gotas máx. (1147).
-- Aliança 4 raças: teste de herança de Hei Fan = metade dos votos em 3 anos internos (1122).
-- Fang Zheng: preço de venda "dez dedos" (gesto de Kang Ba); refino do sapo: materiais p/ 3 tentativas (1049, 1065).
-- Sixth Hair: 3 espiões originais da Shadow Sect em Lang Ya; só ele restou (1068, 1078).
-- Percentuais: 30% dos Gu de FY sobreviveram à autodetonação (1075); acordo FY–Chu Du = 30% dos ganhos das duas heranças (1114); Regret Pool re-refina com 50–60% de sucesso (1103); dedução de Tian Xia Xin: 50% de chance (0% se o alvo está numa abertura; falha = cobra metade) (1101–1102); receita do Blood Deity 70% completa; Before 57% (1066, 1132).
-- Ren Zu: Legends of Ren Zu, cap. 4, seção 23 = City Well (1157).
+## B) Sistemas e atividades jogáveis (cont. 2)
 
----
+- **Regra de equivalência rank Gu Master × rank Gu worm** — um Gu de rank muito acima do usuário é como "um bebê segurando um martelo": difícil de usar contra o inimigo e pode até ferir o próprio usuário; Gu de rank muito abaixo também limita o poder — regra geral do mundo desde os tempos antigos (Cap. 1038)
+- **Reverse refining (refino reverso) de Immortal Gu** — reduz o rank de um Gu Imortal (ex. rank7→rank6) para adequá-lo ao usuário; taxa de sucesso maior que refino normal, mas ainda pode falhar; melhor pedir a um especialista de refino (ex. land spirit) do que fazer sozinho (Cap. 1038)
+- **Segredo sobre uso de Immortal Gu em combate** — Imortais evitam usar Gu Imortais cedo numa luta porque (1) gasta essência imortal e (2) revela que tipo/rank de Gu possuem ao inimigo — informação sigilosa que pode ser explorada depois; batalhas começam com "sondagem" via golpes mortais (Cap. 1041)
+- **Aura ao ativar Gu vs golpe matador** — ativar um Gu Imortal sozinho vaza uma aura simples (dá pra identificar rank/caminho); ativar um golpe matador imortal vaza aura mais "complexa" (mistura vários Gu) — oponentes experientes leem isso para deduzir o arsenal do inimigo; métodos especiais podem mascarar a aura para enganar (Cap. 1041)
+- **Vantagem territorial em combate Imortal vs Imortal** — Imortais têm mobilidade de milhares de li, por isso são fáceis de derrotar mas difíceis de matar, a menos que haja uma formação de campo de batalha de nível imortal armada com antecedência (armadilhas precisam ser preparadas em segredo ou disfarçadas) (Cap. 1041)
+- **Transformação path e interferência de marcas de dao** — um Gu Master de caminho de transformação comum só domina 1 forma por vez sem sofrer interferência entre marcas de dao de caminhos diferentes; trocar de forma exige tempo e método para "limpar" as marcas antigas antes de assumir as novas; Reckless Savage Demon Venerable (fundador do caminho da força, também caminho de transformação) era a única exceção histórica conhecida, podia trocar de forma/marcas à vontade — mistério nunca transmitido após sua morte. Fang Yuan replica esse efeito hoje graças ao Sovereign Immortal Fetus Gu (Cap. 1041)
 
-## E) Locais e o que se faz neles
+- **Myriad Sword Tribulation** | golpe matador imortal lendário de Bo Qing (caminho da espada), usa Flying Sword Immortal Gu como núcleo para criar chuva de dez mil espadas; Fang Yuan não o possui, é sua "fraqueza" contra inimigos sem estrutura corporal fixa (lodo, nuvem) (Cap. 1044, 1046)
+- **Soul Core (Núcleo de Alma)** | dentro de soul beasts, do tamanho de um ovo, denso em marcas de dao da alma; material de refino topo de linha; o resto do corpo do soul beast desaparece com o tempo e não tem uso (Cap. 1042)
+- **Blood Oath Immortal Gu (Gu Imortal Juramento de Sangue)** | forma um pacto vinculante para compartilhar algo (ex. um achado/fortuitous encounter) entre duas partes (Cap. 1045)
 
-- **Yi Tian Mountain / dream realm gigante (Sul)**: coberto por dream realm de 1.000 li com Spectral Soul preso dentro; via justa do Sul ergueu formação conjunta (9 dias de trabalho) p/ monopolizar e "devorar" o dream realm aos poucos; disputa interna por cotas (1023, 1111).
-- **Treasure Yellow Heaven**: mercado, transporte, banco de informações, leilões públicos; vendem-se até conhecimento e escravos (ver B) (1027+).
-- **Lang Ya blessed land (Norte)**: seita, refino em série, mercado de escravos, torneios, guerra dos 3 continentes, produção de lifespan Gu, acervo de receitas/golpes, Dang Hun Mountain + Luo Po Valley instaladas (cultivo de alma), formações de teleporte externas (Feng Bo Cliff, planície dragão-elefante) (1049+, 1085).
-- **Dang Hun Mountain / Luo Po Valley**: terras sagradas de alma (fortalecer/refinar); guts Gu; alimentam-se de almas (FY entrega almas colhidas) (1039, 1092).
-- **Tai Qiu (Norte, uma das dez áreas ferozes)**: selva de grama gigante; bestas desoladas/ancestrais/traços imemoriais; qualquer briga vira maré de bestas; cadáveres imemoriais alteram o ambiente por séculos e servem de âncora p/ formações; Lang Ya montou base p/ caçar materiais de transformação (1085–1089).
-- **Planície gelada do norte**: tribulações com verdadeiro significado de Reckless Savage; embaixo, lar secreto de snowmen+rockmen (Earth Mother Altar; terra criada pelos dao marks póstumos de Hei Feng Yue); tribulações drenam o qi do lugar (1053, 1140–1146).
-- **Hei Fan grotto-heaven**: sem tribulações (fragmento do céu azul); Immortal Succession Mountain (pavilhões-herança); espírito-sino demente; saqueada por FY e cedida a Chu Du; depois sitiada por Heavenly Lord Bai Zu (1119–1133, 1163).
-- **Iron Eagle blessed land (QG Hei tribe → Bai Zu tribe)**: criadouro de águias (iron crown/dragon/resonance eagles), ninhos-esfera com minérios r7/r8; pilhada pela guerra dos justos/demoníacos; palco do ataque da Chu Sect (1105–1110, 1169).
-- **Become Dragon Mound**: monte de dao marks de transformação; produz Gu-dragão; arrancado inteiro por FY (1167).
-- **Earth Trench (Norte)**: 17 seções; QG da Zombie Alliance (Dark Flow Giant City, afundada e escondida); saqueadores à procura; FY faz a 5ª tribulação numa seção exaurida (1077, 1084, 1164).
-- **Earth Abyss (Central)**: subterrâneo de rockmen; base secreta da Shadow Sect c/ super formação (esconde de deduções, refina, mata; matou 3 imortais da Ancient Soul Sect); colapsos geram bestas de sangue/osso e Gu selvagens (1026, 1044, 1067, 1090).
-- **Mar de fluxo turbulento (Leste)**: labirinto de correntes de todo o mundo (água da fonte amarela, água das mil ilusões, magma do poço da glória flamejante, água negra de almas, fragmentos de ouro do céu amarelo, água-relâmpago); bolhas-mundo com heranças e cadáveres; Regret Pool ficava lá; City Well movida p/ lá; Miao Ming Shen procura um tributário do Rio do Tempo (1103, 1150, 1155–1158).
-- **City Well (domínio recluso nº3)**: poço-mundo de minimen; amplifica golpes externos 10–100x; sustentaria populações de variantes; imóvel (nem Pulling Mountain) (1157–1159).
-- **Five Regional Mountain Range (Sul)**: réplica dos 5 muros regionais feita pelo Restriction Expert Tao Zhu (pesquisa de travessia); arena ideal p/ FY (imune) matar perseguidores (1042–1043).
-- **Ming Tang valley (Central)**: produção de Gu de luz (Wind Cloud Manor + Heavenly Lotus); esconderijo de Gong Sun Liang (1030).
-- **Pot River (Central, Wind Cloud Manor)**: frutos-armadilha do capim-pote; enchente anual + festival de colheita de Gu (1060).
-- **Broken Sword Valley (Central)**: vale cortado por luz de espada de Bo Qing; produz Gu de espada selvagens; corrida de caçadores (1059).
-- **Rotten Mud Mountain (Sul)**: vila Ni (massacrada por FY); monstro de lama desolado guardião (1034–1037).
-- **Shang Liang Mountain / Shang clan (Sul)**: hub comercial justo-demoníaco; arena aberta a demoníacos; Living Treasure blessed land (porta que cutuca o nariz) (1072).
-- **Snowy Mountain blessed land (Norte)**: base demoníaca de Xue Hu; refino do Fortune Rivalling Heaven no 1º pico (1144, 1168).
-- **Longevity Heaven (Norte)**: grotto de Giant Sun; herdeiros diretos; contida por Five Elements Grandmaster; guarda a herança "sorte do céu e da terra" (1051, 1144).
-- **Myriad Bean Garden (Norte)**: fazenda de Tian Xia Xin (inkmen escravos; serviço de dedução por contrato) (1101).
-- **Qing Yu blessed land**: espólio de Liu Qing Yu; land spirit-pato; Five Light Mountain (grama de dez cores, Gu de luz) removida por FY (1152).
-- **Inkman City (Norte)**: única força variante pública (acordo Immortal Yi Yan–Giant Sun) (1081, 1146).
-- **Hidden Dragon Cave (Central)**: prisão do Dragão Maligno Di Zang Sheng; castigo de Feng Chan Zi = 20 anos de guarda (1069).
-- **Northern icy plain → ver planície gelada**; **Feng Bo Cliff / dragon elephant plain**: nós externos de teleporte de Lang Ya (1048, 1085).
-- **Sun Crown / Silent Flow Mountain (Sul)**: domínio de Bai Ning Bing (White Demon) e seus demoníacos submissos (1165).
+## B) Sistemas e atividades jogáveis (cont. 3)
 
----
+- **Assassinato via Familiar Face + Dark Assassination** — Fang Yuan mata Qi Zai (rank 7) sendo rank 6: disfarça-se de aliado (Familiar Face/Attitude Gu), se aproxima a menos de 100 passos e usa Dark Assassination (curto alcance, mas oculta toda aura do golpe, ataque instantâneo); tática = fingir estar em desvantagem/ferido para reduzir a suspeita do alvo antes do golpe final (Cap. 1042–1043)
+- **Ganho de alma de Imortal morto** — soul search extrai conhecimento/métodos de golpes mortais treinados (atalho: não aumenta o "attainment" de quem absorve, mas dá acesso pronto aos resultados/killer moves já testados pela vítima) (Cap. 1040, 1043)
+- **Duas formas de lucrar com apertura imortal de um Imortal morto** — (1) assentar a apertura em algum lugar das cinco regiões, deixando-a virar terra bendita/gruta e depois atacá-la para saquear recursos; (2) colocar a apertura dentro da própria apertura imortal e detoná-la — as marcas de dao dela ficam para o vencedor (Fang Yuan usa a via 2 com Qi Zai e Qi He) (Cap. 1043)
+- **Marcas de dao ganhas por caminho ao devorar apertura** — matar/devorar um Imortal de um caminho específico (ex. Qi path) aumenta as marcas de dao daquele caminho na apertura do vencedor, amplificando futuros Gu/golpes daquele caminho mesmo sem atainment alto nele; também muda o "ambiente" interno da apertura, facilitando cultivo de recursos daquele caminho (Cap. 1043)
+- **DESCOBERTA MAJOR: corpo soberano de Fang Yuan atravessa as 5 paredes regionais livremente** — por não ter pais/origem (formado do rank9 Sovereign Immortal Fetus Gu), seu corpo é tratado como um "Immortal Gu" e não como um Gu Immortal comum — paredes regionais só restringem Imortais, não Gu; ao atravessar uma parede, sua aura de região MUDA automaticamente para a da nova região (ex. Southern Border → Eastern Sea), sem precisar de Familiar Face — precedente citado: Gu Imortais rank 6 de caminho de informação enviados por Feng Jiu Ge cruzavam paredes livremente (Cap. 1043, 1044, 1045)
+- **Five Regional Mountain Range (Southern Border)** — criada pelo Imortal rank 8 "Restriction Expert" Tao Zhu (caminho da restrição, ramo do caminho da regra); réplica funcional das 5 paredes regionais dentro de uma única cordilheira, dividida em 5 zonas coloridas que repelem Imortais "estrangeiros" àquela região tal como a parede real (Cap. 1040, 1043)
+- **Cloud Beasts (Feras-Nuvem)** — origem: caem do céu branco/preto imemorial, armazenam "essência de nuvem" em nuvens no céu das cinco regiões; após séculos viram fera desolada bebê; instinto: voar de volta ao céu imemorial atravessando a "heavenly wind qi wall", maioria morre no caminho; atravessam as 5 paredes regionais livremente (são "do céu", não de uma região); sem forma fixa — armas perfurantes (ex. Flying Sword) têm pouco efeito nelas (Cap. 1044–1045)
+- **Turbulent Flow Sea Area (Eastern Sea)** — campo de batalha ancestral, resultado de uma luta de morte entre grandes Imortais; deixou heranças (inheritances) só raramente encontradas — histórico é mais "desaparecimentos" (meses/anos presos) que "achados"; funciona como um labirinto perigoso de se ficar preso (Cap. 1045)
+- **Herança com "imprint" (inheritance imprint)** — heranças poderosas exigem um selo/marca física específica para abrir; perder ou disputar o imprint gera caça entre Imortais rivais (visto na perseguição a Fang Yuan por engano) (Cap. 1045–1047)
+- **Tática de combate: escolher o oponente certo para exibir força** — Fang Yuan ataca de propósito o único rank 7 com clã/organização por trás (não um rank 6 nem um lone cultivator) para maximizar o efeito dissuasório sem parecer "bully"; lone cultivators evitam ofender super-forças, super-forças evitam expor ativos — gera divisão/hesitação entre um grupo perseguidor não-unido (Cap. 1046)
 
-## F) Golpes matadores e receitas explícitas
+## E) Locais e atividades (cont. 2)
 
-### Golpes imortais (killer moves) — usuário, núcleo, efeito
-- **Familiar face** (FY; núcleo attitude Gu + change form; antes >1000 mortais no lugar do change form): disfarce total, mantém-se por energia mental; versão de FY superou a original ao integrar blood asset (disfarça até LINHAGEM/sangue) (1040, 1118, 1128). Originais de Thieving Heaven: unfamiliar/vaguely familiar/familiar face (1051).
-- **Myriad Self** (FY; convergência escravização+força; antes c/ Cleanse Soul): exército de fantasmas de força; barato; pré-estocável na abertura (centenas de milhares); isca/atrito (1086, 1096, 1127, 1141).
-- **Strength path giant hand (myriad self 1º estilo)**: mão gigante rank 7 de custo baixo (1042, 1095, 1136).
-- **Sword marks targeting death** (núcleo Flying Sword + poucos mortais): gasta PERMANENTEMENTE dao marks do Gu-espada para gravar no alvo e buscar o ponto fraco (mata monstros sem órgãos); uso contínuo rebaixa o Gu (mini-refino-reverso) (1054).
-- **Triple layered sword wave** (núcleo Wave Sword + Gu de água emprestados + >500 mortais): 3 ondas crescentes, área; caro (1055).
-- **Dark assassination** (Flying Sword + Dark Limit): assassinato sem NENHUM vazamento de aura; alcance <100 passos (1039, 1043, 1124).
-- **Sword flash thunder sound** (flash sword + rumbling thunder): movimento (não obtido) (1039).
-- **Myriad sword tribulation** (Bo Qing, lendário): Flying Sword vira 10.000 espadas-chuva (1044).
-- **Blood torrent** (Blood Asset + centenas de mortais): rio de sangue veloz que muda de direção e esconde o usuário; modificação: mortais giram DENTRO da abertura (invulneráveis) (1061, 1086).
-- **Bloodstained conqueror's robe** (Blood Asset): defesa contínua em forma de manchas de sangue na roupa (1126–1127).
-- **Blood healing lake / life staking blood print** (Blood Asset): cura em lago de sangue (perna inteira regenerada em 3 dias) / ataque apostando a vida (1058, 1061).
-- **Immortal tribulation tempering aperture** — ver B (1051).
-- **Poison breath / poison spit** (derivado de "harboring malicious heart", núcleo Woman's Heart): nuvem venenosa; efeito bom vs plantas/flores; drawback: precisa se desintoxicar depois (1096, 1112).
-- **Hei Fan (herança)**: bountiful year (year Gu imortal + dezenas de milhares de mortais; +produção da abertura por 1 ano); days pass like years / months pass like years (desacelera o tempo da abertura; suplementos day/month Gu; efeito modulado pelos dao marks do usuário e grau da terra); years pass like months / years pass like days (acelera); years grant strength (tempo→força física; gasta year Gu); hundred years harmony (tempo→acordo de aliança de 100 anos); unlucky year (núcleo Years Flow Like Water; alvo tem 1 ano de azar); endless trouble (núcleo After; adia a calamidade p/ enfrentar 2 juntas; enfurece o céu — Hei Fan só usou 1x); three breaths future vision (núcleo After; vê o próprio futuro a 3 respirações); year beast summoning (núcleo year Gu; invoca year beast do Rio do Tempo — 12 formas; besta é ALIADA suborável com year Gu, não escrava; boa p/ vantagem, ruim em desespero) (1130, 1137–1138).
-- **Qi luck sensation** (qi luck Gu): rastreia sorte conectada inter-regional; **luck whirlwind** (qi luck Gu): repele quem avança / puxa quem recua (1126, 1150).
-- **Farsight weapon light** (Zhou Min; sight light Gu): raios oculares cortantes; MAIS forte a distância, quase inócuo colado (contra-intuitivo — punição a quem recua) (1126).
-- **Concealment within** (Chen Le): invisibilidade total (nem FY detectava) (1124).
-- **Grey cloud battle puppet** (Lady Earth Mother; snowmen/rockmen): campo + marionetes remotas dos participantes (corpos a salvo); prende, bloqueia TYH (1140–1142).
-- **Blood light spirit suppression** (Feng Jun, 3 juramentados; induzido pela vontade do céu): suprimir o espírito celeste e roubar a herança — exigia os 3 juntos (1119, 1132).
-- **Chu Du**: body strength travel (correr mais que Sword Escape, só em linha reta, sem ré — criado p/ fugir); battle strength transpiration; heaven and earth combined strength (esmaga múltiplos alvos, quase um campo); formless strength (ataque sem vazar aura); campo de autodetonação interna cobrindo a grotto inteira (1062, 1163–1164).
-- **Ying Wu Xie**: golpe de alma que verga 3 rank 7 (grito de alma); trump card que QUEIMA a própria alma p/ elevar a sorte (derivado da exploração do Eighty-Eight True Yang Building, com soul howl r7) (1068, 1071).
-- **Wind flowers / snow moons / spring dawn jade orioles / treemen / giant disaster blazing tree / profound white flying salt / corrosive dark current**: "golpes" das calamidades 2–5 (céu combina pares: velocidade+lentidão; cura+combustível; ver C/D) (1096–1097, 1111–1113, 1139, 1164).
-- **Outros nomeados**: thousand disintegrations (Unfettered Scholar); flood glacier (Pi Shui Han); life draining darkness (Hei Tie Sheng — paga lifespan por poder); peerless crescent moon slash (Heaven's Envy Manor, aprimorado por gerações); myriad star fireflies (Dong Fang Chang Fan — sabedoria de combate); purple jade eyes (Yao tribe — enxerga dentro de blessed lands/grottos); silent world / one arm sacrifice (Heavenly Giant Solor); divine flick / qi lockdown (Qi Zai); snow domain (Xue Song Zi); dark veil / óleo negro defensivo (Hei Cheng); nine cloud ring / surging clouds (Tai Bai); lion fur armor; hands of frost; dark vortex (1041, 1105–1109, 1068 etc.).
+- **Five Regional Mountain Range** — Southern Border, réplica das 5 paredes regionais criada por Tao Zhu (ver seção B) (Cap. 1040, 1043)
+- **Turbulent Flow Sea Area** — Eastern Sea, campo de batalha ancestral labiríntico com heranças raras (ver seção B) (Cap. 1045)
 
-### Receitas e procedimentos explícitos
-- **Airsac Gu**: refinado do Strength Qi Immortal Gu pelos escravos peludos; FY deduziu receita substituta secreta (1033).
-- **Fixed Immortal Travel**: TODAS as receitas (2 completas + >10 fragmentárias vistas por Lang Ya; 3 da Shadow Sect) giram em torno da luz da era imemorial; rota clássica adicional: divine travel Gu ← 4 licores supremos (1038–1039).
-- **Blood Deity**: refinar blood deity Immortal Gu (receita 70%) e MATAR UM PARENTE DE SANGUE; se o parente morrer odiando o usuário, a deidade dá backlash — daí o projeto de "reeducar" Fang Zheng antes (métodos de sabedoria/emoção não servem: os marks se apagam no refino e o ódio real volta) (1066).
-- **Refino de sangue de Hei Fan**: primeira metade aplicada no ovo; segunda metade escondida em "erros" dos golpes de refino ensinados à tribo; reconhecimento de linhagem — sangue errado = backlash/águia hostil. FY drenou sangue e medula de Hei Cheng (golpe com Blood Asset) e o integrou ao familiar face p/ falsificar linhagem (1118).
-- **Crescimento forçado da águia**: golpe de tempo (envelhecer) + golpe de compensação de fome; flaws: fome insaciável (comeu o ninho inteiro e morreu), sem adaptação (usa ~30% da força), rebeldia (1141, 1145).
-- **Sopro/graus de refino do River Swallowing Toad**: fogo + profound gold → ice gold → tear gold, nessa ordem (1050).
-- **Pill azure incense (produção)**: exige essência primeva + grupos de grous-pílula + pinheirais azuis + bambuzais de tinta + herb incense Gu em quantidades secretas (1114).
-- **Interior rain**: ver D (>50 passos etc.) (1065).
-- **Year Gu paralelo**: 5 receitas; a de Hei Fan injeta year Gu mortais (1131).
-- **Selamento da vontade do céu**: formação com centenas de self will Gu como núcleo (padrão das super formações da Shadow Sect) — usada por FY p/ selar a Cigarra (1095).
-- **Wisdom refinement formation** (FY): luz da sabedoria + Woman's Heart + Unravel Mystery + mortais → refina Gu Imortais alheios (refinou Change Soul, Sword Eyebrows, Flying Sword, Sword Escape, Wave Sword, Wisdom Sword) (1084).
-- **Mudman de rancor (Qi Zai)**: coletar qi de rancor do campo de batalha + cadáver de monstro de lama → reanima morto p/ interrogatório (perguntas lentas e progressivas; "desde que o fate Gu quebrou, o mundo tem muitos métodos de ressurreição") (1036–1037).
-- **Abertura vida-e-morte**: método de renascimento da Shadow Sect anterior ao feto soberano; falha: abertura pode explodir (1031).
+- **Bookworm (Gu Livro-Verme) rank 2/3** | Caminho da Informação | versão aprimorada do Gu comum rank 1; guarda/transmite grandes blocos de conhecimento/heranças; criado pelo antigo (branco) Lang Ya land spirit, que "quebrou o limite" do rank 1 original (Cap. 1050–1051)
+- **Formless Hand (Mão Sem Forma)** | golpe matador do caminho do roubo (Thieving Heaven Demon Venerable); permite roubar Gu Imortais de outros (Cap. 1051)
+- **Unfamiliar Face / Vaguely Familiar Face / Familiar Face** | trio de golpes matadores imortais de disfarce, todos heranças de Thieving Heaven Demon Venerable (Cap. 1051)
+- **Connect Luck Immortal Gu, Break Luck Immortal Gu, Divert Disaster Immortal Gu** | parte da herança "all living being's luck" de Imortal Venerável Sol Gigante; Divert Disaster permitiria redirecionar calamidades/tribulações da apertura imortal para fora, como Imperial Court blessed land fazia (Cap. 1051)
+- **Immortal Tribulation Tempering Aperture (golpe matador de refino)** | de Lang Ya land spirit (antigo/branco), com base no "estilo hairy man de céu-e-terra" + herança de Old Immortal Kong Jue; usa vários Imortais + 100mil+ Gu mortais; conecta a apertura imortal ao mundo externo para influenciar QUAL TIPO de calamidade/tribulação vai ocorrer (restringe o tipo, não garante 100%); tribulações repetidas do mesmo tipo (ex. água+refino) impregnam a apertura com marcas de dao daquele tipo permanentemente, mudando até a geografia interna (Lang Ya blessed land ganhou oceano assim em 180 mil anos); Spectral Soul provavelmente copiou/refinou este conceito para o método do Sovereign Immortal Fetus Gu, usando caminho da sabedoria para prever o tipo de tribulação com antecedência (mais confiável que o golpe original) (Cap. 1050–1051)
 
----
+## B) Sistemas e atividades jogáveis (cont. 4)
 
-## G) Achados soltos para um designer de RPG
+- **Duas escolas do caminho de refino** — "estilo hairy man de céu-e-terra" (usa marcas de dao do ambiente para criar condições ideais de refino, maior taxa de sucesso) vs. "estilo de isolamento humano" (usado por humanos); hairy men por isso eram contratados por Veneráveis para refinar Gu difíceis (Cap. 1050–1051)
+- **As Três Grandes Heranças de Lang Ya Sect** — 1) herança de caminho de refino do próprio Lang Ya land spirit (o "número um Imortal de refino de todos os tempos"); 2) herança de caminho da sorte (self luck) de Imortal Venerável Sol Gigante, pagamento por ter refinado Eighty-Eight True Yang Building; 3) herança de caminho do roubo (theft path) de Demônio Venerável Céu Ladrão (Thieving Heaven), menos valiosa pois o projeto pago (Space Escape Gu) não pôde ser ativado por Lang Ya land spirit — parcialmente devolvida (Cap. 1051)
+- **As 3 heranças de sorte de Imortal Venerável Sol Gigante** — self luck (sorte própria, com Lang Ya), all living being's luck (sorte de todos os seres, estava em Imperial Court blessed land, parcialmente perdida/dispersa após a destruição da terra bendita), heaven and earth luck (sorte céu-e-terra, em Longevity Heaven) (Cap. 1051)
+- **As 10 heranças de Thieving Heaven Demon Venerable** — maioria só pode ser recebida por otherworldly demons (exceto a de Lang Ya land spirit); vêm em pares — obter uma pode dar pistas da segunda do mesmo par (Cap. 1051)
+- **Comércio de "true inheritances" (heranças verdadeiras)** — herança/tesouro único só se troca por algo de valor comparável e único; o valor é subjetivo, depende da utilidade para quem recebe, não existe preço fixo (Cap. 1051)
+- **Sistema de seleção de "sementes imortais" hairy man** — Lang Ya land spirit imita o "imperial court contest" humano: a cada 10 anos, as 3 continentes de hairy men (Black/White/Yellow Hair) competem entre si (inclusive em guerra) para que os vencedores chamem a atenção do "Lord Immortal" em Cloud Cover Continent e sejam escolhidos para aprender o caminho dos Imortais; reis locais (ex. Black Hair King) promovem torneios marciais internos para escalar competidores, prêmio = escolher um tesouro do tesouro real (Cap. 1049–1050)
 
-- **Guerra econômica como endgame**: a Corte Celestial derrota Ying Wu Xie sem lutar — fecha a bolsa mundial vendendo um ativo raro ao "dono do mercado". Monopólios (guts Gu), listas de materiais como pagamento, e o lifespan Gu como moeda de reserva dão três camadas de economia jogável (1071–1073).
-- **Sorte como estatística ativa**: conexão de sorte cria uma REDE rastreável entre PCs/NPCs (benefícios fluem, mas viram sensor do inimigo); azar localizável (blazing tree), queima de alma por sorte, inspeção de sorte que fura disfarces. Ótimo subsistema de recurso compartilhado (1060, 1150–1153).
-- **Tribulação cooperativa**: Calamity Beckoning permite que um aliado FORA da abertura "puxe agro" da calamidade — mecânica pronta de raide com papéis (tank externo/DPS interno) (1113).
-- **Contratos com física própria**: acordos são dao marks; quebrar exige "cirurgia" no caminho certo; imitação por caminhos alheios (tempo/terra/alma→informação) esconde o método de quebra. Todo pacto deixa resíduo mensurável no corpo (perceivable dao os detecta) (1031, 1146, 1161).
-- **Heranças como dungeons de múltiplas chaves** (Hei Fan): item-chave perdido no mundo (attitude Gu), conhecimento "errado de propósito" que recompensa análise, teste social final com solução sombria (matar todos os eleitores) — modelo de missão com soluções morais divergentes (1115–1127).
-- **Bestiário com nichos mecânicos**: monstros sem ponto fraco (lama/nuvem/neve) exigem golpes de área ou de "busca de núcleo"; eagle hounds convertem por infecção; year beasts comem um recurso do jogador; upper extreme heavenly eagle = mount lendário com custo alimentar impagável e ciclo de reencarnação; chestnut yak/dragonfish como "os mais fracos" oficiais (1054, 1129, 1136, 1080).
-- **NPCs-instituição**: land spirits não mentem (oráculos negociáveis); espíritos dementes de grotto com fragmento celeste (dungeons com "mordomo quebrado"); o pato-land-spirit prova que a obsessão do morto é a fechadura da herança (1029, 1152).
-- **A vítima renasce como armadilha**: o corpo original de FY virou uma armadilha de alma que DEVORA almas de teste e fica mais forte — anti-solução elegante contra "testar com sacrifícios" (1162).
-- **Reputação e apelidos**: FY opera com três identidades (Liu Guan Yi, Chu Ying, "Hei Cheng") + familiar face; inimigos caçam nomes, não rostos; luck inspection e golpes anti-otherworldly-demon são os contra-disfarces do cenário (1113, 1154–1156, 1110).
-- **Política de rank 8**: "na ausência de rank 9, rank 8 decide a política"; guerras se resolvem por dissuasão, cerco econômico (Chu Sect vs Bai Zu) e barganhas entre os 5 grandes do Norte — bom modelo p/ facções de campanha (1109–1110, 1163–1167).
-- **Vontade do céu como DM adversário**: só age nas tribulações; fora delas "compra NPCs" com nudges subconscientes e monta "calamidades humanas"; contramedidas dos jogadores: velocidade, rotas em arco, self will Gu, sorte, terrenos que substituem a vontade (Reckless Savage), e nunca tribular no mesmo lugar duas vezes (1086–1087, 1140, 1165).
-- **Custo cognitivo como recurso**: pensamentos são "mana de ações"; multitarefa de golpes tem teto rígido e mata quem exagera — base natural para regras de concentração/ações concorrentes (1140).
-- **City Well**: sala que multiplica dano e custo por 10–100x + condição de saída FILOSÓFICA ("reconheça sua insignificância") — quebra-cabeça narrativo com física própria (1157–1158).
-- **Detalhe de mesa**: o Quartet Sparrow Battle Tactic do otherworldly demon dissecado pela Hei tribe (mahjong) — humor sombrio sobre transmigradores como recurso explorável (1110).
-- **Frases-regra citáveis**: "Não há Gu mais forte, apenas o Gu Immortal mais forte"; "O caminho do céu tira o excesso e repõe a falta; o caminho humano faz o oposto"; "Vitória não vale nada — o espólio vale" (1052, 1022, 1152).
+## E) Locais e atividades (cont. 3)
+
+- **Lang Ya blessed land / Black Hair Continent / Steel Thread City** — a maior terra bendita das 5 regiões (após queda de Imperial Court); 4 continentes internos: 3 "no mar" de tamanho parecido (Black Hair, White Hair, Yellow Hair) + Cloud Cover Continent (menor, flutua no céu, "terra sagrada" reservada aos que viram sementes imortais); Steel Thread City é a maior cidade de Black Hair Continent, tem mercado de escravos ativo (Cap. 1049)
+- **Snowy Mountain blessed land** — domínio de Old Ancestor Xue Hu, Imortais de caminho demoníaco; local de coleta de material para refinar Fortune Rivalling Heaven Immortal Gu; sofreu traição interna (material roubado) por causa da baixa lealdade gerada pelas ordens de Xue Hu (Cap. 1051)
+- **Feng Bo Cliff** — ponto de encontro com formação Gu de nível imortal de Lang Ya Sect (função similar ao "green crystal hero's path" de Zombie Alliance), usado por Fang Yuan para escapar dos ancient cloud beasts e retornar a Lang Ya blessed land (Cap. 1048)
+- **Crescent Lake** — antiga localização de Lang Ya blessed land antes de se realocar após ataque da Seita Sombria; rica em marcas de dao de água + refino (Cap. 1048, 1051)
+
+- **Sword Marks Targeting Death (marcas de espada visando a morte)** | golpe matador imortal do caminho da espada | grava marcas de dao do Gu de espada usado como núcleo NO ALVO; a marca busca o ponto fraco/núcleo do alvo e ataca depois, mesmo que o corte inicial não seja fatal — essencial contra inimigos sem estrutura fixa (mud/snow/cloud monsters); DEFEITO GRAVE: consome permanentemente marcas de dao do Gu Imortal usado como núcleo a cada uso — Gu vai perdendo rank com o uso repetido (equivale a um refino reverso lento e involuntário) (Cap. 1053–1054)
+- **Triple Layered Sword Wave (Onda de Espada Tríplice)** | golpe matador imortal do caminho da espada, núcleo: Wave Sword Immortal Gu (rank 7) + Gu de caminho da água emprestados; ataque de área em 3 ondas crescentes, cada uma mais forte; muito mais difícil/demorado de ativar que Sword Marks Targeting Death, uso restrito (Cap. 1055–1056)
+- **Dark Veil (Véu das Trevas)** | golpe matador de campo de batalha MORTAL de Hei Cheng; cria um domínio de escuridão que enfraquece o ambiente ao redor (usado por Fang Yuan para tentar abafar a nevasca da calamidade) (Cap. 1054)
+- **Light Illusion Bat Wings** | método/Gu de esquiva usado por Fang Yuan (cria imagem fantasma para desviar de ataques) (Cap. 1055)
+- **Wave Sword Immortal Gu** | Rank 7, Caminho da Água/Espada híbrido; assume forma de lâmina ou de água; núcleo do Triple Layered Sword Wave (Cap. 1055)
+
+## B) Sistemas e atividades jogáveis (cont. 5)
+
+- **MECÂNICA CENTRAL: Calamidades/tribulações de apertura imortal** — Imortal pode "pousar" a apertura no mundo externo (sai do próprio corpo, que fica preso dentro da apertura, incapaz de sair, como um land spirit temporário) para captar qi céu-terra e estabilizar-se; ao abrir a "entrada", suga qi céu-terra da área ao redor (efeito visível fora: nevasca/fenômenos na região); o rio do tempo interno se funde brevemente com o externo, desacelerando o fluxo interno até convergir ao ritmo normal das 5 regiões enquanto a apertura está "fora"; Imortais escondem a apertura dentro de si mesmos por preocupação com longevidade em geral, só a expõem para tribulações ou quando os recursos internos excedem o qi disponível (Cap. 1053)
+- **Immortal Tribulation Tempering Aperture em uso real** — Fang Yuan usa o golpe pela 1ª vez: gasta 10 mil+ essência imortal, consome 60% do total dele já no preparo (antes mesmo da calamidade começar); o golpe CONECTA fisicamente a apertura ao mundo externo, permitindo direcionar o TIPO de calamidade (nesse caso, gelo/nevasca, o bioma da "icy plain" onde ele escolheu passar); custo varia conforme a natureza/mundo da própria apertura, imprevisível de antemão (Cap. 1053, 1055)
+- **Infusão de true meaning (verdadeiro significado) de um Venerável morto** — locais carregados com o "true meaning" de um Venerável (ex. icy plain = Reckless Savage Demon Venerable) concedem instantaneamente ganho de attainment em caminhos específicos (aqui: força + transformação, e voo) a quem mata criaturas formadas pela calamidade ali NORMALMENTE só durante a ascensão a Imortal (rank5→rank6); Fang Yuan descobre que o golpe Immortal Tribulation Tempering Aperture permite repetir esse bônus em uma tribulação de apertura já imortal — não é registrado na história, é uma descoberta dele; risco: overdose de true meaning pode destruir a consciência do Imortal ("cobra engolindo elefante") — precisa de fundação em caminho da sabedoria/Gu defensivo de sabedoria para absorver com segurança (Cap. 1055–1056)
+- **Reckless Savage Demon Venerable — origem do local** — venceu uma batalha ancestral na "northern icy plain" transformado em uma immemorial desolate beast "ice phoenix", exalou "absolute profound ice" para congelar/restaurar a área; desde então o local ressoa com marcas de dao de força+transformação (Cap. 1053)
+- **Dream realms = repositório de true meaning também** — dream realms são definidos como manifestações de emoções/obsessões/desejos, resíduos de vontades; explorar um dream realm com sucesso (sem se perder) também gera ganho de attainment — mesmo princípio da infusão de true meaning (Cap. 1055)
+- **Escala de força de "monstros" de calamidade por tamanho** — snow monster: 10-20 pés = nível mortal rank1-2; 60 pés = desolate beast (rank6 Imortal); 70 pés = ancient desolate beast (rank7 Imortal); tamanho escala com o poder da nevasca/calamidade ativa (Cap. 1054)
+- **Regra de "core" em monstros elementais** — mud/snow/cloud monsters (feitos de elemento + marcas de dao) só morrem de vez se o NÚCLEO interno for destruído; ferimentos superficiais regeneram sozinhos em segundos; monstros pequenos mortos regeneram em monstros menores numerosos que crescem de novo se a fonte elemental (nevasca) continuar ativa — abafar a fonte com golpes de área é contraproducente (alimenta o crescimento) (Cap. 1053–1054, 1056)
+- **Ruin Bat (desolate/ancient) — fera de caminho espacial** — restringe a mobilidade de quem está por perto (1-2 passos viram centenas de passos reais), o que anula Gu de movimento tipo Sword Escape; só se resolve com dano direto, não fuga; perigoso dentro de aperturas imortais pois pode romper as paredes da apertura se enlouquecer (Cap. 1055-1056)
+- **Ascensão imortal em local carregado (comparação)** — durante ascensão normal (mortal→imortal), o Gu Master interage com "heaven's will" e recebe "inspiração natural" (respostas a perguntas de cultivo); mas na icy plain, quem cultiva força/transformação NÃO interage com heaven's will e sim com o true meaning de Reckless Savage — quanto mais forte a tribulação, mais true meaning concedido; mestres podem criar discípulos só para colher esse true meaning durante a ascensão deles (visto com Gu Immortal Chu Du) (Cap. 1056)
+- **Rachaduras espaciais revelam tribulações à distância** — uma calamidade excepcionalmente forte pode literalmente rachar o espaço como um "espelho quebrado" e ficar visível a observadores distantes (Cap. 1056)
+
+- **Blood Asset Immortal Gu (Gu Imortal Ativo de Sangue)** | Rank 6 | Caminho do Sangue (uso normal: refino) | criado por receita comprada em Treasure Yellow Heaven pelo antigo Lang Ya land spirit; efeito normal: protege uma parte dos materiais/Gu durante o refino, permitindo recuperá-los se o refino falhar (economiza recursos); nas mãos de um grandmaster de caminho do sangue como Fang Yuan, vira núcleo para golpes de cura e movimento — extrai força vital de um "lago de sangue" e a redireciona para regeneração acelerada de corpo (recompôs a metade inferior do corpo de Fang Yuan em 3 dias) (Cap. 1058, 1061)
+- **Life Staking Blood Print, Blood Healing Lake, Blood Torrent** | trio de golpes matadores imortais do caminho do sangue criados por Fang Yuan usando Blood Asset Immortal Gu como núcleo + repertório de golpes mortais de sangue da vida anterior; só um pode ser ativado por vez (Gu único) (Cap. 1061)
+- **Blood Torrent (Torrente de Sangue)** | golpe matador imortal de movimento, caminho do sangue; forma um rio de luz vermelha que carrega o usuário, ocultando sua posição exata dentro do fluxo; mais lento em linha reta que Sword Escape (rank 6 vs rank 7), mas permite mudar de direção instantaneamente — usado alternado com Sword Escape para cobrir a fraqueza de movimento retilíneo deste (Cap. 1061)
+- **Luck Inspection Immortal Gu (Gu Imortal Inspeção de Sorte)** | Rank 6, Caminho da Sorte | investigativo: revela visualmente a sorte de alguém como um "pilar de sorte"; pertencia a Qin Bai Sheng → Shi Nu → Ying Wu Xie (Cap. 1060)
+
+## B) Sistemas e atividades jogáveis (cont. 6)
+
+- **Corpo soberano de Fang Yuan cura entre caminhos sem conflito** — mesma anomalia de amplificação (ver Cap.1033/1043) permite usar QUALQUER golpe de cura de qualquer caminho no efeito máximo, mesmo sem alta atainment naquele caminho — cura de 3 dias regenerando a metade inferior do corpo é resultado direto disso (Cap. 1058)
+- **Regra dos Imortal Killer Moves nunca "prontos"** — todo golpe matador precisa de ajuste/prática contínua após criado; até criadores dedicam a vida inteira a refinar um único golpe (ex.: Myriad Star Fireflies de Dong Fang Chang Fan; Peerless Crescent Moon Slash de Heaven's Envy Manor, aprimorado por gerações) (Cap. 1061)
+- **Regra sobre aperturas imortais "escondidas" vs "no mundo"** — quando não aberta, a apertura encolhe a um ponto indetectável no espaço, impossível de invadir de fora; só métodos de caminho espacial (não força) conseguem rastrear/invadir; localizar uma apertura escondida normalmente requer uma conexão de sangue/linhagem com o dono (caso de Immortal Crane Sect rastreando Hu Immortal blessed land via sangue de Fang Zheng) (Cap. 1058)
+- **Refino de Immortal Gu: taxas de sucesso real** — mesmo com "estilo humano de isolamento", a chance de refinar um Gu Imortal rank 6 costuma ser <1%; na prática, mesmo 100+ porções de material podem falhar — sucesso não é só função de quantidade de material (Cap. 1060)
+- **Sorte conectada (connect luck) tem efeito em cascata multi-hop** — Fang Yuan conectou sua sorte a várias pessoas (Ye Fan, Han Li, Hong Yi, Hei Lou Lan); ao usar Dog Shit Luck para aumentar a própria sorte, o excedente "escoa" para os conectados, e daí para quem ESSES estão conectados (efeito visto: mesmo Ying Wu Xie, no corpo de Fang Yuan, sentiu sorte melhorada por estar ligado a Hei Lou Lan) — a sorte flui como água através da rede de conexões (Cap. 1060)
+- **Festival anual do Pot River** — Wind Cloud Manor (um dos 10 grandes clãs ancestrais) promove festival na estação de cheias; "pot grass" cresce no rio, frutos capturam insetos/peixes vivos e eventualmente amadurecem em "potes" fechados carregando Gu adormecidos, fáceis de refinar quando a cheia os leva rio abaixo — eventos sazonais atraem Gu Masters de todas as idades (Cap. 1060)
+- **Broken Sword Valley** — vale formado quando o zumbi imortal Bo Qing despertou sob Falling Heavenly River e disparou incontáveis luzes de espada; uma luz cortou uma montanha ao meio, cravando marcas de dao de espada no local — área passou a gerar Gu selvagens de caminho da espada continuamente, atraindo caçadores de tesouro (Cap. 1059)
+
+- **Body Strength Travel** | golpe matador imortal de movimento, caminho da força (Chu Du); usa marcas de dao de força do próprio corpo imortal para ganhar velocidade retilínea MAIOR que Sword Escape rank 7; falha simétrica ao Sword Escape: só anda para frente, não consegue virar nem recuar (Cap. 1062)
+- **Change Form Immortal Gu (Gu Imortal Mudar de Forma)** | Rank 6 (histórico: chegou a rank 9 nas mãos de Reckless Savage Demon Venerable, destruído com sua morte) | essência do caminho de transformação; refinado por Fang Yuan com ajuda de Lang Ya land spirit usando a "hairy man heaven and earth style"; Gu 8+ é raríssimo na história ("contável nos dedos") — quanto maior o rank, exponencialmente mais caro/raro (Cap. 1063–1065)
+- **Interior Rain (Chuva Interior)** | material imortal rank 6, "pesado" psicologicamente (carga sobre quem segura, não peso físico); processamento exige 50+ passos, 20+ métodos de refino, 30 golpes matadores mortais de refino, tudo em poucos minutos (Cap. 1065)
+- **Blood Deity Immortal Gu (Gu Imortal Divindade de Sangue)** | receita 70% completa (herdada da vida anterior de Fang Yuan, obtida perseguindo Vicious Lightning Fiend); requer matar um PARENTE DE SANGUE para criar um "blood deity" — arma de dois gumes que pode ferir o próprio dono se ele "baixar a guarda"; parente refinado com ódio gera efeito retroativo negativo — por isso Fang Yuan precisa primeiro mudar as emoções de Fang Zheng antes de matá-lo/refiná-lo (plano de longuíssimo prazo) (Cap. 1066)
+- **River Swallowing Toad (Sapo Devorador de Rio)** | Gu rank 5, contramedida a métodos de caminho da água; Fang Zheng o refina sob coação da "fake will" de Fang Yuan (Cap. 1065)
+
+## B) Sistemas e atividades jogáveis (cont. 7)
+
+- **Escolha de caminho de cultivo — critérios explícitos do autor** — combinar (1) força de combate do caminho, (2) attainment já acumulado + heranças disponíveis, (3) necessidade imediata (sobrevivência) vs. prospecto de longo prazo; os "5 caminhos de maior força de combate" citados: metal, fogo, relâmpago (tradicionais/antigos) + espada e sangue (novos, sem fundação profunda histórica); Fang Yuan lista seus próprios attainments: força/sangue/sabedoria/estelar = grandmaster; refino = quase-grandmaster; escravidão = mestre; sorte = quase-mestre; resto = comum ou nulo (ex. caminho fantasma) (Cap. 1064)
+- **Caminho de Transformação (transformation path) — mecânica geral** — chamado "o caminho que projeta todos os caminhos": ao se transformar em uma criatura/elemento de outro caminho, o Imortal ganha acesso às marcas de dao daquele caminho E pode usar Gu daquele caminho com amplificação; falha histórica universal: as marcas de dao da forma assumida entram em conflito com as do próprio corpo, exigindo "limpar" marcas antigas antes de trocar de forma — Fang Yuan é uma EXCEÇÃO por causa do Sovereign Immortal Fetus Gu, tornando-se um dos únicos dois casos históricos (o outro sendo Reckless Savage) capazes de troca de forma livre sem esse custo; um Gu de transformação bem executado ("transformar-se perfeitamente em outra forma") já conta como golpe matador em si mesmo — fáceis de criar mesmo sem herança (Cap. 1064)
+- **Gerenciamento de apertura imortal — "mini regiões"** — a apertura soberana de Fang Yuan replica o layout e o AMBIENTE das 5 regiões + 9 céus reais (ex. Mini Northern Plains = pradaria/vento; Mini Western Desert = fogo; Mini Southern Border = terra+veneno); recursos de cultivo prosperam mais quando plantados na mini-região com as marcas de dao compatíveis — regra geral: "administrar a apertura de acordo com o ambiente"; recursos multiplicam a produção de Gu quando o bioma bate; produção CAI se o número de marcas de dao locais for baixo (apertura nova só tem ~100 marcas por caminho vs. terras benditas antigas com 6-7 calamidades already passadas) (Cap. 1066)
+- **Regra de calamidade: dano proporcional ao ganho ("fortune and disaster balance")** — quanto mais violenta a calamidade, mais marcas de dao (de tipos ligados aos "monstros" enfrentados) o Imortal ganha ao sobreviver; a 1ª calamidade de Fang Yuan (nevasca/gelo) rendeu majoritariamente marcas de caminho da neve, seguidas de força e transformação (via true meaning de Reckless Savage) — mais que as marcas de qi ganhas ao devorar Qi Zai (Cap. 1066)
+- **Fake will como ferramenta de manipulação psicológica de longo prazo** — Fang Yuan usa uma "fake will" residual implantada na mente de Fang Zheng para forçá-lo a repetir situações de dependência ("cada vez que ele sobrevive seguindo minhas instruções, ele se acostuma, mesmo odiando") — estratégia deliberada de condicionamento antes de eventualmente matá-lo para o Blood Deity (Cap. 1065-1066)
+- **Rede "Defy" sob pressão** — após Heavenly Court capturar Gong Sun Liang (membro leal a Defy), a rede inteira entra em pânico, membros somem e param de negociar com Ying Wu Xie ("boss"), suspeitando que ele deixou Gong Sun Liang cair de propósito para ficar com o Gu emprestado — mostra fragilidade de redes de aliados anônimos sob pressão externa (Cap. 1066)
+
+## G) Achados soltos
+
+- **Ren Zu e seus dez filhos** — mito de criação: causaram o colapso de sete dos nove céus imemoriais (Cap. 1027–1028)
+- **Long Hair Ancestor** — rank 8, atainment de refino superou dois Veneráveis (Imortal Venerável Sol Gigante e Demônio Venerável Céu Ladrão); considerado o maior imortal de refino de todos os tempos; era um hairy man (variante humana), o que teria o impedido de alcançar rank 9 (Cap. 1028)
+- **Heavenly Giant Solor** — formação de batalha ancestral usada por Imortais hairy man para mover fisicamente Dang Hun Mountain (Cap. 1028)

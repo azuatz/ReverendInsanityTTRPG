@@ -63,6 +63,16 @@ Três degraus de piora (por acúmulo de falhas) = morte. Um aliado pode estabili
 
 **Falhar o Teste de Morte pelo menos uma vez** (mesmo que estabilize depois) deixa sequela — a escolha é da mesa, mas o padrão recomendado é **−1 permanente num atributo à escolha do jogador dentre os afetados pela cena**, ou **perder o estágio mais recente conquistado** (regride um estágio dentro do rank atual) — nunca os dois ao mesmo tempo por um único Teste de Morte falho. Um personagem que se aproximou da morte sai da cena mais fraco, mesmo sobrevivendo — é o preço de sobrevivente que o tom do jogo pede.
 
+## 💥 Destruição da Abertura — o estado terminal que não é morte
+
+Existe uma saída pior que morrer e melhor que sobreviver ileso: perder tudo e continuar vivo. **Raro por desenho** — nunca automático, sempre escolha do jogador. *(Decisão 130, inspirada pela adaptação em 3DeT Victory trazida como referência — ver [[Homebrew 3DeT — Lamúrias do Reverendo]].)*
+
+**Gatilho 1 — overkill catastrófico.** Um único golpe cujo dano, já com RD aplicada, seja igual ou maior que a Vitalidade **máxima** do alvo. Em vez do Teste de Morte normal, o jogador escolhe: rolar o Teste de Morte como sempre (risco de morrer, chance de ficar de pé), **ou** aceitar a Destruição da Abertura garantida (sobrevive, sem risco de morte nesta cena, mas paga o preço abaixo).
+
+**Gatilho 2 — o Gu Vital ferido de novo.** Se o Gu Vital já estiver **Ferido** (de um refino ou Golpe Matador anterior — ver [[💀 A Morte dos Gu]]) e sofrer um efeito que o feriria outra vez, a Abertura colapsa em vez de o Gu simplesmente resistir de novo. É por isso que o Gu Vital nunca morre pelas regras de refino ou combate: a proteção dele é real, mas tem um limite, e o limite é este.
+
+**O que acontece:** o personagem sobrevive fisicamente. Todos os Gu morrem (os cadáveres valem metade em refino, como qualquer Gu morto). A Aptidão cai a **0%**. Vitalidade e Alma recalculam como as de um mortal comum sem cultivo (`M = 1`, Grau de Densidade = 0). **Reverter isso exige um Gu Imortal de reconstrução de Abertura** — tesouro de rank 6+ que nunca está à venda — ou um milagre equivalente. É gancho de arco de vingança ou redenção, nunca recurso de rotina.
+
 ## Descanso curto e longo
 
 Vitalidade e Verdadeira Essência recuperam pelo mesmo padrão simples:

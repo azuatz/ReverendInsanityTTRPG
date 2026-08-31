@@ -1,432 +1,135 @@
 ---
 tags:
   - fonte
+aliases:
+  - Leitura Vol 4 parte 2
 escopo: referência
 ---
 
-# Vol. 4 — The Demon Lord Rampages Unhindered (parte 2)
+# Leitura integral — Volume 4, parte 2 (linhas 22001–44000)
 
-**Faixa lida:** linhas 22001–44000 do arquivo-fonte · Capítulos 784 (parcial) a 912 (parcial).
-**Arco:** herança de Dong Fang Chang Fan e possessão → saque de Jade Pool → duelo de rank 8 em Snowy Mountain → Convenção do Caminho do Refino (Refinement Path Convention) do Continente Central → refino do Change Form → tribulação dos feathermen → defesa de Lang Ya → infiltração na Zombie Alliance do Mar Oriental → colapso do Starry Sky grotto-heaven → reino de sonho de Star Constellation.
+## A) Gu nomeados (inclua Gu Imortais)
 
----
-
-## A) Gu nomeados
-
-| Nome (inglês) | Rank | Caminho | Efeito | Alimentação / refino / aquisição | Cap. |
-|---|---|---|---|---|---|
-| Wisdom Gu (Gu da Sabedoria) | 9 | sabedoria | Emite a "luz da sabedoria": inspiração ilimitada para deduções, mas consome pensamentos da mente em ritmo brutal; reduz lifespan de vivos (zumbi imortal é imune) | Retirado do Imperial Court; comunica-se; vive no zhi forest de Hu Immortal | 809, 817, 906 |
-| Spring Autumn Cicada (Cigarra Primavera-Outono) | 6 | tempo | Vital Gu da 1ª abertura de Fang Yuan; ex-vital Gu de Red Lotus; autodetonar o usuário envia a vontade ao Rio do Tempo (renascimento); condição de entrada da herança de Red Lotus | Herdado | 788, 830 |
-| Menses Blood Gu (Gu do Sangue Menstrual) | Imortal | sangue | Núcleo do véu de sangue: extrai o sangue do corpo de quem se aproxima (Gu Master vira cadáver seco antes de chegar); purifica origin cores em formação | Herança de Blood Sea Ancestor, elevado a Imortal por Dong Fang Chang Fan; autodetonado na derrota | 789, 793, 811 |
-| Split Shadow (Sombra Dividida) | Imortal | — | Cria clones-sombra idênticos em aura (o de DFCF criava até 30); indistinguíveis mesmo com métodos investigativos | Autodetonado/abandonado na fuga (restaram Gu rank 5 com aura imortal) | 804–806 |
-| Self Strength (Força Própria) | Imortal | força | Núcleo do killer move Myriad Self (exército de fantasmas de força) | De Hei Lou Lan (perdido por ela), agora de FY | 785, 811 |
-| Strength Qi | Imortal | força | Substituto do Self Strength para Hei Lou Lan; usada como "operária" no refino em massa de airsac Gu | — | 785, 815, 825 |
-| Pulling Mountain (Puxar Montanha) | Imortal | força | Ergue qualquer corpo montanhoso (até montanha-cadáver com raízes); fundido no Myriad Self (+10% de poder; +20% vs earth path/rochas) | Comprado no leilão de Northern Plains | 790, 817, 837 |
-| Pulling Water (Puxar Água) | Imortal | força | Controla/ergue massas de água; coleta cardumes inteiros; fundido no Myriad Self como 3º núcleo | Comprado no leilão | 797, 800, 846, 910 |
-| Eat Strength (Comer Força) | Imortal | força | Come materiais imortais ricos em dao marks de força e adiciona os dao marks ao corpo; em reverso, gasta dao marks (núcleo do Vaguely Familiar Face) | Comida: carne de desolate beasts de força (giant horned sheep) | 836, 850, 886, 909 |
-| Iron Crown Eagle Strength | Imortal | força | Explosão de velocidade (par com true solid bat wings = pseudo-killer-move imortal de voo, instável) | — | 804, 823, 867 |
-| Change Form (Mudar Forma) | 6 | transformação | Muda aparência/aura profundamente; fundido no Vaguely Familiar Face (disfarce completo, inclusive como variante humano ou besta) | Refinado por FY com o success dao mark: receita de Lang Ya; ver §F | 843, 858–862, 876 |
-| Woman's Heart (Coração de Mulher) | Imortal | veneno | Núcleo do killer move Poison Spit (cuspe venenoso de ação rápida) | — | 799, 867 |
-| Cleanse Soul (Purificar Alma) | Imortal | alma | Ex-núcleo do Myriad Self; promove crescimento da fundação da alma; faminto = inutilizável | Come a carne de 10.000+ white lotus giant silkworm Gu por refeição | 811, 816–817 |
-| White lotus giant silkworm Gu | mortal | alma | Melhora a alma imortal (DFCF remodelou a sua com eles); comida do Cleanse Soul | Criados em caverna natural específica; FY obteve o lote restante via Fairy Li Shan | 811, 814 |
-| Guts Gu (Gu da Coragem) | mortal | alma | Fortalece/nutre almas (até almas imortais); "melhor método de fortalecimento de alma do mundo" | Produzido só em Dang Hun Mountain; monopólio de FY; vendido dentro de airsac Gu | 808, 810, 816, 853 |
-| Airsac Gu (Saco de Ar) | mortal | — | Consumível-recipiente: quebrado, libera o guts Gu | Criação de FY; produção em massa nos "stone nests" por hairy men; receita modificada (−30% risco) | 810, 815, 846 |
-| Star Thought Gu (Pensamento Estelar) | mortal | sabedoria | Consumível; gera pensamentos otimizados p/ dedução (1 star thought ≈ 3–4 malicious/memory thoughts) | Refinado com starlight Gu como material; produção em massa nos stone nests | 809, 817 |
-| Star Thought Immortal Gu | 6 (receita) | sabedoria | 1 gota de green grape immortal essence → 100.000 star thoughts; núcleo (com Unravel Mystery) do Star Fog Concealment | Receita na herança de DFCF; o original autodetonou; FY não tem fundos p/ refinar | 820, 904, 906 |
-| Starlight Immortal Gu | Imortal | estrela | Gera torrentes de starlight — substitui compra de starlight Gu mortais; base do refino em massa de star thought Gu; um dos 3 núcleos rotativos dos killer moves estelares | Come corpos de rockmen; espólio de Star Lord Wan Xiang | 852, 862 |
-| Star Mark (Marca Estelar) | 6 | estrela | Adiciona temporariamente 600 dao marks de star path ao corpo (disfarce como cultivador estelar; +60% de poder em moves estelares) | Come carne fresca de spinefin star dragonfish; espólio de Wan Xiang | 852, 903 |
-| Star Shoot (Broto Estelar) | Imortal | estrela | Núcleo do Spring Star Rain (irrigação/nutrição de vegetação, versão imortal 10x melhor); refina star shoot Gu mortais "de cima para baixo" | Come dark star kelp do broken star lake; espólio de Wan Xiang | 852, 902 |
-| Dream Wings (Asas do Sonho) | Imortal | sonho | Sono profundo à vontade; acopla asas de sonho à alma; explora reinos de sonho com recuo livre e segurança; NÃO consome essência imortal (ideal p/ mortais) | Com Feng Jin Huang | 847, 911 |
-| Dream Travel | Imortal | sonho | Explora reinos de sonho, mas consome essência imortal | Mencionado como alternativa | 911 |
-| Unravel Mystery (Desvendar Mistério) | Imortal | sabedoria | Ajuda a pensar/resolver enigmas; base do killer move Unravel Dream (explorar reinos de sonho); sozinho não desmonta battlefield killer moves | Com FY | 904, 911 |
-| Time Luck | Imortal | tempo/sorte | Núcleo do Time Assist Luck: rouba lifespan de terceiros p/ boost temporário de sorte própria | Obtido de Fairy Li Shan | 815, 822 |
-| Inch of Time Gu | mortal | tempo | Substituto de lifespan em ativações; consumo excessivo | — | 815 |
-| Luck Inspection Gu | mortal | sorte | Vê a sorte alheia (não a própria); descreve sorte como formas/cores (arco-íris, tigela rachada) | — | 823, 833 |
-| Connect Luck (referido) | — | sorte | Liga a sorte de várias pessoas em vasos comunicantes (ganhos divididos igualmente) | FY conectado a Ye Fan, Han Li, Hong Yi | 823 |
-| Dark Limit | Imortal | — | Faz o alvo ser "esquecido" pelo céu: deduções sobre ele falham; circulou no corpo de Hei Lou Lan ocultando o Great Strength True Martial Physique | Com Fairy Jiang Yu | 820, 836, 873 |
-| Mountain Pledge Gu (Juramento da Montanha) | Imortal | informação | Firma alianças/acordos com backlash contra traidores; fonte de renda de Fairy Li Shan | Vital Gu dela | 796, 800, 814 |
-| Landscape as Before (Paisagem como Antes) | Imortal | tempo | Restaura terreno/paisagem ao estado anterior (não restaura construções, nem recursos vivos perdidos); grande fonte de renda | Com Tai Bai Yun Sheng | 814, 826, 900, 902 |
-| Man as Before (Homem como Antes) | Imortal | tempo | Revive uma pessoa a partir de um resto do corpo (braço), gastando muita essência; contorna morte "confirmada" | Com Tai Bai Yun Sheng (usado p/ reviver Fang Zheng) | 819, 858 |
-| Time Anchor (Âncora do Tempo) | Imortal | tempo | Com Man as Before, cria esperança de reviver (plano de Shark Demon/Su Bai Man) | Com Shark Demon | 819 |
-| Fixed Immortal Travel (Viagem Imortal Fixa) | Imortal | espaço | Teleporte a locais já conhecidos em ~3 respirações; rota de fuga padrão de FY | — | 843, 872, 881 |
-| Dark Arrow (Flecha Negra) | Imortal | — | Arma de Hei Cheng (ferimento oculto o impede de usar killer moves) | — | 873, 884 |
-| Ice Heart (Coração de Gelo) | 6 | gelo | Emprestado a Xue Song Zi com um conjunto completo de killer moves (ataque/defesa/movimento/cura) | De Qin Bai Sheng (Shadow Sect) | 874 |
-| Melt Ice (Derreter Gelo) | Imortal | gelo | Derrete até o gelo mais duro; counter direto do freezing rain frozen earth | Alugado por Shark Demon na Zombie Alliance | 897 |
-| Beast Enslavement | Imortal | escravização | Único no mundo (em Lang Ya): escraviza desolate beast instantaneamente, controle por pensamento | — | 797 |
-| Flying Bear Phantom Gu | — | fantasma | Método fantasma de escravizar bestas | — | 797 |
-| Space Escape | Imortal | espaço | Obsessão do "primeiro" Lang Ya land spirit (por que não entra no Space Cave) | — | 879 |
-| All-Out Effort Gu (Esforço Total) | 4→5 (receita r6 existe) | — | Vital Gu da 2ª abertura de FY; FY deduziu e refinou a versão rank 5 (uma falha antes do sucesso); receita rank 6 Imortal dada por Lang Ya como recompensa | Receitas rank 1–6 com Lang Ya land spirit | 863, 872, 887 |
-| Small Family Qi Gu | — | qi | Dedução da receita FALHOU (attainment de qi ordinário) | — | 863 |
-| Fortune Rivalling Heaven (Fortuna que Rivaliza o Céu) | 8 (em refino) | sorte | Projeto de Old Ancestor Xue Hu; material principal: Ma Hong Yun (pessoa) | Consome quase toda a fortuna de um casal rank 8 | 802, 812, 820 |
-| Heavenly Essence Treasure Imperial Lotus | — | — | Produz essência imortal continuamente (por isso Lang Ya, sem dono, ativa Immortal Gu à vontade) | Em Lang Ya | 872 |
-| Blood Skull Gu | mortal | sangue | Eleva aptidão matando parentes de sangue; FY quer elevá-lo a Imortal p/ dar a si o Desolate Ancient Moon aperture | — | 857 |
-| Blood Deity (Divindade Sanguínea) | Imortal (receita) | sangue | Matar um parente de sangue → gera um "blood deity" com força de Gu Imortal; parente voluntário = obediente, parente com ódio = backlash | Receita completada por FY (dedução); Song Zi Xing só tem fragmentos | 846–847, 862 |
-| Lightning Deity (Divindade Relâmpago) | — (killer move) | relâmpago | Derivado do Blood Deity: constructo com força de Gu Imortal, produzível em lote, pode autodetonar; caro de criar e manter | Vicious Lightning Fiend criou 3 em 2 anos de reclusão | 839, 847–848 |
-| Wooden Chicken | Imortal | — | Buscado por Xue Song Zi na disputa do Imperial Court (referência) | — | 874 |
-| Spirit Incubating Flea | mortal | — | Abriga a alma de Lord Sky Crane; contato prolongado com corpo = pré-condição de possessão | — | 827, 843 |
-| Hole Earth Gu | mortal | terra | Canal fixo de comunicação/entrega entre dois pontos (Hu Immortal ↔ Immortal Crane / Spirit Affinity) | — | 796, 863, 908 |
-| Moving Perspective Cup Gu | mortal | — | Comunicação por transmissão à distância entre aliados | — | 890, 900 |
-| Emotion Poetry Gu | 4 | sabedoria | Armazena emoções; precioso p/ mortais | Produzido no poetic emotion sea | 894 |
-| Blue Face Gu | 3 | transformação | Muda a aparência de um Gu Master homem | Selvagem; capturado enfraquecido pós-incêndio | 823 |
-| Green Shine Gu | 4 | luz/cura | Cura toxinas de calor (top do gênero); parte do killer move mortal "nine shine" (9 shine Gu = subjuga todos venenos) | Prêmio de 1º lugar (1ª ronda); valor ≈ rank 5 comum | 829, 833, 835 |
-| Careful Gu | 3 | sabedoria | Auxilia passos cruciais de refino (núcleo da linhagem Shan Chuan Hall) | Receita secreta de Old Man Qi Shan | 834 |
-| Keep Silent Gu | 5 | som | Tarefa da 8ª ronda; refino exige reverse-refining de apathy/muted mouth/sinking Gu | Materiais: immortal soul grass, worry stones, apathy Gu (r4), 6 muted mouth (r3), 2 sinking (r4) | 841 |
-| Ghost Fire Gu | 1–3 | fogo+alma | Fogo espectral que fere almas; refino consome muita energia mental; usado por FY como arma psicológica em duelo | Refinável queimando almas (métodos demoníacos) | 831, 855–856 |
-| Water Light Gu | 1 | água | Tarefa da 1ª ronda (produção em quantidade) | — | 829 |
-| Single Aperture Charcoal → Double Orifice Stove → Three Orifices Fire Hut → Four Orifices Fire Tower → Five Orifices Fire Pagoda Gu | 1→5 | fogo | Série encadeada: cada rank usa o anterior como material principal (tarefa do duelo FY × Feng Jin Huang) | ~1000 tipos de materiais fornecidos | 853 |
-| Earth Treasury Flower Gu | — | — | Tarefa de entrada: passo 3-do-fim exige técnica "one after another" (entrelaçar 100 fios de upstream grass + zen lion's mane em 30 respirações) | — | 828 |
-| Red Face Gu | — | — | Tarefa final da competição da Universal Life Academy; último passo instantâneo na mão de um mestre (o espirro de Hong Yi funcionou) | — | 823–824 |
-| River Wave Trace Gu | 5 | água | Série: water trace (r3) → wave trace (r4) → river wave trace (r5) → worldly wave trace Immortal Gu (r6); especialidade de Spirit Affinity House | — | 853 |
-| Blood Steps Gu | 3 | sangue | Gu de movimento; proposta de duelo recusada | — | 853 |
-| Star Dart Gu | 1 | estrela | Produzido de insetos que dormem 49 dias em star cave rocks; comem seiva de arrow bamboo | Fonte de renda de Star Form | 851 |
-| Stellar Fire Gu / Falling Meteor Gu | — | estrela | Produzidos nos meteorite pits de Star Form | — | 851–852 |
-| Star River Gu | — | estrela | Produzido no broken star lake | — | 852 |
-| Starlight Firefly Gu | — | estrela | Vaga-lumes mutantes que comem star fragment grass; combustível dos stargates | Criação aumenta com air bubble fish por baixo | 809, 826, 858 |
-| Blood path Gu (par de contrato) | 4 (par) | sangue | Refinados por FY em segundos com 2 gotas de sangue da língua; sentem-se mutuamente = símbolo verificável da dívida das "três tarefas" | Refino sangue-instantâneo público | 835 |
-| Gruel Mud (Mingau de Lama) | Imortal | — | Carregado pelo swamp crab da 6ª calamidade (referência) | — | 824 |
-| Shadow Image Gu | 1 | informação | Grava/reproduz cenas; vendido como mídia (50+ primeval stones) | Lightning Information Sect | 838 |
-| Fate Gu (Destino) | Imortal (r?) | destino | Em restauração por Heavenly Court; com 50% de poder poderá caçar "fugitivos do destino" | Materiais: rock dragon eyes em massa, heaven's will, success dao marks | 845, 871, 885 |
-| Everlasting (Eterno) | Imortal | — | Fixa uma transformação permanentemente — método de "reviver" um zumbi via transformação (proposta de Feng Jin Huang) | Spirit Affinity House | 911 |
-| Heaven Overseeing Tower | 9 (Gu House) | — | Immortal Gu House rank 9 de Heavenly Court; sede da restauração do Fate | — | 845, 885 |
-| Success Gu / Failure Gu | lenda | — | Lenda de Ren Zu: o líder dos hairy men aprendeu que falhas acumuladas → sucesso; base da herança Infallible | — | 845 |
-| Self Gu / Courage Gu / Faith Gu / Strength Gu / Cognition Gu / Hope Gu / Attitude Gu | lenda | — | Legends of Ren Zu (caps. 807, 845, 870): self Gu devora outros Gu e ganha suas forças; courage/faith/strength abandonam o "fracassado" | — | 807, 845, 870 |
-| Liquor Worm | — | — | Refinado com bitter wine (referência) | — | 860 |
-
----
+- **Gu Imortal de sabedoria de Dong Fang Chang Fan** (wisdom path Immortal Gu) | Rank não dito | Caminho da Sabedoria | núcleo da herança; testado por formação Gu final na "sala" de herança (cap. 785, 788).
+- **Gu Imortal de caminho do sangue** (blood path Immortal Gu) | — | Sangue | usado como suporte da grande formação fantasma de Dong Fang Chang Fan, funde núcleos de origem de abertura imortal de vários parentes de sangue numa única força devastadora (cap. 788).
 
 ## B) Sistemas e atividades jogáveis
 
-### Convenção do Caminho do Refino (Refinement Path Convention) — caps. 828–845
-- Evento centenário do Continente Central, criado pelas dez grandes seitas antigas, controlado por trás por Heavenly Court. Centenas de milhares de inscritos das 5 regiões; demoníacos e procurados participam abertamente (proibido lutar/matar).
-- **Estrutura:** 4 tarefas de entrada (habilidades básicas; qualquer Gu Master experiente passa) → inscrição (100 primeval stones; nome pode ser falso, seita/caminho ocultáveis; token é tudo) → rondas 1–7 em locais espalhados (competições de quantidade e de tempo, 3 primeiros colocados premiados, "first come first served") → da 8ª ronda em diante: **um único vencedor por local de teste** (os demais eliminados) → 12ª ronda etc. → final.
-- Tarefas guardadas por Heavenly Court num Gu de informação rank 5 que só revela a prova no instante do início.
-- **Formatos:** sect contests (seitas x seitas p/ resolver disputas), task contests (um lado propõe problema), arena contests (organizador põe prêmio, desafiantes apostam), duels (apostas entre dois, conteúdo negociado; formato "martial duel" permite 5 ataques de rank crescente 1→5 e defesa só no raio de 1 m).
-- **Recompensas:** rondas iniciais = Gu/materiais mortais; da 8ª em diante = materiais imortais, receitas de Immortal Gu, killer moves imortais.
-- **Herança Infallible (Infalível):** top 6 do torneio ganham 1 success dao mark cada, gravado no corpo, impossível de roubar/transferir (Heavenly Court já tentou). O success dao mark **zera a taxa natural de falha** de um refino de Gu Imortal rank 6 (rank 7/8 exigem vários) — mas não protege contra erro técnico nem contra o Gu já existir. Origem: blessed land do líder dos hairy men (Hairy Foot Mountain); acumula falhas dos participantes como failure Gu mortais → condensam 36 success dao marks por ciclo; Heavenly Court extrai 30 para consertar o fate Gu, deixa 6 para o torneio. A blessed land é perfeitamente fechada, sem entrada; 4 rank 8 gastam 6 rodadas de ataques só para abri-la (cap. 845).
-- Gu Immortals participam disfarçados de mortais (refino de Gu mortal não distingue imortal de mortal; perder para um mortal seria vexame) — cap. 841.
+- **Testes de herança de sabedoria**: terreno de herança em etapas ("salas"), teste final = completar uma formação Gu; um "resquício de vontade estelar" (star will) do imortal morto interage com o herdeiro, pode mentir (ao contrário de espíritos da terra) e só consegue deduzir/tramar por cerca de 100 anos após a morte — muito mais fraco que a fundadora do caminho da sabedoria, Star Constellation Immortal Venerable, que deduziu eventos por mais de 1 milhão de anos após morrer (Era da Antiguidade Remota), a ponto de frustrar 3 futuros Demon Venerables e proteger a Corte Celestial (cap. 788).
+- **Extração de núcleo de origem da abertura imortal**: mecanismo de sacrifício — Gu Imortais entram numa formação e permitem que o "núcleo de origem" de suas aberturas imortais seja extraído; se forem do mesmo sangue/linhagem, os núcleos se fundem (mesma origem) e acumulam força imensa e súbita. Custo: a abertura reverte progresso, encolhe, o Gu Imortal enfraquece e fica vulnerável a morrer em tribulação celestial/calamidade terrena subsequente (cap. 788).
+- **Formação fantasma (phantom formation)**: aplicação avançada do caminho fantasma — todos os vermes Gu de uma formação são tornados "fantasmas" (intangíveis/invisíveis por períodos), preservando o efeito da formação mas tornando-a imune a ser destruída por ataques externos enquanto ativa (cap. 788).
+- **Compressão espacial defensiva**: um imortal do caminho espacial pode remanejar marcas dao espaciais num local para comprimir a distância aparente — poucos passos visíveis escondem uma distância real gigantesca, atrasando um inimigo que tenta avançar (cap. 789 / 788).
+- **Myriad self / mão gigante** (golpe matador de Fang Yuan): cada "mão gigante" de caminho da força consome a força de 20.000 fantasmas de caminho da força na abertura de Fang Yuan, focados em um braço; o corpo zumbi imortal de oito braços permite até 8 mãos simultâneas — o limite é a resistência do braço (mais que isso e o braço explode antes mesmo de atacar) (cap. 786, 788).
 
-### Reinos de sonho (dream realms) — caps. 847, 852, 911–912
-- Explorar um reino de sonho é o único atalho conhecido para **subir attainment levels** (Feng Jin Huang: refinement quasi-grandmaster em meses). Também é o único método de obter os attainment levels de outra pessoa (explorar o dream realm dela) — cap. 810.
-- Perigo: mortos no sonho têm a alma destruída (Star Lord Wan Xiang morreu assim; Seven Star Child dormiu anos).
-- Ferramentas: Dream Wings (sem custo de essência, ideal p/ mortais), Dream Travel (custa essência), killer move Unravel Dream (de FY, base Unravel Mystery).
-- Manifestação externa de reino de sonho: aparência belíssima (nuvem estelar roxa), perigosa; quem entra sem método morre. O do fragmento é de **Star Constellation Immortal Venerable** — dentro, FY vive uma cena da Era Remota: tribo de beastmen (variantes meio-fera, canibais de crianças humanas) — cap. 912.
-- No futuro (memórias da vida anterior), manifestação em massa de dream realms redistribui oportunidades e alimenta a guerra caótica das 5 regiões.
+## C) Regras do mundo
 
-### Herança, possessão e corte — caps. 784–793, 810, 827
-- **Terreno de herança de Dong Fang Chang Fan:** cadáver de um immemorial ruin bat (space path) que projeta salões ilusórios; testes em 8 salões; um "star will" (vontade estelar) guia e MENTE (vontades mentem, land spirits não); exército de phantom beasts controlado postumamente; formação-fantasma (Gu worms intangíveis, formação indestrutível enquanto ativa).
-- **Técnica de possessão de Giant Sun:** possui mortais e Gu Immortals (alvo deve ter cultivo menor); a abertura resultante é a do alvo ("corvo em ninho de gaivota"). Versão de DFCF: formação extrai os **immortal aperture origin cores** de 8 Gu Immortals do mesmo sangue, funde-os (sangue próximo funde), purifica as vontades/auras alheias usando os ataques dos inimigos como "têmpera", e verte no possuído → ascensão imortal instantânea com abertura de alto grau que gera recursos sozinha ("economiza centenas de anos"). Custos: os 8 doadores morrem (extração do origin core = abertura regride, criaturas morrem em massa, o imortal definha); o céu odeia — tribulação vem multiplicada (Fluctuating Light / Falling Star Lightning escondidas dentro da tribulação). Pular a purificação deixa as 9 vontades hostis dentro do corpo → perda de controle recorrente (explorável: matar parentes/tribo do possuído induz o descontrole) — caps. 788–794, 801–806.
-- **Batalha de vontades:** sem relação com cultivo; qualidade ≈ igual, decide a QUANTIDADE; só vontades com "fonte" (mente do possuidor / corpo do dono original) se regeneram; vitória por convicção — quem vacila, cai (caps. 805–806). FY treina contra a vontade falsa de Mo Yao: proporção de perdas cai de 100:1 para 4:1 com prática (cap. 846).
-- **Herança de Red Lotus:** fica no Rio do Tempo; requisitos: ter o Spring Autumn Cicada, autodetonar-se enviando a vontade ao rio, e nadar até uma "ilha de lótus de pedra" onde espera a vontade de Red Lotus (cap. 830).
-- **Cultura de heranças:** deixar herança = prova de existência; quase sempre feita à beira da morte (Yu Mu Chun deixa a sua = prenúncio de sacrifício) — cap. 863.
+- Espíritos da terra (land spirits) são puros e nunca mentem; uma "vontade" (will) deixada por um Gu Imortal morto, ao contrário, pode mentir (cap. 785, 789).
+- Rank cinco Gu Mestre é o topo do mundo mortal (peak of the mortal world) — ainda assim indefeso perante um Gu Imortal (cap. 786).
+- Toda região das cinco grandes regiões do mundo é hostil a Gu Imortais estrangeiros; um Gu Imortal de Continente Central que entra nas Planícies do Norte corre grande risco se for exposto (cap. 787).
+- Caminho da sabedoria, caminho da escravização (enslavement path) e caminho da alma (soul path) têm origens quase idênticas (cap. 785).
+- Feras fantasmas (phantom beasts) só surgem naturalmente em locais com muitas marcas dao de caminho espacial; feras fantasmas de nível "desolate" mantêm a forma fantasma por muito mais tempo que as comuns, tornando-as muito mais difíceis de derrotar apesar do rank similar (cap. 785).
+- O caminho fantasma dos Mestres Gu foi inspirado nas feras fantasmas, descoberto pelo Gu Imortal Xu Wu Xie (cap. 785).
 
-### Apostas e duelos entre imortais — caps. 832–835, 847, 853–858, 867–868
-- Desafios com apostas negociadas: Vicious Lightning Fiend aposta 1.500 kg de hibiscus branches contra 600 fios de two-nine thunder heavenly qi de Dan Qiao (cap. 847).
-- Duelo FY × Zheng Shan Chuan: aposta = green shine Gu vs "três tarefas vitalícias" (dívida herdável por descendentes/discípulos, selada com par de Gu de sangue) — cap. 835.
-- Duelo FY × Feng Jin Huang: aposta = método de reviver zumbi vs prioridade vitalícia de venda de guts Gu à Spirit Affinity House; empate → troca das apostas (cap. 853–858).
-- Duelos "10 rodadas" contra os feathermen: quem vence rodada ganha 10% do povo como escravos; regras redigidas com armadilhas (só "feathermen NO CHÃO" contam; defensor só pode curar) + juramento com killer move de informação que mata o violador (Zhou Zhong viola de propósito e cristaliza/morre) — caps. 866–869.
+- **Menses blood Gu** (Blood Sea Ancestor, caminho do sangue) | Imortal (elevado por Dong Fang Chang Fan) | Sangue | puxa/expulsa o sangue do corpo de um alvo à distância, sem contato — usado para formar o véu de sangue defensivo (cap. 789).
+- **Pulling Mountain Immortal Gu (Fang Yuan)** | Imortal | Terra/Montanha | arranca montanhas de suas raízes, mesmo as ligadas ao solo por marcas dao; usado para tentar erguer o "corpo-montanha" do morcego em ruínas (cap. 790–791).
+- **Pulling Water Immortal Gu (Fang Yuan)** | Imortal | Força/Água | especializado em manipular água à distância, suga qualquer corpo d'água para dentro da abertura imortal do usuário; obtido depois de um leilão anterior (cap. 796).
+- **Thatched Hut** | Imortal (rank seis) | Casa Gu Imortal (Immortal Gu House) | ataque + defesa + armazenamento; guarda a riqueza pública da tribo Dong Fang, nem o próprio Dong Fang Chang Fan podia usá-la para fins pessoais (cap. 796).
+- **Miniscule Mountain** | — | lugar lendário (registrado em <<The Legends of Ren Zu>>) | montanha real em miniatura, precisa de qi da terra para se estabilizar; lar da raça anã "miniman" (humanos variantes); usada por Dong Fang Chang Fan como garantia/restrição num acordo com forças do caminho reto (cap. 796).
+- **'Small' Immortal Gu** (Gu Imortal miniman de sobrenome Fang, caminho das regras) | Imortal rank sete | Regras | golpe Big to Small: encolhe/enfraquece drasticamente qualquer ataque que se aproxime do usuário ou de Miniscule Mountain (cap. 801).
+- **'Disintegrate' Immortal Gu** (Unfettered Scholar, clã Chen, caminho das regras) | Imortal, escala com rank do usuário (rank 6=Hundred, 7=Thousand, 8=Myriad Disintegrations) | Regras | base do golpe Thousand/Myriad Disintegrations (cap. 790, 801).
+- **Split Shadow Immortal Gu** (Dong Fang Chang Fan) | Imortal | Sabedoria (?)/Ilusão | cria até 30 clones ilusórios idênticos (mesma aura, indistinguíveis por métodos investigativos) que se dispersam sozinhos após um tempo, deixando para trás vermes Gu comuns de rank cinco com resíduo de aura de Immortal Gu como isca (cap. 804–806).
+- **Groundmat grass Gu** (caminho da madeira) | — | Madeira | único efeito: faz seres vivos dormirem instantaneamente (cap. 798).
+- **Poison heart Gu** (caminho do veneno) | — | Veneno | formado a partir das flores-coração-roxas venenosas; sem forma/cor, o perfume embriaga e depois corrói o coração do alvo (cap. 798).
 
-### Tribulações cooperativas e gestão de calamidades — caps. 809, 814, 823–826, 865–866
-- Calamidade terrestre a cada 10 anos, tribulação celestial a cada 100; 30 calamidades + 3 tribulações = avanço a rank 7.
-- **Cooperação:** aliados defendem a blessed land juntos (Hei Lou Lan "paga aluguel" defendendo a calamidade de Hu Immortal; FY ajuda a de Tai Bai). Contratação de ajuda é moeda corrente.
-- **Manipulação da tribulação:** o céu "tira dos excessos" — esvaziar a blessed land dos tesouros enfraquece a calamidade (FY move Dang Hun Mountain p/ dentro da abertura de Tai Bai antes da calamidade); manter recursos específicos "atrai" a calamidade do mesmo caminho, e os dao marks ganhos depois remodelam a blessed land a favor desses recursos (Tai Bai deixa as nuvens para atrair calamidade de cloud path). Sorte alta = calamidade mais fraca (Time Assist Luck usado antes).
-- Pós-calamidade: novos dao marks reformam o mundo interno (calamidade de sangue de Hu Immortal → dao marks de sangue → blood sickle grass, red axe flowers, blood jade carps, blood zhi forest).
-- **Calamidade viva:** os feathermen fugitivos (via killer move Heavenly Wish) caem DENTRO da blessed land de Tai Bai COMO a calamidade terrestre dele; matá-los rende todos os seus dao marks à blessed land (abertura imortal que não consegue absorver qi do céu-terra dentro de outra blessed land = colapsa e cede os dao marks) — caps. 865–870.
+## B2) Sistema de possessão e tribulação (achados adicionais)
 
-### Zombie Alliance (Norte e Leste) — caps. 795, 818–819, 892, 906–907
-- Northern Plains ZA: QG = Dark Flow Giant City (aberturas de zumbis não se fundem → sem blessed land pública, por isso mais fracos que super forças). Pós-Sha Huang, triagem rígida de zumbis desconhecidos.
-- Eastern Sea ZA = matriz das 5 regiões, mais forte que super forças; aceita Gu Immortals vivos (status inferior aos zumbis); QG = **Undying Kingdom blessed land** no yellow spring sea; sistema de contribution points, missões via token + Gu de informação (dedução, coleta, ataque a Yu Lu); pesquisa exclusiva: manter a vitalidade da abertura imortal SEM abandonar o corpo zumbi (resultado parcial; troca por contribuição altíssima); "incentiva" membros vivos a doar pedaços de blessed land com recompensas.
-- Rota de entrada de FY: fabricar escândalo (espiar banho de Song Yi Shi) → pressão externa que justifique um imortal talentoso aderir à aliança → mediação de Shark Demon → multa de 600 pedras de essência e adesão.
+- **Técnica de possessão** (obtida por Dong Fang Chang Fan no domínio recluso de herança verdadeira do Eighty-Eight True Yang Building, originada de Giant Sun Immortal Venerable): permite possuir mortais e até Gu Imortais; possuir um Gu Imortal exige cultivo mais alto que o do alvo; após possuir, o usuário herda a abertura imortal do alvo (desvantajoso — "um corvo ocupando o ninho de uma gaivota") (cap. 789).
+- Combinada com a fusão de núcleos de origem de vários parentes de sangue (ver seção B), a técnica permite ao possuidor criar uma abertura imortal totalmente nova e de alta qualidade no instante da possessão, pulando o estágio inicial fraco de cultivo; a nova abertura já produz recursos automaticamente (flores, pássaros, peixes, insetos) como se fosse cultivada por anos (cap. 789).
+- Dong Fang Chang Fan negociou secretamente partes da técnica de possessão com a Immortal Crane Sect (uma das Dez Grandes Seitas Ancestrais do Continente Central) em troca de recursos/Gu de longevidade por anos, o que financiou seu avanço e o da tribo Dong Fang (cap. 789).
+- Golpes de clã escalam por rank: clã Chen (caminho das regras) tem Hundred Disintegrations (rank 6), Thousand Disintegrations (rank 7), Myriad Disintegrations (rank 8) — mesmo golpe nomeado cresce de poder e nome com o rank do usuário (cap. 790).
+- Zumbis imortais têm abertura imortal "morta", com força vital escassa — por isso são resistentes/imunes a golpes baseados em força vital como Life Chasing Fire (cap. 791).
+- Cosmologia: "Desde que a Red Lotus Demon Venerable quebrou o destino, o destino de todos os seres vivos deste mundo está em suas próprias mãos" — ascender/reviver contra o "mandato do céu" é possível mas provoca tribulações mais severas (cap. 792).
+- Tribulação celestial "heavenly star lightning" + calamidade terrena "earth ghost lightning" = juntas chamadas "twin lightnings of heaven and earth"; combinadas ficam muito mais fortes que separadas (cap. 792).
+- "Falling star lightning" / "Fluctuating light": uma tribulação escondida dentro da tribulação normal, ativada especificamente contra quem desafia o destino (reviver/ascender após a morte) — um castigo extra do céu (cap. 792).
+- **Myriad Star Fireflies — mecânica detalhada**: é fraco contra um único inimigo, mas escala com o número de Gu Imortais no alcance e com a intensidade do raciocínio deles em combate (mais pensamento = mais "pensamentos estelares" = golpe mais forte); por isso é o golpe ideal contra grupos, ruim 1×1 (cap. 793).
+- **Dois tipos de terra abençoada (blessed land)**: (1) pessoal — a própria abertura imortal do Gu Imortal, vira "gruta-céu" (grotto-heaven) ao alcançar rank oito; (2) "montada por partes" (pieced together) — vários Gu Imortais doam pedaços das próprias aberturas para formar uma base compartilhada de uma força maior (ex.: Jade Pool da tribo Dong Fang, Yin-Yang da tribo Murong, Shi Huang da tribo Guan, Iron Eagle da tribo Hei, Snowy Mountain da maior força demoníaca das Planícies do Norte). Fundir aberturas por completo ("engolir") tem requisitos rígidos; "montar por partes" é muito mais fácil (cap. 795).
+- Terras abençoadas fixadas no chão absorvem qi da terra para estabilizar o espaço interno e **atrasam a chegada de tribulações celestiais e calamidades terrenas** de seus donos (cap. 795).
+- A Aliança dos Zumbis (Zombie Alliance) não pode formar sua sede a partir de aberturas imortais, porque a abertura de um zumbi imortal é "morta", quebra em pedaços periodicamente e não funde com outras — por isso as sedes da Aliança (ex.: Dark Flow Giant City nas Planícies do Norte) são estruturalmente mais fracas que uma terra abençoada normal — desvantagem estrutural do caminho zumbi (cap. 795).
+- Só existe um **Beast Enslavement Immortal Gu** no mundo (guardado em Lang Ya blessed land) — efeito instantâneo e total sobre a fera escravizada. Outros caminhos têm substitutos inferiores para controlar feras desoladas: caminho fantasma (flying bear phantom Gu), caminho da água, do fogo, da luz, etc.; ou criar vínculo emocional criando a fera desde filhote (ex.: He Feng Yang da Immortal Crane Sect e seu grou de nove palácios "Little Nine") (cap. 797).
+- **Humanos variantes (variant humans)** — cada raça tem uma especialidade inata muito acima da humana: hairy men (refino Gu), rockmen (mineração, minérios crescem no corpo), snowmen (resistência ao frio), inkmen (conhecimento vasto), minimen (cultivo de plantas — do tamanho de um dedo, com asas finas, alimentam-se de néctar/seiva) (cap. 799).
+- Miniscule Mountain não pertence à tribo Dong Fang: é território aliado dos minimen, cedido por tratado em troca de espaço para viver; por isso fica normalmente em Jade Pool blessed land (terra aberta que absorve qi do mundo exterior sem limite) e não na abertura pessoal de nenhum Gu Imortal, para não desequilibrar o qi interno de uma abertura finita — mesma lógica do "Dang Hun mountain" de Fang Yuan, que só funciona porque Hu Immortal blessed land fica sobre Tian Ti mountain absorvendo qi externo (cap. 799).
+- **Poder relativo entre Gu Imortais de regras**: o próprio Immortal Gu tem um rank (não só o cultivo do usuário); golpe de regras de rank mais baixo (ex. Thousand Disintegrations, base rank 6) perde automaticamente contra um de rank mais alto (ex. 'Small', rank 7) mesmo que os usuários seham do mesmo rank de cultivo (cap. 801).
+- **Captivating sea**: área restrita dentro de Jade Pool blessed land — floresta de pessegueiros ilusórios (nível de fera desolada, criam ilusões), "groundmat grass" (sono instantâneo em massa), "flores-coração-roxas" venenosas, matilha de ~30 lobos-pêssego (peach wolves, equivalentes a rank seis) guardando o acesso a Miniscule Mountain — um modelo de "masmorra" de várias camadas de defesa (cap. 798–801).
+- **Acordos de saque entre demoníacos**: quando vários Gu Imortais do caminho demoníaco saqueiam juntos, a "regra" costumeira é "quem acha, fica com" e disputas se resolvem por transação privada ou por força — ou seja, na prática não há regra nenhuma, reflexo da desconfiança mútua típica do caminho demoníaco (cap. 796, 802).
+- Atacar um subordinado de uma força maior (ex. Fairy Li Shan, subordinada do Old Ancestor Xue Hu, rank oito de Snowy Mountain) é evitado mesmo com vantagem tática, por medo de retaliação do superior — dissuasão por reputação/hierarquia entre grandes forças (cap. 802).
+- Refinar um Immortal Gu de **rank oito** exige investimento de recursos maciço (ex.: Old Ancestor Xue Hu tentando refinar o "fortune rivalling heaven Gu") — motivo pelo qual manda subordinados saquearem outras terras abençoadas (cap. 802).
+- **Mecânica de possessão — risco residual**: mesmo destruída, a alma original de um possuído deixa fragmentos que se acumulam como "vontade" própria; como esse corpo era originalmente dela, essa vontade residual é potencialmente mais perigosa que as vontades importadas de terceiros (as dos Gu Imortais sacrificados) (cap. 802).
+- **Batalha de vontades (battle of wills)**: quando várias vontades disputam o controle de um corpo possuído, é um combate à parte, independente de rank de cultivo — só a força de vontade importa. Só duas fontes conseguem *regenerar* vontade continuamente: (1) o possuidor, que puxa da própria alma alojada na "mente" (sede de comando do corpo); (2) a vontade residual do dono original do corpo, porque o corpo inteiro é a base dela. Vontades "importadas" de terceiros (Gu Imortais sacrificados) não se regeneram — são um recurso consumível, mesmo que comecem fortes, e por isso escolhem se sacrificar como "escudo" protegendo a vontade do dono original. Método vencedor: converter toda a energia mental restante numa única vontade impositiva e "engolir" as vontades rivais inundando-as com a totalidade das memórias e convicções de vida do usuário — um combate ganho por argumento existencial/emocional, não força bruta (cap. 805–806).
+- Golpes de deslocamento/velocidade (immortal killer moves de movimento) consomem essência imortal rápido e não podem ser sustentados por muito tempo — mesmo o imortal mais poderoso tem limite de fôlego numa perseguição longa (cap. 804).
+- Doutrina política do caminho demoníaco (citada por Dong Fang Chang Fan): "neste mundo só existem benefícios eternos, não há inimigos ou amigos eternos" — ele negociou com a Immortal Crane Sect mesmo tendo matado um discípulo dela, oferecendo a técnica de possessão como moeda de troca (cap. 806).
 
-### Ataque a blessed lands (Yu Lu, Lang Ya, Jade Pool) — caps. 795–804, 818, 872–885, 888–905
-- **Entrada:** achar a porta é o 1º obstáculo (localização via parente de sangue, alma de agente infiltrado, Immortal Gu perfurador de espaço etc.).
-- **Yu Lu blessed land** (ex-grotto-heaven da discípula de Paradise Earth): rondas encadeadas de battlefield killer moves — vanishing immortal essence dissipation rain (evapora essência imortal; combinado com "raindrop equity" que anula defesas), freezing rain frozen earth (ondas horárias de chuva congelante + snow monsters que revivem; counter: Melt Ice), fighting soul battlefield (soul beasts infinitos e crescentes: 7 min → ancient; desmonte = destruir dezenas de milhares de Gu escondidos contra o relógio), eight doors labyrinth (8 áreas × 8 portas, 1 porta por pessoa, uma única rota certa; prende até a morte). Ataque é um investimento: calcula-se custo de essência vs espólio; direito de atacar é comprado da aliança com contribution points.
-- **Lang Ya:** formação Twelve Wave Cloud Confusion (12 prédios-núcleo mortais; nevoeiro que embaralha sentidos; só killer moves investigativos imortais navegam); trunfo real = **Refinement Cauldron** (Gu House rank 8 de Long Hair Ancestor embutida NO MUNDO da blessed land: refina à força os Immortal Gu dos invasores com tempo; e seus dao marks expandem o espaço interno a nível de grotto-heaven — arrancar seus Gu encolhe o mundo e mata multidões). Formação de batalha antiga **Heavenly Giant Solor** (2ª mais forte da era antiga; soma almas/essências, amplifica killer moves individuais; ideal mono-caminho; counter à Soul Suppression).
-- **Saque de Jade Pool:** blessed land pública (dao marks mistos → defesa fraca; o controlador anula Gu mortais dos invasores mas não killer moves imortais); pilhagem por "regras" demoníacas = quem acha, leva; recursos por pool (ver §E).
+## D) Números e preços
 
-### Economia de Gu Immortals — caps. 810, 814–816, 825, 837, 851–852, 893–894, 900, 907–908
-- **Fontes de renda** são o coração do cultivo: monopólios (guts Gu) > commodities (dragonfish); entrar num mercado requer força ("arruinar a riqueza de alguém é como matar seus pais" — concorrentes matam).
-- **Treasure yellow heaven:** mercado das 5 regiões; taxas altas inviabilizam transações pequenas (oil water só em lotes gigantes).
-- **Western Desert:** região mais comercial; super forças emitem **tokens de transação** (o da Xiao clan é o mais valioso; aceitar = alinhar-se contra a Tian clan); Immortal Gu House **Ten Thousand Li Silk Corridor** = malha logística que consome spider Gu mortais em massa (por isso Xiao clan compra regretful spiders sem parar).
-- **Eastern Sea:** áreas marítimas ranqueadas e possuídas individualmente (shark sea, 3M km², é a 46ª); caravanas subaquáticas usam mapas de **correntes de fundo** (undercurrents) para viajar 10.000–100.000 li; earth tide anual enfraquece as paredes regionais (janela migratória entre regiões, rotas mudam a cada maré).
-- **Produção industrial:** "Fang Yuan stone nests" = linha de montagem de refino (1 hairy man por sala, 7+ etapas em série, receita secreta compartimentada, salas à prova de som; mortes por explosão são custo operacional; eutanásia dos inválidos).
-- Escravos: hairy men são os mais caros (mais que humanos — dóceis, sem revolta); feathermen valorizados como caravanas voadoras; minimen (jardineiros) e rockmen (mineradores) — cap. 816, 866, 870.
+- Morcego em ruínas (ruin bat): fera desolada imemorial, força de combate de rank oito Gu Imortal enquanto viva; corpo de centenas de metros, asas cobrindo vários li de areia; só um rank oito+ resiste à força de suas marcas dao espaciais (cap. 784–786).
+- Mão gigante de Fang Yuan: 20.000 fantasmas de caminho da força por braço; corpo zumbi de 8 braços = até 8 mãos gigantes simultâneas como limite absoluto (cap. 786, 788).
+- Immortal Crane Sect: uma das Dez Grandes Seitas Ancestrais do Continente Central, possui seus próprios Gu Imortais de caminho da sabedoria (cap. 788).
+- Mãos gigantes de Fang Yuan: total de 160.000 fantasmas de caminho da força usados simultaneamente nas 8 mãos (8×20.000) (cap. 791).
+- Final Afterglow (Old Lord Can Yang): reduz o poder de golpes fortes tipo Flood Glacier em ~30%; reduz muito mais golpes "de nível mortal" (cap. 790).
+- Mesmo com Final Afterglow a pleno vapor, Old Lord Can Yang só conseguiu enfraquecer a tribulação dupla (twin lightnings) em 15% (cap. 792).
+- A tribulação relâmpago durou mais de 2 horas, aumentando de intensidade continuamente (cap. 792).
+- Técnicas alternativas de controle de fera (fora Beast Enslavement Immortal Gu) podem elevar a força de combate de uma fera desolada em até 50% (caso de Qie Shi Min) (cap. 796).
+- Oil water (água oleosa): material de refino Gu de mares profundos/fossas; comum no Eastern Sea, raro nas Planícies do Norte e Deserto Ocidental; margem de lucro baixa demais para valer a taxa do Céu Amarelo do Tesouro em pequenas quantidades — só compensa em grandes lotes, e mesmo assim raramente aparece pois o Eastern Sea consome sua própria produção (cap. 796).
+- Essência imortal de uva verde (green grape immortal essence, de Fang Yuan) vale mais que o oil water — por isso ele só o coleta por causa da próxima Convenção do Caminho de Refino do Continente Central (cap. 796).
+- Fang Yuan capturou ~10.000 pítons-dragão-de-fogo-macabro de um ninho muito maior (mãos gigantes são imprecisas, mataram muitos por acidente) (cap. 798).
+- Poça de dragonfish: ~900.000 peixes-dragão num único lago, incluindo um exemplar nível fera desolada; Fang Yuan gastou 4 contas de green grape immortal essence para secar o lago inteiro com Pulling Water — foi o saque mais valioso da incursão (quase 1 milhão de peixes) (cap. 800).
+- Grupo de air bubble fish vale cerca da metade do preço de um shark fin wolf desolado no Céu Amarelo do Tesouro — terceiro item mais valioso do saque de Fang Yuan (cap. 800).
+- Fang Yuan extorquiu 20% do lote de aranhas-do-arrependimento (regretful spiders) já coletado por um Gu Imortal demoníaco, em troca de não brigar e de uma informação sobre Miniscule Mountain (cap. 798).
+- Split Shadow cria até 30 clones idênticos de Dong Fang Chang Fan (cap. 806).
+- O golpe de velocidade de Dong Fang Chang Fan aumenta sua velocidade em 30%, mas só por tempo limitado (essência imortal finita) (cap. 804).
+- Qie Shi Min matou 13 cativos da tribo Dong Fang antes de conseguir fazer a vontade de Dong Fang Yu Liang escapar do controle por um instante (cap. 804).
 
-### Refino de Gu (sistema) — caps. 829–845, 859–862
-- **Taxa de falha natural** = colisão de traços de leis; sucesso normal: rank 6 imortal <1%, rank 7 = 0,1%, rank 8 = 0,01%.
-- **Refino natural dos hairy men (Yu Mu Chun):** usar os dao marks do próprio mundo como "útero" do refino (local escolhido por astrologia/veios); taxas: 40% (r6) e 5% (r7); atrai tribulações; humanos refinam isolados = "ganho de curto prazo".
-- 4 killer moves lendários de processamento de materiais: slumbering lightning python, reflect snow, muffled thunder stone drum, wind grind (processam instantaneamente materiais como earthly limit astral qi que levariam meses/anos).
-- **Flesh body blood refinement** (criação de FY): usar o próprio corpo/circulação de sangue como caldeirão para dissolver materiais intratáveis.
-- Reverse-refining: desmontar Gu em materiais; modificação de receitas exige attainment do caminho + inspiração (wisdom Gu contorna).
+## E) Locais e atividades
 
-### Relocação de blessed land (Immortal Aperture Transplantation) — caps. 887, 900–902
-- Killer move incompleto de **Old Immortal Kong Jue** com **16 Immortal Gu núcleo** (recorde do texto): transplanta a abertura de um imortal morto para dentro de um desolate/ancient desolate beast; requer 2 formações deduzidas sob medida (8 núcleos na blessed land + 4 no corpo da besta).
-- Limitações: a besta carrega o mundo como um fardo (velocidade <50%), não pode ser guardada em abertura nem receber ajuda de Immortal Gu; a besta MORRE ao final (vira polpa); a blessed land sofre terremotos internos e perdas; distância limitada. Aluguel do conjunto de Gu por Lang Ya: 2.000 pedras de essência + 2 Immortal Gu de garantia.
+- Tai Qiu (profundezas): zona proibida dentro de zona proibida; onde jaz o corpo do morcego em ruínas imemorial, escolhido por Dong Fang Chang Fan como terreno de herança por eliminar feras desoladas ao redor com sua presença (cap. 784).
+- Terreno de herança da tribo Dong Fang: corpo do morcego em ruínas com "salas" ilusórias criadas por marcas dao espaciais; formação final pode ser transportada depois para a terra abençoada da tribo Dong Fang (cap. 788).
+- Jade Pool blessed land: terra abençoada principal (sede) da tribo Dong Fang há milhares de anos; formada por muitas poças/lagos ("jade pools") cada uma cultivando um recurso diferente — inclusive espécies aquáticas e plantas famosas em todo o Céu Amarelo do Tesouro; uma poça guarda água oleosa (oil water) que se regenera sozinha com qi da terra + reposição de água limpa (cap. 795–796).
+- Dark Flow Giant City: sede da Aliança dos Zumbis nas Planícies do Norte — não é uma terra abençoada, é uma cidade comum (por causa da limitação das aberturas de zumbis, ver seção C) (cap. 795).
+- Captivating sea: área restrita de Jade Pool blessed land, floresta de pessegueiros ilusórios sobre um "mar" de gramíneas e flores, esconde o acesso a Miniscule Mountain (cap. 798, 801).
 
-### Sorte (luck path) — caps. 822–824, 833
-- Time Assist Luck: mata cativos (rouba lifespan) → pilar de luz que infla a sorte por ~1 mês; backlash: as almas rancorosas atacam a alma do usuário (batalha de almas sem Gu, cura proibida) — mas a alma sobrevivente sai "forjada".
-- Sorte é relativa à força: um pensamento assassino de um imortal faz a sorte de mortais (arco-íris de Zheng Shan Chuan) vacilar; influenciar um imortal exige muito mais sorte que influenciar mortais; Fortune Rivalling Heaven não salva Ma Hong Yun nas mãos de um rank 8.
+## F) Golpes matadores e receitas
 
----
+- **Mão gigante / Myriad self (Fang Yuan)**: golpe do caminho da força; múltiplas mãos gigantes simultâneas (até 8), fortes mas lentas — fácil de esquivar por quem tem alta mobilidade, mas devastadoras contra o que agarram (cap. 786, 788).
+- **Entangled Wind (Lu Qing Ming)**: golpe matador imortal — bate as mãos, gera dezenas de milhares de lâminas de vento que se agrupam em massa e podem ser separadas/reunidas por vontade do usuário mesmo em pleno voo (cap. 785).
+- **Vine dragon (Unfettered Scholar)** e **Water lotus (Pi Shui Han)**: golpes usados para interferir no Entangled Wind de Lu Qing Ming numa disputa entre imortais do caminho demoníaco (cap. 785).
+- **Life Chasing Fire (Old Lord Can Yang)**: golpe matador que rastreia a aura do alvo pelo próprio ataque dele até a fonte, queimando diretamente a abertura imortal do alvo; alimentado por força vital — curar-se ou repor força vital só piora o fogo; extingue-se cortando a parte queimada ou com métodos específicos (ex. Thousand Disintegrations usado em si mesmo); não afeta zumbis imortais (abertura com pouca força vital) (cap. 791).
+- **Final Afterglow (Old Lord Can Yang)**: barreira de luz quase invisível que não bloqueia mas enfraquece drasticamente qualquer ataque que a atravesse (cap. 790).
+- **Flood Glacier (Pi Shui Han)**: água + gelo — onda gigante que congela em geleira colossal, esmaga com peso e frio (cap. 790).
+- **Thousand Disintegrations (Unfettered Scholar, clã Chen, caminho das regras)**: ataque e defesa em um — desintegra praticamente qualquer elemento místico atingido, inclusive usável em si mesmo para se curar de efeitos como o Life Chasing Fire (cap. 790–791).
+- **Myriad Star Fireflies (Dong Fang Chang Fan)**: golpe matador mais famoso do caminho da sabedoria — enche o céu de incontáveis luzes-vagalume, cada uma carregando um "pensamento estelar"; mesmo destruída a luz, o pensamento tenta invadir a mente do alvo; pode confundir, entorpecer ou (no pior caso) substituir totalmente a cognição do alvo, transformando-o em fantoche do usuário (cap. 793).
+- **Pulling Mountain (Fang Yuan)**: arranca uma montanha inteira (incluindo raízes presas ao solo por marcas dao) para fora do chão (cap. 790).
+- **Big to Small (Gu Imortal miniman)**: encolhe/enfraquece qualquer golpe que se aproxime de Miniscule Mountain ou de seu portador — contra-ataque de regras superior (cap. 801).
+- **Fading Heavenly Flower** e **Ice Dragon Lock**: golpes matadores de rank sete usados por Gu Imortais demoníacos não identificados no ataque coordenado contra Dong Fang Chang Fan (cap. 801).
+- **Split Shadow (Dong Fang Chang Fan)**: cria até 30 clones idênticos e indistinguíveis para despistar múltiplos perseguidores numa fuga — cada clone se desfaz sozinho depois de um tempo (cap. 804, 806).
+- **"Estrela sniper"**: uma variação letal do Myriad Star Fireflies — um único raio de luz estelar concentrado, rápido o bastante para atravessar a cabeça de um Gu Imortal (matou Qie Shi Min com um único golpe) — mostra que o golpe pode ser usado como assassinato cirúrgico, não só como nuvem de área (cap. 804).
 
-## C) Regras do mundo (fatos mecânicos)
+## G) Achados soltos
 
-- Vontades (wills) podem mentir; land spirits nunca mentem — e revelam involuntariamente seus planos em voz alta (784, 786, 880).
-- Phantom beasts nascem apenas em locais ricos em dao marks de espaço; intangibilidade temporária (curta nos comuns, longa nos desolate); ao rematerializar com algo dentro do corpo, engolem-no (785).
-- O caminho fantasma dos Gu Masters foi inspirado nos phantom beasts por Xu Wu Xie (785).
-- Formação-fantasma: Gu worms da formação ficam intangíveis sem perder função — formação exposta e ainda assim indestrutível (788).
-- Cada immortal killer move tem forças e fraquezas; giant hand é forte e lento (786).
-- Enslavement, wisdom e soul path são "quase da mesma origem" (785, 870).
-- As cinco regiões são hostis a forasteiros; a aura regional denuncia a origem (786, 792).
-- Star Constellation, criadora do wisdom path, deduziu eventos por 1 milhão de anos após a morte; DFCF deduz ~100 anos após a própria morte (787).
-- Immortal aperture origin core = fundação da abertura; extraí-lo faz a abertura regredir e definhar o imortal (788).
-- Sangues próximos (mesma linhagem) fundem; origin cores da mesma linhagem podem se somar (788).
-- Possessão de Gu Immortal exige cultivo superior ao do alvo; a abertura resultante é a do alvo (789).
-- Possessão ideal requer contato prolongado prévio da alma com o corpo-alvo (827).
-- Life chasing fire: rastreia auras até a abertura imortal pela linha do ataque; usa a força vital como combustível — curar-se alimenta o fogo; counter: cortar a parte queimada / suprimir a força vital / disintegrar (790–791, 795); zumbis quase imunes (abertura morta) (791).
-- Immortal essence de zumbis só vem de conversão de immortal essence stones — não é produzida (818, 899).
-- Rank 7 usa red date immortal essence; rank 6 usa green grape (790, 793).
-- Tribulações podem esconder tribulações dentro de si (Fluctuating Light, Falling Star Lightning) (792).
-- Desde que Red Lotus quebrou o destino, "o destino dos vivos está nas próprias mãos" — mas atos de desafio ao céu (reviver, ascensão de zumbi) multiplicam a tribulação (792, 857).
-- Blessed lands públicas = retalhos doados por vários imortais; dao marks mistos anulam-se → defesa fraca; ficam no chão absorvendo earth qi, retardando tribulações (795, 821).
-- Blessed lands podem engolir outras blessed lands (requisitos estritos); retalhar e somar é fácil (795).
-- Terrenos lendários (Miniscule Mountain, Dang Hun Mountain) exigem earth qi constante; guardá-los numa abertura imortal desequilibra o qi interno (798–799).
-- Variant humans: cada raça nasce com dao marks inatos — hairy men (refino), rockmen (subterrâneo/minério), minimen (madeira/plantio), feathermen (nuvem/voo), snowmen (frio), inkmen (conhecimento), beastmen (transformação/ferocidade, extintos) (798, 860, 871, 886, 912).
-- Só existe UM beast enslavement Immortal Gu no mundo; todos os caminhos têm sucedâneos piores (797).
-- Bestas criadas em blessed lands não carregam Immortal Gu — os imortais os confiscam (797).
-- Wolves guardam rencor profundamente; feras no cio resistem à submissão (797).
-- Um imortal que morre deixa a abertura virar blessed land独立 com (ou sem) land spirit; matar "completamente" não deixa obsessão → sem land spirit (806, 897).
-- Land spirit = obsessão + poder celestial; sem alma (imune a soul path), sem mentira, condição de posse fixa mesmo que absurda; cumprida a condição, lealdade eterna (850–851, 880, 897).
-- Um mesmo morto pode gerar DUAS obsessões que se fundem num único land spirit de dupla personalidade (Lang Ya) (879).
-- Ao perder um membro, os dao marks vão para a abertura e voltam com a regeneração; na morte, todos migram para a abertura (850).
-- Immortal Gu são únicos; roubá-los é quase impossível — um pensamento do dono os autodetona (806, 819, 887).
-- Refinar Immortal Gu exige múltiplos conjuntos de materiais pela taxa de falha; DFCF no auge tinha só 8 Immortal Gu (820).
-- Dao marks amplificam Immortal Gu/killer moves do mesmo caminho; rank 8 tem amplificações de centenas/milhares de vezes — por isso r7 não vence r8 (820, 850).
-- Myriad star fireflies consome ≥16 dao marks de sabedoria POR USO (dao marks gastos não voltam) (818–820).
-- Dao marks se obtêm sobretudo passando tribulações; quanto mais forte a tribulação, mais marks (819).
-- "Cultivar Gu é cultivar Dao": Gu mortais = traços de lei; Immortal Gu = fragmentos de lei; blessed land = piscina de dao marks que apaga Gu mortais alheios (gota n'água) mas apenas enfraquece Immortal Gu (pedra n'água) (820–821).
-- Corpo imortal = corpo com dao marks; quanto mais marks o invasor tem, menos a blessed land o suprime; fragmentos de mundo com poucos marks EXPLODEM se um imortal denso entrar (ventos de assimilação destroem tudo) (821, 909).
-- Defesa de blessed land depende de: integridade, land spirit, essência, guardiões, Immortal Gu, killer moves, Gu Houses, imortais — mas tudo se resume à quantidade/pureza de dao marks (820–821).
-- Rank 6: calamidade a cada 10 anos, tribulação a cada 100; 30+3 = rank 7 (826).
-- Fluxos de tempo: Hu Immortal 5:1; Tai Bai 33:1 (12:1 quando plantada no chão); aberturas dos dez físicos extremos = fluxo altíssimo e tribulações mais fortes (814, 865, 903).
-- Lifespan de um imortal = tempo experimentado pelo corpo imortal (viver em blessed land acelerada envelhece mais rápido); Time Assist Luck = 1 uso por mês "corporal" (823).
-- Attainment levels (por caminho): ordinary → master → grandmaster → great grandmaster → supreme grandmaster; grandmaster = usa induções do próprio caminho para imitar outros; todos os imortais são ao menos flying masters (810).
-- Só 3 supreme grandmasters de refino na história: Old Eccentric Tian Nan, Old Immortal Kong Jue, Long Hair Ancestor (844, 899–901).
-- Soul search não transfere attainment levels; só explorar o dream realm da pessoa transfere (810).
-- Soul search desgasta a alma do alvo (precisa curar entre buscas) e agita a do usuário (só descanso/sono cura o usuário) (808).
-- Almas remodeladas (soul path) só se curam com métodos imortais — ou guts Gu (única exceção mortal) (808).
-- Buscar vontades (will search) ≠ buscar almas: exige técnica de especialista; vontades armazenam menos memória (fragmentos) e podem esconder memórias na própria estrutura (820, 830, 846).
-- Métodos de vidência têm counters: star fog concealment embaça deduções; dark limit faz o alvo ser ignorado; deduzir contra proteção custa lifespan do vidente (820, 886, 897).
-- Wisdom path: pensamentos, vontades e emoções diferem por quantidade, não qualidade; tipos de pensamento têm usos (malicious = conspirar, memory = lembrar, star = deduzir) (802, 817).
-- Immortal Gu Houses: fortaleza completa (ataque/defesa/movimento); mais imortais dentro = mais forte; incompletos são ativáveis a custo alto; feitos de poucos Immortal Gu + incontáveis mortais — repor mortais é fácil, o núcleo é o que importa (818, 884, 899).
-- Formações de batalha antigas: mais flexíveis que Gu Houses (killer moves individuais amplificados) mas exigem requisitos de composição e treino conjunto; extintas pela conveniência das Gu Houses (883–885, 905).
-- Battlefield killer moves = "quasi blessed lands": replicam dao marks temporários, isolam comunicação e fuga; usá-los DENTRO da própria blessed land é perigoso (conflito de dao marks = backlash/destruição) — Fairy Yu Lu contorna usando os dao marks da própria blessed land (872, 888–889).
-- Dentro de battlefield killer moves os Gu mortais dos invasores funcionam (diferente de blessed land) — mas o campo força gasto de essência (888).
-- Immortal killer moves de informação criam juramentos letais (quebrou, morreu; feathermen cristalizam) (866–869).
-- Killer move "delay" (Zhou Ye Zi): adia QUALQUER dano (até golpe fatal) por um período — mudou o rumo da guerra das 5 regiões (815).
-- Transformation path: cada transformação troca os dao marks do corpo; retransformar exige limpar os marks residuais com Gu adequados; transformar demais pode impedir a volta à forma original (877, 911).
-- Blood demon body separation: clone-isca perfeito ao custo de membro + dao marks de sangue do membro (perdidos para sempre) + essência para manter (850).
-- Refino de Gu falha aleatoriamente mesmo sem erro (colisão de leis); quanto menor o rank, mais fácil fundir traços (847).
-- Gu Immortals rank 8 lutam no white heaven (nove céus) para não devastar a superfície; estilhaços da luta matam ancient desolate beasts (813).
-- Northern Plains tem os imortais individualmente mais fortes das 5 regiões e a maior taxa de mortes; Central Continent tem mais rank 8; Eastern Sea tem mais recursos; Western Desert mais comércio; Southern Border = 100 mil montanhas (812, 819, 908).
-- Rank 9 = invencível; rank 8 nunca venceu um rank 9 (814).
-- "Fugitivos do destino" (fate escapees): matá-los acelera a restauração do fate Gu — Heavenly Court ordena caçadas (Song Zi Xing, Fang Zheng) (848, 857).
-- Heaven's will (vontade do céu) é material imortal e resiste — rank 8 de Heavenly Court já morreram capturando-a (885).
-- Heavenly Court só aceita humanos; variantes (mesmo supreme grandmaster como Long Hair Ancestor) são barrados (879).
-- Undercurrents marítimas formam rotas naturais ultrarrápidas; mapas delas são tesouros (894).
-- Sorte conectada divide ganhos igualmente entre os conectados (823).
-- Zumbis imortais: sem dor, sem paladar (Gu simulam), mente mais lenta, corpo resistente a veneno, abertura morta não aceita cadáveres de imortais (viram explosão) (816, 841, 892, 897).
-- Grotto-heavens têm dia/noite; blessed lands comuns não (Hu Immortal = só dia; Star Form = só noite) (851).
-- Colapso de grotto-heaven: fragmentos caem como meteoros; fragmentos frágeis só aceitam mortais (ou imortais de pouquíssimos dao marks) (908–909).
-- Não existem Immortal Gu selvagens em blessed lands habitadas — o dono os colhe (909).
-- Gu Masters mortais raramente veem um imortal na vida; imortais são lendas vagas (798, 819).
+- Old Lord Can Yang: Gu Imortal rank sete do Continente Central (seita Immortal Crane), infiltrado nas Planícies do Norte disfarçadamente para roubar a herança de sabedoria de Dong Fang Chang Fan; revelado como cúmplice do "traidor" da tribo Dong Fang — que no fim é o próprio Dong Fang Chang Fan possuindo o corpo do herdeiro Dong Fang Yu Liang (plot twist, cap. 788–789).
+- Star Constellation Immortal Venerable: criadora do caminho da sabedoria, da Era da Antiguidade Remota; após morrer continuou deduzindo eventos por mais de 1 milhão de anos, um feito que frustrou três futuros Demon Venerables e protegeu a Corte Celestial (cap. 788).
+- Old Lord Can Yang era top 5 em força de combate dentro da Immortal Crane Sect após virar rank sete; enviado especificamente para investigar o colapso do Eighty-Eight True Yang Building (cap. 791).
+- Clã Chen (Continente Central, caminho das regras): marginalizado pelo sistema de seitas do Continente Central, migrou para as Planícies do Norte, foi suprimido pela linhagem Huang Jin (força suprema do caminho reto) até quase se extinguir — Unfettered Scholar é o último talento restante (cap. 790).
+- A alma original de Dong Fang Yu Liang foi eliminada por Dong Fang Chang Fan durante a possessão; o corpo agora é inteiramente controlado por Dong Fang Chang Fan, que finge continuar sendo Yu Liang perante os demais imortais (cap. 793).
+- Como o passo final da purificação do véu de sangue foi pulado às pressas (para sobreviver à tribulação), a nova abertura de Dong Fang Chang Fan ficou contaminada pelas vontades/auras raivosas dos 8 Gu Imortais sacrificados — elas periodicamente tomam o controle do corpo e o fazem atacar aliados (inclusive Old Lord Can Yang) ou tentar suicídio, criando caos em pleno combate (cap. 794).
+- Dong Fang Chang Fan reteve de propósito os passos finais da técnica de possessão sem contar a Old Lord Can Yang, como seguro contra traição — e isso obrigou Can Yang a salvá-lo da morte por interesse próprio (cap. 794).
+- Divergência de linha temporal: na vida anterior de Fang Yuan, Dong Fang Yu Liang ficou por muito tempo como mero Gu Mestre rank cinco (indício de que a possessão falhou ou teve pouco efeito naquela linha); a destruição do Eighty-Eight True Yang Building e da Imperial Court blessed land por Fang Yuan nesta vida já mudou o destino da tribo Dong Fang (Dong Fang Yi Kong e Dong Fang Wan Xiu, mortos agora, sobreviviam na vida anterior) — Fang Yuan reflete que não é mais "uma borboleta", é "uma águia" (efeito cascata muito maior) (cap. 795).
+- Doutrina de Fang Yuan sobre guerra/estratégia: destruir os planos do inimigo é a melhor tática; depois, destruir suas alianças; depois, atacar tropas; por último, atacar cidades — ele usou a tática mais alta (dividir Pi Shui Han dos outros) para vencer sem lutar em Jade Pool blessed land (cap. 796).
+- Shark fin wolf (lobo-barbatana-de-tubarão): fera desolada anfíbia do tamanho de um elefante, armadura tipo crocodilo, barbatanas dorsais da cabeça à cauda, lenta mas resistente — usada por Fang Yuan como "escudo" em suas formações de lobo quando disfarçado de Wolf King Chang Shan Yin (cap. 797).
+- Pítons-dragão-de-fogo-macabro (eerie fire dragon python): fera desolada, até ~100m, escamas escarlate, chifre, olhos vermelho-sangue, língua roxa com fogo azul espectral; sangue/pele/tendões são materiais valiosos de refino Gu; vesícula biliar tem mercado no Céu Amarelo do Tesouro; normalmente vivem em pequenas famílias, mas a tribo Dong Fang tinha método para multiplicá-las em grandes ninhos coletivos (cap. 798).
+- Zhou Ping: Gu Imortal demoníaco menor (rank seis), especialista em voo/mobilidade — tem dois golpes matadores imortais tão rápidos que nem Unfettered Scholar, Hei Cheng ou Fairy Le Yao o alcançam; arquétipo de "hit and run" que negocia de igual para igual com superiores por não poder ser pego (cap. 800).
+- Elenco de Gu Imortais demoníacos nesta arco de saque: Divine Lord Tian Du, Shi Hou, He Ruo ("Peacock Flying Immortal"), Half Moon Brutemaster (caminho da lua), Qie Shi Min (caminho da escravização), Zhuo Zhan (martelo, monta javali voador) (cap. 793–802).
+- Fang Yuan usa abertamente a tática de saquear recursos durante a batalha coletiva contra Dong Fang Chang Fan, justificando (falsamente) que é "tática de guerra" para provocar erro do inimigo — outros demoníacos (Zhou Ping) tentam copiar e são punidos pelos líderes, evidenciando a falta de coesão do caminho demoníaco como uma fraqueza sistemática explorável (cap. 801–802).
+- Nome original de Dong Fang Chang Fan: **Dong Fang Guang Yao**. Foi forçado a trocar de nome como humilhação pública, após perder uma competição entre três tribos-força (Dong Fang, Meng e Gong) para um rival do mesmo "sangue de Giant Sun" — origem do rancor e ambição que moveram toda a vida dele (cap. 806, flashback).
+- Um misterioso mendigo de cabelo roxo reconheceu o potencial do jovem Dong Fang Chang Fan e lhe passou "sua herança mais importante" — identidade não revelada, gancho de lore em aberto (cap. 806, flashback).
+- Lenda de Ren Zu (<<The Legends of Ren Zu>>, o mesmo livro que registra Miniscule Mountain): Ren Zu sacrificou a própria filha por causa do seu **Self Gu** (autêntico desejo/natureza interior), na busca de deixar de ser "ordinário" — texto fundacional citado tanto por Dong Fang Chang Fan quanto pela vontade de Dong Fang Yu Liang na batalha de vontades; referência de lore importante sobre a raça miniman e sobre "Self Gu" (cap. 805, flashback).
+- Fang Yuan capturou Dong Fang Qing Yu (irmã de Dong Fang Yu Liang) como refém durante o massacre dos pontos de encontro da tribo Dong Fang, e a usa como alavanca final contra Dong Fang Chang Fan, arrancando seu braço para forçar a rendição — mesma personagem que, na linha temporal anterior de Fang Yuan, teria descoberto a verdade sobre a possessão do irmão e ajudado Ma Hong Yun por vingança (cap. 806).
 
----
-
-## D) Números e preços concretos
-
-- Ruin bat immemorial: força de rank 8; centenas de metros de corpo; asas cobrem vários li (784, 787).
-- Grupo de phantom beasts: ~1.000 por bando; um aperto de mão gigante mata centenas (785).
-- Fang Yuan: 20.000 fantasmas de força por braço (limite corporal); 8 braços → 8 mãos gigantes = 160.000 fantasmas (786, 791).
-- Dong Fang tribe: 8 Gu Immortals, todos rank 6 (787).
-- Old Lord Can Yang: top 5 de Immortal Crane Sect em força; final afterglow corta ataques a <50% (r7 flood glacier: −30%; tribulação: só −15%) (790–792).
-- Chen clan: hundred/thousand/myriad disintegrations = killer moves de rank 6/7/8 (790).
-- Tribulação de DFCF durou horas (15 min, 30 min, 1h, 2h...) e crescia (792).
-- Myriad star fireflies: dezenas de milhares de Gu worms; consome ≥16 dao marks de sabedoria por uso (793, 818–819).
-- Split shadow de DFCF: até 30 clones (806).
-- Fairy Li Shan: rank 7; Hei Lou Lan pós-perda: rank 6 middle tier (796).
-- Qie Shi Min podia elevar +50% a força das aves desolate (796).
-- Oil water: comum no Eastern Sea, raro no Norte/Oeste; só negociado em lotes gigantes no treasure yellow heaven (797).
-- FY estocou 5.000 kg (五千斤) de oil water (827).
-- Eerie fire dragon python adulta: ~100 m; FY capturou ~10.000 (798, 809).
-- Dragonfish de Jade Pool: 900.000 (quase 1 milhão), acumulados ao longo de ~100 anos; custo p/ colher: 4 gotas de green grape (800).
-- Fuga de Jade Pool: FY gastou TODAS as suas 77 gotas de green grape (810).
-- Regretful spiders: extorsão de 20% do colhido de outro imortal (798–799); Jade Pool tinha 3 criadouros: large cave toads = 3× os regretful spiders (808).
-- Miniscule Mountain: minimen do tamanho de um dedo; Fairy Li Shan matou 40% deles ao subjugar a tribo; batalha matou metade (798, 871, 886).
-- Peach wolves: ~30, cada um ≈ rank 6 (799).
-- 'Small' Gu do miniman: rank 7 vs Disintegrate rank 6 de Unfettered Scholar (801).
-- Qie Shi Min matou 13 cativos para provocar descontrole (804).
-- Time assist luck: 1×/mês; captivos de Dong Fang usados: 100–200 sobreviventes, dezenas gastos por uso; alma de FY caiu a 30% no backlash (810, 822).
-- FY: 137 immortal essence stones em estoque; lucro líquido mensal do guts Gu: 92 pedras → depois 300; total mensal com 6 fontes: >1.000; projeção com 8 fontes: ~1.500–2.000 (810, 900, 907–908).
-- 70 pedras → convertidas em green grape; 20 de reserva (810).
-- Herança de DFCF: centenas de receitas mortais, 10+ receitas imortais, dezenas de killer moves mortais, ~10 imortais (817).
-- Star thought Gu: dedução da fusão Pulling Mountain→Myriad Self custou 10.000 de 50.000 star thoughts, 3 dias (817).
-- 1 green grape via star thought Immortal Gu = 100.000 star thoughts (820).
-- Dao marks de FY: <200 de força (depois +40 via eat strength); 200 marks ≈ +20% de poder; star mark dá 600 (826, 852, 877).
-- Vaguely familiar face: consome vários dao marks de força POR USO (836).
-- Refinement Path Convention: inscrição 100 primeval stones; ronda 1: 100 water light Gu p/ passar; 150 = 5 kg phantom shadow petals; 180 = 6 bacias rootless water; 200 = 10 thunder strike wood; 240/260/276 = 3º/2º/1º; FY fez 277 (829).
-- Ronda 2 (Flying Frost): 10 ghost fire Gu simultâneos em <15 min = 1º lugar; prêmio: 5 receitas de Gu rank 3 de gelo (831).
-- Inscritos: centenas de milhares → 8.000+ passam a ronda 7 → ~400 com top-3 em todas → ~80 com 1º em todas; FY ranqueado ~30º (838).
-- 5 refinement grandmasters nesta edição; top 3 histórico = grandmasters ou quasi-great; FY (quasi-grandmaster) precisa de top 6 (838, 843).
-- Único refinamento: Zheng Shan Chuan levou 3 anos p/ 80% de sucesso no careful Gu (833).
-- Yu Mu Chun: começou a alimentar Gu aos 3 anos, r5 aos 16 com 90% de sucesso, recomeçou aos 22, sucesso menor aos 138, pleno aos 246; taxas: 40% em Immortal Gu r6, 5% em r7 (860).
-- Taxas normais de refino imortal: r6 <1%, r7 = 0,1%, r8 = 0,01% (860).
-- Success dao marks: 36 por ciclo; Heavenly Court leva 30, torneio dá 6; 1 mark = 1 refino r6 garantido (845, 847).
-- Twin ice heart: material de r7, 100× mais raro que ice heart comum (r6) (860).
-- Earthly limit astral qi pearl = 100 porções de astral qi; imortais levam meses/anos para processar uma; wind grind: 15 minutos (861).
-- Refino do Change Form: 12 thousand year bitter shells; centenas de immortal essence stones jogadas no caldeirão; 7 dias finais; FY levou 3 dias e 3 noites só na astral qi (859–861).
-- Custo do Change Form: quase todos os materiais do leilão + prêmios do torneio; 1 só conjunto de materiais graças ao success dao mark (858).
-- Vicious Lightning Fiend: 3 lightning deities; aposta 1.500 kg de hibiscus branches vs 600 fios de two-nine thunder heavenly qi (847).
-- Emboscada a Song Zi Xing: 20 imortais no total (16 visíveis + 2 rank 7 do Illusion Garden + 2 iscas); ele matou Dan Qiao, quase matou VLF, escapou perdendo o braço esquerdo e um violent blood dragon bat (ancient desolate, ≈ r7); pursuit de Myriad Dragon Dock no passado: 8 perseguidores → 4 mortos, 3 aleijados, 1 recuado (847–850).
-- Blood demon body separation do braço: <10 gotas de essência investidas (por isso capturável) (850).
-- Song Zi Xing sumiu 200 anos e voltou com 3 violent blood dragon bats (vida anterior) (850).
-- Blood mist do braço: cobriria centenas de li e geraria blood beasts por séculos (850).
-- Zheng Shan Chuan: curou o mestre aos 53 anos, grandmaster aos 88, fundou Shan Chuan Hall no fim da vida, morreu aos 150 (835).
-- Immortal Crane Sect: sect leader é rank 5 (mortal) (828).
-- Fang Zheng: aptidão grau A, rank 5, elder mais jovem da história da seita (827, 840).
-- Hu Immortal: 7ª calamidade (blood poison kerria: florescem e murcham em 10 respirações, viram poça de veneno); só wood path counter (824).
-- Tai Bai blessed land: 4.700 km²; alto grau; 33 dias internos por dia externo (12:1 plantada) (865).
-- Feathermen de Sacred Feather City: dezenas de milhares; 3 Gu Immortals (1 r7 + 2 r6); batalha de 3 dias e 2 noites; TODOS os mortais suicidaram-se (864–869).
-- Duelo com feathermen: 10 rodadas; cada vitória = 10% do povo (866).
-- Lang Ya: 12 cloud buildings; 12 desolate beasts; na 4ª onda restavam 5 prédios; herança: Long Hair Ancestor refinou 38 Immortal Gu oficiais (r7 e r8 inclusos; rumores: 100+); na vida anterior Lang Ya resistiu a 7 ondas e Feng Jiu Ge morreu lá (872, 886).
-- Shadow Sect infiltrou 3 hairy man Gu Immortals em Lang Ya (2 expostos; +300 anos p/ repor) (885).
-- Heavenly Giant Solor: gigante de prata de dezenas de metros, 3 cabeças e 6 braços; um golpe de 4 giant hands custou 100 gotas de essência do grupo (883, 885).
-- Lang Ya pediu 2.000 immortal essence stones + 2 Immortal Gu de garantia pelo aluguel dos 16 Gu de relocação (900).
-- Multa de FY a Song Yi Shi: 600 immortal essence stones (à vista; parcelado seria 100+120+140+... em 6x crescentes) (893, 907).
-- Poetic emotion sea: 4M km²; shark sea: >3M km², 46º ranking (893–894).
-- Song clan: 18 Gu Immortals públicos; 1º supremo Song Qi Yuan é rank 8 (899).
-- Xue Song Zi: morto com um tapa após deixar o ice armor detonado (874).
-- FY em battles of wills: perdas de 100:1 → 4:1 contra Mo Yao (846).
-- Custos de dedução da relocação: 160.000 star thoughts + 66 gotas de essência, 7 dias e 6 noites; formações: 8+4 núcleos, 16 Immortal Gu (900–901).
-- Yao Ge Pi land spirit: pede 100.000 immortal essence stones + materiais r7/r8 + sangue fresco de Genesis Lotus Immortal Venerable (897).
-- Snow monsters: 30 pés ≈ r3, 40 pés ≈ r4, 50 pés ≈ r5, 60 pés = desolate beast (888).
-- Fighting soul battlefield: 7 min até ancient soul beasts; desmonte estimado: ≥30 min; dezenas de milhares de Gu escondidos; contagem final: 178 pontos restantes (898, 904–905).
-- FY destrói 7–8 Gu escondidos por golpe (antes 5–6); Ninth Ghost Finger ligeiramente menos; Xie Shu Fang: ~100 por golpe (immortal killer move) (904–905).
-- Preço de Xie Shu Fang: 1 Immortal Gu do espólio (905).
-- Bo Dan subornou Su Bai Man com medicine ice (material r8) do tamanho de uma palma (893).
-- Starry Sky fragment: FY colheu ~600.000 dragonfish comuns + 1 desolate dragonfish (na vida anterior Dong Fang tinha ~900.000) (911).
-- Exploração dos fragmentos: 7 dias e 7 noites de disputa entre as 10 seitas; cada seita levou 5 Gu Masters (rank 5, um rank 4 pico) (909–910).
-- Feng Jin Huang: 3 dias para explorar o dream realm antes de entregar a área (911).
-- Wei Wu Shang: r4 médio → r4 pico elevado artificialmente pela seita (909).
-- Hairy men mortos por mês nos stone nests: ≥100 (815–816).
-- 4 refinement path experts do Norte: Yao Huang, Murong Xue Xiang, Lady Wan Shou, Lady Miao Li (quasi-great grandmaster+) (844).
-- 3 sábios de wisdom path do Leste: Song Jia Dan (twin polar), Hua An (Nan Gong), Dragon Head Tortoise (adversity sea) (899, 903).
-- 6 grandes belezas dos Gu Immortals do Leste incluem Song Yi Shi e Seven Seas Snake Woman (894, 896).
-- Ascensão de Fairy Lian Xiang (zumbi dos dez físicos): tribulação ≈ grand tribulation de rank 7, +10x mais forte que ascensão normal do físico extremo (857).
-
----
-
-## E) Locais e o que se faz neles
-
-- **Tai Qiu (profundezas)** — zona proibida em torno do cadáver do ruin bat; terreno da herança de DFCF; caçada de demônios; batalha da possessão (784–794).
-- **Jade Pool blessed land** — QG público da Dong Fang tribe (milênios); centenas de piscinas-tesouro: oil water auto-regenerante, ninho de eerie fire dragon pythons, regretful spiders (50–60 piscinas secas), literature carps (dez+, viram text qi), air bubble fish (incubadoras de Gu), 900k dragonfish, captivating sea (florestas de pêssego ilusórias + peach wolves + Miniscule Mountain), large cave toads, ten thousand li zhi horse, salt bed de profound grey salt (guardado por grey life jellyfish ancient), desolate jade, canine pool (moon fangs sob luar), flying frost antelope, hidden dragon beard, wind whistling bronze; ciclo 3 dias claros/1 noite (795–803, 808).
-- **Snowy Mountain blessed land** — QG demoníaco nº 1 do Norte; picos por dono; 1º pico = Old Ancestor Xue Hu (grotto-heaven r8); refino do Fortune Rivalling Heaven; duelo r8 (3 contra 1) no white heaven; missões de coleta de materiais imortais (concealing heaven dust r8 do yellow heaven, rock dragon eye r7 de cemitérios rockman, elephant tusk flame r7) (812–814, 871).
-- **Hu Immortal blessed land** — base de FY: Dang Hun Mountain (guts Gu), 3 stone nests industriais, dragon scale lake (dragonfish), jade root lake (air bubble fish + céu de star fragment grass), charcoal lake (pythons), centenas de lagos de sangue-veneno (blood sickle grass/red axe flowers/blood stripe foxes), criadouro de regretful spiders, prisões (Fang Zheng, almas), blood zhi forest com o wisdom Gu (809, 824–827).
-- **Star Form blessed land** — espólio de Star Lord Wan Xiang; formato de tigela, só noite; arrow bamboo forest (star dart Gu), meteorite pits, broken star lake, campos de star fragment grass; 3 Immortal Gu; realocada por FY p/ 2 camadas mais fundo no Earth Abyss; projeto de sistema hídrico 3D com cloud soil (851–852, 901–902).
-- **Earth Abyss (Abismo da Terra / fenda subterrânea de Central Continent)** — camadas inexploradas além do alcance da Ancient Soul Sect; desolate/ancient beasts no escuro; esconderijo ideal de blessed lands (851, 901).
-- **Lang Ya blessed land** — céu de cloud soil + (revelado) mar com 3 continentes de milhões de hairy men; Refinement Cauldron embutida; Heavenly Essence Treasure Imperial Lotus; pós-guerra: relocada, Lang Ya Sect fundada (12 cidades-nuvem, 3 reinos em guerra seletiva) (872–887, 900).
-- **Luo Po valley (Norte)** — base da Shadow Sect; nutre um Immortal Gu crucial; cerco de Feng Jiu Ge vs Qin Bai Sheng (Hundred Million Slaughterfield vs Heaven and Earth Song) (885–886, 898).
-- **Yu Lu blessed land (Eastern Sea)** — ex-grotto-heaven da 2ª discípula de Paradise Earth; "masmorra" de battlefield killer moves em rondas; alvo de investimento da Zombie Alliance (818, 888–905).
-- **Shark Sea** — domínio de Shark Demon; palácio submarino; shark fishing banquet (capturar tubarões-presente em 7 min) (892–893).
-- **Yellow spring sea / Undying Kingdom** — mar amarelo sem vida no centro, zumbi-fauna; QG da Zombie Alliance matriz: montanhas de ossos, salões de missões (906).
-- **Poetic emotion sea + vulcão submarino** — domínio de Song Yi Shi; fonte termal no topo do vulcão (banho da fairy); rio de magma com fire lizards e insetos-Gu; corrente oculta ligando à ilha de Li clan village (894–895).
-- **Twin polar sea strait** — nevoeiro perpétuo; Song Jia Dan fundido ao penhasco (vidente do clã, acesso por token) (899).
-- **True Yang mountain range (Central)** — cordilheira selvagem: caçada a Song Zi Xing; refino natural de Yu Mu Chun (monte de dao marks de rule path); esconderijo pantanoso de Song Zi Xing (blood pool + blood fetus); caverna com hibiscus stalactite (pinga 1 gota de stone heart liquid r8/ano — segredo de Bo Qing/Mo Yao, hoje ocupada por Spirit Affinity) (846–850, 858–863).
-- **Five Virtues Sect / Flying Frost Sect / Hearing Wave Pavilion / Demon Expelling Sect (An Zu Earth Trench)** — locais de inscrição e rondas do torneio; Flying Frost = seita fundada sobre ilha de gelo profundo encalhada (828–841). *(Nota: o "Earth Trench" citado no trecho é An Zu Earth Trench, sede da Demon Expelling Sect.)*
-- **Hairy Foot Mountain → Infallible blessed land** — montanha-fachada; blessed land selada sem entrada; colheita centenária de success dao marks (845).
-- **Heavenly Court (White Jade Palace / Heaven Overseeing Tower)** — vontades de 20+ rank 8 semi-adormecidos; formação de refino que imita a Refinement Cauldron; restauração do fate Gu (fase 2: capturar heaven's will) (845, 879, 885).
-- **Sacred Feather City / fragmento do green heaven** — cidade-Immortal Gu House voadora dos feathermen; eleição de rei por torneio; invadida por White Sea Shatuo; a cidade (vazia) foi o espólio (864–865).
-- **Ascending Heaven Plain (Eastern Sea)** — herança de Old Eccentric Tian Nan; disputa centenária entre Song clan, Cai clan e Ruo Lai clan (899, 907).
-- **Fragmentos do Starry Sky grotto-heaven** — caíram 200–300 anos antes do "previsto"; zona proibida de mil li das 10 seitas; corrida de discípulos mortais por recursos (dragonfish, hidden essence turtle, nether grass) + manifestação do dream realm de Star Constellation no centro (908–912).
-- **Dark Flow Giant City** — QG da Zombie Alliance do Norte (795).
-- **Impassable dunes (Western Desert)** — uma das 7 maravilhas: centenas de milhares de dunas migrando em rota fixa, intransponível até para rank 8; caça de hidden sand spider queens pela Xiao clan na borda (836–837).
-
----
-
-## F) Golpes matadores e receitas explícitas
-
-### Killer moves (imortais, salvo indicação)
-- **Myriad Self / Giant Hand (FY)** — exército de fantasmas de força; mãos gigantes (20k fantasmas/braço, até 8); núcleos: Self Strength + Pulling Mountain + Pulling Water (+ soul path mortais que capturam a alma da vítima esmagada — segredo) (786, 826, 846, 870).
-- **Vaguely Familiar Face (FY)** — disfarce total (aura regional, aparência, raça); núcleos: Eat Strength + Change Form + Star Mark; custo: dao marks de força por uso; falha: sangue derramado revela sangue de zumbi (836, 843, 876, 903).
-- **Star cloud grindstone / star snake rope / six illusion star bodies / position star swap / star fire escape / projected star thought / star premonition / spring star rain (FY, herança Wan Xiang)** — defesa-moedor, captura, 6 corpos ilusórios renováveis, troca de posição com ilusão, fuga em chama estelar, investigação, chuva nutriz (876–877, 895–896, 902, 911).
-- **Poison Spit (FY)** — cuspe venenoso, núcleo Woman's Heart; matou Zheng Ling em conjunto com giant hand (867).
-- **Unravel Dream (FY)** — exploração de reinos de sonho via Unravel Mystery (887, 911).
-- **Time Assist Luck (de Fairy Li Shan)** — sorte por lifespan alheio; backlash de almas (822–823).
-- **Delay (Zhou Ye Zi)** — adia dano/backlash (inclusive de quebra de aliança) (815).
-- **Myriad Star Fireflies (DFCF)** — campo de vagalumes-estrela; cada luz contém um star thought; pensamentos dos inimigos alimentam o golpe (quanto mais inimigos pensam, mais forte); converte mentes dominadas em marionetes; fraco em 1×1; núcleo: 3 Immortal Gu de sabedoria; consome ≥16 dao marks/uso (793–794, 818–819).
-- **Star fog concealment (herança DFCF)** — véu contra deduções (efeito ~dark limit); núcleos: Star Thought + Unravel Mystery (820, 904).
-- **Life Chasing Fire (Old Lord Can Yang)** — fogo rastreador de aura que queima a abertura imortal; alimenta-se da vida (790–791).
-- **Final Afterglow (Can Yang)** — véu que corta o poder de ataques pela metade (790).
-- **Thousand Disintegrations (Unfettered Scholar)** — desintegra elementos místicos; ofensivo e defensivo (790).
-- **Flood Glacier (Pi Shui Han)** — tsunami que congela em geleira; >10.000 Gu ativados (790).
-- **Big to Small (miniman)** — rule path, encolhe/enfraquece ataques; núcleo 'Small' r7 (801).
-- **Entangled Wind (Lu Qing Ming)** — dezenas de milhares de lâminas de vento controláveis (785).
-- **Blood veil / formação de possessão (DFCF)** — ver §B; núcleo Wisdom IG + Menses Blood IG (788–793).
-- **Blood Demon Body Separation (Song Zi Xing)** — clone-isca por membro + dao marks (850).
-- **Blood Rainbow Flash (Song Zi Xing)** — top 10 de velocidade; **Heart Blood Premonition** — pré-cognição de perigo via sangue; **Blood Tu Su** — battlefield de mar/nuvens de sangue, isola socorro (848–849).
-- **Five Finger Fist Heart Sword (Bo Qing, via Qin Bai Sheng)** — postura de punho erguido; 5 dedos = 5 luzes-espada ultrarrápidas (881, 898).
-- **Heaven and Earth Song / Green Jade Song / Submission Song (Feng Jiu Ge)** — som: esmagar com a vastidão do céu-terra; "jade" a transformação (transforma transformados em jade); submissão canta NA MENTE e vira desolate/ancient beasts para o lado do cantor (886, 898).
-- **Soul Suppression (Qin Bai Sheng)** — esmaga pela diferença de fundação de alma (um golpe = 1 imortal morto); inútil contra land spirits (sem alma) e contra formações que somam almas (880, 883, 886).
-- **Burning Soul Supreme Gold (Qin Bai Sheng)** — sol dourado ofensivo-defensivo (soul+metal); **City Crushing Hammer** — martelo dourado gigante (881, 883).
-- **Soul Taker Battlefield / Hundred Million Slaughterfield (Spectral Soul, jovem/velho)** — converte almas vivas em soul beasts / campo de matança superior; **Fighting Soul Battlefield (Paradise Earth)** — gera soul beasts do nada (898).
-- **Freezing rain frozen earth / vanishing immortal essence dissipation rain / raindrop equity / eight doors labyrinth (Fairy Yu Lu)** — ver §B (818, 888–905).
-- **Heavenly Wish (feathermen)** — desejos coletivos de dezenas de milhares canalizados por Gu House → teleporte de emergência da tribo; sem a Gu House, exige tempo+essência demais (865, 903).
-- **Wind Escape / Death Wind Flying Blade (Hui Feng Zi)** — fuga em vento (fugiu de Yao Huang, r8); lâmina que corta um prédio-Gu (877).
-- **Transformações de He Lang Zi** — fragrant sorcerer yin statue wolf (velocidade 3×, fere almas), lightning flash giant wolf (poder bruto); troca de forma exige killer move que limpe os dao marks residuais (876–877).
-- **Cleanse Sky / Great Thousand Spears / Triple Desolation / Lightning Chaotic Starfire / Yellow Wood Rustling / Ruined Blood Flying Dust / Slaughtering Immortal Guillotine / Shattered Ice Armor / Mixed Hole Drill / Wishful Shadow Sword (Lang Ya land spirit)** — rajada multissetorial de killer moves de caminhos diversos (arsenal de Long Hair Ancestor) (880).
-- **Distinct Map (Xie Shu Fang)** — mapa 3D do campo; esmagar pontos à distância através de paredes (905).
-- **Wind grind / slumbering lightning python / reflect snow / muffled thunder stone drum** — os 4 supremos de processamento de materiais (861).
-- **Immortal Aperture Transplantation (Old Immortal Kong Jue)** — 16 Immortal Gu; relocação de blessed lands (901).
-- **Stream Veil (Song Yi Shi)** — véus de água que capturam (superou star snake rope) (895).
-- **Ice trace / penetrating ice blade / cold condensed snow / ice heart lock / ice armor detonável (kit de Qin Bai Sheng p/ Xue Song Zi)** (874).
-- **Mad deity's blazing flames (Firesmith Dragon Chief)** — trunfo de refino a fogo; **Spinning Golden Bell (Zheng Shan Chuan)** — refino: moe 6 materiais de uma vez; **Small wishful hand / double action / ink transformation (Feng Jin Huang)** — mãos de vontade que dosam materiais; ink transformation tem fraqueza à luz reveladora (834, 840, 853–856).
-- **Nine shine (mortal, Zheng Shan Chuan)** — 9 tipos de shine Gu subjugam todos os venenos; evoluiu p/ **profound light nine shine** (imortal, Shan Chuan Hall) (833).
-
-### Receitas/refinos explícitos
-- **Change Form (rank 6):** caldeirão = casco invertido de tartaruga desolate cheio do sangue-veneno das blood poison kerria; ghost fires como fogo; 12 thousand year bitter shells dissolvidas uma a uma (odor como indicador de ponto); earthly limit astral qi dissolvida por circulação corpo-caldeirão (flesh body blood refinement, 3 dias); sacrifícios vivos em massa (bestas, variantes — hairy men, rockmen, snowmen, inkmen, eggmen, feathermen, mermen — e Gu Masters humanos) para repor o volume; centenas de immortal essence stones; 7 dias finais; sucesso garantido pelo success dao mark (859–861).
-- **Star thought Gu (modificada):** pilar de starlight do Starlight IG dividido em fios azuis → 7 salas/7 etapas por hairy man → estoque; 1 ativação = 8–9 dias de matéria-prima (862).
-- **Refino em par de sangue:** 2 gotas de sangue da ponta da língua → par de Gu rank 4 vinculados, em segundos (blood path) (835).
-- **Possession formation:** ver §B (788–789).
-- **Keep silent Gu:** reverse-refining dos Gu fornecidos p/ gerar materiais que faltam (841).
-- **Água-fogo (water-fire refinement):** usar fogo num Gu de água (inverter o método esperado) rendeu o recorde da ronda 1 (830).
-- **Refino natural (Yu Mu Chun):** tornados como moedor (wind grind), local escolhido pelos dao marks do terreno, materiais lançados "a olho"; atrai tribulação como parte do processo (860–861).
-
----
-
-## G) Achados soltos para um designer de RPG
-
-- **Vontades mentem, land spirits não** — e o land spirit hairy man declara os próprios planos em voz alta sem querer: NPC de comédia mecânica pronta (880, 882).
-- Duelos com **regras negociadas cheias de brechas** (feathermen "no chão"; ataques rank-limitados; defesa raio 1 m) são minijogos completos de "advogado de regras" (866–868, 855).
-- **Economia como progressão**: o poder de FY cresce por fluxo de caixa mensal (92 → 300 → 1.000+ pedras), não por XP; toda decisão é custo-benefício em essência imortal (810, 900).
-- **Refino como esporte de espectadores**: transmissões em massa (real-time broadcast), casas de informação vendendo rankings e odds (Lightning Information Sect), fama como recurso (838–839).
-- O martial duel de refino (ataques limitados por rank + guerra psicológica com ghost fires "estacionados" fora do alcance de defesa) é um sistema de duelo não-violento riquíssimo (853–856).
-- **Success dao mark** = "recurso de rerol garantido", intransferível e disputado por um torneio inteiro — ótimo gancho de campanha (845).
-- **Calamidades como fase de construção de base**: escolher o que deixar na blessed land para "pescar" a calamidade do caminho desejado e colher dao marks — jardinagem de desastres (825–826, 865).
-- **Calamidade viva**: refugiados sencientes caindo na sua base COMO a sua calamidade — dilema moral mecanizado (Tai Bai quase poupa os feathermen; todos se suicidam por liberdade) (866–869).
-- Feathermen = cultura de "liberdade ou morte" com killer move de desejo coletivo; o assassino featherman que cortou as próprias asas é um vilão memorável (869–870).
-- **Ancient battle formation vs Immortal Gu House**: trade-off flexibilidade × conveniência; a formação exige composição e treino do grupo = mecânica de party ideal (883–885, 905).
-- **Battlefield killer moves como dungeons em camadas** (Yu Lu): cada ronda tem gimmick próprio (dreno de recursos, horda com timer, labirinto 8×8 com entradas limitadas) (888–905).
-- **Desmontar um campo = skill-challenge de "hacking"**: achar e destruir Gu ocultos contra o relógio, com armadilhas que fortalecem o campo se destruídas na ordem errada (889–891).
-- FY **finge incompetência e sabota o próprio grupo** (framing de Bo Dan) para administrar expectativas — social engineering como mecânica (890–891).
-- **Sistema de infiltração**: matar um zumbi e roubar a identidade exige battlefield killer move para isolar a vítima (fuga + pedido de socorro são os obstáculos reais) (872).
-- **Mapa de correntes submarinas** = fast travel comprável/perecível (rotas mudam a cada earth tide) (894).
-- **Shark fishing banquet**: minijogo social de 7 minutos que também mede o poder dos convidados (892–893).
-- Vidente fundido ao mundo (Song Jia Dan) que detecta qualquer um NA REGIÃO — contramedidas viram corrida armamentista de sigilo (897, 899, 903).
-- Deduções custam lifespan quando forçadas ("sem poupar lifespan, deduziu Luo Po valley") (886).
-- **A lenda de Ren Zu como texto sapiencial recorrente** (abismo ordinário/árvores de realização; o miniman que chora ao ver a giganta; feathermen e o freedom Gu) — mitologia utilizável como oráculo de mesa (807, 870, 886).
-- Butterfly effect explícito do renascido: cada intervenção apaga vantagens de conhecimento futuro (Li Xiao Yao apagado da história; Starry Sky caiu 200–300 anos antes) — ótimo para campanhas com viajante do tempo (795, 908).
-- **Possessão como ritual de vilão** com contagem regressiva sabotável (matar parentes do corpo hospedeiro induz descontrole) (802–804).
-- Reviver de zumbi tem um MENU de soluções, todas caras: ascensão dos dez físicos extremos (blood skull imortal), possessão, transformação+Everlasting, pesquisa da Zombie Alliance — árvore de quests alternativas (857, 862, 906, 911).
-- Qin Bai Sheng esconde nível real e mata um rank 6 num gesto — "boss cuja ficha o grupo leu errado" (878).
-- Almas capturadas viram **enciclopédias interrogáveis** (soul search em sessões, com cura entre elas) e depois moeda/ferramenta (Dong Fang Chang Fan como "consultor" recusado) (808, 887, 903).
-- A herança wisdom path é literalmente um **"manual do jogador" in-game**: enciclopédia de tribulações, mapas de recursos, análises de facções, contramedidas por caminho (817).
-- Regra de ouro demoníaca: "a primeira regra do caminho demoníaco é a ausência de regras" — mas até demônios criam pactos ad hoc de pilhagem (796, 909).

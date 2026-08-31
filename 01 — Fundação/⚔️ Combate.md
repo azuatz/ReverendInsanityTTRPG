@@ -136,6 +136,16 @@ CD dos seus Gu = 10 + VON + rank do Gu          (+2 se o Caminho for do perfil d
 2. **20 natural é crítico:** acerta automaticamente, mesmo contra Defesa maior, e **dobra os dados de dano** — role `2 × M` dados em vez de `M`. O bônus por dado não dobra: o crítico fica `2M d(dado) + (M × B)`. **Sem falha automática em 1** — errar por número é só errar.
 3. **Diferença de 2 ranks ou mais:** um Gu de defesa de rank muito inferior ao do Gu de ataque que o atinge não segura o golpe — cai automaticamente, sem teste, e fica **Esgotado**; com 3+ ranks de diferença, **morre espatifado**. Mirar um Gu manifestado, e o resto do que mata Gu em combate: [[💀 A Morte dos Gu]] (decisão 129).
 
+> [!tip] Uso criativo, sem custo de ponto *(decisão 130)*
+> Quando o jogador descreve um uso não-óbvio de um Gu — explorar o dado do
+> Caminho, o ambiente, uma combinação inesperada — de um jeito que muda a
+> situação tática de verdade (não só descrição bonita), o mestre pode conceder
+> **Vantagem** (2d20, fica com o maior) no teste daquela ação, **ou** impor
+> **Desvantagem** (2d20, fica com o pior) na defesa do alvo. Nunca os dois ao
+> mesmo tempo, e no máximo uma vez por cena por personagem. Não consome Essência
+> extra nem Ponto de Plano — é crédito de imaginação, e o incentivo para usar Gu
+> com esperteza em vez de só empilhar dano.
+
 ### Iniciativa
 
 **Rolada no início do combate**, uma vez, e a ordem vale a cena inteira:

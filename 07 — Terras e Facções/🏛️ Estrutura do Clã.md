@@ -32,6 +32,14 @@ O clã ensina desde cedo que o indivíduo se sacrifica pelo bem maior — hinos,
 
 A vila fica sobre uma **Fonte Espiritual** — uma fenda subterrânea que produz Pedras Primordiais continuamente (ver [[💠 Economia das Pedras Primordiais|Economia das Pedras Primordiais]]). Quem controla a Fonte controla o clã; guardas de rank 2–3 vigiam as minas o tempo todo, e sabotagem ali é punida com o máximo rigor que o clã consegue exercer.
 
+## Diplomacia e fronteiras
+
+Clãs vizinhos não estão em guerra aberta nem em paz de verdade — estão numa dança de máscaras. Três ganchos prontos:
+
+- **Casas de chá e banquetes neutros.** Decisões entre clãs rivais se tomam em terreno neutro. O objetivo nunca é a paz duradoura — é ganhar tempo pra que o próprio clã se fortaleça enquanto o outro se enfraquece.
+- **Zonas de caça como fronteira.** Cada clã reivindica um território de caça; um Mestre de Gu de fora pego caçando ali é ato de guerra. É como jovens ganham experiência de combate real sem que ninguém precise declarar conflito formal.
+- **Bode expiatório demoníaco.** Quando dois clãs não querem guerra aberta, um deles contrata ou manipula alguém de Caminho demoníaco pra atacar as caravanas do rival — dano causado sem responsabilidade assumida. É o gancho perfeito pra [[👁️ Exposição]]: quem contratou também deixou rastro.
+
 ## Servos e mortais
 
 A maioria de quem vive dentro dos portões nunca vai abrir Abertura nenhuma. Servos cultivam comida, cuidam da casa, servem os Mestres de Gu — e um Mestre de Gu, mesmo de rank 1, tem poder de vida e morte sobre eles que raramente é questionado. Muitos servos são ex-discípulos que não avançaram além do rank 1 — vivem como lembrete vivo do que acontece a quem "fracassa".

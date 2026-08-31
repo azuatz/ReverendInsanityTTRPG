@@ -1,384 +1,249 @@
 ---
 tags:
   - fonte
+aliases:
+  - Vol 2 parte 2
 escopo: referência
 ---
 
-# Leitura integral — Volume 2 (parte 2): Capítulos ~299–405
-
-Fonte: `Volume_2_-_The_Demon_Leaves_the_Mountain.txt`, linhas 20001–40019.
-Arco coberto: arena da Cidade Shang (batalhas de Fang Yuan/Bai Ning Bing, leilão do clã Ju, queda de Shang Ya Zi, ascensão de Shang Xin Ci a jovem mestre) → Herança dos Três Reis na montanha San Cha (matança de rank 5, refino do Gu Segunda Abertura/Second Aperture, traição de Bai Ning Bing, refino do Gu Viagem Imortal Fixa) → em paralelo, Fang Zheng na Seita Grou Imortal e a disputa pela Terra Abençoada da Imortal Hu (Tian Ti).
+# Volume 2 — The Demon Leaves the Mountain (parte 2, linhas 20001–40019)
 
 ## A) Gu nomeados
-
-| Nome (inglês) | Rank | Caminho | Efeito | Alimentação / refino / aquisição | Cap. |
-|---|---|---|---|---|---|
-| Gu Bola de Neve (Snowball Gu) | ~2 | Gelo | Dispara bolas de neve; consumo de essência alto se usado em série | Usado por Bai Ning Bing (descartado) e por membro do clã Tie | 299, 361 |
-| Gu Estalactite (Icicle Gu) | 2 | Gelo | Dispara estalactites; restringe o oponente | Núcleo barato do kit da BNB | 299, 312 |
-| Gu Explosão de Gelo (Ice explosion Gu) | 3 | Gelo | Detona gelo existente; quanto maior/mais velho/mais frio o gelo, maior a explosão; fere a própria usuária se exposta | Combina com estalactite/cristal de gelo | 299, 313 |
-| Gu Cristal de Gelo (Ice crystal Gu) | 3 | Gelo (transformação) | Corpo vira cristal de gelo: ataque+defesa integrados; uso prolongado congela o usuário permanentemente (mitigado pelo Gu Vitalidade); "adequado para homens" | Gu vital da BNB; tomado por Yan Tu como prêmio; fácil de repor | 299, 313–314, 396 |
-| Gu Lâmina de Gelo / Gume de Gelo (Ice edge/blade Gu) | — | Gelo | Forma lâminas de gelo (braços duplos) | Parte do golpe Tempestade de Lâminas de Gelo | 299, 314 |
-| Gu Giro (Swirl/Revolving Gu) | — | Movimento | Aumenta velocidade de rotação do corpo | Componente do golpe matador | 299, 314 |
-| Gu Tornado (Tornado Gu) | 3 | Vento | Cria redemoinho/tornado | Comprado no leilão do clã Ju | 308, 314 |
-| Gu Sopro de Geada (Frost breath Gu) | — | Gelo | Exala geada contínua (sem pausa quando em forma de cristal) | — | 313–314 |
-| Gu Flecha de Geada (Frost arrow Gu) | 4 | Gelo | Flecha de gelo veloz; congela músculos/sangue (lentidão); baixíssimo consumo — rank 3 consegue usar | Leilão: lance inicial 70 mil, BNB pagou 150 mil | 306, 313 |
-| Gu Esforço Total (All-out effort Gu) | 3 | Força | Gu lendário extinto; manifesta 1 fantasma de besta por vez, liga/desliga à vontade (fluxo contínuo, "cano de bambu") | Precisa do Gu Cem Batalhas Invictas p/ subir a rank 4 (invocaria fantasmas de bestas mutantes à vontade) | 300–320, 345, 368 |
-| Gu Autossuficiência (Self-reliance Gu) | 3 (pico) | Força/cura | Cura a si mesmo proporcional à própria força; ápice do rank 3, equivale a cura rank 4 se o usuário for forte | Sem receita de avanço conhecida | 299, 304, 318, 345 |
-| Gu Dossel (Canopy Gu) | 3 | Defesa | Armadura de luz branca | Vendido por FY (redundante com Escudo Dourado) | 300–301 |
-| Gu Escudo Dourado (Golden shield Gu) | 3 | Defesa | Armadura de luz dourada; incompatível com o Dossel | Avança para Gu Sino-Escudo Dourado (rank 4, golden bell shield) | 300, 343, 345 |
-| Gu Osso de Ferro / Tendão de Aço / Pele de Bronze (Iron bone / Steel tendon / Bronze skin Gu) | 3 | Força (corpo) | Modificações permanentes de osso/tendão/pele (versão rank 2 da pele é temporária; rank 3 permanente, pele fica bronzeada) | Série rank 1–3 | 301 |
-| Gu Osso de Ferro Essencial (Essence iron bone Gu) | 4 | Força | Ossos muito mais duros (2–3×); processo lento | Refino reverso gera Gu Osso de Ferro; comprado de Li Xian | 355, 358, 368 |
-| Gu Pele de Bronze Antiga (Ancient bronze skin Gu) | 4 | Força | Pele refeita em bronze antigo | Avanço da série; processo 30% mais rápido imergindo em bronze fundido (doloroso) | 354 |
-| Gu Tendão de Aço-Ouro (Golden steel tendon Gu) | 4 | Força | Tendões com dureza de aço dourado | — | 368 |
-| Gu Investida Vertical / Carga Horizontal (Vertical crash / Horizontal charge Gu) | 3 | Movimento | Carga em linha reta ~100 passos (previsível) | Materiais principais do Gu Carga e Colisão | 300, 317, 345 |
-| Gu Carga e Colisão (Charging crash Gu) | 4 | Movimento | Carga de 200 passos, recarga pela metade, consumo um pouco maior | Fundido de Carga Horizontal + Investida Vertical + materiais; receita de alta taxa de sucesso | 345 |
-| Gu Carne Rolante + Gu Aura de Lâmina (Rolling meat + Blade aura Gu) | — | — | Golpe "carne de lâminas rolante" de Zhu Ba: bola de carne giratória com aura cortante | — | 300 |
-| Gu Unidade Carne-Osso (Bone flesh unity Gu) | 3 | — | Transfere essência primordial entre dois Mestres Gu (com perdas); acelera cultivo do receptor | Valioso apesar do rank baixo | 301, 305, 331, 383 |
-| Lótus do Tesouro da Essência Celestial (Heavenly Essence Treasure Lotus) | 3 | — | Produz essência primordial extra (reserva "infinita" p/ FY) | Série: Monarch (4), King (5), Imperial (6 — dá direito à herança do Venerável Imortal Lótus Gênesis) | 301, 308 |
-| Receita da Lótus Monarca (Monarch Lotus recipe) | (4) | — | Receita de refino; exige a Lótus rank 3 como ingrediente principal + fontes espirituais | Leilão: 500 mil inicial → 670 mil (Wei Yang p/ FY) | 308–309, 345 |
-| Gu Voto Venenoso (Poison vow Gu) | — | — | Voto: violar = morte; Gu de uso único; frase mal formulada cria brechas ("terceiro que já sabia") | Neutralizável morrendo e sendo ressuscitado (método da Doutora Su Shou, 1/3 de chance de falha) | 303, 310, 396, 401 |
-| Gu Engolir as Próprias Palavras (Eating one's words Gu) | — | — | Anula voto venenoso | FY refina repetidamente; demorado | 303, 382 |
-| Gu Lua de Sangue (Blood moon Gu) | — | Sangue | Ataque de longo alcance com aura sanguínea; fácil de alimentar | Relíquia do clã Gu Yue | 303, 320 |
-| Gu Crânio de Sangue (Blood skull Gu) | — | Sangue | Eleva aptidão (cria gênios); único e problemático | Da herança do mar de sangue | 303, 320 |
-| Gu Força Amarga (Bitter strength Gu) | 4 | Força | Quanto mais ferimentos/dor, mais força liberada (limitado pela base do usuário); "abre buracos no pote d'água" | Raro; preço de mercado ~380 mil; Shang Ya Zi pagou 810 mil e entregou de graça a FY | 304, 307–311, 318 |
-| Salgueiro do Vento milenar (Thousand year wind willow) | — | Material | Material de refino rank 5; cresce só onde há vento constante; >100 m | Ju Feng: restavam 18; leilão 50 mil → ~100 mil | 307 |
-| Gu Perseguir o Vento (Chasing wind Gu) | 4 | Vento/movimento | Velocidade para perseguir ventos; carrega marca de Dao do vento (interfere nos fantasmas de besta) | Leilão 180 mil → 440 mil (Yi Bu Hui) | 307 |
-| Gu Vento de Fada (Fairy wind Gu) | 4 | Vento | Ingrediente (com Gu Sete Estrelas Brilhantes) do Gu Estrela Fixa, insumo do Viagem Imortal Fixa | — | 307 |
-| Quatro grandes Gu de movimento: Viagem dos Sonhos, Viagem Despreocupada, Viagem Imortal Fixa, Viagem do Deus do Licor (Dream/Carefree/Fixed Immortal/Liquor God Travel) | 6 | Movimento | Sonhos: entra em sonhos alheios; Despreocupada: esquiva suprema; Imortal Fixa: teleporte a qualquer lugar conhecido; Deus do Licor: aparece nas Lendas de Ren Zu | Todos Immortal Gu | 307 |
-| Gu Atmosfera (Atmosphere Gu) | 4 | Qi (natural) | Impõe hábito/costume a um grupo ou raça inteira (ex.: fazer javalis-agulha se esfregarem em rochas; impor enfaixar pés às mulheres do clã rival) | Gu natural sem receita; leilão 260 mil → 500 mil (FY); ingrediente principal do Gu Qi de Força | 308, 320 |
-| Gu Comer Vento (Eating wind Gu) | 2 | Vento | Consome vento para saciar a fome | Especialidade do clã Ju; 38 vendidos em lote | 308 |
-| Gu Gravado no Coração (Heart engraved Gu) | 1–5 | Armazenamento | Grava informação direto no coração/memória (inesquecível); nº de manchas = rank | Rank 4 usado p/ receita da Lótus Monarca | 309 |
-| Verme-livro (Bookworm) | — | Armazenamento | Armazena informação (missões de seita) | — | 309, 335 |
-| Gu Amplificar Som (Sound amplify Gu) | — | — | Amplifica a voz (leiloeira) | — | 306 |
-| Gu Relíquia de Prata Branca (White silver relic Gu) | — | — | Sobe 1 sub-estágio de cultivo rank 3, sem efeitos colaterais; ~50 mil pedras | Série Relíquia: cara; venda livre | 312 |
-| Gu Relíquia de Ouro Amarelo (Yellow gold relic Gu) | 4 | — | Sobe 1 sub-estágio de rank 4 | Circulação estritamente controlada pelos clãs; prêmio no round 40+ da herança; 10+ no salão de bronze | 350, 358, 378 |
-| Gu Relíquia de Cristal Púrpura (Purple crystal relic Gu) | 5 | — | Sobe sub-estágio de rank 5 | 8 unidades no salão de bronze | 378 |
-| Gu Pelota de Fogo (Fire pellet Gu) | 3 | Fogo | Projéteis de fogo; alimenta/reforça as serpentes de fogo | Yan Tu | 312–313 |
-| Gu Garra Flamejante (Fiery claw Gu) | 3 | Fogo | Garra de fogo de 3 dedos, alcance de poucos metros do usuário | Yan Tu tinha 4 | 313–314 |
-| Gu Serpente de Fogo (Fiery snake Gu) | 4 | Fogo | Duas serpentes-píton de fogo controladas à distância; regeneram absorvendo chamas | Combinadas às garras imitam parte do Gu Dragão de Fogo (rank 5) | 313–314 |
-| Gu Óleo Combustível (Fuel oil Gu) | — | Fogo | Vomita óleo inflamável em massa (transforma o terreno em mar de fogo) | Golpe: Mar de Fogo, Matança dos Dragões Gêmeos | 314 |
-| Gu Vitalidade (Vitality Gu) | — | Qi | Corrente cálida autônoma que preserva força vital (não exige concentração) | Combina com Cristal de Gelo; relacionado ao caminho do qi | 314–315 |
-| Gu Demônio da Geada / Fada da Neve (Frost demon / Snow fairy Gu) | — | Gelo (transformação) | Transformações de gelo; Fada da Neve adequado a mulheres, Cristal de Gelo a homens | Os três Gu de transformação do caminho do gelo | 314, 396 |
-| Gu Qi Duro (Hard qi Gu) | — | Qi (antigo) | Camada de ar informe de defesa sólida como rocha, invisível | Raro e precioso; Ju Kai Bei | 315, 319 |
-| Gu Qi de Força (Strength qi Gu) | 3 | Qi (antigo) | Cria qi de força informe; fantasmas de besta "vestem" o qi e se tornam sólidos (ataque à distância); custo 5% de essência prata-neve por fantasma | Refinado por conversão do Gu Atmosfera: 20+ ingredientes, 30+ etapas, refino reverso, >80% de sucesso; receita só se tornaria pública ~200 anos depois | 320, 343 |
-| Gu Força Habitual (Habitual strength Gu) | 4 | Força | Acumula força ao longo do tempo enquanto se move ("balde no pote") — explosões imprevisíveis | Refinado do Gu Armazenar Força (rank 3, imobiliza durante acúmulo) | 316–318 |
-| Gu Armadura de Marfim (Ivory armor Gu) | 4 | Defesa | Presas crescem e cobrem o corpo de armadura branca; cresce com o tempo; sem elasticidade — quebra se o corpo crescer; precisa ser quebrada após a luta | Ju Kai Bei | 316, 319 |
-| Gu Força Colossal do Dragão-Elefante (Dragon-elephant huge strength Gu) | 4 | Força | Fantasma do dragão-elefante (besta mutante, sangue de dragão); JKB usou 3 | Obtido matando dragões-elefante | 317 |
-| Gu Passos de Dragão e Tigre (Dragon travel tiger steps Gu) | 4 | Movimento | Corrida veloz + usa força de colisão acumulada | Ressonância de marcas de Dao com Coragem de Dragão + Dragão-Elefante | 317, 319 |
-| Gu Coragem de Dragão (Dragon guts Gu) | — | — | Parte da ressonância de Dao de JKB | — | 319 |
-| Gu Coração/Corpo/Mente de Djinn (Djinn heart/body/mind Gu) | 4 | — | Golpe "Transformação Djinn": corpo 3× maior, força e energia mental ×3 (consumo ×3); a mente é o mais difícil de obter | FY ficou com o Djinn Mind como prêmio | 319–321 |
-| Gu Ocultar Respiração (Breath concealment Gu) | 3 | — | Esconde aura/cultivo (rank 4 disfarçado de rank 3); quebra ao atacar | — | 316, 337, 360 |
-| Cigarra Primavera-Outono (Spring Autumn Cicada) | 6 | Tempo | Renascimento: leva a vontade/memórias rio do tempo acima; exige autodetonação total; pressiona a abertura enquanto se recupera; se alimenta da água do rio do tempo (tempo acelerado = recuperação acelerada) | Refinada por FY na vida passada; ex-dona: Venerável Demônio Lótus Rubra; 7º Gu misterioso do mundo | 305, 312, 346, 383, 399 |
-| Gu Pneu de Tartaruga (Turtle tire Gu) | — | Força | Força de dez tartarugas (Shang Bi Xi) | — | 305 |
-| Gu Grou de Papel (Paper crane Gu) | 2 | — | Mensageiro; chave da Herança do Rei Xin | Comprado em massa por FY | 311, 323–324 |
-| Gu Escravizar Cães (Dog enslavement Gu) | 1 (e 2) | Escravização | Implanta-se na alma do cão e o domina; rank 2 subjuga reis de cem bestas (com disputa de almas); morre com o cão | Chave da Herança do Rei Quan; a terra abençoada confisca extras | 323–324, 346–349 |
-| Gu Ovo Explosivo (Exploding egg Gu) | 1 | Fogo | Chave da Herança do Rei Bao | Comprado em massa | 323–324 |
-| Gu Agulha Dourada (Golden needle Gu) | 2 | Metal | Agulhas douradas criadas pelo clã Tie; combos: +Gu Líquido Venenoso = veneno; +Gu Rigidez = paralisia; +Gu Mente Caótica = frenesi (atacam aliados); +Gu Vitalidade = cura; +Gu Criar Névoa = névoa dourada perfurante (fura pedra/defesas); +Gu Controle de Marionete = controla corpos vivos | Arte do clã Tie ensinada por Tie Mu Bai a Tie Ruo Nan | 374 |
-| Gu Marionete de Grama (Grass puppet Gu) | 1–3 | Escravização | Rank 3 cria soldados de grama com escudo de vime (matam Mestre Gu rank 1); ~12 fundem-se num soldado de elite espada-de-grama rank 4 | Tie Ruo Nan criou ~1000 em combate | 360–361 |
-| Gu Lótus-Sombrinha (Umbrella lotus Gu) | — | Defesa | Lótus negra-dourada gigante como escudo | Tie Xian Hua | 360, 362 |
-| Gu Mosquito Agulha-Dourada (Golden needle mosquito Gu) | — | — | Enxame perfurante (investigador Tie Ao Kai); consumo alto | — | 360–361 |
-| Gu Lâmina de Mão, Sombra Veloz, Mão de Ferro, Cortes Consecutivos, Vendaval de Batalha Rápida, Qi de Lâmina (Hand blade, Swift shadow, Iron hand, Consecutive slash, Quick battle gale, Blade qi Gu) | ~3 | Corte | Kit ofensivo de Tie Dao Ku; Qi de Lâmina = ataque à distância caro | Lâmina de Mão foi tomada por BNB antes | 302, 362 |
-| Gu Força Tirana (Tyrant strength Gu) | 4 | Força (antiga) | Força de suserano; herdada de herança antiga | Tie Ba Xiu | 359–363 |
-| Gu Suserano da Terra (Earth overlord Gu) | 5 | Terra/força | Absorve força infinita da terra, fortalecendo continuamente o Gu Força Tirana | Tie Ba Xiu ("Suserano da Era Atual") | 359, 361 |
-| Gu Asas de Osso (Bone wings Gu) | 4 | Voo | Asas de osso crescem da coluna/costelas; as de FY são negras/metálicas (ossos de ferro essencial); voar em combate normalmente exige 5+ anos de treino | Refinado do Pássaro Sem Pés + flores dos nove palácios, pedra aspirante, essência do corvo dourado, grama gélida + ~180 mil pedras | 358, 361 |
-| Pássaro Sem Pés (Footless bird Gu) | 3 | Voo | Voa 10 mil milhas — melhor montaria abaixo do rank 5 — mas morre ao pousar (voo único) | Prêmio da Herança do Rei Xin | 358 |
-| Gu Gastar Força (Expend strength Gu) | 4 | Força | Dobra o gasto de energia/stamina dos inimigos ao se moverem | Gu vital de Fei Li, entregue a FY | 341, 345 |
-| Gu Força de Biao (Biao strength Gu) | 4 | Força | Fantasma de Biao (tigre alado): 5 tigres = 1 Biao; 3 cães = 1 molosso | Xue San Si (destruído com ela) | 342, 345 |
-| Gu Força Violenta (Violent strength Gu) | — | Força | Aumenta corpo e força (Tyrant Heng Mei) | — | 340 |
-| Verme do Licor (Liquor worm) série | 1–4 | — | Purifica essência primordial em +1 sub-estágio: rank 1 (cobre-verde), 2 Quatro Sabores (aço-vermelho), 3 Sete Fragrâncias (prata-branca), 4 Nove Olhos (ouro-amarelo); rank 5 não existe (o grão-mestre criador morreu jovem) | Receitas: Quatro Sabores = 2 vermes + vinhos ácido/doce/amargo/picante; Sete Fragrâncias = 2 Quatro Sabores + 7 especiarias; Nove Olhos = 2 Sete Fragrâncias + olhos de 9 reis de cem bestas diferentes; FY gastou ~200 mil pedras | 326 |
-| Gu Plasma (Plasma Gu) | 2 | Trovão | Cospe plasma pegajoso que eletrifica o terreno (5 respirações de recarga); devastador contra cães de armadura de aço (metal) | Gu selvagem do Grande Cão Símbolo-Relâmpago | 349–351 |
-| Gu Coragem de Cão (Dog guts Gu) série | 2–5 | Escravização | Rank 2: cães ignoram medo de rei de cem bestas; 3 "acima da montanha": rei de mil; 4 "acima do mar": rei de dez mil; 5 "acima do céu": frenesi capaz de desafiar o imperador dos cães | Prêmios do Rei Quan; todos os ranks existem lá | 350 |
-| Gu Duas Tarefas ao Mesmo Tempo (Two tasks at once Gu) | 2 | — | +2 linhas de multitarefa mental; série vai a 3, 4, 5 tarefas... — ferramenta-chave do caminho da escravização | Prêmio do Rei Quan | 351 |
-| Ficha de Viagem do Rei Quan (King Quan travel token) | — | item | Teleporta para fora da herança (ativa com sangue + latido "Woof"); 3 usos e racha | No fim da herança valia o preço de um Gu rank 4 | 351–352, 368 |
-| Gu Jaula d'Água (Water cage Gu) | — | — | Captura Gu selvagens com eficácia | Refinado num duelo do Rei Xin | 358 |
-| Gu Cem Batalhas Invictas (Undefeated hundred battles Gu) | 5 | Refino (consumível) | Garante o sucesso de um refino de Gu | Essência da Herança do Rei Xin (round 100); usado no refino do Viagem Imortal Fixa | 368, 386, 394, 405 |
-| Gu Divulgar Informação (Divulge information Gu) | — | — | Essência informativa do Rei Xin | — | 391 |
-| Gu Formiga Voadora Come-Ouro (Gold eating flying ant Gu) | 3 | — | 120 formigas que devoram o Gu Gabinete de Ferro | Oferta de Li Xian (~preço dos Gu de FY) | 354 |
-| Gu Gabinete de Ferro + Gu Fluxo de Qi (Iron cabinet + Qi flow Gu) | — | — | Barreira/cofre que sela mil pés de área (prende BNB por meses); criado pelo mestre de refino Tie Yi Ban como Gu de armazenamento, virou ferramenta de captura do clã Tie | Também salva Tie Ruo Nan como caixão-cofre | 353–354, 363 |
-| Gu Busca e Trava (rank 5) / golpe Busca e Trava Infinita (Infinite search and lock) | 5 | Espaço+selo | Quatro correntes do vazio prendem o alvo em qualquer lugar do mundo e selam Gu ≤5 e a essência; exige o Gu Estrela Fixa plantado no alvo; consumo brutal de essência (na 1ª vida os 4 anciões morreram exauridos p/ um rank 3) | Golpe combinado dos 4 anciões do clã Tie | 353, 360, 396, 398 |
-| Gu Estrela Fixa (Fixed star Gu) | — | — | Fragmento de estrela da era imemorial (diamante de 8 faces); farol localizador; TAMBÉM é o "diamante de oito lados" da receita do Viagem Imortal Fixa | Plantado por BNB no antebraço esquerdo de FY; devorado pelo Gu Viagem Divina | 398, 404–405 |
-| Gu Céu Azul (Blue sky Gu) | 4 | Armazenamento | Grande capacidade, exclusivo do Mar Oriental; fundido do Gu Celeiro do Céu (rank 3) | Avança c/ Gu Poço do Céu (natural, ilha Tian Jing) → Gu Poço do Céu Azul (rank 5) | 353 |
-| Gu Dobra (Warp Gu) | 5 | Espaço | Teleporte curto rasgando o espaço; backlash torce tendões/junta e enfeia o usuário | De Chou Jiu; selado pela Busca e Trava | 385, 398 |
-| Gu Vida Remanescente (Remnant life Gu) | 5 | — | Consumível: se o corpo ficar intacto, o morto ressuscita com o tempo | Trunfo secreto de Chou Jiu (FY moeu e queimou o corpo p/ anular) | 385 |
-| Gu Uma Vida Uma Morte (One life one death Gu) | — | — | Converte energia de morte (dos que Chou Jiu manda matar) em força vital para suas curas | Refinado de Gu Vida + Gu Morte capturados na Porta da Vida e da Morte | 384 |
-| Gu Vida / Gu Morte (Life/Death Gu) | — | — | Gu naturais únicos da Porta da Vida e da Morte | — | 384 |
-| Gu Juramento do Mar / Promessa da Montanha (Sea oath / Mountain pledge Gu) | 6 | — | Votos reutilizáveis (versão superior do Voto Venenoso); fraqueza: destruir o mar/montanha diante do qual se jurou anula o voto | Seita das Sombras usa o Juramento do Mar | 384 |
-| Gu Escravidão (Slavery Gu) | 1–5 | Escravização | Controla um Mestre Gu do rank correspondente (lealdade absoluta); rank 5 raríssimo e caro; implantar exige vencer disputa de almas | De Zhang San San; FY escraviza Feng Tian Yu (1ª vida) / Chou Jiu (2ª vida) | 330, 387, 400–401 |
-| Gu Escorpião Venenoso (Poison scorpion Gu) | 3 | Veneno | Única habilidade: defecar Gu Fezes de Escorpião (rank 2, veneno único; vítima precisa do antídoto do MESMO escorpião a cada 7 dias) — método padrão de controle de escravos; a picada não gasta essência | Entregue na compra dos escravos do clã Wei | 330 |
-| Gu Dragão Dourado (Golden dragon Gu) | 4 | Metal | Dragão de 4 garras, ataque feroz mas controle grosseiro | Espólio de Tie Mu Bai | 373, 379–380 |
-| Gu Brisa Dourada (Golden breeze Gu) | 4 | Metal/cura | Redemoinho de cura comparável a rank 5 | Espólio de Tie Mu Bai | 373, 379 |
-| Gu Casaco Dourado (Golden coat Gu) | 4 | Metal | Cota de malha dourada, defesa exemplar | Espólio de Tie Mu Bai | 373, 379 |
-| Gu Aurora Dourada (Golden aurora Gu) | 4 | Metal/voo | Luz dourada que permite voar/acelera | Espólio de Tie Mu Bai | 373, 379, 398 |
-| Gu Tornar Ouro (Turn gold Gu) | 5 | Metal | Tudo que atinge vira ouro puro (morte instantânea) | Gu vital de Tie Mu Bai; espólio de FY | 373, 379 |
-| Gu Metal Líquido (Liquid metal Gu) | 5 | Metal | Defesa líquida moldável que se refaz como água | Espólio de Tie Mu Bai; morreu absorvendo o golpe de Xiao Mang | 374, 379, 405 |
-| Gu Olhar de Vajra (Vajra stare Gu) | 5 | Alma | Olhar vira ataque direto à alma (1 s de contato visual destrói alma fraca); requer olhos convertidos por 2 Gu Olho Dourado | Trunfo oculto de Tie Mu Bai | 379 |
-| Gu Ossos Moles (Soft bones Gu) | 5 | Osso | Amolece os ossos de tudo num raio de ~25 km (vítima colapsa e morre sem esqueleto) | De Ku Mo | 373, 380 |
-| Gu Negrume (Pitch black Gu) | 5 | — | Fumaça negra que sela Gu abaixo do rank 6 em graus variados | De Wu Gui; espólio de FY | 373, 380 |
-| Gu Luz Extrema (Extreme light Gu) | 5 | Luz | Invoca a Luz da Glória da era imemorial (atravessa tudo, sem dano próprio); exemplar incompleto (roubado de tumba): 3 usos/mês ou autodetona | Xiao Mang; componente dos golpes de luz | 389, 393, 402 |
-| Gu Vontade do Céu + Gu Punho Vazio (Heaven's will + Empty fist Gu) | — | — | Com Luz Extrema: golpe "Punho de Luz Imemorial" (perfura a terra abençoada) | — | 389, 402 |
-| Gu Reunir Luz (rank 4), Gu Minha Vontade, Gu Lança Brilhante, Gu Rio Sob o Sol (rank 5) (Gather light / My will / Bright spear / River under the sun Gu) | 4–5 | Luz | Golpes: "Minha Lança Gloriosa" (lança de luz de 1,8 m; gasta 60% da essência) e "Torrente de Luz" (cachoeira de luz da glória) | Xiao Mang | 393, 402, 404 |
-| Gu Céu de Jade (Jade sky Gu) | 5 | Veneno | Veneno imemorial quase incurável (vítima se desfaz em luz verde em ~2 h; só os 4 grandes médicos curam); formato: bambu de jade oco do tamanho da palma — É o "bambu de jade do céu-azure" da receita do Viagem Imortal Fixa | De Long Qing Tian ("aquele que tingiu o céu de jade") | 375, 388, 400, 405 |
-| Gu Pêssego Espiritual (Spirit peach Gu) | 5 | Cura | Gu de cura famoso do justo Tao Zi | — | 375 |
-| Gu Sem Perdas (No loss Gu) | 6 | — | Immortal Gu do clã Wu: recupera automaticamente os Gu preciosos de membros mortos (rasga o espaço e os leva) | Ativou na morte de Wu Lan Shan | 381 |
-| Gu Segunda Abertura (Second aperture Gu) | 6 | — | Concede uma 2ª abertura ao Mestre Gu (dobra essência, recuperação e um 2º conjunto de Gu); aptidão da 2ª abertura limitada pela 1ª | Ver receita completa na seção F; nunca concluído | 377–378, 388–405 |
-| Gu Placenta de Força de Besta (Beast strength placenta Gu) | 5 | Força | Devora aberturas de Mestres Gu mortos para elevar a aptidão do futuro Gu Segunda Abertura (Tie Mu Bai sozinho = 40%; teto = aptidão do refinador) | Refinado por FY: nuvens yin/yang + fogo de elixir + areia dourada + 4 fantasmas de besta (etapa exige "entender a natureza de cada fantasma") | 377–379 |
-| Gu Viagem Divina (Divine travel Gu) | 6 | Movimento | Teleporta o usuário a QUALQUER lugar — mas só ativa bêbado e sem controle do destino; nasce no coração de quem bebe os 4 melhores vinhos do mundo | Guardado no salão da terra abençoada; base do Viagem Imortal Fixa | 371, 377, 388, 404 |
-| Gu Viagem Imortal Fixa (Fixed immortal travel Gu) | 6 | Movimento | Teleporta a qualquer lugar do qual se tenha imagem mental fiel; NÃO transporta roupas/objetos externos (só o que está na abertura); ativação exige essência imortal | Refinado por FY em pleno ar: Viagem Divina + Céu de Jade + Estrela Fixa + Luz da Glória + 2× Terceira Vigília + Cem Batalhas Invictas (ver F) | 371, 404–405 |
-| Gu Terceira Vigília (Third watch Gu) | — | Tempo | Acelera o tempo ×3 sobre um alvo; dois sobrepostos = ×9 | FY usou 2 no refino final | 355, 389, 405 |
-| Gu Tempo de Vida (Lifespan Gu) 300 anos / 500 anos | — | Tempo | +300/+500 anos de vida sem efeito colateral; extremamente raros | Estocados no salão; consumidos na receita ("300 anos como primavera, 500 como outono") | 388, 402 |
-| Gu Retorno à Infância (Return to childhood Gu) | — | — | Acumula e libera força vital lentamente = longevidade, mas trava o corpo em físico infantil | Century Boy (180+ anos) | 367 |
-| Gu Asas dos Sonhos (Dream wings Gu) | 6 | Sonho | Só existe em sonhos; ativa com espírito/alma em vez de essência imortal; mortal que força o uso arrisca amnésia/idiotice | Feng Jin Huang o obteve dormindo, aos 3 anos | 398, 405 |
-| Gu Caminho Próprio (One's own way Gu) | 6 | — | Permite que outros Gu operem dentro de uma terra abençoada; 3 usos e some | He Feng Yang (Seita Grou Imortal) o usa p/ Fang Zheng | 375 |
-| Pulga Incubadora de Espírito (Spirit incubating flea) | — | Alma | Abriga a alma do Lorde Grou Celeste, que aconselha/empresta força de alma a Fang Zheng | Reativada com o Gu Caminho Próprio | 334, 366, 375 |
-| Gu Perfurar Espaço (Space piercing Gu) | — | Espaço | Atravessa centenas de passos num piscar | Wei Wu Shang | 339 |
-| Gu Vento Ferinte (Injury wind Gu) | — | Vento | Brisa inofensiva na aparência que fere gravemente tudo que toca | Trunfo de Wei Wu Shang | 341 |
-| Gu Flor de Ferrugem (Rust flower Gu) | — | — | Guardado na alma dos membros do clã Tie: quem mata um fica marcado com fragrância informe rastreável | Assim BNB foi identificada | 352 |
-| Gu Sentimentos Gentis (Gentle feelings Gu) | — | Alma | Sussurro que desconcentra o alvo (voz de ente querido) | Mo Wu Tian | 398 |
-| Gu Invisibilidade (Invisibility Gu) | 5 | — | Invisibilidade detectável só por Gu investigativos rank 5 específicos | Li Xian | 354 |
-| Gu Homem Triunfa sobre o Céu (Man triumphing heaven Gu) | — | — | Desperta à força uma abertura sem talento (resultado: aptidão grau C ~ "fundação zero") | Shang Yan Fei o usou em Shang Xin Ci | 303, 305 |
-| Gu Ancião Primordial (Primeval elder Gu) | — | Armazenamento | Guarda pedras primordiais; a expressão do ancião nas nuvens indica o montante | Corrente na Cidade Shang | 302, 306 |
-| Flor Tusita (Tusita flower) | 3 | Armazenamento | Armazenamento; avança p/ Gu Lanterna Tusita (rank 4) | — | 345 |
-| Flor do Tesouro da Terra (Earth treasury flower) | — | Armazenamento | Flor-cofre plantável | 1º ingrediente vivo da receita da Segunda Abertura | 377 |
-| Gu Estalo de Trovão (Thunderclap Gu) | 3 | Trovão | Ingrediente do refino Força de Javali-Trovão | — | 353 |
-| Gu de força rank 3 (série): Força do Urso Pardo, Força do Cavalo Galopante, Labuta do Boi Verde, Força da Tartaruga de Pedra, Força Primordial do Elefante Branco, Força Enrolante da Píton Negra (Brown bear/Galloping horse/Green bull/Stone turtle/White elephant/Black python strength Gu) | 3 | Força | Cada um dá o fantasma/força da besta; 8 fantasmas = limite do corpo de FY | Perdidos em tentativas de fundir o Força Amarga; upgrades p/ mutantes: Javali-Trovão, Crocodilo de Rocha, Boi Kunlun (ver F) | 304, 317, 353, 368 |
-| Gu Fezes de Escorpião (Scorpion faeces Gu) | 2 | Veneno | Veneno único por escorpião ("fezes de escorpião são únicas no mundo") | Produzido pelo Escorpião Venenoso | 330 |
-| Gu Olho Dourado (Golden eye Gu) | — | — | Converte os olhos em olhos dourados (pré-requisito do Olhar de Vajra) | Tie Mu Bai | 379 |
-| Gu Reputação, Gu Vaidade, Gu Cognição, Gu Sabedoria, Gu Eterno (Reputation/Vanity/Cognition/Wisdom/Eternal Gu) | — | — | Lendas de Ren Zu: Reputação (crisântemo) espalha fama; Vaidade (caranguejo oco) envenena mentes com vaidade; Cognição dá "asas do eu" (crescem/encolhem com a luz do sol — voo da mente); Eterno: os homens peludos tentavam refiná-lo cozinhando um humano | Cap. 357 e 371 (mitologia) | 357, 371 |
+- Snowball Gu | rank ? | gelo | lança bolas de neve, alto consumo de essência primeva por uso repetido | Bai Ning Bing considera abandoná-lo (Cap. 299)
+- Icicle Gu (Gu do Sincelo) | rank 2 | gelo | restringe/imobiliza o oponente | Bai Ning Bing decide manter (Cap. 299)
+- Ice explosion Gu (Gu de Explosão de Gelo) | rank 3 | gelo | detona gelo formando poder destrutivo instantâneo; quanto maior/mais antigo/mais frio o gelo, maior a explosão | usado por Bai Ning Bing p/ dominar luta contra Tie Dao Ku (Cap. 299)
+- Ice crystal Gu (Gu de Cristal de Gelo) | rank ? | gelo | transforma o corpo em cristal de gelo, reduz severidade de ferimentos (inclusive da própria explosão de gelo) | parte do set de Bai Ning Bing (Cap. 299)
+- Ice edge Gu (Gu de Lâmina de Gelo) | rank ? | gelo | citado como parte do set de combate de Bai Ning Bing | (Cap. 299)
+- Revolving Gu + Whirlwind Gu + Ice blade Gu | rank ? | gelo | combinados formam o golpe autoral "tornado de gelo" (ice blade storm) de Bai Ning Bing; considerado ultrapassado no rank 3 | (Cap. 299)
+- All-out effort Gu (Gu de Esforço Total) | rank ? | força | Gu central de Fang Yuan no caminho da força; libera fantasmas de bestas (javali, urso pardo, crocodilo, cavalo, touro) que se acumulam conforme ele absorve mais forças de animais | usado em toda a arena (Cap. 300–301)
+- Canopy Gu (Gu de Dossel) | rank 3 | defesa | forma armadura de luz branca; incompatível de uso simultâneo com Golden shield Gu | Fang Yuan vendeu depois por se sobrepor ao Golden shield Gu (Cap. 300, 301)
+- Golden shield Gu (Gu de Escudo Dourado) | rank 3 | defesa | forma armadura de luz dourada; não pode ser usado ao mesmo tempo que Canopy Gu; mais adequado ao estilo de força de Fang Yuan | (Cap. 300)
+- Self-reliance Gu (Gu de Autossuficiência) | rank ? | cura | interrompe sangramento, regenera carne; tendões regeneram mais devagar | usado por Fang Yuan entre ataques (Cap. 300)
+- Rolling meat Gu + Blade aura Gu ("rolling blade meat" / meatball rolante) | rank ? | corpo/lâmina | golpe matador de Zhu Ba: corpo vira bola gigante que rola, embrulhada em aura de lâmina; força de impacto amplificada pelo tamanho do corpo | (Cap. 300)
+- Gu de contra-choque (counter-shock, não nomeado) | rank ? | defesa | gordura corporal de Zhu Ba dispersa o impacto recebido e devolve ~80% da força ao atacante, retendo ~20%; requer concentração mental em múltiplos Gu simultâneos, falha se a mente estiver sobrecarregada | (Cap. 300–301)
+- Vertical crash Gu (Gu de Investida Vertical) | rank ? | movimento/força | investida frontal de choque | Fang Yuan usa contra Zhu Ba (Cap. 300)
+- Horizontal charge Gu (Gu de Investida Horizontal) | rank ? | movimento | permite investida lateral/esquiva | Fang Yuan usa contra Zhu Ba (Cap. 301)
+- Flesh bone unity Gu (Gu de Unidade Carne-Osso) | rank ? | suporte | converte e transfere essência primeva de um Gu Master para outro (com alguma perda) | Bai Ning Bing usa para acelerar cultivo de Fang Yuan (Cap. 301/304)
+- Bronze skin Gu (Gu de Pele de Bronze) | rank 2 vs rank 3 | corpo | rank 2: dá defesa extra à pele por tempo limitado; rank 3: usa o próprio corpo, defesa permanente | Fang Yuan absorve o rank 3, pele fica com tom bronzeado (Cap. 301)
+- Iron bones, steel tendons (Ossos de Ferro, Tendões de Aço) | rank ? | corpo | linha de defesa física de Fang Yuan, citada junto com Canopy/Golden shield Gu | (Cap. 300)
+- Blood moon Gu (Gu da Lua de Sangue) | rank ? | sangue | Gu de ataque à distância que usa aura de sangue; herdado do clã de Fang Yuan; "fácil de alimentar" | usado como prova/desculpa perante Tie Ruo Nan (Cap. 303)
+- Blood skull Gu (Gu do Crânio de Sangue) | rank ? | sangue | Gu divino usado por clãs para elevar o aptidão/talento de gênios | Fang Yuan cogita vendê-lo a Shang Yan Fei em caso de emergência (Cap. 302)
+- Man triumphing heaven Gu (Gu do Homem que Triunfa sobre o Céu) | rank ? | destino | usado por Shang Yan Fei para mudar/elevar o destino/aptidão de Shang Xin Ci | (Cap. 302)
+- Poison vow Gu (Gu do Voto Envenenado) / eating one's words Gu | rank ? | juramento | força cumprimento de acordo sob pena; usado entre Fang Yuan e Bai Ning Bing, e oferecido por Tie Ruo Nan | Fang Yuan já cansado de refinar o "Gu de comer as próprias palavras" (Cap. 303)
+- Stone turtle strength Gu (Gu de Força de Tartaruga de Pedra) | rank ? | força | Gu de força sendo fundido/refinado junto com outros 3 (esfera de luz vermelha/laranja/verde) | refinamento falhou 4 vezes seguidas, causa sangramento nasal e tontura por backlash de alma (Cap. 304)
 
 ## B) Sistemas e atividades jogáveis
+- Arena/palco de batalha (battle stage) da Cidade Shang: sem restrição de rank/cultivo para espectadores, só precisa pagar para assistir (Cap. 299).
+- Sistema de "desafio forçado" (forceful challenge): regra da arena permite desafiar outros Gu Masters; para evitar perseguição intencional, o desafiado ganha 8 dias de descanso após cada luta; Fang Yuan limita-se a aceitar só 4 lutas/mês (Cap. 301).
+- Vitórias na arena rendem pedras-primevas (primeval stones) como prêmio e fazem a fama/nome do lutador se espalhar (Cap. 301).
+- Refino simultâneo de múltiplos Gu numa única esfera de luz colorida ("fundir" vários Gu ao mesmo tempo): risco de explosão/falha com backlash de alma (sangramento nasal, tontura) se os Gu não se harmonizarem (Cap. 304).
 
-### Arena (battle stage) da Cidade Shang — REGRAS COMPLETAS
-- **Estrutura por cidade interna**: a arena tem divisões por cidade interna (5ª→1ª); FY sobe da 4ª cidade interna para a 3ª (cap. 304). Palcos de tamanhos (médio, super) e terrenos variados: piso de lajes de pedra (cap. 299), pradaria ("terreno comum das Planícies do Norte", cap. 312), floresta de pilares de pedra negra (cap. 316) — terreno influencia tática (Yan Tu incendeia a grama p/ alimentar dragões de fogo; FY usa pilares p/ frear cargas).
-- **Espectadores**: sem restrição de cultivo — basta pagar; ingresso citado: 20 pedras primordiais por luta (cap. 315). Barreira do palco isola som e a maior parte do impacto (cap. 313, 319).
-- **Mestre Gu anfitrião (host)**: anuncia resultado e separa combatentes à força usando o poder do palco (força informe imobiliza o perdedor) (cap. 301, 314).
-- **Desafio forçado (forced challenge)**: qualquer um pode desafiar; para evitar "targeting", o desafiado tem direito a **8 dias de descanso após cada luta**; FY só aceitava **4 lutas/mês** (cap. 301).
-- **Prêmio**: o vencedor tem o direito de exigir **um Gu do perdedor** (Yan Tu tomou o Cristal de Gelo de BNB — perder o Gu vital causa backlash com sangramento pelos 7 orifícios; JKB perdeu o Djinn Mind) (cap. 314, 321).
-- **Ancião externo**: quem dominar a arena e **defender o posto por 18 lutas** vira ancião externo do clã Shang — política exclusiva no sul (atrai talentos demoníacos; por isso caravanas Shang raramente são atacadas). O clã não tinha um ancião externo novo havia 10+ anos (cap. 311, 321). SEGREDO: Ju Kai Bei e Yan Tu ("metade do céu da arena" cada) são peões secretos de Shang Yan Fei para controlar a arena (cap. 311).
-- **Apostas: PROIBIDAS** — um jovem mestre abriu casa de apostas da arena, lucrou 500 mil em 2 dias e no 3º dia foi fechado, rebaixado e exilado. Motivo de design: apostas incentivam manipulação de resultados e minam a política de anciões externos (cap. 327).
-- **Negócio de informação (permitido)**: ideia de Shang Xin Ci — catalogar força/Gu/histórico dos lutadores, vender dossiês, contratar peritos para previsões pré-luta, críticas pós-luta e rankings. Justificativa política: ajuda o clã a vigiar os demoníacos abertamente sem ofendê-los. Rendeu 140 mil em 7 dias (300 mil→440 mil) (cap. 322–323, 327, 333).
-- **Títulos e fama**: apelidos surgem organicamente ("Demônios Preto e Branco", "Pequeno Rei das Bestas" — porque "Rei das Bestas" já era um rank 5 estabelecido); reputação é ferramenta ("às vezes mais forte que a força", cap. 337).
+## C) Regras do mundo
+- Estatura de Gu Masters/mortais normalmente não ultrapassa 2 metros; alturas fora disso (como os quase 3m de Zhu Ba) resultam do uso de Gu específicos (Cap. 299).
+- Gu Masters voadores costumam ocar os ossos para reduzir peso; Gu Masters escavadores usam Gu de encolhimento ósseo para virar "anões" e gastar menos energia ao cavar (Cap. 299).
+- Rank cinco é considerado o pico do reino mortal (mortal realm peak) (Cap. 302/303).
+- Um Gu Master de rank cinco representa grande força; a morte de um é descrita como perda relevante até para clãs grandes (Cap. 302).
+- Quanto maior o rank do Gu Master que doa essência primeva (via Flesh bone unity Gu), maior a diferença/ajuda entre pequenos reinos de cultivo transferida ao receptor (Cap. 304).
+- Ao mudar de caminho de cultivo (ex.: de outro caminho para o caminho da força), Gu que "se sobrepõem" em função podem ser vendidos por não servirem mais ao estilo (Cap. 301, venda do Canopy Gu).
 
-### Cidade Shang — economia e instituições
-- **Ficha de Espinho Púrpuro (purple thorn token)**: convidado de honra do clã; protege a vida dentro da cidade; **matar na cidade = perder a ficha** (regra confirmada por anciões); FY esmaga a sua publicamente como jogada de intimidação (cap. 303, 332).
-- **Multas**: agredir alguém na cidade = multa de **49 pedras primordiais** (regras cap. 3, art. 25); FY paga 50 e diz "fique com o troco"; BNB paga 500 adiantado "pelo que ainda vamos quebrar" (cap. 330, 332).
-- **Dez jovens mestres**: cada um administra um setor: lojas (Shang Ya Zi), arena (Shang Chi Wen), zona de batalha Gu (Shang Chao Feng), leilões (Shang Fu Xi), bordéis (Shang Pu Lao), restaurantes/seda (Shang Suan Ni), zona de refino substituto (Shang Bi Xi). Jovem mestre pode **requisitar 3 Gu por ano** ao clã, que os busca sem custo (cap. 305, 309).
-- **Exame de jovem mestre**: tradição única — **comércio**. Capital inicial de 100 mil pedras; 3 meses; quem lucrar mais vence. ~300 mil elimina a maioria; 600 mil = alta chance; 700–800 mil = resultado de primeira classe; >800 mil = raro (<20 na história); recordes: Shang Tuo Hai 890 mil, Shang Yan Fei 920 mil, Shang Gui Cai 1.110 mil (físico dos dez extremos). Trapaça = desqualificação (ninguém jamais teve sucesso trapaceando); "bolas curvas" dentro das regras são toleradas (cap. 322, 324).
-- **Falsificação de contas** = crime capital político: Shang Ya Zi perdeu o posto e foi exilado 3 anos no grupo de captura de escravos (cap. 311).
-- **Mercado de escravos**: monopólio do clã (só membros do clã Shang administram; chefiado pelo 1º ancião Shang Bu Li); controle de escravos via Gu Escorpião Venenoso + fezes (antídoto semanal); Gu Escravidão rank 5 existe mas é caro demais para uso comum (cap. 328–330).
-- **Porta do Tesouro Vivo (living treasure door)**: tesouraria ancestral do clã; nem o líder ignora as regras dos ancestrais; guarda 2 Lótus do Tesouro rank 3 e 1 Monarca rank 4; Relíquias de Ouro Amarelo estocadas fora de mercado como isca de recrutamento (cap. 315, 350).
-- **Leilão**: salas privadas (compradas), lances de incremento decrescente conforme o preço sobe; receitas vendidas sem avaliação (risco: vazamento na avaliação desvaloriza a receita — "receita que todos conhecem vale menos que papel em branco") (cap. 305–308).
-- **Festival Auspicioso**: feriado anual em que lojas fecham e todos montam barraquinhas (comemora o 1º negócio do ancestral fundador); banquetes dos jovens mestres = sinalização política (cap. 326–327).
-- **Feng Yu Manor**: agência de inteligência do clã, sob Wei Yang (cap. 306).
+## D) Números e preços
+- 100.000 (cem mil) pedras-primevas: preço estimado do tratamento do Doutor Su Shou (rank 5) para curar o olho perdido de Tie Dao Ku, em Shang Clan City (Cap. 302).
+- 4 lutas por mês: limite que Fang Yuan se impõe na arena, mesmo podendo aceitar mais desafios (Cap. 301).
+- 8 dias: tempo de descanso garantido a quem é desafiado na arena antes de precisar lutar de novo (Cap. 301).
+- 80% / 20%: proporção de força devolvida por contra-choque (80%) vs. retida (20%) pela defesa gordurosa de Zhu Ba (Cap. 300).
+- 92%: aptidão atual de Bai Ning Bing (ten extreme physique), em ascensão (Cap. 301).
+- ~1 ano: tempo que passa entre a partida de Tie Ruo Nan e a cena de refino do Stone turtle strength Gu (Cap. 304).
+- Rank três inicial → rank três médio: avanço de cultivo de Fang Yuan em poucos meses, graças ao Flesh bone unity Gu de Bai Ning Bing (Cap. 301).
+- 4 falhas seguidas: número de tentativas fracassadas de Fang Yuan ao refinar/fundir o Stone turtle strength Gu com os outros três Gu (Cap. 304).
 
-### Herança dos Três Reis (San Cha) — mecânica completa
-- **Entrada**: 3 pilares de luz (amarelo=Rei Quan, azul=Rei Xin, vermelho=Rei Bao) nos 3 picos; abrem em ciclos; cota limitada de entrantes por abertura; **1 entrada por pessoa por abertura**; os pilares encolhem conforme a terra abençoada definha (cap. 323, 339, 356).
-- **Chaves de entrada**: Rei Quan = Gu Escravizar Cães rank 1; Rei Xin = Gu Grou de Papel; Rei Bao = Gu Ovo Explosivo (por isso FY comprou os três em massa e triplicou o capital de Xin Ci) (cap. 324).
-- **Leis internas** (terra abençoada de Imortal Gu remodelada pelos 3 Reis): tempo ×3; Gu Masters só usam o Gu-chave (+ Gu rank 6, imunes a qualquer terra abençoada); defesas corporais suprimidas — todo mundo vira "mortal frágil"; **Gu não podem se autodetonar** ⇒ matar = saquear TODOS os Gu do morto (grande incentivo ao assassinato interno); a terra confisca Gu-chave extras (deixa 1); refino de Gu saqueado é facilitado pelo poder celeste (cap. 346–348, 352).
-- **Rondas**: 100 rondas; dificuldade salta a cada 10; a partir da 10ª, escolha entre 3 caminhos com "sombras de luz" (prévia do inimigo/prêmio; ficam mais nítidas com o progresso); saídas voluntárias periódicas (teste de ganância — recusar a saída pode custar a vida); ~30ª ronda: só sobram os do caminho certo; 50ª: elites; 70ª: veteranos; 90ª+: só rank 5. Na 1ª vida, levou ~10 anos até alguém zerar (cap. 346–347, 350).
-- **Rei Quan (escravização/cães)**: subjugar cães selvagens → grupos crescentes; a partir da 20ª ronda surgem reis de cem bestas (com Gu selvagens); tipos: cão-relâmpago (velocidade 2×), akita-crisântemo (união — quanto mais, mais fortes; rei se esconde entre eles), cão-ouriço (espinhos, dano dobrado, perigo sem contramedida), cão de armadura de aço (defesa; fraco a eletricidade), cão Yin (incorpóreo — atravessa pedra/terra/água; imune a ataques comuns), cão-cadáver (come cadáveres p/ curar; decai no late-game), cão heavy tai (equilíbrio defesa+união — "tropa principal"), os 5 grandes cães da montanha (heavy tai, green hua, smoke song, light heng, star heng — formam grande formação), hienas (2 reis), mastins-leão (mutantes, trunfo do Rei Quan), e 2 imperadores-cães ancestrais **Ying Ming e Ba Huang** (cada um vale um rank 5) (cap. 347–351, 381, 386, 391).
-- **Rei Xin (refino)**: duelos de refino contra homens peludos (hairy men — humanos variantes, peludos, burros, talento nato de refino): perde quem falhar/terminar depois; o perdedor morre por raio do poder celeste. **Exploit**: nas primeiras ~20 rondas, elogios/bajulação distraem o homem peludo e o fazem falhar (segredo divulgado por FY); a partir da 30ª ficam espertos; materiais das rondas anteriores **podem ser guardados** para usar depois (truque escondido do Rei Xin); a partir da 40ª pode-se usar 1 Gu (só de refino) e há prêmios (Gu, receitas, pedras, Relíquia de Ouro, Pássaro Sem Pés). Vencer a ronda 100 = herança (Cem Batalhas Invictas + Divulgar Informação) e os homens peludos seguem o vencedor (seguem quem refina melhor) (cap. 356–358, 389, 391).
-- **Rei Bao (fogo)**: exterminar homens-ovo (eggmen — variantes com ovo no peito; vermelhos moram em rochas vulcânicas; verdes têm castelos e imperatrizes-ovo; Rei Bao tinha 8 imperatrizes) usando o Gu Ovo Explosivo; porta final de pedra só abre com Gu de fogo (Xiao Mang, da luz, não conseguiu) (cap. 376, 391–392).
-- **Fichas de fuga**: ficha de viagem (3 usos) obtível como prêmio; no fim valia um Gu rank 4; a terra/espírito pode desativar as fichas dos inimigos (cap. 351–352, 368, 382).
-- **História dos 3 Reis**: órfãos do clã Wang exterminado pelo clã Wu (homônimo, não o hegemônico); caíram na terra abençoada de um Imortal Gu antigo; 100 anos de cultivo; os três em rank 5 aniquilaram o clã Wu em 3 dias; nomes verdadeiros: Rei Quan = Wang Er Gou; Rei Xin (mulher, refino) = Wang Xiao Ya; Rei Bao = Wang Ba Dan (cap. 324, 391).
+## E) Locais e atividades
+- Shang Clan City (Cidade do Clã Shang) — cidade onde Fang Yuan (como "Fang Zheng") reconstrói sua vida; tem arena de batalha (battle stage) de médio porte, com piso de pedra; economia com preços altos ("commodity prices... is high") (Cap. 299, 302).
+- Nan Qiu garden (Jardim Nan Qiu) — residência de Fang Yuan e Bai Ning Bing em Shang Clan City; tem porteiro (doorboy) treinado pelo Clã Shang que barra visitas durante cultivo em sala secreta (Cap. 302).
+- Qing Mao mountain (Montanha Qing Mao) — local do confronto passado onde Tie Xue Leng morreu e Fang Yuan/Bai Ning Bing escaparam; ainda coberta de neve/gelo na memória de Tie Ruo Nan (Cap. 302–303).
+- Yi Tian mountain (Montanha Yi Tian) — local da futura "grande batalha demoníaco-justa" (great demonic righteous battle), mencionada como evento-chave/atalho de crescimento (Cap. 304).
 
-### Refino do Gu Segunda Abertura (Second Aperture) — o "endgame" secreto
-- **Origem**: a terra abençoada é de um **Imortal Gu do caminho da força da era antiga** que criou a receita e morreu numa tribulação antes do passo final; sua obsessão + poder celeste = espírito da terra **Ba Gui** (tartaruga gigante). Quem completar o desejo vira dono da terra (cap. 377).
-- **Candidato**: precisa ser Mestre Gu do caminho da força, com fantasmas de besta, forte, e chegar **à beira da morte** (o antigo dono, rancoroso, exigia que o herdeiro "compartilhasse sua emoção") — por isso FY se deixa quase matar pelos homens-ovo (cap. 376–377).
-- **Recursos do salão de bronze**: caldeirão com o resto da **essência imortal** (dividida por FY em 16 porções: 8 refino, 4 sustentar a herança, 3+ para matar, resto reserva); estoque de 5000+ Gu (600+ rank 4, ≥80 rank 5, 10+ Relíquias de Ouro, 8 Relíquias de Cristal Púrpuro), materiais raríssimos e o Gu Viagem Divina selado (cap. 378–379).
-- **Substituição**: parte da essência imortal pode ser substituída por pedras primordiais — ao custo de **30 milhões** de pedras (FY tinha 1 milhão; planejava saquear o resto dos mortos) (cap. 379).
-- **Receita (verso)**: "Pó de sangue em solo podre, flor-tesouro na terra. Osso de jade em pétalas, músculo de gelo em caule, relíquia dourada no coração da flor. Fogo estelar brilhante, gelo e neve em planícies. Nuvem yang queima com fogo de elixir abaixo, nuvem yin espalha areia como ouro acima, fantasmas de besta ao centro até o trovão estalar, criando a placenta de força de besta, e colete aberturas... Grama selvagem cresce, o qi do sangue como o mar. Trezentos anos como primavera, quinhentos anos como outono. Com oportunidade divina ilimitada, nade e vague pelos ermos, some a terceira vigília, e outra terceira vigília, obtendo nove. Nove como extremo, o refino se completa!" ~10 mil palavras, ~1000 passos, centenas de materiais, dezenas de Gu rank 4–5 e **um outro Immortal Gu (Viagem Divina)** no passo final (cap. 378, 388).
-- **Coleta de aberturas**: a Placenta devora aberturas de Mestres Gu mortos; qualidade sobe com o rank/fundação da vítima (Tie Mu Bai pico do 5 = 40% sozinho; 5 rank 5 + vários rank 4 ≈ 89%); teto = aptidão do refinador (90% de FY) (cap. 379–387).
-- **Passo final**: essência imortal queima sem fogo; sangue essencial do refinador vincula o Gu; 2 Gu Tempo de Vida (300+500 anos — a nuvem tenta fugir/vira dragão ao devorá-los); fusão com o Viagem Divina; 2× Terceira Vigília (tempo ×9). Falha = backlash letal para um mortal. Na 1ª vida FY só conseguiu com o espírito da terra + o grão-mestre de refino Feng Tian Yu escravizado; e mesmo "pronto", o Gu precisa de essência imortal para ser usado — sem ela, é inutilizável (cap. 388–397).
+## F) Golpes matadores e receitas
+- Ice blade storm (Tornado de Lâminas de Gelo) — golpe matador autoral de Bai Ning Bing: combina Revolving Gu + Whirlwind Gu + Ice blade Gu; eficaz contra rank 2, considerado ultrapassado/insuficiente no rank 3 (Cap. 299).
+- Rolling blade meat (Carne Rolante de Lâmina) — golpe matador de Zhu Ba: corpo inteiro vira bola de gordura gigante envolta em aura de lâmina que rola e esmaga/corta (Cap. 300).
+- Receita de refino combinado: Stone turtle strength Gu + outros 3 Gu (esfera vermelha/laranja/verde) fundidos numa única esfera de luz — tentativa de criar um Gu composto; 4 falhas registradas, cada uma com explosão de luz e backlash de sangue no nariz e tontura (Cap. 304).
 
-### Terras abençoadas, essência imortal, espíritos da terra
-- Terra abençoada = mundo pequeno criado por um Imortal Gu (rank 6); tempo e espaço próprios (esta: pico 6000 km² e tempo ×6; decaída: ×3; Hu Immortal: ×5) (cap. 366, 383).
-- **Calamidades**: calamidade terrestre a cada 10 anos, tribulação celeste a cada 100; sem espírito da terra, a terra é um "navio afundando" que qualquer um saqueia (cap. 374).
-- **Espírito da terra (land spirit)**: vontade restante do Imortal morto + poder celeste; dentro da terra equivale a um Imortal (pode selar qualquer Gu ≤5, teleportar pessoas, manipular tudo); NÃO sai da terra; se um Imortal ataca, o espírito pode se autodestruir levando tudo junto — por isso os 10 Imortais de Tian Ti mandam discípulos em vez de atacar; comparado por FY a "uma IA pré-programada": cumprir o requisito = obediência, sem espaço p/ lábia (cap. 366, 372, 377).
-- **Destruição**: sem essência imortal, sopram os **ventos de assimilação**, que desfazem tudo (até Imortais Gu os temem); buracos conectam ao mundo externo e dobram o gasto de essência (cap. 375, 387).
-- **Herança Hu Immortal (Tian Ti, Continente Central)**: as 10 grandes seitas pactuam disputa "justa" entre discípulos de elite; ordem de entrada = ranking da competição interna (vantagem: tempo ×5 amplia a diferença de chegada); dentro, todos os Gu são selados pela vontade da Imortal Hu — escalar a **Montanha Dang Hun** (choques crescentes na alma; almas fracas se dispersam no meio; versão "justa": eliminados são ejetados vivos) apenas com o corpo e a alma; o 1º a chegar ao topo vira mestre do espírito da terra (menina-raposa). Trapaças toleradas: alma do Lorde Grou Celeste sustentando Fang Zheng (via Gu Caminho Próprio); Gu Asas dos Sonhos de Feng Jin Huang (ativado com alma). FY vence por teleporte: o teste **não proibia Immortal Gu** (cap. 365–366, 372, 375, 394, 398, 405).
+- Bitter strength Gu (Gu de Força Amarga) | rank 4 | força | consumo baixíssimo de essência primeva (rank 3 já consegue ativar); item raro e caro | preço de mercado ~380.000 pedras-primevas; Fang Yuan não conseguia comprar (obstrução de Shang Ya Zi), tentava refinar sozinho (Cap. 304/307)
+- Brown bear strength Gu, Galloping horse strength Gu, Green bull labor Gu, Stone turtle strength Gu | rank ? | força | Gu "de força animal" consumidos/perdidos como material em 4 tentativas fracassadas de fusão do Bitter strength Gu | (Cap. 304)
+- White silver relic Gu (Relíquia de Prata Branca) | rank ? | cultivo | usado para empurrar diretamente a cultivação de estágio superior para estágio pico dentro do mesmo rank | Fang Yuan planeja usar ao chegar no rank 3 estágio superior (Cap. 304, 309)
+- Spring Autumn Cicada (Cigarra Primavera-Outono) | rank 6 | vida (life Gu) | Gu vital de Fang Yuan; absorve a "água do rio do tempo", ficando mais forte com o tempo e pressionando a abertura (aperture) dele | situação bem melhor que na Montanha Qing Mao graças ao rank 3 já alcançado (Cap. 304)
+- Frost arrow Gu (Gu de Flecha de Gelo) | rank 4 | gelo | dispara flecha de gelo à distância; baixo consumo de essência primeva, ativável até por rank 3 | leilão: base 70.000, arrematado por Bai Ning Bing por 150.000 (Cap. 305/306)
+- Thousand year wind willow (Salgueiro do Vento Milenar) | material (não é Gu) | vento | material de refinamento raro, só cresce em locais de vento forte constante; usável em refino de rank 5; Ju clan só tinha 18 remanescentes | leilão: base 50.000, arrematado por ~100.000 (Cap. 307)
+- Chasing wind Gu (Gu de Perseguir o Vento) | rank 4 | vento/movimento | Gu de movimento, aumenta muito a velocidade; carrega "marca do Dao" de vento, incompatível com o estilo de fantasmas de bestas de Fang Yuan | leilão: base 180.000, arrematado por Yi Bu Hui (clã Yi) por 440.000 (Cap. 307)
+- Fairy wind Gu (Gu de Vento Fada) | rank 4 | vento | ingrediente (junto com Seven shining stars Gu) da receita do Fixed star Gu, que por sua vez é ingrediente principal do Fixed immortal travel Gu | Fang Yuan conhece a receita mas não a usa aqui (Cap. 307)
+- Dream Travel / Carefree Travel / Fixed Immortal Travel / Liquor God Travel (os "quatro grandes Gu de movimento") | rank 6 cada | movimento | Dream Travel entra em sonhos alheios; Carefree Travel é o melhor para esquivar; Fixed Immortal Travel teleporta o usuário a qualquer lugar desejado; Liquor God Travel é o mais especial, mencionado como originário de "Lendas de Ren Zu" | Fang Yuan tem as receitas de Carefree e Fixed Immortal Travel de sua vida passada, mas falta material/taxa de sucesso baixa (Cap. 307)
+- Atmosphere Gu (Gu de Atmosfera) | rank 4 | natural/vento | Gu natural (nasce do vento, absorve energia vital), formato de borboleta de asas azuis; usado em grupo/clã inteiro para instalar ou remover um hábito coletivo; historicamente usado contra grupos de bestas (ex.: javalis de agulha de aço induzidos a esfregar a pele em pedras, destruindo sua defesa natural) e entre clãs (ex.: remover hábito de fabricar vinho p/ economizar comida; incutir em mulheres de um clã rival o desejo de enfaixar os pés, enfraquecendo-as até a queda do clã) | leilão: base 260.000, arrematado por Fang Yuan por 500.000 (Cap. 308)
+- Eating wind Gu (Gu de Comer Vento) | rank 2 | vento | permite ao usuário "comer" vento e saciar a fome | leiloado em lote de 38 unidades, especialidade do clã Ju (Cap. 308)
+- Recipe (receita) da Heavenly Essence Treasure Monarch Lotus (rank 4) | não é Gu, é receita | cultivo/planta | receita de refino que exige a própria Heavenly Essence Treasure Lotus (rank 3) como ingrediente principal | leilão: base 500.000, arrematado (por procuração de Wei Yang, para Fang Yuan) por 670.000; não avaliada/autenticada antes do leilão (Cap. 308/309)
+- Heart engraved Gu (Gu Gravado no Coração) | rank 1–5 (nº de "corações" no casco = rank) | armazenamento | tipo "bicho-livro" (bookworm) que armazena informação/receitas; ao ser injetado, grava a informação permanentemente na memória do usuário, impossível de esquecer | Wei Yang usa um rank 4 para transferir a receita da Monarch Lotus a Fang Yuan (Cap. 309)
+- Turtle tire Gu (Gu de Pneu de Tartaruga) | rank ? | força | dá a força de dez tartarugas | Gu núcleo de Shang Bi Xi (Cap. 305)
+- Heavenly Essence Treasure Lotus / Monarch Lotus / King Lotus / Imperial Lotus (Lótus do Tesouro da Essência Celestial, graus Rei-Monarca-Rei-Imperial) | rank 3/4/5/6 respectivamente | cultivo/planta lendária | série de Gu-planta; Gu núcleo do lendário Immortal Venerable Genesis Lotus; quem consegue refinar a versão rank 6 (Imperial) recebe o "chão de herança" (inheritance ground) do Immortal Venerable Genesis Lotus | Fang Yuan possui a versão rank 3 (fonte de essência primeva ilimitada) (Cap. 308/309)
+- Tornado Gu | rank 3 | vento | comprado por Bai Ning Bing no leilão | (Cap. 308)
 
-### Sistema de seitas do Continente Central (Seita Grou Imortal)
-- Mestre-discípulo substitui laços de sangue; recruta por talento/caráter; hierarquia: discípulo externo → interno (exame trienal) → de elite (exame de 8 anos) → de legado (exame de 15 anos) → ancião (rank 4+) → líder (rank 5) → anciões supremos (rank 6, até rank 7). Lealdade precisa ser comprovada por missões (diferente dos clãs). Sem aptidão C nas 10 grandes seitas; B é comum, A abundante (cap. 335).
-- Manipulação de grous: exige prática; batalhas de bandos decididas por controle, não números; Tian Ti = "terra das heranças", montanha-escada de 3000 km (cap. 334–335, 341).
+## B) Sistemas e atividades jogáveis (cont.)
+- Leilão da Cidade Shang (Ju clan auction): sistema estruturado — mestre de cerimônias usa Gu amplificador de som, itens numerados (até ~49 itens), cada item tem preço-base anunciado, lances sobem em incrementos que encolhem conforme o preço cresce (de ~5.000 para 3.000, depois para 1.000) (Cap. 305–309).
+- Salas privadas no leilão: reservadas para portadores de token/convite (ex.: purple thorn token); permitem lances anônimos por número da sala, sem revelar identidade nem sequência dos itens — informação normalmente sigilosa, mas acessível a quem controla uma rede de inteligência (ex.: Feng Yu Manor de Wei Yang) (Cap. 305–306).
+- Primeval elder Gu (Gu Ancião Primevo): funciona como "carteira"/moeda-container — guarda uma quantia de pedras-primevas; tem uma figura ("ancião") visível cuja expressão/humor indica visualmente o volume de riquezas guardado (Cap. 306).
+- Golpe de leilão de Fang Yuan: inflar lances de um item alvo (Bitter strength Gu) para forçar um rival com ego ferido (Shang Ya Zi) a pagar bem acima do preço de mercado, então desistir de propósito no fim — tática de guerra psicológica/financeira, não de aquisição (Cap. 306–308).
+- Recipe masters (mestres de receita): três tipos — os que restauram receitas antigas, os que estudam Gu formados naturalmente para deduzir sua receita, e os que criam receitas totalmente novas (Cap. 308).
 
-### Outros sistemas
-- **Golpes matadores (killer moves)**: combinação afinada de vários Gu; consomem muita essência/mente mas têm poder desproporcional; só veteranos ou gênios os criam (cap. 314).
-- **Multitarefa mental**: "N tarefas ao mesmo tempo"; BNB (físico dos dez extremos) chega a 5; FY faz 4; Gu Multitarefa soma linhas (cap. 314, 351).
-- **Aptidão e essência**: aptidão A de FY = 90% de mar primordial; recuperação proporcional à aptidão (BNB rank 3 A supria contra rank 4 B de Yan Tu); cores por rank/estágio — rank 3 prata: leve/florida/brilhante/neve; rank 4 ouro: leve/brilhante/essencial(+ com Nove Olhos); rank 5 cristal púrpura: leve/violeta/profundo/cristal (cap. 312–313, 379).
-- **Paredes da abertura por estágio (rank 3)**: parede de luz → parede d'água (médio) → membrana de pedra (superior) → pico; rank 4: membrana fina de luz brilhante (cap. 301, 312, 331).
-- **Falha de refino**: backlash no corpo e na alma; dano de alma causa ~1 mês de tontia (fatal entre especialistas); Gu de cura de alma são raríssimos, monopolizados por grandes clãs (cap. 304).
-- **Espólio de Gu**: fora de terras abençoadas, o moribundo autodetona os Gu com um pensamento (mais rápido que qualquer golpe) — espólio raro; formas normais de obter Gu: comércio, criação, captura, fusão, refino reverso (cap. 345, 352).
-- **As 4 categorias de talento** (Li Xian, cap. 344): caminho justo — 1º talento+virtude, 2º virtude sem talento, 3º talento sem virtude, 4º nada; caminho demoníaco inverte: 1º TALENTO SEM VIRTUDE (o mais perigoso), 2º talento+virtude (a virtude vira corrente), 3º nada, 4º virtude sem talento (autodestrutivo).
-- **Venerados (rank 9)**: um por era, nunca dois; Immortal Venerable (justo) / Demon Venerable (demoníaco); Venerável Demônio Lótus Rubra = o mais misterioso; dono original da Cigarra; desafiou a Corte Imortal e "quebrou as correntes do destino" (cap. 383).
-- **Rio do tempo / renascimento**: mundo = 5 regiões + 1 rio do tempo; história = imagens ligadas por um fio; a Cigarra nada contra a corrente e injeta vontade/memória numa imagem passada; há **efeito borboleta** mas também **inércia histórica** (grandes eventos acham novos gatilhos) (cap. 383, 402).
-- **Porta da Vida e da Morte**: terra proibida imemorial no nível do rio do tempo; reflete as 5 regiões; Gu naturais únicos (Vida, Morte); Ren Zu foi lá tentar reviver Verdant Great Sun; hoje está DENTRO da terra abençoada da **Seita das Sombras** (Shadow Sect — fundada por um Imortal rank 8 da era imemorial; hoje reduzida a Chou Jiu e Doutora Su Shou/Chen Jiu) (cap. 384–385).
-- **Método anti-voto venenoso** ("para viver, é preciso morrer"): deixar o voto matar o portador e ressuscitá-lo (cura de legado único da Doutora Su Shou; 1/3 de falha = morte real) (cap. 396).
+## C) Regras do mundo (cont.)
+- Falha no refino de Gu causa dano retroativo (backlash) ao corpo e à alma do Gu Master; dano físico é mais fácil de tratar, dano à alma é grave e demorado (pode causar tontura por mais de um mês, afetando força de combate) (Cap. 304).
+- Quanto maior o rank e mais raro o Gu sendo refinado, mais severo o backlash em caso de falha; refinadores podem ficar seriamente feridos, acamados ou morrer por causa disso (Cap. 304).
+- Gu que curam dano à alma existem mas são extremamente raros, normalmente guardados só por grandes clãs (Cap. 304).
+- Um Gu Master de rank quatro equivale em poder/status a um líder de clã comum (Cap. 306).
+- Aptidão de Gu Master é medida por grau (D/C/B/A) + porcentagem dentro do grau; Gu como o "man triumphing heaven Gu" pode forçar o despertar da abertura mas resulta em aptidão baixa (Shang Xin Ci começou em D grade 20%, subiu a C grade 59% após 2 anos de investimento) (Cap. 305, 309).
+- Existe tabu social entre Gu Masters: não se pergunta casualmente quais Gu worms outro Gu Master possui (Cap. 309).
+- Receitas de refino valiosas normalmente exigem avaliação/autenticação antes da venda para evitar vazamento do conteúdo; quanto menos gente souber de uma receita, mais ela vale ("receita conhecida por todos vale menos que papel em branco") (Cap. 308).
 
-## C) Regras do mundo (fatos mecânicos, um por linha)
+## D) Números e preços (cont.)
+- 380.000 pedras-primevas: preço de mercado do Bitter strength Gu (Cap. 304/307).
+- ~1.000.000 pedras-primevas: acumulado por Fang Yuan em 1,5 ano de vitórias na arena (Cap. 304).
+- 1.200.000 pedras-primevas: quantia que Shang Ya Zi levou para o leilão (Cap. 306).
+- Frost arrow Gu: base 70.000 → vendido por 150.000 (Bai Ning Bing paga 40.000 acima do 2º maior lance por causa da implicância de Shang Ya Zi) (Cap. 306).
+- Thousand year wind willow: base 50.000 → vendido por quase 100.000 (Cap. 307).
+- Chasing wind Gu: base 180.000 → vendido por 440.000 (Cap. 307).
+- Bitter strength Gu (leilão): Fang Yuan abre em 200.000, disputa sobe até 810.000 (vencido por Shang Ya Zi, que Fang Yuan deixa vencer de propósito) — mais que o dobro do preço de mercado (Cap. 307/308).
+- Atmosphere Gu: base 260.000 → vendido a Fang Yuan por 500.000 (Cap. 308).
+- Receita da Heavenly Essence Treasure Monarch Lotus: base 500.000 → vendida por 670.000 (Cap. 308/309).
+- >2.000.000 pedras-primevas: patrimônio de Fang Yuan no momento do leilão (Cap. 307).
+- ~1.000.000 pedras-primevas: valor do primeval elder Gu que Wei Yang empresta a Fang Yuan (Cap. 306).
+- 100.000–300.000 pedras-primevas: mesada mensal de Shang Xin Ci (dada por Shang Yan Fei), entregue toda a Fang Yuan no leilão (Cap. 306).
 
-- Mestres Gu do gelo normalmente buscam defesa/captura; fogo e trovão focam em explosão — BNB inverte o padrão (299).
-- Altura humana normal ≤ 2 m; corpos maiores implicam Gu modificador (Zhu Ba ~3 m); voadores ocam os ossos, escavadores usam Gu de encolher ossos para gastar menos (299).
-- Contra-choque de Zhu Ba: devolve 80% da força do atacante; exige controlar ≥3 Gu simultâneos — sobrecarregar sua concentração quebra a defesa (300).
-- Rank 3 essência prata: inicial=prata-leve, médio=prata-florida, superior=prata-brilhante, pico=prata-neve (312).
-- Quanto maior o rank, maior a diferença entre sub-estágios e mais difícil lutar acima do próprio nível (301, 345).
-- Perguntar quais Gu alguém possui é tabu grave entre Mestres Gu (309).
-- Um Gu vital perdido causa backlash (sangramento pelos sete orifícios) (314).
-- Killer move típico: vários Gu ativados juntos com pareamento meticuloso; alto custo de essência e mente (314).
-- Físico dos dez extremos: aptidão sobe sozinha rumo a 100% (maldição); BNB 92%→93%→96%→100% ao longo do arco (301, 305, 326, 395).
-- Caminho do qi: dominava a era antiga (8 em 10 Mestres Gu), depois substituído pelo caminho da força, hoje ambos quase extintos (315).
-- Caminho da força: fraco em ataques à distância — o eixo tático contra eles é kiting (320).
-- Gu de voo: raros e caros; humano médio treina 2–3 anos para voar, 5+ para lutar voando (358, 361).
-- Voar dá controle quase total da luta (ataca/recua à vontade); cercos terrestres perdem sentido (364).
-- Rank 4 = ancião/líder de clãs comuns; rank 5 = pico mortal, "imperadores" (~só 100+ no Sul inteiro); rank 6 = Imortal Gu (335–337).
-- Gu Immortal (rank 6+) tem essência primordial infinita; mortais são limitados pela abertura (341).
-- Immortal Gu: um único exemplar de cada no mundo inteiro, a qualquer momento (375).
-- Immortal Gu só é ativado com essência imortal (exceções: Asas dos Sonhos usa alma) (398, 405).
-- Rank 5 raramente têm mais de 1–2 Gu rank 5; a força de um rank 5 é medida pelos Gu rank 5 que possui (373, 383).
-- Vida humana normal ≈ 100 anos; extensão confiável só com Gu Tempo de Vida (raríssimos) ou métodos alternativos com efeitos colaterais (367).
-- Refino de Gu exige entender fragmentos de lei do Grande Dao; receita = compreensão do criador sobre céu e terra (378).
-- Refinar Gu com Immortal Gu como ingrediente reduz a dificuldade absurda de criar outro Immortal Gu (388).
-- Gu de escravização: corpo frágil, consumo alto de comida/recursos; nem clã médio banca um; sustentado só por grandes clãs para guerra (350, 386).
-- Rei de cem/mil/dez mil bestas; bestas mutantes (Biao, dragão-elefante, javali-trovão, crocodilo-de-rocha, boi kunlun, mastim-leão) valem 3–4 fantasmas comuns; imperador-besta (mutante ancestral) = um rank 5 (317, 342, 353, 391).
-- Fantasmas de besta são marcas de Dao ocas; não atacam diretamente — precisam do qi de força para se solidificar (320, 343).
-- 8 fantasmas = limite do corpo de FY; cada fantasma solidificado custa 5% de essência prata-neve (317, 320).
-- Aptidão desperta à força (Man Triumphing Heaven) começa em D 20% e sobe com Gu preciosos (Xin Ci: D20%→C59%) (305).
-- A abertura fica no abdômen; morto o dono, ela murcha lentamente (348, 379).
-- Terra abençoada sela Gu ≤ rank 5; nenhum sela Immortal Gu (346, 381).
-- Dentro da herança, Gu não se autodetonam ⇒ matar rende espólio total (regra que "seduz ao crime") (347).
-- Refino falho fere corpo e alma; falhar tarde no processo é desastre (326).
-- Sorte importa: reis de bestas têm Gu selvagens aleatórios; a build da ronda depende do que aparece (351).
-- Homens peludos seguem por instinto quem refina melhor que eles (389).
-- Espírito da terra detecta uso de Gu dentro da terra (384).
-- O sol atual só atravessa o céu branco; dos 9 céus da era imemorial (branco, vermelho, laranja, amarelo, verde, azure, azul, púrpura, negro) restam 2 (branco e negro) (389).
-- Luz da Glória imemorial atravessa tudo, até terras abençoadas e o rio do tempo (371, 389).
-- Voto venenoso interpreta a LETRA da frase — brechas verbais são exploráveis ("terceiro desavisado") (310).
-- Mountain pledge/sea oath: destruir o marco geográfico do juramento anula o voto (384).
-- Gu Escravidão rank 5 num rank 4 é "matar galinha com cutelo de boi" — desperdício de valor (387).
-- Disputa de almas: implantar escravidão/escravização exige vencer a alma do alvo; distração física (apanhar) inclina a disputa (349, 401).
-- Enslavement em pessoa de rank superior é quase impossível sem apoio externo (401).
-- Caminho fantasma (phantom path): "invencibilidade pela esquiva"; florescia na era antiga (395).
-- Caminho do som/alma: golpes de olhar disputam almas diretamente; perdedor tem a alma dispersa sem chance de autodetonar Gu (392).
-- Investigadores rank 5 específicos são os únicos que detectam o Gu Invisibilidade (354).
-- Doutor cura, paciente deve uma morte (regra pessoal de Chou Jiu — "médico-fantasma assassino") (375).
-- Os 4 grandes médicos do Sul: Chou Jiu (ghost doctor), Su Shou, Jiu Zhi (mendigo itinerante), Sheng Shou (divino) — atendem justos e demoníacos (375, 385).
-- Só os 4 grandes médicos curam o veneno do Céu de Jade (400).
-- "Um Imortal só é contido por outro Imortal" (366).
-- Tempo dentro de terra abençoada acelera a recuperação da Cigarra (perigo para FY) (346).
-- Warp Gu deforma o corpo com uso contínuo (398).
-- Legends of Ren Zu = 1ª obra clássica do mundo Gu: registra Gu reais de forma direta (Sabedoria, Força) ou velada (exige pesquisa) (371, 404–405).
-- Fixed immortal travel: exige imagem mental fiel do destino; mudanças grandes no local = falha; não transporta roupas (405).
-- Herança demoníaca mata; herança justa costuma ejetar os reprovados vivos (366).
-- Clã Tie enterra os mortos onde caíram — morrer em batalha é a glória máxima do clã (370).
-- Rank 9 = Venerado; um por era; invencibilidade absoluta (383).
+## E) Locais e atividades (cont.)
+- Ju Feng mountain / Ju clan village (Montanha/Aldeia Ju Feng) — montanha espiritual de ventos fortes constantes, tinha nascente espiritual (spirit spring); aldeia de séculos de história, destruída por um furacão raro ("uma vez a cada cem anos"); sobreviventes buscam refúgio na Cidade Shang e leiloam seus bens (Cap. 304/305).
 
-## D) Números e preços concretos
+- White silver relic Gu (Relíquia de Prata Branca) | rank ? (série "Relic Gu") | cultivo | ao ser usado, eleva a cultivação do usuário em um pequeno estágio (small realm) instantaneamente, com base estável e sem efeitos colaterais | preço histórico 50.000 pedras-primevas (anos antes, na Montanha Qing Mao); Fang Yuan usa para saltar de rank 3 estágio superior para rank 3 pico (Cap. 312)
+- Stone aperture Gu (Gu de Abertura de Pedra) | rank ? | cultivo | outro método de forçar avanço de estágio, mas cobra um preço desastroso: perda de potencial futuro de desenvolvimento | usado por Fang Yuan na Montanha Qing Mao (contrastado com o método seguro do White silver relic Gu) (Cap. 312)
+- Paper crane Gu (Gu de Grou de Papel) | rank ? | mensagem | vermelho brilhante, voa rapidamente para entregar mensagens/ordens | usado por Shang Yan Fei para convocar Ju Kai Bei e Yan Tu (Cap. 311)
+- Fire pellet Gu (Gu de Bola de Fogo) | rank 3 | fogo | dispara bolas de fogo à distância | Gu básico de Yan Tu (Cap. 312)
+- Fiery claw Gu (Gu de Garra Flamejante) | rank 3 | fogo | forma garra gigante de 3 dedos em chamas; alcance limitado a poucos metros do usuário | Yan Tu (Cap. 313)
+- Fiery snake Gu (Gu de Serpente Flamejante) | rank 4 | fogo | invoca serpentes gigantes de fogo controladas simultaneamente; podem ser restauradas/curadas gastando essência primeva, inclusive absorvendo Fire pellet Gu para regenerar tamanho/força; combo batizado de "ataque da serpente dupla" | Yan Tu, refinado ao longo de centenas de combates na arena (Cap. 313)
+- Fuel oil Gu (Gu de Óleo Combustível) | rank ? | fogo/suporte | expele grande quantidade de óleo inflamável âmbar, cobrindo o campo de batalha como um pântano | Yan Tu usa como componente do golpe matador contra o "ice blade storm" (Cap. 314)
+- Vitality Gu (Gu de Vitalidade) | rank ? | suporte/vida | mantém a força vital do usuário; corrente quente flui automaticamente sem controle consciente; permite prolongar o uso do Ice crystal Gu sem virar totalmente uma escultura de gelo | Bai Ning Bing usa em conjunto com Ice crystal Gu (Cap. 313/314)
+- Swirl Gu (Gu de Giro) | rank ? | movimento | aumenta a velocidade de rotação do usuário | parte da versão aprimorada do golpe "tornado de gelo" de Bai Ning Bing (Cap. 314)
 
-- Ingresso de luta na arena: 20 pedras primordiais (315).
-- Multa por agressão na cidade: 49 pedras (FY paga 50); BNB deposita 500 adiantado (330, 332).
-- Tratamento dos olhos com a Doutora Su Shou: 100 mil pedras (302).
-- Bounty do clã Shang pela morte de Fang & Bai: 10 mil pedras + uma ficha de par amarelo (335).
-- Leilão do clã Ju: Frost Arrow base 70 mil → 150 mil (BNB, 40 mil acima do necessário); salgueiro milenar base 50 mil → ~100 mil (18 exemplares restantes no clã); Chasing Wind base 180 mil → 440 mil; Bitter Strength: mercado ~380 mil, FY abre em 500 mil, guerra de lances até 810 mil (Shang Ya Zi); Atmosphere base 260 mil → 500 mil (FY; valeria ~460 mil); receita da Lótus Monarca base 500 mil → 670 mil (306–308).
-- Caixa de Shang Ya Zi no leilão: ≥1,2 milhão; empréstimo de Wei Yang a FY: ~1 milhão; de Shang Xin Ci: 100–300 mil (306).
-- Patrimônio de FY: ~1 milhão após 1,5 ano de arena; >2 milhões no leilão; 2,4 milhões após o esquema dos três Gu (305, 307, 325).
-- Extorsão do clã Bai: 3 milhões, quase metade paga (300 mil recebidos usados nas compras) (323).
-- White silver relic Gu: ~50 mil pedras (preço na caravana Jia) (312).
-- Exame de jovem mestre: capital 100 mil; metas 300/600/700–800 mil; recordes 890/920/1.110 mil (322).
-- Casa de apostas banida: lucrou 500 mil em 2 dias antes do fechamento (327).
-- Esquema dos 3 Gu: lucro médio 20 mil/dia por 10 dias; 100 mil → 300 mil (young master); preços dos 3 Gu triplicaram no mercado (324–325).
-- Informação sobre os Três Reis vendida ao clã Shang: 400 mil + complemento posterior (325).
-- Negócio de informação da arena: 300 mil → 440 mil em 7 dias (recuperou o capital no 1º dia) (333).
-- Refino do Nove Olhos: ~200 mil pedras gastas (326).
-- Refino do Bone Wings: ~180 mil pedras + materiais (358).
-- Strength qi: 5%/fantasma; 8 fantasmas = 40% da essência; com 90% de mar, 2 usos teóricos, 1 prático (320).
-- Djinn transformation: força e mente ×3, consumo ×3 (319).
-- Contra-choque de Zhu Ba: 80% devolvido / 20% sofrido (299).
-- Torrente de Luz / Minha Lança Gloriosa: 60% da essência púrpura de Xiao Mang num disparo; lança 1,8 m × 0,6 m (393, 402).
-- Segunda Abertura: substituição por pedras = 30 milhões; essência imortal em 16 porções (8+4+3+1); FY portava 1 milhão (379).
-- Placenta: 40% (Tie Mu Bai) → 75% (+Wu Gui, Ku Mo, Wu Lan Shan) → 83% (+Yun Luo Tian, Wang Xiao) → ~89% (+Zhang San San); alvo 90% (teto da aptidão A de FY); 2ª vida parou em 83% (379–387, 400).
-- Chances estimadas de FY: 30% contra Ju Kai Bei → 60% com o Bitter Strength; refino da Segunda Abertura: 50% → 30% ao ouvir a receita completa; Cigarra na 1ª vida: <20% (315, 377–378).
-- Refino da Cigarra na vida passada: >10 milhões de mortos em 10 mil li (379).
-- Salão de bronze: 5000+ Gu (600+ rank 4; ≥80 rank 5; 10+ relíquias de ouro; 8 de cristal púrpura) (378).
-- Terra abençoada dos 3 Reis: pico 6000 km² e tempo ×6; atual <1% da área e tempo ×3; Hu Immortal: tempo ×5 (366, 383).
-- Calamidade terrestre: 10 em 10 anos; tribulação celeste: 100 em 100 anos (374).
-- Gu Céu de Jade: vítima se desfaz em ~2 horas; Soft bones: raio de 50 li (~25 km); Extreme light: 3 usos/mês (380, 389).
-- Ficha de viagem: 3 usos; fichas de Yun Luo Tian: 2 (mortas pelo espírito) (352, 382).
-- Rondas de FY: Rei Quan ronda ~21 (fugiu com a ficha; 19 cães na 10ª ronda; ~80 cães na 19ª; +120 cães-relâmpago com o rei); Rei Xin ronda 44 (1ª vida); Wu Shen Tong: 48ª ronda; ronda 100 = herança (347–358, 386).
-- Cem Batalhas Invictas: 1 uso; Terceira Vigília ×2 = tempo ×9 (394, 405).
-- Lifespan Gu: 300 e 500 anos; "obtendo nove" (300+500... verso da receita) (388).
-- Exames da seita: 3 anos (interno), 8 (elite), 15 (legado); Fang Zheng derrotado por Feng Jin Huang em 6 movimentos (335, 366).
-- Continente Central: >50 milhões de km de extensão; Tian Ti: >3000 km de altura (334, 341).
-- Fang Zheng: rank 4 estágio médio ~20 anos; comanda ~10 mil grous bico-de-ferro (1 rei de dez mil bestas, vários de mil e cem) (334–335).
-- Datas do clímax: 19/out (5 porções restantes de essência), 22/out (falha 3× num passo com 1/10 de chance), 24/out = dia D; Feng Jin Huang venceria às 17h30; FY chega ~17h45 (388–389, 399, 405).
-- Wu Shen Tong tinha ~120 cães heavy tai de reserva; exército final de BNB ~100 mil cães; ataque de Mo Wu Tian: 300+500+800+400 homens; ~10 mil Mestres Gu no cerco final (386, 392–394).
-- Century Boy: 180+ anos; Zhou Quan: 100+ anos, ex-rank 4 rebaixado a rank 3 superior; Tie Mu Bai: rank 5 pico; Tie Ruo Nan: rank 4 inicial jovem (367, 325, 370, 375).
-- Recrutamento dos irmãos Xiong: 3 irmãos rank 3 (terra/fogo/vento), aptidão B, 20 anos de serviço jurado pela ficha "Fan" partida (328–329).
-- FY 1 vs 7 do clã Tie: mata 6 (incl. Tie Ba Xiu rank 4 superior); multa zero — fora da cidade (360–364).
+## B) Sistemas e atividades jogáveis (cont. 2)
+- Sistema de essência primeva por sub-estágio (rank 3, cor da essência): estágio inicial = "light silver" (prata clara, fina camada prateada); estágio médio = "blossom silver" (prata em flor, quantidade variável de prata); estágio superior = "bright silver" (prata brilhante); estágio pico = "snow silver" (prata níveo, branco-prateado magnífico). Regra genérica útil para todo o vault: cada rank tem 4 sub-estágios com cor de essência progressivamente mais intensa/pura (Cap. 312).
+- Yan Tu tem "yellow gold primeval essence" (essência primeva dourado-amarela) como cor de rank 4 — confirma que cada rank tem sua própria cor de essência, diferente da progressão prata do rank 3 (Cap. 314).
+- Regra de ascensão social na arena da Cidade Shang: qualquer Gu Master que domine a arena e alcance o nível de um general (ex.: Wei Yang) é promovido a "elder externo" (external clan elder) do clã Shang — via de ascensão social para forasteiros (Cap. 311).
+- Vow Gu (voto) tem "brechas" interpretáveis por texto literal: uma cláusula como "não revelar a um terceiro que não sabe" não impede revelar a alguém que já foi informado ANTES do voto ser feito — regra de design para armadilhas de contrato mágico (Cap. 310–311).
+- Killer move (golpe matador): combinação deliberada de vários Gu ativados ao mesmo tempo through pareamento cuidadoso, formando um movimento де alto impacto; nem todo Gu Master tem um; exige muita experiência ou grande talento; consome muita essência primeva e é mentalmente exaustivo (multitarefa) (Cap. 314).
+- Multitarefa mental (mind doing X tasks at once) é um limitador central de combate: cada Gu ativo simultâneo consome "slots" de concentração; Bai Ning Bing chega a controlar 5 Gu ao mesmo tempo no clímax do "ice blade storm" (Ice edge + Ice crystal + Swirl + Tornado + Frost breath Gu), superando a marca de 4 tarefas do próprio Fang Yuan (Cap. 314).
+- Alocação de essência primeva por função (ataque/defesa/movimento): Gu Masters "ofensivos" tendem a investir a maior parte da essência disponível em Gu de ataque, deixando Gu de defesa/movimento mais fracos e baratos — trade-off explícito de build (Cap. 313).
 
-## E) Locais e o que se faz neles
+## C) Regras do mundo (cont. 2)
+- Cada rank de cultivo tem 4 sub-estágios (inicial/médio/superior/pico), cada um marcado por uma cor de essência primeva específica que fica mais "pura"/intensa a cada sub-estágio (visto no rank 3: prata clara → prata em flor → prata brilhante → prata níveo) (Cap. 312).
+- Diferença de poder entre ranks cresce muito a cada degrau; combate entre ranks diferentes ("fighting across ranks") é descrito como extremamente difícil mesmo quando o de rank inferior tem talento (Cap. 312).
+- Gu Masters de rank mais alto, mesmo com aptidão inferior (grade B), têm reserva/consumo de essência primeva maior que um rank abaixo com aptidão superior (grade A); velocidade de recuperação de essência (função da aptidão) pode compensar parcialmente a diferença de rank em batalhas de atrito (Cap. 313).
+- Formas corporais alternativas (ex.: Ice crystal Gu transformando o corpo em cristal de gelo) não podem ser mantidas indefinidamente — uso prolongado arrisca transformação permanente e irreversível em "escultura de gelo"; Gu de suporte (Vitality Gu) mitigam mas não eliminam esse limite (Cap. 313).
+- Movimento em forma alternativa pode ficar pior (Gu de movimento perde eficácia quando o corpo de Bai Ning Bing vira cristal de gelo) — trocas de forma têm custos além do declarado (Cap. 313).
 
-- **Cidade do Clã Shang** — metrópole comercial em Shang Liang: arena por cidades internas (lutas, fama, recrutamento de anciões externos), leilões, mercado de escravos, lojas (aluguel/venda de Gu controlada por um jovem mestre), bordéis/restaurantes/seda, zona de refino substituto, Feng Yu Manor (inteligência), Porta do Tesouro Vivo (tesouraria), jardim Nan Qiu (residência de FY/BNB com salas secretas de cultivo), 5ª cidade interna consome pedras-carvão de Huo Tan. Custo de vida alto. Festival Auspicioso anual.
-- **Montanha San Cha** — três picos em forma de tridente entre os clãs Zuo (Leng Zhan) e Che (Fei Lai); sede da Herança dos Três Reis; ocupação por força: quanto mais forte, mais perto do pico se acampa; vira "moedor de carne" de facções.
-- **Terra abençoada dos Três Reis** — mundo interno decadente (céu branco, terra cinza, grama amarela); salão de bronze central (cofre do Imortal antigo + caldeirão de essência imortal); zonas enfraquecidas viram buracos para o mundo externo.
-- **Montanha Huo Tan** — vulcão dormente; pedras-carvão (combustível exportado); crocodilos de lava (rei de mil bestas); rota obrigatória entre Shang Liang e San Cha; FY/BNB assistem de lá o desenrolar.
-- **Montanha Ju Feng** — ventos o ano todo; produzia salgueiros do vento; clã Ju (séculos de história) destruído por furacão centenário — origem do leilão.
-- **Montanha Wu** — envolta em névoa ilusória com um único caminho verdadeiro; 3–4 fontes espirituais; domínio pessoal do rank 5 Wang Xiao ("imperador regional"); FY cogitou tomá-la como base.
-- **Montanha Tian Ti (Continente Central)** — "terra das heranças", escadaria colossal ao céu; Mestres Gu moribundos depositam tumbas e heranças; abriga a entrada da Terra Abençoada da Imortal Hu (com a Montanha Dang Hun, que dilacera almas — defesa natural suprema).
-- **Montanha Fei He** — sede da Seita Grou Imortal, flutuando sobre mar de nuvens; dez mil grous de guerra (recurso tático dos discípulos).
-- **Porta da Vida e da Morte** — terra proibida imemorial; Gu Vida/Morte; hoje dentro da terra abençoada da Seita das Sombras (localização protegida por Juramento do Mar).
-- **Torre de Supressão de Demônios (clã Tie)** — prisão da via justa; infiltrada repetidas vezes pelo Ladrão Divino Lu Zuan Feng (escândalo abafado).
-- **Montanha Bai Shou** — domínio do "Rei das Bestas" (rank 5 demoníaco com exército de bestas).
-- **Montanha Yi Tian** — palco futuro da grande batalha justo×demoníaco (constantemente referenciada como "o grande evento" vindouro).
+## D) Números e preços (cont. 2)
+- 50.000 pedras-primevas: preço histórico do White silver relic Gu (visto na caravana do clã Jia, anos antes, na Montanha Qing Mao) (Cap. 312).
+- 5 tarefas simultâneas: número recorde de Gu controlados ao mesmo tempo por Bai Ning Bing no clímax do golpe "ice blade storm" aprimorado (Cap. 314).
+- 20%: fração da essência primeva dourada de Yan Tu (yellow gold) gasta para restaurar as duas Fiery snake Gu ao tamanho/poder máximo (Cap. 314).
+- 3 Gu worms por ano: benefício de "jovem mestre" do clã Shang — pode requisitar até 3 Gu por ano, buscados pelo clã sem custo (Cap. 309).
+- 810.000 pedras-primevas: valor que Shang Ya Zi acaba devolvendo ao ceder o Bitter strength Gu de graça a Fang Yuan após o esquema da fofoca/contabilidade fraudulenta (Cap. 310–311) — perda total, sem compensação.
 
-## F) Golpes matadores e receitas explícitas
+- Fire sea twin dragon kill (Golpe dos Dragões Gêmeos do Mar de Fogo) | golpe matador, não é um único Gu | fogo | funde Fiery snake Gu + Fiery claw Gu, exibindo uma fração do poder do rank 5 Fiery dragon Gu; pode ainda fundir os dois dragões num só, ainda maior (movimento secreto nunca revelado antes) | Yan Tu usa contra o "ice blade storm" aprimorado de Bai Ning Bing (Cap. 313–314)
+- Frost demon Gu (Gu de Demônio de Gelo) | rank ? | gelo | alternativa ao Ice crystal Gu, mais adequada para mulheres (o Ice crystal Gu é descrito como mais adequado para homens) | Wei Yang recomenda a Bai Ning Bing depois que ela perde o Ice crystal Gu (Cap. 314)
+- Breath concealment Gu (Gu de Ocultação de Respiração) | rank ? | disfarce | esconde o rank/estágio real de cultivo do usuário, mostrando um nível falso mais baixo; efeito é sobrescrito assim que o usuário ativa outro Gu de combate forte | Fang Yuan usa para aparentar rank 3 médio enquanto é rank 3 pico (Cap. 316)
+- Ivory armor Gu (Gu de Armadura de Marfim) | rank 4 | defesa | presas viram armadura branca sólida cobrindo o corpo; cresce progressivamente com o tempo de batalha; não tem maleabilidade — precisa ser quebrada manualmente pelo próprio usuário depois do combate | Ju Kai Bei (Cap. 316)
+- Habitual strength Gu (Gu de Força Habitual) | rank 4 (evolução do rank 3 Store strength Gu) | força | acumula força continuamente enquanto ativo, permitindo movimento livre durante o acúmulo (ao contrário do antecessor) | substituto moderno do extinto All-out effort Gu entre a maioria dos Gu Masters de força; Ju Kai Bei (Cap. 316–318)
+- Store strength Gu (Gu de Armazenar Força) | rank 3 | força | armazena energia de golpes recebidos e libera aos poucos; usuário fica imóvel durante o carregamento — por isso pouco usado | precursor do Habitual strength Gu (Cap. 316)
+- Dragon-elephant huge strength Gu (Gu da Força Gigante do Dragão-Elefante) | rank 4 | força | fantasma de um elefante com sangue de dragão, maior que um mamute; Ju Kai Bei tem 3 unidades/fantasmas | golpe de 2 dragões-elefante supera 2 fantasmas comuns de Fang Yuan; 1 fantasma ainda supera o "stone turtle strength" isolado (Cap. 317)
+- White elephant primeval strength Gu, Black python coiling strength Gu (Gu de Força Primeva do Elefante Branco, Gu de Constrição da Píton Negra) | rank ? | força | mais dois Gu de força absorvidos por Fang Yuan, completando seu limite corporal de 8 fantasmas de bestas simultaneamente disponíveis (boar, urso pardo, crocodilo, touro, cavalo, tartaruga de pedra, elefante branco, píton negra) | (Cap. 317)
+- Dragon travel tiger steps Gu (Gu de Passos de Dragão e Tigre) | rank 4 | movimento | permite deslocamento rápido convertendo a força do impacto/investida em força acumulada, similar ao "charging crash Gu" | Ju Kai Bei (Cap. 317)
+- Hard qi Gu (Gu de Qi Duro) | rank ? (extremamente raro) | qi (caminho antigo) | fortalece a defesa justamente quando o usuário libera seu golpe matador, compensando a queda de defesa nesse momento | Ju Kai Bei guarda com cuidado (Cap. 315)
+- Strength qi Gu (Gu de Qi de Força) | rank ? — extinto | qi | versão superior do Hard qi Gu; dobraria ou triplicaria (2–3x) a força de combate do usuário | caminho do qi antigo já extinto, apenas mencionado como lenda (Cap. 315)
 
-**Golpes (killer moves):**
-- Tempestade de Lâminas de Gelo (BNB): Gume de Gelo + Cristal de Gelo + Giro + Tornado + Sopro de Geada (5 tarefas simultâneas); falha de design: sem momento de avanço — gira parada (299, 314).
-- Carne de Lâminas Rolante (Zhu Ba): Carne Rolante + Aura de Lâmina (300).
-- Mar de Fogo, Matança dos Dragões Gêmeos (Yan Tu): Óleo Combustível + 2 Serpentes + 4 Garras de fogo = 2 dragões que se regeneram no mar de chamas; forma secreta: fusão em 1 dragão maior (314).
-- Transformação Djinn (Ju Kai Bei): Djinn corpo+coração+mente; ×3 força e mente, ×3 consumo; fraqueza: a Armadura de Marfim estoura ao crescer — coberta às escondidas pelo Qi Duro (319).
-- Ataque dos Oito Fantasmas (FY): Esforço Total + Força Amarga + Qi de Força = 8 fantasmas sólidos em cerco; 40% da essência por uso (320, 343).
-- Névoa Dourada (Tie Mu Bai): Agulha Dourada + Criar Névoa — névoa que perfura pedra e defesas; Controle de Corpos: Agulha Dourada + Controle de Marionete (3 agulhas na cabeça) (374).
-- Punho de Luz Imemorial (Xiao Mang): Luz Extrema + Vontade do Céu + Punho Vazio — perfura a membrana da terra abençoada (389).
-- Minha Lança Gloriosa (Xiao Mang): Luz Extrema + Minha Vontade + Lança Brilhante (60% da essência) (393).
-- Torrente de Luz (Xiao Mang): Reunir Luz + Luz Extrema + Rio Sob o Sol — cachoeira de luz da glória (402, 404).
-- Busca e Trava Infinita (4 anciões Tie): Busca-e-Trava rank 5 + Gu Estrela Fixa plantado no alvo — correntes do vazio + selo total de Gu/essência (396, 398).
-- Salto-mergulho do Biao (Xue San Si): transformação + asas + mergulho de 1 km — vencida por esquiva no último instante + contra-ataque no ponto de impacto (342–343).
-- Olhar mata-alma de Mo Wu Tian: golpe de visão que disputa almas (matou Bao Tong com um olhar) (392).
+## B) Sistemas e atividades jogáveis (cont. 3)
+- Regra de aposta da arena: o vencedor de uma luta forçada (forceful challenge) tem o direito de exigir que o perdedor entregue um dos seus Gu — é a "aposta" padrão de toda luta séria na arena da Cidade Shang (Cap. 314).
+- Preço de entrada para assistir a uma luta grande na arena: 20 pedras-primevas por espectador (Cap. 315).
+- Caminho do Qi (qi path): caminho de cultivo ANTERIOR ao caminho da força; no auge, 8 em cada 10 Gu Masters seguiam o caminho do qi; Gu de qi alternam entre forma sólida e etérea; o caminho declinou e foi substituído pelo caminho da força; hoje restam poucos Gu de qi (ex.: Hard qi Gu), e o "Strength qi Gu" está extinto (Cap. 315).
+- Contraste mecânico All-out effort Gu vs. Habitual strength Gu: All-out effort Gu funciona como um "fluxo constante fino" — pode ser ativado/desativado a qualquer momento pela vontade do usuário, dando flexibilidade tática total (avançar, recuar, atacar, fugir). Habitual strength Gu funciona como um "balde que precisa ser reabastecido" — acumula força continuamente e a solta em explosões, mas se o usuário atacar no momento errado (antes do "balde" estar cheio), perde a vantagem temporariamente e tem que reacumular do zero. Analogia explícita do texto: jarro de água grande (reserva de força) + saída pequena (All-out effort, fluxo fino constante) vs. balde que puxa do jarro aos poucos (Habitual strength, explosões intermitentes) (Cap. 317).
+- Limite corporal de fantasmas de bestas do All-out effort Gu: Fang Yuan pode manter até 8 fantasmas de força animal diferentes "prontos" (um de cada vez por padrão), mas com prática consegue invocar e revocar dois fantasmas SIMULTANEAMENTE — combinação de golpe (ex.: horse+boar para embate veloz, brown bear+white elephant para golpe pesado) — feito considerado extraordinário/quebra as expectativas dos espectadores (Cap. 317–318).
+- Vínculo emocional/identidade do "coração demoníaco" (demonic heart): postura mental de "vitória absoluta" — nunca aceitar a possibilidade de derrota, mesmo com menos de 10% de chance de vitória; distinto do "coração que busca a vitória" (heart to pursue victory) de outros lutadores fortes como Bai Ning Bing. É descrito como um traço reconhecível de ex-Gu Masters do caminho demoníaco (Ju Kai Bei reconhece a aura pela risada de Fang Yuan) (Cap. 316).
+- Elders ocultos (hidden elders) do clã Shang: Gu Masters de altíssimo nível (rank 4, ex-demoníacos) mantidos "disfarçados" na arena como rivais públicos eternos, mas na verdade leais e subordinados ao clã leader via cartas secretas (paper crane Gu) — mecanismo de controle político oculto sobre a arena (Cap. 311, 315).
+- "Living treasure door" (Portão do Tesouro Vivo) do clã Shang: cofre ancestral de tesouros do clã, com regras que nem o próprio líder do clã pode romper livremente; contém, por exemplo, 2 Heavenly Essence Treasure Lotus + 1 Heavenly Essence Treasure Monarch Lotus guardados (Cap. 316).
+- Gu de vigilância remota: Shang Yan Fei observa lutas na arena à distância usando uma "fumaça colorida" (colorful smoke) que reproduz a cena — equivalente a um Gu de escrying/gravação (Cap. 315).
 
-**Receitas explícitas:**
-- Verme do Licor: 4 Sabores = 2 vermes rank 1 + vinhos ácido/doce/amargo/picante; 7 Fragrâncias = 2 Quatro Sabores + 7 especiarias; Nove Olhos = 2 Sete Fragrâncias + olhos de 9 reis de cem bestas distintos (326).
-- Qi de Força ← Gu Atmosfera: refino reverso de conversão, 20+ ingredientes, 30+ etapas, controle fino de calor/tempo, >80% de sucesso; receita "do futuro" (320).
-- Carga e Colisão = Carga Horizontal + Investida Vertical + essência + materiais auxiliares (alta taxa) (345).
-- Força de Javali-Trovão: pasta de refino + pedras primordiais para diluir + Gu Estalo de Trovão + fantasma de javali solidificado (via Qi de Força) mergulhado na pasta; análogos: Crocodilo de Rocha, Boi Kunlun (353, 368).
-- Asas de Osso = Pássaro Sem Pés + flores dos nove palácios + pedra aspirante + essência do corvo dourado + grama gélida + ~180 mil pedras (358).
-- Pele de Bronze Antiga: ativação submerso em bronze fundido = 30% mais rápido (354).
-- Osso de Ferro Essencial ↔ refino reverso → Osso de Ferro (355).
-- Gu Estrela Fixa (insumo) = Vento de Fada + Sete Estrelas Brilhantes + materiais → ingrediente do Viagem Imortal Fixa (307).
-- Segunda Abertura (verso completo na seção B): solo podre do lago verde + pó de sangue dos 8 desolados + Flor do Tesouro da Terra → Osso de Jade + Músculo de Gelo + Relíquia de Ouro → Fogo Estelar da Pradaria + Planície Nevada → nuvem yang/fogo de elixir embaixo + nuvem yin/areia dourada em cima + 4 fantasmas de besta (elefante branco, píton negra, tartaruga de pedra, cavalo) expressando suas naturezas → Placenta de Força de Besta (rank 5) → devorar aberturas → sangue essencial do refinador → Tempo de Vida 300 + 500 anos → fusão com Viagem Divina → 2× Terceira Vigília (×9) (377–378, 388–394).
-- Viagem Imortal Fixa (das Lendas de Ren Zu, cap. 2 seção 3): Gu Viagem Divina devora o diamante de 8 lados (= Gu Estrela Fixa) dentro do bambu de jade do céu-azure (= Gu Céu de Jade), banhado na Luz da Glória do sol nascente (= Torrente de Luz de Xiao Mang), + aceleração com 2 Terceira Vigília + estabilização com Cem Batalhas Invictas (371, 404–405).
-- Neutralizar voto venenoso: morrer pelo voto e ser ressuscitado (Su Shou; 1/3 de falha) — ou destruir o marco de um mountain pledge/sea oath (396, 384).
-- Escravos: Escorpião Venenoso pica sem custo de essência → vítima precisa do antídoto do mesmo escorpião a cada 7 dias (330).
+- Djinn heart Gu, Djinn body Gu, Djinn mind Gu (Gu Coração/Corpo/Mente Djinn) | rank 4 cada | corpo/mental | combinados formam o golpe matador "Djinn transformation": triplica força física E energia mental simultaneamente; corpo aumenta 3x de tamanho; consumo de essência e energia mental também triplica (não pode ser mantido por muito tempo); armaduras rígidas que não se esticam (ex.: Ivory armor Gu) se rompem quando o corpo expande | Ju Kai Bei; djinn mind Gu é o mais difícil de obter dos três (Cap. 318–321)
+- Strength qi Gu (Gu de Qi de Força) | rank 3 (caminho antigo do qi) | força/qi | converte-se em "Qi de Força" informe que "veste" os fantasmas de bestas de Fang Yuan (normalmente ocos/imateriais, meros traços do Grande Dao), tornando-os SÓLIDOS e capazes de atacar diretamente; ao acabar o efeito, os fantasmas voltam a ser ocos e retornam ao corpo | consumo: 5% da essência primeva por fantasma sólido (8 fantasmas = 40%); Fang Yuan refina a partir do rank 4 Atmosphere Gu comprado no leilão, via "refino reverso" com mais de 20 ingredientes e mais de 30 passos, taxa de sucesso >80%; receita só se tornaria conhecida por mestres de receita ~200 anos depois na vida passada de Fang Yuan (Cap. 320)
 
-## G) Achados soltos para um designer de RPG
+## B) Sistemas e atividades jogáveis (cont. 4)
+- Regra de fantasmas de bestas (beast phantoms): são por padrão "traços do Grande Dao", ocos/imateriais — não causam dano físico direto; servem apenas para amplificar/canalizar força corporal (ex.: velocidade, impacto). Só se tornam sólidos e capazes de atacar diretamente com um Gu especial de qi (ex.: Strength qi Gu) (Cap. 320).
+- Progressão de defesa da arena da Cidade Shang — "external elder" (elder externo): quem domina a arena e defende a posição por 18 lutas consecutivas é promovido a elder externo do clã Shang, com todos os privilégios associados (Cap. 321).
+- Sistema de sucessão de "jovem mestre" do clã Shang — teste de comércio: cada candidato recebe um fundo inicial de 100.000 pedras-primevas; em 3 meses, quem tiver o maior lucro líquido vence e se torna o novo jovem mestre. Referências históricas de resultado: 300.000 já elimina a maioria dos concorrentes; 600.000 dá alta chance de vitória; 700.000–800.000 é resultado de "primeira classe" nos anos anteriores; recorde da história do clã: 1.110.000 (por um portador do ten extreme physique); o próprio clã leader Shang Yan Fei, em sua época, atingiu 920.000; o atual jovem líder do clã Shang Tuo Hai atingiu 890.000 (Cap. 322).
+- Regra dura do teste de sucessão: é terminantemente proibido usar "atalhos ou brechas" (trapaça) — histórico mostra que ninguém que tentou trapacear teve sucesso; ajuda de parentes/facções é tolerada desde que dentro das regras (Cap. 322).
 
-- **Arena como economia completa**: ingressos, informação/dossiês como mercadoria legal, apostas banidas com justificativa in-world (integridade do recrutamento) — ótimo modelo de "atividades urbanas com regras assimétricas".
-- **Loot binário elegante**: fora de dungeons, moribundos autodetonam Gu (espólio ~zero); dentro da herança, autodetonação bloqueada → PvP vira farm — uma única regra transforma o comportamento de todos os jogadores.
-- **Desafio forçado + 8 dias de descanso + limite de 4 lutas/mês**: pacing pronto para campanha de arena.
-- **Prêmio "um Gu do perdedor"**: aposta de recurso com peso dramático (perder Gu vital = ferimento).
-- **Contadores explícitos de killer moves**: cada golpe supremo tem uma janela de fraqueza codificada (armadura que estoura no Djinn; tempestade imóvel; 3 usos/mês da Luz Extrema; consumo insustentável da Busca e Trava) — bom padrão para chefes.
-- **Orçamento de essência como grid de build**: o Mestre Gu aloca essência entre ataque/defesa/movimento; BNB "all-in ofensivo" com movimento barato e ruim — arquétipos emergem da economia, não de classes.
-- **Multitarefa mental como atributo**: nº de Gu controlados ao mesmo tempo = teto real de poder; sobrecarregar a concentração inimiga é condição de vitória legítima (FY vs Zhu Ba).
-- **Aptidão da 2ª abertura limitada pela 1ª**: upgrades presos ao chassi do personagem.
-- **Espírito da terra = NPC-juíz programado**: teste objetivo, sem persuasão, mas exploitável pelas condições literais (chegar "à beira da morte" de propósito) — modelo de quest-giver não-social.
-- **A herança como roguelike**: rondas, escolhas às cegas que clareiam com repetição (conhecimento de metajogo vale ouro e é vendável in-world), saídas voluntárias como teste de ganância, fichas de fuga com 3 cargas.
-- **Informação = moeda**: FY vende segredos da dungeon em camadas (ganha dinheiro, aliados e direciona multidões); Li Xian/Hu Mei Er transformam boato em arma.
-- **Vantagem de renascimento com "inércia histórica"**: o mundo busca novos gatilhos para grandes eventos — mecânica pronta para campanhas com viagem no tempo sem quebra total do enredo.
-- **As 4 categorias de talento invertidas para vilões** (talento sem virtude como o vilão mais perigoso) — tabela de NPC instantânea.
-- **Votos com letra fria**: contratos mágicos exploráveis pela redação (o "terceiro que já sabia") — minigame de advocacia mágica.
-- **Reputação como sistema**: matar acima do rank em público = os inimigos evitam você; admitir derrota após matar o adversário ("perdi, e daí?") — honra como recurso gastável.
-- **Boss fight 1×7 didática**: FY queima primeiro os recursos de longo alcance do grupo, depois revela o voo — ensina "desarmar a party antes da fase 2".
-- **Falha canônica do protagonista**: o autor explicita (nota do cap. 378) que o demoníaco perde — a traição de BNB (anos de preparo: perder de propósito p/ Yan Tu, remover o voto morrendo, plantar o Estrela Fixa durante sessões de cultivo conjunto) é um blueprint de "traição de longo prazo por NPC aliado".
-- **Su Shou / Chou Jiu / Shang Yan Fei**: triângulo com regra própria (ela só cura os bonitos) — NPCs médicos com códigos excêntricos que geram ganchos.
-- **Cães com identidade tática**: cada raça = um papel de combate claro + fraqueza (aço×eletricidade; Yin×ataques físicos) — bestiário modular.
-- **Preço da mobilidade**: warp deforma o corpo; asas exigem anos de treino; voo único do Pássaro Sem Pés — todo transporte tem custo memorable.
-- **"Um por era"**: Venerados rank 9 nunca coexistem — teto de poder do cenário com regra dramática embutida.
+## D) Números e preços (cont. 3)
+- 40% da essência primeva prata-níveo (snow silver) de Fang Yuan: custo de ativar os 8 fantasmas sólidos simultâneos via Strength qi Gu (5% por fantasma) — na prática só dá para usar 1 vez em combate real por causa do gasto concorrente de outros Gu (Cap. 320).
+- 70%: nível de recuperação de essência primeva de Fang Yuan após absorver 2 pedras-primevas durante uma pausa tática no combate contra Ju Kai Bei (Cap. 320).
+- Mais de 40%: fração da essência primeva prata-níveo de Fang Yuan gasta instantaneamente ao ativar o Strength qi Gu pela primeira vez (Cap. 320).
+- 100.000 pedras-primevas: fundo inicial dado pelo clã Shang a cada candidato a jovem mestre no teste de comércio de 3 meses (Cap. 322).
+- 300.000 / 600.000 / 700.000–800.000 / 890.000 / 920.000 / 1.110.000: marcos históricos de resultado no teste de sucessão do clã Shang, do "elimina a maioria" ao recorde absoluto (Cap. 322).
+- 20 dias: prazo que Fang Yuan promete para triplicar o capital de Shang Xin Ci (100.000 → 300.000) como primeiro passo do plano (Cap. 322).
+
+## E) Locais e atividades (cont. 2)
+- San Cha mountain (Montanha San Cha/dos Três Bifurcados) — situada entre a Leng Zhan mountain do clã Zuo e a Fei Lai mountain do clã Che; disputada há um século entre os dois clãs rivais (600 e 580 anos de história, respectivamente); local onde se abre a Three Kings Inheritance (Cap. 322–323).
+
+## F) Golpes matadores e receitas (cont.)
+- Djinn transformation (Transformação Djinn) — golpe matador de Ju Kai Bei: ativa simultaneamente Djinn heart + Djinn body + Djinn mind Gu (todos rank 4), triplicando força física e energia mental por um curto período; ponto fraco: nesse estado o corpo cresce e rompe armaduras rígidas (ex.: Ivory armor Gu), deixando o usuário momentaneamente sem defesa logo após a transformação (Cap. 318–319).
+- Ataque dos oito fantasmas sólidos — golpe decisivo de Fang Yuan contra Ju Kai Bei: ativa Strength qi Gu + All-out effort Gu simultaneamente, materializando os 8 fantasmas de força (javali, urso pardo, crocodilo, touro, cavalo, tartaruga de pedra, elefante branco, píton negra) para atacar em conjunto e cercar o alvo; consome ~40% da essência primeva; só pode ser usado uma vez por combate real (Cap. 320).
+
+- Dog enslavement Gu (Gu de Escravização de Cães) | rank 1 | besta | Gu de partida necessário para entrar no pilar amarelo (Herança do Rei Quan) da Three Kings Inheritance | comprado em massa por Fang Yuan antes do público saber (Cap. 323/324)
+- Paper crane Gu (Gu de Grou de Papel) — nota adicional | rank 2 (não o rank usado por Shang Yan Fei antes) | mensagem/entrada | necessário para entrar no pilar azul (Herança da Rainha Xin) da Three Kings Inheritance | comprado em massa por Fang Yuan (Cap. 323/324)
+- Exploding egg Gu (Gu de Ovo Explosivo) | rank 1 | explosivo | necessário para entrar no pilar vermelho (Herança do Rei Bao) da Three Kings Inheritance | comprado em massa por Fang Yuan (Cap. 323/324)
+- Liquor worm (Bicho do Licor), série de purificação de essência primeva | rank 1 a 4 (rank 5 não existe) | suporte/cultivo | cada estágio "purifica" a essência primeva do rank correspondente em um pequeno estágio: rank 1 (liquor worm) purifica essência verde-cobre (rank 1); rank 2 (four flavors liquor worm) purifica essência vermelho-aço (rank 2), feito com 2 liquor worm + vinhos de 4 sabores (azedo/doce/amargo/picante); rank 3 (seven fragrances liquor worm) purifica essência prata-branca (rank 3), feito com 2 four flavors liquor worm + 7 especiarias; rank 4 (nine eyes liquor worm) purifica essência dourado-amarela (rank 4), feito com 2 seven fragrances liquor worm + olhos de 9 "reis das cem bestas" diferentes; rank 5 nunca foi desenvolvido — o mestre de receita responsável morreu jovem antes de completar a pesquisa | Fang Yuan refina até o rank 4 (~200.000 pedras-primevas gastos, falhas concentradas nas etapas iniciais) (Cap. 326)
+
+## B) Sistemas e atividades jogáveis (cont. 5)
+- Golpe de especulação com informação privilegiada: ao saber com antecedência (via memória de vida passada) que a Three Kings Inheritance exigiria 3 Gu específicos de baixo rank para entrada, Fang Yuan compra secretamente grandes quantidades desses Gu ANTES do público saber a real utilidade deles; quando a notícia se espalha, o preço desses Gu triplica e ele revende com lucro absurdo através de Shang Xin Ci (usando o capital dela no teste de sucessão) — mecanismo replicável para qualquer "corrida do ouro" repentina numa campanha (Cap. 323–325).
+- Regra explícita do teste de sucessão do clã Shang: comprar/vender em excesso do capital inicial não viola as regras, desde que o lucro final seja contabilizado a partir do capital de partida — "curva" tolerada, mas arriscada (outros candidatos também tomam empréstimo de parentes) (Cap. 324).
+- Conceito de "Blessed Land" (terra abençoada/reino bendito): espaço isolado, criado por um Gu Immortal (rank 6) — mundo independente com paisagem idílica, grandes reservas de tesouro/material raro, e essência primeva "dezenas de vezes" mais densa que no mundo externo; é onde um Gu Immortal reside após ascender. A Three Kings Inheritance foi construída em cima de uma blessed land de um Gu Immortal já em colapso/degeneração — puxada a limite pelos Três Reis, que extraíram seus recursos e agora a usam como base da própria herança, o que acelera sua destruição total (Cap. 325).
+- Diferença de rank 5→6: rank 5 é o pico mortal, rank 6 é "imortal" — diferença qualitativa descrita como "mundos distantes"; a simples possibilidade de uma herança de Gu Immortal (rank 6) faz clãs poderosos (e até Gu Immortals reclusos) reagirem, muito acima do interesse já enorme por uma herança de três rank 5 (Cap. 325).
+- Regra de proibição: a arena/battle stage do clã Shang é uma "zona proibida" para exploração comercial interna (ex.: casas de apostas sobre resultados de luta) — precedente histórico: um jovem mestre abriu uma casa de apostas sobre lutas da arena, lucrou 500.000 pedras-primevas em 2 dias, mas foi fechada no 3º dia e o responsável foi rebaixado e exilado do clã, por risco de manipulação de resultados corromper a política de recrutamento de elders externos (Cap. 327).
+- Distinção permitida vs. proibida no uso comercial da arena: apostas sobre resultado de luta = proibido (corrompe resultados); venda de informação/perfil de força dos lutadores + previsões/rankings feitos por especialistas = permitido e até bem-vindo, pois reforça o controle do clã sobre a arena sem incentivar manipulação de resultado (Cap. 327).
+- Estrutura política de facções entre os jovens mestres do clã Shang (Auspicious Festival): durante o festival anual, cada jovem mestre dá um banquete e envia convites a candidatos promissores como Shang Xin Ci; aceitar um convite é lido publicamente como escolha de lado político. Estratégia "neutra vantajosa": entre 2 facções em guerra aberta (1ª e 2ª) e uma 3ª facção fraca mas neutra, aliar-se à 3ª evita fazer inimigos poderosos imediatamente e ainda garante apoio (Cap. 326–327).
+
+## C) Regras do mundo (cont. 3)
+- Confirmação da nomenclatura de cor de essência primeva por RANK (não só por sub-estágio dentro do rank 3): rank 1 = "green copper" (verde-cobre); rank 2 = "red steel" (vermelho-aço); rank 3 = "white silver" / prata (com sub-estágios já registrados: clara/flor/brilhante/níveo); rank 4 = "yellow gold" (dourado-amarelo). Regra geral confirmada e generalizável a qualquer rank do sistema (Cap. 326).
+- Clãs de origem mortal podem ascender à condição de "clã de Gu Master" a partir de um único golpe de sorte: o fundador do clã Shang era um mortal pobre que por acaso obteve um token de herança de um Gu Master durante uma negociação comercial, e a partir disso fundou toda a dinastia do clã Shang — mostra que ascensão social de mortal para clã dominante é possível, embora rara (Cap. 326).
+- Existe uma prisão/instituição específica para conter Gu Masters demoníacos capturados: a "demon suppression tower" (torre de supressão dos demônios), mantida pelo clã Tie — Gu Masters demoníacos capturados podem ser presos lá por séculos (Cap. 328).
+
+## D) Números e preços (cont. 4)
+- Preços dos 3 Gu de entrada da Three Kings Inheritance triplicam (3x) assim que o público descobre sua real utilidade (Cap. 324).
+- 20.000 pedras-primevas/dia (média): lucro diário de Shang Xin Ci nos primeiros 10 dias do esquema de revenda dos Gu de entrada — total 300.000 (triplicou o capital inicial de 100.000) (Cap. 325).
+- 2.400.000 pedras-primevas: patrimônio total de Fang Yuan após o esquema da Three Kings Inheritance (precisou comprar mais 2 primeval elder Gu além do primeiro) (Cap. 325).
+- 400.000 pedras-primevas: valor pago por Wei Yang/clã Shang a Fang Yuan pela informação (parcialmente falsa) de que a Three Kings Inheritance é uma "blessed land" de um Gu Immortal (Cap. 325).
+- 200.000 pedras-primevas: custo aproximado total do refino do Nine eyes liquor worm (rank 4) por Fang Yuan (Cap. 326).
+- 96%: aptidão atual de Bai Ning Bing (subiu de 93% para 96%) (Cap. 326).
+- 500.000 pedras-primevas em 2 dias: lucro do precedente histórico da casa de apostas da arena, fechada no 3º dia com exílio do responsável (Cap. 327).
+- 3.000.000 de pedras-primevas: valor total que Fang Yuan já havia extorquido do clã Bai anteriormente; à altura deste capítulo, quase metade (~1.500.000) já havia sido paga em parcelas, e parte dela (300.000) financiou a compra em massa dos Gu de entrada da herança (Cap. 323).
+
+## E) Locais e atividades (cont. 3)
+- Dan Huo mountain / Gui Ku cave (Montanha Dan Huo / Caverna Gui Ku) — montanha vulcânica; a caverna foi destruída por uma erupção há cerca de 250 anos, após uma grande batalha; local de origem de um token quebrado ligado a uma dívida de favor de um Gu Master demoníaco a uma família mortal (ver Achados Soltos) (Cap. 328).
+- Cidade do clã Shang celebra o "Auspicious Festival" (Festival Auspicioso) anualmente — comemora o fundador do clã, um mortal pobre que por sorte herdou um token de Gu Master; no dia do festival, lojas fecham, ruas ficam decoradas e viram feira de barracas temporárias (Cap. 326).
+
+## F) Golpes matadores e receitas (cont.)
+
+## G) Achados soltos
+- Bai Ning Bing avalia hipoteticamente enfrentar Fang Yuan num duelo, listando seu kit (Ice crystal, Ice edge, Icicle, Ice explosion Gu) e concluindo que precisaria recuperar/atualizar seu golpe matador para ter chance (Cap. 299) — referência útil para balancear duelo PJ×PJ gelo vs. força.
+- Tie Ruo Nan (filha de Tie Xue Leng) sobreviveu à Montanha Qing Mao (não sabido por Fang Yuan até este ponto) e tornou-se uma das oito "jovens mestres" do Clã Tie, rank 3 estágio superior, aptidão grau A; comanda investigações internas do clã (Cap. 302).
+- Purple thorn token (Token do Espinho Roxo) — protege Fang Yuan de perseguição/julgamento dentro da Cidade Shang, mas não fora dela (Cap. 303).
+- Three kings inheritance (Herança dos Três Reis) — mencionada como um "atalho" que Fang Yuan e Bai Ning Bing pretendem usar para reduzir a distância de poder em relação a rivais com muito mais recursos, como Tie Ruo Nan (Cap. 304).
+- Blood sea inheritance (Herança do Mar de Sangue) — herança do "ancestral do mar de sangue" (caminho demoníaco), motivo da morte de Tie Xue Leng; Tie Ruo Nan pede a Fang Yuan que a entregue caso a possua (Cap. 303).
+- Sistema de "jovem mestre" (young master) do clã Shang: exame anual, apenas 1 vaga por ano contra centenas de candidatos (filhos de Shang Yan Fei); vaga vitalícia dá acesso a recursos do clã (3 Gu grátis/ano) e poder político — ótima referência para desenhar sistemas de "facção interna" numa mesa de campanha (Cap. 309).
+- Fang Yuan derruba Shang Ya Zi (jovem mestre) com um esquema de dois anos: (1) sabia de uma brecha no Poison vow Gu ("não revelar a terceiro que não sabe" não cobre quem já sabia antes do voto), (2) plantou a informação em Bai Ning Bing antecipadamente, (3) anos depois manda Bai Ning Bing espalhar o boato da contabilidade fraudulenta de Shang Ya Zi sem violar o voto — case de estudo de "contrato mágico com brecha literal", útil para regras de Gu de juramento (Cap. 309–312).
+- Ju Kai Bei e Yan Tu, os dois rank 4 "metades do céu da arena", são secretamente peões de Shang Yan Fei para controlar a arena — a rivalidade pública entre eles é encenação (Cap. 311).
+- Bitter strength Gu (efeito completo, Cap. 318): quanto mais ferido/mais dor um Gu Master de força sente, mais fantasmas de besta ele consegue manifestar simultaneamente com o All-out effort Gu (cada ferimento "abre um novo cano" no reservatório de força) — combinado com Self-reliance Gu (cura) forma um ciclo de "quanto mais apanho, mais forte fico", núcleo do build de Fang Yuan.
+- Título "Little Beast King" (Pequeno Rei das Feras) — apelido dado a Fang Yuan após derrotar Ju Kai Bei; distinto do "Beast King", um Gu Master demoníaco estabelecido de rank 5 que domina a Bai Shou mountain com um "exército" de cem bestas, temido por facções justas e demoníacas (Cap. 321).
+- Título "Black and White Demons" (Demônios Branco e Negro) — apelido conjunto de Fang Yuan e Bai Ning Bing na arena da Cidade Shang (Cap. 321).
+- Wu clan (clã Wu) — clã número um da fronteira sul (southern border); tem a maior e mais popular arena de batalha da região, mas majoritariamente fechada a forasteiros (só para clansmen); contraste com a política única do clã Shang de recrutar Gu Masters demoníacos como "elders externos", o que inclusive faz caravanas do clã Shang serem poupadas por bandidos demoníacos em busca dessa oportunidade (Cap. 321).
+- Kong Ri Tian, "Pink Butterfly Gentleman" (Cavalheiro Borboleta Rosa) — Gu Master demoníaco solitário de rank 4; estuprador em série que visa mulheres virgens; usa Gu de pétalas/borboletas cor-de-rosa (fragrância + distração em combate) — personagem vilão introduzido no evento da Three Kings Inheritance em San Cha mountain (Cap. 323).
+- Three Kings Inheritance (Herança dos Três Reis) — grande evento: três pilares de luz (amarelo, azul, vermelho) irrompem dos três picos da San Cha mountain, e uma voz anuncia "a Herança dos Três Reis abre hoje, seja justo ou demoníaco, só importa o destino"; herança de três Gu Masters de rank 5 ("os três reis"), evento que Fang Yuan planejava usar como atalho de poder há anos (ver a nota sobre "Three kings inheritance" em Achados Soltos, Cap. 304) (Cap. 323).
