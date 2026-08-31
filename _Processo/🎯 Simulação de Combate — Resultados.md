@@ -10,6 +10,9 @@ escopo: processo
 
 # 🎯 Simulação de Combate — Resultados
 
+> [!important] Rodada mais recente
+> A **quinta rodada** (2026-08-30, logo abaixo da ficha dos quatro personagens) mede o motor **atual** — decisões 103-133: crítico no 20, iniciativa rolada, essência sem regeneração em combate, as 41 conversões de Nível, a **Fratura da Abertura** e o **gênio pobre duplo do rank 6**. As rodadas 1-4 abaixo continuam no vault como auditoria histórica do motor v1/v2 inicial — os números delas **não** descrevem o sistema como ele é hoje.
+
 Auditoria quantitativa do sistema em Monte Carlo, **3.000 combates por cenário**, com os quatro personagens da mesa, rodada nos **ranks 1, 2, 3 e 5**.
 
 > [!info] O que o modelo implementa
@@ -30,6 +33,78 @@ Auditoria quantitativa do sistema em Monte Carlo, **3.000 combates por cenário*
 | Papel no modelo | Controle + Golpe híbrido | Melee, paga em Vitalidade | Melee versátil + cura | Defesa alta, controle |
 
 Estágio acompanha o rank (rank 1 → Inicial, rank 4+ → Pico), que é o que a progressão do vault espera.
+
+---
+
+## 🆕 Quinta rodada — motor v2 pós-decisão 133 *(2026-08-30)*
+
+Reimplementação completa do motor em Python (as rodadas 1-4 eram um script em Perl, arquivado; este vive em [[simulacoes/2026-08-30-motor-v2-pos-decisao-133.py|_Processo/simulacoes/2026-08-30-motor-v2-pos-decisao-133.py]]). **3.000 iterações por cenário**, limite de 20 rodadas, semente fixa `20260830`. Mesmas composições de cena da terceira rodada (Fácil = Horda de 8 · Padrão = 3 Mestres de Gu · Difícil = 4 Mestres de Gu · Clímax = 1 Chefe + 1 Guerreiro especial, ações do Chefe pela tabela por rank), pra manter a comparação limpa.
+
+### O que mudou desde a última rodada
+
+- **Crítico no 20** dobra os dados (decisão 105), sem falha automática em 1.
+- **Iniciativa rolada** uma vez por combate (`d20+DES`), não mais por Destreza fixa (decisão 106).
+- **Essência não regenera em combate** (decisão 107) — nos quatro PJs da mesa (nenhum é Físico Extremo com a regra ligada), o tanque é o que a Densidade permitiu no início da cena e nada mais.
+- **41 fontes de Nível de Dano viraram acerto/RD/atributo** (decisão 112) — não muda a simulação diretamente (nenhuma das quatro fichas usava essas fontes), mas fecha a contabilidade.
+- **Fratura da Abertura** (decisão 132): crítico que deixa o alvo a ≤25% da barra rola 1d6 (Vazamento de Essência · Gu Atordoados · nada · Esmagamento de um Gu) — implementada e medida pela primeira vez.
+- **Gênio pobre duplo** (decisão 133): um NPC rank 6 real-Pequeno-Feito pode empilhar dois feitos de compreensão e operar como Grão-Mestre — cenário novo, medido pela primeira vez.
+- **Refinamento de modelagem** (não é mudança de regra, é correção de fidelidade): as rodadas 1-4 tratavam "dano de Alma ignora RD" como um bônus contra a Vitalidade. A leitura literal de [[⚔️ Combate]] e da ficha do Xie Lang é que o dano de Alma **drena a barra de Alma**, com Defesa própria (`10+VON+rank`) — uma barra bem menor que a Vitalidade e sem RD nenhuma a proteger. Esta rodada modela isso corretamente, e é a maior causa isolada da queda de número que segue.
+- **Correção de um bug de script** encontrado nesta própria rodada: a primeira versão do script esqueceu a decisão 82 ("todo inimigo usa o mesmo Grau de Densidade do grupo") — sem ela, o rank 5 saía 100% de vitória em toda cena, porque só os PJs ganhavam o bônus de Densidade. Corrigido antes de fechar os números abaixo.
+
+### Ranks 1, 2, 3 e 5 — comparando com a terceira rodada
+
+| Cena | rank 1 | rank 2 | rank 3 | rank 5 |
+|---|---|---|---|---|
+| **Fácil** — Horda de 8 | 100% · 4,00 *(igual)* | 100% · 4,00 *(igual)* | 100% · 3,99 *(igual)* | 100% · 3,99 *(igual)* |
+| **Padrão** — 3 Mestres de Gu | **68,3% · 2,04** ↓ de 99% | **77,1% · 2,05** ↓ de 98% | **84,7% · 2,15** ↓ de 98% | **95,7% · 2,62** ↓ de 98% |
+| **Difícil** — 4 Mestres de Gu | **12,0% · 0,31** ↓↓ de 75% | **9,6% · 0,21** ↓↓ de 63% | **11,3% · 0,20** ↓↓ de 56% | **30,0% · 0,55** ↓↓ de 59% |
+| **Clímax** — Chefe + Guerreiro especial | **3,5% · 0,09** ↓↓ de 56% | **56,6% · 1,51** ↓ de 62% | **85,9% · 2,11** ↑ de 80% | **87,4% · 2,06** ↑ de 73% |
+
+*(vitória do grupo · sobreviventes de 4; comparação contra a terceira rodada, [[#🔁 Terceira rodada — com o arsenal completo]], linha "Chefe + Guerreiro especial" no Clímax)*
+
+**Fácil não mudou** — a Horda não tem dano de Alma nem pressão de essência relevante (os PJs matam Recrutas rápido demais pra gastar o tanque), então nenhuma das mudanças de regra a toca.
+
+**Padrão e Difícil caíram em todos os ranks, e a queda do Difícil é desproporcional.** A causa raiz é a mesma nos dois: cada Mestre de Gu dispara a especial de Alma **na primeira ação que tem** — e como o motor agora acerta a barra de Alma como recurso separado e pequeno (60-70% do tamanho da Vitalidade, sem RD nenhuma), 3 ou 4 especiais de Alma disparando essencialmente todas na primeira rodada da cena é um alfa-strike quase simultâneo contra uma barra que qualquer um dos quatro PJs tem em quantidade pequena. Com 3 Mestres (Padrão), geralmente sobra 1 PJ que não foi alvo do estouro inicial e consegue estabilizar a cena — daí a queda ser dolorosa mas não fatal (68-96%). **Com 4 Mestres (Difícil), os quatro PJs recebem um estouro de Alma cada, e a queda vira de 56-75% para 10-30% em TODO rank** — é um efeito estrutural do "4 especiais vs. 4 barras pequenas", não um efeito que melhora ou piora com o rank do grupo (por isso a queda é praticamente uniforme: -63, -53, -45 e -29 pontos percentuais).
+
+**O Clímax teve o comportamento mais interessante: piorou no rank 1, e melhorou nos ranks 3 e 5.** No rank 1, a essência sem regeneração (decisão 107) é o fator dominante: o tanque de um PJ rank 1 (`aptidão% × 4`, sem multiplicar por M) dá de 5 a 8 ativações de Gu antes de cair pro corpo a corpo cru — e numa luta de Chefe que se estende por 7+ rodadas, os PJs ficam sem essência bem antes do fim e passam a bater com `1d4-1d10 + FOR`, incluindo dois personagens com FOR negativo (Xie Lang e Demvi). Nos ranks 3 e 5, o Grau de Densidade (Alto/Pico) multiplica o tanque de essência por 4-8×, e essa pressão desaparece — o que sobra é só o crítico (mais dano ocasional pros dois lados) e a Fratura, que não é grande o bastante pra derrubar o grupo, então o Chefe fica **relativamente mais fácil** que na rodada anterior.
+
+### Rank 6 — o NPC "Imortal Denso Duplo-Gênio" (decisão 133)
+
+Cenário novo: rank 6, real **Pequeno Feito** (~9.000 Marcas no Caminho principal, dado d12), mas com os **dois** feitos de compreensão da decisão 133 empilhados — opera como **Grão-Mestre** (+3 Níveis de Dano) apesar da contagem real. Chefe de uma cena Clímax (+ 1 Guerreiro especial de apoio) contra os 4 PJs adaptados pro rank 6 (recém-ascendidos, domínio Vislumbre — B efetivo 0, essência tratada como equivalente ao Grau Pico mortal por analogia, já que a regra de essência de Imortal não está escrita).
+
+| Cenário | Vitória do grupo | Sobreviventes |
+|---|---|---|
+| **Duplo-gênio** (Grão-Mestre por empilhamento, B=+3) | **5,2%** | 0,09 / 4 |
+| Controle — mesmo NPC **sem** empilhar (Pequeno Feito real, B=+1) | **20,0%** | 0,36 / 4 |
+
+**O empilhamento da decisão 133 tem impacto medível e grande: quase 4× a diferença na taxa de vitória do grupo** (20,0% → 5,2%, uma queda de 14,8 pontos percentuais só por causa de +2 Níveis de Dano extras no Chefe). Isso confirma que a regra faz o que o autor queria — um rank 6 duplo-gênio é **muito** mais perigoso que um rank 6 denso comum — mas também confirma que **mesmo sem o empilhamento, um Chefe rank 6 contra um grupo recém-ascendido já é extremamente duro** (20% de vitória, praticamente nenhum sobrevivente médio).
+
+> [!warning] Achado a sinalizar — não corrigido nesta rodada
+> **5,2% de vitória é do tamanho de "não é um encontro, é uma sentença"**, no mesmo espírito da regra já existente "nunca um Chefe de rank acima do grupo" ([[⚔️ Ameaças Genéricas por Rank]]) — aqui o rank é igual, mas o domínio não é, e o efeito prático é parecido. Isto é coerente com a leitura canônica que motivou a decisão 133 (um Fang Yuan ou uma You Lan de Grão-Mestre no rank 6 **deveria** ser aterrorizante para outro rank 6 comum), então **não é necessariamente um bug de balanceamento** — mas o autor deve decidir se quer que a nota de [[⚔️ Ameaças Genéricas por Rank]] diga isso em voz alta (algo como "nunca um duplo-gênio contra um grupo recém-ascendido, pelo mesmo motivo que nunca um Chefe acima do rank") em vez de deixar o mestre descobrir na mesa.
+
+### Fratura da Abertura — o impacto medido, contra a estimativa da auditoria de 3DeT
+
+A decisão 132 entrou como regra viva sem simulação prévia, com a auditoria de 3DeT estimando **+5 a 10% de letalidade**. Medição: liga/desliga a regra nos mesmos 9 cenários (ranks 1, 3 e 5 × Padrão/Difícil/Clímax), mesma composição, 3.000 iterações cada lado.
+
+| rank · cena | Com Fratura | Sem Fratura | Δ na vitória do grupo |
+|---|---|---|---|
+| 1 · Padrão | 66,7% | 68,0% | +1,2 pp |
+| 1 · Difícil | 11,7% | 12,7% | +1,0 pp |
+| 1 · Clímax | 3,9% | 3,7% | −0,2 pp |
+| 3 · Padrão | 84,9% | 85,0% | +0,1 pp |
+| 3 · Difícil | 11,9% | 11,2% | −0,6 pp |
+| 3 · Clímax | 87,0% | 86,6% | −0,4 pp |
+| 5 · Padrão | 96,0% | 96,5% | +0,4 pp |
+| 5 · Difícil | 29,8% | 29,9% | +0,1 pp |
+| 5 · Clímax | 87,7% | 87,6% | −0,1 pp |
+
+*(Δ = vitória sem Fratura menos vitória com Fratura; positivo = a Fratura reduz a vitória do grupo)*
+
+**A estimativa de 5-10% de letalidade extra NÃO se confirma — o efeito medido é da ordem de ruído estatístico (média de 0,2 ponto percentual, nunca mais que 1,2 em qualquer cena testada).** Duas razões, ambas visíveis no próprio desenho da regra: **crítico é raro** (5% por ataque, dos dois lados), e o **gatilho de ≤25% de Vitalidade** exige que o alvo já esteja perto de cair — na maioria dos casos em que a Fratura dispara, o combate já estava decidido pelo dano do próprio crítico, e o 1d6 extra raramente muda o resultado final da cena. **Recomendação para o autor:** a estimativa da auditoria de 3DeT pode ficar como estava registrada no Log (é uma estimativa, não uma medição), mas esta simulação mostra que **não há necessidade de ajustar o gatilho de 25% para 15%** como a decisão 132 cogitava — o problema que motivaria esse ajuste (letalidade excessiva) não aparece nos números.
+
+### Metodologia e simplificações desta rodada
+
+Documentadas no cabeçalho do script — resumo: cada PJ ataca com um único Gu "de assinatura" (Xie Lang = Alma d12 ignorando RD/na barra de Alma; Jiãotáng = melee com Gu de Força, arma pesada d10; Lee = Gu elemental genérico d8; Demvi = Vento d10); Lentidão e outras Condições de controle não são modeladas (como nas rodadas 2-4); Golpe Matador só é tentado pelo Xie Lang, só nos cenários Clímax de rank mortal, contra o Chefe; a essência de Imortal (rank 6) usa por analogia o fator do Grau Pico mortal, na ausência de fórmula própria no Log. Nenhuma dessas escolhas está registrada como regra — são decisões de modelagem, revisáveis numa rodada futura.
 
 ---
 

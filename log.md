@@ -234,3 +234,16 @@ Formalizada a escala de condições de refino por rank/raridade em
 usava sem regra geral por trás. [[⚡ Golpes Matadores]] ganhou guia de montagem
 em 6 passos (era 4, sem Brecha); removida seção de contragolpe obsoleta que
 duplicava a Retaliação de Essência com números antigos.
+
+## [2026-08-30] simulação | Quinta rodada — Fratura segura, alfa-strike de Alma exposto (decisão 135)
+Script novo em Python (`_Processo/simulacoes/2026-08-30-motor-v2-pos-decisao-133.py`),
+3.000 iterações/cenário, ranks 1/2/3/5 + cenário novo de rank 6 duplo-gênio.
+Fratura da Abertura (132): impacto real de ~0,2pp, bem abaixo da estimativa de
+5-10% da auditoria de 3DeT — revisado, sem mudança de regra. Gênio pobre duplo
+(133): efeito grande e real, NPC vence 95% das vezes — aviso adicionado a
+[[⚔️ Ameaças Genéricas por Rank]], que também teve um exemplo antigo corrigido
+(violava o teto de Marcas do rank 6 desde antes de hoje). Achado que precisa de
+decisão do autor: dano de Alma sempre ignorou RD, mas nunca foi medido direito
+contra vários Mestres de Gu simultâneos — "Padrão" e "Difícil" são hoje muito
+mais letais do que a tabela de composição documentava. Números corrigidos com
+aviso explícito na mesma nota; a resposta de design fica pendente no Log.

@@ -130,15 +130,31 @@ A Horda usa `6 × M × nº de membros` — a coluna acima é o caso de 8. O Mest
 
 Os números entre parênteses são a **vitória medida do grupo** numa mesa de 4, pela [[🎯 Simulação de Combate — Resultados\|simulação]]. As composições valem em qualquer rank: fora o Chefe, a curva se mostrou estável do rank 1 ao 5. **O rank 1–2 é a faixa mais leve** — se quiser a mesma pressão lá, use a linha de baixo.
 
-| Tipo de cena | **rank 1–2** | **rank 3–4** | **rank 5** |
-|---|---|---|---|
-| **Fácil** | Horda de 8 *(100%)* | Horda de 8 *(100%)* | Horda de 8 *(100%)* |
-| **Padrão** | 3 Mestres de Gu *(99% / 98%)* | 3 Mestres de Gu *(97%)* | 3 Mestres de Gu *(98%)* |
-| **Padrão pesado** | 2 Mestres + Horda de 8 *(97% / 94%)* | 2 Mestres + Horda de 8 *(93%)* | 2 Mestres + Horda de 8 *(96%)* |
-| **Difícil** | 4 Mestres de Gu *(76% / 63%)* | 4 Mestres de Gu *(56%)* | 4 Mestres de Gu *(60%)* |
-| **Clímax** | 1 Elite especial + 3 Mestres *(68% / 53%)*, ou 1 Chefe + 1 Guerreiro especial *(56% / 62%)* | 1 Elite especial + 3 Mestres *(44%)*, ou 1 Chefe + 1 Guerreiro especial *(80%)* | 1 Elite especial + 3 Mestres *(46%)*, ou 1 Chefe + 1 Guerreiro especial *(73%)* |
+| Tipo de cena | **rank 1** | **rank 2** | **rank 3** | **rank 5** |
+|---|---|---|---|---|
+| **Fácil** | Horda de 8 *(100%)* | Horda de 8 *(100%)* | Horda de 8 *(100%)* | Horda de 8 *(100%)* |
+| **Padrão** | 3 Mestres de Gu *(68%)* ⚠️ | 3 Mestres de Gu *(77%)* ⚠️ | 3 Mestres de Gu *(85%)* | 3 Mestres de Gu *(96%)* |
+| **Padrão pesado** | 2 Mestres + Horda de 8 *(97%)*✝ | 2 Mestres + Horda de 8 *(94%)*✝ | 2 Mestres + Horda de 8 *(93%)*✝ | 2 Mestres + Horda de 8 *(96%)*✝ |
+| **Difícil** | 4 Mestres de Gu *(12%)* 🔴 | 4 Mestres de Gu *(10%)* 🔴 | 4 Mestres de Gu *(11%)* 🔴 | 4 Mestres de Gu *(30%)* 🔴 |
+| **Clímax** | 1 Elite especial + 3 Mestres *(68%)*✝, ou Chefe + Guerreiro *(4%)* 🔴 | idem, Chefe + Guerreiro *(57%)* | 1 Elite especial + 3 Mestres *(44%)*✝, ou Chefe + Guerreiro *(86%)* | 1 Elite especial + 3 Mestres *(46%)*✝, ou Chefe + Guerreiro *(87%)* |
 
-> **"Fácil" é cena de abertura, não metade das cenas.** Uma Horda de 8 termina com os quatro personagens de pé em qualquer rank, e é isso que ela deve fazer: abrir uma sessão, gastar essência antes da cena que importa, ou mostrar que o grupo ficou mais forte. **Se metade das cenas for Fácil, a mesa cansa** — o padrão real de uma sessão é uma Fácil, uma ou duas Padrão, e uma Difícil, com o Clímax guardado para o fim do arco.
+*(✝ não retestado na quinta rodada — número da terceira rodada, pode estar igualmente desatualizado.)*
+
+> [!danger] Achado da quinta rodada de simulação — a tabela acima estava otimista demais
+> A quinta rodada corrigiu como o motor simula **dano de Alma** (que sempre foi
+> regra — "ignora RD física e Defesa de armadura", [[👻 Caminho da Alma]] — só
+> nunca tinha sido medido certo): a especial de Alma de vários Mestres de Gu
+> disparando na mesma rodada é um alfa-strike quase simultâneo contra as quatro
+> barras de Alma do grupo, pequenas e sem RD nenhuma. O efeito é estrutural, não
+> um ajuste fino — **"Padrão" (3 Mestres) caiu de ~98% pra 68–96%**, e
+> **"Difícil" (4 Mestres) caiu de 56–76% pra 10–30%, mais letal que a maioria dos
+> Chefes**. Ver [[🎯 Simulação de Combate — Resultados#🆕 Quinta rodada — motor v2 pós-decisão 133 (2026-08-30)|a quinta rodada]] e a
+> pendência registrada no [[🧭 Log de Decisões|Log]] — **isto ainda não tem
+> correção aplicada**, é decisão do autor entre: reduzir o nº de Mestres por
+> cena, dar aos PJs acesso mais barato a RD de Alma, ou aceitar que "Difícil"
+> hoje é na prática nível Clímax e ajustar o rótulo.
+
+> **"Fácil" é cena de abertura, não metade das cenas.** Uma Horda de 8 termina com os quatro personagens de pé em qualquer rank, e é isso que ela deve fazer: abrir uma sessão, gastar essência antes da cena que importa, ou mostrar que o grupo ficou mais forte. **Se metade das cenas for Fácil, a mesa cansa** — o padrão real de uma sessão é uma Fácil, uma ou duas Padrão, e uma Difícil, com o Clímax guardado para o fim do arco. **Até a pendência acima ser resolvida, trate "Difícil" com o cuidado que hoje só o Clímax merecia.**
 
 **Com 3 jogadores**, tire uma unidade de cada linha (um Mestre, ou 4 membros da horda). A horda se ajusta sozinha, porque o número de ataques dela é **um por personagem de pé**.
 
@@ -156,7 +172,7 @@ Os números entre parênteses são a **vitória medida do grupo** numa mesa de 4
 
 Não conte inimigos, conte **quantas vezes eles rolam ataque por rodada**. É esse número que decide se a cena machuca:
 
-**E conte ponderado: uma ação que vem com Ação Especial ou dano de Alma vale duas comuns.** Foi o que a simulação mostrou — oito ações de 4 Mestres de Gu levam o grupo ao limite (56% de vitória no rank 3), enquanto as mesmas oito ações vindas de 2 Mestres + uma Horda são uma luta ganhável com folga (93%). O que machuca não é rolar mais dados, é **rolar dados que a RD não come e que custam a ação do jogador**.
+**E conte ponderado: uma ação que vem com Ação Especial ou dano de Alma vale mais que duas comuns.** A quinta rodada de simulação mostrou isso com mais força do que a terceira imaginava — oito ações de 4 Mestres de Gu não apenas "levam o grupo ao limite", **derrubam a vitória do grupo pra 11% no rank 3**, enquanto as mesmas oito ações vindas de 2 Mestres + uma Horda seguem ganháveis com folga (93%, número da terceira rodada, não retestado). O que machuca não é rolar mais dados, é **rolar dados que a RD não come e que custam a ação do jogador** — e a quinta rodada mediu esse efeito maior do que se pensava. Ver o achado no bloco acima.
 
 | Ações ponderadas / rodada | O que a mesa sente (grupo de 4, rank igual) |
 |---|---|
@@ -185,4 +201,13 @@ Um Imortal não se descreve só pelo rank. Declare **rank + nível de domínio n
 
 **Imortal Recém-Ascendido (Elite, rank 6, Vislumbre)** — VIT `21 × 32` = 672, Defesa 20, RD 64, Gu Imortal de ataque `32d8` no passo padrão. Perigoso, mas ainda "novo".
 
-**Imortal Denso (Chefe, rank 6, Mestre — 30.000 Marcas)** — VIT `63 × 32` = 2.016, Defesa 22, RD 64, mesmo Gu Imortal mas **+2 Níveis** pelas Marcas: `32d12`. Rola quase o dobro do anterior no mesmo rank. É o exemplo de por que a contagem de Marca importa mais que o número do rank.
+**Imortal Denso (Chefe, rank 6, real Pequeno Feito · ~9.000 Marcas · dois feitos de gênio pobre empilhados = opera como Grão-Mestre, decisão 133)** — VIT `63 × 32` = 2.016, Defesa 22, RD 64, mesmo Gu Imortal mas **+3 Níveis** pela densidade emprestada: passo padrão d8 sobe três degraus até `d12 + 1/dado` = **`32d12 + 32`**. É o exemplo de por que a contagem de Marca importa mais que o número do rank — e por que, no romance, é o mesmo Fang Yuan de rank 6 que bate como Grão-Mestre.
+
+> [!danger] Medido — este perfil é sentença, não encontro
+> A quinta rodada de simulação testou este exato NPC como Chefe de Clímax
+> contra um grupo recém-ascendido de rank 6: o grupo venceu em **apenas 5,2%
+> das vezes** (contra 20% do mesmo Imortal sem o gênio pobre duplo). **É um
+> inimigo acima do rank do grupo, não um encontro** — trate como uma cena de
+> fuga, negociação, ou um Golpe Matador com a Brecha já descoberta (ver
+> [[🏃 Fuga e Perseguição]] e [[⚡ Golpes Matadores|a Brecha]]). Nunca ponha um
+> duplo-gênio como oponente padrão de uma cena Difícil ou Clímax comum.
