@@ -297,8 +297,7 @@ Cristal Roxo (~200). [[🏙️ Metrópoles — Centros, Tokens e Arena]] atualiz
 
 ## [2026-08-31] ingest | Frente 3 da síntese — Aposta por Procuração e refino territorial (decisões 139–140)
 Duas prioridades máximas da síntese de atividades jogáveis (leitura integral,
-Fase 4 e 5) implementadas como regra de mesa. (1) Nova nota [[🎰 Aposta por
-Procuração]] em `05 — Arsenal`: guerra por procuração entre Imortais com peões
+Fase 4 e 5) implementadas como regra de mesa. (1) Nova nota [[🎰 Aposta por Procuração]] em `05 — Arsenal`: guerra por procuração entre Imortais com peões
 mortais infundidos em segredo, Vontade de Batalha por combate e reivindicação
 do prêmio acima de 50% — adaptado do "Yi Tian Mountain" do romance, sem nomes
 de personagens. (2) [[☯️ Marcas de Dao]] ganhou a seção "Refino territorial —
@@ -329,3 +328,13 @@ e Leis), `🪱 Gu.md` e `🧬 Receitas de Combo-Refino` (contagem 457→460),
 `🧭 Log de Decisões` (decisão 141 + changelog). Candidato borderline "Homem
 que Triunfa sobre o Céu" (r5) descartado por decisão deliberada, ver a
 síntese.
+
+## [2026-08-30] canon | Rendimento de Calamidade e teto de Longevidade corrigidos (decisões 142-143)
+Achados da síntese de fidelidade da leitura integral. Grande Calamidade e
+Calamidade das Dez Mil estavam 2× e 6-8× abaixo do cânone (Cap. 1389) —
+corrigidas em [[☯️ Marcas de Dao]]; a aceleração de frequência por rank fica
+como pendência explícita, não resolvida. Teto de Longevidade Imortal subiu de
+2.000 para 7.000 anos, mirando a média canônica dos Veneráveis documentados
+(Cap. 598-601) — [[⏳ Longevidade]] agora registra abertamente a contradição
+com o Cap. 563 (o romance chama a premissa de "engano comum"), mantendo o
+mecanismo por necessidade estrutural (decisão 89), não por fidelidade.
