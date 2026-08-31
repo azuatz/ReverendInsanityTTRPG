@@ -43,7 +43,7 @@ execução + registro no Log.
 
 - [x] **Iniciativa é rolada** *(decisão 105)* — confirmar que [[⚔️ Combate]] diz isso; ajustar se divergir.
 - [x] **Crítico**: 20 natural *(decisão 105)* **dobra os dados de dano** — garantir que está escrito em [[⚔️ Combate]] e na [[📄 Folha de Referência]].
-- [x] **Tirar a média a partir do rank 5** *(decisão 103; a tabela da Folha foi removida em 2026-08-30 e arquivada em [[Médias do pool (v1)]])* (a regra "role 8 dados e some a média do resto: d6 3,5 · d8 4,5 · d10 5,5 · d12 6,5") — em [[⚔️ Combate]] **e** a tabela correspondente na [[📄 Folha de Referência]]. Motivo do autor: *o legal é rolar os dados para o dano não ser fixo*.
+- [x] **Tirar a média a partir do rank 5** *(decisão 103; a tabela da Folha foi removida em 2026-08-30 e arquivada em [[Regras removidas 2026-08-30]])* (a regra "role 8 dados e some a média do resto: d6 3,5 · d8 4,5 · d10 5,5 · d12 6,5") — em [[⚔️ Combate]] **e** a tabela correspondente na [[📄 Folha de Referência]]. Motivo do autor: *o legal é rolar os dados para o dano não ser fixo*.
 - [x] **Tirar a compra/venda de Aptidão** *(decisão 111)* em [[⚖️ Pontos de Criação]] — as aptidões já foram roladas e definidas.
 - [x] **Tirar a tabela de Desbloqueio** *(decisão 106)* (`— / +1 resistência e ordem / +2 · 1 ativação/cena pela metade / +3 · 1ª ativação grátis · ignora ½ RD`) — o autor não entendeu o que é. Verificar antes o que ela sustenta em [[🪜 Ranks e Estágios]]: se outras regras dependem dela, avisar antes de remover.
 - [x] **Tirar ataques à distância não-Gu** *(decisão 104)* (arcos) de [[⚔️ Combate]] e do [[🗡️ Arsenal]].
@@ -54,7 +54,7 @@ execução + registro no Log.
 > 2026-08-30 (decisões 103–107, 111). O último resíduo da regra da média —
 > a tabela ainda viva na [[📄 Folha de Referência]] (que se contradizia
 > sozinha) e a frase em [[📖 Catálogo de Gu]]`:35` mandando resolver 25+ dados
-> pela média — foi removido e arquivado em [[Médias do pool (v1)]].
+> pela média — foi removido e arquivado em [[Regras removidas 2026-08-30]].
 > Era o item que **quebrava na mesa**: um Venerável rolando `256d12` com a folha
 > dizendo as duas coisas ao mesmo tempo.
 

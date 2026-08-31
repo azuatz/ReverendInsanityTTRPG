@@ -14,7 +14,19 @@ Texto original das regras substituídas pelas decisões 103–112 (fonte: `_Font
 
 > Obrigatório a partir do rank 5. A média de um dado é `(faces + 1) ÷ 2`: d6 = 3,5 · d8 = 4,5 · d10 = 5,5 · d12 = 6,5.
 > 1 a 8 dados: role todos · 9 a 24: **role 8 dados** e some a média dos restantes · 25 ou mais: **use a média direto**.
-> *(Acompanhava uma tabela de médias por M e por dado, replicada na Folha de Referência — também removida.)*
+> *(Acompanhava a tabela de médias abaixo, replicada na Folha de Referência — removida de lá em 2026-08-30.)*
+
+| M | Rank | **d6** | **d8** | **d10** | **d12** |
+|---|---|---|---|---|---|
+| 1 | 1 | 4 | 5 | 6 | 7 |
+| 2 | 2 | 7 | 9 | 11 | 13 |
+| 4 | 3 | 14 | 18 | 22 | 26 |
+| 8 | 4 | 28 | 36 | 44 | 52 |
+| 16 | 5 | 56 | 72 | 88 | 104 |
+| 32 | 6 | 112 | 144 | 176 | 208 |
+| 64 | 7 | 224 | 288 | 352 | 416 |
+| 128 | 8 | 448 | 576 | 704 | 832 |
+| 256 | 9 | 896 | 1.152 | 1.408 | 1.664 |
 
 ## Armas à distância mundanas *(removidas pela decisão 104)*
 

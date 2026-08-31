@@ -24,7 +24,7 @@ Nota-mãe. Onde regra ou lore **substituída** vai parar — em vez de ser apaga
 | [[⚔️ Combate (v1 — multiplicador 1dX × M)]] | [[⚔️ Combate]] | O dano de Gu era `1dX × M`; a Escada de Dano atual funciona de outro jeito |
 | [[🪜 Ranks e Estágios (v1 — estágio só dobrava essência)]] | [[🪜 Ranks e Estágios]] | O estágio dentro do rank só afetava a essência; hoje ele pesa em mais coisas |
 | [[❤️ Recursos e Dano (v1 — VIT 12+3CON, sem estágio)]] | [[❤️ Recursos e Dano]] | Vitalidade era `12 + 3×CON` fixa, sem influência do estágio |
-| [[Médias do pool (v1)]] | [[📄 Folha de Referência]] · [[⚔️ Combate]] | A rolagem rápida por média era obrigatória do rank 5 em diante; a **decisão 103** mandou rolar sempre, em qualquer rank |
+| [[Regras removidas 2026-08-30]] | [[⚔️ Combate]] · [[📄 Folha de Referência]] · [[⚖️ Pontos de Criação]] | Texto original de tudo que a **rodada do autor** de 2026-08-30 removeu (decisões 103–112): rolagem rápida por média e sua tabela, armas à distância mundanas, desbloqueios de estágio, regeneração de essência em combate, compra e venda de Aptidão |
 
 O motivo de cada mudança está registrado no [[🧭 Log de Decisões]], que é o contrato do sistema.
 

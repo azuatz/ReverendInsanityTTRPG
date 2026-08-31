@@ -43,7 +43,7 @@ Definido individualmente na ficha do Gu — luar, bebida alcoólica, carne, min�
 
 Gu não alimentado a tempo enfraquece, entra em letargia e eventualmente morre — nessa ordem, com aviso. Um Gu letárgico ainda pode ser reativado se alimentado a tempo; um Gu morto não volta.
 
-**Hibernação induzida:** é possível colocar um Gu comum em letargia controlada de propósito (ambiente especial), dispensando alimentação enquanto durar — útil pra guardar Gu que não estão em uso sem pagar o custo deles.
+**Hibernação induzida:** é possível colocar um Gu comum em letargia controlada de propósito, dispensando alimentação enquanto durar — útil pra guardar Gu que não estão em uso sem pagar o custo deles. Os Gu que fazem isso em série são o **Gu do Casulo de Pedra** (r2) e a **Gu da Arca do Sono Longo** (r4) — ver [[🚀 Gu de Avanço de Rank]]; são eles que tornam heranças e [[🧘 Ritmo de Cultivo e Cultivo Fechado|cultivo fechado]] viáveis.
 
 ## Gu Imortal come diferente
 
