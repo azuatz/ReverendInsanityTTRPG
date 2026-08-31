@@ -699,3 +699,54 @@ Leitura de "Volume_6_-_Demon_Venerables_Eternal_Life.txt", linhas 1–24700 (de 
 - O grupo de Fairy Zi Wei (Shadow Sect, a serviço de Spectral Soul) chega como reforço, engajando Heavenly Court diretamente; Qin Ding Ling ordena friamente que seus Gu Imortais matem Fairy Zi Wei e Old Man Zheng Yuan sem hesitação apesar da história deles como ex-líderes de Heavenly Court, recusando-se a deixar a provocação de Spectral Soul ("salve seus velhos aliados") atrasar o ataque — demonstração de liderança implacável (Cap. 2033–2034).
 - Demon Immortal Qi Jue entra na briga do lado de SPECTRAL SOUL contra Fang Yuan e Heavenly Court — Fairy Zi Wei deduz que é porque Spectral Soul (figura de caminho demoníaco com vastas heranças roubadas) vem negociando heranças secretamente com Qi Jue via treasure yellow heaven, comprando sua cooperação já que Heavenly Court nunca poderia se aliar a ele por razões históricas (Cap. 2033–2034).
 - O campo de batalha agora reúne praticamente todo poder relevante do cenário, todos querendo Fang Yuan morto: Spectral Soul, Heavenly Court (Qin Ding Ling + elite), Demon Immortal Qi Jue (do lado de Spectral Soul), Qing Chou (quer Spectral Soul morto, ferindo todo mundo de passagem) e a facção Shadow Sect de Fairy Zi Wei — caos em nível de gancho de capítulo (Cap. 2034).
+
+---
+### Bloco 15 (linhas 11201–12000, Caps. 2034–2039)
+
+## A) Gu nomeados (continuação)
+- Strong Gu | Immortal Gu rank 7 | rule path (mas serve a strength path) | besouro preto-dourado pesado; do mito de Legends of Ren Zu, ligado à Great Strength True Martial Physique; dado por Bing Sai Chuan a Hei Lou Lan (Cap. 2036–2037)
+- Freedom Gu, Cognition Gu, Self Gu, Wisdom Gu (versões do mito), Weak Gu | Gu do mito de Ren Zu | de <<Legends of Ren Zu>> cap. 5, seção 31 (Cap. 2037)
+- Unrestrained Heavenly Mark | golpe imortal de Fang Yuan | refina heaven path dao marks especificamente; consome essência imortal rank 8 rapidamente (Cap. 2037)
+- Dang Hun Mountain | entidade/arma de soul path | "montanha da alma" revelada como um verdadeiro trunfo de Spectral Soul (Cap. 2037)
+- Star sea snail corpse | material/corpo rank 8 | dado por Fang Yuan a Combat Beast King para alimentar um golpe de transformação (Cap. 2037)
+
+## B) Sistemas e atividades jogáveis (continuação)
+- **Hierarquia de tribulações**: earthly calamity < heavenly tribulation < grand tribulation < myriad tribulation (implícito); só Gu Imortais rank 8 enfrentam myriad tribulation; a maioria dos rank 8 da era atual nunca passou por NENHUMA (ex.: Heavenly Lord Bai Zu, Yao Huang, Prince Feng Xian); Old Ancestor Xue Hu falhou a sua tentando refinar "fortune rivalling heaven Gu" e perdeu Snowy Mountain blessed land; Thousand Transformations Ancestor sobreviveu por pouco à sua; Beast Calamity Immortal morreu da primeira dele; Bo Qing e Duke Long são os únicos citados que passaram DUAS myriad tribulations cada — auge histórico abaixo de venerável (Cap. 2038).
+- **Fang Yuan nunca passou por NENHUMA myriad tribulation**: o poder único de sua apertura soberana (anexar grotto-heavens) deixou-o pular essa etapa ao chegar a rank 8 — ou seja, esta é literalmente sua primeira, no pior momento possível (Cap. 2038).
+- **Princípio de equilíbrio do Heavenly Dao aplicado a tribulações**: uma myriad tribulation atinge a área MAIS DESENVOLVIDA de uma apertura — por isso Mini Southern Border (a mini-região mais desenvolvida de Fang Yuan) sofre o pior da Myriad Destruction Lightning Forest (Cap. 2038).
+- Heaven's will piora tribulações ativamente, tornando-as "adaptativas" (ex.: combina vários raios num só ataque devastador mirado em Combat Beast King) (Cap. 2038).
+- **Paradoxo do método de refino de Fang Yuan**: ele PRECISA de heaven's will presente para sentir/mirar os heaven path dao marks (via heaven-human sensation), mas a própria reação de heaven's will às tentativas de refino dispara a myriad tribulation punitiva, que atrapalha o refino subsequente — loop autodestrutivo; além disso, dao marks agrupados (como na tribulação) ficam muito mais difíceis de refinar que espalhados (eficiência cai a menos de 1%) (Cap. 2038).
+- Familiar face (Gu/técnica) — permite a Fang Yuan criar vontades-isca convincentes de "corpo principal" animadas com essência imortal e Immortal Gu, enganando até Spectral Soul e Demon Immortal Qi Jue temporariamente (Cap. 2038, reconfirmado).
+- Combat Beast King — único Gu Imortal rank 8 dentro de Beast Calamity grotto-heaven (anexada antes por Fang Yuan), treinado secretamente em Star Collection City como reserva defensiva oculta da apertura soberana em caso de invasão durante a guerra do Fate (nunca usado até agora) (Cap. 2038).
+
+## C) Regras do mundo (continuação)
+- Mito de Strong Gu (<<Legends of Ren Zu>> cap.5 seç.31): "a regra da natureza é que o forte devora o fraco... céu e terra nunca terão pena do fraco, só vão se maravilhar com os feitos do forte" — peça filosófica fundamental do universo, depois subvertida quando a compaixão de Ren Zu impede Strong Gu de devorar Weak Gu (Cap. 2036–2037).
+- "Não há necessidade de muitos jogadores de xadrez neste mundo" — filosofia de Giant Sun Immortal Venerable relatada por Bing Sai Chuan, explicando a decisão de Longevity Heaven de eliminar Fang Yuan antes que vire um venerável rival (Cap. 2035).
+
+## D) Números e preços (continuação)
+- Myriad Destruction Lightning Forest se espalha por mais de 100.000 li em poucos instantes (Cap. 2037).
+- Só Bo Qing e Duke Long, entre os rank 8 nomeados, passaram por DUAS myriad tribulations cada (Cap. 2038).
+- Qin Ding Ling dá a Qi Sea Ancestor 2 dos 3 Immortal Gu de qi (heaven qi + earth qi), reserva human qi como "linha vermelha de Heavenly Court" (Cap. 2037).
+
+## E) Locais e atividades (continuação)
+- Qing oasis, Western Desert — base do clã Qing (Cap. 2035, memória restaurada de Qing Chou).
+- Cloud Bamboo Mountain — ponto de recurso na apertura soberana de Fang Yuan (tomado do clã Chi de Southern Border), destruído pela myriad tribulation; continha 8 desolate beast cloud foxes, 11 desolate plant spear tip bamboos, cloud qi roots, white hair ginseng, seven colored cloud soil (Cap. 2038).
+- Mini Southern Border — mais atingida pela myriad tribulation por ser a mini-região mais desenvolvida de Fang Yuan (Cap. 2038).
+- Star Collection City — onde Combat Beast King treinou secretamente dentro da apertura soberana (Cap. 2038).
+- Northern Plains' Hei tribe — tribo original de Hei Lou Lan, já destruída/absorvida pela tribo de "Heavenly Lord Bai Zu"; Bing Sai Chuan oferece ajudá-la a reconstruí-la (Cap. 2036).
+
+## F) Golpes matadores e receitas (continuação)
+- Unrestrained Heavenly Mark — golpe de refino de heaven path dao marks de Fang Yuan, custa muita essência imortal rank 8 (Cap. 2037).
+- Myriad tribulation Myriad Destruction Lightning Forest — disparada pelo próprio sucesso de Fang Yuan ao refinar 3 heaven path dao marks; se espalha por 100.000+ li, só rank 8 conseguem enfrentar (Cap. 2037–2038).
+- Espiral de fumaça negra + esmagamento com Dang Hun Mountain (Spectral Soul) — prende e esmaga Dragon Palace, revelado próximo de sua "força verdadeira" (Cap. 2037).
+- Ataques de dedo com fumaça negra de Spectral Soul — prendem alvos (immemorial year beasts) em correntes de fumaça, arrastados para a espiral (Cap. 2039).
+
+## G) Achados soltos (continuação)
+- Memória de Qing Chou é totalmente restaurada em pleno combate: revela sua origem verdadeira como "Ming You" — aparentemente um Gu Imortal rank 7 de uma era passada de Western Desert que matou Qing Heng do clã Qing e foi caçado/torturado até a morte por vingança; seu ódio e voto de vingança contra os assassinos (e por extensão Spectral Soul, que a criou como soul beast/vaso de hatred Gu a partir desse trauma) é a origem de sua existência atual como immemorial soul beast (Cap. 2035).
+- Confirmado: o hatred Gu de Qing Chou a conecta instintivamente a Spectral Soul e "todos ligados a ele" via uma "karma divine tree" — ela quase detectou o clone Qi Sea Ancestor de Fang Yuan antes (ligado a Spectral Soul pela origem de sovereign immortal fetus Gu) até Spectral Soul e Fang Yuan virarem inimigos abertos, redirecionando o "sentido de ódio" dela inteiramente para Spectral Soul (Cap. 2035).
+- O clone Qi Sea Ancestor de Fang Yuan sabota ativamente por dentro a aliança temporária Heavenly Court/Shadow Sect/Longevity Heaven, semeando desconfiança mútua entre Qin Ding Ling e Fairy Zi Wei/Bing Sai Chuan sobre a confiabilidade da formação de dedução — impede com sucesso um ataque unificado contra o corpo principal dele (Cap. 2035–2036).
+- Bing Sai Chuan (Longevity Heaven, a serviço de Giant Sun Immortal Venerable) recruta Hei Lou Lan na hora, impressionado com a análise tática dela, oferecendo ajudar a reconstruir a tribo Hei destruída e dando-lhe o lendário Strong Gu rank 7 ligado à Great Strength True Martial Physique dela — grande reviravolta de sorte para uma personagem antes marginalizada (Cap. 2036).
+- Qi Sea Ancestor (clone de Fang Yuan) extrai 2 dos 3 preciosos Immortal Gu de qi path de Heavenly Court (heaven qi, earth qi) de Qin Ding Ling sob pressão/urgência, usando o caos deliberadamente como alavanca — Heavenly Court está efetivamente financiando/armando seu pior inimigo sem saber (Cap. 2037).
+- Spectral Soul divide atenção entre Dragon Palace (genuinamente perto de destruí-la) e um "Fang Yuan" isca que Demon Immortal Qi Jue relata ter encontrado perto de Myriad Year Flying Warship — Spectral Soul fica em dúvida sobre qual alvo é real, dada a conhecida habilidade de disfarce "familiar face" de Fang Yuan (Cap. 2038–2039).
+- **DESENVOLVIMENTO CRÍTICO**: o refino forçado de Fang Yuan de apenas alguns heaven path dao marks dispara uma Myriad Destruction Lightning Forest completa — sua primeira myriad tribulation, no pior momento possível (em fuga, em meio a cerco, corpo principal preso e incapaz de lutar) — devastando a região mais desenvolvida de sua apertura (Mini Southern Border) e colocando-o numa situação de vida-ou-morte genuína com um assassino externo (Spectral Soul) E uma calamidade interna (myriad tribulation) simultâneas (Cap. 2037–2039).
+- Spectral Soul provoca Fang Yuan alegando que Fairy Zi Wei já deduziu sua localização, tentando forçá-lo a sair do esconderijo — Fang Yuan não sabe se é verdade ou blefe, mas é forçado a agir de qualquer forma porque Dragon Palace está genuinamente à beira do colapso estrutural (Cap. 2039).
