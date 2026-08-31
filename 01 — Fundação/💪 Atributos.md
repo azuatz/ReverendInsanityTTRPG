@@ -105,7 +105,7 @@ O bônus vale em **tudo que já usava treino**: testes de perícia, acerto melee
 
 *(Calibrado contra *Feiticeiros e Maldições*, que usa a mesma escada: base +2, subindo +1 nos níveis 5, 9, 13 e 17, chegando a +6 — cinco degraus. Os nove ranks deste sistema com "+1 a cada rank par" reproduzem os mesmos cinco degraus e a mesma faixa +2 a +6.)*
 
-**Perícias/treino** não têm lista fechada: se o personagem tem motivo pra ser bom em algo (a origem dele, a profissão, o que ele passou a campanha fazendo), a mesa concede o bônus da tabela acima naquilo. Escreva na ficha o que ele treinou, não uma tabela.
+**A lista de perícias** — o que existe, o que cada uma cobre, e quantas um personagem treina — mora em [[🎯 Perícias]]. A regra daqui é só o número: treinado soma o bônus da tabela acima; sem treino, só o atributo.
 
 ## 📝 Changelog
 
