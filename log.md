@@ -280,3 +280,12 @@ concretas da Cidade Shang real contra [[🏙️ Metrópoles — Centros, Tokens 
 mas compráveis na nota, limiares de vitória da arena 5-6× abaixo do real); (4)
 tamanho de Terra Abençoada pode estar subdimensionado; (5) distribuição de Aptidão,
 baixa prioridade. Nada foi editado — só análise, achados apontados pro autor decidir.
+
+## [2026-08-30] simulação | "Difícil" resolvido de vez — composição escala por rank (decisão 137)
+A correção de Alma (decisão anterior) resolveu "Padrão" mas só melhorou
+"Difícil" — testando zero Mestres com Alma, o resultado continuou catastrófico,
+provando que a causa real era volume de ações (penhasco entre 6 e 8
+ações/rodada: 90%→13%, não uma rampa). Autor escolheu, entre 3 opções: composição
+escalada por rank, igual o Chefe já faz. Ranks 1-4: 3 Mestres (1 Alma) + 1
+Guerreiro; rank 5+: 4 Mestres (2 Alma). Aplicado em [[⚔️ Ameaças Genéricas por
+Rank]] e [[🎯 Simulação de Combate — Resultados]].

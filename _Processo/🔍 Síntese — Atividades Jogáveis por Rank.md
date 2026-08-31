@@ -12,7 +12,7 @@ Levantamento de **atividades jogáveis** (sistemas, minigames, locais funcionais
 
 Cada entrada segue o formato: **nome/o que é** · fase · como funciona mecanicamente · origem (digest/capítulo) · cobertura atual.
 
-> **Nota de processo:** síntese em construção incremental. Seções marcadas 🚧 ainda não foram totalmente processadas contra as notas de sistema; serão revisadas em passe posterior. Nenhuma atividade aqui é regra — isto é matéria-prima de ingest, não uma decisão do Log.
+> **Nota de processo:** as 5 fases estão preenchidas. Nenhuma atividade aqui é regra — isto é matéria-prima de ingest, não uma decisão do Log; adotar qualquer item exige o fluxo normal (parecer → edição de nota → entrada no Log de Decisões).
 
 ---
 
@@ -40,12 +40,10 @@ Cada entrada segue o formato: **nome/o que é** · fase · como funciona mecanic
 8. **Antro de aposta de rochas (gambling stones)** — tenda com balcões por faixa de preço (5/10/20 pedras); a maioria das pedras é vazia ou tem Gu morto dentro; abertura é serviço grátis da casa; sem detecção confiável — pura sorte. *Origem: digest 01 (Cap. 39–43, 57); expandido em digest 03 (5 graus de preço, serviço de dissecção por técnica).* **Cobertura: ❌ Não coberto** — não existe minigame de "loot box física" no sistema atual. Ver também Fase 2 (versão grande na Cidade Shang).
 9. **Gu battle (duelo formal)** — desafio escrito entre membros do clã para resolver disputas (1v1, 2v2, até morte); o desafiado é **obrigado a aceitar**; anciãos arbitram. *Origem: digest 01 (Cap. 104–105).* **Cobertura: 🔧 Parcial** — a mecânica de combate existe, mas o **protocolo social de desafio obrigatório** (quem recusa perde honra formalmente) não está descrito em nenhuma nota.
 10. **Herança e partilha de bens (aos 16 anos)** — processo formal de requerer a herança dos pais: requerer sem missão aberta → cumprir uma missão-teste → inventário item a item em 3 dias. Ficar com Gu de um parente morto sem passar pelo clã é crime. *Origem: digest 01 (Cap. 9, 90, 96, 102, 104).* **Cobertura: ❌ Não coberto.**
-11. **Heranças de força (masmorra-herança pessoal)** — provações deixadas por um moribundo, variando de justas (testam caráter, sem risco letal) a demoníacas (letais ao falhar). *Origem: digest 01 (Cap. 47, 60–61); modelo completo em digest 03 (ver item 15 da Fase 3).* **Cobertura: ❌ Não coberto** — não há template de "masmorra de herança" no vault; ver a versão completa (4 salas) capturada na Fase 3.
+11. **Heranças de força (masmorra-herança pessoal)** — provações deixadas por um moribundo, variando de justas (testam caráter, sem risco letal) a demoníacas (letais ao falhar). Modelo completo de 4 salas (digest 03, Cap. 221–227): tina de recompensa livre (testa refino em massa) → sala de três pilares, escolha 1 entre 3 Gu (testa autocontrole) → sala do esqueleto/livro, reverência genuína libera caminhos ocultos (testa respeito) → câmara final de "bocas famintas" que só soltam o Gu premiado em batidas aleatórias sem controle do jogador (testa sorte pura) — cada sala liga uma virtude testada a um tipo de prêmio. *Origem: digest 01 (Cap. 47, 60–61); modelo de 4 salas em digest 03.* **Cobertura: ❌ Não coberto** — não há template de "masmorra de herança pessoal" no vault (distinto do modelo multi-pilar de evento raro da Fase 3, item 1, que é uma herança compartilhada e competitiva, não pessoal e sequencial).
 12. **Mobilização de maré de bestas** — Salão emite missão urgente, grupos saem em ondas, retardatário se funde ao grupo mais próximo, espólio dividido entre quem participou do abate. *Origem: digest 01 (Cap. 93–96).* **Cobertura: 🔧 Parcial** — eventos de horda existem na campanha de exemplo, mas o procedimento de mobilização (fusão de grupos, divisão de espólio) não está formalizado como regra genérica.
 13. **Mercado imobiliário e negócio de Gu Master** — só Gu Masters possuem propriedade; aluguéis fixos, depósito de 25%; um personagem pode montar um "negócio-modelo" (taverna + imóveis alugados + produção vendida a atacado) como fonte de renda passiva paralela às missões. *Origem: digest 01 (Cap. 89–92, 102–103, 106–107).* **Cobertura: ❌ Não coberto** — não existe regra de "negócio pessoal" como opção de progressão econômica de PJ.
 14. **Antro de queda-de-braço como pedágio de rota comercial** — em vez de pagar pedágio, um representante da caravana enfrenta o guardião local (aqui, um bando de macacos) em disputa de força pura, sem uso de Gu; vencer libera passagem grátis, perder custa uma fração da carga. *Origem: digest 03 (Fei Hou Mountain, Cap. 239–241).* **Cobertura: ❌ Não coberto** — modelo pronto de "desafio de checkpoint" alternativo a pagar pedágio em pedras; útil para estradas entre cidades pequenas e a metrópole.
-
----
 
 ---
 
@@ -68,8 +66,6 @@ A Cidade do Clã Shang (digests 03–04) é a fonte-mãe de `🏙️ Metrópoles
 13. **Comércio de escravos / refugiados políticos** — só clansmen do clã dono da cidade administram; refugiados de golpes de outros clãs são vendidos e evitados por compradores cautelosos ("batata quente política"). *Origem: digest 04 (Cap. 329–330).* **Cobertura: ❌ Não coberto** — tema pesado; registrar aqui como matéria-prima, decisão de uso editorial cabe ao autor (ver §7 do CLAUDE.md — não é regra a adotar sem conversa).
 14. **Sistema de leis com multa tabelada por artigo** — cada infração tem preço fixo e citável; quem tem dinheiro pode "pagar adiantado" por infrações futuras — a lei da cidade é preço de licença, não barreira real pra quem tem poder. *Origem: digest 04 (Cap. 330, 332).* **Cobertura: ❌ Não coberto** — boa peça de textura urbana (corrupção institucionalizada e visível).
 15. **Hierarquia de seita do Continente Central** (contraste de referência) — discípulo externo → interno → elite → herdeiro → elder → líder → elder supremo, com exames formais a cada 3/8/15 anos. *Origem: digest 04 (Cap. 335).* **Cobertura: ✅ Coberto** — bate com a estrutura de postos (Externo/Interno/Nuclear) de `🏛️ Clãs e Seitas.md`; a única peça nova é o **calendário fixo de exames** (3/8/15 anos) em vez de acúmulo livre de PC — considerar como variante de seita "tradicional" vs. a de mérito contínuo já modelada.
-
----
 
 ---
 

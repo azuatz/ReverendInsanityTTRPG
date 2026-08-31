@@ -314,6 +314,22 @@ def make_scenario(rank, comp):
         # Alma) + 1 Guerreiro (1 ação, especial genérica) = 7 ações/rodada.
         mestres = [make_mestre_de_gu(rank, i, special="alma" if i == 0 else "physical") for i in range(3)]
         return mestres + [make_guerreiro(rank, especial=True)]
+    if comp == "dificil_2mestre_1guerreiro":
+        # candidato pra ranks 1-2: 2 Mestres (1 Alma) + 1 Guerreiro = 5 ações/rodada.
+        mestres = [make_mestre_de_gu(rank, i, special="alma" if i == 0 else "physical") for i in range(2)]
+        return mestres + [make_guerreiro(rank, especial=True)]
+    if comp == "dificil_rank_escalado":
+        # composição final proposta: escala por rank, igual o Chefe já faz.
+        if rank <= 2:
+            mestres = [make_mestre_de_gu(rank, i, special="alma" if i == 0 else "physical") for i in range(2)]
+            return mestres + [make_guerreiro(rank, especial=True)]
+        if rank in (3, 4):
+            mestres = [make_mestre_de_gu(rank, i, special="alma" if i == 0 else "physical") for i in range(3)]
+            return mestres + [make_guerreiro(rank, especial=True)]
+        return (
+            [make_mestre_de_gu(rank, i, special="alma") for i in (0, 1)]
+            + [make_mestre_de_gu(rank, i, special="physical") for i in (2, 3)]
+        )
     if comp == "climax":
         return [make_chefe(rank), make_guerreiro(rank, especial=True)]
     raise ValueError(comp)
@@ -746,6 +762,18 @@ def simulate_calibration_extra():
     return results
 
 
+def simulate_rank_escalado():
+    print("\n" + "=" * 88)
+    print("CANDIDATO FINAL — Difícil escalado por rank (rank 1-2: 2M+1G · rank 3-4: 3M+1G · rank 5+: 4M 2-Alma)")
+    print("=" * 88)
+    for rank in (1, 2, 3, 5):
+        win, surv = simulate(rank, "dificil_rank_escalado")
+        print(f"  rank {rank}  vitória {win*100:5.1f}%   sobreviventes {surv:.2f}/4")
+    print("\n--- referência: 2 Mestres (1 Alma) + 1 Guerreiro, todo rank (candidato p/ 1-2) ---")
+    for rank in (1, 2, 3, 5):
+        win, surv = simulate(rank, "dificil_2mestre_1guerreiro")
+        print(f"  rank {rank}  vitória {win*100:5.1f}%   sobreviventes {surv:.2f}/4")
+
+
 if __name__ == "__main__":
-    simulate_all()
-    simulate_calibration_extra()
+    simulate_rank_escalado()

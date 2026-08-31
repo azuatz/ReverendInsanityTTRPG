@@ -106,6 +106,52 @@ A decisão 132 entrou como regra viva sem simulação prévia, com a auditoria d
 
 Documentadas no cabeçalho do script — resumo: cada PJ ataca com um único Gu "de assinatura" (Xie Lang = Alma d12 ignorando RD/na barra de Alma; Jiãotáng = melee com Gu de Força, arma pesada d10; Lee = Gu elemental genérico d8; Demvi = Vento d10); Lentidão e outras Condições de controle não são modeladas (como nas rodadas 2-4); Golpe Matador só é tentado pelo Xie Lang, só nos cenários Clímax de rank mortal, contra o Chefe; a essência de Imortal (rank 6) usa por analogia o fator do Grau Pico mortal, na ausência de fórmula própria no Log. Nenhuma dessas escolhas está registrada como regra — são decisões de modelagem, revisáveis numa rodada futura.
 
+### 🩹 Correção do achado — limitar Mestres com especial de Alma *(2026-08-30, mesmo dia)*
+
+Rodada de verificação da correção adotada para o item "Em aberto" do [[🧭 Log de Decisões|Log]] (o alfa-strike de dano de Alma acima): **limitar quantos Mestres de Gu com especial de Alma aparecem juntos fora de uma cena Clímax**, trocando os demais pela especial física de rank equivalente que a nota de [[⚔️ Ameaças Genéricas por Rank#🧑‍🦱 Mestre de Gu — o inimigo humano|Mestre de Gu]] já ensinava ("Como variar sem refazer a ficha"). A regra de Alma em si (ignora RD, [[👻 Caminho da Alma]]) não muda — ela continua absoluta contra um só atacante de Alma ou numa cena Clímax. Script: [[simulacoes/2026-08-30-correcao-composicao-alma.py|_Processo/simulacoes/2026-08-30-correcao-composicao-alma.py]], mesma metodologia (3.000 iterações/cenário, ranks 1/2/3/5, mesma semente `20260830`), partindo do motor desta quinta rodada sem alterar nenhuma regra de dano.
+
+**Composições testadas:**
+- **Padrão corrigido** — 3 Mestres de Gu, só **1** com especial de Alma (`M d12`, ignora RD); os outros 2 com especial física (`M d10` melee, RD normal, mesmas 2 ações e mesma ficha do molde).
+- **Difícil corrigido** — 4 Mestres de Gu, só **2** com especial de Alma; os outros 2 com a mesma especial física.
+
+| Cena | rank 1 | rank 2 | rank 3 | rank 5 |
+|---|---|---|---|---|
+| **Padrão** (3 Mestres, 100% Alma) — antes | 68,5% | 77,1% | 84,7% | 95,9% |
+| **Padrão corrigido** (1 de 3 com Alma) — depois | **74,6%** | **80,8%** | **88,9%** | **99,0%** |
+| **Difícil** (4 Mestres, 100% Alma) — antes | 13,0% | 9,8% | 10,6% | 29,9% |
+| **Difícil corrigido** (2 de 4 com Alma) — depois | **14,2%** | **10,6%** | **15,5%** | **45,6%** |
+
+**Padrão: resolvido.** A vitória do grupo volta pra uma faixa alta e segura (75–99%) em todo rank — não precisa cravar de volta nos ~98% de antes do achado, e fica coerente com a faixa-alvo (85–98%) na maior parte dos ranks; só os ranks 1–2 ficam ligeiramente abaixo de 85% (74,6% e 80,8%), o que ainda é uma melhora clara sobre os 68,3–77,1% quebrados.
+
+**Difícil: melhora, mas NÃO resolve.** A vitória sobe em todo rank, mas fica muito abaixo da faixa-alvo (50–75%) e continua **bem mais letal que a maioria dos Chefes** (56–80%, ver [[⚔️ Ameaças Genéricas por Rank#O Chefe — a regra especial pra combate solo|a tabela de Chefes]]) nos ranks 1–3 — só o rank 5 chega perto (45,6%, ainda abaixo de 50%).
+
+#### Por que a correção não basta pra "Difícil" — achado novo
+
+Antes de aceitar 2-de-4 como número final, testei a proporção Alma/física inteira (0, 1, 2, 3 e 4 de 4 Mestres com a especial de Alma) e uma composição alternativa que reduz o total de ações (3 Mestres + 1 Guerreiro, 7 ações/rodada em vez de 8):
+
+| Difícil, rank 1 / 2 / 3 / 5 | 0-de-4 | 1-de-4 | **2-de-4** | 4-de-4 (original) |
+|---|---|---|---|---|
+| Vitória do grupo | 8,0% · 5,3% · 5,9% · 28,8% | 11,3% · 8,0% · 9,3% · 36,7% | **14,2% · 10,6% · 15,5% · 45,6%** | 13,0% · 9,8% · 10,6% · 29,9% |
+
+**Zero Mestres usando dano de Alma (100% especial física) ainda é catastrófico** — 8,0–28,8% conforme o rank, quase idêntico ao "Difícil" original 100% Alma. Isso prova que o dano de Alma **não é mais a causa dominante** da letalidade de "Difícil": é o **volume de 8 ações/rodada** (4 Mestres × 2 ações cada), que ficou pesado demais depois das decisões 103–133 (crítico dobra dano, essência sem regeneração em combate, Grau de Densidade corrigido) — um efeito que existe **independente** de qual Caminho a especial usa. A variante "3 Mestres (1 Alma) + 1 Guerreiro" (7 ações/rodada) melhora — 41,7% · 40,4% · 52,4% · 85,0% — mas ainda fica abaixo de Chefe nos ranks 1–2 e só empata/ultrapassa no rank 3 e no rank 5 (onde passa a faixa-alvo pro lado difícil demais).
+
+**2-de-4 foi a melhor composição testada dentro do escopo original** (limitar a proporção de Alma, mantendo 4 Mestres) — mas o achado acima era novo e distinto do diagnóstico da decisão 135, e o autor decidiu resolvê-lo numa segunda rodada de calibração, abaixo.
+
+#### 🩹 Segunda correção — o penhasco de volume de ações, e a composição final *(mesmo dia)*
+
+Com o dano de Alma descartado como causa dominante, testei o eixo real — **número de ações inimigas por rodada**, de 5 a 8, script `_Processo/simulacoes/2026-08-30-dificil-rank-escalado.py`:
+
+| Ações/rodada (composição) | rank 1 | rank 2 | rank 3 | rank 5 |
+|---|---|---|---|---|
+| 5 (2 Mestres + 1 Guerreiro) | 95,2% | 98,1% | não testado | não testado |
+| 6 (3 Mestres — Padrão) | 74,6% | 80,8% | 88,9% | 99,0% |
+| 7 (3 Mestres, 1 Alma + 1 Guerreiro) | 41,7% | 40,4% | 52,4% | 85,0% |
+| 8 (4 Mestres, 2-de-4 Alma) | 14,2% | 10,6% | 15,5% | 45,6% |
+
+**Não é uma rampa, é um penhasco.** Entre 6 e 8 ações a vitória do grupo despenca de ~90% pra ~13% — cada ação a mais custa 30-40 pontos percentuais, não uma fração proporcional. Nenhuma composição fixa cobre os 4 ranks dentro da faixa-alvo (50-75%, "mais difícil que Padrão, não pior que a maioria dos Chefes"): 7 ações funciona no rank 3 (52%) mas fica abaixo da faixa nos ranks 1-2 (~41%) e acima dela no rank 5 (85%); 8 ações só funciona (aproximadamente) no rank 5 (46%).
+
+**Resolução escolhida pelo autor:** "Difícil" escala por faixa de rank, pelo mesmo princípio que já rege o Chefe (nenhum número de ação é constante entre ranks) — **ranks 1-4: 3 Mestres (1 com Alma) + 1 Guerreiro** (42% · 40% · 52% nos ranks 1/2/3); **rank 5+: 4 Mestres (2 com Alma)** (46%). Aplicado em [[⚔️ Ameaças Genéricas por Rank]]. Alternativas descartadas: uma composição sem tabela fixa (o mestre mira o contador de ações ponderadas ao vivo) e aceitar "Difícil" como quase-Clímax nos ranks 1-3 — ambas cogitadas, o autor preferiu manter a tabela com números fixos por serem mais rápidas de usar na mesa.
+
 ---
 
 ## 🔴 O achado principal: os moldes atuais não ameaçam
