@@ -455,6 +455,7 @@ Não leia o vault inteiro. Leia nesta ordem, conforme a mesa precisar:
 | **Quando um jogador quiser um combo** | [[⚡ Golpes Matadores]] |
 | **Quando o grupo chegar ao rank 3** | [[🧩 Refino e Precificação]] · [[🏪 O Mercado]] |
 | **Quando o grupo chegar ao rank 5** | [[♾️ A Ascensão Imortal]] · [[🧿 Espíritos da Terra]] |
+| **Quando quiser variar o ritmo** *(cardápio opcional, nenhum é obrigatório)* | [[🏯 Torres e Estradas de Prova]] — masmorra pronta em minutos · [[🎰 Aposta por Procuração]] — política imortal sem depender de força bruta · [[🏛️ Clãs e Seitas#🗺️ A versão imortal — os Três Quadros\|Os Três Quadros]] — o Salão de Missões depois da Ascensão · [[🏆 Convenção do Caminho de Refino]] — torneio de attainment coletivo |
 | **Quando uma regra contradiz outra** | [[🧭 Log de Decisões]] — é o contrato. Se uma nota contradiz o log, a nota está errada |
 
 > ⚠️ **Não abra `10 — Referência Canônica`** se você pretende ler o romance algum dia. Ela contém a trama quase inteira, do primeiro capítulo até o confronto final.

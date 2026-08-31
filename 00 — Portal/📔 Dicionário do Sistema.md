@@ -64,6 +64,7 @@ escopo: sistema
 | **Brecha** | A condição declarada em que um Golpe Matador falha. **Todo** Golpe tem uma — é o que permite vencer chefe por inteligência | [[⚡ Golpes Matadores]] |
 | **Teto de Combo** | Quantos Gu cabem num Golpe Matador, definido pelo estágio: **2 · 3 · 4 · 5** (Inicial → Pico). Como o núcleo ocupa uma vaga, o teto de apoios é esse número **menos um** | [[⚡ Golpes Matadores]] |
 | **Esgotado / Ferido** *(Gu)* | A escada de condição de um Gu machucado — antes de morrer, ele avisa | [[💀 A Morte dos Gu]] |
+| **Sobrecarga (dos apoios)** | O custo automático de todo Golpe Matador, mesmo bem-sucedido: cada apoio de rank menor que o núcleo rola `1d6` e Esgota num 1 (1–2 se híbrido/coletivo) | [[💀 A Morte dos Gu]] |
 | **Queimar um Gu** | Matar um apoio de propósito no disparo de um Golpe Matador, por +2 Níveis, vantagem ou anular a Brecha | [[💀 A Morte dos Gu]] |
 | **Supressão Regional** | Gu usado fora da região onde foi refinado conta 1 rank abaixo | [[🗺️ Supressão Regional]] |
 | **Formação** | Gu trabalhando em rede num território — perímetros, domínios, casas | [[🔷 Formações de Gu]] |
@@ -90,7 +91,7 @@ escopo: sistema
 | **Metrópole / Centros** | A grande cidade dentro da montanha, em 5 anéis pagos — do 5º (rank 1) ao 1º (rank 5) | [[🏙️ Metrópoles — Centros, Tokens e Arena]] |
 | **Token de Sangue** | Identidade de metrópole ligada ao seu sangue, em 5 cores; dá desconto, acesso — e desbota | [[🏙️ Metrópoles — Centros, Tokens e Arena]] |
 | **Arena** | A liga de duelos da metrópole: bolsa por espectador, e o vencedor escolhe **um Gu** do perdedor | [[🏙️ Metrópoles — Centros, Tokens e Arena]] |
-| **Vitórias líquidas** | Vitórias − derrotas na arena; é o que sobe você de faixa (0 / 5+ / 15+) | [[🏙️ Metrópoles — Centros, Tokens e Arena]] |
+| **Vitórias líquidas** | Vitórias − derrotas na arena; é o que sobe você de faixa (0 / 30+ / 80+) | [[🏙️ Metrópoles — Centros, Tokens e Arena]] |
 
 ## O mundo imortal *(só importa perto do rank 5)*
 
@@ -113,9 +114,11 @@ escopo: sistema
 | **Venerável** | Rank 9, o teto absoluto do mundo. Uma pessoa por era, quando muito | [[🪜 Ranks e Estágios]] |
 | **Refino territorial / reivindicação de domínio** | Um Venerável refina os dao marks soltos do próprio Caminho numa região aberta (não numa Terra Abençoada de terceiro): sente material e cultivadores do Caminho na área, e pode amplificar ou sabotar quem treina ali. Ao completar 100%, ganha reivindicação exclusiva — outro Venerável tentando refinar ali dispara guerra | [[☯️ Marcas de Dao]] |
 | **Aposta por Procuração** | Guerra por procuração entre Imortais: um prêmio selado numa zona que expulsa Abertura ativa; patronos infundem mortais em segredo como peões, que lutam entre si gerando Vontade de Batalha; quem passa de 50% leva o prêmio | [[🎰 Aposta por Procuração]] |
+| **Vontade de Batalha (VB)** | O placar da Aposta por Procuração: `rank do derrotado × 10` por vitória (dobra se matou, ×1,5 com Golpe Matador decisivo, +50% se venceu por tática). Some pro patrono do peão vencedor | [[🎰 Aposta por Procuração]] |
 | **Masmorra de andares** | Torre/ruína rolável em minutos: andares de blocos com CD crescente, recompensa em 3 faixas (a alta dá sala de tesouros), pilares temáticos opcionais e uma trilha oculta de "arestas" que destrava um domínio secreto | [[🏯 Torres e Estradas de Prova]] |
 | **Estrada de Prova** | Variante de dificuldade auto-escalada: a CD de cada trecho usa o rank de quem anda, não o da masmorra — nunca trivial pro forte, nunca impossível pro fraco. "Predicaments" isolam o desafiante num duelo solo | [[🏯 Torres e Estradas de Prova]] |
 | **Três Quadros** | A versão imortal do Salão de Missões, quando um Imortal entra numa facção grande: Quadro de Contribuição (ranking público), Quadro de Missões (tarefas por CC) e Quadro de Troca (CC vira Gu, receita, ou ajuda de Venerável numa tribulação) | [[🏛️ Clãs e Seitas]] |
+| **Kit de ingresso** | Gu mortais básicos instalados em todo novo residente de uma facção imortal, sempre incluindo um Gu de monitoramento — recusar o kit é recusar a entrada | [[🏛️ Clãs e Seitas]] |
 | **Convenção do Caminho de Refino** | Torneio de attainment coletivo a cada 100 anos: qualificação em uma cena, Fase dos Postos (funil sem eliminação direta) e Fase de Território de Fera (duelo direto, sem consolação), coroada pela Marca de Sucesso | [[🏆 Convenção do Caminho de Refino]] |
 | **Marca de Sucesso** | Prêmio da Convenção: garante sucesso automático num único refino de rank até 6. Nem a maior organização do mundo já conseguiu comprar, vender ou fabricar uma | [[🏆 Convenção do Caminho de Refino]] |
 | **Casa de Gu Imortal** | Construção viva com um Gu Imortal de núcleo — fortaleza, tribunal, caldeirão | [[📖 Catálogo de Gu]] |

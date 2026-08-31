@@ -394,3 +394,13 @@ Três de quatro notas já diziam rank 5 (Catálogo mestre, Índice, Gu de Avanç
 só [[🩸 Caminho do Sangue]] destoava com rank 6, corrigido agora. Cânone
 confirma rank 4 como base (variante rank 5) — 5 é a opção interna mais
 próxima. Pendência de "Em aberto" resolvida.
+
+## [2026-08-31] lint | Dicionário conferido contra as 8 notas do arco de leitura integral
+Achado real: [[📔 Dicionário do Sistema]] ainda tinha "Vitórias líquidas" em
+5+/15+, desatualizado desde a decisão 138 (30+/80+) — corrigido. Adicionadas 3
+linhas que faltavam: Sobrecarga (dos apoios), Vontade de Batalha (VB), Kit de
+ingresso. Procedimento formalizado em [[🩺 Lint do Vault]] pra repetir depois
+de toda rodada grande de notas novas. [[🎓 Guia do Mestre Iniciante]] ganhou uma
+linha na trilha de leitura apontando pro cardápio opcional (Torres e Estradas
+de Prova, Aposta por Procuração, Três Quadros, Convenção do Caminho de
+Refino), que ele não citava.

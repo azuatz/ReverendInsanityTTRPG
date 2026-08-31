@@ -267,3 +267,33 @@ oscilação de nomes de estágio existe em `01` e `02`, **não** na pasta 03.
 **Limite declarado da cobertura:** não houve varredura entrada-por-entrada das
 449 linhas atrás de erro aritmético de pool individual (~60 amostradas, todas
 corretas), nem verificação dos 587 links `Onde` do Índice.
+
+---
+
+## Rodada [2026-08-31] — cobertura do Dicionário contra as notas do arco de leitura integral
+
+O `lint_vault.py` não pega isto: "todo termo usado nos guias existe no
+[[📔 Dicionário do Sistema]]" exige julgamento semântico (que trecho é jargão
+que trava a leitura do mestre-que-não-leu, e qual é só prosa) — é trabalho de
+leitura, não de script. **Procedimento agora formalizado**, para repetir depois
+de qualquer rodada grande de notas novas: para cada nota criada ou muito
+editada na rodada, listar os termos em **negrito** que ela introduz como
+mecânica nomeada (não nomes próprios, não Gu individuais) e conferir cada um
+contra o Dicionário — linha nova se o termo não existe, correção se existe mas
+o número mudou.
+
+Aplicado às 8 notas do arco de leitura integral (decisões 129, 138–146, mais a
+Convenção do Caminho de Refino da sessão paralela). Achados:
+
+| Achado | Ação |
+|---|---|
+| **"Vitórias líquidas" no Dicionário ainda dizia 5+/15+** — a decisão 138 corrigiu os limiares da Arena para **30+/80+** na própria nota de Metrópoles, mas o Dicionário não acompanhou | ✅ corrigido |
+| **Sobrecarga (dos apoios)** — mecânica nomeada de [[💀 A Morte dos Gu]] (decisão 129), citada em [[⚡ Golpes Matadores]], sem linha própria | ✅ adicionada |
+| **Vontade de Batalha (VB)** — a moeda de placar de [[🎰 Aposta por Procuração]] (decisão 139), citada na nota mas ausente do Dicionário | ✅ adicionada |
+| **Kit de ingresso** — mecânica nomeada dos Três Quadros em [[🏛️ Clãs e Seitas]] (decisão 144), sem linha própria | ✅ adicionada |
+| Território de Fera, Postos, Marca de Sucesso (Convenção do Caminho de Refino) | já corrigidos pela sessão paralela antes desta rodada |
+| Predicaments, arestas, Ferimento da Terra Abençoada, refino territorial | já cobertos, inline, dentro de linhas existentes (Estrada de Prova, Masmorra de andares, Refino territorial) — sem necessidade de linha própria |
+
+**Conferido e correto:** o resto das ~20 linhas tocadas pelo arco (Metrópole,
+Token de Sangue, Arena, Três Quadros, Masmorra de andares, Estrada de Prova,
+Convenção, Marca de Sucesso, Refino territorial) já batiam com as notas-fonte.
