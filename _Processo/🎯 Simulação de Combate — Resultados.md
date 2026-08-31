@@ -273,6 +273,19 @@ Mesma ordem de grandeza da quinta rodada (0,1 a 1,2pp então; 1,0 a 2,0pp agora,
 3. **O terreno dos Cinco Elementos, medido contra a composição atual de "Difícil", vale ~20pp — não os 4pp que fecharam a decisão 75.** Não é regressão nem bug: é a mesma regra, numa cena que ficou de fato equilibrada. Reabre a pergunta pro autor, não resolve sozinha.
 4. **Nenhum PJ tem Gu de cura na ficha oficial**, apesar de a cura modelada disparar em 80-99,7% dos combates simulados. Ver a caixa de aviso da seção de Cura acima.
 
+### 🕐 Duração de cena contra o alvo declarado de F&M *(2026-08-31, `2026-08-31-duracao-de-cena-vs-fm.py`)*
+
+O bestiário/framework de criação de inimigo de *Feiticeiros e Maldições* declara por escrito o próprio alvo de design: **"o cálculo de vida foi feito para uma criatura aguentar 3 rodadas inteiras contra jogadores."** Instrumentando o motor da sexta rodada só para contar rodadas até a resolução (vitória ou derrota do grupo, 2.000 iterações):
+
+| Cena | rank 1 | rank 3 | rank 5 |
+|---|---|---|---|
+| **Padrão** | 7,59 | 7,98 | 6,72 |
+| **Padrão pesado** | 8,28 | 11,61 | 11,49 |
+| **Difícil** | 8,56 | 9,65 | 9,65 |
+| **Clímax** | 6,99 | 9,92 | 8,68 |
+
+**7 a 12 rodadas, contra o alvo de 3 de F&M — um fator de 2 a 4×.** Isto não muda os acertos-pra-matar de um atacante contra um alvo (2,8-5 golpes, decisão 158, que já confere com F&M) — é um eixo diferente: a duração da cena inteira, com vários combatentes de cada lado. Sem ajuste aplicado; registrado como pendência nomeada no [[🧭 Log de Decisões|Log]] (decisão 160) — é decisão de mesa (ritmo pretendido vs. valer a pena encurtar), não correção mecânica.
+
 ### Metodologia e simplificações desta rodada
 
 Documentadas por completo no cabeçalho do script. Resumo do que muda em relação à quinta rodada: **Lentidão** vira "perde a ação seguinte" em vez de descrição sem efeito; **Golpe Matador Coletivo** usa Xie Lang como núcleo e os outros 3 como apoio, com o modificador de conjuração −2 aplicado (a preparação é de fato "sem ser incomodado", já que dispara antes de qualquer troca de golpe); a Retaliação de falha do coletivo desliga o Gu de ataque só do **núcleo** (não dos 4) — uma correção feita **durante** esta própria rodada, documentada abaixo. **Terreno** só afeta o Lee, via o `B` (Grau por dado), sem modelar o desconto/sobretaxa de custo de essência por terreno (mesma simplificação das rodadas 3-4). **Cura** mantém a heurística "Lee cura quem estiver <40%", instrumentada com contadores de disparo/oportunidade.
