@@ -51,6 +51,14 @@ Cobertura: linhas 1–20000 do arquivo fonte `Volume_2_-_The_Demon_Leaves_the_Mo
 | Bone Spike Gu (Gu Espigão Ósseo) | 3 | ataque, autoferimento | esqueleto do usuário forma espigões ósseos afiados que primeiro perfuram a própria carne antes de atingir o inimigo; dano ao inimigo gera ~80% desse dano de volta ao usuário; precisa de Gu de cura correspondente | obtido dentro do crânio do Grey Bone Scholar, após reverência genuína (três batidas reais de cabeça no chão) | Ch. 223 |
 | Flesh-bone Gu / Flesh white bone Gu (Gu Carne-Osso) | 3 | cura | parece uma dentadura perfeita e brilhante; reconstrói a carne do usuário, reutilizável (não é de uso único); combinado classicamente com o Rising Dead Gu para reviver corpos incompletos | achado na Flesh Sac Secret Chamber, testando sorte (bater nos "dentes" da parede) | Ch. 224 |
 | Rising Dead Gu (Gu Ressuscitar os Mortos) | 4 | cura/ressurreição | considerado o melhor Gu de cura do Rank 4; ressuscita um Gu Master morto se a morte ocorreu há menos de 14 horas e o corpo está intacto; uso único, extremamente raro, só se acha por sorte, não se busca | mencionado como referência histórica; não obtido nesta herança | Ch. 224 |
+| Footless bird (Pássaro Sem Pés) | — | movimento | corpo grande sem carne/sangue, só osso; cabeça de águia, corpo de grou, cauda de andorinha, dois pares de asas, sem pernas; considerado a melhor montaria voadora abaixo do Rank 5, voa "dez mil li por dia" | Gu de uso único, achado por sorte na Flesh Sac Secret Chamber | Ch. 225, 227 |
+| Jade bone Gu (Gu Osso de Jade) | — | fortalecimento físico permanente | remodela o esqueleto para qualidade tipo jade, mais duro e flexível; combina com Ice Muscles Gu ("músculos de gelo e ossos de jade") | uso único, causa dor extrema (Gu Masters de vontade fraca já morreram de dor ao usar); achado por sorte na câmara | Ch. 225 |
+| Iron bone Gu (Gu Osso de Ferro) | — | fortalecimento físico | Gu de fortalecimento ósseo, detalhes não descritos | achado por sorte na câmara | Ch. 225 |
+| Bone Flesh Unity Gu (Gu União Óssea-Carnal) | — | cultivo (par, requer laço de sangue) | par de Gu (verde e vermelho, tipo pulseiras de jade); permite transferir essência primeva entre dois Gu Masters com laço de sangue (pais/filhos ou gêmeos) sem deixar "aura misturada" contaminante; qualidade do Gu final escala com a profundidade do vínculo emocional entre os dois | forjado num ritual de sacrifício de carne fresca numa fogueira que precisa virar roxo-avermelhado para ter sucesso; criação exigiu suprir com a própria carne de Fang Yuan e Bai Ning Bing depois que a carne das crianças-herdeiras não bastou | Ch. 226 |
+| Cleansing Water Gu (Gu Água Purificadora) | — | purificação | Gu raro que remove a "aura misturada" deixada quando um mais velho transfere essência primeva diretamente a um mais novo | mencionado como referência, não obtido | Ch. 226 |
+| Blitz Gu (Gu Relâmpago) | — | movimento | acelera o usuário "como um canhão" | usado por um ancião do clã Bai na perseguição | Ch. 227 |
+| Frost fish Gu (Gu Peixe-Gelo) | — | ataque/controle | dardo em forma de peixe, persegue o alvo em curva; ao acertar, envolve em frio e reduz drasticamente a velocidade | usado pela líder do clã Bai contra Fang Yuan | Ch. 227 |
+| Human Torch Gu (Gu Tocha Humana) | 4 | ataque sacrificial | ao ativar, o corpo inteiro do usuário vira fogo, concedendo poder imenso e livre até a força vital se esgotar — o usuário morre ao fim do efeito | usado por um ancião do clã Bai como último recurso desesperado na perseguição | Ch. 227 |
 | Liquor worm (Verme Licor) | 1 | cultivo/apoio | refina a qualidade da essência primeva em um pequeno reino ao ser consumido durante o cultivo | fundir dois vira o Four Flavors Liquor worm (só funciona para Rank 2) | Ch. 212 |
 | Poison swallowing toad (Sapo Devora-Veneno) | 4 | cura/veneno | corpo pequeno, come veneno como comida; se o usuário for envenenado, ativá-lo absorve o veneno como efeito de cura | "senhor" de um pântano podre, difícil de capturar (lento, mas pântano vasto) | Ch. 207 |
 | tusita flower (flor tusita) | ? | armazenamento | Gu-flor tipo "bolsa de itens": reside como tatuagem na língua de Fang Yuan; guarda comida, remédios, roupas, ferramentas, libera itens com luz vermelha | usado como inventário portátil desde antes da fuga | Ch. 200-201 |
@@ -65,6 +73,8 @@ Cobertura: linhas 1–20000 do arquivo fonte `Volume_2_-_The_Demon_Leaves_the_Mo
   3. Sala do esqueleto/livro: teste de respeito/gratidão — reverência genuína (três batidas reais e sonoras da cabeça no chão) libera um caminho; adicionalmente, não perturbar o corpo libera um segundo caminho (fazer as duas coisas dá o caminho ótimo/cofre secreto).
   4. Flesh Sac Secret Chamber (câmara final): teste de sorte — parede de carne viva cheia de "bocas" com dentes que só liberam um Gu escondido quando "batidas" ao acaso, sem controle do jogador (mecânica de loot aleatório/gacha).
   Modelo pronto e completo de "masmorra de herança" ligando cada sala a uma virtude testada e ao respectivo prêmio (Ch. 221-224).
+- Salas-isca/duplicadas: o Grey Bone Scholar construiu várias salas idênticas de esqueleto+livro (achadas pelo clã Bai nos caminhos 5, 6, 7, 8...) só para enganar intrusos a pensar que já acharam "a" herança verdadeira — mecanismo anti-metagame de masmorra (Ch. 225).
+- Ritual de forja do Bone Flesh Unity Gu: exige um par de Gu Masters com laço de sangue, infusão simultânea de essência primeva dos dois, e sacrifício de carne fresca na fogueira (quanto mais carne, melhor o resultado); a cor do fogo sinaliza o progresso (laranja → azul → vermelho-sangue → roxo-avermelhado = sucesso) — bom molde de "minigame de forja cooperativa" (Ch. 226).
 - Gu de gravação/vigilância à distância ("fumaça arco-íris"): mostra em tempo real o que um Gu Master monitorado está fazendo, usado por facções para espionar convidados/alvos sem que percebam (mesma tecnologia do Gu de gravação de missão da Immortal Crane Sect) (Ch. 217-219).
 ## C) Regras do mundo
 
@@ -102,6 +112,16 @@ Cobertura: linhas 1–20000 do arquivo fonte `Volume_2_-_The_Demon_Leaves_the_Mo
 - Convidado "de honra" em acampamento de clã recebe conforto mas também vigilância constante: guardas e patrulhas efetivamente impedem movimento livre à noite (Ch. 216).
 - Abaixo do Rank 5, Gu Masters do clã Tie se identificam por viajarem sempre em grupo e por um comportamento de "vontade de ferro"/nunca desistir — usado como teste de plausibilidade para detectar impostores alegando ser do clã (Ch. 220).
 - Identidade de clã é verificável por token físico do clã somado a "Gu característicos" daquele clã — dois fatores de verificação (Ch. 220).
+- Mecanismo de portal-armadilha: girar o espigão ósseo espiral correto abre a passagem secreta mas arma um corredor cheio de lanças ósseas afiadas; puxar (em vez de girar) o espigão certo recolhe as lanças e desarma o corredor permanentemente — quem só sabe "girar" fica preso tentando forçar a passagem (Ch. 221, 223).
+- Herança da vertente correta (righteous) é desenhada para ser branda — sem armadilhas realmente traiçoeiras — ao contrário do que se diz de heranças da vertente demoníaca, mais viciosas (Ch. 222).
+- Gu de "investimento único, uso grátis depois": alguns Gu Rank 3 (ex. Ribcage shield Gu, Heavenly Essence Treasure Lotus) consomem muita essência primeva só na formação inicial e depois funcionam sem gasto contínuo — subtipo distinto de Gu de sustentação (Ch. 222).
+- Janela de ressurreição do Rising Dead Gu: só funciona se a morte ocorreu há menos de 14 horas e o corpo está intacto (Ch. 224).
+- Combo padrão de ressurreição usado ao longo da história do mundo, mesmo por figuras de Rank 9: Flesh-bone Gu reconstrói a carne de um corpo incompleto, depois o Rising Dead Gu ressuscita (Ch. 224).
+- Destruir Gu em excesso (que não se pode sustentar) para negar o benefício ao inimigo perseguidor é uma tática aceita de "terra arrasada" (Ch. 222).
+- Transferência direta de essência primeva de um mais velho para um mais novo ("imparting") deixa uma "aura misturada" residual na abertura do mais novo, restringindo permanentemente seu desenvolvimento futuro, a menos que purificada pelo raro Cleansing Water Gu (Ch. 226).
+- Provas de sorte (câmara das bocas) recompensam mais quem tem "destino"/laço de sangue com a herança: os herdeiros de fato (crianças descendentes) acertam a sequência de dentes com facilidade muito maior que visitantes aleatórios — a herança "reconhece" seus donos pretendidos (Ch. 225).
+- Human Torch Gu (Rank 4) é uma técnica de sacrifício total: o usuário se torna fogo, ganha poder imenso e ilimitado, mas morre quando a força vital se esgota — "última cartada" que troca a vida por um pico de poder (Ch. 227).
+- Footless bird é definido explicitamente como a montaria voadora mais rápida abaixo do Rank 5, voando "dez mil li por dia" — parâmetro concreto de velocidade para calibrar tiers de Gu de movimento (Ch. 227).
 - Clãs escondem a decadência de sua fonte espiritual de clãs rivais vizinhos para não serem atacados em momento de fraqueza; usam pretextos (ex. evento de caça) para disfarçar buscas por uma nova fonte espiritual (Ch. 215-216).
 - Refino de Gu se divide em fusão (Gu de rank baixo → rank alto) e refino reverso (rank alto → baixo); métodos de refino reverso dão resultados diferentes: Prodigal son Gu devolve 2 unidades do Gu original; Revert Gu devolve 1; Butterfly transformation Gu gera um Gu totalmente diferente (eerie qi butterfly); Unpredictable Gu dá resultado aleatório (Ch. 212).
 
@@ -139,6 +159,16 @@ Cobertura: linhas 1–20000 do arquivo fonte `Volume_2_-_The_Demon_Leaves_the_Mo
 - Chacina do grupo de Tie Ao Tian pela fossa de minas: quase cem Charred Thunder Potato Gu detonadas de uma vez (Ch. 220).
 - Escolta secreta do clã Bai durante a "caçada amistosa" em Bai Gu Mountain: dezenas de Gu Masters sacrificados e 3 anciões feridos (2 gravemente) em apenas 6 horas, só para abrir caminho sem que Fang Yuan percebesse (Ch. 219).
 - Estimativa de Fang Yuan (filtrando o exagero de Bai Lian com 500 anos de experiência) para chegar sozinho com Bai Ning Bing até o local da herança em Bai Gu Mountain: pelo menos meio ano de viagem (Ch. 219).
+- Escadaria secreta até a Flesh Sac Secret Chamber: cerca de 1.000 metros de comprimento, escurecendo e estreitando progressivamente (Ch. 222).
+- Saque instantâneo de Fang Yuan na tina de leite: 200+ Bone Spear Gu (Rank 1) e 20+ Spiral Bone Spear Gu (Rank 2) refinados em minutos; o resto foi destruído para negar ao clã Bai (Ch. 222).
+- Proporção de dano do Bone Spike Gu: inimigo sofre 1000, usuário sofre cerca de 800 de volta (Ch. 223).
+- Prazo de ressurreição do Rising Dead Gu: até 14 horas após a morte, corpo intacto (Ch. 224).
+- Esforço do clã Bai para arrombar o corredor de lanças ósseas: 15 minutos de ataque só abriram a passagem pela metade, até descobrirem o mecanismo real (puxar, não girar) (Ch. 223).
+- Maior sala da herança (salão da pirâmide óssea): mais de 2 km² de área (Ch. 225).
+- Número de salas-isca duplicadas encontradas pelo clã Bai: pelo menos 8 caminhos/salões diferentes com esqueleto+livro repetidos (Ch. 225).
+- Perda de essência primeva de Bai Ning Bing ao usar o Flesh-bone Gu em si mesma: cai 20% da essência primeva Rank 3 pico instantaneamente num só uso (Ch. 226).
+- Velocidade de voo do footless bird: "dez mil li por dia", a montaria voadora mais rápida abaixo do Rank 5 (Ch. 227).
+- Distância do resgate em queda livre: menos de 300 metros de uma saliência rochosa quando o footless bird mergulha para pegar Bai Ning Bing (Ch. 227).
 
 ## E) Locais e o que se faz neles
 
@@ -159,6 +189,13 @@ Cobertura: linhas 1–20000 do arquivo fonte `Volume_2_-_The_Demon_Leaves_the_Mo
 - Bai Gu Mountain — montanha solitária (mín. 10 mil pés), inteiramente de "rocha-óssea" branca; vegetação especial e bestas/Gu do tipo osso; hoje desabitada, mas 10 anos no futuro vira base do clã Bai; esconde a caverna com a herança completa do "Flesh Bone Lord" (Rank 4, vertente correta): Jade Bones Gu, Flesh white bones Gu (cura) e Bone flesh unity Gu (cultivo duplo) (Ch. 214).
 - Acampamento de caça do clã Bai — campo organizado: tenda central (banquetes dos mais bem colocados), fileiras de tendas, suportes de ferro e tochas, patrulhas noturnas; sede da competição de caça de uma semana (Ch. 216-219).
 - Bai Gu Mountain, "back mountain" (contraforte dos fundos) — onde fica a caverna da herança do "Flesh Bone Lord"; extremamente perigoso, dominado por bestas e Gu do tipo osso; sem solo algum, terreno todo de osso/pedra (Ch. 217-219).
+- Spiral Bone Cave — entrada da herança do Grey Bone Scholar/Flesh Bone Master, identificável pelos espigões ósseos com talhe espiral, únicos entre as muitas cavernas de Bai Gu Mountain (Ch. 221).
+- Sala 1 da herança (tina da fonte de leite) — tina gigante alimentada por uma "milk spring" subterrânea (especialidade de Bai Gu Mountain: água de fonte doce e nutritiva, tipo leite; no futuro o clã Bai encontra 5 dessas fontes e as transforma em produto comercial); tina também cria Bone Spear Gu/Spiral Bone Spear Gu (Ch. 222).
+- Sala 2 da herança (três pilares) — três pilares ósseos, cada um segurando um Gu Rank 3 (Ribcage shield / Flying bone shield / Arm bone wings); prova de "escolha um" (Ch. 222).
+- Sala 3 da herança (túmulo do Grey Bone Scholar) — esqueleto sentado com o "Grey-Bone Huge Book" (receitas de refino + história de vida do criador da herança); libera caminhos ocultos conforme o respeito genuíno do visitante (Ch. 222).
+- Flesh Sac Secret Chamber — cofre final no fim de uma escadaria de ~1.000m; paredes de carne viva cobertas de bocas dentadas e risonhas que precisam ser "batidas" para soltar aleatoriamente um Gu escondido (Ch. 223-224).
+- Salão da pirâmide óssea — maior salão da herança (2+ km²), pirâmide central com plataforma de duas escadarias; é o túmulo real do Grey Bone Scholar (disfarçado como salas genéricas em outros pontos) e local do ritual do Bone Flesh Unity Gu (Ch. 225-226).
+- Saída em penhasco do túnel da herança — o túnel secreto final desemboca num precipício de Bai Gu Mountain, usado como rota de fuga que exige Gu voador ou um salto suicida (Ch. 227).
 
 ## F) Golpes matadores e receitas explícitas
 
@@ -175,6 +212,10 @@ Cobertura: linhas 1–20000 do arquivo fonte `Volume_2_-_The_Demon_Leaves_the_Mo
 - A mesma armadilha de fossa com Charred Thunder Potato Gu (Ch. 213) reaparece matando por acidente quase todo o grupo perseguidor do clã Tie — revela o poder de uma fossa com "quase cem" minas: aniquila instantaneamente um Gu Master Rank 3 sem chance de reação (Ch. 220).
 - Reaproveitamento da tática de minas contra presas grandes na competição de caça: recuar repetidamente enquanto se pré-minava o caminho de fuga do animal (urso preto, rinoceronte-de-chifre-de-terra), matando por atrição em explosões sucessivas (Ch. 217).
 - Golpe social em camadas: fingir interesse romântico pela beldade de um clã rival (Bai Lian) para que a líder do clã acredite ter "posse" sobre ele (uma fraqueza fabricada/uma alavanca falsa); isso gera um "duelo" forjado que é convertido em expedição de caça — usando o próprio esquema do alvo contra ele mesmo, conseguindo escolta grátis (paga com "dezenas de Gu Masters do clã Bai") através de território perigoso rumo ao objetivo real (Ch. 217-219).
+- Tática de refém: Fang Yuan captura os dois herdeiros-crianças do clã Bai (Bai Sheng, Bai Hua) e ameaça mutilá-los/matá-los com o Chainsaw Golden Centipede para forçar toda a força perseguidora a sair da caverna, ganhando tempo para acionar o mecanismo secreto da herança (Ch. 220-221). Tática moralmente pesada — uso sugerido com cautela/aviso ao mestre.
+- Destruição deliberada de "saque em excesso" (200+ Gu que não dá para sustentar) especificamente para negar benefício ao clã inimigo perseguidor — jogada de "terra arrasada" (Ch. 222).
+- Enigma do corredor-armadilha "girar abre e arma / puxar desarma": conhecimento prévio (vida passada de Fang Yuan) vira atalho à prova de perseguição, selando os perseguidores para trás (Ch. 221, 223).
+- Combo padrão de ressurreição: Flesh-bone Gu (reconstrói a carne) + Rising Dead Gu (ressuscita) usados em sequência para reviver um Gu Master cujo corpo não está intacto — "combo de feitiços" de dois passos (Ch. 224).
 
 ## G) Achados soltos para um designer de RPG
 
@@ -202,3 +243,9 @@ Cobertura: linhas 1–20000 do arquivo fonte `Volume_2_-_The_Demon_Leaves_the_Mo
 - Gu de vigilância/gravação à distância ("fumaça") como item de espionagem/adivinhação reaproveitável em qualquer campanha (Ch. 217-219).
 - Estrutura completa de "golpe social" em múltiplas camadas (fraqueza falsa → romance falso → duelo forjado → expedição escoltada) é um gancho de missão pronto para uma "trama de confiança" (Ch. 217-219).
 - Protocolo de verificação de identidade de clã (token + Gu característico + marcadores comportamentais/culturais) é um molde para mecânicas de espionagem/detecção de impostores no sistema (Ch. 220).
+- A sequência completa da herança White Bone é um molde pronto de "masmorra de provas": cada sala testa uma virtude distinta (generosidade/capacidade, autocontrole, gratidão/respeito, sorte) e libera recompensa proporcional — adaptável por inteiro como padrão de design de cofre/masmorra de herança no sistema (Ch. 221-224).
+- Mecanismo "girar abre / puxar desarma" é um enigma de armadilha limpo e ensinável, distinguível por uma pista sutil de escala (o espigão mais curto é a ação segura) (Ch. 221, 223).
+- Subtipo de Gu Rank 3 "paga uma vez, grátis depois" (Ribcage shield Gu, Heavenly Essence Treasure Lotus) é uma categoria de item interessante, distinta de Gu de manutenção contínua — vale codificar como uma tag/traço no bestiário/sistema de itens (Ch. 222).
+- Gu com "imposto de autodano" (inflige X, sofre 0,8X de volta) é um molde limpo e numérico de mecânica "canhão de vidro" (Ch. 223).
+- Prazo de ressurreição (14h, corpo intacto) + combo de dois passos (reconstruir carne, depois ressuscitar) oferece um subsistema de ressurreição concreto e de alto risco, com pressão de tempo real — bom para desenho de jogo de alto nível (Ch. 224).
+- Tomar filhos do inimigo como reféns como tática de alavancagem para forçar retirada tática — tom sombrio, mas eficaz como comportamento de PDM/vilão; usar com aviso ao mestre sobre tom de mesa (Ch. 220-221).

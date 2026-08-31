@@ -200,3 +200,14 @@ de escrita recomendadas: seção "As três regras que valem em toda parte"
 (arredondamento, ordem de resolução, não-empilhamento por fonte) na
 [[📄 Folha de Referência]] — as outras duas (exemplo resolvido inline, tabelas
 rank→CD) ficam como orientação de estilo para notas futuras, não retrofit.
+
+## [2026-08-30] ingest | Sistema de receitas implementado (decisões 123-125)
+[[🧩 Refino e Precificação]] ganhou "Deduzir uma Receita" (Fragmentos, aceleradores,
+travões) e a falha canônica (1d6 por Gu ingrediente, Explosão ferindo corpo e
+alma). [[📜 Livro de Receitas de Gu]] teve o callout de abertura invertido
+(receita é portão, não bônus) e corrigiu 4 receitas contra a fonte primária:
+Fulgor Lunar (2 Luzinhas, não 1), Quatro Sabores (2 vermes + 4 vinhos, não só
+conchas amargas), Viagem Fixa (faltava a base Gu da Viagem Divina), e o Crânio
+de Sangue teve a descrição precisada sem mudar o rank de ancoragem — achado uma
+contradição de rank entre 3 notas (5 vs 6 vs o cânone que diz 4), registrada em
+"Em aberto" no Log, pendente de decisão do autor.

@@ -325,6 +325,100 @@ Fonte: `Volume_3_-_The_Demon_Wreaks_Chaos_in_the_World.txt`
 
 - (nenhum golpe matador novo — capítulos focados no ritual de Di Qiu e na politica interna de Hei tribe)
 
+## A7) Gu nomeados (cap. 565–568)
+
+- Current charge Gu (rank 5) | Transforma o usuário temporariamente em corrente de água para avançar por uma distância | Já obsoleto em combate (vulnerável a Gu de fogo, pode ferir/matar o usuário transformado) | Usado por Fang Yuan só para entrar no Water Pavilion | Cap. 566
+- Water Pavilion (Immortal Gu house, rank 7) | Criado por Mo Yao (36ª fada de Spirit Affinity House, ex-inkman, grão-mestre em refino) | Esconde-se na água, neblina/névoa ou dentro de um iceberg — praticamente indetectável; sem o token de entrada, repele até Gu Immortals rank 8 | Feito de 3000+ Gu worms interligados | Cap. 566, 568
+- Water Harmony Gu (rank 7, Immortal Gu, núcleo do Water Pavilion) | Funde o Gu Master à água — enquanto houver água, ele não morre | Cap. 568
+- Worldly Wave Trace (rank 6, Immortal Gu, movement path) | Gu auxiliar do Water Pavilion | Cap. 568
+- Delight in Water and Mountain (Immortal Gu, wisdom path) | Gu auxiliar do Water Pavilion | Cap. 568
+- Calamity beckoning Gu (rank 7, Immortal Gu, luck path) | Criado por Mo Yao usando o refluxo de poder celestial de Eighty-Eight True Yang Building (interação com Divert Disaster Gu) | Efeito: separa uma calamidade terrestre/tribulação celestial do alvo original e a atrai para si — Gu de autossacrifício puro | Exige "coração de autossacrifício" para ser subjugado — sem isso, causa backlash ou autodestruição fatal | Obtido por Fang Yuan em Di Qiu inheritance | Cap. 566-568
+- Divert Disaster Gu (rank 7, Immortal Gu, luck path) | Criado por Giant Sun Immortal Venerable | Um dos pilares estruturais de Eighty-Eight True Yang Building — desvia calamidades terrestres/tribulações celestiais que se acumulam dentro da Imperial Court blessed land para o mundo externo, formando literalmente o "blizzard de dez anos" da planície norte | Cap. 566
+- Meaning Gu (fictício, não existe no mundo — episódio de "Legends of Ren Zu") | Northern Dark Ice Soul não encontra esse Gu porque ele não existe; acaba criando um sozinho e implantando-o na cabeça de Desolate Ancient Moon, devolvendo-lhe um propósito | Cap. 567
+- Unexpected Gu (figura de "Legends of Ren Zu") | Encontrar esse Gu dentro de Luo Po valley (reino da morte) representa um evento inesperado que permite "resgatar" apenas UMA pessoa de volta ao mundo dos vivos | Cap. 567
+- Sword path Gu worms (criados sozinho por Bo Qing, "Sword Demon"/"Sword Immortal") | Gu de caminho da espada, inovação pessoal de um cultivador solitário que chegou a rank 8 pico | Cap. 567
+- White Bone Wheel / White Bone Chariot (Gu house) | Criado por Proud Bone Demon Lord Shen Jie Ao (Gu Immortal rank 6) combinando vários Gu rank 5 (incl. White Bone Wheel) | Resultado: poder comparável a um único Gu rank 6 — solução de quem "faltava" o Gu de rank certo | Cap. 568
+- Turtle house (primeiro Gu house da história) | Criado pelos sete irmãos Lui Gui (septigêmeos demoníacos da era olden antiquity, todos rank 5 pico, especialistas em defesa) | Golpe matador defensivo combinado capaz de bloquear 3 ataques de um Gu Immortal — origem da lenda "three moves pact" | Cap. 568
+
+## B7) Sistemas e atividades jogáveis (cap. 565-568)
+
+- Mecanismo real por trás do "blizzard de dez anos": Imperial Court blessed land é simbiótica com Eighty-Eight True Yang Building — por ser vasta como um mundo e ter dia/noite (fundamento profundo), ela atrai periodicamente calamidades terrestres e tribulações celestiais poderosas demais para o local. Giant Sun Immortal Venerable resolveu isso plantando o Divert Disaster Gu (rank 7 Immortal Gu de luck path), que desvia essas calamidades para fora da terra abençoada — e é esse desvio que se manifesta como o blizzard de dez anos que assola toda a planície norte. Como bônus político, ele transformou esse efeito colateral em uma "regra sagrada" (o torneio da Corte Imperial). (Cap. 566)
+- Brecha temporal na barreira anti-Gu-Immortal: no momento exato em que a Imperial Court blessed land desvia uma calamidade, abre-se uma fresta que desativa temporariamente a proteção que normalmente impede Gu Immortals de entrar — é a ÚNICA janela em que um Gu Immortal pode adentrar essa terra abençoada, arriscando a vida contra o fluxo de calamidade em sentido contrário. Mo Yao usou essa fresta para invadir secretamente há muito tempo. (Cap. 566)
+- Ruptura de rank 9 (breakthrough para Immortal/Demon Venerable): extremamente perigosa — desencadeia calamidades terrestres e tribulações celestiais em escala imensa; mesmo um "quase-venerable" de rank 8 pico com poder que "divide as 5 regiões" (caso de Bo Qing) tinha na melhor das hipóteses 15% de chance de sucesso. Uma primeira tentativa falha pode deixar o cultivador incapacitado por décadas (70 anos, no caso de Bo Qing); uma segunda falha pode ser fatal e irreversível (corpo reduzido a cinzas). (Cap. 567)
+- Existência confirmada do "luck path" (caminho da sorte, antes só lenda): Giant Sun Immortal Venerable de fato inventou esse caminho e o manteve em segredo — usava-o para roubar a boa sorte alheia e transferir para si (e transferir má sorte para os outros), o que explica sua fama de "sempre ter sorte". O luck path é um caminho completo, com aspectos de ataque, defesa, movimento e cura, mirando o conceito incorpóreo de "sorte" que todo ser possui. A herança completa do luck path de Giant Sun é especulada (por Mo Yao) como estando guardada na sala de tesouros de Eighty-Eight True Yang Building. (Cap. 568)
+- Taxonomia de "Gu house" (casa/estrutura de Gu): fundamentalmente, um Gu house é um golpe matador formado pela combinação e solidificação de 10+ Gu worms distintos em um objeto/estrutura persistente. Gu houses simples (three star cave, lizard house, mushroom forest Gu) usam apenas 1 tipo de Gu — mais fracos, comuns entre mortais. Gu houses complexos (turtle house — o primeiro da história, White Bone Chariot, Water Pavilion, Eighty-Eight True Yang Building) combinam múltiplos Gu distintos e podem igualar ou superar o poder de um único Gu de rank mais alto. (Cap. 568)
+- Refinar um Gu house (mesmo Immortal) é possível parcialmente para um mortal: refinando um a um os Gu worms mortais/de baixo rank que compõem a estrutura, o refinador ganha uma "porcentagem de controle" cumulativa sobre o objeto inteiro — mesmo um controle pequeno (ex.: 10-13%) já é suficiente para atrasar/bloquear temporariamente um intruso, dando tempo de reação ao verdadeiro "dono" secreto. Refinar os próprios componentes Immortal Gu da estrutura está, porém, além da capacidade de um mortal. (Cap. 568)
+- Um Immortal Gu recém-formado por um "assistente" mortal (não o refinador principal) não pode ser verdadeiramente empunhado por esse mortal — falta-lhe uma abertura imortal (immortal aperture) para armazená-lo com segurança; ele só consegue estabelecer e aprofundar uma "conexão" (vínculo de prioridade) até ascender de fato a Gu Immortal. (Cap. 568)
+
+## C7) Regras do mundo (cap. 565-568)
+
+- Um Immortal Gu recém-completo (não mais em estágio inicial) emite aura forte o bastante para arriscar despertar a vontade adormecida de um Immortal Venerable dentro de um Immortal Gu house como Eighty-Eight True Yang Building — por isso deve ser mantido escondido/lacrado até haver segurança para retirá-lo. (Cap. 568)
+- "O uso de um Gu depende do engenho do Gu Master" — princípio repetido no romance: mesmo um Gu com propósito aparentemente autodestrutivo/altruísta (como calamity beckoning Gu) pode ganhar nova utilidade nas mãos de um usuário com objetivos diferentes dos originais. (Cap. 568)
+
+## D7) Números e preços (cap. 565-568)
+
+- Bo Qing (Sword Immortal, rank 8 pico): estimava apenas 15% de chance de sucesso na ruptura para rank 9; primeira tentativa falha o deixou incapacitado por 70 anos; segunda tentativa o destruiu completamente (e matou Mo Yao junto). (Cap. 567)
+- Mo Yao passou cerca de 10 anos investigando secretamente dentro da Imperial Court blessed land até localizar o ponto-chave (a pequena torre de Di Qiu). (Cap. 566)
+- Water Pavilion: construído com não menos que 3.000 Gu worms interligados. (Cap. 568)
+- Refino parcial de Water Pavilion por Fang Yuan: 6 horas para refinar 500 Gu mortais rank 1-2 = 10% de controle; mais 2 horas = 13% de controle total (8 horas ao todo), essência primeva quase esgotada em ambas aberturas rank 5 pico. (Cap. 568)
+
+## E7) Locais e atividades (cap. 565-568)
+
+- Water Pavilion: pavilhão de 3 andares, estilo rústico/antigo, escondido dentro de uma poça d'água num vale sem nome, acessível apenas atravessando a "reflexão" da água como uma corrente líquida; guarda a tigela vermelha gigante ("giant vermillion bowl") onde calamity beckoning Gu foi nutrido até completar sua forma. (Cap. 566)
+
+## F7) Golpes matadores e receitas (cap. 565-568)
+
+- Turtle house: golpe matador defensivo combinado dos 7 irmãos Lui Gui — primeiro "Gu house" da história, capaz de bloquear 3 ataques consecutivos de um Gu Immortal. (Cap. 568)
+- White Bone Chariot: golpe/estrutura de Shen Jie Ao combinando vários Gu rank 5 para alcançar poder de rank 6. (Cap. 568)
+
+## A8) Gu nomeados (cap. 569–573)
+
+- East window Gu (rank 4, information path) | Formato de joaninha com "armadura quadrada" nas costas | Armazena informações importantes — Fang Yuan compra vários no treasure yellow heaven para estudar sobre "vontades" (wills) | Cap. 570
+- Space thought Gu | Imbui pensamentos com "poder espacial", tornando-os ilegíveis para uma vontade intrusa (Mo Yao) que normalmente leria os pensamentos de Fang Yuan ao se formarem — defesa temporária, perde eficácia com o tempo de exposição | Cap. 569
+- Heaven's will Gu | O primeiro Gu de wisdom path já criado — usado para compreender os mecanismos do Grande Dao do céu e da terra | Cap. 570
+- Killing intent Gu, casual Gu, one's wishes Gu, proud Gu, evil intent Gu, painting idea Gu (Gu de "pensamento", wisdom path) | Cap. 570
+- Star thought Gu | Gu de pensamento de Dong Fang Yu Liang | Cap. 570
+- Estrus Gu, gentle feelings Gu, emotion poetry Gu (Gu de "emoção", derivados do enchantment path) | Cap. 570
+- Love Gu | O mais famoso Gu de "emoção", registrado em "Legends of Ren Zu" | Cap. 570
+- Killer move "Six Arm Heavenly Zombie King" (criado por Fang Yuan com ajuda de Mo Yao) | Núcleo: borrow strength Gu + 6 tipos de flying zombie Gu + mais 36 Gu worms | Poder ~10x maior que Four Arm Earth King / Four Arm Wind King | Risco de backlash proporcional ao poder caso falhe — por isso Fang Yuan testa em prisioneiros antes de usar em si mesmo | Cap. 569-570, 573
+- Earth chief zombie Gu (rank 5, zombie path, versão padrão) | Feito de pele/tendões de earth chief beast + yin soil de 900 li de profundidade + mountain absorbing grass centenária + dark tide flowers + dezenas de Gu worms | Não voa — por isso normalmente não conta como "flying zombie Gu" | Faz parte de uma família de zombies rank 5: asura zombie, heavenly demon zombie, blood wight, nightmare zombie, plague zombie | Cap. 569
+- Earth chief zombie Gu (versão modificada por Mo Yao — o "6º flying zombie Gu") | Adiciona "original magnetic essence" como ingrediente principal | Efeito: permite voar usando o campo magnético natural, mesmo sem asas | Refino exige carne fresca de earth chief beast (idealmente um myriad beast king; thousand beast king é a 2ª opção, hundred beast king a pior) | Refinado por Fang Yuan em 3 dias e 3 noites | Cap. 569, 572-573
+- Soul burial toad Gu | Coleta almas de mortos em massa | Usado por Fang Yuan desde o início do torneio da Corte Imperial para alimentar Dang Hun mountain | Cap. 572
+
+## B8) Sistemas e atividades jogáveis (cap. 569-573)
+
+- Vontade residual de um Gu Immortal morto (will): mesmo sem corpo ou Gu worms, uma vontade poderosa o bastante (como a de Mo Yao) pode persistir e infiltrar a mente de um "herdeiro destinado" (fated one), lendo pensamentos à medida que se formam — só um mestre de wisdom path tem real chance de expulsá-la ou resistir; a diferença de "profundidade de vontade" entre um mortal comum e um antigo grão-mestre é descrita como "um monte de terra contra uma montanha". (Cap. 568-570)
+- Taxonomia oficial de wisdom path — hierarquia de complexidade mental: Pensamento (thought) → Vontade (will) → Emoção (emotion). Pensamentos colidem/fundem/cancelam-se para formar novos pensamentos (processo do "pensar"); vários pensamentos juntos formam uma "vontade"; várias vontades juntas formam uma "emoção" (a partir daqui deriva o enchantment path). Cada nível tem sua família de Gu correspondente (ver A8). (Cap. 570)
+- Origem dos land spirits (espíritos-guardiões de blessed lands): quando um Gu Immortal morre, sua "obsessão" remanescente (um tipo de pensamento/vontica) se combina com o poder celestial da terra abençoada e forma o land spirit dessa blessed land — explica de onde vêm entidades como o land spirit de Lang Ya (antigo Long Hair Ancestor) e de Hu Immortal (little Hu Immortal). (Cap. 570)
+- Negociação com uma vontade hostil-mas-não-maligna: quando Fang Yuan percebe que não tem poder de wisdom path para expulsar Mo Yao, ele "cede" estrategicamente (aceita devolver Water Pavilion à Spirit Affinity House) — troca que na prática ele nunca cumprirá tão cedo, pois Mo Yao exige que ele primeiro se torne Gu Immortal para poder "devolver" a estrutura, dando a Fang Yuan tempo/alavancagem quase ilimitados. Em troca, ganha acesso ao conhecimento de refino de Mo Yao (grão-mestre) e ajuda dela contra Eighty-Eight True Yang Building. (Cap. 570)
+- Hierarquia mortal de Gu Masters (reforçada): rank 1 = estudantes (mais fracos, comuns); rank 2 = base/mão de obra principal das tribos; rank 3 = anciões, pilares de apoio; rank 4 = líderes capazes de comandar dez mil homens; rank 5 = pico do reino mortal, os mais raros. (Cap. 571)
+- Distinção Master vs. Grão-mestre (grandmaster), qualquer caminho: Master é "descoberto, não buscado" — exige talento inato + capacidade, não pode ser cultivado só com recursos. Grão-mestre exige, além de talento/recursos, oportunidade fortuita e compreensão profunda — permite aplicar o entendimento de um caminho a qualquer outro, entender yin-yang e o universo, e "superar o reino mortal, tornando-se imortal entre imortais". (Cap. 571, 573)
+- Contraste de filosofia política Terra vs. este mundo: na Terra, "poder político vem da força militar", mas o poder fica disperso na massa, exigindo que a força se disfarce de retidão/opinião pública para ser aceita. Neste mundo, a força individual supera muito a força coletiva — um único indivíduo poderoso (como Fang Yuan após o torneio) pode ignorar completamente a opinião pública e agir com impunidade total. (Cap. 571)
+- Testagem de golpe matador de alto risco em cobaias humanas: golpes matadores muito poderosos (como Six Arm Heavenly Zombie King) têm backlash proporcional ao poder se falharem — por isso Fang Yuan prende ~200 Gu Masters capturados (por invadirem sua "zona de caça" anunciada publicamente) para testar o golpe neles antes de arriscar o próprio corpo. (Cap. 571, 573)
+
+## C8) Regras do mundo (cap. 569-573)
+
+- Diluição de sangue Huang Jin: mesmo sendo descendente confirmado de Giant Sun Immortal Venerable, se os ancestrais "diluíram" o sangue casando-se com forasteiros repetidamente, o descendente pode não ter sangue "espesso" o bastante para ter acesso automático a Eighty-Eight True Yang Building. (Cap. 570)
+- Earth chief beast: quase extinto na planície norte externa, mas abundante dentro da Imperial Court blessed land; material de refino valioso (olhos, pelo, cauda), com destaque para os chicotes de carne no peito — quanto mais longos, mais raros (6 metros ou mais chegam a ser impossíveis de comprar no mercado). (Cap. 571)
+- Regra de "guerra de atrito" de enslavement path em grande escala: dividir um campo de batalha vasto (ex.: mil li) em dezenas de "círculos de batalha" simultâneos, usando bestas fracas para cercar/desgastar e bestas mutantes fortes como ponta de lança — cada círculo vencido acelera a vitória do seguinte, até a força do inimigo colapsar em cascata. (Cap. 572)
+
+## D8) Números e preços (cap. 569-573)
+
+- Guest tokens obtidos até este ponto do torneio dentro de Eighty-Eight True Yang Building: apenas 7 ao todo, cada um vendido por preço "astronômico" no mercado paralelo entre forasteiros sem sangue Huang Jin. (Cap. 569)
+- Wolf group de Fang Yuan neste ponto: recuperado a ~500.000 lobos (após dispersão inicial na terra abençoada). (Cap. 571)
+- Refino do earth chief zombie Gu modificado: 3 dias e 3 noites contínuos. (Cap. 572)
+- Ge Guang e Chang Ji You capturam pouco mais de 180-200 Gu Masters que invadiram a zona de caça anunciada por Fang Yuan — todos levados para uma sala escura para "experimentação". (Cap. 573)
+- Bo Qing/Mo Yao — citação: Bo Qing teria dito "neste mundo, tudo que eu penso ou faço está certo; quem discorda de mim está errado" — frase que Fang Yuan reconhece e comenta. (Cap. 569)
+
+## E8) Locais e atividades (cap. 569-573)
+
+- Zona de caça de Fang Yuan dentro da Imperial Court blessed land: área ampla (~mil li) próxima ao sacred palace, rica em earth chief beasts subterrâneos; Fang Yuan anuncia publicamente suas caçadas ali, e quem não desviar é tratado como alvo válido — a matança de Gu Masters "gananciosos" que invadem essa zona é deliberada (não colateral). (Cap. 571-572)
+
+## F8) Golpes matadores e receitas (cap. 569-573)
+
+- Six Arm Heavenly Zombie King — ver detalhes completos na seção A8 acima.
+- Turtle house / White Bone Chariot — já registrados na seção F7 (contexto de Gu houses, cap. 568).
+
 ## G) Achados soltos
 
 - Northern plains segue calendário/tradição de Giant Sun Immortal Venerable: mulheres têm status inferior, por vezes "emprestadas" a convidados importantes como cortesia — mencionado ao explicar o costume ao redor de Ni Xue Tong. (Cap. 535)

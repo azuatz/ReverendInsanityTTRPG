@@ -324,3 +324,95 @@ Leitura de "Volume_6_-_Demon_Venerables_Eternal_Life.txt", linhas 1–24700 (de 
 - Os Three Crazed Demon Eccentrics (aliados que prometeram ajudar na guerra do Fate) desapareceram misteriosamente sem aparecer na batalha; Fang Yuan suspeita de Longevity Heaven ou de uma carta na manga de Giant Sun Immortal Venerable (Cap. 1993).
 - Spectral Soul (escondido dentro de An Xun) planeja usar o prestígio crescente de An Xun para se aproximar de Wu Shuai, com o objetivo final de escravizar Wu Shuai e tomar Dragon Palace (cobiçada por conter Immortal Gu de dream path) (Cap. 1996).
 - Um qi harvest fruit gigante e parasita é descoberto crescendo dentro de Ice Crystal grotto-heaven, se alimentando do próprio qi da apertura — situação inédita e perigosa, ninguém presente sabe como removê-lo com segurança (gancho de capítulo) (Cap. 1996).
+
+---
+### Bloco 7 (linhas 4801–5600, Caps. 1996–2000)
+
+## A) Gu nomeados (continuação)
+- Farewell Friend Wind (modificado) | golpe imortal | wind path c/ efeito human path | dissolve o corpo do alvo numa brisa; Wu Yong removeu a exigência de toque físico e ampliou o alcance, mas ainda exige que usuário e alvo sejam "amigos" antes do uso (Cap. 1997)
+- Great Qi Grasp | golpe imortal | qi path | assinatura de Demon Immortal Qi Jue; forma uma mão gigante de qi que pode esmagar montanhas/mares (forma sólida) ou invadir órgãos (forma dispersa); subjugou até o Evil Dragon Di Zang Sheng num só golpe (Cap. 2000)
+- Qi Breath Peak | recurso de qi path extinto | encontrado dentro de Qi Jue grotto-heaven (Cap. 1998)
+- Qi monsters (de luck qi / de hard qi) | criaturas | formadas de qi concentrado dentro de Qi Jue grotto-heaven; matar as de luck qi sem proteção de luck path reduz a sorte de quem mata (Cap. 1998)
+
+## B) Sistemas e atividades jogáveis (continuação)
+- **Confirmação: batalhas intensas entre Gu Imortais geram qi tides**: abrir a entrada da apertura imortal ou lutar com intensidade rompe a diferença de qi céu-terra entre dentro/fora da apertura, gerando uma qi tide local como reação (Cap. 1998–1999).
+- **Plano de Fang Yuan — "máquina de lavar" com qi tides**: usar deliberadamente qi tides para varrer/purgar heaven's will de dentro de sua apertura soberana; ideia arriscada e não testada, combinando fundação de qi path e wisdom path (Cap. 1996–1997).
+- **Estrutura de Qi Jue grotto-heaven**: em vez de uma única entrada, tem inúmeros buracos formando túneis de correntes de qi branco-leitosas, formando um labirinto que fica mais valioso/perigoso perto do centro; no centro havia um qi harvest fruit de rank 9 (Cap. 1996–1998).
+- **Risco de autodetonação de grotto-heaven**: explorar ou lutar demais dentro de um grotto-heaven volátil pode causar autodetonação catastrófica — foi o que aconteceu com Qi Jue grotto-heaven na vida anterior de Fang Yuan, matando incontáveis Gu Imortais e enfraquecendo permanentemente a aliança dos dois céus (Cap. 1998).
+- **Secluded domain of heaven and earth "Xi"**: revelado ser a verdadeira natureza do "tesouro" no centro de Qi Jue grotto-heaven — um qi harvest fruit gigante funciona como um útero, absorvendo todo o qi do grotto-heaven (inclusive as correntes de rank 8) até "dar à luz" o próprio Demon Immortal Qi Jue renascido; o grotto-heaven inteiro se transforma em correntes de qi e é absorvido pelo bebê/renascido (Cap. 1998–1999).
+- **<<The Legends of Ren Zu>>**: contém menção a dois secluded domains misteriosos, "Hu" e "Xi", com pouquíssima descrição (Cap. 1999).
+- **Southern Alliance**: aliança de forças humanas de Southern Border, liderada por Wu Yong (Cap. 1997).
+
+## C) Regras do mundo (continuação)
+- "Só existem nomes errados, não títulos errados" — provérbio sobre como o epíteto de alguém costuma refletir a verdade (usado sobre "Demon Immortal Qi Jue") (Cap. 2000).
+
+## D) Números e preços (continuação)
+- Qi harvest fruit central de Qi Jue grotto-heaven: aura de material imortal de rank 9, tamanho inicial de uma cabaça (Cap. 1996–1998).
+- Expedição de Fang Zheng a Qi Jue grotto-heaven: 4 Gu Imortais de rank 8 (Prince Feng Xian, Bai Cang Shui, Che Wei, Zhou Xiong Xin) via Demon Judgment Board (Cap. 1999).
+
+## E) Locais e atividades (continuação)
+- Qi Jue grotto-heaven — em immemorial white heaven; domínio do lendário Demon Immortal Qi Jue (rival histórico de Limitless Demon Venerable); labirinto de túneis de qi, riquíssimo em recursos de qi path, autodetona na vida anterior de Fang Yuan (Cap. 1996–2000).
+
+## F) Golpes matadores e receitas (continuação)
+- Farewell Friend Wind (modificado) — dissolve o corpo do alvo à distância, exige amizade prévia (Cap. 1997).
+- Great Qi Grasp — mão gigante de qi, esmaga ou invade órgãos; derrotou o Evil Dragon num golpe (Cap. 2000).
+- Dreamy Light Smoke — usado contra Demon Immortal Qi Jue mas falha (ele se teleporta ileso) (Cap. 2000).
+
+## G) Achados soltos (continuação)
+- Xiao He Jian — Gu Imortal miniman, grande especialista em wood path, força equivalente a rank 8; junta-se à aliança dos dois céus para ter a proteção de Wu Shuai contra o clã Luo/Southern Alliance na corrida por Qi Jue's true inheritance; na vida anterior de Fang Yuan, tinha força equivalente a Ice Crystal Immortal Monarch mas morreu na autodetonação de Qi Jue grotto-heaven (Cap. 1997–2000).
+- Clã Luo (Southern Border) descobre Qi Jue grotto-heaven primeiro explorando céu branco; é emboscado pelas forças de Xiao He Jian; recorre a Wu Yong/Southern Alliance por ajuda (Cap. 1996–1997).
+- Wu Yong aprimora vários golpes (Farewell Friend Wind, planeja também Clear Jade Dripping Wind Tiny Bamboo Building) após perder dao marks na guerra do Fate mas ganhar nível de atainment mais alto em wind path durante a recuperação (Cap. 1997).
+- Corrida tripla por Qi Jue's true inheritance: Wu Shuai (aliança dos dois céus, Dragon Palace) x Wu Yong (Southern Alliance, Clear Jade Dripping Wind Tiny Bamboo Building) x Heavenly Court (Fang Zheng, Demon Judgment Board) — todos convergem em Qi Jue grotto-heaven (Cap. 1998–2000).
+- **REVELAÇÃO GRANDE**: a "herança verdadeira" de Qi Jue era, na verdade, o próprio plano de renascimento de Demon Immortal Qi Jue — ele projetou seu retorno usando um qi harvest fruit gigante como "útero" que absorve todo o qi do grotto-heaven (incluindo o secluded domain "Xi") quando gatilhado por conflito/qi tide suficiente lá dentro. Ele se revela um lendário especialista de caminho demoníaco, morto há mais de um milhão de anos, agora renascido com força de pseudo-venerável de verdade (derrota o Evil Dragon num golpe só) (Cap. 1999–2000).
+- Wu Shuai/Fang Yuan é suspeito (por Wu Yong) de ter usado a destruição do Evil Dragon de propósito para acelerar/gatilhar o renascimento de Demon Immortal Qi Jue — sugerindo que Fang Yuan já sabia do segredo via memórias de vida anterior (Spring Autumn Cicada) (Cap. 2000).
+- Na vida anterior de Fang Yuan, Demon Immortal Qi Jue nunca renasceu — possivelmente porque Spectral Soul já havia tomado Heavenly Court (via sovereign immortal fetus Gu completo) e impediu o evento (Cap. 2000).
+- Demon Immortal Qi Jue, assim que renasce, ataca as três facções presentes sem distinção política — "hoje é o dia maravilhoso do meu renascimento, deixe-me ver os métodos desta era" (Cap. 2000).
+- Fang Zheng (Heavenly Court) menciona o nome de Fang Yuan para Demon Immortal Qi Jue como "o demônio número um do mundo atual", tornando Fang Yuan um alvo de interesse do novo e aterrorizante demônio renascido (Cap. 2000).
+
+---
+### Bloco 8 (linhas 5601–6400, Caps. 2000–2005)
+
+## A) Gu nomeados (continuação)
+- Xi Land / secluded domain "Xi" | rank 9+ | trunfo de Demon Immortal Qi Jue | absorve QUALQUER golpe de qi path (poço sem fundo); quando completo, neutraliza todos os Gu Imortais de qi path do mundo; cresce ao devorar "fragmentos de Xi" escondidos (áreas de mar turbulento) (Cap. 2002–2003)
+- Five restriction profound light qi | rule path | resultado da pesquisa de vida inteira de Tao Zhu; ligado a qi path; é a verdadeira natureza por trás das antigas paredes regionais (Cap. 2003)
+- Método de autodetonação de Immortal Gu House | — | Fang Yuan obteve via soul search de seu clone capturado Fang Di Chang; usado defensivamente para criar brecha de fuga (Cap. 2004)
+- Triple qi retraction | golpe | parte da herança verdadeira de Primordial Origin, cobiçado por Fang Yuan (Cap. 2004)
+- Flowing light fruit | material imortal rank 6 | formado de luz densa de auroras, várias cores; cultivado a partir de "bolas" de luz de aurora plantadas em "cloud soil" e regadas com água de raio e som magnético (Cap. 2002)
+
+## B) Sistemas e atividades jogáveis (continuação)
+- **Veias do céu (heaven veins)**: grotto-heavens dos dois céus ficam situados sobre veias do céu, o que os beneficiou historicamente (mais recursos), mas agora os coloca na linha de frente da fusão das veias do céu — daí o surgimento dos qi harvest fruits parasitas neles; teoricamente, afastar um grotto-heaven das veias do céu resolveria o problema, mas relocar uma estrutura do tamanho de Heavenly Court é praticamente impossível (Cap. 2001).
+- **Formação anti-heaven's will de Fang Yuan**: instalada em Mini Blue Heaven (dentro da apertura soberana), versão modificada da "five regional limit formation", combinando a herança de Tao Zhu + metade da herança de Primordial Origin + fundação de Qi Xiang; gera qi tides artificiais e controladas para varrer heaven's will de uma área sem destruir pontos de recurso (Cap. 2003).
+- **Verdadeira natureza das paredes regionais**: eram, na essência, o mesmo fenômeno das qi tides — densificado pela diferença de qi céu-terra nas fronteiras onde as veias da terra eram separadas; por isso golpes usados dentro das paredes regionais antigas causavam backlash, igual às qi tides atuais (Cap. 2003).
+- **Diplomacia de Heavenly Court com Qi Sea Ancestor**: usam a ameaça de Demon Immortal Qi Jue como alavanca e presenteiam a segunda metade da herança verdadeira de Primordial Origin como isca (ele ainda precisa de Immortal Gu de qi path compatíveis, que só Heavenly Court possui, para ativar os golpes registrados nela) (Cap. 2004–2005).
+- **Lista pública de Gu Imortais mais temidos**: #1 Fang Yuan, #2 Wu Shuai, #3 (recém-adicionado) Demon Immortal Qi Jue; Heavenly Court e Qi Sea Ancestor são explicitamente excluídos da lista por "não oprimirem os fracos" (Cap. 2002).
+
+## C) Regras do mundo (continuação)
+- Céu, terra e humanos têm "veias" (heaven veins, earth veins, human veins) — conceito cosmológico central reforçado (Cap. 2001).
+- "Colocar cobertura no bolo não se compara a ajudar em tempos de necessidade" — provérbio (Cap. 2004).
+
+## D) Números e preços (continuação)
+- Qing Hui Zi: Gu Imortal rank 7, um dos 3 principais vendedores de flowing light fruit em treasure yellow heaven (Cap. 2002).
+
+## E) Locais e atividades (continuação)
+- Turbulent flow sea area — zona oculta em Eastern Sea contendo um "fragmento de Xi"; correntes caóticas fortes o bastante para despedaçar mortais desprotegidos (Cap. 2002).
+- Mini Blue Heaven — região dentro da apertura soberana de Fang Yuan onde ele testa a formação geradora de qi tides controladas (Cap. 2003).
+
+## F) Golpes matadores e receitas (continuação)
+- Great Qi Grasp — bloqueado pela "muralha de qi" improvisada de Fang Yuan, que se divide em duas mãos yin-yang (preta e branca) (Cap. 2003).
+- Xi Land — absorve/anula ataques de qi path; quando completo, neutraliza qualquer Gu Imortal de qi path (Cap. 2003).
+- Golden scissors (tesoura dourada) de Qin Ding Ling — golpe de luck path, inofensivo fisicamente mas corta a sorte do alvo (Cap. 2004).
+- Luz vermelho-sangue de Demon Judgment Board pode "dar a volta" e atacar por trás/direção reversa (Cap. 2004).
+
+## G) Achados soltos (continuação)
+- Demon Immortal Qi Jue marca publicamente três alvos para visitar em seguida: Fang Yuan, Qi Sea Ancestor e Feng Jiu Ge — os três nomes mais temidos/misteriosos da era atual (Cap. 2000–2001).
+- Todos os grotto-heavens da aliança dos dois céus estão desenvolvendo seus próprios qi harvest fruits parasitas; até Heavenly Court desenvolveu um — ameaça comum que empurra as partes para conversas de trégua/aliança (Cap. 2001).
+- Night Heavenly Wolf Lord usa a crise dos qi harvest fruits como mais uma prova de que sua decisão de trair a aliança em favor de Heavenly Court foi acertada (Cap. 2001).
+- Demon Immortal Qi Jue faz soul search em Qing Hui Zi (Gu Imortal aleatório de Eastern Sea) para aprender sobre a era atual; leva seus Gu worms mas devolve o Immortal Gu de light path por "generosidade"/desdém por roubo mesquinho — revela seu código pessoal de honra apesar da arrogância (Cap. 2002).
+- **CONFIRMAÇÃO REITERADA**: Qi Sea Ancestor = Fang Yuan (monólogo interno explícito neste trecho) (Cap. 2003 em diante).
+- Fang Yuan/Qi Sea Ancestor enfrenta Demon Immortal Qi Jue diretamente; consegue se defender bem com uma "muralha de qi" improvisada + par de mãos yin-yang, mas é subjugado quando Qi Jue ativa seu trunfo Xi Land completo (Cap. 2003).
+- Heavenly Court (liderada pessoalmente por Qin Ding Ling, com Fang Zheng e Demon Judgment Board) chega bem a tempo de socorrer Qi Sea Ancestor/Fang Yuan, combinando blood path (Demon Judgment Board) + luck path (tesoura dourada de Qin Ding Ling, corta a sorte de Qi Jue) para forçar a retirada dele (Cap. 2004).
+- Visita diplomática de Qin Ding Ling a qi sea: presenteia a SEGUNDA metade da herança verdadeira de Primordial Origin (contendo "triple qi retraction") a Qi Sea Ancestor/Fang Yuan como gesto de aliança — vitória enorme e irônica para Fang Yuan, já que Qin Ding Ling não sabe que está armando seu maior inimigo (Cap. 2004–2005).
+- Fang Yuan cogita seriamente (mas rejeita, por pragmatismo — está enfraquecido e arriscaria expor sua identidade) emboscar e matar Qin Ding Ling + Fang Zheng + Prince Feng Xian + Bai Cang Shui de uma vez enquanto estão vulneráveis dentro de qi sea (Cap. 2005).
+- O clã Xia é convidado ao banquete de Fang Yuan com Heavenly Court como "testemunhas" — usado deliberadamente por Fang Yuan para consolidar publicamente o prestígio/independência de Qi Sea Ancestor perante o resto de Eastern Sea (Cap. 2004–2005).
+- Heavenly Court pede formalmente a ajuda de Qi Sea Ancestor (Fang Yuan) para resolver a própria crise do qi harvest fruit, em troca de apoio material/militar futuro contra a aliança dos dois céus e ajuda para o clã Xia reconquistar seu território (Cap. 2005).
+- Qin Ding Ling considera em particular usar a ameaça contínua de Demon Immortal Qi Jue como alavanca adicional para eventualmente convencer Qi Sea Ancestor a se juntar formalmente a Heavenly Court (Cap. 2005).
