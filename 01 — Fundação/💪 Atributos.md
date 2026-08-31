@@ -89,7 +89,23 @@ Iniciativa          = d20 + DES, rolada no início do combate
 | 18 | Difícil |
 | 22+ | Quase impossível sem ajuda ou preparação |
 
-**Perícias/treino** não têm lista fechada: se o personagem tem motivo pra ser bom em algo (a origem dele, a profissão, o que ele passou a campanha fazendo), a mesa concede **+2** naquilo. Escreva na ficha o que ele treinou, não uma tabela.
+### O bônus de treino cresce com o rank
+
+Ser treinado em algo não vale o mesmo no rank 1 e no rank 8 — a diferença entre um novato competente e alguém com séculos de prática precisa aparecer no dado.
+
+```
+Bônus de treino = +2, e sobe +1 a cada rank PAR
+```
+
+| Rank | 1 | 2–3 | 4–5 | 6–7 | 8–9 |
+|---|---|---|---|---|---|
+| **Bônus de treino** | **+2** | **+3** | **+4** | **+5** | **+6** |
+
+O bônus vale em **tudo que já usava treino**: testes de perícia, acerto melee, acerto à distância e acerto de Gu (as fórmulas acima não mudam — só o valor de `treino` dentro delas).
+
+*(Calibrado contra *Feiticeiros e Maldições*, que usa a mesma escada: base +2, subindo +1 nos níveis 5, 9, 13 e 17, chegando a +6 — cinco degraus. Os nove ranks deste sistema com "+1 a cada rank par" reproduzem os mesmos cinco degraus e a mesma faixa +2 a +6.)*
+
+**Perícias/treino** não têm lista fechada: se o personagem tem motivo pra ser bom em algo (a origem dele, a profissão, o que ele passou a campanha fazendo), a mesa concede o bônus da tabela acima naquilo. Escreva na ficha o que ele treinou, não uma tabela.
 
 ## 📝 Changelog
 
