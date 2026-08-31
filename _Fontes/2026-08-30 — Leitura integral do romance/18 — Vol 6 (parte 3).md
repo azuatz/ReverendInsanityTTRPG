@@ -535,6 +535,15 @@ Fonte: `Volume_6_-_Demon_Venerables_Eternal_Life.txt`, linhas 49401–73957 (par
 - **Endless Learning** — golpe de caminho humano de Star Constellation: eleva attainment diretamente através de imersão no Grande Dao, com ganho proporcional ao talento/fundação do usuário (cap. 2293).
 - **Destined Birth Through Luck** (reuso) — reanima Fei Wu, gastando mais do Blood Sea incompleto que a ressurreição anterior de Light Emperor (cap. 2296).
 - **Endless Trouble** — golpe de Fang Yuan que adia calamidade/tribulação para a próxima, aumentando a severidade final em troca de mais dao marks no sucesso (cap. 2300).
+- **Rumor Cage** — golpe de campo de batalha de ativação mais rápida (Zhou Xiong Xin, caminho informação): isola combatentes numa "gaiola" de caracteres prateados, bloqueia comunicação externa (cap. 2304).
+- **Flower Thorn Stab** — golpe de Wan Zi Hong (caminho madeira): estocada de unha que planta espinhos crescentes que incapacitam/matam com o tempo (cap. 2304).
+- **Rumors Become Tigers** — golpe de Zhou Xiong Xin: invoca tigres de luz prateada (cap. 2304).
+- **Blood Sun Seal** — golpe de Red Heart Traveler (caminho sangue): projétil de sangue tossido que atravessa obstruções e marca o alvo, formando um "casulo de sangue" (cap. 2304).
+- **Sword Qi Takes Form** — golpe de Lin Jian Xing: cria um construto autônomo de qi de espada, decoy de combate capaz de lutar e até se recompor para escapar de prisões (cap. 2304).
+- **Sword Qi Lightning Roar** — golpe de Lin Jian Xing: ataque de espada quase instantâneo, quase invisível (cap. 2305).
+- **Sword Qi Threads** — golpe de nível quase-venerable de Lin Jian Xing: fios translúcidos afiadíssimos, impossíveis de bloquear, só esquivar (cap. 2305).
+- **Sword Light Disintegration** — golpe final de Lin Jian Xing que derrota os 5 imortais da Corte Celestial (cap. 2305).
+- **Heavenly Web Protection Veil** — golpe defensivo de Fang Yuan, agora mais forte que o Reverse Flow Protection Seal graças ao Heavenly Web Gu rank 9 (cap. 2306).
 
 ## G) Achados soltos
 
@@ -587,3 +596,7 @@ Fonte: `Volume_6_-_Demon_Venerables_Eternal_Life.txt`, linhas 49401–73957 (par
 - Trecho seguinte cobre fim do cap. 2297 ao início do cap. 2302 (linhas ~66401–67400).
 - Fios de trama maiores abertos nesta fatia: (1) perseguição de Yi Qi Zi por Giant Sun e o segredo das pedras de essência imortal, (2) problema de "fome" do corpo imortal soberano de Fang Yuan surgindo cedo demais, (3) projeto misterioso "Bo Qing" de transplante de alma de Star Constellation, (4) surgimento súbito de heaven path dream realms no Spectral Heaven engolindo Fairy Zi Wei/Ying Wu Xie — todos sinalizados como fios em aberto para acompanhar na leitura restante.
 - Reforça "Fang Yuan transforma controle populacional exploratório em propaganda" como tema recorrente de personagem (Pregnancy Temple vendida como benevolência amorosa, o "milagre" do clã Ni vendido como generosidade lendária de Fang Yuan) — material temático de referência para o mestre sobre a máquina de propaganda do venerable, não mecânica nova além do já registrado.
+- Trecho seguinte cobre meio do cap. 2302 ao início do cap. 2307 (linhas ~67401–68400).
+- Escalada maior de trama: a Corte Celestial incrimina/ataca publicamente Lin Jian Xing (primeiro supremo ancião do clã Lin) como pretexto para extraí-lo como o "corpo de caminho espada" do projeto secreto de transplante de alma Bo Qing — mas ele se revela um quase-venerable até então escondido, que sozinho derrota o time de elite de 5 da Corte Celestial, virando novo poder nomeado importante no cenário.
+- Fang Yuan e Giant Sun perseguem, cada um por conta própria, pistas ligadas ao segredo das pedras de essência imortal e a Yi Qi Zi — fio em andamento vindo da fatia anterior.
+- O plano de longo prazo de Star Constellation para isolar a Corte Celestial da detecção da vontade celestial (via ressurreição e frutos de Cang Xuan Zi) agora fica explícito e é enquadrado especificamente como o conserto para a exata vulnerabilidade que Fang Yuan deduziu na fatia anterior — bom fechamento de lógica de trama para referência de campanha.
