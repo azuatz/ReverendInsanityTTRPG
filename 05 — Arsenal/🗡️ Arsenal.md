@@ -18,12 +18,14 @@ Nota-mãe. **O que se compra, o que se acha e o que se deve.** Armas, materiais,
 ## Nível 1 — Você vai precisar já na sessão 1
 
 1. **[[🏪 O Mercado]]** — o que existe à venda nos ranks 1–5, com Disponibilidade, preços, leilão, Proveniência e as **4 vias de aquisição de Gu**. É a nota que responde *"posso comprar isso?"*, que a mesa pergunta toda sessão.
-2. **[[⚰️ Espólio]]** — **leia antes do primeiro inimigo morrer.** A regra é contraintuitiva: a vontade do dono **destrói** os Gu dele ao morrer. Se você não souber disto, vai distribuir tesouro errado na primeira luta. A nota traz as 3 formas de conseguir algo mesmo assim.
+2. **[[🏙️ Metrópoles — Centros, Tokens e Arena]]** — a grande cidade comercial: cinco centros dentro da montanha, o Token de Sangue em cinco cores, e a Arena onde o vencedor escolhe um Gu do perdedor. É onde a economia do jogo tem endereço.
+3. **[[⚰️ Espólio]]** — **leia antes do primeiro inimigo morrer.** A regra é contraintuitiva: a vontade do dono **destrói** os Gu dele ao morrer. Se você não souber disto, vai distribuir tesouro errado na primeira luta. A nota traz as 3 formas de conseguir algo mesmo assim.
 
 ## Nível 2 — O motor de arco mais reutilizável do vault
 
 - **[[📜 Manuais e Heranças]]** — o que uma Herança contém e as **4 amarras** que impedem que ela quebre a campanha.
 - **[[📜 Catálogo de Heranças]]** — **17 heranças prontas** em 3 camadas, com 7 quebra-cabeças (solução já escrita), Terras Abençoadas, testes de Espírito da Terra e uma armadilha. Se você precisa de um arco e não tem ideia, pegue uma daqui e o arco se escreve sozinho.
+- **[[🎲 Gerador de Heranças]]** — quando as 17 acabarem: **role a 18ª em dez minutos**, do rank 4 ao 9 (dono, conteúdo, guardião, provação e amarra, tudo em tabela).
 
 ## Nível 3 — Quando a mesa tiver política
 

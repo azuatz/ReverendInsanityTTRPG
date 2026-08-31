@@ -24,11 +24,17 @@ Montar um Golpe Matador exige que os Gu envolvidos sejam ativados em sequência,
 
 Um Golpe Matador **empurra o Gu núcleo pra cima na [[⚔️ Combate|Escada de Dano]]**. É assim que ele vira dano de matar alguém acima do seu rank sem inventar uma regra nova:
 
-| Gu de apoio no combo | Efeito no núcleo |
-|---|---|
-| 1 | +1 Nível de Dano |
-| 2 | +2 Níveis |
-| 3 | +3 Níveis, e o alvo tem desvantagem pra resistir |
+| Gu de apoio no combo | Efeito no núcleo | Exige estágio |
+|---|---|---|
+| 1 | +1 Nível de Dano | Inicial |
+| 2 | +2 Níveis | Médio |
+| 3 | +3 Níveis, e o alvo tem desvantagem pra resistir | Alto |
+| 4 | +4 Níveis, e o alvo tem desvantagem pra resistir | **Pico** |
+
+**O teto de apoios é o [[🪜 Ranks e Estágios|Teto de Combo]] do seu estágio menos um** — o núcleo também ocupa uma vaga. É uma regra só, não duas: o estágio diz quantos Gu cabem no golpe, e cada apoio vale +1 Nível. Um Golpe Matador **coletivo de 4 personagens** continua chegando a +6 (decisão 32).
+
+> [!note] Por que +4 não desequilibra
+> O freio é o custo, que cresce com o quadrado do tamanho do combo: um golpe de 5 Gu num Caminho só custa `(40×5) × 5 = 1.000` de essência, contra 640 do de 4 Gu. O quarto apoio se paga sozinho — e só existe no Pico, que é o topo da progressão de estágio.
 
 Um Gu de apoio só conta se **fizer alguma coisa de verdade** pelo golpe — imobilizar, cegar, atrasar, esconder a preparação, furar defesa. Empilhar três Gu de ataque não é Golpe Matador, é gastar essência.
 

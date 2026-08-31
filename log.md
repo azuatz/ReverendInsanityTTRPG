@@ -93,3 +93,34 @@ Segunda fonte recebida: listagem do repositório `azuatz/Reverend-Insanity`. É
 ponteiro, não conteúdo — informa que o romance completo em EPUB está sob controle
 do autor, o que permitiria checar canonicidade contra a **fonte primária** em vez
 da paráfrase da pasta 10. Não ingerido: depende de decisão do autor sobre clonar.
+
+## [2026-08-30] ingest | Grande rodada do autor integrada (decisões 103–118)
+A fonte `2026-08-30 — Feedback do autor` + adendos (heranças, missões, dilatação
+temporal) foi integrada de ponta a ponta: iniciativa rolada e crítico no 20;
+removidos rolagem por média, arcos, desbloqueios de estágio, regen em combate e
+aptidão negociável; salto imortal reescrito com a Provação de Avanço (resolve o
+9.999/10.000); teto de Marcas total + fonte define o Caminho; via de avanço
+explicada em duas regras; Dilatação Temporal 5×–120× com controle de datas;
+economia canônica com lojas e Relíquias; ~20 notas tocadas. Antigo em `_Arquivo`.
+
+## [2026-08-30] ingest | Notas novas: Metrópoles, Cultivo Fechado, Gu de Avanço, Gerador de Heranças, Missões
+Criadas [[🏙️ Metrópoles — Centros, Tokens e Arena]] (centros 200/600/1.800/5.400,
+Token de Sangue em 5 cores canônicas, arena com vitórias líquidas), [[🧘 Ritmo de Cultivo e Cultivo Fechado]] (dias por estágio, pedras 1–16/dia, reclusão), [[🚀 Gu de Avanço de Rank]] (todos os Gu de progressão + tabela de planejamento da mesa) e
+[[🎲 Gerador de Heranças]] (rank 4–9, rolado). Salão de Missões e Contribuição do
+Clã em [[🏛️ Clãs e Seitas]]. Mapa, Dicionário e notas-mãe atualizados.
+
+## [2026-08-30] canon | Vereditos da rodada: Shang, marcas, tempo, preços
+Consultada a pasta 10 em duas varreduras. Confirmado 📕: arena da Cidade Shang,
+Relíquias em 5 cores (2 mais altas monopolizadas), leilão como via de Gu raro,
+avanço 6→7 por 300 anos + 3 Provações Celestiais, 300 mil Marcas só como gate de
+rank 9. Não verificável na base: centros/taxas/tokens, preços por rank,
+multiplicadores de tempo de fenda e "milhões de marcas" — entraram como
+✍️ autoral/🔧 adaptado por diretiva do autor, com a marcação devida nas notas.
+
+## [2026-08-30] crítica | Nível de Dano deixou de ser moeda única (decisão 112)
+Inventário de 118 fontes; 41 convertidas em acerto/RD/CD/atributo em 11 arquivos
+(pior caso corrigido: pilha de Força r5 somava +14 Níveis). Combos-exemplo
+recalculados. Duplicação de bloco 103–112 no Log de Decisões (escrita simultânea)
+fundida num bloco único 103–118; marcador da decisão 16 corrigido para 106.
+Pendências novas no Log: simular o motor pós-103–112 e reauditar a economia
+imortal sob a Dilatação Temporal.

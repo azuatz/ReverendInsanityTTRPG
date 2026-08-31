@@ -38,8 +38,11 @@ escopo: sistema
 | **B (Grau de Densidade)** | O bônus do estágio (0·1·2·3): soma por dado no dano, engorda Vitalidade e Alma | [[🪜 Ranks e Estágios]] |
 | **Caminho (Dao)** | A especialidade: Força, Lua, Sangue, Alma… 23 jogáveis. Decide o **dado de dano** dos seus Gu | [[🛤️ Os Caminhos]] |
 | **Pedra Primordial** | A moeda do mundo mortal. Também vira essência quando consumida (fora de combate) | [[💠 Economia das Pedras Primordiais]] |
-| **Gu Relíquia** | Consumível raríssimo que avança um estágio na hora. Linha Cobre Verde → Cristal Roxo | [[📖 Catálogo de Gu]] |
+| **Gu Relíquia** | Consumível raríssimo que avança um **estágio** na hora (nunca rank). Linha Cobre Verde → Cristal Roxo | [[🚀 Gu de Avanço de Rank]] |
 | **Longevidade** | Todo mundo nasce com ~100 anos e cultivar não devolve nenhum. O Gu de Longevidade estica — com desvios | [[⏳ Longevidade]] |
+| **Cultivo fechado** | Retiro longo só cultivando: mais rápido, zero renda, e a ração dos Gu estocada antes | [[🧘 Ritmo de Cultivo e Cultivo Fechado]] |
+| **Contribuição do Clã (CC)** | O trilho de mérito do clã: missões do Salão viram pontos, pontos viram acesso | [[🏛️ Clãs e Seitas]] |
+| **Salão de Missões** | O balcão do clã: depois de um ano de aulas básicas, seu grupo pega missões ☆ a ☆☆☆☆☆ por pedras e CC | [[🏛️ Clãs e Seitas]] |
 
 ## Os Gu no dia a dia
 
@@ -71,6 +74,12 @@ escopo: sistema
 | **Débito** | Favor devido como estrutura vinculante, com retaliação real por calote | [[🤝 O Débito]] |
 | **Espólio** | A vontade do dono morto **destrói** os Gu dele. Matar não é lootear — há 3 exceções | [[⚰️ Espólio]] |
 | **Herança** | O legado escondido de um cultivador morto: manuais, Gu, receitas — com amarras | [[📜 Manuais e Heranças]] |
+| **Crítico** | 20 natural no ataque: acerta sempre e **dobra os dados** de dano | [[⚔️ Combate]] |
+| **Iniciativa** | `d20 + DES`, rolada no início do combate | [[⚔️ Combate]] |
+| **Metrópole / Centros** | A grande cidade dentro da montanha, em 5 anéis pagos — do 5º (rank 1) ao 1º (rank 5) | [[🏙️ Metrópoles — Centros, Tokens e Arena]] |
+| **Token de Sangue** | Identidade de metrópole ligada ao seu sangue, em 5 cores; dá desconto, acesso — e desbota | [[🏙️ Metrópoles — Centros, Tokens e Arena]] |
+| **Arena** | A liga de duelos da metrópole: bolsa por espectador, e o vencedor escolhe **um Gu** do perdedor | [[🏙️ Metrópoles — Centros, Tokens e Arena]] |
+| **Vitórias líquidas** | Vitórias − derrotas na arena; é o que sobe você de faixa (0 / 5+ / 15+) | [[🏙️ Metrópoles — Centros, Tokens e Arena]] |
 
 ## O mundo imortal *(só importa perto do rank 5)*
 
@@ -81,6 +90,9 @@ escopo: sistema
 | **Marca de Dao** | A progressão depois do rank 6: fragmentos de lei do mundo impressos no corpo. Substituem o estágio | [[☯️ Marcas de Dao]] |
 | **Domínio** | Os 6 níveis de maestria num Caminho imortal (Vislumbre → Grande Mestre Supremo) | [[☯️ Marcas de Dao]] |
 | **Terra Abençoada** | O território-bolso pessoal de um Imortal, com tempo e essência próprios | [[🗝️ Terra Abençoada]] |
+| **Dilatação Temporal** | O tempo na fenda corre 5× a 120× mais rápido que fora — produção, cultivo **e Calamidades** correm por dentro | [[🗝️ Terra Abençoada]] |
+| **Gruta-Céu** | O que a Terra Abençoada vira no rank 8 — outra ordem de fluxo de tempo | [[🗝️ Terra Abençoada]] |
+| **Provação de Avanço** | A Calamidade sob medida que converte a Abertura ao rank seguinte (6→7→8) | [[🪜 Ranks e Estágios]] |
 | **Espírito da Terra** | A consciência da Terra Abençoada. Única via mortal pra refinar Gu Imortal | [[🧿 Espíritos da Terra]] |
 | **Calamidade / Provação** | O céu cobra dos Imortais em desastres periódicos. Sobreviver rende Marcas | [[🌩️ Calamidades e Provações]] |
 | **Vontade do Céu** | O mundo reage a quem cresce demais — o Contador de Ameaça mede o quanto você incomoda | [[⛈️ A Vontade do Céu]] |

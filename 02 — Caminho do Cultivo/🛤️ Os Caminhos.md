@@ -29,7 +29,7 @@ Mecanicamente, o Caminho de um personagem define: que tipo de Gu ressoa com ele 
 
 **Sombras** é a exceção: d8 normalmente, **d12 contra alvo que não sabe onde você está**. **Força** não tem dado próprio — empresta o da arma e sobe o tipo dela.
 
-**Um subcaminho usa o dado do Caminho-mãe**, salvo onde a tabela acima o lista explicitamente (Espada, Relâmpago, Gelo, Osso e Lua estão listados porque o dado deles difere do da mãe).
+**Um subcaminho usa o dado do Caminho-mãe**, salvo onde a tabela acima o lista explicitamente (Espada, Relâmpago, Gelo e Osso estão listados porque o dado deles difere do da mãe).
 
 > **A regra que equilibra a tabela:** *quanto maior o dado, menos o Caminho faz além de dano.* Um Caminho d6 leva quase o dobro de acertos pra derrubar alguém — e é o único que consegue tirar um inimigo da cena sem causar dano nenhum.
 
@@ -76,7 +76,6 @@ O Catálogo usa rótulos de sabor que **não são Caminhos separados**. Esta tab
 | **Gelo · Vida · Cura** | Água |
 | **Relâmpago** | Fogo, e Ar quando o efeito é de alcance |
 | **Estrelas · Celestial** | Luz |
-| **Lua** | Luz — o Catálogo arquiva todo Gu lunar sob `Luz` |
 | **Trevas · Assassinato** | Sombras |
 | **Qi · Som · Movimento · Vento** | Ar |
 | **Fera** | Escravidão |

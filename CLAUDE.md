@@ -108,16 +108,25 @@ rodada), com data e link para o script.
 
 ### Canon — checagem de canonicidade
 
-Pergunta "isso é canônico?" se responde consultando `10 — Referência Canônica/`
-(Wiki numerada 01–28) e emitindo um dos três vereditos, sempre com citação da
-nota-fonte:
+Existem **duas camadas de referência**, nesta ordem:
+
+1. **A fonte primária** — o texto integral do romance (2.341 capítulos) em
+   `~/Documentos/Reverend-Insanity-fonte/texto/`, fora do vault, pesquisável com
+   `grep`. É a autoridade máxima e **o desempate**. O texto é em inglês: busque
+   `moon path`, `dao mark`, `blessed land`, `killer move`, `attainment` — o
+   glossário de tradução está em `10/📚 Fonte Primária — O Romance`.
+2. **A paráfrase** — `10 — Referência Canônica/` (Wiki numerada 01–28), porta de
+   entrada e consulta rápida.
+
+Emita um dos três vereditos, sempre com citação da fonte:
 
 - **📕 Canônico** — existe no romance como descrito (citar volume/capítulo da nota de referência).
 - **🔧 Adaptado** — existe no romance, mas o sistema muda de propósito (dizer o que mudou e apontar a decisão no Log, se houver).
 - **✍️ Autoral** — invenção do sistema. Não é defeito; só precisa estar coerente com as 4 premissas de `🛠️ Como Criar Sua Lore`.
 
-Atenção: a referência local cobre até o confronto final do romance, **não o
-desfecho** — vereditos sobre o fim da obra são sempre "não verificável na base".
+Com a fonte primária disponível, **"não verificável na base" deixou de ser um
+veredito aceitável** para qualquer coisa que o romance cubra — busque antes de
+declarar. O veredito só vale para o que a obra realmente não trata.
 
 ### Query — pergunta contra o wiki
 

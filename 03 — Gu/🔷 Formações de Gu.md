@@ -127,7 +127,20 @@ A versão imortal: em vez de ancorar Gu no solo ao longo de semanas, o Imortal *
 
 > Um Domínio não mata ninguém. Ele **garante que a luta aconteça e que ninguém saia dela.** É a razão pela qual Imortais matam Imortais e o mundo não fica sabendo.
 
-**Requisitos:** rank 6+, e nível de domínio **Mestre** (10.000+ Marcas naquele Caminho — ver [[☯️ Marcas de Dao|Marcas de Dao]]).
+**Requisitos:** rank 6+, e nível de domínio **Mestre** naquele Caminho (ver [[☯️ Marcas de Dao|Marcas de Dao]]).
+
+> [!important] No rank 6, isso é marca de gênio — não rotina
+> O teto de Marcas do rank 6 é 9.999 **no total** (decisão 109), e Mestre pede
+> 10.000 naquele Caminho. Pela contagem, portanto, **nenhum rank 6 alcança
+> Mestre** — a única via é a **regra do gênio pobre**: operar um nível de domínio
+> acima do que a contagem indica, por um feito real de compreensão reconhecido
+> pela mesa. Um rank 6 no Pequeno Feito que consiga isso opera como Mestre e
+> abre Domínios; do **rank 7 em diante** a contagem normal basta.
+>
+> Isso é deliberado e canônico: no romance, um rank 6 com attainment de
+> Grão-Mestre é notável justamente por ser exceção — *"though her cultivation was
+> only at rank six, she had grandmaster attainment in sword path"* (Swordmaster
+> You Lan). Ver [[📚 Fonte Primária — O Romance]].
 
 ## O custo
 

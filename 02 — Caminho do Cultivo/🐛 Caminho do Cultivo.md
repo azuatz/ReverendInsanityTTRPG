@@ -26,6 +26,7 @@ Sem elas você não consegue rodar a criação de personagem nem responder "como
 2. **[[🌟 Aptidão e Abertura]]** — a aptidão é rolada na criação, é pública e é injusta. Ela define o **teto natural** do personagem: até onde ele pode chegar sem trapacear o destino. É o gerador de conflito número 1 da mesa.
 3. **[[🛤️ Os Caminhos]]** — os 23 Caminhos jogáveis. O Caminho é a identidade mecânica do personagem, mais do que o rank. Cada um tem uma **via de avanço** própria.
 4. **[[⏳ Longevidade]]** — o Gu de Longevidade e os 10 desvios. Cultivar consome vida; esta nota é o preço que corre por baixo de tudo.
+5. **[[🧘 Ritmo de Cultivo e Cultivo Fechado]]** — quanto tempo leva cada estágio, quanto custa acelerar com Pedras, e a mecânica de **cultivo fechado** (o retiro que come a ração dos Gu). É a resposta pronta pro "quanto tempo até eu subir?".
 
 ## Nível 2 — Consulta, quando um jogador escolher o Caminho
 

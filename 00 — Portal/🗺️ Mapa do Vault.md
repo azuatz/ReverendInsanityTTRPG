@@ -79,6 +79,7 @@ escopo: processo
 | [[⛈️ A Vontade do Céu]] | **Contador de Ameaça Celestial**, Fichas de Azar, e a Tribulação feita sob medida pro ponto fraco da ficha |
 | [[⏳ Longevidade]] | 100 anos pra todos; o Gu de Longevidade é o único caminho limpo, mais **10 desvios canônicos** (zumbificação, ressurreição, possessão) e o que cada um cobra |
 | [[💠 Economia das Pedras Primordiais]] | Preços de referência, Pedra Imortal, Pontos de Origem |
+| [[🧘 Ritmo de Cultivo e Cultivo Fechado]] | **Quanto tempo leva cada estágio** (dias por rank × Aptidão), cultivo acelerado a Pedras (consumo 1–16/dia pelo rank), e o **cultivo fechado**: −1/3 do tempo, zero renda, ração dos Gu estocada antes |
 | [[🌟 Aptidão e Abertura]] | Graus D a A, teto natural, as duas rolagens de criação, e os **Dez Físicos Extremos** com a contagem regressiva |
 
 ## 03 — Gu
@@ -89,7 +90,8 @@ escopo: processo
 | [[⚡ Golpes Matadores]] | Núcleo + apoio + contragolpe, **Brecha obrigatória** (todo golpe falha em alguma condição) e **Golpe Matador Coletivo** — a jogada mais forte que um grupo pequeno tem |
 | [[🧩 Refino e Precificação]] | Refino único, **teste estendido** com tabela 1d6 de falha, combo-refino, preços |
 | [[🍖 Sustento e Alimento]] | O que cada Gu come, e a escala de intervalo por rank (rank 5 come de 1–2 anos; imortal de 5–6) |
-| [[📖 Catálogo de Gu]] | **449 Gu + 12 Casas de Gu Imortal**, todos com perfil ⬆️/⬇️ e tags de Peculiaridade (⚡Uso · 🍖Alimentação · 🔨Refino). Inclui Gu Sociais/Investigação, Gu de Corpo elementais, ataque melee Wu Xing, 15 candidatos a Imortal e 8 Golpes Matadores de rank 5 |
+| [[📖 Catálogo de Gu]] | **457 Gu + 12 Casas de Gu Imortal**, todos com perfil ⬆️/⬇️ e tags de Peculiaridade nas **3 aptidões** (⚡Uso · 🍖Alimentação · 🔨Refino). Inclui Gu Sociais/Investigação, Gu de Corpo elementais, ataque melee Wu Xing, 15 candidatos a Imortal e 8 Golpes Matadores de rank 5 |
+| [[🚀 Gu de Avanço de Rank]] | **Todo Gu de progressão num lugar só** — estágio, salto de rank, Ascensão e fase imortal, com a tabela de planejamento rank a rank dos 4 personagens |
 | [[🗂️ Índice de Gu por Caminho]] | **Todos os Gu por Caminho e rank** — a porta de consulta do catálogo |
 | [[📜 Livro de Receitas de Gu]] | **De onde sai cada Gu** — origem selvagem (r1), receita de fusão (r2–5), elevação (r6+); receitas canônicas marcadas 📕 |
 | [[🧬 Receitas de Combo-Refino]] | Quais Gu fundem em quais, exemplos por salto de rank |
@@ -115,7 +117,9 @@ escopo: processo
 | [[📜 Manuais e Heranças]] | Heranças e Heranças Imortais — o que contêm, o preço de cada uma |
 | [[📜 Catálogo de Heranças]] | **17 heranças prontas** — 10 mortais, 5 imortais, 2 legados de Venerável. Gu, receitas, Terra Abençoada, teste do Espírito, provação, 7 quebra-cabeças com solução, e 1 armadilha |
 | [[⚰️ Espólio]] | O que sobra dos Gu de um inimigo morto — a vontade destrói, e as 3 formas de conseguir algo |
-| [[🏪 O Mercado]] | **O mercado mortal** — teste de Disponibilidade por assentamento, preços fechados de Gu e equipamento, Casa de Leilões, tabela de Proveniência e as quatro vias de pôr um Gu na Abertura |
+| [[🏪 O Mercado]] | **O mercado mortal** — lojas de Gu por assentamento, teste de Disponibilidade, a **escala canônica de preços** (r1 ≈ 500 → r5 até 1 milhão; Relíquias com tabela própria), leilões, Proveniência e as quatro vias de pôr um Gu na Abertura |
+| [[🏙️ Metrópoles — Centros, Tokens e Arena]] | **A grande cidade comercial** — cinco centros dentro da montanha (taxas 200→5.400), o **Token de Sangue** em cinco cores com descontos e acessos, e a **Arena** (bolsa por espectador; o vencedor escolhe um Gu do perdedor) |
+| [[🎲 Gerador de Heranças]] | **Role uma herança em dez minutos**, rank 4–9 — dono justo/demoníaco, conteúdo, Terra Abençoada, Espírito × Vontade, provação e amarra |
 | [[🏪 Céu Amarelo do Tesouro]] | **O mercado imortal** (Treasure Yellow Heaven) — negociação remota e anônima a partir do rank 6: balcão a 60%, leilão `1d6`, Assinatura e Teste de Anonimato, monopólio e guerra de preços em 3 anos |
 | [[🤝 O Débito]] | Favor devido como estrutura vinculante — o Pacto, a quebra, e como sair |
 
@@ -230,4 +234,4 @@ Templates prontos pra copiar ao criar conteúdo novo:
 
 ## _Arquivo
 
-Vazio — é onde regra substituída vai parar, com uma linha dizendo por quê. Ver [[📖 Leia-me primeiro|Leia-me primeiro]].
+Regra substituída vai parar aqui, com uma linha dizendo por quê. Contém: `Regras removidas (2026-08-30 — rodada do autor)` — rolagem rápida por média, desbloqueios de estágio, arcos, aptidão negociável, regeneração em combate, fluxo antigo das fendas e os preços antigos de Gu.

@@ -19,7 +19,7 @@ Todos os **457 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 > 3. Gu de **dois Caminhos** (ex.: Terra/Metal) aparecem nas duas listas, com o par indicado ao lado do nome.
 > 4. Gu marcados com ✱ são variantes de rank inventadas para preencher a escada — não aparecem no romance.
 
-**O dado de dano vem do Caminho** ([[🛤️ Os Caminhos]]): d12 Alma·Espada·Relâmpago │ d10 Fogo·Vento·Osso·Metal │ d8 Luz·Gelo·Sangue·Escravidão·Veneno·Água·Sombras │ d6 os utilitários (+2 na CD deles).
+**O dado de dano vem do Caminho** ([[🛤️ Os Caminhos]]): d12 Alma·Espada·Relâmpago │ d10 Fogo·Vento·Osso·Metal │ d8 Lua·Luz·Gelo·Sangue·Escravidão·Veneno·Água·Sombras │ d6 os utilitários (+2 na CD deles).
 
 ## Os Caminhos deste índice
 
