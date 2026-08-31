@@ -305,7 +305,7 @@ Todos os **460 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 5 | **Gu do Qi de Força** ✱ — *Força/Ar* | Auxiliar | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Gu do Suserano da Terra** — *Terra/Força* | Amplificação | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 6 | **Come-Força** — *Força/Roubo* | Dreno | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
-| 6 | **Empenho Total** | Amplificação | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
+| 6 | **Gu do Suor de Ferro** | Amplificação | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
 | 6 | **Força Própria** | Amplificação | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
 | 6 | **Puxa-Montanha** | Utilidade / Amplificação | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
 | 6 | **Puxa-Água** — *Força/Água* | Utilidade / Controle | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |

@@ -58,6 +58,13 @@ Ação livre, declarada junto do seu golpe corpo a corpo:
 
 Cada **Descarga** usada na mesma cena cobra, no fim do golpe: **`1 × M` de Vitalidade** (M do seu rank) e **−1 em FOR até um descanso curto**. Cumulativo. A segunda Descarga de uma cena custa mais que a primeira; a quarta é uma decisão de vida.
 
+> [!info] 👻 Fantasma de Fera — o que separa sorte de garantia *(📕 canônico, cap. 280-281 — o fenômeno natural — e 285-286 — o Gu que o garante)*
+> O romance descreve cultivadores talentosos do Caminho da Força manifestando, de vez em quando, o **fantasma da fera** cuja força o Gu carrega — um lampejo da criatura por cima do golpe, liberando o poder pleno do Gu em vez do poder sempre diluído de um corpo humano. É raro, chega sem aviso, e só num estilo de golpe bem específico — o que também o torna fácil de prever e desviar quando um observador já viu acontecer uma vez.
+>
+> **Mecânica: rank 3+, com um Gu de amplificação da Força ativo.** Sempre que você pagar uma **Descarga** (5 de Ímpeto), role `1d6` à parte. Em **1**, o Fantasma de Fera se manifesta: o golpe ganha **+2 Níveis de Dano** além dos da própria Descarga, mas fica previsível — **−2 no teste de acerto** deste golpe específico. Sem um Gu de amplificação ativo, isso nunca dispara — não há poder emprestado para transbordar. *(Efeito raro por desenho — 1 em 6 sobre um gatilho que já exige 5 de Ímpeto acumulado; impacto esperado pequeno na letalidade média, não medido isoladamente em simulação.)*
+>
+> **O [[📖 Catálogo de Gu#Rank 3 — M = 4|Gu do Empenho Total]]** — o Gu quase extinto que Fang Yuan adquire por acaso numa casa de apostas — é a versão **garantida** disto: todo cultivador de Força comum depende da sorte do 1d6, ele não.
+
 > **Por que o Ímpeto existe e por que é assim.** O problema real do Caminho da Força não é o dano — é que ele **não escolhe a luta**. Não tem alcance, não tem controle de campo, não tem furtividade, não tem mobilidade. Contra alguém que fique a 40 m, ele não tem jogada nenhuma. O Ímpeto não conserta isso: ele **paga o lutador por resolver o problema do jeito difícil**, ficando em contato, apanhando, avançando. Um cultivador de Força que fica três rodadas trocando golpes chega ao passo +9 e ignora RD — território de rank acima. Um que passa a luta correndo atrás do inimigo chega em zero, todas as rodadas.
 >
 > E é por isso que o gatilho de **sofrer dano** existe. Nenhum outro Caminho é recompensado por levar porrada. Este é, porque é a única coisa que ele faz melhor que os outros.
