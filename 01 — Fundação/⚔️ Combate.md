@@ -277,7 +277,7 @@ Sem Gu ativo, o corpo é o corpo: **um dado só, sem pool**, porque a força hum
 ### A regra que faz o lutador existir
 
 ```
-Com um Gu do Caminho da Força ou de Transformação ativo:
+Com um Gu que AMPLIFIQUE ou ENTREGUE um golpe corpo a corpo ativo:
 
 Dano melee = (M do Gu) d(dado da arma, ajustado por Níveis) + FOR + (M × B)
                                                                ↑
@@ -285,6 +285,11 @@ Dano melee = (M do Gu) d(dado da arma, ajustado por Níveis) + FOR + (M × B)
 ```
 
 Um rank 5 com machado pesado e um Gu de Força de rank 5 ativo, no estágio Alto: `16d10 + FOR + 32` — média **120 + FOR**. Sem o Gu: `1d10 + FOR`, média 5,5 + FOR.
+
+> [!important] Não é só o Caminho da Força — é qualquer Caminho que tenha o Gu certo
+> A regra costumava dizer "Gu do Caminho da Força ou de Transformação", e isso **nunca descreveu o [[📖 Catálogo de Gu|Catálogo]]**: os cinco elementos Wu Xing têm Gu de melee em todos os ranks, marcados **🔨 amplifica** ou **🗡️ entrega**, e eles já concedem o pool — o *Gu do Punho de Montanha* (Terra, rank 3) faz `4d12`, o *Gu do Manto de Carvão* (Fogo, rank 2) faz `2d12`. O que qualifica é **a função do Gu**, não o Caminho dele.
+>
+> **Na prática:** Força e Transformação são os Caminhos que fazem isso melhor e mais barato, mas um cultivador de Metal com o *Sabre de Ouro Vivo*, ou de Madeira com a *Videira-Espinho no Braço*, luta corpo a corpo com o multiplicador cheio. O pilar continua de pé — **o poder segue emprestado da criatura**, só que a criatura não precisa ser do Caminho da Força.
 
 > **A Força fica fora do pool, e isso é o pilar virando número.** *O poder não é seu — está emprestado da criatura que você carrega.* O músculo humano é o mesmo no rank 1 e no rank 9; o que cresce é o bicho. Se a Força entrasse no pool, um lutador de FOR +4 no rank 5 ganharia 64 pontos de graça por ter comprado um atributo na criação.
 

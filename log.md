@@ -764,3 +764,6 @@ Duas diretivas do autor medidas juntas (`_Processo/simulacoes/2026-08-31-decima-
 
 ## [2026-08-31] lint | Sincroniza a fórmula de Alma máxima da decisão 231 nas notas de 01 e 04
 A décima sexta rodada aplicou o nerf em ⚔️ Combate mas deixou a fórmula antiga em 15 outras notas — inclusive em [[❤️ Recursos e Dano]], que é a casa canônica dela. Sincronizadas as minhas: Recursos e Dano, Atributos e O Que Muda ao Subir. As demais (00, 02, 04-Guia, 07, _Modelos) são território da sessão paralela e foram repassadas.
+
+## [2026-08-31] crítica | O multiplicador de melee qualifica por função do Gu, não por Caminho (decisão 232)
+Verificando se a build melee nova da Lee (foice + Gu de melee Wu Xing, diretiva do autor) era sustentável, achei que a regra de [[⚔️ Combate]] dizia "Gu do Caminho da Força ou de Transformação" enquanto o [[📖 Catálogo de Gu]] já traz Gu de melee nos cinco elementos concedendo o pool (Punho de Montanha, Terra r3, faz `4d12`; Manto de Carvão, Fogo r2, faz `2d12`). A regra descrevia um sistema mais estreito que o publicado. Corrigida para "Gu que amplifique ou entregue um golpe corpo a corpo" — qualifica a função, não o Caminho. Pilar intacto (Força fora do pool, poder emprestado da criatura); Força e Transformação seguem sendo quem faz melhor e mais barato. Nenhuma simulação invalidada: o motor nunca modelou a restrição por Caminho.
