@@ -442,6 +442,11 @@ contra ele** e cobre mecanicamente metade do Buff de Lore dele · sem pegada.
 
 # 5. Resumo para o motor de simulação
 
+> [!warning] ⚠️ O ataque do Jiāotáng no rank 3 tem duas leituras, e a tabela lista as duas
+> O **Fantasma de Fera é raro por desenho** (decisão 219, e confirmado pelo autor): no rank 3 ele é **evento raro**, e só se torna confiável de dois jeitos — carregando o **Gu Lendário do Esforço Total** (rank 3), que faz o fantasma aparecer **sempre**, ou já tendo **uma quantidade muito grande de Marcas de Dao de Força no corpo**, o que é fase imortal.
+>
+> **Sem uma dessas duas coisas, o ataque do Jiāotáng de rank 3 é `4d10 + 5`, e mais nada.** A leitura com os três fantasmas é o **pico**, não a média — medida, ela faz ele bater **3,4 vezes** o Xie Lang, o que sairia da ordem de poder que o autor fixou. Quem for medir aquela célula precisa declarar qual das duas leituras está usando. *(Decisão 273.)*
+
 > [!warning] Alimente o motor com os **pools prontos** desta tabela, não com "Níveis efetivos"
 > A linha de ataque de cada rank já traz o pool final, e é ela que deve ir para o motor. **Não tente
 > derivar "quantos Níveis cada PJ tem" a partir dela** — o bônus fixo que aparece depois do `d` mistura
@@ -461,7 +466,7 @@ contra ele** e cobre mecanicamente metade do Buff de Lore dele · sem pegada.
 | R1 — RD | 1 | 2 (3 vs corte) | 1 | 1 |
 | R1 — Defesa | 15 | **13** | 13 | **16** |
 | R1 — permanentes | **nenhum** | **+1 FOR** | **nenhum** | **nenhum** |
-| **R3 — ataque principal** | `4d8` +2º alvo a metade (Disco Minguante) | 3 × `4d10` (fantasmas) + `4d10 + 5` melee | `4d12 + 4 + FOR 4` foice | `4d4` **+ até +6 de Posição/Corrente/Altitude** |
+| **R3 — ataque principal** | `4d8` +2º alvo a metade (Disco Minguante) | `4d10 + 5` melee — **e `3 × 4d10` a mais nas rodadas RARAS em que os fantasmas aparecem** ⚠️ | `4d12 + 4 + FOR 4` foice | `4d4` **+ até +6 de Posição/Corrente/Altitude** |
 | R3 — 2º recurso | `4d6` **em Alma**, ignora RD | `4d6` a 20 m (Qi de Força) | `4d12 + 4` entrega (Sabre) | `8d6`? não — só o `4d4` |
 | R3 — RD | 4 (passiva, permanente) | 0 (**nenhuma RD**) | 4 (Punho de Montanha, condicional) | 4 (quebra ao atacar) |
 | R3 — Defesa | 19 | 15 (**13** com Aríete/Correntes) | 13 | **20** |
