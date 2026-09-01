@@ -693,3 +693,22 @@ linha de Concentração sem regra fantasma, Furtividade decidindo emboscada).
 o mapa do atalho do Jiãotáng num lugar só (via de avanço em dobro, custo
 reduzido, pagar em Vitalidade, lifesteal, Manto Fervente, sangue de parente),
 📕 ancorado na citação da decisão 158, sem regra nova.
+
+## [2026-08-31] simulação | Décima terceira rodada — validação final conjunta (decisão 213)
+Validação conjunta do lote 146-212, o mesmo papel que a sexta rodada teve para
+as decisões 103-133. Motor corrigido para o **Colapso Espiritual** (decisão 205):
+Alma zerada tira o personagem da cena mas não é mais baixa, com o Teste de Morte
+físico intacto e nenhuma rolagem nova no loop — efeito medido de **0,00pp** na
+vitória do grupo nas 25 células e **+0,003 sobrevivente de 4**, porque a decisão
+206 tornou o Colapso raro. Cinco baterias em
+[[simulacoes/2026-08-31-decima-terceira-validacao-final.py]] (3.000 iterações,
+semente 20260830): mortal completa 1-5, ΔB imortal 6-9, Reis Fera, custo da
+Varredura e a decisão 211. **19 das 20 células publicadas conferem dentro de
+3pp**; o "~99%" do Rei de Cem e o "0%" do Rei de Mil sobreviveram ao piso da
+Horda. **Oito números corrigidos** em [[⚔️ Ameaças Genéricas por Rank]] e
+[[🐺 Reis Fera e a Maré]] — os dois graves são a tabela de ações do Chefe (dizia
+57% onde a tabela de composição da mesma nota dizia 3%) e a régua ΔB imortal,
+que só é dial de verdade no rank 6. Achado colateral: **o motor nunca modelou o
+bônus de treino** de [[💪 Atributos]] (+9,9pp de lacuna, mais +2,7 da decisão
+211) — fork devolvido ao autor com três saídas medidas, nada republicado, aviso
+🔴 na nota.

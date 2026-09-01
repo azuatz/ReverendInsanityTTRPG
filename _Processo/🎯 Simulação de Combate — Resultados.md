@@ -11,6 +11,8 @@ escopo: processo
 # 🎯 Simulação de Combate — Resultados
 
 > [!important] Rodada mais recente
+> A **décima terceira rodada** ([[#✅ Décima terceira rodada — validação final conjunta (2026-08-31)|2026-08-31]]) é a **validação final conjunta** do lote de decisões 146-210 — o mesmo papel que a sexta rodada teve para as 103-133. Primeiro corrige o motor, que ainda modelava **Alma zerada como morte permanente** enquanto a decisão 205 já mandava tratá-la como inconsciência (Colapso Espiritual): medido com a mesma semente nos dois modelos, o efeito é **0,00pp na vitória em 25 de 25 células** e **+0,003 sobrevivente de 4** — a decisão 206 (Alma rara) tornou o Colapso raro, e ele é relógio de campanha, não alavanca de combate. Depois confere cada número publicado: **19 das 20 células da tabela de composição batem dentro de 3pp**, o **"~99%" do Rei de Cem Feras e o "0%" do Rei de Mil sobrevivem** ao piso da Horda, e a coluna de Vitalidade da Varredura não drifou. **Oito números foram corrigidos**, dois deles graves: a **tabela de ações do Chefe** contradizia a tabela de composição da própria nota (57% contra 3% para a mesma cena de rank 1), e a **régua ΔB imortal** só é dial de verdade no **rank 6** — nos ranks 7-9 nem um inimigo três níveis acima ameaça (98% de vitória do grupo no rank 9). E ao medir a decisão 211 (bônus de treino escalado, aplicada às regras durante esta rodada) apareceu o achado que ninguém procurava: **o motor nunca modelou o bônus de treino que [[💪 Atributos]] põe na fórmula de acerto de Gu** — ligar isso move a tabela +12,6pp em média, dos quais só +2,7 são da decisão 211 e +9,9 são uma lacuna antiga. **Nada foi republicado por causa disso**: é fork de design, devolvido ao autor com três saídas medidas, e a nota ganhou um aviso 🔴.
+>
 > A **décima segunda rodada** ([[#🗡️ Décima segunda rodada — a peça de muitas ações (2026-08-31)|2026-08-31]]) mede a **opção 4** da pendência da decisão 208 — a peça de **muitas ações e pouca Vitalidade** (molde "Enxame": `7 × M` de Vitalidade, 2 ações, `M d4`, sem RD e sem especial), desenhada pelo autor para *desacoplar* duração de dificuldade. **Veredito: a hipótese não se sustenta, e nada foi aplicado.** Encurta só 5,8% (pior que a alavanca mais fraca da rodada anterior), põe Difícil em 5,8-23,8% e Clímax em 1,2-40,0% (muito fora das faixas), e deixa o penhasco de ações mais íngreme em 4 de 6 células. O achado que fecha o caso é um guarda-corpo novo: a peça é **ameaça de primeira linha ou decorativa dependendo de o grupo focá-la ou não** — 10 a 16 ações executadas se ignorada, 0,56 a 2,40 (abaixo do Recruta solto) se focada — o que faz a dificuldade da cena oscilar **16,2pp em média e até 59,3pp**, contra 3,1pp das cenas publicadas. Nenhuma Vitalidade de `7 × M` a `14 × M` satisfaz as duas metades: **a solda entre duração e dificuldade se repete dentro da própria peça.**
 >
 > A **décima primeira rodada** ([[#⏱️ Décima primeira rodada — encurtando a cena (2026-08-31)|2026-08-31]]) mede as três alavancas de encurtamento da decisão 160 **isoladas** (RD menor · mais dano por Nível · menos inimigos), contra o alvo do autor de ~4-6 rodadas e com dois guarda-corpos: a curva de letalidade da decisão 78 e o penhasco de ações da decisão 137. **Veredito: nenhuma passa limpa, e nada de motor foi aplicado.** RD menor encurta só 6-13% (mas é a única que *melhora* a fidelidade à decisão 78); mais dano por Nível encurta 13-23% reescrevendo a escada de letalidade inteira; menos inimigos encurta 25% e apaga a escada de dificuldade (Padrão vira 99-100%). O achado estrutural: **duração e dificuldade são o mesmo botão** — a cena é governada pelo número de corpos, não pela dureza deles. Menu de quatro saídas devolvido ao autor em "Em aberto".
@@ -908,6 +910,221 @@ A razão estrutural, agora medida por dentro: **a hipótese pede que a peça sej
 2. **Clímax com UM Enxame no lugar do Guerreiro (Chefe + 1 Enxame)** põe os ranks 3 e 5 dentro da faixa — **80,5% e 83,9%**, contra os 88,1% e 89,4% do Chefe + Guerreiro, que estão *acima* do teto de 87% — e corta 0,4-0,6 rodada. É o resultado mais limpo da rodada inteira. Mas o rank 1 continua em 4,3% (o 🔴 histórico do Clímax de rank 1, que a peça não resolve) e a volatilidade tática da célula é de 10,6 a 17,8pp. **Fica registrado como candidato para uma rodada futura, não aplicado aqui.**
 
 **Aplicado: nada.** O molde não entra em [[⚔️ Ameaças Genéricas por Rank]], nenhuma composição muda, nenhum número publicado é tocado. A opção 4 da pendência da decisão 208 fecha como **medida e rejeitada**, deixando as saídas 1-3 — com a saída 1 (aceitar 6-8 rodadas) já escolhida pelo autor antes desta rodada.
+
+---
+
+## ✅ Décima terceira rodada — validação final conjunta *(2026-08-31)*
+
+O lote de decisões **146-210** entrou hoje em duas sessões paralelas. Várias peças foram medidas **isoladas** e nunca juntas, e uma delas — o **Colapso Espiritual** (decisão 205) — mudou uma regra que o motor continuava modelando do jeito ANTIGO. Esta rodada faz para as decisões 146-210 o que a sexta rodada fez para as 103-133: liga tudo ao mesmo tempo e confere **cada número publicado**, célula a célula.
+
+Script: [[simulacoes/2026-08-31-decima-terceira-validacao-final.py|_Processo/simulacoes/2026-08-31-decima-terceira-validacao-final.py]] — cópia do motor da décima primeira rodada (Alma rara da decisão 206, piso de ataques da Horda e Padrão escalado da decisão 207, contagem de rodadas), com a correção do Colapso, o suporte imortal portado da oitava rodada e a instrumentação de desgaste portada da calibração da Varredura. **3.000 iterações/célula, semente `20260830`, mix de Alma C.**
+
+### 🔧 A correção que abriu a rodada — Colapso Espiritual (decisão 205)
+
+O motor tinha `pc_alive(pc) = vit > 0 and alma > 0` e contava o resultado como **baixa**: Alma zerada matava o personagem na hora, para sempre. A regra desde a decisão 205 é outra — Alma 0 é **inconsciência + Teste de Morte espiritual**, a primeira queda **nunca mata**, três degraus dão coma espiritual (ainda não é morte), e a morte real só vem numa **segunda** queda com a sequela aberta, o que por definição não cabe numa cena só.
+
+**Como foi modelado, explicitamente** — a parte que importa para ler qualquer número abaixo:
+
+| Peça | Antes | Agora |
+|---|---|---|
+| **Quem age e é alvo** | `vit > 0 and alma > 0` | **igual** — o caído por Alma sai da cena do mesmo jeito |
+| **Rolagens no loop** | — | **nenhuma nova.** O Teste de Morte espiritual não muda o combate (passando ou falhando, o personagem segue fora da cena), então o fluxo aleatório é bit-a-bit o mesmo das rodadas anteriores |
+| **O que conta como baixa** | `vit ≤ 0` **ou** `alma ≤ 0` | **só `vit ≤ 0`** — o Teste de Morte físico segue exatamente como sempre esteve |
+| **Caído por Alma** | morto | **fora da cena, vivo**, com sequela e um relógio de campanha |
+
+**A consequência tinha que ser medida, não assumida**, então a bateria mortal inteira rodou **duas vezes com a mesma semente**, com o Colapso ligado e desligado.
+
+| O que mudou | Medido |
+|---|---|
+| **Vitória do grupo** | **0,00pp de diferença em todas as 25 células** — e isso é resultado, não descuido: o caído por Alma já não agia no modelo antigo, então a condição de vitória (limpar os inimigos) não podia mudar |
+| **Sobreviventes** | **+0,003 personagem de 4, em média** (máximo **+0,013**, em Difícil de rank 1) — gente que o motor antigo matava e a decisão 205 devolve viva |
+| **Cenas com pelo menos um Colapso** | **0,0% a 1,3%** — pico em Difícil de rank 1 |
+| **Derrotas em que ninguém morreu de verdade** | **0,0%** em todas as células — nenhum "TPK" do vault era, na verdade, quatro Colapsos |
+
+**O efeito é minúsculo e o motivo é a decisão 206.** Com Alma rara (1d6 = 6 por Mestre de Gu), a especial de Alma quase não aparece: só Padrão, Padrão pesado e Difícil produzem Colapso, e Fácil (Horda, sem Alma) e Clímax (Chefe + Guerreiro, sem especial de Alma) medem **zero** em todos os ranks. **O Colapso Espiritual não é uma alavanca de combate — é um relógio de campanha**, exatamente como a decisão 205 o descreveu ao dispensar simulação própria. A correção do motor era necessária mesmo assim: o motor estava matando permanentemente personagens que a regra manda levantar.
+
+### 1️⃣ Bateria mortal completa — ranks 1-5 × 5 composições, contra o publicado
+
+| Cena | rank 1 | rank 2 | rank 3 | rank 4 *(inédito)* | rank 5 |
+|---|---|---|---|---|---|
+| **Fácil** | 100,0% | 100,0% | 100,0% | 100,0% | 100,0% |
+| **Padrão** | 92,7% | 77,0% | 86,4% | 93,4% | 98,9% |
+| **Padrão pesado** | 65,8% | 55,8% | 52,2% | 54,1% | 76,1% |
+| **Difícil** | 30,9% | **31,4%** ⚠️ | 46,0% | 61,6% | 37,4% |
+| **Clímax** *(Chefe + Guerreiro)* | 3,3% | 54,4% | 87,3% | 74,7% | 89,6% |
+
+**Veredito: 19 das 20 células publicadas conferem dentro de 3 pontos percentuais.** A maior diferença entre as que passam é de 2,8pp (Padrão pesado de rank 1), dentro do ruído de Monte Carlo que o vault já aceita.
+
+**A única que se moveu: Difícil de rank 2 — 35% publicado, 31,4% medido (−3,6pp).** Corrigida na nota para **31%**, junto com a menção de "30%/35%" no callout das duas exceções, que agora lê **31%/31%**. Não muda a leitura de design: Difícil de rank 1-2 continua sendo o quase-Clímax que a decisão 207 aceitou por escolha explícita do autor — só ficou marginalmente mais duro e mais uniforme entre os dois ranks.
+
+**Duração**: Fácil 2,5-4,6 · Padrão 6,0-7,7 · Padrão pesado 7,5-10,5 · Difícil 8,3-9,1 · Clímax 6,8-10,7. As faixas publicadas conferem; as duas pontas que se alargaram (10,5 e 9,1) são o **rank 4**, que a tabela nunca tinha medido. Timeouts ≤ 4,6% (pico no Clímax de rank 2), sem nenhum sinal de estagnação.
+
+**Achado colateral, rank 4:** a célula **Difícil de rank 4 mede 61,6%**, bem acima da faixa de 40-52% que "Difícil" promete — é o último rank que ainda usa `3 Mestres + 1 Guerreiro` antes de o rank 5 trocar para `4 Mestres` (37,4%). O degrau entre 4 e 5 é de 24pp. Nenhum número publicado está errado (a tabela nunca publicou o rank 4), então **nada foi corrigido**; fica registrado como pendência de design.
+
+### 🔴 A tabela de ações do Chefe estava contradizendo a própria nota
+
+A mesma nota publica **duas** taxas de vitória para **a mesma cena** (Chefe + 1 Guerreiro de apoio): a tabela de composição dizia `3%` 🔴 no rank 1, e a tabela "Quantas ações o Chefe tem" dizia `57%`. Remedidas as cinco:
+
+| Rank | Ações | Publicado *(tab. do Chefe)* | Medido | Δ |
+|---|---|---|---|---|
+| **1** | 4 | 57% | **3,3%** | **−53,7pp** 🔴 |
+| **2** | 2 | 62% | **54,4%** | −7,6pp |
+| **3** | 2 | 79% | **87,3%** | +8,3pp |
+| **4** | 3 | 75% | **74,7%** | −0,3pp |
+| **5** | 3 | 75% | **89,6%** | **+14,6pp** |
+
+Os números da tabela de ações eram **os mais antigos da nota inteira** — vinham da quinta rodada, antes das decisões 135-137, 206 e 207. Todos corrigidos, a linha "4–5" foi separada em duas (o rank 4 e o rank 5 divergem em 15pp), e o rank 1 ganhou um aviso próprio: **um Chefe de 4 ações no rank 1 não é um clímax, é uma execução** (0,1 personagem de pé em 3.000 cenas). A linha de leitura "7 a 10 rodadas, 56% a 80%, 1,5 a 2,1 de pé" também foi remedida para **6,8-10,7 rodadas, 54% a 90% do rank 2 em diante, 1,3 a 2,1 de pé**.
+
+### 2️⃣ Spot-check imortal — a régua ΔB da decisão 205 sobreviveu?
+
+Duas leituras, porque a régua publicada foi montada emendando duas medições diferentes da oitava rodada.
+
+**(a) A alegação de "passeio" a ΔB 0** — as 5 composições mortais rodadas nos ranks 6-9 com inimigos no mesmo nível de domínio do grupo. Estas **passam** pelas decisões 206 (Mestres de Gu) e 207 (Horda), então eram as que podiam ter mudado.
+
+> **Medido: 75,9% a 100,0%** em 20 células, contra os **77-100%** publicados. **Confirmado** — a única célula abaixo do piso publicado é o Clímax de rank 6 (75,9% contra 77%), diferença de 1,1pp. As decisões 206-207 não moveram a fase imortal.
+
+**(b) A escada ΔB 0 / +1 / +3** — a âncora de Chefe da oitava rodada (Gu Imortal `M d12`, escolta de Guerreiro no domínio do grupo), com o nível de domínio como única variável, agora nos **quatro** ranks em vez de só no rank 6:
+
+| ΔB do inimigo | rank 6 | rank 7 | rank 8 | rank 9 |
+|---|---|---|---|---|
+| **0** | 51,8% | 91,3% | 99,0% | 99,6% |
+| **+1** | **23,3%** | 79,9% | 96,5% | 99,0% |
+| **+3** | **3,1%** | 43,4% | 79,4% | 98,0% |
+
+**Veredito partido, e é o achado mais importante da rodada depois do Colapso.**
+
+- **No rank 6 a régua publicada está certa** — 23,3% contra o "~20%" e 3,1% contra o "~6%" reproduzem a medição da oitava rodada dentro da variação esperada (a diferença vem de duas escolhas de modelagem declaradas: a escolta agora fica no domínio do grupo, como a própria regra manda, e o Chefe usa a Vitalidade cheia do molde). **E ela sobreviveu às decisões 206-207 por construção**: a cena é Chefe + Guerreiro, sem nenhum Mestre de Gu e sem nenhuma Horda — nada que aquelas duas decisões tocam.
+- **Dos ranks 7 ao 9 a régua não existe.** O ΔB perde força até sumir: no rank 9, um inimigo **três níveis de domínio acima** do grupo ainda perde 98% das vezes. A causa não é nova — é a **assimetria dominante** que a oitava rodada já tinha diagnosticado (decisão 202): o acerto do inimigo escala `+1/rank` e a Defesa dos personagens `+2/rank`, então o inimigo erra tanto que nenhum bônus de dano compensa.
+
+**O que foi corrigido:** a tabela do callout imortal em [[⚔️ Ameaças Genéricas por Rank]] deixou de ser uma escada única e virou uma **matriz por rank**, com o aviso explícito de que **o ΔB só é dial de verdade no rank 6** e de que os ranks 7-9 não têm dial de dificuldade publicado — a cena ali se resolve por objetivo, terreno, Brecha ou pressão narrativa. Consertar a assimetria estrutural continua sendo a pendência aberta da decisão 202, e **nada de regra nova foi inventado aqui**.
+
+### 3️⃣ Rei de Cem Feras — o número mais suspeito do vault, e ele sobreviveu
+
+A nota [[🐺 Reis Fera e a Maré]] publica "~99% de vitória a ~55-60% da Vitalidade" para o grupo, medido **antes** do piso de ataques da Horda (decisão 207) e de Alma rara (206) — e o Rei de Cem é `Elite + Horda de 8`, ou seja, metade da força dele é exatamente a peça que a decisão 207 endureceu. Remedido em 3.000 iterações por rank (a calibração original era de 1.500, só nos ranks 2-4):
+
+| Rank | Vitória | Vitalidade perdida | Essência gasta | Rodadas |
+|---|---|---|---|---|
+| 1 | 98,5% | 46,5% | 62,3% | 5,2 |
+| 2 | 98,6% | 54,7% | 40,1% | 6,3 |
+| 3 | 99,3% | 59,3% | 22,4% | 6,9 |
+| 4 | 99,3% | 60,3% | 11,9% | 7,3 |
+| 5 | 99,8% | 54,2% | 11,8% | 7,1 |
+
+**O "~99% de vitória" está exatamente certo** (98,5-99,8%), e o custo de Vitalidade **também**, para os ranks 2-5 (54-60%). A única correção é a ponta de baixo: o **rank 1 custa 46,5% e dura 5,2 rodadas**, não os 55-60% e ~7 rodadas que a nota generalizava. A linha da tabela passou a ler **"47-60% da Vitalidade e 5 a 7 rodadas (55-60% do rank 2 em diante)"**.
+
+**Por que o piso da Horda quase não moveu o Rei:** o piso só morde quando a Horda tem **menos de dois alvos de pé** (2 ataques contra dois alvos, 3 contra um). Contra o Rei de Cem o grupo raramente chega nesse estado — ele vence com 3,4 a 3,6 personagens de pé. A decisão 207 endureceu as cenas em que a Horda **continua batendo depois que o grupo já caiu**, e essa não é uma delas.
+
+**Rei de Mil:** **0,0% em todos os cinco ranks**, sem exceção. O "um grupo sozinho NUNCA vence" da nota está literalmente certo, e continua batendo com o cânone dos três grupos.
+
+**A regra de ondas, porém, moveu** — e essa era pré-207 de verdade:
+
+| Hordas simultâneas | rank 1 | rank 2 | rank 3 | rank 4 | rank 5 |
+|---|---|---|---|---|---|
+| **2× Horda de 8** *(publicado: 83/56/36 nos ranks 2/3/4)* | 97,1% | **78,3%** | **47,1%** | **29,2%** | 46,1% |
+| **3× Horda de 8** *(publicado: 0%)* | **16,5%** | 0,1% | 0,0% | 0,0% | 0,0% |
+
+Duas ondas simultâneas caíram **5 a 9 pontos** em relação ao publicado — aqui o piso de ataques morde, porque com duas hordas o grupo perde gente rápido e a horda passa a atacar uma mesa de dois ou de um. Corrigido para **78/47/29/46** (ranks 2/3/4/5). E "três ao mesmo tempo = 0%" vale **do rank 2 em diante**; no rank 1, com a horda mais fraca do jogo, o grupo ainda arranha **16,5%** — a nota agora diz isso.
+
+### 4️⃣ A tabela de custo da Varredura, recalibrada
+
+Uma onda de Horda de 8 limpa, que é a média de onde a tabela inteira deriva:
+
+| Rank | Vitalidade perdida | Essência gasta | Rodadas |
+|---|---|---|---|
+| 1 | 15,4% | 32,8% | 2,5 |
+| 2 | 23,4% | 23,6% | 3,5 |
+| 3 | 28,5% | 14,1% | 4,1 |
+| 4 | 32,1% | 7,9% | 4,5 |
+| 5 | 29,5% | 7,9% | 4,6 |
+
+**Média: 25,8% de Vitalidade, 17,3% de essência, 3,8 rodadas.** A faixa de Vitalidade publicada no rodapé da nota (23-32%) precisa virar **15-32%**: o rank 1 é bem mais barato do que a calibração de 1.500 iterações nos ranks 2-4 conseguia ver.
+
+Aplicando a mesma regra de escala que a nota declara (a linha "2-3 passaram" é a média, as outras escalam dela em 0,6× e 1,6×):
+
+| Resultado | Vitalidade publicada → medida | Essência publicada → medida |
+|---|---|---|
+| **4 passaram** | 15% → **15%** ✅ | 10% → **12%** |
+| **2-3 passaram** | 25% → **26%** ✅ | 15% → **17%** |
+| **1 passou** | 40% → **41%** ✅ | 20% → **23%** |
+
+**A coluna que importa — Vitalidade — não drifou** (≤ 1,2pp em três linhas). A de essência subiu 2-3 pontos e foi corrigida para **12/17/23**. O acúmulo entre ondas do limite 3 ("três ondas varridas custam ~45-75% da Vitalidade") continua valendo: 3 × 15,5% a 3 × 25,8% dá 46-77%.
+
+### 5️⃣ A decisão 211 medida — e a lacuna de treino que ela revelou
+
+A decisão **211** (bônus de treino escalado, `+2` subindo `+1` a cada rank par até `+6`) entrou nas regras **hoje, durante esta rodada**, aplicada antes de simulação por pedido do autor e com a obrigação explícita registrada no Log: *"a próxima rodada deve medir"*. Esta é a próxima rodada.
+
+Ao ligar o knob apareceu uma coisa mais antiga que a decisão 211. **O motor de todas as treze rodadas modela `treino = 0`**: o acerto de PJ é `d20 + atributo + 2×rank + 2`, que decompõe exatamente em `(rank + 2) + rank do Gu` — sem treino nenhum. Mas [[💪 Atributos]] traz `+ treino` na fórmula de **acerto de Gu** desde muito antes da decisão 211, quando o bônus era `+2` fixo. **Os números publicados nunca modelaram o bônus de treino.**
+
+Quatro configurações, mesma semente, ranks 1-5 × 5 composições:
+
+| Configuração | Swing médio | Máximo | O que é |
+|---|---|---|---|
+| **`+2` fixo** *(a regra pré-211)* | **+9,9pp** | +21,4pp | A lacuna antiga do motor |
+| **escalado, só PJ** *(a decisão 211 como publicada)* | **+12,6pp** | **+30,9pp** | O total |
+| **escalado vs. `+2` fixo** | **+2,7pp** | +10,0pp | A decisão 211 propriamente dita |
+| **escalado, simétrico** *(PJ + inimigo)* | **−8,3pp** | −56,2pp | A correção candidata que a própria 211 nomeia |
+
+**A leitura que muda a conversa: a decisão 211 é o menor dos dois problemas.** Ela sozinha vale +2,7pp em média — dentro do ruído que o vault já trata como aceitável. Os outros +9,9pp são uma lacuna de modelagem que estava lá desde a primeira rodada.
+
+As células que mais doem, para dimensionar: **Difícil de rank 2 iria de 31% para 62%** e **Clímax de rank 2 de 54% para 85%** com o treino ligado só no lado dos PJs. Uma tabela de composição em que "Difícil" mede 46-86% não é mais uma tabela de dificuldade.
+
+**E a correção óbvia corrige demais.** Dar aos moldes de inimigo a mesma escada de treino devolve a média para perto do publicado (−8,3pp), mas com uma variância inaceitável: as cenas homogêneas mal se movem (Padrão: +1,4 a −4,9pp) enquanto as cenas com Horda desabam — **Padrão pesado de rank 5 vai de 76% para 19,8% (−56,2pp)** e Difícil de rank 5 para 3,3%. A causa é aritmética simples: a Horda rola um ataque **por personagem de pé** (com o piso da decisão 207), então somar `+4` de acerto a ela multiplica muito mais rolagens do que somar `+4` ao grupo.
+
+**Mas o mesmo botão conserta os imortais.** A correção simétrica é justamente o que a bateria 2 mostrou faltar nos ranks 7-9:
+
+| Cena imortal | sem treino | só PJ | **simétrico** |
+|---|---|---|---|
+| rank 7, ΔB +3 | 43,4% | 63,2% | **3,8%** |
+| rank 8, ΔB +3 | 79,4% | 87,2% | **9,4%** |
+| rank 9, ΔB +1 | 99,0% | 99,4% | **84,3%** |
+| rank 9, ΔB +3 | 98,0% | 98,0% | **63,3%** |
+
+O treino simétrico é a primeira coisa medida no vault que **devolve dificuldade à fase imortal** — exatamente o conserto que a decisão 202 deixou em aberto e que a decisão 211 previu ao dizer que os moldes precisariam da mesma escada. E o lado "só PJ" confirma o alerta da 211 palavra por palavra: **agrava** o colapso (rank 6, ΔB +1: 23,3% → 51,8%).
+
+> [!danger] 🔴 Nada foi republicado — e isso é deliberado
+> Este é um **fork de design, não uma correção mecânica**, pelos critérios que o vault já usa (decisões 154, 202, 206). Republicar a tabela com o treino ligado exigiria decidir, no lugar do autor, **se um ataque de Gu em combate conta como ação treinada** — e [[🎯 Perícias]] diz que perícia não rola em combate, o que empurra para "não". Aplicar a correção simétrica no escuro trocaria um desequilíbrio por outro, que é literalmente o que a decisão 211 se recusou a fazer.
+>
+> A tabela de [[⚔️ Ameaças Genéricas por Rank]] continua publicando os números **sem treino dos dois lados** — internamente consistentes, e a mesma premissa das treze rodadas — com um aviso 🔴 na própria nota. O menu foi devolvido ao autor.
+
+### 🛡️ Guarda-corpo — a curva de letalidade da decisão 78
+
+Rerodada por segurança, já que a rodada mexeu no motor: `d6 5,16 · d8 4,01 · d10 3,27 · d12 2,76`, **razão d6/d12 = 1,87** contra a 1,86 publicada. Intacta.
+
+### ✅ O veredito da rodada
+
+**O que se manteve:**
+
+1. **19 das 20 células da tabela de composição**, dentro de 3pp, com todas as regras de hoje ligadas ao mesmo tempo.
+2. As **faixas de duração** publicadas, e a ausência total de estagnação (timeout ≤ 4,6%).
+3. O **"~99%" do Rei de Cem Feras** e o **"0%" do Rei de Mil** — o par de números que a rodada mais esperava ver quebrar.
+4. A coluna de **Vitalidade** da tabela de custo da Varredura.
+5. A **régua ΔB no rank 6**, e a alegação de "passeio a ΔB 0" nos ranks 6-9.
+6. A **curva de letalidade da decisão 78**.
+
+**O que a rodada descobriu que ninguém procurava:** o motor nunca modelou o **bônus de treino** que [[💪 Atributos]] põe na fórmula de acerto de Gu — uma lacuna de +9,9pp em média, mais velha que qualquer decisão deste lote, encontrada só porque a decisão 211 obrigou a olhar para aquela linha. Ver a bateria 5.
+
+**O que se moveu e foi corrigido:**
+
+| Onde | De | Para |
+|---|---|---|
+| Composição, Difícil rank 2 | 35% | **31%** |
+| Tabela de ações do Chefe (5 linhas) | 57/62/79/75/75 | **3/54/87/75/90**, com a linha "4–5" separada e um aviso no rank 1 |
+| Leitura do Clímax | "7-10 rodadas, 56-80%, 1,5-2,1 de pé" | **6,8-10,7 rodadas, 54-90% do rank 2 em diante, 1,3-2,1 de pé** |
+| Régua ΔB imortal | escada única (0 / +1 / +3) | **matriz por rank**, com o aviso de que só o rank 6 tem dial |
+| Rei de Cem Feras | "~55-60% da Vitalidade, ~7 rodadas" | **47-60% e 5-7 rodadas** (55-60% do rank 2 em diante) |
+| Ondas simultâneas | 83/56/36 (ranks 2/3/4) | **78/47/29/46** (ranks 2/3/4/5); "3× = 0%" só do rank 2 em diante |
+| Varredura, faixa medida | 23-32% de Vitalidade | **15-32%** |
+| Varredura, coluna de essência | 10/15/20 | **12/17/23** |
+
+**O efeito do Colapso Espiritual, medido:** **zero** na vitória do grupo (25 de 25 células), **+0,003 sobrevivente de 4** em média, e **0,0-1,3%** de cenas com pelo menos um Colapso. É a interação com a decisão 206 funcionando como previsto — Alma rara torna o Colapso raro. **A correção do motor era necessária mesmo assim**, porque o motor estava contabilizando como morte permanente uma coisa que a regra manda levantar; o que ela não é, é uma mudança de balanceamento.
+
+**Nenhuma regra nova foi criada nesta rodada.** Tudo o que mudou foi número publicado alinhado à medição, e dois avisos: um onde a nota contradizia a si mesma (ações do Chefe), outro onde ela contradiz [[💪 Atributos]] (o bônus de treino, abaixo).
+
+### 📌 Três pendências de design que a rodada deixa (nenhuma resolvida aqui)
+
+1. 🔴 **O bônus de treino, e o que fazer com ele** — a maior das três, e a única que invalida números publicados. Três saídas, todas medidas acima: **(a)** declarar que ataque de Gu em combate **não** é ação treinada (a tabela publicada fica certa como está, e [[💪 Atributos]] ganha essa ressalva na fórmula de acerto); **(b)** ligar o treino **só nos PJs** e republicar a tabela +12,6pp acima, aceitando que "Difícil" passa a medir 46-86%; **(c)** ligar **simétrico**, que salva a média mortal e **conserta a fase imortal**, mas derruba Padrão pesado de rank 5 em 56pp e exige recompor as cenas com Horda. A opção (c) é a única que resolve duas pendências de uma vez.
+2. **Difícil de rank 4 mede 61,6%**, contra a faixa de 40-52% — o degrau para o rank 5 (`4 Mestres`, 37,4%) é de 24pp. Precisa de composição própria para o rank 4, ou de aceitar mais uma exceção documentada?
+3. **Os ranks 7-9 não têm dial de dificuldade.** É a pendência da decisão 202 revivida com número novo: nem o ΔB resolve lá em cima. Escalar o acerto dos moldes imortais para `+2/rank` (a paridade com a Defesa dos PJs) devolveria a fase mortal, como a oitava rodada mediu — e a opção (c) da pendência 1 é uma forma concreta de fazer isso. Mas é mudança de regra, e é do autor.
 
 ---
 

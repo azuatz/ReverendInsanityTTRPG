@@ -123,15 +123,19 @@ Um único inimigo contra um grupo perde a ação por turno na maioria dos sistem
 
 | Rank do Chefe | Ações por rodada | Vitória do grupo *(mesa de 4, com 1 Guerreiro de apoio)* |
 |---|---|---|
-| **1** | **4** | 57% |
-| **2** | **2** | 62% |
-| **3** | **2** | 79% · com 3 ações vira 45%, que é o clímax mais duro do jogo |
-| **4–5** | **3** | 75% |
-| **6+** | **4** | não simulado |
+| **1** | **4** | **3%** 🔴 — não é clímax, é execução (ver abaixo) |
+| **2** | **2** | 54% |
+| **3** | **2** | 87% · com 3 ações vira 45%, que é o clímax mais duro do jogo |
+| **4** | **3** | 75% |
+| **5** | **3** | 90% |
+| **6+** | **4** | ver a régua ΔB dos imortais, mais abaixo |
 
-**Por que não é uma escala limpa.** A dificuldade de um Chefe não é governada por ele, e sim por **quantos Golpes Matadores o grupo consegue pagar naquele rank**. No rank 1 ninguém paga um, e o Chefe precisa de 4 ações para ameaçar. Nos ranks 2 e 3 o grupo paga um combo cada, esvazia o tanque, e **duas ações do Chefe já bastam**. Do rank 4 em diante o combo fica barato de novo e o Chefe precisa de 3. A tabela acima é medida, não deduzida — use os números dela e ignore a intuição.
+> [!warning] O Chefe de rank 1 com 4 ações mata a mesa
+> Remedido na décima terceira rodada: **3%** de vitória do grupo, com **0,1 personagem de pé** — o mesmo 🔴 que a tabela de composição já marca. No rank 1 o grupo não paga nenhum Golpe Matador e não tem arsenal pra amortecer quatro ações por rodada. **Use a variante "1 Elite + 3 Mestres" para o clímax de rank 1**, ou reduza o Chefe a 2 ações e aceite uma cena mais curta. A linha de 4 ações fica registrada porque é o número que a quinta rodada mediu como "necessário pra ameaçar" — e a décima terceira mostra que ele ameaça demais.
 
-**Onde isso cai, medido:** contra uma mesa de 4 do mesmo rank, um Chefe com as ações da tabela acima mais um Guerreiro de apoio é uma luta de **7 a 10 rodadas** que o grupo ganha em **56% a 80% das vezes**, terminando com **1,5 a 2,1 personagens de pé**. Esse é o alvo de um clímax de arco. Para apertar sem sair do jogável, **suba a Vitalidade do Chefe** (`63 × M` → `94 × M`) em vez de subir o rank dele: alonga a luta sem dobrar o dano que entra no grupo. Subir pra 4 ações por rodada leva a vitória do grupo pra ~50% e é o teto do que a mesa aguenta.
+**Por que não é uma escala limpa.** A dificuldade de um Chefe não é governada por ele, e sim por **quantos Golpes Matadores o grupo consegue pagar naquele rank**. No rank 1 ninguém paga um — por isso 4 ações ali não ameaçam, **atropelam** (é o aviso acima). Nos ranks 2 e 3 o grupo paga um combo cada, esvazia o tanque, e **duas ações do Chefe já bastam**. Do rank 4 em diante o combo fica barato de novo e o Chefe precisa de 3. A tabela acima é medida, não deduzida — use os números dela e ignore a intuição.
+
+**Onde isso cai, medido:** contra uma mesa de 4 do mesmo rank, um Chefe com as ações da tabela acima mais um Guerreiro de apoio é uma luta de **6,8 a 10,7 rodadas**. Do rank 2 em diante o grupo ganha em **54% a 90% das vezes**, terminando com **1,3 a 2,1 personagens de pé** — esse é o alvo de um clímax de arco. **O rank 1 é a exceção que o aviso acima trata** (3%, 0,1 de pé). Para apertar sem sair do jogável, **suba a Vitalidade do Chefe** (`63 × M` → `94 × M`) em vez de subir o rank dele: alonga a luta sem dobrar o dano que entra no grupo. Subir pra 4 ações por rodada leva a vitória do grupo pra ~50% e é o teto do que a mesa aguenta.
 
 ## Referência rápida por rank (M já aplicado)
 
@@ -154,21 +158,31 @@ Os números entre parênteses são a **vitória medida do grupo** numa mesa de 4
 | **Fácil** | Horda de 8 *(100%)* | Horda de 8 *(100%)* | Horda de 8 *(100%)* | Horda de 8 *(100%)* |
 | **Padrão** | **2 Mestres + 1 Guerreiro** *(92%)* | 3 Mestres de Gu *(77%)* | idem *(85%)* | idem *(99%)* |
 | **Padrão pesado** | 2 Mestres + Horda de 8 *(63%)* | idem *(57%)* | idem *(50%)* | idem *(76%)* |
-| **Difícil** | 3 Mestres + 1 Guerreiro *(30%)* | idem *(35%)* | idem *(46%)* | 4 Mestres *(38%)* |
+| **Difícil** | 3 Mestres + 1 Guerreiro *(31%)* | idem *(31%)* | idem *(46%)* | 4 Mestres *(37%)* |
 | **Clímax** | 1 Elite especial + 3 Mestres *(68%)*✝, ou Chefe + Guerreiro *(3%)* 🔴 | idem, Chefe + Guerreiro *(54%)* | 1 Elite especial + 3 Mestres *(44%)*✝, ou Chefe + Guerreiro *(86%)* | 1 Elite especial + 3 Mestres *(46%)*✝, ou Chefe + Guerreiro *(90%)* |
 
 *(✝ não retestado desde a terceira rodada — e sob a regra de Alma rara os 3 Mestres dessa variante também mudam de especial, então o número está duplamente desatualizado.)*
 
+> [!success] Tabela revalidada em conjunto — décima terceira rodada (2026-08-31)
+> As 20 células publicadas acima foram remedidas de uma vez só, com todas as regras de hoje ligadas ao mesmo tempo (3.000 iterações/célula). **Dezenove conferem dentro de 3 pontos percentuais**; a única que se moveu foi **Difícil de rank 2 (35% → 31%)**, corrigida acima. As faixas de duração também conferem. Ver [[🎯 Simulação de Combate — Resultados#✅ Décima terceira rodada — validação final conjunta (2026-08-31)|a décima terceira rodada]].
+
+> [!warning] 🔴 Estes números não incluem o bônus de treino — e o de [[💪 Atributos]] diz que deveriam
+> A mesma rodada descobriu que **o motor de simulação sempre modelou `treino = 0` no acerto** (`d20 + atributo + 2×rank + 2` é `(rank+2) + rank do Gu`, sem treino), enquanto a fórmula de acerto de Gu em [[💪 Atributos]] sempre trouxe `+ treino`. Medido: **ligar o treino move a tabela acima +12,6 pontos percentuais em média, até +30,9** — Difícil de rank 2 saltaria de 31% para 62%, Clímax de rank 2 de 54% para 85%. Decompondo, **+9,9pp são a lacuna antiga do motor** (treino +2 fixo) e **+2,7pp são a escada da decisão 211**.
+>
+> **Não é uma correção mecânica**, por dois motivos, e por isso nada foi republicado: (1) depende de uma leitura de regra que é do autor — um ataque de Gu em combate conta como ação *treinada*? ([[🎯 Perícias]] diz que perícia não rola em combate); (2) a correção óbvia — dar a mesma escada aos moldes de inimigo — foi medida e **corrige demais**: −8,3pp em média, mas até **−56pp** nas cenas com Horda, porque a Horda rola muito mais ataques por rodada que o grupo.
+>
+> **Enquanto o autor não decide, leia esta tabela como "sem treino dos dois lados"** — ela é internamente consistente, e é a mesma premissa de todas as 13 rodadas de simulação. Números e o menu de saídas em [[🎯 Simulação de Combate — Resultados#5️⃣ A decisão 211 medida — e a lacuna de treino que ela revelou|a décima terceira rodada]].
+
 **A linha de "Padrão pesado" caiu 8-13 pontos porque o piso de ataques da Horda a endurece** — os 71/64/63/85 anteriores eram medição feita **antes** do piso. Remedida na décima primeira rodada de simulação: 63% · 57% · 50% · 76%. É a única cena da tabela que o piso move de verdade (as outras quatro conferem com o publicado dentro de 1,5 ponto), porque é a única em que a Horda é metade da força inimiga.
 
-**Quanto tempo a cena dura, medido:** Fácil 2,5-4,6 rodadas · Padrão 6,0-7,7 · Padrão pesado 7,6-10,4 · Difícil 8,3-8,9 · Clímax 6,8-10,7. Se a mesa quiser cenas curtas, o botão **não** é dano nem RD — é o número de peças, e ele é o mesmo botão da dificuldade (ver [[🎯 Simulação de Combate — Resultados#⏱️ Décima primeira rodada — encurtando a cena (2026-08-31)|a décima primeira rodada]]).
+**Quanto tempo a cena dura, medido** *(ranks 1 a 5)*: Fácil 2,5-4,6 rodadas · Padrão 6,0-7,7 · Padrão pesado 7,5-10,5 · Difícil 8,3-9,1 · Clímax 6,8-10,7. Se a mesa quiser cenas curtas, o botão **não** é dano nem RD — é o número de peças, e ele é o mesmo botão da dificuldade (ver [[🎯 Simulação de Combate — Resultados#⏱️ Décima primeira rodada — encurtando a cena (2026-08-31)|a décima primeira rodada]]).
 
 **Os números acima já assumem a regra de Alma rara** (décima rodada de simulação): todo Mestre de Gu com a Ação Especial do próprio Caminho, e o cultivador de Alma entrando só pela exceção rolada de 1d6 (ver o molde acima). Contraintuitivo mas medido: **tirar o Alma do padrão deixou as cenas um pouco MAIS difíceis, não mais fáceis** (2-10 pontos) — uma especial de Alma isolada gasta o golpe numa barra que nada mais ataca, enquanto a especial física soma no foco de fogo e aplica Lentidão com mais frequência. Histórico completo em [[🎯 Simulação de Combate — Resultados#🔇 Décima rodada — Alma rara entre inimigos (2026-08-31)|a décima rodada]].
 
 > [!note] Duas exceções por rank, e as duas são deliberadas
 > **Padrão muda de composição no rank 1** (2 Mestres + 1 Guerreiro em vez de 3 Mestres) pelo mesmo motivo que Difícil já muda desde a decisão 137: o penhasco de volume de ações não deixa composição intermediária, e 3 Mestres no rank 1 dão 62% — abaixo da faixa de 75-99% que "Padrão" promete. Do rank 2 em diante, 3 Mestres volta a ser a composição certa.
 >
-> **Difícil nos ranks 1-2 (30%/35%) é quase-Clímax, e está aceito assim** (decisão do autor): nessa faixa o grupo ainda não tem arsenal pra amortecer 7 ações por rodada, e a cena Difícil de rank baixo é legitimamente a mais perigosa da fase inicial. Se a mesa quiser algo mais suave ali, use Padrão pesado (63%/57%) — não existe degrau entre os dois com as peças atuais.
+> **Difícil nos ranks 1-2 (31%/31%) é quase-Clímax, e está aceito assim** (decisão do autor): nessa faixa o grupo ainda não tem arsenal pra amortecer 7 ações por rodada, e a cena Difícil de rank baixo é legitimamente a mais perigosa da fase inicial. Se a mesa quiser algo mais suave ali, use Padrão pesado (63%/57%) — não existe degrau entre os dois com as peças atuais.
 
 **Clímax é o único nível onde uma cena inteira de cultivadores de Alma é intencional.** É lá, e só lá, que o alfa-strike total contra as quatro barras de Alma do grupo deve acontecer — a promessa do Caminho da Alma ("ignora RD por completo", [[👻 Caminho da Alma]]) continua absoluta; a regra de Alma rara muda a **frequência** do inimigo de Alma, não o poder dele. Fora do Clímax, cultivador de Alma inimigo é a exceção de 1d6 do [[#🧑‍🦱 Mestre de Gu — o inimigo humano|Mestre de Gu]] mais acima.
 
@@ -222,15 +236,33 @@ Um Imortal não se descreve só pelo rank. Declare **rank + nível de domínio n
 > dificuldade lá é **uma coisa só: o diferencial de nível de domínio (ΔB)**
 > entre o inimigo e o grupo:
 >
-> | ΔB do inimigo vs. o grupo | Vitória do grupo *(medida)* | Use como |
-> |---|---|---|
-> | **igual (ΔB 0)** | 77-100% — passeio | Fácil / cena de abertura, em qualquer quantidade razoável |
-> | **+1 nível de domínio** | **~20%** | A cena Difícil imortal — um inimigo só já basta |
-> | **+3 níveis** | **~6%** | Sentença. Fuga, negociação, ou Golpe Matador com a Brecha descoberta |
+> | ΔB do inimigo vs. o grupo | **rank 6** | **rank 7** | **rank 8** | **rank 9** |
+> |---|---|---|---|---|
+> | **igual (ΔB 0)** | 52% | 91% | 99% | 99,6% |
+> | **+1 nível de domínio** | **23%** | 80% | 96% | 99% |
+> | **+3 níveis** | **3%** | 43% | 79% | 98% |
 >
 > Monte a cena imortal escolhendo o ΔB do inimigo principal, não contando
 > cabeças. Escolta (Guerreiros/Hordas do rank) é textura — não muda a conta.
 > A fase mortal (ranks 1-5) segue a tabela de composição normalmente.
+>
+> **Mas o ΔB só é um dial de verdade no rank 6.** A escada acima foi medida na
+> décima terceira rodada com o Chefe imortal (Gu Imortal `M d12`) e o domínio
+> como única variável: no rank 6 ela entrega a régua clássica (passeio →
+> difícil → sentença), e **do rank 7 em diante ela vai perdendo força até
+> sumir** — no rank 9 nem um inimigo três níveis acima ameaça (98%). A causa é
+> a assimetria que a oitava rodada já tinha diagnosticado: o acerto do inimigo
+> escala `+1/rank` e a Defesa dos personagens `+2/rank`, então o inimigo passa
+> a errar tanto que nenhum bônus de dano compensa.
+>
+> **Na prática:** rank 6 se dosa por ΔB · ranks 7-9 **não têm dial de
+> dificuldade publicado** — a cena ali se resolve por objetivo, terreno,
+> Golpe Matador com a Brecha ou pressão narrativa, nunca por ficha de
+> oponente. Consertar isso (escalar o acerto dos moldes imortais? tabela
+> própria pro rank 7+?) é a pendência aberta da decisão 202.
+>
+> *(As 5 composições mortais rodadas a ΔB 0 nos ranks 6-9 medem 76-100% de
+> vitória — a alegação de "passeio" da oitava rodada continua de pé.)*
 
 **Imortal Recém-Ascendido (Elite, rank 6, Vislumbre)** — VIT `21 × 32` = 672, Defesa 20, RD 64, Gu Imortal de ataque `32d8` no passo padrão. Perigoso, mas ainda "novo".
 
