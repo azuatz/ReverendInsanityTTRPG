@@ -213,7 +213,12 @@ Um Imortal de Oitavo Giro só se torna Venerável cumprindo **todas** estas cond
 
 1. Já produzir Essência Imortal de Lichia Branca (ou seja, estar de fato no Oitavo Giro).
 2. Ter pelo menos 300 mil Marcas de Dao no seu Caminho principal.
-3. Ter atingido, nesse Caminho, o nível de domínio de **Grande Mestre Supremo** (ver [[🛤️ Os Caminhos|Os Caminhos]]).
+3. Ter atingido, nesse Caminho, o nível de domínio de **Grande Mestre Supremo** ([[☯️ Marcas de Dao|Marcas de Dao]]).
+
+> [!important] As condições 2 e 3 são coisas **diferentes**, e é aí que a maioria falha
+> Elas parecem redundantes e não são: **Marcas são estoque, Domínio é compreensão**, e desde a decisão 254 os dois eixos sobem por caminhos separados. Juntar 300.000 Marcas é questão de séculos e de sobreviver; chegar a Grande Mestre Supremo é questão de **entender o Caminho**, e não acontece por acúmulo nenhum.
+>
+> O romance mostra exatamente esse fracasso: um candidato que **tinha as Marcas** e mesmo assim não ascendeu, porque lhe faltava o domínio. **É a forma mais comum de um Imortal poderosíssimo nunca virar Venerável** — e é o tema do romance dito em regra: compreender vale mais que possuir.
 4. Romper o bloqueio do Dao Celestial — uma provação ainda mais brutal que a Calamidade das Dez Mil Calamidades.
 
 Cumprir três das quatro e falhar na última é uma tragédia de campanha em si — existe precedente narrativo de cultivadores poderosíssimos que nunca conseguiram completar a quarta condição.

@@ -18,7 +18,25 @@ Uma Marca de Dao é um fragmento de lei do mundo impresso no corpo e na Abertura
 
 ---
 
-## A escada de domínio
+## Dois eixos, e eles não são a mesma coisa
+
+> [!important] 📕 Marcas são estoque; Domínio é compreensão — e o romance separa os dois
+> Esta nota tratava **contagem de Marcas** e **nível de domínio** como se fossem o mesmo número, com o domínio saindo direto da contagem. **Na obra são eixos independentes que se cruzam** (decisão 254): as Marcas são o **estoque de lei** que você acumulou; o domínio — *attainment* — é a **habilidade de manipular** esse estoque. Ter muito e entender pouco é possível, e o contrário também.
+>
+> O cânone dá os dois casos com todas as letras. Um cultivador que **pilha** Marcas de Caminhos que não cultiva fica com dezenas de milhares delas e compreensão nenhuma naquilo. E um candidato a Venerável chegou a ter **Marcas suficientes** do Caminho e mesmo assim não ascendeu, porque lhe faltava o **attainment**. As duas coisas sobem de formas diferentes: **Marca se acumula, degrau a degrau; domínio sobe em salto**, quando o cultivador entende algo que não entendia — herdar um Significado Verdadeiro leva alguém de medíocre a quase-supremo de uma vez.
+>
+> **Por que separar importa mais do que parece:** é o tema central do romance virando regra. *Compreender vale mais que possuir* — e enquanto os dois eixos eram um só, o sistema dizia o contrário, que basta juntar bastante coisa.
+
+**O que cada eixo governa:**
+
+| Eixo | Como sobe | O que dá |
+|---|---|---|
+| **Marcas no Caminho** *(estoque)* | Acúmulo — Calamidades, refino, uso pesado, anexação | **Níveis de Potência**: quanto o seu Gu daquele Caminho machuca |
+| **Domínio** *(compreensão)* | **Feitos de entendimento**, em salto — nunca por contagem | **Capacidades**: o que você consegue *fazer* com o Caminho, incluindo o que refina e o que cria |
+
+**As duas tabelas abaixo são desses dois eixos**, e é por isso que um personagem pode estar alto numa e baixo na outra.
+
+### O eixo do estoque — Marcas e Níveis
 
 O que importa não é o total de Marcas, e sim **quantas você tem no Caminho específico** que está usando. Um Imortal com 40.000 Marcas espalhadas por cinco Caminhos é fraco em todos os cinco; um com 40.000 num Caminho só é um monstro naquele Caminho e um zé-ninguém fora dele.
 
@@ -93,9 +111,18 @@ Um Nível de Potência age na **face que o Gu tem**. Um Gu de ataque ganha dano;
 >
 > Ela não virou redundante, mudou de função. Passou a ser **o atalho de quem não quer esperar** — e a única rota viável pros patamares que o excesso não alcança: chegar a **Grão-Mestre** (50.000) ainda no rank 6 significaria cinco vezes o topo da faixa, com a Vontade do Céu escalada nesse nível o tempo todo. Ninguém sobrevive a isso por acúmulo. Sobrevive por compreensão.
 
-### O que cada nível destrava além do dano
+### O eixo da compreensão — Domínio e o que ele destrava
 
-Os Níveis de Dano são o efeito óbvio. Os interessantes são estes — e é aqui que o domínio deixa de ser uma barra de poder e vira **capacidade de fazer coisas que ninguém mais faz**:
+**Este é o outro eixo, e ele não sobe por contagem.** O Domínio mede o quanto você **entende** o Caminho, e sobe **em salto**, quando a mesa reconhece um feito real de compreensão — resolver um problema do Caminho que ninguém resolveu, sobreviver a uma revelação sobre a natureza dele, herdar o Significado Verdadeiro de quem o dominava. Nunca por acúmulo.
+
+```
+Marcas sobem sozinhas, com o tempo e o risco.
+Domínio só sobe quando o personagem entende alguma coisa.
+```
+
+**Um cultivador comum termina a carreira com muito estoque e pouco domínio** — é o padrão do mundo, e é por isso que Grão-Mestres são raros num mundo cheio de Imortais velhos. **O gênio pobre é o inverso**, e está logo abaixo.
+
+É aqui que o Caminho deixa de ser uma barra de poder e vira **capacidade de fazer coisas que ninguém mais faz**:
 
 | Nível | Capacidade destravada |
 |---|---|
@@ -108,9 +135,9 @@ Os Níveis de Dano são o efeito óbvio. Os interessantes são estes — e é aq
 
 **A leitura de mesa:** a partir de Mestre, o personagem para de depender do que carrega. Um Grão-Mestre do Caminho da Lua num campo de batalha **não precisa dos Gu dele** pra ser perigoso — ele improvisa com o que estiver caído no chão. É a diferença entre ter ferramentas e ser a oficina.
 
-### O gênio pobre — compreensão acima da contagem
+### O gênio pobre — e por que ele deixou de ser exceção
 
-Marca é estrutura física, mas **entendimento não é a mesma coisa que músculo**. Um personagem pode operar **acima** do que a contagem de Marcas dele indica, se a mesa reconhecer um feito real de compreensão: resolver um problema do Caminho que ninguém resolveu, sobreviver a uma revelação sobre a natureza dele, ou herdar o Significado Verdadeiro de alguém que o dominava.
+Marca é estrutura física, mas **entendimento não é a mesma coisa que músculo**. Esta regra nasceu como exceção, para permitir que alguém operasse **acima** da própria contagem — e com os dois eixos separados (decisão 254) ela deixa de ser exceção e passa a ser **o mecanismo normal pelo qual o Domínio sobe**. O personagem avança quando a mesa reconhece um feito real de compreensão: resolver um problema do Caminho que ninguém resolveu, sobreviver a uma revelação sobre a natureza dele, ou herdar o Significado Verdadeiro de alguém que o dominava.
 
 **Cada feito reconhecido sobe um nível de domínio, e eles empilham** — até dois níveis acima da contagem real, cada salto exigindo o seu próprio feito, distinto e memorável. Ele ganha **os Níveis de Dano** do nível emprestado — mas **não** o que depende de estrutura física: refino de Gu Imortal de rank mais alto e anexação de Abertura continuam travados na contagem real.
 
