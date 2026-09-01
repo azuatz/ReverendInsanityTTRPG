@@ -23,12 +23,31 @@ DANO = M d(dado do Caminho)  +  (M × B)
 
 M  = quantos dados      → o rank DO GU        (1·2·4·8·16·32·64·128·256)
 d? = qual dado          → o Caminho do Gu     (d6 · d8 · d10 · d12)
-B  = bônus POR DADO     → Densidade da Essência + Níveis de Dano excedentes
+B  = bônus POR DADO     → Densidade da Essência + Níveis de Potência excedentes
 ```
 
 Na mesa isso é uma frase só: **"role seus dados, e some o número de dados vezes o seu bônus por dado."**
 
 Um Gu de Alma de rank 3 (M = 4, Caminho d12) de um cultivador no estágio Alto (B = 2) causa `4d12 + 8` — de 12 a 56, média 34.
+
+### 🎯 O teto de 16 dados — pra ninguém rolar 256
+
+**Nenhum pool passa de 16 dados. O M excedente vira bônus fixo, a `6,5 por dado` que sobrou.**
+
+```
+Se M ≤ 16 → role M dados, como sempre
+Se M > 16 → role 16 dados + (M − 16) × 6,5 de bônus fixo
+```
+
+| Rank | M | Sem teto | **Com teto** | Média |
+|---|---|---|---|---|
+| 3 | 4 | `4d12` | **`4d12`** | 26 |
+| 5 | 16 | `16d12` | **`16d12`** | 104 |
+| 6 | 32 | `32d12` | **`16d12 + 104`** | 208 |
+| 8 | 128 | `128d12` | **`16d12 + 728`** | 832 |
+| 9 | 256 | `256d12` | **`16d12 + 1.560`** | 1.664 |
+
+**A média não muda em rank nenhum** — é a mesma troca que a decisão 77 fez ao criar o pool (`1d12 × 16` e `16d12` valem 104 igual). **A fase mortal inteira fica intocada**, porque nela o M nunca passa de 16: o teto só age da Ascensão pra cima, que é onde a mesa ia rolar dois punhados de dados por ataque. O que muda é o desvio — no rank 9 ele cai de 55 para 14 —, e dano de rank alto ficar **previsível** é exatamente o que o pool foi desenhado pra entregar.
 
 ---
 
@@ -58,7 +77,7 @@ A regra que equilibra a tabela: **quanto maior o dado, menos o Caminho faz além
 
 ---
 
-## ⚡ Níveis de Dano — como tudo que "aumenta dano" entra
+## ⚡ Níveis de Potência — como tudo que "aumenta um Gu" entra
 
 Existe uma moeda só, e ela funciona em dois tempos:
 
@@ -69,6 +88,21 @@ Existe uma moeda só, e ela funciona em dois tempos:
 ```
 
 Uma regra só cobre a escada inteira, do chão ao teto. Um Gu de Terra (d6) que ganha +4 Níveis vira d12 e mais +1 por dado. Um Gu de Alma (d12) que ganha +4 Níveis vira `M d12 + 4M`.
+
+### Um Nível age na FACE que o Gu tem — uma face por Gu
+
+O nome mudou de "Nível de Dano" para **Nível de Potência** porque a mesma moeda agora melhora o Gu **na coisa que aquele Gu faz**, não só em dano. Cada Gu tem **uma** face, declarada na ficha dele — nunca duas:
+
+| Face | O que o Nível faz |
+|---|---|
+| **Dano** | A escada acima, sem alteração |
+| **CD** *(Gu que força teste)* | **+1 na CD a cada 2 Níveis** |
+| **Duração** | **+1 rodada a cada 2 Níveis** |
+| **Cobertura / usos** | **+1 aliado protegido, ou +1 uso na cena, a cada 2 Níveis** |
+| **Alcance / área** | **+50% por Nível** — cor, não número de balanceamento |
+
+> [!important] Nível nunca toca RD *(decisão 220)*
+> A **RD fica de fora** desta tabela, de propósito e por medição. A RD já é `base × M` e **dobra sozinha a cada rank** (base 2 = RD 8 no rank 3, 64 no rank 6, 256 no rank 8) — a potência crescente de um Gu defensivo já está entregue pelo M. Somar Nível por cima seria, entre pares do mesmo patamar, **um no-op exato** (o +1 de dano por dado e o +1 de RD por dado se cancelam) e, entre patamares diferentes, inflação pura. Um Gu defensivo que sobe de Nível ganha **duração e usos**, não RD.
 
 ### De onde vêm os Níveis
 
