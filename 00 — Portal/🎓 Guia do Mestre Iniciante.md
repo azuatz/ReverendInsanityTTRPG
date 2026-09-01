@@ -68,7 +68,7 @@ Cole isto na cabeça e 80% do sistema fica óbvio.
 | Grimório do mago | **Receita de refino** / **Herança** | Sem a receita, você não faz o Gu. Com ela, você faz — e é isso que se rouba neste mundo |
 | CA (Classe de Armadura) | **Defesa** | `10 + DES + rank + rank do Gu de movimento ativo`. Ninguém rola pra defender |
 | PV | **Vitalidade** *e* **Alma** — duas barras separadas | `(18 + 3×CON + 4×B) × M` e `(16 + 3×VON + 3×B) × M`. Dano de Alma **ignora armadura e RD por completo** |
-| Resistência a dano | **RD** | Subtrai do dano rolado. Duas fontes: a maior + metade da segunda |
+| Resistência a dano | **RD** | Subtrai do dano rolado. Duas fontes **não somam** — vale só a maior |
 | Poção de cura | **Gu de Grama Curativa** (`M d8`, morre no uso) | Tradução 1:1. Só que é escassa e devolve mais ou menos o que um golpe tira |
 | Item mágico +1 | **Arma/armadura de material de fera** (arma: +1 no acerto · armadura: +1 RD — uma vez só) | Ou um Gu. Não existe loja de item mágico |
 | Descanso curto / longo | **Iguais** | Curto = metade da Vitalidade e da Essência. Longo = tudo |
@@ -120,7 +120,11 @@ CD dos seus Gu = 10 + VON + rank do Gu
 
 ```
 Defesa = 10 + DES + rank do personagem + rank do Gu de movimento ATIVO
+
+Defesa contra Alma = 10 + VON + 2 × rank
 ```
+
+**São duas Defesas, e é fácil esquecer a segunda.** Ataque comum mira a Defesa; ataque de **Alma** mira a Defesa contra Alma, que sai de Vontade e não de Destreza. Quem investiu tudo em Destreza tem uma porta trancada e a outra escancarada — e é assim que um inimigo de Alma mata um lutador que parecia intocável.
 
 Sem um Gu de movimento ligado, o personagem apanha **80%** das vezes em vez de 65%. É a razão mecânica desses Gu existirem. Diga isso aos seus jogadores.
 
@@ -472,6 +476,7 @@ Não leia o vault inteiro. Leia nesta ordem, conforme a mesa precisar:
 Teste          d20 + atributo (+ treino: 2 a 6 pelo rank) vs 10/14/18/22
 Ataque         d20 + FOR|DES|VON + (rank+2) [+ rank do Gu]  vs  Defesa
 Defesa         10 + DES + rank + rank do Gu de movimento ativo
+Defesa c/ Alma 10 + VON + 2 × rank        ← ataques de Alma miram ESTA
 Dano           M d(dado do Caminho) + (M × B)        [FOR fica fora do pool]
 M              1 · 2 · 4 · 8 · 16 · 32 · 64 · 128 · 256   ← quantos dados
 Dado           d12 Alma/Espada/Relâmpago · d10 Fogo/Vento · d8 Lua/Sangue/

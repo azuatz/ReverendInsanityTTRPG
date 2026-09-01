@@ -42,6 +42,8 @@ Alma máxima        = (16 + 3 × VON + 3 × B) × M
                      (B = Grau de Densidade — no estágio Inicial, B = 0)
 Defesa             = 10 + DES + rank + rank do Gu de movimento ativo
                                             (no rank 1, sem Gu: 11 + DES)
+Defesa contra Alma = 10 + VON + 2 × rank    (no rank 1: 12 + VON)
+                     (é ela que um ataque de Alma tem de vencer, nunca a Defesa)
 Acerto melee       = d20 + FOR + rank + 2   (no rank 1: d20 + FOR + 3)
                      (não existem armas à distância mundanas — alcance é Gu)
 Acerto de Gu       = d20 + VON + rank + 2 + rank do Gu
@@ -55,6 +57,8 @@ Pontos de Plano            = 2 + maior(AST, CAR)
 ```
 
 **O erro mais comum é a Defesa.** Ela tem *quatro* parcelas, não duas — e a quarta (`rank do Gu de movimento ativo`) é a razão mecânica pra Gu de movimento existirem. Sem um, você apanha 80% das vezes em vez de 65%.
+
+**E anote as duas Defesas.** Ataques de Alma não miram a Defesa: eles miram a **Defesa contra Alma**, que sai de VON e não de DES. Quem investiu tudo em DES e nada em VON tem uma porta trancada e a outra escancarada.
 
 No rank 1, M é 1 — o multiplicador só começa a importar a partir do rank 2.
 
@@ -108,6 +112,7 @@ Um personagem genérico, sem ligação com nenhum PJ de nenhuma campanha de refe
 | Alma máxima | (16 + 3×3 + 3×0) × 1 | **25** |
 | Essência máxima | 60 × 4 | **240** |
 | Defesa | 11 + 2 (sem Gu de movimento ainda) | **13** |
+| Defesa contra Alma | 10 + 3 + 2×1 | **15** |
 | Acerto melee | d20 + 1 + 3 | **d20 + 4** |
 | Regeneração | Grau C → 4%/h | **~10 de essência por hora de descanso** *(o tanque de 240 enche em ~25 horas — o ritmo é de dias, não de minutos)* |
 | Gu que cabem na Abertura | (60 ÷ 10) + 1 | **7** |

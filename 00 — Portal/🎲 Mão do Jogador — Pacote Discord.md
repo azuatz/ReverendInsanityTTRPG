@@ -94,7 +94,7 @@ A frase certa depois de uma vitória é: *"conseguimos... e olha o que custou."*
 - **CON** — vitalidade, e quantos Gu você aguenta ativos
 - **DES** — Defesa e iniciativa
 - **AST** — ler o mundo: investigar, perceber, planejar
-- **VON** — ativar Gu: seu "atributo de conjuração"
+- **VON** — ativar Gu: seu "atributo de conjuração". Também é ele que segura a barra de Alma e a **Defesa contra Alma**
 - **CAR** — ler e mover pessoas
 
 Custo: 1 ponto por degrau até +3; de +3 pra +4 custam 2. Descer um atributo a −1 devolve 1 ponto.
@@ -139,7 +139,7 @@ Custo: 1 ponto por degrau até +3; de +3 pra +4 custam 2. Descer um atributo a �
 ```
 **Nome:**                              **Idade:**
 **Vitalidade:**    /                   **Alma:**     /
-**QI:**            /                   **Defesa:**
+**QI:**            /                   **Defesa:**          **Def. Alma:**
 **CD:**            **M:**              **Rank/Estágio:**        **B:**
 
 FOR 〖  〗  DES 〖  〗  CON 〖  〗  VON 〖  〗  AST 〖  〗  CAR 〖  〗
@@ -173,13 +173,14 @@ FOR 〖  〗  DES 〖  〗  CON 〖  〗  VON 〖  〗  AST 〖  〗  CAR 〖  �
 - **Alma** = `16 + 3×VON`
 - **QI (Essência)** = `% de aptidão × 4`
 - **Defesa** = `11 + DES` *(não esqueça o +1 do rank!)*
+- **Defesa contra Alma** = `12 + VON` *(número separado: é ele, e não a Defesa, que um ataque de Alma tem de vencer)*
 - **CD dos seus Gu** = `11 + VON`
 - **Acerto melee** = `d20 + FOR + 3` · **distância** = `d20 + DES + 3` · **Gu** = `d20 + VON + 3 + rank do Gu`
 - **Gu na Abertura** = `(% ÷ 10) + 1` · **Gu sustentados ao mesmo tempo** = **3**, sempre *(só os que ficam ligados ocupam vaga; um ataque que dispara e acaba, não)*
 - **Golpes registrados** = `AST + 1`
 - **B** = 0 no estágio Inicial (sobe com o estágio; quando subir, some `M × B` a todo dano)
 
-**Os 3 erros de todo mundo:** esquecer o +1 do rank na Defesa · esquecer que **Alma é uma barra separada** · esquecer de somar `M×B` no dano quando o estágio subir.
+**Os 3 erros de todo mundo:** esquecer o +1 do rank na Defesa · esquecer que **Alma é uma barra separada, com Defesa própria** · esquecer de somar `M×B` no dano quando o estágio subir.
 
 Dúvida? **#duvidas.** Ficha pronta? **Fixa em #fichas.** 🎲
 

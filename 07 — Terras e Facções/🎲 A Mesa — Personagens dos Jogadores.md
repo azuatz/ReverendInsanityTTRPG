@@ -226,6 +226,7 @@ Tabela de acompanhamento pronta pra ficha. Base: **CON +3 · VON +3 · DES +3**,
 ```
 Vitalidade = (18 + 3×CON + 4×B) × M = (27 + 4B) × M
 Alma       = (16 + 3×VON + 3×B) × M = (25 + 3B) × M
+Def. Alma  = 10 + VON + 2 × rank = 15 no rank 1, subindo +2 por rank
 QI         = 344 × 2^(estágio−1)   ← zera ao subir de rank, e é de propósito
 ```
 

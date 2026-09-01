@@ -36,6 +36,7 @@ Essência máxima    = % de aptidão × 4 × 2^(estágio − 1)    [não escala 
 Ferimento          = −5% permanente em Vitalidade E Alma máximas
 
 Defesa             = 10 + DES + rank + rank do Gu de movimento ativo
+Defesa contra Alma = 10 + VON + 2 × rank    [ataques de Alma miram ESTA]
 Acerto melee       = d20 + FOR + (rank + 2) + treino
 Acerto de Gu       = d20 + VON + (rank + 2) + rank do Gu + treino
                      [não existem armas à distância mundanas — alcance é Gu]
@@ -75,8 +76,6 @@ Custo de ativação  = 40 (rank próprio) · 10 · 4 · 1
 Modificador de Caminho: Sangue/Carne/Osso ×0,5 · elementais ×1
                         · Alma/Sabedoria/Escravidão/Informação/Sorte ×1,25
                         · Tempo/Espaço/Sonho/Leis ×1,5
-Manutenção de Sustentação = (nº de Gu sustentados)² × 5 por rodada
-                            [Gu em Vaga de Suporte ficam FORA dessa conta]
 Essência em combate       = NÃO regenera (só Físico Extremo, que é NPC: 10% do tanque,
                             teto 100/rodada · 150 favorável · 200 ideal · 50 hostil)
 

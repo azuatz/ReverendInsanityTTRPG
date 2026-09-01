@@ -80,7 +80,9 @@ escopo: sistema
 | Termo | Em uma linha | Regra |
 |---|---|---|
 | **Vitalidade / Alma** | Os dois trilhos de vida: corpo e espírito. Alguns ataques ferem só a Alma — e ignoram RD | [[❤️ Recursos e Dano]] |
-| **RD** | Redução de Dano. Duas fontes nunca somam integral: a maior + metade da segunda | [[⚔️ Combate]] |
+| **Defesa** | O número que um ataque precisa igualar ou superar pra acertar você: `10 + DES + rank + rank do Gu de movimento ativo`. Ninguém rola pra se defender | [[⚔️ Combate]] |
+| **Defesa contra Alma** | A segunda Defesa, `10 + VON + 2 × rank`: é ela, e não a Defesa normal, que um ataque de Alma precisa vencer | [[⚔️ Combate]] |
+| **RD** | Redução de Dano, subtraída do dano já rolado. **Duas fontes nunca somam: vale só a maior** | [[⚔️ Combate]] |
 | **Níveis de Dano** | Os degraus do dado: d4→d6→d8→d10→d12. "Sobe 1 Nível" = sobe um degrau | [[⚔️ Combate]] |
 | **Escada de Dano** | O mesmo que **Níveis de Dano** — dois nomes para a mesma escada de tipos de dado. Se uma nota disser "sobe um passo na Escada", leia "+1 Nível de Dano" | [[⚔️ Combate]] |
 | **Força de Alma** | O tamanho da alma, medido **em homens** (todo mundo começa em 1). Multiplica a Alma máxima e destrava truques de Alma — e **passar de 100 num corpo mortal mata na hora** | [[👻 Caminho da Alma]] |

@@ -23,7 +23,7 @@ escopo: sistema
 | **Constituição** (CON) | | **Vitalidade**, **portão dos Gu de Corpo**, veneno e fadiga |
 | **Destreza** (DES) | | **Defesa**, deslocamento, ordem de turno, **acerto à distância**, furtividade, fuga |
 | **Astúcia** (AST) | | Percepção, investigação, **perceber mentira**, refino, criar Golpe Matador |
-| **Vontade** (VON) | | **Acerto e CD dos seus Gu**, Alma, resistir a controle mental, medo e loucura |
+| **Vontade** (VON) | | **Acerto e CD dos seus Gu**, Alma e **Defesa contra Alma**, resistir a controle mental, medo e loucura |
 | **Carisma** (CAR) | | Persuadir, **enganar**, intimidar, liderar, negociar, política de clã |
 
 ## 🌟 Cultivo
@@ -55,13 +55,14 @@ Alma máxima       = (16 + 3 × VON + 3 × B) × M
 | Campo | Valor |
 |---|---|
 | **Defesa** | `10 + DES + rank + rank do Gu de movimento ativo` |
+| **Defesa contra Alma** | `10 + VON + 2 × rank` *(é este número, não a Defesa, que um ataque de Alma tem de vencer)* |
 | **Acerto melee** | `d20 + FOR + (rank + 2) + treino` |
 | **Acerto à distância** | `d20 + DES + (rank + 2) + treino` |
 | **Acerto de Gu** | `d20 + VON + (rank + 2) + rank do Gu + treino` |
 | **CD dos meus Gu** | `10 + VON + rank do Gu` |
 | **Arma** | *(passo na Escada: desarmado −2 · leve −1 · média 0 · pesada +1)* |
 | **Dano melee** | *(dado do passo)* + FOR **× M do Gu de Força/Transformação ativo** *(sem Gu ativo, sem multiplicador)* |
-| **RD** | *(de Gu de defesa: `RD base × M`. Duas fontes: maior + metade da segunda)* |
+| **RD** | *(de Gu de defesa: `RD base × M`. Duas fontes **não somam** — vale só a maior)* |
 
 ### 🦴 Gu de Corpo assentados
 

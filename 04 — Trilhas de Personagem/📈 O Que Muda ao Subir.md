@@ -27,7 +27,7 @@ Nada aqui é regra nova: é tudo o que já está em [[🪜 Ranks e Estágios]], 
 | ☐ **Vitalidade máxima** | `+4 × M` por Grau *(fórmula cheia: `(18 + 3×CON + 4×B) × M`)* |
 | ☐ **Alma máxima** | `+3 × M` por Grau *(`(16 + 3×VON + 3×B) × M`)* |
 | ☐ **Essência máxima** | **Dobra a cada estágio** — `% de Aptidão × 4 × 2^(estágio − 1)` |
-| ☐ **Vagas de Suporte** | = o Grau (0/1/2/3). Gu passivos de utilidade que não pesam na Manutenção |
+| ☐ **Vagas de Suporte** | = o Grau (0/1/2/3). Gu passivos de utilidade, **fora do teto de 3 sustentados** |
 | ☐ **Teto de Combo** | 2 · 3 · 4 · 5 Gu num Golpe Matador — **e Golpe Matador só existe do rank 3 em diante** |
 
 **O que NÃO muda de estágio:** M, Defesa, acertos, quantos Gu você carrega ou sustenta, bônus de treino. Estágio é **qualidade do combustível**, não patamar.
@@ -46,6 +46,7 @@ Nada aqui é regra nova: é tudo o que já está em [[🪜 Ranks e Estágios]], 
 | ☐ **Dano de todo Gu** | Dobra o número de dados. Um `4d10` vira `8d10` |
 | ☐ **RD dos Gu de defesa** | `base × M` — **dobra sozinha**, sem você fazer nada |
 | ☐ **Defesa** | `10 + DES + rank + rank do Gu de movimento ativo` → **+1** |
+| ☐ **Defesa contra Alma** | `10 + VON + 2 × rank` → **+2** *(sobe o dobro da Defesa normal, e é ela que um ataque de Alma tem de vencer)* |
 | ☐ **Acertos** | `(rank + 2)` → **+1** em melee, à distância e de Gu |
 | ☐ **CD dos seus Gu** | `10 + VON + rank do Gu` — sobe quando você troca por Gu do rank novo |
 | ☐ **Gu que cabem na Abertura** | `(% de Aptidão ÷ 10) + rank` → **+1** |
@@ -95,7 +96,7 @@ A Ascensão não é "mais um rank". Metade da ficha passa a funcionar por outras
 ## 🧾 A conferência rápida — o que quase todo mundo esquece
 
 1. ☐ **Trocar os Gu de combate** pelos do rank novo *(a armadilha nº 1)*
-2. ☐ **Recalcular a Defesa** — ela tem quatro parcelas, e a do Gu de movimento é a que some
+2. ☐ **Recalcular as duas Defesas** — a normal tem quatro parcelas, e a do Gu de movimento é a que some; a **Defesa contra Alma** é um número à parte e sobe **+2**, não +1
 3. ☐ **Anotar a RD já resolvida** (`base × M`) no topo da ficha, pra não recalcular a cada golpe
 4. ☐ **Conferir a comida** — mais Gu carregados é mais boca pra alimentar ([[🍖 Sustento e Alimento]])
 5. ☐ **Reler os Golpes Matadores registrados** — o Teto de Combo mudou, e o custo cresce ao quadrado

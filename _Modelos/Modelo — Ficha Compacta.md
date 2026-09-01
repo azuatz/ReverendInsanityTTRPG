@@ -16,7 +16,7 @@ Tudo que está entre parênteses é instrução: apague ao preencher.
 ```
 **Nome:**                              **Idade:**
 **Vitalidade:**    /                   **Alma:**     /
-**QI:**            /                   **Defesa:**
+**QI:**            /                   **Defesa:**    **Def. Alma:**
 **CD:**                                **M:**        **Rank:**
 **Estágio:**                           **Grau (B):**   **Densidade:**
 
@@ -65,6 +65,7 @@ O preço da minha traição:
 | **Alma** | `(16 + 3 × VON + 3 × B) × M` | `16 + 3 × VON` |
 | **QI** *(Essência)* | `% de aptidão × 4 × 2^(estágio − 1)` | `% × 4` |
 | **Defesa** | `10 + DES + rank + rank do Gu de movimento ativo` | `11 + DES` |
+| **Defesa contra Alma** | `10 + VON + 2 × rank` *(a Defesa que um ataque de Alma tem de vencer)* | `12 + VON` |
 | **CD dos seus Gu** | `10 + VON + rank do Gu` | `11 + VON` |
 | **Acerto melee** | `d20 + FOR + (rank + 2) + treino` | `d20 + FOR + 3` |
 | **Acerto à distância** | `d20 + DES + (rank + 2) + treino` | `d20 + DES + 3` |
@@ -72,7 +73,7 @@ O preço da minha traição:
 | **M** | 1 · 2 · 4 · 8 · 16 · 32 · 64 · 128 · 256 | 1 |
 | **Gu na Abertura** | `(% de aptidão ÷ 10) + rank` | — |
 | **Gu sustentados** | **3** *(fixo; +1 acima do teto rola erro em `1d6` 1–2)* | 3 |
-| **Vagas de Suporte** | `B` — só Gu passivos de utilidade, fora da Manutenção quadrática | 0 |
+| **Vagas de Suporte** | `B` — só Gu passivos de utilidade, **fora do teto de 3** | 0 |
 | **Teto de Combo** | 2 · 3 · 4 · 5 Gu, por estágio | 2 |
 | **Bônus de dano** | **`+B por dado`** — some `M × B` a todo dano | 0 |
 | **Golpes registrados** | `AST + 1` | — |
@@ -83,7 +84,7 @@ O preço da minha traição:
 
 **QI é o nome de mesa da Essência.** É o mesmo recurso descrito em [[🏛️ Arquitetura do Sistema|Arquitetura do Sistema]] — só o rótulo é mais curto de escrever.
 
-**Três erros comuns:** esquecer o `+ rank` na Defesa (no rank 1 ela é **11 + DES**, não 10 + DES); esquecer que **Alma é uma barra separada da Vitalidade** — quem vai pro Caminho da Alma leva dano nela toda sessão; e esquecer de somar `M × B` no dano, que é o que o estágio inteiro faz.
+**Três erros comuns:** esquecer o `+ rank` na Defesa (no rank 1 ela é **11 + DES**, não 10 + DES); esquecer que **Alma é uma barra separada da Vitalidade, com Defesa própria** (`10 + VON + 2 × rank`) — quem vai pro Caminho da Alma leva dano nela toda sessão; e esquecer de somar `M × B` no dano, que é o que o estágio inteiro faz.
 
 ### O que vai em "Trilhos"
 
@@ -110,7 +111,7 @@ Não são enfeite — são o que faz a mesa funcionar.
 ```
 **Nome:** Gu Yue Xie Lang               **Idade:** 15
 **Vitalidade:** 27 / 27                **Alma:** 25 / 25
-**QI:** 344 / 344                      **Defesa:** 14
+**QI:** 344 / 344                      **Defesa:** 14   **Def. Alma:** 15
 **CD:** 14                             **M:** 1     **Rank:** 1 Inicial
 
 〖 -1 〗**Força**             〖 3 〗**Destreza**
@@ -143,7 +144,7 @@ Vínculo com o mundo:
 O preço da minha traição:
 ```
 
-**De onde saem esses números:** QI 344 é `86% × 4` — a Aptidão dele é 86%, saiu assim no dado e **fica assim**: nada na campanha sobe esse número ([[🌟 Aptidão e Abertura|Aptidão e Abertura]]). Gu que cabem na Abertura: `(86 ÷ 10) + 1 = 9`. Os atributos somam exatamente 12 (o −1 em Força devolve 1 ponto, e os outros custam 13). Vitalidade `18 + 3×3 = 27`; Alma `16 + 3×3 = 25`; Defesa `10 + 3 + 1 = 14`; CD `10 + 3 + 1 = 14` contra um Gu de rank 1. No **estágio Inicial o Grau (B) é 0**, então nada é somado ainda — é a partir do Médio que a ficha começa a crescer dentro do rank.
+**De onde saem esses números:** QI 344 é `86% × 4` — a Aptidão dele é 86%, saiu assim no dado e **fica assim**: nada na campanha sobe esse número ([[🌟 Aptidão e Abertura|Aptidão e Abertura]]). Gu que cabem na Abertura: `(86 ÷ 10) + 1 = 9`. Os atributos somam exatamente 12 (o −1 em Força devolve 1 ponto, e os outros custam 13). Vitalidade `18 + 3×3 = 27`; Alma `16 + 3×3 = 25`; Defesa `10 + 3 + 1 = 14`; Defesa contra Alma `10 + 3 + 2×1 = 15`; CD `10 + 3 + 1 = 14` contra um Gu de rank 1. No **estágio Inicial o Grau (B) é 0**, então nada é somado ainda — é a partir do Médio que a ficha começa a crescer dentro do rank.
 
 **A leitura da ficha:** ele tem mais QI que qualquer outro na mesa e mal consegue erguer uma espada. É o que a distribuição de pontos dele diz em voz alta — **VON 3 e AST 2 contra Força −1**: tudo se resolve por Gu, nada se resolve pelo corpo. Com Força −1, ele **precisa** que o primeiro Gu seja ofensivo, ou passa a primeira sessão inteira sem ter o que fazer num combate.
 

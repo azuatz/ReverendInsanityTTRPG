@@ -17,7 +17,7 @@ Seis atributos. Cada um manda em uma coisa que aparece de verdade na mesa, e nen
 | **Constituição** | CON | **Vitalidade**, o **portão dos Gu de Corpo** (os graus caros exigem CON alto), e **o que seu corpo aguenta receber** | Veneno, doença, fadiga, frio, fome, tortura |
 | **Destreza** | DES | **Defesa**, deslocamento, **acerto à distância** (arco, arremesso) | Furtividade, acrobacia, mãos leves, escapar, fugir |
 | **Astúcia** | AST | Perceber emboscada, ler o campo, achar a Brecha de um golpe | Percepção, investigação, **perceber mentira**, conhecimento, refino, criar Golpe Matador |
-| **Vontade** | VON | **Acerto dos seus Gu e a CD que eles impõem**, mais Alma | Resistir a controle mental, medo e loucura; Ativação Forçada |
+| **Vontade** | VON | **Acerto dos seus Gu e a CD que eles impõem**, mais a barra de Alma **e a Defesa contra Alma** | Resistir a controle mental, medo e loucura; Ativação Forçada |
 | **Carisma** | CAR | Intimidar, comandar aliados e escravos em cena | Persuadir, **mentir e enganar**, liderar, negociar, política de clã |
 
 ## Os eixos de build
@@ -61,6 +61,7 @@ Nenhuma combinação legal deixa o personagem morto de fábrica — mesmo −1 �
 
 ```
 Defesa              = 10 + DES + rank + rank do Gu de movimento ativo
+Defesa contra Alma  = 10 + VON + 2 × rank   [é ESTA que um ataque de Alma vence]
 Acerto melee        = d20 + FOR + (rank + 2)
 Acerto à distância  = d20 + DES + (rank + 2)
 Dano melee          = 1 dado da arma + FOR   [sem Gu de Força ativo]
