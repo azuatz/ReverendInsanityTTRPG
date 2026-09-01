@@ -64,11 +64,13 @@ Registro vivo dos quatro jogadores e dos personagens. Atualize conforme a criaç
 É literalmente o que aconteceu com ele aos oito anos, acontecendo de novo: ele não se salva, **é salvo**, e não decide quando. Uma vez por arco, não por sessão — é evento, não recurso.
 
 > [!failure] Medido: este buff **não conserta o problema dele** — alvo errado, não dose errada
-> A isenção de híbrido foi medida e rende **0,0 pontos percentuais** nas doze células de duelo PJ × PJ. O motivo não é o tamanho do número: é que **o Golpe Matador nunca dispara num duelo**. A própria regra diz isso por extenso — contra um Mestre de Gu, a resposta à pergunta "vale montar o combo?" é *não* ([[⚡ Golpes Matadores]]). A isenção só existe onde há Chefe, e lá vale entre **−1,0 e +0,8pp**, ou seja ruído.
+> A isenção de híbrido foi medida e rende **0,0 pontos percentuais** nas doze células de duelo PJ × PJ, porque **o Golpe Matador não disparava em duelo nenhum** — a regra da época desaconselhava montá-lo contra qualquer alvo que não fosse Chefe, e a chance de conjuração no rank 5 era de 5%.
 >
-> **E a essência nunca foi a restrição num duelo dele:** ele tem 27 ações de tanque no rank 3 e 55 no rank 5. Eu desenhei um buff de **economia de cena** para um personagem cujo problema é **duelo**. Dosar não adianta — dobrar o efeito mede o mesmo nada.
+> **Isso mudou desde então** (decisão 240): a CD do combo passou a crescer +1 por Gu em vez de +2, a rolagem passou a somar o rank, e um combo registrado de 5 Gu no rank 5 sai agora em **85%** das vezes. A isenção dele pode ter deixado de ser inerte — **mas ninguém mediu ainda**, e até medir ela continua valendo zero na conta.
 >
-> **O buff fica**, porque é bom de ficção e porque é real contra Chefes, que é onde a mesa vai passar os clímax. Mas ele **não** responde ao pedido que o motivou, e o mestre não deve contar com ele para equilibrar duelos. A resposta certa depende da remedição descrita abaixo — e pode ser que nem precise existir.
+> **E a essência nunca foi a restrição num duelo dele:** ele tem 27 ações de tanque no rank 3 e 55 no rank 5. Eu desenhei um buff de **economia de cena** para um personagem cujo problema é **duelo**, e esse erro de diagnóstico continua de pé mesmo com o combo consertado — barateamento de custo não é o que falta a ele.
+>
+> **O buff fica**, porque é bom de ficção e porque agora tem onde incidir. Mas o mestre não deve contar com ele para equilibrar duelos até a remedição sair.
 
 > [!warning] Não recalibre nenhuma ficha agora — o ranking está inválido por assimetria de modelagem
 > A medição mais recente pôs o **Xie Lang fechando a fila** nos ranks 3 e 5 (20,0% e 21,7%), o que reprova o critério da mesa. **Mas a causa é um buraco de modelagem, não a ficha dele:** o motor só dava os Níveis da escada de Caminho à Lee — o **Jiāotáng tem a mesma escada pelo Caminho da Força e nunca a recebeu**. Com paridade, o quadro fecha nos três ranks e o Demvi volta a ser o último, como deve.
@@ -302,7 +304,7 @@ d10 base → +5 Níveis → d12, com 4 excedentes
 B = 3 (Densidade Pico) + 4 (excedentes) = 7
 DANO = 2d12 + 14   →  média 27, mínimo 16
 Custo = (40 × 4) × 4 = 640 de essência    [QI no Pico do R2: 2.752]
-Teste de Conjuração = d20 + AST(2) vs CD 12 + 2×4 = 20   (−4 se já usado com sucesso)
+Teste de Conjuração = d20 + AST(2) + rank(2) vs CD 10 + 4 = 14   (−4 se já usado com sucesso)
 ```
 
 **Se for híbrido Lua + Alma, ele não paga a dobra** — é a *Ressonância da Montanha Fria* fazendo exatamente o que ela faz: no instante da técnica, os dois Caminhos dele soam como um. O custo fica em **640**, e a Retaliação é a normal, não a agravada de híbrido. Para qualquer outro personagem da mesa o mesmo golpe custaria 1.280 e ainda pioraria a Retaliação (`× 3` em Vitalidade, e um 1 natural matando **dois** Gu de apoio). **É a jogada de arco dele, e é a razão mecânica de o buff existir.**

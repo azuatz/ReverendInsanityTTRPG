@@ -89,20 +89,27 @@ Um Golpe Matador não se improvisa: é uma sequência treinada, ensaiada e memor
 Montar um combo sob pressão pode dar errado. **Na rodada em que o golpe dispara**, faça:
 
 ```
-Teste de Conjuração = d20 + AST + nível de domínio no Caminho do núcleo
-CD = 12 + (2 × número de Gu no combo)
+Teste de Conjuração = d20 + AST + rank + nível de domínio no Caminho do núcleo
+CD = 10 + (número de Gu no combo)
 ```
 
 | Combo | CD |
 |---|---|
-| 2 Gu | 16 |
-| 3 Gu | 18 |
-| 4 Gu | 20 |
-| 5 Gu *(coletivo)* | 22 |
+| 2 Gu | 12 |
+| 3 Gu | 13 |
+| 4 Gu | 14 |
+| 5 Gu *(coletivo)* | 15 |
 
 **Modificadores:** −4 se você **já usou este golpe registrado antes com sucesso** (a sequência é treinada) · +4 se está improvisando um combo que não está na ficha · +2 se sofreu dano desde a última rodada · −2 se teve uma rodada inteira de preparação sem ser incomodado.
 
-Um golpe registrado, treinado e usado em condições decentes passa quase sempre. **O teste existe pra punir improviso e pressão**, não pra tornar o recurso principal do personagem uma loteria.
+Um golpe registrado, treinado e usado em condições decentes passa quase sempre — um combo de 5 Gu registrado, no rank 5, sai em **85%** das vezes. Improvisar sob pressão, não: o mesmo personagem improvisando um combo de 4 Gu fica em **40%**. **O teste existe pra punir improviso e pressão**, não pra tornar o recurso principal do personagem uma loteria.
+
+> [!warning] Isto mudou, e a versão anterior tornava o subsistema inútil
+> A CD era `12 + 2 × nº de Gu` (um combo de 5 Gu era **CD 22**) e a rolagem era `d20 + AST + domínio`. O problema não era a dificuldade em si — era que **nada na rolagem crescia com o personagem na fase mortal**: AST é fixa desde a criação e nível de domínio só existe a partir do rank 6. Um rank 5 rolava exatamente igual a um rank 1, contra uma CD que só subia com o tamanho do combo. Medido, um golpe de rank 5 saía em **5%**, contra os "quase sempre" que esta própria nota prometia.
+>
+> **A correção tem duas metades e uma razão só:** a CD passou a crescer **+1 por Gu em vez de +2**, e a rolagem passou a somar o **rank**. Agora o personagem cresce junto com a dificuldade que ele mesmo escolhe ao montar um combo maior.
+>
+> **Por que isso importa mais do que parece:** medido, o combo é de **1,15× a 1,62× melhor que atacar normal — por ação**, e melhora quanto maior. Por *essência* ele é de 3 a 17 vezes pior, e é essa a conta que a nota fazia — mas essência não é o recurso escasso (são 55 ações de tanque no rank 5 contra cenas de 7 a 9 rodadas), e **ninguém converte mil de essência em vinte e cinco ataques normais porque não existem vinte e cinco ações numa cena.** O combo sempre valeu a pena; ele só não saía. Ver decisão 240 no [[🧭 Log de Decisões]].
 
 ### A Retaliação de Essência
 
@@ -124,20 +131,27 @@ Mesmo um Golpe Matador **bem-sucedido** desgasta a coleção, e um dono pode esc
 
 ## 🎯 Contra quem vale disparar
 
-**Abaixo de um alvo de Chefe, o Golpe Matador custa mais do que devolve.** Isso não é opinião de mesa — está medido em [[🎯 Simulação de Combate — Resultados]]: um grupo que dispara o combo contra um inimigo mediano cai de **97% para 76% de vitória** na mesma cena. Gastar o golpe errado perde a luta com mais frequência que apanhar.
+**A pergunta certa não é "eu tenho essência para isto?" — é "este alvo merece a minha ação?"**
 
-A conta é direta. Um combo de 3 Gu do próprio rank custa **360** de essência, e **720** se for híbrido — contra um custo de **40** por ativação comum. Você está trocando **nove a dezoito ataques normais** por um só. Só compensa quando o alvo não cairia com dezoito ataques normais.
+Isso mudou de resposta, e a versão antiga desta seção estava errada. Ela dizia que o combo "custa mais do que devolve" abaixo de um Chefe, comparando o custo com **quantos ataques normais a mesma essência compraria**: um combo de 3 Gu custa 360, uma ativação comum custa 40, logo você estaria trocando nove ataques por um.
+
+**A aritmética está certa e a conta é irrelevante**, porque essência não é o recurso escasso: um personagem de rank 5 tem **55 ações de tanque** e a cena dura de 7 a 9 rodadas. **Ninguém converte mil de essência em vinte e cinco ataques normais, porque não existem vinte e cinco ações numa cena.** O que acaba antes é a ação.
+
+**E por ação o combo ganha**, medido: de **1,15× a 1,62×** o dano de um ataque comum, melhorando quanto maior o combo.
 
 | Alvo | Vale? |
 |---|---|
-| **Chefe**, ou qualquer inimigo de rank acima do seu | **Sim.** É exatamente para isto que o combo existe |
-| **Elite** que já está no meio da luta | Só se ele for o último de pé, ou se a cena vai acabar naquela rodada |
-| **Guerreiro, Mestre de Gu, Recruta, horda** | **Não.** Ataque normal duas vezes rende mais e deixa o tanque cheio |
+| **Chefe**, ou qualquer inimigo de rank acima do seu | **Sim.** É exatamente para isto que o combo existe, e é onde a diferença por ação mais aparece |
+| **Elite** no meio da luta | **Sim, se ele ainda tem vida para absorver o golpe.** O desperdício não é gastar essência: é gastar a **ação** num alvo que cairia com um ataque comum |
+| **Guerreiro, Recruta, horda** | **Não** — não por custo, mas porque o excedente de dano se perde. Um golpe de 1,5× num alvo que morre com 0,7× joga fora mais da metade |
 | **Alvo que você não vai conseguir acertar** | Nunca. O custo é pago no disparo, e errar não devolve nada |
 
-**A faixa perigosa é o rank 2 e o rank 3.** É onde a Essência já dá para pagar um combo, mas pagar um **esvazia o tanque** — no rank 1 ninguém consegue pagar, e no rank 5 o custo é troco. Um personagem de rank 2 ou 3 que abre a cena com um Golpe Matador passa o resto dela batendo com a arma.
+**A regra de bolso, e ela substitui a conta antiga:** dispare quando o alvo **não cairia com um ataque normal** — e não dispare quando ele cairia. É a mesma lógica de não usar o dado grande em quem já está morrendo, e não tem nada a ver com o tanque.
 
-> Diga isso aos jogadores **antes** da primeira cena de combate. A punição é severa, é correta, e não está visível em lugar nenhum da ficha.
+> [!info] O que a medição de "97% para 76%" realmente dizia
+> Aquele número — um grupo que dispara o combo contra um inimigo mediano perdendo 21 pontos de vitória — continua verdadeiro, e continua sendo o melhor argumento desta seção. Mas a causa não é a essência gasta: é **a ação gasta** e o **excedente de dano jogado fora**, e é por isso que ele aparece contra alvo mediano e não contra Chefe.
+>
+> A faixa antiga de "perigo nos ranks 2 e 3, onde o tanque não aguenta" também sai: medido, o tanque aguenta em todos os ranks. O que não aguenta desperdício é a **contagem de rodadas** da cena.
 
 ## 🕳️ A Brecha — todo golpe tem uma, e ela é escrita
 
