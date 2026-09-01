@@ -210,7 +210,9 @@ Com Lua, você tem uma **válvula**. Não é infinita (uma noite de lua cheia po
 
 Marcas de Dao de Lua **aplicam-se a ataques de Alma** e vice-versa (ver [[☯️ Marcas de Dao|Marcas de Dao]]): os Níveis de Dano do seu nível de domínio em Lua valem nos Gu de Alma, e os de Alma valem nos de Lua.
 
-**Efeito prático — e repare no que ele NÃO é:** os **Níveis de Potência** de um Caminho valem nos Gu do outro, porque os dois são Yin e as leis conversam. **As contagens de Marcas continuam separadas**, cada Caminho com o próprio Domínio: um Imortal com 6.000 de Lua e 6.000 de Alma é Pequeno Feito em cada, e não Mestre em nenhum. *(A versão anterior somava as duas contagens; revogada pela decisão 227, que tirou a fusão até como Buff de Lore, e tornada incoerente pela 254, que desacoplou Marca de Domínio. Texto em [[Regras removidas (2026-09-01 — varredura de texto)]].)* Um Imortal com 6.000 Marcas de Lua e 6.000 de Alma era, na regra velha, **Mestre (12.000)** nos dois, em vez de Pequeno Feito nos dois separados. É o único jeito no sistema de duas contagens se ajudarem em vez de competirem — e é a razão mecânica pra combinação ser forte de verdade.
+**Efeito prático — e repare no que ele NÃO é:** os **Níveis de Potência** de um Caminho valem nos Gu do outro, porque Lua e Alma são ambos Yin e as leis conversam. **As contagens de Marcas continuam separadas**, e cada Caminho tem o próprio Domínio: um Imortal com 6.000 Marcas de Lua e 6.000 de Alma é **Pequeno Feito em cada**, não Mestre em nenhum. O que a combinação dá é **um Nível emprestado de lado a lado** — o que já é a taxa reduzida de Caminhos complementares fazendo o trabalho dela ([[🛤️ Os Caminhos]]), e é bom sem precisar ser mágico.
+
+*(A versão anterior **somava as duas contagens** para determinar o domínio de ambas, o que valia +1 patamar inteiro de graça. Revogada duas vezes e por motivos independentes: a **decisão 227** tirou a fusão até como Buff de Lore, e a **254** a tornou incoerente ao desacoplar Marca de Domínio. Texto arquivado em [[Regras removidas (2026-09-01 — varredura de texto)]].)*
 
 ### 3. O frio Yin abre a alma
 
