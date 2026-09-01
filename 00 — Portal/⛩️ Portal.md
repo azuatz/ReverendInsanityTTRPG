@@ -90,7 +90,7 @@ Clique na nota-mãe para ver o conteúdo de cada pasta.
 |---|---|---|---|
 | `01` | [[⚙️ Fundação]] | Combate, dano, atributos, recursos, fuga, preparação | ✅ **sim** — é o motor |
 | `02` | [[🐛 Caminho do Cultivo]] | Ranks, aptidão, Ascensão, Caminhos, Marcas de Dao, Terra Abençoada, longevidade | ✅ **sim** — é o motor |
-| `03` | [[🪱 Gu]] | Catálogo de 449 Gu, refino, sustento, Golpes Matadores, Formações | ✅ **sim** — é o motor |
+| `03` | [[🪱 Gu]] | O catálogo de Gu inteiro, refino, sustento, Golpes Matadores, Formações | ✅ **sim** — é o motor |
 | `04` | [[🧑‍🎤 Trilhas de Personagem]] | Criação de ficha, origens, pontos, vínculos | ✅ **sim** — é o motor |
 | `05` | [[🗡️ Arsenal]] | Armas, materiais, heranças, mercado | ✅ **sim** — é o motor |
 | `06` | [[👹 Grimório de Ameaças]] | Inimigos prontos por rank | ✅ **sim** — é o motor |

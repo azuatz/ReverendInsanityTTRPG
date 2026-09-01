@@ -21,7 +21,7 @@ Nota-mãe. **Os bichos.** Um Gu é uma criatura mágica viva que o personagem ca
 ## Nível 1 — Antes do primeiro Gu entrar em jogo
 
 1. **[[🍖 Sustento e Alimento]]** — **leia esta antes de entregar qualquer Gu.** Cada Gu come uma coisa específica, e Gu que não come morre. Esta é a regra que transforma poder em responsabilidade; sem ela o jogo vira D&D com nomes esquisitos.
-2. **[[📖 Catálogo de Gu]]** — **461 Gu e Casas**, cada um com Forte, Fraco e Peculiaridades. Não é para ler: é para consultar quando você for entregar algo — e a porta de consulta é o **[[🗂️ Índice de Gu por Caminho]]**, que reorganiza tudo por Caminho e rank.
+2. **[[📖 Catálogo de Gu]]** — **o arsenal inteiro do jogo**, cada Gu com Forte, Fraco e Peculiaridades. Não é para ler: é para consultar quando você for entregar algo — e a porta de consulta é o **[[🗂️ Índice de Gu por Caminho]]**, que reorganiza tudo por Caminho e rank.
 3. **[[📜 Livro de Receitas de Gu]]** — de onde sai **cada Gu do catálogo**: a origem selvagem dos de rank 1, a receita de fusão dos de rank 2 a 5, e por que Imortais não têm receita. É a resposta pronta para o "como eu consigo esse?" que a mesa vai perguntar toda sessão.
 4. **[[🚀 Gu de Avanço de Rank]]** — **todo Gu que mexe com progressão, num lugar só** (estágio, salto de rank, Ascensão, fase imortal), com a tabela de planejamento por personagem. É a nota de preparação de campanha do mestre.
 5. **[[💀 A Morte dos Gu]]** — como Gu se machucam e morrem: a escada de condição, escudos que estouram, e a Sobrecarga e a Queima dentro de Golpes Matadores. Leia junto com Espólio — perder Gu é metade do tom do jogo.

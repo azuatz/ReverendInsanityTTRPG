@@ -96,7 +96,7 @@ escopo: processo
 | [[⛓️ Espólio de Gu Imortal]] | Os três estados de um Gu Imortal tomado — inerte, suprimido, refinado. Só o Caminho da Sabedoria refina, e uma falha destrói |
 | [[📇 Índice de Gu do Romance — Consulta]] | 251 Gu citados no romance sem ficha mecânica — camadas B e C. Consulta e povoamento de mundo |
 | [[🍖 Sustento e Alimento]] | O que cada Gu come, e a escala de intervalo por rank (rank 5 come de 1–2 anos; imortal de 5–6) |
-| [[📖 Catálogo de Gu]] | **461 Gu e Casas de Gu Imortal**, todos com perfil ⬆️/⬇️ e tags de Peculiaridade nas **3 aptidões** (⚡Uso · 🍖Alimentação · 🔨Refino). Inclui Gu Sociais/Investigação, Gu de Corpo elementais, ataque melee Wu Xing, 15 candidatos a Imortal e 8 Golpes Matadores de rank 5 |
+| [[📖 Catálogo de Gu]] | **Todo o arsenal do jogo** — Gu e Casas de Gu Imortal, cada um com perfil ⬆️/⬇️ e tags de Peculiaridade nas **3 aptidões** (⚡Uso · 🍖Alimentação · 🔨Refino). Inclui Gu Sociais/Investigação, Gu de Corpo elementais, ataque melee Wu Xing, 15 candidatos a Imortal e 8 Golpes Matadores de rank 5 |
 | [[🚀 Gu de Avanço de Rank]] | **Todo Gu de progressão num lugar só** — estágio, salto de rank, Ascensão e fase imortal, com a tabela de planejamento rank a rank dos 4 personagens |
 | [[💀 A Morte dos Gu]] | **Como Gu se machucam e morrem** — a escada Esgotado→Ferido→Morto, escudos que estouram, mirar um Gu, e a Sobrecarga e a **Queima** dentro de Golpes Matadores |
 | [[🗂️ Índice de Gu por Caminho]] | **Todos os Gu por Caminho e rank** — a porta de consulta do catálogo |
