@@ -1513,7 +1513,7 @@ A deriva de composição é total. Sob (i), nos ranks 3 e 5 **todas as cinco com
 
 | Configuração | Níveis do Físico | `ess_mod` |
 |---|---|---|
-| **ficha atual** *(o que a [[🎲 A Mesa — Personagens dos Jogadores|nota da Mesa]] publica)* | +1 *(Abertura Latente)* | 1,25 *(+25% de Caminho duplo)* |
+| **ficha atual** *(o que a [[🎲 A Mesa — Personagens dos Jogadores\|nota da Mesa]] publica)* | +1 *(Abertura Latente)* | 1,25 *(+25% de Caminho duplo)* |
 | **motor 1ª–14ª** *(a lacuna histórica)* | 0 | 1,25 |
 | **NOVO — sem Físico** | 0 | **1,00** *(Ressonância da Montanha Fria: Lua+Alma como um Caminho só, sem penalidade nenhuma — decisão 216)* |
 
