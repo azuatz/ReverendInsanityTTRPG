@@ -95,10 +95,21 @@ Registro vivo dos quatro jogadores e dos personagens. Atualize conforme a criaç
 >
 > **E o Jiāotáng não é problema — está encerrado por decisão do autor.** Repare no formato dos números dele: **93,5 / 78,3 / 70,3%**, caindo a cada rank. Não é dominância sistêmica, é **vantagem de rank 1 que se dissolve sozinha conforme a mesa sobe**, e o autor a declarou comportamento pretendido: *"é normal melee ser mais forte antes, está ok"*. **Não nerfe Sangue+Força**, e não trate os 93,5% como número a consertar.
 
-> [!tip] A ordem de força pretendida, para calibrar daqui em diante
-> Serve de alvo às medições futuras e evita que a mesa seja reequilibrada no escuro: **o Demvi é quem deve fechar a fila**, por Aptidão e por Caminho. Os outros três ficam acima dele, com o Jiāotáng à frente na fase mortal baixa por ser corpo a corpo — e essa dianteira encolhendo conforme os ranks sobem, que é o comportamento pretendido, não um defeito.
+> [!tip] A ordem de força pretendida — e ela é uma CURVA, não um pódio
+> Este é o alvo de toda medição futura, e o que separa "aprovado" de "reprovado". O autor o declarou assim, sobre o Xie Lang: **"ele é para teoricamente no final estar no mesmo nível de força que Jiāotáng e Lee, mas provavelmente um pouco atrás ainda no começo."**
 >
-> Isso **não** significa que o Demvi seja um personagem ruim de jogar. Ele tem a única saída garantida do jogo (uma vez por cena, ignora qualquer bloqueio, cerco ou prisão, sem rolar), e o valor dele aparece onde a taxa de vitória em duelo não mede: escapar, chegar, sair com o grupo vivo.
+> | Rank | O que se espera |
+> |---|---|
+> | **1–2** | **Jiāotáng à frente.** Corpo a corpo rende cedo — o `+ FOR` é o único bônus fixo do motor, e com `M = 1` ele pesa proporcionalmente mais do que pesará depois. O Xie Lang **atrás, e isso é aprovado** |
+> | **3–4** | A dianteira do corpo a corpo encolhendo. O Xie Lang subindo |
+> | **5** | **Paridade entre Xie Lang, Jiāotáng e Lee.** Não vitória de nenhum dos três — empate |
+> | *sempre* | **O Demvi fecha a fila**, por Aptidão e por Caminho |
+>
+> **Por que essa curva e não outra:** a Aptidão do Xie Lang é a maior da mesa (86%), e Aptidão é exatamente o atributo que rende no **longo prazo** — tanque maior, mais Gu na Abertura, teto de rank mais alto. Força rende **cedo**. Um sistema em que o de maior Aptidão já começa na frente estaria desperdiçando o próprio eixo de progressão.
+>
+> **A consequência prática para quem for medir:** a pergunta certa deixou de ser *"o Xie Lang precisa de nerf?"* e passou a ser **"a curva dele sobe?"**. Ele atrás no rank 1 e empatado no rank 5 é o sistema funcionando. Ele atrás nos três é que é o defeito — e a correção, nesse caso, precisa agir **em duelo**, não na economia de cena (que foi o erro medido da decisão 237).
+>
+> E isso **não** faz do Demvi um personagem ruim de jogar. Ele tem a única saída garantida do jogo — uma vez por cena, ignora qualquer bloqueio, cerco ou prisão, sem rolar — e o valor dele aparece justamente onde a taxa de vitória em duelo não mede: escapar, chegar, e tirar o grupo vivo.
 
 > [!warning] Por que este buff foi escrito narrativo — a justificativa original, hoje superada
 > **Ele é 80:20 — Lua principal, Alma secundária.** O jogador declarou que na maior parte do tempo ataca pela Lua, deixando a Alma como segundo recurso. Isso importa mais do que parece: **Lua rola d8 contra a Vitalidade e passa pela RD como qualquer um**, enquanto Alma rola d12, ignora RD e armadura e mira uma barra que mais ninguém na mesa ataca. São dois personagens diferentes.
