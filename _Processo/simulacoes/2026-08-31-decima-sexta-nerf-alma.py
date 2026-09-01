@@ -324,6 +324,76 @@ def set_lever(rd_mult=1.0, nivel_delta=0, drop_piece=False):
 RD_FACE_MODE = "zero"
 
 
+# ---------------------------------------------------------------------------
+# ███ O NERF DO CAMINHO DA ALMA (décima sexta) ███
+# ---------------------------------------------------------------------------
+# Knob global lido por TODO o motor, nos dois lados da mesa. Cinco modos:
+#
+#   'atual' — a regra de hoje: d12, fura 100% da RD, barra
+#             `(12 + 2×VON + 3×B) × M`, Defesa de Alma `10 + VON + 1×rank`.
+#   'A'     — alinhamento de degrau: d12, fura só METADE da RD (Espada/Relâmpago).
+#   'B'     — queda de dado: d10, fura tudo.
+#   'C'     — endurecimento da barra: d12, fura tudo, barra
+#             `(16 + 3×VON + 3×B) × M` e Defesa de Alma `10 + VON + 2×rank`.
+#   'C_bar' / 'C_def' — as duas metades da C isoladas (diagnóstico).
+ALMA_MODE = "atual"
+
+_ALMA_DADO = {"atual": 12, "A": 12, "B": 10, "C": 12, "C_bar": 12, "C_def": 12}
+# fração da RD do alvo que o golpe de Alma AINDA sofre (0 = fura tudo)
+_ALMA_RD = {"atual": 0.0, "A": 0.5, "B": 0.0, "C": 0.0, "C_bar": 0.0, "C_def": 0.0}
+_ALMA_BAR_DURA = {"atual": False, "A": False, "B": False,
+                  "C": True, "C_bar": True, "C_def": False}
+_ALMA_DEF_DURA = {"atual": False, "A": False, "B": False,
+                  "C": True, "C_bar": False, "C_def": True}
+
+# Fator de inflação da barra de Alma dos MOLDES sob a C. A barra de molde é
+# `razão × Vitalidade`, não a fórmula de PJ, então não dá pra aplicar a fórmula
+# nova nele. 1,35 é a média da inflação que a fórmula de PJ sofre nas quatro
+# fichas da mesa nos ranks 1-5 (de +29% a +39%).
+ALMA_BAR_MOLDE_MULT = 1.35
+
+
+def alma_dado():
+    return _ALMA_DADO[ALMA_MODE]
+
+
+def alma_rd_frac():
+    return _ALMA_RD[ALMA_MODE]
+
+
+def alma_bar_pc(VON, B, M):
+    if _ALMA_BAR_DURA[ALMA_MODE]:
+        return (16 + 3 * VON + 3 * B) * M
+    return (12 + 2 * VON + 3 * B) * M
+
+
+def alma_def_pc(VON, rank):
+    passo = 2 if _ALMA_DEF_DURA[ALMA_MODE] else 1
+    return 10 + VON + passo * rank
+
+
+def alma_bar_molde(base):
+    return round(base * ALMA_BAR_MOLDE_MULT) if _ALMA_BAR_DURA[ALMA_MODE] else base
+
+
+def alma_def_molde(rank):
+    passo = 2 if _ALMA_DEF_DURA[ALMA_MODE] else 1
+    return 10 + passo * rank + 3
+
+
+def aplica_rd_alma(dmg, target, m_floor):
+    """A RD que um golpe de Alma sofre. Só o candidato A tem alguma."""
+    frac = alma_rd_frac()
+    if frac <= 0:
+        return dmg
+    return apply_rd(dmg, target.get("rd", 0) * frac, m_floor)
+
+
+def set_alma(mode="atual"):
+    global ALMA_MODE
+    ALMA_MODE = mode
+
+
 def rd_face_bonus(n_niveis):
     if RD_FACE_MODE == "per1":
         return n_niveis
@@ -356,19 +426,32 @@ def reset_rd_stats():
 # Caminho dele. As 14 rodadas anteriores modelavam 0 para todos — inclusive
 # para o Xie Lang, que pela ficha publicada tem **+1** (Físico da Lua Antiga
 # com a Abertura Latente; +2 quando ela fechar). Esta rodada precisa do knob.
+#
+# `alma_frac` (NOVO na décima sexta) = fração dos ataques do personagem que é
+# golpe de ALMA. `dado` passa a ser o dado do Caminho PRINCIPAL dele (o que ele
+# rola nos outros `1 − alma_frac` ataques). Com `alma_frac = 1.0` o
+# comportamento é bit-a-bit o das quinze rodadas anteriores (nenhuma rolagem
+# nova é consumida — ver `resolve_pc_hit`).
 PCS_BASE = {
     "Xie Lang": dict(FOR=-1, CON=3, DES=3, AST=2, VON=3, CAR=2, aptidao=86,
-                     dado=12, alma_dmg=True, atk_attr="VON", ess_mod=1.25,
-                     raw_die=6, role="caster", nivel_bonus=0),
+                     dado=12, alma_dmg=True, alma_frac=1.0, atk_attr="VON",
+                     ess_mod=1.25, raw_die=6, role="caster", nivel_bonus=0),
     "Jiaotang": dict(FOR=4, CON=3, DES=2, AST=1, VON=1, CAR=0, aptidao=76,
-                      dado=10, alma_dmg=False, atk_attr="FOR", ess_mod=1.0,
-                      raw_die=10, role="melee", nivel_bonus=0),
+                      dado=10, alma_dmg=False, alma_frac=0.0, atk_attr="FOR",
+                      ess_mod=1.0, raw_die=10, role="melee", nivel_bonus=0),
     "Lee": dict(FOR=3, CON=2, DES=2, AST=1, VON=3, CAR=1, aptidao=63,
-                dado=8, alma_dmg=False, atk_attr="VON", ess_mod=1.0,
-                raw_die=6, role="healer", nivel_bonus=0),
+                dado=8, alma_dmg=False, alma_frac=0.0, atk_attr="VON",
+                ess_mod=1.0, raw_die=6, role="healer", nivel_bonus=0),
     "Demvi": dict(FOR=-1, CON=1, DES=4, AST=2, VON=3, CAR=2, aptidao=56,
-                  dado=10, alma_dmg=False, atk_attr="VON", ess_mod=1.0,
-                  raw_die=4, role="striker", nivel_bonus=0),
+                  dado=10, alma_dmg=False, alma_frac=0.0, atk_attr="VON",
+                  ess_mod=1.0, raw_die=4, role="striker", nivel_bonus=0),
+}
+
+# Os dois perfis do Xie Lang. O primeiro é o que as quinze rodadas mediram
+# (e está ERRADO); o segundo é a ficha de verdade (decisão do autor).
+XIE_PERFIL = {
+    "puro Alma (1ª-15ª)": dict(dado=12, alma_frac=1.0),
+    "80:20 Lua:Alma": dict(dado=8, alma_frac=0.20),
 }
 
 # Snapshot imutável da ficha original, pra restaurar depois das variantes.
@@ -409,7 +492,7 @@ def make_pc(name, rank, imortal=False, terreno_delta=0, dom_B=None, pool_mult=1)
         dom_bonus = max(0, dom_bonus + terreno_delta)
 
     vit_max = (18 + 3 * b["CON"] + 4 * dom_bonus) * M
-    alma_max = (12 + 2 * b["VON"] + 3 * dom_bonus) * M
+    alma_max = alma_bar_pc(b["VON"], dom_bonus, M)
     ess_max = b["aptidao"] * 4 * (2 ** (stage_idx - 1))
 
     return dict(
@@ -421,9 +504,10 @@ def make_pc(name, rank, imortal=False, terreno_delta=0, dom_B=None, pool_mult=1)
         vit=vit_max, vit_max=vit_max, alma=alma_max, alma_max=alma_max,
         essence=ess_max, ess_max=ess_max,
         nivel_bonus=b.get("nivel_bonus", 0),
+        alma_frac=b.get("alma_frac", 1.0 if b["alma_dmg"] else 0.0),
         rd=RD_MULT * (1 + rd_face_bonus(dom_bonus)) * M,
         defense=10 + b["DES"] + 2 * rank,
-        alma_def=10 + b["VON"] + rank,
+        alma_def=alma_def_pc(b["VON"], rank),
         vazamento=False, skip_turns=0, fallback_raw=False,
         used_golpe=False, actions=1, alive=True,
         cura_usada=False,
@@ -443,12 +527,13 @@ def enemy_common(name, rank, vit_mult, alma_ratio, defense, acerto_bonus, rd_mul
     M = M_TABLE[rank]
     grau = STAGE_B.get(rank, 3) if B is None else B
     vit = vit_mult * M + 4 * M * grau
+    alma_bar = alma_bar_molde(round(alma_ratio * vit))
     return dict(
         name=name, side="enemy", rank=rank, M=M, B=grau, dado=dado,
         pool_mult=pool_mult,
-        vit=vit, vit_max=vit, alma=round(alma_ratio * vit), alma_max=round(alma_ratio * vit),
+        vit=vit, vit_max=vit, alma=alma_bar, alma_max=alma_bar,
         essence=None, ess_max=None,
-        rd=RD_MULT * rd_mult * M, defense=defense + rank, alma_def=10 + rank + 3,
+        rd=RD_MULT * rd_mult * M, defense=defense + rank, alma_def=alma_def_molde(rank),
         acerto_bonus=acerto_bonus + rank,
         vazamento=False, skip_turns=0, fallback_raw=False,
         actions=actions, alive=True, used_special=False,
@@ -615,9 +700,9 @@ def apply_controle(target, turns=1):
     target["skip_turns"] = max(target.get("skip_turns", 0), turns)
 
 
-def pc_attack_dmg(pc, crit=False):
+def pc_attack_dmg(pc, crit=False, dado_override=None):
     n = pc["M"] * pc.get("pool_mult", 1) * (2 if crit else 1)
-    dado, extra_b = apply_niveis(pc["dado"],
+    dado, extra_b = apply_niveis(dado_override if dado_override else pc["dado"],
                                  NIVEL_DELTA + pc.get("nivel_bonus", 0))
     raw = roll_pool(n, dado) + pc["M"] * (pc["B"] + extra_b)
     if pc["atk_attr"] == "FOR":

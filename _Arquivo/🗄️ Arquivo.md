@@ -26,6 +26,7 @@ Nota-mãe. Onde regra ou lore **substituída** vai parar — em vez de ser apaga
 | [[❤️ Recursos e Dano (v1 — VIT 12+3CON, sem estágio)]] | [[❤️ Recursos e Dano]] | Vitalidade era `12 + 3×CON` fixa, sem influência do estágio |
 | [[Regras removidas 2026-08-30]] | [[⚔️ Combate]] · [[📄 Folha de Referência]] · [[⚖️ Pontos de Criação]] | Texto original de tudo que a **rodada do autor** de 2026-08-30 removeu (decisões 103–112): rolagem rápida por média e sua tabela, armas à distância mundanas, desbloqueios de estágio, regeneração de essência em combate, compra e venda de Aptidão |
 | [[Os Dez Físicos Extremos (v1 — pacote jogável)]] | [[🌠 Os Dez Físicos Extremos]] | Os Físicos Extremos eram **opção de personagem jogador**: custavam 8 dos 12 pontos de criação e vinham com a regra de **Abertura Incompleta** (o físico começava Latente e despertava até 100% em sete Marcos). Hoje são exclusivamente lore de mundo e material de NPC (decisão 217) |
+| [[Regras removidas 2026-08-31]] | [[☯️ Os Cinco Caminhos Wu Xing]] · [[☯️ Marcas de Dao]] · [[💪 Caminho da Força]] · [[📖 Catálogo de Gu]] | Texto original do que a **rodada dos Físicos e das Marcas** removeu (decisões 216–224): a divisão de Marcas por cinco do Lee e o Elemento Âncora, o Físico Extremo concedido pelo Gu Imortal do Crânio de Sangue, os tetos duros de Marcas por rank, e o Fantasma de Fera travado em rank 3 |
 
 O motivo de cada mudança está registrado no [[🧭 Log de Decisões]], que é o contrato do sistema.
 
