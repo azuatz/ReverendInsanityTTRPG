@@ -279,17 +279,18 @@ Vínculo: "O Corbin me tirou do poço quando eu tinha nove anos. Eu ainda devo."
 Anos de vida: 100
 ```
 
-### O Acordo de Mesa — as cinco perguntas
+### O Acordo de Mesa — as seis perguntas
 
 Este é um gênero em que **traição é uma jogada válida**. Antes de começar, pergunte e anote as respostas:
 
-1. Personagem pode morrer de verdade?
-2. PJ pode trair PJ? Se sim, com qual aviso prévio?
-3. Onde estão os limites do grupo (o que não entra em cena)?
-4. Alguém aqui quer jogar alguém abertamente cruel? A mesa topa?
-5. Se um personagem morrer, o novo entra em que rank?
+1. **Traição entre personagens é permitida?**
+2. **Morte de personagem é permanente?**
+3. **Se um personagem morrer, o novo entra em que rank?**
+4. **O que não entra em cena?** *(cada jogador nomeia o que quiser, sem justificar)*
+5. **O que acontece se alguém faltar?**
+6. **Quem decide uma regra ambígua no meio da cena?**
 
-Regra completa em [[🤝 Vínculos e Acordo de Mesa]].
+**Os padrões recomendados de cada uma, e o protocolo de traição, estão em [[🤝 Vínculos e Acordo de Mesa]]** — aquela é a nota-dona, e esta lista é só o lembrete de bolso.
 
 ---
 

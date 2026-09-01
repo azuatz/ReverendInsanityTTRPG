@@ -51,15 +51,21 @@ Quando quebra:
 
 ## O Acordo de Mesa
 
-Combinado antes da sessão zero, em voz alta, com todo mundo presente. **São cinco perguntas, e a mesa responde todas antes da primeira ficha ficar pronta.**
+Combinado antes da sessão zero, em voz alta, com todo mundo presente. **São seis perguntas, e a mesa responde todas antes da primeira ficha ficar pronta.**
 
 | # | A pergunta | O padrão recomendado |
 |---|---|---|
 | **1** | **Traição entre personagens é permitida?** | **Sim, pelo protocolo abaixo.** Se qualquer jogador disser não, é não — e não se discute o motivo |
 | **2** | **Morte de personagem é permanente?** | **Sim**, com o Teste de Morte de [[❤️ Recursos e Dano]]. A longevidade do cenário já dá saídas caras; não invente outras na hora |
-| **3** | **O que não entra em cena?** | Cada jogador nomeia **o que quiser**, sem justificar. A lista é fechada e vale para todos |
-| **4** | **O que acontece se alguém faltar?** | O personagem some da cena sem explicação e volta na seguinte. Nada de matar ficha de quem não veio |
-| **5** | **Quem decide uma regra ambígua no meio da cena?** | O mestre decide na hora, e a mesa revisita depois da sessão. Nunca pare a cena para debater regra |
+| **3** | **Se um personagem morrer, o novo entra em que rank?** | **No mesmo rank do grupo, no estágio Inicial.** Entrar abaixo condena o jogador a assistir; entrar no Pico apaga a subida que os outros pagaram |
+| **4** | **O que não entra em cena?** | Cada jogador nomeia **o que quiser**, sem justificar. A lista é fechada e vale para todos. **Esta pergunta cobre o personagem cruel:** quem quiser jogar alguém abertamente cruel descobre aqui se a mesa topa, sem precisar se declarar |
+| **5** | **O que acontece se alguém faltar?** | O personagem some da cena sem explicação e volta na seguinte. Nada de matar ficha de quem não veio |
+| **6** | **Quem decide uma regra ambígua no meio da cena?** | O mestre decide na hora, e a mesa revisita depois da sessão. Nunca pare a cena para debater regra |
+
+> [!info] Por que seis e não cinco
+> Duas notas publicavam "as cinco perguntas" e **elas não eram as mesmas cinco** — só três coincidiam, e cada lista tinha duas que a outra não tinha. Um mestre que lesse o guia combinava cinco coisas; um jogador que lesse esta nota combinava cinco **outras**. Unificadas em seis: as três compartilhadas, as duas de operação de mesa (faltar, regra ambígua) e **o rank do personagem novo**, que era a única das sete a produzir consequência mecânica e não estava respondida em lugar nenhum do sistema.
+>
+> A sétima — *"alguém quer jogar alguém abertamente cruel?"* — **foi absorvida pela pergunta 4**, que já faz o mesmo trabalho sem obrigar ninguém a se declarar na frente da mesa. *(Decisão 282.)*
 
 ### O protocolo de traição
 
