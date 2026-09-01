@@ -119,3 +119,57 @@ Quem saqueia de alguém que escapou descobre isso do jeito difícil — normalme
 O que **não** se destrói junto: Pedras Primordiais, materiais, armas, mapas, cartas, receitas escritas, e o corpo (que vale como prova, como material de refino, ou como problema a esconder).
 
 Isso costuma ser o espólio real de um combate — e é bom que seja. Ver [[💠 Economia das Pedras Primordiais|Economia das Pedras Primordiais]].
+
+---
+
+## 💰 O que um Mestre de Gu inimigo carrega
+
+**Todo inimigo humano de rank tem bolso, e o mestre deve saber o número antes da luta**, não improvisar depois. São duas linhas na ficha dele:
+
+| Rank do inimigo | **Pedras Primordiais** no corpo | **Materiais de receita** |
+|---|---|---|
+| 1 | **20 – 60** | `1d3` materiais comuns do rank dele |
+| 2 | **50 – 200** | `1d3` do rank dele, 1 pode ser incomum |
+| 3 | **200 – 1.000** | `1d3+1`, um deles raro se ele refina |
+| 4 | **1.000 – 8.000** | `1d3+1` raros |
+| 5 | **8.000 – 50.000** | `1d3+2` raros, e material de rank 5 é achado de arco |
+
+**A calibragem, para o mestre entender o que está dando:** um Gu do próprio rank custa cerca de **dez vezes** o que o portador dele carrega no bolso. Isso é de propósito — ninguém anda com o próprio patrimônio na cintura, e assaltar um Mestre de Gu rende **dinheiro de viagem**, não uma fortuna. Quem quiser a fortuna tem que achar onde ele guarda ([[🏛️ Clãs e Seitas|o clã]], uma caverna, um Gu de armazenamento) — e isso é uma sessão, não uma rolagem.
+
+**Os materiais valem mais que as Pedras, e quase sempre.** Um material raro de rank 3 vale mais que os 1.000 do bolso e, diferente das Pedras, **não se compra na loja** ([[🏪 O Mercado|O Mercado]]) — é o que trava uma receita que o grupo tem e não consegue montar. Quando montar um inimigo, escolha os materiais dele **olhando o que o grupo está tentando refinar**: é assim que uma luta vira progressão em vez de saque genérico.
+
+> [!tip] Coagir é melhor que matar, e o bolso é o motivo
+> A [[#3. Coagir — a entrega sob ameaça|entrega sob ameaça]] rende o Gu e a receita. Matar rende o bolso e o corpo. **Um inimigo vivo e amedrontado vale muito mais que um morto** — e saber quanto ele carrega é o que permite ao mestre deixar isso evidente na cena, em vez de esperar que o grupo adivinhe.
+
+## 🐺 O que uma fera deixa
+
+**Uma fera desolada é uma pilha ambulante de ingredientes**, e é assim que a economia de caça funciona: o valor não está no que ela guarda, está no que ela **é**. Cada fera rende de **2 a 4 partes** — a lista exata é do molde dela ([[🐺 Reis Fera e a Maré]], [[⚔️ Ameaças Genéricas por Rank]]) —, e o valor total se reparte entre elas.
+
+| Rank da fera | **Valor total do material** | O que costuma sair |
+|---|---|---|
+| 1 | **30 – 80** | Pele, presas, carne |
+| 2 | **80 – 300** | Pele boa, ossos, glândula |
+| 3 | **300 – 2.000** | Couro de refino, núcleo, órgão específico |
+| 4 | **2.000 – 20.000** | Material de Gu de rank 4, essência condensada |
+| 5 | **20.000 – 200.000** | Material de receita rara; algumas partes são únicas |
+
+**A calibragem:** uma fera do mesmo rank vale cerca de **um quinto** de um Gu daquele rank. Caçar é a forma mais honesta de ganhar dinheiro deste mundo, e a mais lenta — cinco feras de rank 3 pagam um Gu de rank 3, e cada uma delas pode matar você.
+
+### Como você mata decide quanto vale
+
+**Esta é a regra que transforma a caça em decisão em vez de rolagem.** O método de abate cobra do espólio:
+
+| Como caiu | O que sobra |
+|---|---|
+| **Morte limpa** — precisão, veneno, alma, um golpe certeiro | **Valor cheio** |
+| Combate normal, sem cuidado | **−25%** — a pele fura, os ossos racham |
+| **Fogo, ácido, explosão, esmagamento** | **−50% ou mais**, e a parte mais valiosa costuma ser justamente a que queimou |
+| **Deixada no campo** mais de um dia | **−50%**, e nada de órgão ou glândula: apodrece primeiro |
+
+**Consequência de mesa, e ela é boa:** o grupo que quer o material tem que lutar de um jeito **pior** para consegui-lo — segurar o Gu de Fogo, aceitar mais rodadas, arriscar mais. Um cultivador de Fogo caçando é alguém que está literalmente queimando o próprio salário, e ele sabe disso.
+
+> [!info] Material de fera de rank 3+ tem uso direto, além do preço
+> Ele soma **uma vez**: +1 de RD numa armadura, ou +1 de acerto numa arma ([[⚔️ Combate|Combate]]). Então nem todo material precisa ser vendido — e um grupo que caça para equipar a si mesmo pula o mercado inteiro, que é a jogada certa quando o mercado local não tem o que eles querem.
+
+> [!note] De onde saem estes números
+> Ancorados na tabela de preço de [[🏪 O Mercado]] (Gu de rank 1 ≈ 500 Pedras, rank 3 entre 1.000 e 10.000) e na escala de vida de [[💠 Economia das Pedras Primordiais]] (uma família vive com 1 Pedra por mês; a mesada de clã de um rank 1 é 40). As duas proporções — bolso a **um décimo** de um Gu do mesmo rank, fera a **um quinto** — foram escolhidas para que **saquear pague a viagem e caçar pague o equipamento**, sem que nenhum dos dois pague um Gu de uma vez só. Ver decisão 239 no [[🧭 Log de Decisões]].
