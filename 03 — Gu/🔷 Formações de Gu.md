@@ -44,7 +44,7 @@ Uma matriz montada com Gu ancorados no solo de um território: **Gu-núcleo** (q
 > [!example]+ Exemplo, parte 1 — montando a Formação Terrestre
 > Ainda mortal, rank 3, o Mestre de Gu decide proteger o pátio principal do clã. Escolhe **Grau II — Recinto**: 2 Gu-núcleo + 4 Gu de apoio, 200 m de raio, 6 horas de montagem ininterrupta. Um núcleo vira **Defesa de área**, o outro **Detecção** — juntos, a formação blinda quem está dentro (RD `2×M`) e avisa o fundador de quem se aproxima. Manutenção diária: `(2+4)² × 5 = 180` de essência, ~5 Pedras Primordiais/dia, pagas por um veio de essência natural que corre sob o pátio.
 
-**Cada Gu-núcleo escolhe uma função** da tabela abaixo, e a formação faz todas as funções dos núcleos que tiver. Uma formação de grau III com três núcleos pode ser Detecção + Supressão + Armadilha, ou três núcleos de Defesa empilhados (e aí a RD não empilha — vale a regra de [[⚔️ Combate|Combate]]: a maior mais metade da segunda).
+**Cada Gu-núcleo escolhe uma função** da tabela abaixo, e a formação faz todas as funções dos núcleos que tiver. Uma formação de grau III com três núcleos pode ser Detecção + Supressão + Armadilha, ou três núcleos de Defesa empilhados (e aí a RD não empilha — vale a regra de [[⚔️ Combate|Combate]]: a vale só a maior, e a segunda não soma nada — decisão 223).
 
 ## O que uma formação faz
 
