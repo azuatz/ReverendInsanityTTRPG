@@ -419,6 +419,17 @@ def reset_rd_stats():
         RD_STATS[k] = 0 if k in ("hits", "clamped") else 0.0
 
 
+# Instrumentação nova da décima sexta: quanto dano cada PJ entrega, separado
+# por trilho (Vitalidade × Alma). É com ela que se lê se o nerf piorou o
+# Caminho da Alma em cena de grupo — que é o ponto fraco dele, não o forte.
+DMG_TRACK = None
+
+
+def reset_dmg_track(on=True):
+    global DMG_TRACK
+    DMG_TRACK = ({n: dict(vit=0.0, alma=0.0) for n in PCS_BASE} if on else None)
+
+
 # ---------------------------------------------------------------------------
 # Fichas dos 4 PJs (A Mesa — Personagens dos Jogadores)
 # ---------------------------------------------------------------------------
@@ -726,7 +737,17 @@ def resolve_pc_hit(pc, target):
     if not used_raw:
         pc["essence"] -= ACT_COST_BASE * pc["ess_mod"]
 
-    alma_shot = pc["alma_dmg"] and not used_raw
+    # --- A MOEDA 80:20 (décima sexta) ---------------------------------------
+    # Com `alma_frac >= 1` NENHUMA rolagem nova é consumida: o fluxo aleatório
+    # fica bit-a-bit igual ao das quinze rodadas anteriores, e por isso o
+    # perfil "puro Alma" reproduz os números publicados.
+    if not pc["alma_dmg"] or used_raw:
+        alma_shot = False
+    elif pc.get("alma_frac", 1.0) >= 1.0:
+        alma_shot = True
+    else:
+        alma_shot = random.random() < pc["alma_frac"]
+
     def_val = target["alma_def"] if (alma_shot and target.get("alma_def") is not None) else target["defense"]
     hit = crit or acerto >= def_val
 
@@ -738,7 +759,8 @@ def resolve_pc_hit(pc, target):
         dmg = apply_rd(dmg, target.get("rd", 0), 1)
         pool_name = "vit"
     elif alma_shot and target.get("alma") is not None:
-        dmg, n = pc_attack_dmg(pc, crit)
+        dmg, n = pc_attack_dmg(pc, crit, dado_override=alma_dado())
+        dmg = aplica_rd_alma(dmg, target, pc["M"])
         pool_name = "alma"
     else:
         dmg, n = pc_attack_dmg(pc, crit)
@@ -747,6 +769,10 @@ def resolve_pc_hit(pc, target):
 
     if pool_name == "alma" and target.get("alma") is None:
         pool_name = "vit"
+
+    # instrumentação da décima sexta: quinhão de dano por PJ e por trilho
+    if DMG_TRACK is not None:
+        DMG_TRACK[pc["name"]][pool_name] += dmg
 
     target[pool_name] -= dmg
     max_pool = target[pool_name + "_max"]
@@ -778,6 +804,7 @@ def resolve_enemy_hit(enemy, target, dado_override=None, bonus_acerto=0, alma_sh
 
     if alma_shot:
         pool = "alma"
+        dmg = aplica_rd_alma(dmg, target, enemy["M"])
     else:
         pool = "vit"
         bruto = dmg
@@ -865,16 +892,24 @@ def golpe_matador_xie(xie, boss):
     cd = 12 + 2 * n_gu
     teste = random.randint(1, 20) + xie["AST"]
     if teste >= cd:
+        # A MOEDA 80:20 vale também para o Golpe Matador (escolha declarada no
+        # cabeçalho): 20% dele é um golpe de Alma, 80% um golpe de Lua.
+        if xie.get("alma_frac", 1.0) >= 1.0:
+            golpe_alma = True
+        else:
+            golpe_alma = random.random() < xie["alma_frac"]
         acerto_roll = random.randint(1, 20)
         crit = acerto_roll == 20
         acerto = acerto_roll + xie["VON"] + 2 * xie["rank"] + 2 + treino_pj(xie["rank"])
-        def_val = boss["alma_def"]
+        usa_alma = golpe_alma and boss.get("alma") is not None
+        def_val = boss["alma_def"] if usa_alma else boss["defense"]
         if crit or acerto >= def_val:
             n = xie["M"] * xie.get("pool_mult", 1) * (2 if crit else 1)
-            dado, extra_b = apply_niveis(12, NIVEL_DELTA + xie.get("nivel_bonus", 0))
+            base_dado = alma_dado() if usa_alma else xie["dado"]
+            dado, extra_b = apply_niveis(base_dado, NIVEL_DELTA + xie.get("nivel_bonus", 0))
             dmg = roll_pool(n, dado) + xie["M"] * (xie["B"] + apoios + extra_b)
-            if boss.get("alma") is not None:
-                boss["alma"] -= dmg
+            if usa_alma:
+                boss["alma"] -= aplica_rd_alma(dmg, boss, xie["M"])
                 if boss["alma"] > 0 and crit and boss["alma"] <= 0.25 * boss["alma_max"]:
                     apply_fratura(boss)
             else:
@@ -912,17 +947,23 @@ def golpe_matador_coletivo(pcs, boss):
 
     teste = random.randint(1, 20) + nucleo["AST"]
     if teste >= cd:
+        if nucleo.get("alma_frac", 1.0) >= 1.0:
+            golpe_alma = True
+        else:
+            golpe_alma = random.random() < nucleo["alma_frac"]
         acerto_roll = random.randint(1, 20)
         crit = acerto_roll == 20
         acerto = (acerto_roll + nucleo["VON"] + 2 * nucleo["rank"] + 2
                   + treino_pj(nucleo["rank"]))
-        def_val = boss["alma_def"]
+        usa_alma = golpe_alma and boss.get("alma") is not None
+        def_val = boss["alma_def"] if usa_alma else boss["defense"]
         if crit or acerto >= def_val:
             n = nucleo["M"] * nucleo.get("pool_mult", 1) * (2 if crit else 1)
-            dado, extra_b = apply_niveis(12, NIVEL_DELTA + nucleo.get("nivel_bonus", 0))
+            base_dado = alma_dado() if usa_alma else nucleo["dado"]
+            dado, extra_b = apply_niveis(base_dado, NIVEL_DELTA + nucleo.get("nivel_bonus", 0))
             dmg = roll_pool(n, dado) + nucleo["M"] * (nucleo["B"] + bonus_levels + extra_b)
-            if boss.get("alma") is not None:
-                boss["alma"] -= dmg
+            if usa_alma:
+                boss["alma"] -= aplica_rd_alma(dmg, boss, nucleo["M"])
                 if boss["alma"] > 0 and crit and boss["alma"] <= 0.25 * boss["alma_max"]:
                     apply_fratura(boss)
             else:
@@ -1019,7 +1060,7 @@ def enemy_turn(e, pcs, enemies):
             aplica_lentidao = True
             if e.get("special_type", "alma") == "alma":
                 alma_shot = True
-                dado_override = 12
+                dado_override = alma_dado()   # décima sexta: o nerf vale para os dois lados
             else:
                 bonus = 4
                 dado_override = 10
