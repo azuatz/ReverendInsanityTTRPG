@@ -63,10 +63,17 @@ Registro vivo dos quatro jogadores e dos personagens. Atualize conforme a criaç
 
 É literalmente o que aconteceu com ele aos oito anos, acontecendo de novo: ele não se salva, **é salvo**, e não decide quando. Uma vez por arco, não por sessão — é evento, não recurso.
 
-> [!tip] Por que o buff é este, e não mais dano
-> Ele é o personagem de maior tanque de essência da mesa (QI 344, o maior dos quatro) e **nenhum ponto de dano na ficha**. O gargalo dele nunca foi bater mais forte: foi **poder pagar a jogada boa mais de uma vez por cena**. Tirar a dobra do híbrido ataca exatamente isso, e ataca só ali — fora do Golpe Matador misto, ele continua um cultivador comum de dois Caminhos.
+> [!failure] Medido: este buff **não conserta o problema dele** — alvo errado, não dose errada
+> A isenção de híbrido foi medida e rende **0,0 pontos percentuais** nas doze células de duelo PJ × PJ. O motivo não é o tamanho do número: é que **o Golpe Matador nunca dispara num duelo**. A própria regra diz isso por extenso — contra um Mestre de Gu, a resposta à pergunta "vale montar o combo?" é *não* ([[⚡ Golpes Matadores]]). A isenção só existe onde há Chefe, e lá vale entre **−1,0 e +0,8pp**, ou seja ruído.
 >
-> É também o formato certo de Buff de Lore, pelo padrão de [[⚖️ Pontos de Criação|Pontos de Criação]]: **dobra uma regra existente, não inventa um número maior.**
+> **E a essência nunca foi a restrição num duelo dele:** ele tem 27 ações de tanque no rank 3 e 55 no rank 5. Eu desenhei um buff de **economia de cena** para um personagem cujo problema é **duelo**. Dosar não adianta — dobrar o efeito mede o mesmo nada.
+>
+> **O buff fica**, porque é bom de ficção e porque é real contra Chefes, que é onde a mesa vai passar os clímax. Mas ele **não** responde ao pedido que o motivou, e o mestre não deve contar com ele para equilibrar duelos. A resposta certa depende da remedição descrita abaixo — e pode ser que nem precise existir.
+
+> [!warning] Não recalibre nenhuma ficha agora — o ranking está inválido por assimetria de modelagem
+> A medição mais recente pôs o **Xie Lang fechando a fila** nos ranks 3 e 5 (20,0% e 21,7%), o que reprova o critério da mesa. **Mas a causa é um buraco de modelagem, não a ficha dele:** o motor só dava os Níveis da escada de Caminho à Lee — o **Jiāotáng tem a mesma escada pelo Caminho da Força e nunca a recebeu**. Com paridade, o quadro fecha nos três ranks e o Demvi volta a ser o último, como deve.
+>
+> Ou seja: **é bem possível que não exista problema de balanceamento nenhum aqui** — só um buraco que estava lá desde sempre e que apareceu quando a Lee virou corpo a corpo. Nem reforçar o Xie Lang, nem dosar a Lee, até a remedição com paridade fechar.
 
 **O fio preso nele:**
 - **Nunca pode tomar um terceiro Caminho.** Lua e Alma ocupam o espaço inteiro — nada entra, nem por herança, nem por Gu Imortal.
@@ -111,6 +118,11 @@ Esses 63% e 70% foram medidos **com o Físico ainda na ficha**, e portanto estã
 Pelas regras normais, cada Caminho além do primeiro soma +50% ao custo de progressão de ambos (ver [[🛤️ Os Caminhos|Os Caminhos]]) — cinco Caminhos seria matematicamente impossível.
 
 **O buff:** "Cinco Elementos" é **um Caminho só**, com os cinco funcionando como faces dele. Ela paga o custo de **um** Caminho, e as sinergias dos ciclos de geração e destruição saem de graça (ver [[☯️ Os Cinco Caminhos Wu Xing|Os Cinco Caminhos Wu Xing]]).
+
+> [!success] Medido: a foice consertou o buraco dela, e com folga
+> A Lee era **a última da mesa** em duelo nos ranks 3 e 5 (**29,7%** e **32,1%**) e tinha o pior número de todos sozinha contra um Mestre de Gu (**5,3 / 5,8 / 18,2%** — praticamente uma sentença). Com a foice, ela vai a **67,4%** e **75,5%** em duelo, e a **36,6 / 30,7 / 61,7%** contra o Mestre de Gu.
+>
+> E não foi número inventado para consertar: a ficha dela foi montada **direto do [[📖 Catálogo de Gu|Catálogo]]**, e a foice com os Níveis da escada Wu Xing reproduz exatamente as linhas já publicadas lá — `4d12+4+FOR` no rank 3, `8d12+16+FOR` no 4, `16d12+48+FOR` no 5. O buff dos cinco elementos sempre bancou isso; o que faltava era ela **empunhar alguma coisa**.
 
 > [!important] Ela luta de foice, no corpo a corpo — não é uma conjuradora
 > A Lee **ataca por FOR com uma foice** (arma pesada, `d10`), e os Gu elementais entram como amplificação e entrega: o dano dela é multiplicado pelo `M` do Gu de melee que estiver ativo, com os Gu de suporte dos cinco elementos completando o resto. Ver [[⚔️ Combate|o dano melee]] e o [[📖 Catálogo de Gu|Catálogo]], que traz Gu de ataque corpo a corpo nos cinco elementos.
