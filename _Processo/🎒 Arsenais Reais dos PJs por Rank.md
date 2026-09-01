@@ -442,6 +442,18 @@ contra ele** e cobre mecanicamente metade do Buff de Lore dele · sem pegada.
 
 # 5. Resumo para o motor de simulação
 
+> [!warning] Alimente o motor com os **pools prontos** desta tabela, não com "Níveis efetivos"
+> A linha de ataque de cada rank já traz o pool final, e é ela que deve ir para o motor. **Não tente
+> derivar "quantos Níveis cada PJ tem" a partir dela** — o bônus fixo que aparece depois do `d` mistura
+> duas coisas que a expressão não separa: o **Grau de Densidade do estágio** (`M × B`) e os **Níveis
+> excedentes** de quem já chegou a d12 e passou a somar +1 por dado. `16d12 + 48` da Lee tanto pode ser
+> estágio Pico sem Níveis excedentes quanto estágio Inicial com três — e a diferença **não está escrita
+> em lugar nenhum desta nota**, porque os arsenais foram montados sem fixar estágio.
+>
+> **Consequência para quem for medir:** ou a bateria declara o estágio de cada PJ como premissa
+> explícita, ou usa os pools como estão e não mexe em `B`. As duas são válidas; misturar as duas é o
+> erro que produz um número plausível e errado.
+
 | | Xie Lang | Jiāotáng | Lee | Demvi |
 |---|---|---|---|---|
 | **R1 — ataque principal** | `1d8` (Luar, 2 disparos/ativação) | `1d10 + FOR 5` melee (javali) | `1d12 + FOR 3` foice (Punho de Seixo) | `1d8` (Aragem, 2 disparos, **passo −1 + Posição**) |
