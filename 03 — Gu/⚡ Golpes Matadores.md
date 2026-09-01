@@ -52,6 +52,16 @@ Um Golpe Matador **empurra o Gu núcleo pra cima na [[⚔️ Combate|Escada de D
 
 **O teto de apoios é o [[🪜 Ranks e Estágios|Teto de Combo]] do seu estágio menos um** — o núcleo também ocupa uma vaga. É uma regra só, não duas: o estágio diz quantos Gu cabem no golpe, e cada apoio vale +1 Nível. Um Golpe Matador **coletivo de 4 personagens** continua chegando a +6 (decisão 32).
 
+> [!danger] E o pool DOBRA — um Golpe Matador que sai é devastador, não "um pouco melhor"
+> ```
+> Golpe Matador bem-sucedido → role 2 × M dados
+> ```
+> É a mesma mecânica do crítico ([[⚔️ Combate|Combate]]): **dobra o número de dados, e o bônus por dado não dobra**. Um combo de 4 Gu no rank 3, com núcleo d10 e três apoios, sai de `4d12 + 28` para **`8d12 + 28`** — de média 54 para 80.
+>
+> **Por que isto existe, e por que é a peça que faltava.** O Golpe Matador é a jogada de **risco alto**: custa o tanque, deixa você exposto até o próximo turno, e falhar cobra a essência inteira mais todos os Gu do combo pelo resto da cena. Uma aposta desse tamanho com retorno de 30% é matematicamente ruim — e estava medida como ruim, com a perda esperada superando o ganho em todas as células.
+>
+> **A correção não foi abrandar o risco; foi levantar a recompensa até ela justificar o risco.** É o que a obra mostra: um golpe matador que acerta não deixa o alvo ferido, deixa o alvo resolvido. Quem dispara está apostando a luta inteira numa ação — e quando ganha, ganha a luta.
+
 > [!note] Por que +4 não desequilibra
 > O freio é o custo, que cresce com o quadrado do tamanho do combo: um golpe de 5 Gu num Caminho só custa `(40×5) × 5 = 1.000` de essência, contra 640 do de 4 Gu. O quarto apoio se paga sozinho — e só existe no Pico, que é o topo da progressão de estágio.
 
@@ -173,9 +183,11 @@ Falhar no teste de conjuração não é só "não acontece nada". Os Gu foram fo
 > [!danger] A Retaliação é o custo real do Golpe Matador — e é maior que o ganho de dano
 > Isto não estava escrito em lugar nenhum, e é o número mais importante desta nota. **Medida, a perda esperada da Retaliação supera o ganho de dano em todas as células testadas.** Para o combo se pagar **só em dano**, a chance de conjuração precisaria estar entre **88% e 98%** nos ranks 3 a 5 — e a regra nova entrega 80 a 85%, ou seja **ainda faltam de 3 a 21 pontos**. *(A medição original incluía o rank 1, onde a conta pedia mais de 100% — impossível. Esse caso **deixou de existir**: Golpe Matador é de rank 3 em diante, e o rank 1 nunca monta um. O que resta de pé é a faixa dos ranks 3 a 5, que é onde a regra vale.)*
 >
-> **A conclusão não é que o subsistema está quebrado — é que ele não se justifica por dano, e nunca vai se justificar.** O que paga o Golpe Matador é a **Prerrogativa**: o alvo blindado que você não fura de outro jeito, o fugitivo que você precisa selar, o inimigo que tem que sair vivo. Essas coisas não têm preço em dano por ação, e por isso a Retaliação não as anula.
+> **Foi esse número que motivou o pool dobrado** (decisão 244). Havia duas saídas: abrandar a Retaliação, ou levantar a recompensa até ela justificar o risco. **Escolhida a segunda, por decisão do autor** — Golpe Matador deve ser *alto risco e alta recompensa*, com as partes ruins que a obra mostra, e abrandar a punição teria apagado metade da identidade da jogada.
 >
-> **Na prática de mesa:** se você olhou o alvo e a única razão para disparar é "vai doer mais", **não dispare** — a conta já está feita e ela dá negativo. Se a razão é "de outro jeito eu não resolvo isto", dispare, e aceite a Retaliação como o preço de ter uma resposta.
+> Com o pool dobrado, o dano esperado por ação sobe para **2,2× a 2,5×** o de um ataque comum nos ranks 3 a 5 — folgadamente acima do ponto de equilíbrio, mesmo pagando a perda de arsenal nas falhas. **A Retaliação continua brutal de propósito:** ela é o preço de uma jogada que agora ganha a luta quando sai.
+>
+> **Na prática de mesa:** o Golpe Matador voltou a ser a maior jogada do personagem, e continua sendo uma aposta. Dispare quando a cena valer a aposta — contra o alvo que decide a luta, não contra o próximo capanga. Perder o combo contra um Guerreiro é perder a essência, o arsenal da cena e a chance de usá-lo quando importava.
 
 ### 💀 O que o golpe custa aos próprios Gu
 
