@@ -2699,6 +2699,65 @@ Três de três, quase exatas. **A regra estava apontando o jogador para a versã
 
 ---
 
+## 🐉 Vigésima segunda rodada — o Chefe mais duro *(2026-09-01)*
+
+Script: [`2026-09-01-vigesima-segunda-o-chefe-mais-duro.py`](simulacoes/2026-09-01-vigesima-segunda-o-chefe-mais-duro.py) · 3.000 iterações/célula · semente `20260830`.
+
+O autor fechou a alavanca do reforço do Chefe: **barra maior** (`Vitalidade 63 × M → 94 × M`), e não ações a mais nem rank acima. Esta rodada implementa e mede — com **duas saídas obrigatórias**, porque acertar só uma não resolve nada:
+
+- **vitória do grupo em 56-87%** (a faixa do molde)
+- **cena em 6-8 rodadas** (o ritmo fixado pela decisão 208)
+
+### 🔴 O `94 × M` uniforme não serve — e falha nas duas saídas
+
+| Rank | Publicado (63) | **Escolhido (94)** | Veredito |
+|---|---|---|---|
+| 1 | 17,4% · 6,71r | **0,9% · 8,27r** | ✗ execução |
+| 2 | 87,5% · 7,15r | **45,0% · 9,23r** | ✗ abaixo da faixa |
+| 3 | 95,2% · 7,38r | **63,8% · 10,09r** | ◐ vitória ok, cena estoura |
+| 4 | 87,7% · 6,83r | **43,4% · 9,09r** | ✗ abaixo da faixa |
+| 5 | 97,2% · 6,11r | **69,8% · 8,42r** | ◐ vitória ok, cena estoura |
+
+*(Formato: vitória / rodadas em cenas vencidas.)*
+
+**A vitória sai da faixa por baixo em três dos cinco ranks** (1, 2 e 4 caem para 0,9%, 45,0% e 43,4% — o piso é 56%). **E o ritmo estoura em todos os cinco**, de 8,27 a 10,09 rodadas contra um teto de 8. Os dois riscos sinalizados antes da rodada estavam certos, e o do rank 1 era pior do que o palpite.
+
+### 🟢 O rank 1 não tem problema de barra — tem problema de ações
+
+O Chefe de rank 1 é o único da tabela com **quatro ações por rodada** (ranks 2-3 têm duas, 4-5 têm três). A nota já o trata como anomalia e oferece um contorno ("use 1 Elite + 3 Mestres em vez de Chefe"). **Medido, a anomalia se dissolve sem contorno nenhum:**
+
+| Ações | VIT | Vitória | Rodadas | Alvo |
+|---|---|---|---|---|
+| 4 *(publicado)* | 63 | 18,4% | 6,58 | ✗ |
+| 3 | 63 | 36,8% | 6,93 | ✗ |
+| **2** | **63** | **69,8%** | **7,23** | **✅ os dois** |
+| 2 | 72 | 54,7% | 7,94 | quase |
+
+**Duas ações e a Vitalidade publicada intacta colocam o rank 1 no centro dos dois alvos.** A célula mais dura do jogo inteiro era um número de ações fora da escada, não uma falta de dureza mal calibrada — e o reforço proposto (barra maior) a levava de 18% para **0,9%**, ou seja, execução garantida.
+
+### 📐 A escada que fecha as duas saídas
+
+Varredura de `vit_mult` por rank, escolhendo a célula que acerta vitória **e** ritmo:
+
+| Rank | Ações | Vitalidade | Vitória | Rodadas | |
+|---|---|---|---|---|---|
+| **1** | **2** *(era 4)* | `63 × M` *(inalterada)* | 69,8% | 7,23 | ✅ |
+| **2** | 2 | **`72 × M`** | 79,5% | 7,87 | ✅ |
+| **3** | 2 | **`78 × M`** | 83,7% | 8,61 | ◐ ritmo +0,6 |
+| **4** | 3 | **`72 × M`** | 77,4% | 7,55 | ✅ |
+| **5** | 3 | **`80 × M`** | 85,7% | 7,40 | ✅ |
+
+**O rank 3 é o único que não fecha limpo.** Varredura fina (63 · 66 · 68 · 70 · 72 · 75 · 78) não encontra célula que acerte os dois: em `70 × M` a vitória fica 2,8pp acima do teto (89,8%) com o ritmo dentro; em `78 × M` a vitória entra (83,7%) e o ritmo passa 0,6 rodada. É o rank em que o arsenal do grupo mais supera o molde, e a tensão entre as duas saídas não tem solução só de barra.
+
+### ✅ O que esta rodada estabelece
+
+- **`94 × M` uniforme está rejeitado por medição**, não por opinião: erra a vitória em três ranks e o ritmo em cinco.
+- **O reforço tem de ser por rank**, e o número certo fica entre `72 × M` e `80 × M` — bem abaixo do `94 × M` proposto. A intuição de que faltava barra estava certa; a magnitude era quase o dobro do necessário.
+- **O rank 1 sai da lista de problemas de graça**, trocando quatro ações por duas, sem tocar em Vitalidade. Isso torna o contorno publicado ("1 Elite + 3 Mestres") opcional em vez de recomendado.
+- **A alavanca de ações não está esgotada como se supunha.** A rejeição registrada era sobre *somar* ações (decisões 137 e 209); **subtrair** ações do rank 1 é o movimento oposto e é o único que resolve aquela célula.
+
+---
+
 ## ☯️ Marcas de Dao no topo — a escada linear já entrega o veredito da ficção? *(2026-08-31)*
 
 Pendência testada: item de "Em aberto" no [[🧭 Log de Decisões]] apontando que a escada de domínio de [[☯️ Marcas de Dao]] (convertida em `01 — Fundação/⚔️ Combate.md#☯️ Marcas de Dao — o dano depois do rank 6`) é uma progressão em degraus (+1 de `B` por patamar, um único dobramento de pool no topo) enquanto o romance descreve a amplificação por Marca, no rank 8, como saltando para multiplicadores de "centenas ou milhares de vezes" — dado como a explicação canônica de por que rank 7 quase nunca vence rank 8.
