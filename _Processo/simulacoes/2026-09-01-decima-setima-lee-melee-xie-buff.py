@@ -3649,6 +3649,103 @@ def bateria_p5(p1):
     return out
 
 
+def bateria_p9():
+    print("\n" + "=" * 122)
+    print("BATERIA P9 — A ALAVANCA QUE SOBRA: o atrito do degrau d8, que o motor nunca modelou")
+    print("A décima sexta deixou isto em aberto (item ⚠️): o motor não dá CONTROLE nenhum a PJ, e")
+    print("é exatamente disso que o degrau d8 vive pela Tabela de Letalidade — *'dano constante mais")
+    print("atrito real… o perfil que ganha lutas longas'*. 80% dos ataques do Xie Lang são d8 de Lua.")
+    print("NOVIDADE desta rodada: com a Lee em d10/d12, o Xie Lang é o ÚNICO d8 da mesa — o knob")
+    print("deixou de ser ambíguo e mede só a Lua dele. Lee melee (teto) ligada; sem golpe no duelo.")
+    print("=" * 122)
+    out = {}
+    for p in (0.0, 1 / 3, 2 / 3):
+        configura(lee="melee — foice + Wu Xing", isencao=True, golpe_duelo=False)
+        set_lua_atrito(p)
+        random.seed(20260830)
+        cel, placar = matriz_pvp(verbose=False)
+        out[p] = placar
+        print(f"\n### atrito de Lua em {p*100:.0f}% dos acertos ###")
+        _print_ranking(placar)
+        r = cel[("Xie Lang", "Demvi", 3)]
+        r5 = cel[("Xie Lang", "Demvi", 5)]
+        print(f"    Xie Lang × Demvi:  r3 {r['win_a']/(r['win_a']+r['win_b'])*100:.1f}%  ·  "
+              f"r5 {r5['win_a']/(r5['win_a']+r5['win_b'])*100:.1f}%")
+    set_lua_atrito(0.0)
+    return out
+
+
+def bateria_p8():
+    print("\n" + "=" * 122)
+    print("BATERIA P8 — PARIDADE: a Lee é a ÚNICA da mesa cujos Níveis de ficha o motor modela")
+    print("Dezesseis rodadas rodaram com `nivel_bonus = 0` para todo mundo. Ao dar à Lee a escada")
+    print("Wu Xing do Catálogo, ela ganha algo que o Jiāotáng também tem na ficha e nunca recebeu:")
+    print("  [[💪 Caminho da Força]] — Gu do Tendão de Búfalo (r2, +1 Nível) · Gu da Mão de Pedra")
+    print("  (r3, +1 permanente) · Gu do Tirano de Mil Jin (r4, +2 Níveis, sustentado até o r5).")
+    print("  E isso ainda é PISO para ele: a Descarga do Ímpeto soma +3 Níveis a 5 de Ímpeto.")
+    print("Aqui os dois recebem a escada da própria ficha, para ver se a ultrapassagem sobrevive.")
+    print("=" * 122)
+    JIAO_ESCADA = {1: 0, 2: 1, 3: 1, 4: 2, 5: 2}
+    out = {}
+    for rot, jiao, lee in (
+            ("como o motor roda hoje (só a Lee com escada)", None, "melee — foice + Wu Xing"),
+            ("PARIDADE — os dois com a escada da ficha", JIAO_ESCADA, "melee — foice + Wu Xing"),
+            ("PARIDADE — Jiāotáng com escada, Lee no piso", JIAO_ESCADA, "melee — foice crua (piso)")):
+        configura(lee=lee, isencao=True, golpe_duelo=False)
+        if jiao is not None:
+            set_pc_variant("Jiaotang", nivel_bonus_rank=jiao)
+        random.seed(20260830)
+        cel, placar = matriz_pvp(verbose=False)
+        out[rot] = placar
+        print(f"\n### {rot} ###")
+        _print_ranking(placar)
+    reset_pcs()
+    return out
+
+
+def bateria_p7():
+    print("\n" + "=" * 122)
+    print("BATERIA P7 — A ISENÇÃO ONDE ELA REALMENTE VIVE: a cena de CLÍMAX (grupo × Chefe)")
+    print("O Golpe Matador do Xie Lang só dispara contra um Chefe — é a única composição publicada")
+    print("em que a economia de essência dele existe no motor, e a única leitura da isenção que")
+    print("NÃO depende de nenhuma escolha de modelagem nova. Lee melee ligada nos dois lados.")
+    print("=" * 122)
+    out = {}
+    for rot, kw in (("sem isenção (regra de hoje)", dict(isencao=False)),
+                    ("COM a isenção (decisão 233)", dict(isencao=True)),
+                    ("dial ×1,5 no híbrido", dict(dial=1.5))):
+        configura(lee="melee — foice + Wu Xing", golpe_duelo=False, **kw)
+        print(f"\n### {rot} ###")
+        grupo, quinhao = bateria_grupo()
+        out[rot] = grupo
+    print("\n  Δ da isenção na coluna Clímax (a única em que o golpe dispara):")
+    base = out["sem isenção (regra de hoje)"]
+    for rot in ("COM a isenção (decisão 233)", "dial ×1,5 no híbrido"):
+        deltas = [(out[rot][(rk, "climax")]["win"] - base[(rk, "climax")]["win"]) * 100
+                  for rk in RANKS_SOLO]
+        print(f"    {rot:32s} " + " ".join(f"r{rk} {d:+6.2f}pp" for rk, d in zip(RANKS_SOLO, deltas)))
+
+    print("\n  -- E o achado colateral: o TESTE DE CONJURAÇÃO do motor não é o publicado --")
+    print("  Motor: `d20 + AST`. Publicado: `d20 + AST + nível de domínio`, CD −4 se registrado.")
+    print("  Chance de o golpe do Xie Lang sair, por rank:")
+    for rank in RANKS_SOLO:
+        p = make_pc("Xie Lang", rank)
+        n = SOLO_APOIOS_MAX[p["B"]] + 1
+        cd = 12 + 2 * n
+        hoje = max(0, 21 - (cd - p["AST"])) / 20
+        pub = max(0, 21 - (cd - 4 - p["AST"] - p["B"])) / 20
+        print(f"    rank {rank}: CD {cd}  ·  motor {hoje:5.0%}  ·  publicado {pub:5.0%}")
+    print("\n  Impacto do conserto na cena de Clímax (SÓ MEDIÇÃO — nada aplicado):")
+    configura(lee="melee — foice + Wu Xing", isencao=False, golpe_duelo=False,
+              teste_publicado=True)
+    grupo_fix, _q = bateria_grupo(verbose=False)
+    for rk in RANKS_SOLO:
+        d = (grupo_fix[(rk, "climax")]["win"] - base[(rk, "climax")]["win"]) * 100
+        print(f"    rank {rk}: {base[(rk,'climax')]['win']*100:5.1f}% → "
+              f"{grupo_fix[(rk,'climax')]['win']*100:5.1f}%  ({d:+.1f}pp)")
+    return out
+
+
 def bateria_p6():
     print("\n" + "=" * 122)
     print("BATERIA P6 — A CONTA DO GOLPE, EXPLÍCITA (o número do autor: 1.280 → 640)")
@@ -3679,7 +3776,10 @@ def main():
     p3 = bateria_p3()
     p4 = bateria_p4()
     p5 = bateria_p5(p1)
-    return p0, p1, p2, p3, p4, p5
+    p7 = bateria_p7()
+    p8 = bateria_p8()
+    p9 = bateria_p9()
+    return p0, p1, p2, p3, p4, p5, p7, p8, p9
 
 
 if __name__ == "__main__":
