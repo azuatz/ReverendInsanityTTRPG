@@ -712,3 +712,16 @@ que só é dial de verdade no rank 6. Achado colateral: **o motor nunca modelou 
 bônus de treino** de [[💪 Atributos]] (+9,9pp de lacuna, mais +2,7 da decisão
 211) — fork devolvido ao autor com três saídas medidas, nada republicado, aviso
 🔴 na nota.
+
+## [2026-08-31] simulação | Décima quarta rodada — a bateria estendida (decisão 214)
+Solo remedido com o piso da decisão 207 (a nona era pré-piso): Horda de 8 × 1 PJ
+virou execução (~5 rodadas, vitória 0-37%) e o alvo de 7-9 rodadas solo é
+inatingível em toda variante medida; Rei de Cem solo caiu pra 0,0-0,1% (sentença
+confirmada). Primeiro PJ×PJ desde a era Perl: sem degeneração generalizada de
+1-2 rodadas, mas **Xie Lang vence 84-99,5% de qualquer duelo** via Alma. O
+híbrido do treino (mortal sem treino + escada só nos moldes de rank 6+)
+recupera os ranks 7-9 como a saída (c) com 0,00pp de custo mortal, mas
+superaquece o rank 6 — quarta saída do item 🔴. Script novo em
+`_Processo/simulacoes/2026-08-31-decima-quarta-bateria-estendida.py`; seção
+nova nos Resultados; anotações em [[⚔️ Ameaças Genéricas por Rank]] e na seção
+da nona rodada; dois itens novos em aberto. Nenhuma regra mudou.

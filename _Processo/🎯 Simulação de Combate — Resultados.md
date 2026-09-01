@@ -11,6 +11,8 @@ escopo: processo
 # 🎯 Simulação de Combate — Resultados
 
 > [!important] Rodada mais recente
+> A **décima quarta rodada** ([[#🧭 Décima quarta rodada — a bateria estendida (2026-08-31)|2026-08-31]]) é a **bateria estendida** pedida pelo autor: as cenas solo remedidas com o piso da Horda, o primeiro PJ × PJ do motor atual, e a quarta saída do fork do treino. Quatro achados: **(1)** a Horda de 8 contra um PJ isolado deixou de ser guerra de atrito e virou **execução** (vitória 0-37%, ~5 rodadas — 10 de 12 células ≤ 1%), e o alvo de 7-9 rodadas solo é **inatingível** com qualquer variante medida (proporcional 2-3, `VIT × n/4`): solo, duração e piso pedem coisas opostas; **(2)** o Rei de Cem solo caiu de "melhor caso 8,4%" pra **0,0-0,1%** — a sentença que o design promete, agora absoluta; **(3)** no PvP a degeneração de 1-2 rodadas que o F&M teme não é a norma, mas **Xie Lang vence 84-99,5% de qualquer duelo** (80-100% das vitórias por queda de Alma) e o Lee segue no fundo, como na era Perl; **(4)** o **híbrido do treino** (mortal sem treino + escada só nos moldes de rank 6+) recupera os ranks 7-9 como a saída (c) **com 0,00pp de custo na fase mortal** — mas superaquece o rank 6 (ΔB 0: 51,8% → 4,4%). Nenhuma regra mudou; tudo devolvido ao autor com número.
+>
 > A **décima terceira rodada** ([[#✅ Décima terceira rodada — validação final conjunta (2026-08-31)|2026-08-31]]) é a **validação final conjunta** do lote de decisões 146-210 — o mesmo papel que a sexta rodada teve para as 103-133. Primeiro corrige o motor, que ainda modelava **Alma zerada como morte permanente** enquanto a decisão 205 já mandava tratá-la como inconsciência (Colapso Espiritual): medido com a mesma semente nos dois modelos, o efeito é **0,00pp na vitória em 25 de 25 células** e **+0,003 sobrevivente de 4** — a decisão 206 (Alma rara) tornou o Colapso raro, e ele é relógio de campanha, não alavanca de combate. Depois confere cada número publicado: **19 das 20 células da tabela de composição batem dentro de 3pp**, o **"~99%" do Rei de Cem Feras e o "0%" do Rei de Mil sobrevivem** ao piso da Horda, e a coluna de Vitalidade da Varredura não drifou. **Oito números foram corrigidos**, dois deles graves: a **tabela de ações do Chefe** contradizia a tabela de composição da própria nota (57% contra 3% para a mesma cena de rank 1), e a **régua ΔB imortal** só é dial de verdade no **rank 6** — nos ranks 7-9 nem um inimigo três níveis acima ameaça (98% de vitória do grupo no rank 9). E ao medir a decisão 211 (bônus de treino escalado, aplicada às regras durante esta rodada) apareceu o achado que ninguém procurava: **o motor nunca modelou o bônus de treino que [[💪 Atributos]] põe na fórmula de acerto de Gu** — ligar isso move a tabela +12,6pp em média, dos quais só +2,7 são da decisão 211 e +9,9 são uma lacuna antiga. **Nada foi republicado por causa disso**: é fork de design, devolvido ao autor com três saídas medidas, e a nota ganhou um aviso 🔴.
 >
 > A **décima segunda rodada** ([[#🗡️ Décima segunda rodada — a peça de muitas ações (2026-08-31)|2026-08-31]]) mede a **opção 4** da pendência da decisão 208 — a peça de **muitas ações e pouca Vitalidade** (molde "Enxame": `7 × M` de Vitalidade, 2 ações, `M d4`, sem RD e sem especial), desenhada pelo autor para *desacoplar* duração de dificuldade. **Veredito: a hipótese não se sustenta, e nada foi aplicado.** Encurta só 5,8% (pior que a alavanca mais fraca da rodada anterior), põe Difícil em 5,8-23,8% e Clímax em 1,2-40,0% (muito fora das faixas), e deixa o penhasco de ações mais íngreme em 4 de 6 células. O achado que fecha o caso é um guarda-corpo novo: a peça é **ameaça de primeira linha ou decorativa dependendo de o grupo focá-la ou não** — 10 a 16 ações executadas se ignorada, 0,56 a 2,40 (abaixo do Recruta solto) se focada — o que faz a dificuldade da cena oscilar **16,2pp em média e até 59,3pp**, contra 3,1pp das cenas publicadas. Nenhuma Vitalidade de `7 × M` a `14 × M` satisfaz as duas metades: **a solda entre duração e dificuldade se repete dentro da própria peça.**
@@ -459,6 +461,9 @@ Recém-chegado e denso produzem números **quase idênticos** — quando os dois
 ## 🥷 Nona rodada — batalhas solo *(2026-08-31)*
 
 Pedido direto do autor: toda bateria até aqui mede **a mesa de 4** — as rodadas 1-4 tinham duelos PJ×PJ, mas **nunca um PJ sozinho contra um molde de inimigo**. Esta rodada roda cada um dos quatro, sozinho, contra três cenas: **Mestre de Gu solo** (especial de Alma, o teto da variante), **Horda de 8** (a cena "Fácil" do grupo) e o **Rei de Cem Feras** de [[🐺 Reis Fera e a Maré]] (Elite + escolta de Horda de 8). Script: [[simulacoes/2026-08-31-nona-rodada-batalhas-solo.py|_Processo/simulacoes/2026-08-31-nona-rodada-batalhas-solo.py]] — cópia do motor da sétima rodada, nada reescrito. Ranks 1, 3 e 5 × 4 PJs × 3 cenas = 36 células, 3.000 iterações cada, semente `20260830`, MAX_ROUNDS 20 (timeout conta como derrota; ficou ≤2,1% em toda célula — sem estagnação).
+
+> [!warning] Números históricos — esta rodada é PRÉ-piso, e foi remedida
+> As células de Horda de 8 e de Rei de Cem abaixo foram medidas **antes** do piso de ataques da decisão 207 — o piso que o achado 3 desta mesma rodada motivou. Com o piso ativo a leitura muda de natureza: a Horda de 8 solo deixa de ser guerra de atrito de 10-19 rodadas e vira **execução em ~5** (vitória 0-37% conforme o perfil), e o Rei de Cem solo cai de "melhor caso 8,4%" para **0,0-0,1%**. Ver [[#🧭 Décima quarta rodada — a bateria estendida (2026-08-31)|a décima quarta rodada]]. As tabelas abaixo ficam como história.
 
 **Duas regras mudam de comportamento em jogo solo, e foram medidas COMO ESTÃO ESCRITAS:** (a) a Horda ataca **uma vez por personagem de pé** — solo, isso vira 1 ataque/rodada, um quarto do volume que o grupo recebe (ver o achado 3); (b) a cura do Lee ("o aliado mais machucado abaixo de 40%") — solo, o único candidato é ele mesmo: o Lee se cura, 1×/cena, com o Gu real da decisão 155; os outros três não têm cura nenhuma. Golpe Matador não dispara (o gatilho do motor é "há um Chefe na cena", como em todas as baterias — nenhuma das três cenas tem Chefe).
 
@@ -1125,6 +1130,97 @@ Rerodada por segurança, já que a rodada mexeu no motor: `d6 5,16 · d8 4,01 ·
 1. 🔴 **O bônus de treino, e o que fazer com ele** — a maior das três, e a única que invalida números publicados. Três saídas, todas medidas acima: **(a)** declarar que ataque de Gu em combate **não** é ação treinada (a tabela publicada fica certa como está, e [[💪 Atributos]] ganha essa ressalva na fórmula de acerto); **(b)** ligar o treino **só nos PJs** e republicar a tabela +12,6pp acima, aceitando que "Difícil" passa a medir 46-86%; **(c)** ligar **simétrico**, que salva a média mortal e **conserta a fase imortal**, mas derruba Padrão pesado de rank 5 em 56pp e exige recompor as cenas com Horda. A opção (c) é a única que resolve duas pendências de uma vez.
 2. **Difícil de rank 4 mede 61,6%**, contra a faixa de 40-52% — o degrau para o rank 5 (`4 Mestres`, 37,4%) é de 24pp. Precisa de composição própria para o rank 4, ou de aceitar mais uma exceção documentada?
 3. **Os ranks 7-9 não têm dial de dificuldade.** É a pendência da decisão 202 revivida com número novo: nem o ΔB resolve lá em cima. Escalar o acerto dos moldes imortais para `+2/rank` (a paridade com a Defesa dos PJs) devolveria a fase mortal, como a oitava rodada mediu — e a opção (c) da pendência 1 é uma forma concreta de fazer isso. Mas é mudança de regra, e é do autor.
+
+---
+
+## 🧭 Décima quarta rodada — a bateria estendida *(2026-08-31)*
+
+Lote pedido pelo autor: quatro medições que a série deixou para trás. As duas primeiras remedem as cenas **solo** da nona rodada, que foram medidas **antes** de o piso de ataques da Horda existir (decisão 207 — que a própria nona motivou); a terceira é o primeiro **PJ × PJ** desde as rodadas 1-4 do motor Perl; a quarta mede o número que faltava no fork do treino (o item 🔴 da decisão 213). Script: [[simulacoes/2026-08-31-decima-quarta-bateria-estendida.py|_Processo/simulacoes/2026-08-31-decima-quarta-bateria-estendida.py]] — cópia do motor da décima terceira, nada do motor reescrito (a única extensão é um knob que restringe o treino do inimigo por rank; ele devolve 0 sem consumir rolagem, e o baseline reproduziu a décima terceira célula a célula dentro da própria bateria 4). **3.000 iterações/célula, semente `20260830`, mix de Alma C, treino = 0 dos dois lados** — a premissa das tabelas publicadas — em tudo, exceto a bateria 4, cujo assunto é o knob do treino.
+
+### 1️⃣ Horda de 8 solo, com o piso — a decisão 207 trocou a guerra de atrito por uma execução, e o alvo de 7-9 rodadas não existe nesta cena
+
+A nona rodada mediu 1 PJ × Horda de 8 **sem** piso: guerra de atrito de 10-19 rodadas, vitória errática de 10% a 99% conforme o perfil. Remedido com o piso publicado (3 ataques/rodada contra alvo único):
+
+| PJ | rank 1 | rank 3 | rank 5 |
+|---|---|---|---|
+| **Xie Lang** | 8,2% · 5,0r *(era 69,6%)* | 0,0% · 5,0r *(56,6%)* | 0,1% · 5,5r *(57,5%)* |
+| **Jiaotang** | **37,4%** · 4,6r *(99,1%)* | 0,0% · 4,6r *(51,6%)* | 0,0% · 4,9r *(34,3%)* |
+| **Lee** | 0,2% · 4,7r *(71,6%)* | 0,0% · 4,4r *(10,2%)* | 0,0% · 4,8r *(12,3%)* |
+| **Demvi** | 0,8% · 4,3r *(15,2%)* | 0,0% · 4,6r *(30,3%)* | 0,0% · 5,2r *(39,2%)* |
+
+*(vitória · rodadas médias da cena inteira; entre parênteses, a vitória da nona rodada pré-piso. As rodadas da nona — 9,7 a 19,0 — eram medidas só nas vitórias.)*
+
+**O piso não aproximou a cena do alvo — ele a atravessou.** Três ataques de `M d8` por rodada num único personagem, com a parede de Vitalidade da Horda ainda dimensionada para quatro, derrubam o PJ em ~5 rodadas antes que ele cave a barra: **10 das 12 células medem ≤ 1%**, e o melhor caso da mesa é 37,4% (Jiaotang no rank 1). A cena saiu de "cansa mas não assusta" (o defeito que a nona apontou) para **execução**. E o alvo do autor pra batalha solo — **7-9 rodadas** — não acontece em nenhuma célula (0 de 12; média 4,8).
+
+Medidas então as duas hipóteses de escala à la F&M (a matilha dimensionada pra quem está em cena):
+
+| Variante | Vitória (12 células) | Rodadas (média) | Células em 7-9 |
+|---|---|---|---|
+| **Horda de 8 + piso** *(a regra de hoje)* | 0,0-37,4% | 4,3-5,5 (4,8) | 0/12 |
+| **Horda de 2** *(proporcional à mesa: 8 × 1/4)* | 48,6-99,1% | 1,7-4,4 (3,3) | 0/12 |
+| **Horda de 3** *(proporcional, teto da faixa)* | 5,6-96,9% | 2,4-5,1 (4,2) | 0/12 |
+| **Horda 8 com `VIT × 1/4`** *(mantém o dado dos 8)* | 26,1-97,3% | 1,9-4,7 (3,6) | 0/12 |
+
+**Nenhuma variante entrega 7-9 rodadas — e a razão é estrutural, não de calibragem.** Solo, uma cena com chance real de vitória é curta (3-5 rodadas: um atacante só de cada lado da conta); a única configuração medida que estica um solo até 7-9+ rodadas é parede de Vitalidade grande com pressão baixa — que é literalmente a guerra de atrito pré-piso que o autor rejeitou ("8 feras devem assustar, não cansar"). **Na cena de Horda, o alvo de duração e o piso pedem coisas opostas.** Das variantes jogáveis, a proporcional de 3 é a que mais preserva perigo sem executar (5,6-96,9% — errática entre perfis, como todo solo é), e a `VIT × 1/4` é a mais estável (26,1-97,3%) mantendo a ficção de matilha cheia. **Nada foi aplicado** — menu no [[🧭 Log de Decisões]].
+
+### 2️⃣ Rei de Cem solo — a sentença virou absoluta
+
+| PJ | rank 1 | rank 3 | rank 5 |
+|---|---|---|---|
+| **Xie Lang** | 0,0% *(era 3,7%)* | 0,0% *(3,0%)* | 0,0% *(6,0%)* |
+| **Jiaotang** | **0,1%** *(8,4%)* | 0,0% *(0,1%)* | 0,0% *(0,1%)* |
+| **Lee** | 0,0% *(0,0%)* | 0,0% *(0,0%)* | 0,0% *(0,0%)* |
+| **Demvi** | 0,0% *(0,0%)* | 0,0% *(0,1%)* | 0,0% *(0,1%)* |
+
+**Confirmado — e endurecido.** O melhor caso da mesa caiu de 8,4% pra 0,1%, e a cena dura 2,5-3,6 rodadas: a escolta de Horda com o piso executa quem chega sozinho antes de o Elite precisar trabalhar. É o comportamento que [[🐺 Reis Fera e a Maré]] promete ("cena Difícil de verdade **pra mesa de 4**") levado ao limite. **Nenhum ajuste** — o design publicado prevê exatamente isso; a cena solo contra um Rei é fuga, isca ou negociação, nunca combate.
+
+### 3️⃣ PJ × PJ — o primeiro duelo do motor atual, e o Xie Lang venceu o torneio inteiro
+
+As rodadas 1-4 mediram duelos no motor Perl (pré-pool de dados, pré-barra de Alma como alvo) e nenhuma rodada mediu desde então. Os 6 pares dos 4 PJs, ranks 1/3/5 *(vitória do primeiro nomeado · rodadas médias)*:
+
+| Duelo | rank 1 | rank 3 | rank 5 |
+|---|---|---|---|
+| **Xie Lang × Jiaotang** | 80,1% · 3,1r | 98,1% · 3,2r | 99,9% · 2,9r |
+| **Xie Lang × Lee** | 84,3% · 4,8r | 98,9% · 4,0r | 99,8% · 3,5r |
+| **Xie Lang × Demvi** | 82,6% · 5,6r | 96,5% · 4,0r | 99,0% · 3,5r |
+| **Jiaotang × Lee** | 96,7% · 4,7r | 90,3% · 6,6r | 83,7% · 7,0r |
+| **Jiaotang × Demvi** | 93,6% · 4,3r | 70,8% · 5,9r | 60,6% · 6,4r |
+| **Lee × Demvi** | 75,2% · 8,3r | 28,0% · 7,5r | 27,4% · 7,5r |
+
+**Placar geral** (média de vitória de cada um nos próprios 3 duelos): Xie Lang **83,9% → 97,8% → 99,5%** · Jiaotang 70,1% → 54,3% → 48,2% · Demvi 14,7% → 34,9% → 37,7% · Lee 31,4% → 12,9% → 14,6%.
+
+As duas perguntas da bateria, respondidas:
+
+- **(a) O aviso de PvP do Livro do Mestre de F&M ("dano de jogador contra jogador acaba a luta em 1-2 turnos") não é a norma aqui — mas aparece num eixo só.** Os três duelos físicos (sem Xie Lang) rodam 4,3-8,3 rodadas com 0-12% de resolução em ≤2 rodadas: a RD e a Vitalidade por estágio seguram o dano físico de PJ. A degeneração existe exclusivamente nos duelos do Xie Lang (pico: 34,4% dos Xie × Jiaotang de rank 1 acabam em ≤2 rodadas). O conserto que o F&M usa — metade de dano/cura/RD em PvP + condição Ferido escalonada — segue catalogado como padrão **não aplicado** em [[🔍 Síntese — Feiticeiros e Maldições (Bestiário, Mestre, Técnicas)]]; como regra geral ele continua desnecessário, porque o problema real é o item (b).
+- **(b) Xie Lang é dominante em toda a tabela — e 80-100% das vitórias dele são queda de Alma.** É o mesmo eixo já diagnosticado nas rodadas oito e nove, agora com os dois lados da assimetria somados contra um PJ: o ataque de Alma mira a Defesa de Alma (`10 + VON + rank`, escala +1/rank contra o acerto dele a +2/rank) e cai numa barra menor que a Vitalidade, sem RD nenhuma. Nos registros da era Perl o quadro era o oposto (o Xie Lang duelista fraco antes de a decisão 69 preencher os buracos de catálogo de Lua/Alma; "Lee no fundo do PvP é o desenho funcionando" era o veredito que sobrou) — **o Lee no fundo confirma até hoje** (paga pico de dano por versatilidade), e **Jiaotang × Demvi trocam de lugar com o rank** (70→48% contra 15→38%), o mesmo cruzamento de economia de essência da nona rodada. **Nada foi mudado**: o vault nunca prometeu equilíbrio PvP, e duelo entre PJs é cena rara — mas a mesa deve saber que, hoje, duelar com o Xie Lang é aceitar ~1 chance em 20 nos ranks 3+. Registrado em "Em aberto" pra leitura do autor.
+
+### 4️⃣ O híbrido do fork do treino — recupera os ranks 7-9 como a saída (c), custa zero na fase mortal, e superaquece o rank 6
+
+O item 🔴 da decisão 213 listou três saídas medidas; existe uma quarta que o Log não tinha nomeado: **(a) na fase mortal + (c) restrita aos moldes de rank 6+** — o treino fica fora da matemática mortal (as tabelas publicadas continuam certas como estão) e a escada da decisão 211 entra só no acerto fechado dos moldes imortais (`d20 + rank + N` → `+ treino escalado`), atacando exatamente a assimetria que a decisão 202 diagnosticou (acerto de inimigo +1/rank contra Defesa de PJ +2/rank). O PJ não ganha treino em fase nenhuma. Medido na âncora ΔB da décima terceira:
+
+| Célula | sem treino *(publicado)* | **híbrido** | simétrico (c), 13ª |
+|---|---|---|---|
+| **rank 6** · ΔB 0 / +1 / +3 | 51,8 / 23,3 / 3,1% | **4,4 / 0,6 / 0,0%** 🔴 | — |
+| **rank 7** · ΔB 0 / +1 / +3 | 91,3 / 79,9 / 43,4% | 34,2 / 15,7 / **1,4%** | *(+3: 3,8%)* |
+| **rank 8** · ΔB 0 / +1 / +3 | 99,0 / 96,5 / 79,4% | 58,9 / 36,1 / **5,4%** | *(+3: 9,4%)* |
+| **rank 9** · ΔB 0 / +1 / +3 | 99,6 / 99,0 / 98,0% | 84,5 / 80,4 / **57,3%** | *(+1: 84,3% · +3: 63,3%)* |
+
+Três leituras:
+
+1. **A pergunta da rodada tem resposta: sim.** Nos ranks 7-9 o híbrido recupera a dificuldade como a saída (c) — um pouco mais duro até (rank 7 ΔB+3: 1,4% contra 3,8; rank 8: 5,4 contra 9,4; rank 9: 57,3 contra 63,3) — **sem tocar a fase mortal**: a bateria mortal completa rodada sob o híbrido mediu **0,00pp de diferença nas 25 células** (por construção — o knob devolve 0 pra rank < 6 sem consumir rolagem). O custo de −56pp nas cenas mortais com Horda, que desqualificava a (c), **não existe no híbrido**.
+2. **Mas o rank 6 superaquece.** É o único rank onde o dial ΔB já funcionava — e com +5 de treino no molde, ΔB 0 despenca de 51,8% pra 4,4% e toda célula da âncora vira sentença. A causa é aritmética: a escada de treino é quase chapada na faixa imortal (+5/+5/+6/+6) enquanto o déficit de acerto cresce +1 por rank — um knob chapado corrige demais na base da faixa e de menos no topo (o rank 9 segue em 84,5% a ΔB 0).
+3. **As composições a ΔB 0 deixam de ser passeio — e reganham uma escada, desordenada.** Sob o híbrido: Fácil segue 100%, Padrão 95,7-99,7%, Padrão pesado 53,2-94,8%, Difícil 22,9-48,9%, Clímax 15,9-94,4% (ranks 6→9). Pela primeira vez desde a oitava rodada uma cena imortal montada por composição tem dificuldade real — mas desordenada entre ranks (o Clímax vai de 15,9% no rank 6 a 94,4% no 9), então isso não substitui o ΔB como régua; é efeito colateral a pesar no fork, não uma tabela nova.
+
+**Nada foi aplicado.** O número entra no item 🔴 do Log como **quarta saída medida (d)**; a escolha — inclusive a dose por rank, se o autor quiser tratar o superaquecimento do rank 6 (ligar a escada só do rank 7 em diante, ou trocar a escada de treino por `+1 × (rank − 6)`) — é dele, e essas doses alternativas **não foram medidas**.
+
+### ✅ O veredito da rodada
+
+- **Horda solo**: o piso da decisão 207 conserta a mesa de 4 (décima terceira) mas pune demais o PJ isolado — execução em ~5 rodadas, vitória 0-37%. O alvo de 7-9 rodadas solo é inatingível com todas as peças medidas: duração e piso pedem coisas opostas nessa cena. Menu devolvido ao autor.
+- **Rei de Cem solo**: sentença confirmada e absoluta (0,0-0,1%) — o design publicado ("pra mesa de 4") se comporta como promete. Nenhum ajuste.
+- **PJ × PJ**: a degeneração de 1-2 rodadas que o F&M teme não é a norma (só nos duelos do Xie Lang), mas **Xie Lang vence 84-99,5% de qualquer duelo** via Alma. Dominância registrada pra leitura do autor; Lee no fundo confirma o veredito histórico.
+- **Híbrido do treino**: a quarta saída do fork, medida — recupera os ranks 7-9 como a (c) com custo zero na fase mortal, mas superaquece o rank 6. No item 🔴.
+
+Anotações feitas: a seção da nona rodada ganhou o aviso de "números pré-piso" apontando pra cá, e [[⚔️ Ameaças Genéricas por Rank]] ganhou o número medido do solo-com-piso no parágrafo do piso da Horda. **Nenhuma regra mudou nesta rodada.**
 
 ---
 

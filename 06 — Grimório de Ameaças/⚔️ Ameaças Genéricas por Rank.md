@@ -48,7 +48,7 @@ Recrutas individuais **morrem antes de agir**: um personagem do mesmo rank mata 
 
 Uma horda de 8 bate em **`M d8`**; uma de 12, em **`M d10`**. Conforme perde Vitalidade, perde membros, e **o dado desce sozinho** — o grupo sente a horda enfraquecendo sem ninguém precisar contar corpos.
 
-**O piso existe porque oito feras cercando uma pessoa devem assustar, não cansar.** Sem ele, a nona rodada de simulação mediu a horda contra um alvo solitário virando guerra de atrito de 10 a 19 rodadas — um ataque por rodada contra uma parede de Vitalidade dimensionada para quatro. Com o piso, o cerco volta a ser cerco: quem fica sozinho contra a matilha sente o número dela.
+**O piso existe porque oito feras cercando uma pessoa devem assustar, não cansar.** Sem ele, a nona rodada de simulação mediu a horda contra um alvo solitário virando guerra de atrito de 10 a 19 rodadas — um ataque por rodada contra uma parede de Vitalidade dimensionada para quatro. Com o piso, o cerco volta a ser cerco — e é bom saber o tamanho dele, medido na décima quarta rodada: **uma Horda de 8 derruba um personagem sozinho em ~5 rodadas, com 0-37% de chance de vitória solo** (a maioria dos perfis fica em ~0%). Oito feras contra um não é uma cena de vitória, é fuga ou resgate; se a mesa quiser uma caçada solo *jogável*, use uma matilha menor (uma Horda de 2-3) — dimensionar a Horda pra mesa é a mesma lógica da linha "com 3 jogadores" mais abaixo.
 
 **Área é a resposta.** Um Gu de área contra uma horda tira Vitalidade da barra inteira; é a única situação do jogo em que dano em área supera dano concentrado, e é o que faz esses Gu valerem uma vaga na Abertura.
 
