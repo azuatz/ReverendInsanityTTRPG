@@ -104,7 +104,7 @@ Gu de ativação instantânea (um ataque que dispara e acaba) **não ocupam vaga
 > [!warning] A Manutenção de Sustentação quadrática **não existe mais**
 > A regra era `(nº de Gu sustentados)² × 5 de essência por rodada`, por cima do custo de cada Gu. **Foi removida**, e por três razões que se somam:
 >
-> 1. **Ela nunca entrou em simulação nenhuma.** Vinte e cinco rodadas de balanceamento — a tabela de composição inteira, os moldes, o Chefe, os Golpes Matadores — rodaram **sem** a Manutenção. Ou seja, ela nunca sustentou o balanceamento que o vault publica, e removê-la **não move um único número medido**.
+> 1. **Ela nunca entrou em simulação nenhuma, e o motor dizia isso por escrito.** Vinte e seis rodadas de balanceamento — a tabela de composição inteira, os moldes, o Chefe, os Golpes Matadores — rodaram **sem** a Manutenção; três scripts chegam a trazer na própria docstring a linha *"Manutenção quadrática dos Gu sustentados OMITIDA"*, incluindo o motor de que todos os posteriores descendem. Ela nunca sustentou o balanceamento que o vault publica, e removê-la **não move um único número medido**.
 > 2. **Ela não era o freio que dizia ser.** Medida, quatro Gu sustentados bancavam **2,8 a 4,3 rodadas no estágio Inicial** e **22 a 34 no Pico**, contra uma cena de 7 a 9 — punia demais no começo e virava decoração no fim. É exatamente o defeito que a decisão 235 diagnosticou no custo de ativação.
 > 3. **A Densidade paga já faz o trabalho, e melhor.** Desde a decisão 258, cada ponto de `B` dobra o custo de ativação, e isso entrega **a mesma pressão em todos os estágios**. Manter as duas regras empilhava dois custos calibrados isoladamente e secava o tanque em 2 a 6 rodadas, abaixo da cena inteira.
 >
