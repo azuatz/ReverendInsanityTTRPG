@@ -246,9 +246,29 @@ Quem conhece a Brecha e a explora: o golpe **perde todos os Níveis de Dano do c
 Vários cultivadores montando um golpe único, cada um contribuindo com os Gu dele. O romance faz isso o tempo todo — combos de três e quatro pessoas são rotina — e **num grupo pequeno isso é a ferramenta mais forte que existe** — com 3 participantes chega a +5 Níveis, com 4 a +6.
 
 - **Some os Gu de apoio de todos os participantes.** Com 3 PJs, é realista chegar a **+5 Níveis de Dano** no núcleo — território que nenhum deles alcança sozinho.
-- **Todos gastam a ação do turno**, e todos pagam o custo de essência da própria parte.
-- **O núcleo é de um só**, e é ele quem rola o dano. Os outros são apoio.
+- **Todos gastam a ação — na mesma rodada.** Não são quatro rodadas montando: é **uma rodada**, em que cada participante usa a ação dele naquilo em vez de atacar. Cada um paga o custo de essência da própria parte.
+- **O núcleo é de um só**, e é ele quem rola o dano — **dobrado no sucesso**, como todo Golpe Matador (decisão 244).
+- **A Prerrogativa vem ampliada.** É isto que justifica gastar a ação de quatro pessoas, e não o dano.
 - **Uma Brecha compartilhada.** Se qualquer participante for neutralizado, atordoado ou movido antes do disparo, **o golpe inteiro falha e todos sofrem o Retrocesso**.
+
+### A Prerrogativa ampliada — o que quatro pessoas fazem que quatro ataques não fazem
+
+Um Golpe Matador Coletivo declara Prerrogativa como qualquer outro, **mas na versão ampliada**, porque custa a ação de todo mundo:
+
+| Prerrogativa | Solo | **Coletivo** |
+|---|---|---|
+| **⛏️ Romper** | ignora a RD, derruba Gu de defesa de rank **menor** que o núcleo | derruba também defesa de rank **igual** ao núcleo |
+| **🔒 Selar** | sela **um** Gu ativo do alvo até o fim da cena | sela uma **categoria inteira** (todo o movimento, ou toda a defesa) |
+| **⛓️ Prender** | o alvo não deixa a cena enquanto o golpe durar | o alvo **não escapa por meio nenhum** — nem voo, nem teleporte, nem Gu de fuga — até o fim da cena |
+| **👁️ Alcançar** | atinge através de cobertura, invisibilidade ou barreira | atinge **onde o alvo estiver**, tendo sido marcado antes: ele não se esconde de vocês nesta cena |
+
+> [!quote] O golpe coletivo mais famoso do romance não causa dano nenhum
+> *"Os quatro anciãos do clã Tie tinham um golpe matador combinado, chamado **busca e travamento ilimitados**. Se eles plantarem o Gu de travamento no Mestre de Gu, **não importa para onde ele vá, eles conseguem encontrá-lo. É o método de captura número um.**"* E sobre a vítima mais famosa dele: *"embora pudesse voar para onde quisesse, livre e sem amarras... uma vez plantado o Gu de travamento, não importa para onde voasse, acima dos céus ou sobre o mar, **ele seria capturado**."*
+>
+> **Prender e Alcançar não são invenção de designer — são a descrição literal daquele golpe.** Quatro cultivadores não se juntam para bater mais forte; juntam-se para tornar impossível o que era possível. Medido, o Coletivo entrega **0,52× a 0,58×** do dano que os mesmos quatro fariam atacando normalmente — se ele fosse jogada de dano, seria erro sempre. Com a Prerrogativa ampliada, a pergunta muda de *"rende mais dano?"* para *"eu preciso que esta pessoa não saia daqui?"*.
+
+> [!tip] Não precisa ser quatro
+> O Coletivo escala com quem entra: **dois participantes custam duas ações**, três custam três. Menos gente rende menos Níveis (+5 com três, +6 com quatro), mas a Prerrogativa ampliada vale a partir de **dois** — e a Brecha compartilhada fica muito menos frágil com menos gente para desarrumar. **Um coletivo de dois é a versão que a maioria das mesas vai usar de verdade.**
 
 Essa é a peça que faz um grupo pequeno parecer maior que a soma das partes — e a razão mecânica pela qual vale a pena o inimigo separar o grupo antes de lutar. Um mestre que entende isso constrói encontros em torno disso.
 
