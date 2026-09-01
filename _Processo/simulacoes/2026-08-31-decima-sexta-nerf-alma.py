@@ -783,6 +783,12 @@ def resolve_pc_hit(pc, target):
     elif crit and max_pool and target[pool_name] <= 0.25 * max_pool:
         apply_fratura(target)
 
+    # sensibilidade: o atrito do degrau d8 (ver `bateria_sensibilidade`).
+    # Com LUA_ATRITO_P = 0 (o default) nenhuma rolagem é consumida.
+    if (not downed and not alma_shot and not used_raw and LUA_ATRITO_P > 0
+            and pc.get("dado") == 8 and random.random() < LUA_ATRITO_P):
+        apply_controle(target, turns=1)
+
     return downed
 
 
@@ -2645,21 +2651,480 @@ def bateria_x6():
     return grupo, placar
 
 
+# ===========================================================================
+# ███  DÉCIMA SEXTA RODADA — O NERF DO CAMINHO DA ALMA  ███
+# ===========================================================================
+
+ALMA_CANDIDATOS = (
+    ("atual", "SEM NERF — a regra de hoje (d12, fura 100% da RD, barra 12+2VON+3B, Def +1/rank)"),
+    ("A", "A — ALINHAMENTO DE DEGRAU: d12, fura só METADE da RD (como Espada/Relâmpago)"),
+    ("B", "B — QUEDA DE DADO: d10, continua furando 100% da RD"),
+    ("C", "C — BARRA DURA: d12 furando tudo, barra (16+3VON+3B)×M e Defesa de Alma +2/rank"),
+)
+ALMA_DIAGNOSTICOS = (
+    ("C_bar", "C_bar — só a barra maior (metade da C)"),
+    ("C_def", "C_def — só a Defesa de Alma +2/rank (a outra metade da C)"),
+)
+
+
+def usa_perfil_xie(rotulo):
+    reset_pcs()
+    set_pc_variant("Xie Lang", **XIE_PERFIL[rotulo])
+
+
+def mestre_solo(rank):
+    """A cena solo pedida: 1 PJ × 1 Mestre de Gu (2 ações/rodada), com o
+    especial rolado pelo mix C da decisão 206 (1d6 = 6 → cultivador de Alma)."""
+    return _mestres(rank, 1, 0, mix="C")
+
+
+def matriz_pvp(n_iter=N_ITER, verbose=True):
+    """Os 6 pares × ranks 1/3/5. Devolve (celulas, placar)."""
+    nomes = list(PCS_BASE)
+    pares = [(nomes[i], nomes[j]) for i in range(len(nomes)) for j in range(i + 1, len(nomes))]
+    cel = {}
+    if verbose:
+        print(f"  {'duelo':26s} " + " ".join(f"{'rank ' + str(rk):>16s}" for rk in RANKS_SOLO)
+              + f" {'rod.méd':>8s} {'≤2 rod':>7s}")
+    for na, nb in pares:
+        linha, rods, rap = [], [], []
+        for rank in RANKS_SOLO:
+            random.seed(20260830)
+            r = simulate_duel(na, nb, rank, n_iter=n_iter)
+            cel[(na, nb, rank)] = r
+            linha.append(f"{r['win_a']*100:5.1f}/{r['win_b']*100:5.1f}%")
+            rods.append(r["rounds"])
+            rap.append(r["rapidos"] * 100)
+        if verbose:
+            print(f"  {na:>11s} × {nb:12s} " + " ".join(f"{c:>16s}" for c in linha)
+                  + f" {sum(rods)/3:7.2f} {sum(rap)/3:6.1f}%")
+    placar = {}
+    for nome in nomes:
+        for rank in RANKS_SOLO:
+            tot = []
+            for (na, nb, rk), r in cel.items():
+                if rk != rank:
+                    continue
+                den = r["win_a"] + r["win_b"]
+                if na == nome:
+                    tot.append(r["win_a"] / den if den else 0.5)
+                elif nb == nome:
+                    tot.append(r["win_b"] / den if den else 0.5)
+            placar[(nome, rank)] = sum(tot) / len(tot) * 100
+    if verbose:
+        print(f"\n  {'PLACAR (média de vitória nos 3 duelos)':38s} "
+              + " ".join(f"{'rank ' + str(rk):>9s}" for rk in RANKS_SOLO))
+        for nome in nomes:
+            print(f"  {nome:38s} "
+                  + " ".join(f"{placar[(nome, rk)]:8.1f}%" for rk in RANKS_SOLO))
+    return cel, placar
+
+
+def bateria_solo_mestre(n_iter=N_ITER, verbose=True):
+    """Cada PJ × 1 Mestre de Gu solo, ranks 1/3/5."""
+    out = {}
+    if verbose:
+        print(f"  {'rank':>4s} " + " ".join(f"{n:>18s}" for n in PCS_BASE))
+    for rank in RANKS_SOLO:
+        linha = []
+        for name in PCS_BASE:
+            random.seed(20260830)
+            r = simulate_solo(name, rank, mestre_solo, n_iter=n_iter)
+            out[(name, rank)] = r
+            linha.append(f"{r['win']*100:6.1f}% {r['rounds']:5.2f}r")
+        if verbose:
+            print(f"  {rank:4d} " + " ".join(f"{c:>18s}" for c in linha))
+    return out
+
+
+def bateria_grupo(n_iter=N_ITER, verbose=True):
+    """As 5 composições publicadas × ranks 1/3/5, com o quinhão de dano do Xie."""
+    out = {}
+    quinhao = {}
+    if verbose:
+        print(f"  {'rank':>4s} " + " ".join(f"{c:>17s}" for c in COMPS)
+              + f" {'Xie: dano':>10s} {'dele em Alma':>13s}")
+    for rank in RANKS_SOLO:
+        linha = []
+        reset_dmg_track(True)
+        for comp in COMPS:
+            random.seed(20260830)
+            r = simulate(rank, comp, n_iter=n_iter)
+            out[(rank, comp)] = r
+            linha.append(f"{r['win']*100:7.1f}% {r['rounds']:5.2f}r")
+        tot = sum(v["vit"] + v["alma"] for v in DMG_TRACK.values())
+        xie = DMG_TRACK["Xie Lang"]
+        share = (xie["vit"] + xie["alma"]) / tot * 100 if tot else 0.0
+        frac_alma = xie["alma"] / (xie["vit"] + xie["alma"]) * 100 if (xie["vit"] + xie["alma"]) else 0.0
+        quinhao[rank] = (share, frac_alma)
+        reset_dmg_track(False)
+        if verbose:
+            print(f"  {rank:4d} " + " ".join(f"{c:>17s}" for c in linha)
+                  + f" {share:9.1f}% {frac_alma:12.1f}%")
+    return out, quinhao
+
+
+# ---------------------------------------------------------------------------
+# BATERIA N1 — o Xie Lang corrigido, SEM nerf nenhum
+# ---------------------------------------------------------------------------
+# A dominância publicada, medida no perfil ERRADO (Alma pura), décima quinta:
+REF15_PLACAR = {("Xie Lang", 1): 88.1, ("Xie Lang", 3): 97.8, ("Xie Lang", 5): 99.5,
+                ("Jiaotang", 1): 69.9, ("Jiaotang", 3): 54.3, ("Jiaotang", 5): 48.2,
+                ("Demvi", 1): 13.3, ("Demvi", 3): 34.9, ("Demvi", 5): 37.7,
+                ("Lee", 1): 28.7, ("Lee", 3): 12.9, ("Lee", 5): 14.6}
+
+
+def bateria_n1():
+    print("\n" + "=" * 122)
+    print("BATERIA N1 — O XIE LANG CORRIGIDO (80:20 Lua:Alma), AINDA SEM NERF NENHUM")
+    print("Perfil errado das 15 rodadas: `dado=12, alma_dmg=True` — 100% dos ataques em Alma.")
+    print("Perfil correto: 80% Lua (d8, Vitalidade, RD normal) · 20% Alma (d12, barra de Alma, sem RD).")
+    print("=" * 122)
+    set_alma("atual")
+    saida = {}
+    for rot in XIE_PERFIL:
+        usa_perfil_xie(rot)
+        print(f"\n### Xie Lang: {rot} ###")
+        print("\n  -- matriz PJ × PJ --")
+        cel, placar = matriz_pvp()
+        print("\n  -- solo: cada PJ × 1 Mestre de Gu (2 ações/rodada) --")
+        solo = bateria_solo_mestre()
+        print("\n  -- grupo: as 5 composições publicadas --")
+        grupo, quinhao = bateria_grupo()
+        saida[rot] = dict(cel=cel, placar=placar, solo=solo, grupo=grupo, quinhao=quinhao)
+    reset_pcs()
+
+    print("\n" + "-" * 122)
+    print("A RESPOSTA (a) DO PEDIDO — a dominância de PvP no perfil CERTO")
+    print("-" * 122)
+    print(f"  {'PJ':12s} " + " ".join(f"{'r' + str(rk) + ' errado':>12s} {'r' + str(rk) + ' CERTO':>12s} {'Δpp':>7s}"
+                                       for rk in RANKS_SOLO))
+    for nome in PCS_BASE:
+        cells = []
+        for rk in RANKS_SOLO:
+            a = saida["puro Alma (1ª-15ª)"]["placar"][(nome, rk)]
+            b = saida["80:20 Lua:Alma"]["placar"][(nome, rk)]
+            cells.append(f"{a:11.1f}% {b:11.1f}% {b - a:+6.1f}")
+        print(f"  {nome:12s} " + " ".join(cells))
+    print("\n  Checagem de reprodução contra a décima quinta (perfil errado, mesma semente):")
+    for nome in PCS_BASE:
+        d = [saida["puro Alma (1ª-15ª)"]["placar"][(nome, rk)] - REF15_PLACAR[(nome, rk)]
+             for rk in RANKS_SOLO]
+        print(f"    {nome:12s} Δ vs 15ª: " + " ".join(f"{v:+5.1f}pp" for v in d))
+
+    # ---- o número que a sessão paralela pediu, destacado -------------------
+    print("\n" + "*" * 122)
+    print("*** PARA A FICHA DA MESA — XIE LANG NA CONFIGURAÇÃO NOVA (80:20, ess_mod 1,25, SEM NERF) ***")
+    print("*** Substitui os 88,1 / 97,8 / 99,5% que a décima quinta mediu no perfil errado.         ***")
+    print("*" * 122)
+    cel = saida["80:20 Lua:Alma"]["cel"]
+    pl = saida["80:20 Lua:Alma"]["placar"]
+    print(f"  {'Xie Lang contra...':22s} " + " ".join(f"{'rank ' + str(rk):>12s}" for rk in RANKS_SOLO))
+    for nome in PCS_BASE:
+        if nome == "Xie Lang":
+            continue
+        linha = []
+        for rk in RANKS_SOLO:
+            r = cel.get(("Xie Lang", nome, rk)) or cel.get((nome, "Xie Lang", rk))
+            v = r["win_a"] if ("Xie Lang", nome, rk) in cel else r["win_b"]
+            den = r["win_a"] + r["win_b"]
+            linha.append(f"{(v / den * 100) if den else 50.0:11.1f}%")
+        print(f"  {nome:22s} " + " ".join(linha))
+    print(f"  {'MÉDIA (dominância)':22s} " + " ".join(f"{pl[('Xie Lang', rk)]:11.1f}%" for rk in RANKS_SOLO))
+    print("*" * 122)
+    return saida
+
+
+# ---------------------------------------------------------------------------
+# BATERIA N2 — os candidatos de nerf, todos com o Xie no 80:20
+# ---------------------------------------------------------------------------
+def bateria_n2(incluir_diagnosticos=True):
+    print("\n" + "=" * 122)
+    print("BATERIA N2 — OS CANDIDATOS DE NERF (Xie Lang sempre no 80:20 correto)")
+    print("O nerf vale para OS DOIS LADOS da mesa: o especial de Alma do molde Mestre de Gu")
+    print("(1d6 = 6, decisão 206) recebe exatamente o mesmo tratamento.")
+    print("=" * 122)
+    lista = list(ALMA_CANDIDATOS) + (list(ALMA_DIAGNOSTICOS) if incluir_diagnosticos else [])
+    saida = {}
+    for modo, label in lista:
+        set_alma(modo)
+        usa_perfil_xie("80:20 Lua:Alma")
+        print(f"\n{'#' * 118}\n### {label}\n{'#' * 118}")
+        print("\n  -- matriz PJ × PJ --")
+        cel, placar = matriz_pvp()
+        print("\n  -- solo: cada PJ × 1 Mestre de Gu --")
+        solo = bateria_solo_mestre()
+        print("\n  -- grupo: as 5 composições publicadas --")
+        grupo, quinhao = bateria_grupo()
+        saida[modo] = dict(cel=cel, placar=placar, solo=solo, grupo=grupo, quinhao=quinhao)
+    set_alma("atual")
+    reset_pcs()
+    return saida
+
+
+# ---------------------------------------------------------------------------
+# BATERIA N3 — os guarda-corpos
+# ---------------------------------------------------------------------------
+def hits_to_kill_alma(rank, VON=0, rd_base=1, n_iter=20000):
+    """Acertos pra ZERAR A BARRA DE ALMA de um alvo de rank igual.
+
+    O paralelo exato de `hits_to_kill` (decisão 78), mas contra o trilho que o
+    Caminho da Alma realmente ataca. Nenhuma das dezesseis rodadas tinha
+    calculado este número — e é ele que explica a dominância em duelo.
+    """
+    M = M_TABLE[rank]
+    grau = STAGE_B[rank]
+    alma_max = alma_bar_pc(VON, grau, M)
+    d, extra_b = apply_niveis(alma_dado(), 0)
+    alvo = {"rd": rd_base * M}
+    soma = 0
+    for _ in range(n_iter):
+        dmg = roll_pool(M, d) + M * (grau + extra_b)
+        soma += aplica_rd_alma(dmg, alvo, M)
+    return alma_max / (soma / n_iter)
+
+
+# ---------------------------------------------------------------------------
+# BATERIA N2b — O ESPECIALISTA DE ALMA (o teste de esforço do nerf)
+# ---------------------------------------------------------------------------
+# A correção do 80:20 tira o Xie Lang do topo sozinha, mas ela NÃO conserta o
+# Caminho da Alma: quem de fato se especializar nele (um PJ futuro, um NPC,
+# o próprio Xie num arco em que ele vire cultivador de Alma) continua com o
+# pacote de 88/98/99,5%. É contra ESTE perfil que a força de cada candidato
+# fica legível — o nerf é do Caminho, não do personagem.
+def bateria_n2b():
+    print("\n" + "=" * 122)
+    print("BATERIA N2b — O ESPECIALISTA DE ALMA: quanto cada candidato REALMENTE corta o Caminho")
+    print("Perfil de esforço: 100% dos ataques em Alma (é o perfil que a 15ª mediu, 88,1/97,8/99,5%).")
+    print("Não é o Xie Lang de hoje — é qualquer construção que se especialize no Caminho.")
+    print("=" * 122)
+    saida = {}
+    for modo, label in list(ALMA_CANDIDATOS) + list(ALMA_DIAGNOSTICOS):
+        set_alma(modo)
+        usa_perfil_xie("puro Alma (1ª-15ª)")
+        print(f"\n### {label} ###")
+        cel, placar = matriz_pvp()
+        saida[modo] = dict(cel=cel, placar=placar)
+    set_alma("atual")
+    reset_pcs()
+    print("\n" + "-" * 122)
+    print("DOMINÂNCIA DO ESPECIALISTA DE ALMA POR CANDIDATO")
+    print("-" * 122)
+    print(f"  {'candidato':12s} " + " ".join(f"{'rank ' + str(rk):>10s}" for rk in RANKS_SOLO)
+          + f" {'Δ vs sem nerf':>32s}")
+    base = saida["atual"]["placar"]
+    for modo, _l in list(ALMA_CANDIDATOS) + list(ALMA_DIAGNOSTICOS):
+        pl = saida[modo]["placar"]
+        d = " ".join(f"{pl[('Xie Lang', rk)] - base[('Xie Lang', rk)]:+9.1f}pp" for rk in RANKS_SOLO)
+        print(f"  {modo:12s} " + " ".join(f"{pl[('Xie Lang', rk)]:9.1f}%" for rk in RANKS_SOLO)
+              + f" {d:>32s}")
+    return saida
+
+
+# ---------------------------------------------------------------------------
+# SENSIBILIDADE — o atrito do degrau d8 que o motor NUNCA modelou
+# ---------------------------------------------------------------------------
+# A Tabela de Letalidade paga o d8 com "atrito real: essência congelada,
+# lentidão, sangramento acumulado — é o perfil que GANHA lutas longas".
+# Nenhuma das dezesseis rodadas modelou efeito de controle vindo de PJ: só os
+# especiais de inimigo aplicam Lentidão no motor. Logo, o número do Xie Lang
+# no 80:20 é um PISO, não o valor verdadeiro. Este knob põe um teto em volta
+# dele: cada acerto de um atacante d8 tem `LUA_ATRITO_P` de chance de custar a
+# ação seguinte do alvo. Vale para TODO d8 da mesa (a Lua do Xie Lang E o Lee),
+# porque o atrito é do DEGRAU e não do personagem — é por isso que a leitura
+# certa desta bateria é a posição relativa, não o número isolado. Não é regra
+# publicada: é o intervalo de confiança do modelo, rotulado como tal.
+LUA_ATRITO_P = 0.0
+
+
+def set_lua_atrito(p=0.0):
+    global LUA_ATRITO_P
+    LUA_ATRITO_P = p
+
+
+def bateria_sensibilidade():
+    print("\n" + "=" * 122)
+    print("SENSIBILIDADE — o atrito do degrau d8 (Lua) que o motor nunca modelou")
+    print("O motor não dá controle nenhum a PJ; a Tabela de Letalidade paga o d8 exatamente com")
+    print("isso. O 80:20 medido é portanto um PISO para o Xie Lang. Aqui, o teto.")
+    print("=" * 122)
+    set_alma("atual")
+    out = {}
+    for p in (0.0, 1 / 3, 2 / 3):
+        set_lua_atrito(p)
+        usa_perfil_xie("80:20 Lua:Alma")
+        random.seed(20260830)
+        cel, placar = matriz_pvp(verbose=False)
+        out[p] = placar
+        rot = f"atrito de Lua em {p*100:.0f}% dos acertos"
+        print(f"  {rot:40s} Xie Lang: "
+              + " ".join(f"r{rk} {placar[('Xie Lang', rk)]:5.1f}%" for rk in RANKS_SOLO))
+    set_lua_atrito(0.0)
+    reset_pcs()
+    return out
+
+
+def bateria_n3(n1, n2, n2b=None):
+    print("\n" + "=" * 122)
+    print("BATERIA N3 — GUARDA-CORPOS E DIAGNÓSTICO")
+    print("=" * 122)
+
+    # (a) a escada da decisão 78, contra VITALIDADE (o que ela mede)
+    print("\n### (a) A escada de letalidade da decisão 78 — d6≈5 · d8≈4 · d10≈3,3 · d12≈2,8 ###")
+    print("  Ela mede acertos pra derrubar a VITALIDADE. Nenhum candidato a toca, com UMA")
+    print("  exceção: a B muda o DEGRAU do Caminho da Alma dentro dela (d12 → d10).")
+    print(f"  {'rank':>4s} {'RD':>4s} {'d6':>7s} {'d8':>7s} {'d10':>7s} {'d12':>7s} {'d6/d12':>8s}")
+    ladder = {}
+    for rank in RANKS_SOLO:
+        rd = M_TABLE[rank]
+        random.seed(20260830)
+        rz = [hits_to_kill(d, rank, rd, n_iter=12000) for d in (6, 8, 10, 12)]
+        ladder[rank] = rz
+        print(f"  {rank:4d} {rd:4.0f} {rz[0]:7.2f} {rz[1]:7.2f} {rz[2]:7.2f} {rz[3]:7.2f} "
+              f"{rz[0]/rz[3]:8.2f}")
+    print("\n  Impacto explícito da candidata B na escada: o Caminho da Alma sai da coluna d12")
+    print("  e passa para a coluna d10 — de ~2,8 para ~3,3 acertos contra Vitalidade equivalente.")
+    print("  Espada e Relâmpago continuam sozinhos no topo d12, o que é coerente com a tabela")
+    print("  publicada (eles pagam 'nenhum efeito colateral' pelo mesmo dado).")
+
+    # (b) a MESMA escada, mas contra a BARRA DE ALMA — o número que faltava
+    print("\n### (b) A MESMA escada medida contra a BARRA DE ALMA (nunca calculada antes) ###")
+    print("  A barra de Alma é MUITO menor que a Vitalidade: `(12+2VON+3B)×M` contra")
+    print("  `(18+3CON+4B)×M`. Alvo padrão VON 0 / CON 0, RD 1×M, mesmo rank.")
+    print(f"  {'candidato':10s} {'rank':>4s} {'dado':>5s} {'barra':>7s} {'dano/acerto':>12s} "
+          f"{'acertos p/ zerar':>17s} {'vs 2,8 (d12 físico)':>21s}")
+    alma_ladder = {}
+    for modo, _label in list(ALMA_CANDIDATOS) + list(ALMA_DIAGNOSTICOS):
+        set_alma(modo)
+        for rank in RANKS_SOLO:
+            M = M_TABLE[rank]
+            grau = STAGE_B[rank]
+            random.seed(20260830)
+            h = hits_to_kill_alma(rank, VON=0, rd_base=1, n_iter=12000)
+            barra = alma_bar_pc(0, grau, M)
+            alma_ladder[(modo, rank)] = h
+            fis = ladder[rank][3]
+            print(f"  {modo:10s} {rank:4d} {'d'+str(alma_dado()):>5s} {barra:7.0f} "
+                  f"{barra/h:12.1f} {h:17.2f} {h - fis:+20.2f}")
+    set_alma("atual")
+
+    # (c) a outra metade da dominância: a Defesa de Alma é mais fácil de acertar
+    print("\n### (c) A outra metade: acertar a barra de Alma é mais fácil que acertar a Defesa ###")
+    print("  Acerto do Xie = d20 + VON(3) + 2×rank + 2. Chance de acertar cada trilho:")
+    print(f"  {'alvo':10s} {'rank':>4s} {'Defesa':>7s} {'Def.Alma atual':>15s} {'Def.Alma C':>11s} "
+          f"{'% vs Def':>9s} {'% vs Alma':>10s} {'% vs Alma C':>12s}")
+    for rank in RANKS_SOLO:
+        for nome in PCS_BASE:
+            if nome == "Xie Lang":
+                continue
+            b = _PCS_ORIG[nome]
+            atk = 3 + 2 * rank + 2
+            dfs = 10 + b["DES"] + 2 * rank
+            set_alma("atual")
+            da = alma_def_pc(b["VON"], rank)
+            set_alma("C")
+            dc = alma_def_pc(b["VON"], rank)
+            set_alma("atual")
+            p = lambda dv: min(100.0, max(5.0, (21 - (dv - atk)) / 20 * 100))
+            print(f"  {nome:10s} {rank:4d} {dfs:7d} {da:15d} {dc:11d} "
+                  f"{p(dfs):8.0f}% {p(da):9.0f}% {p(dc):11.0f}%")
+
+    # (d) o resumo executivo
+    print("\n" + "=" * 122)
+    print("### (d) RESUMO — a dominância de PvP do Xie Lang por candidato ###")
+    print("=" * 122)
+    base_errado = n1["puro Alma (1ª-15ª)"]["placar"]
+    base_certo = n1["80:20 Lua:Alma"]["placar"]
+    print(f"  {'configuração':52s} " + " ".join(f"{'rank ' + str(rk):>9s}" for rk in RANKS_SOLO)
+          + f" {'posição na mesa':>18s}")
+
+    def _posicao(placar, rank):
+        ordem = sorted(PCS_BASE, key=lambda n: -placar[(n, rank)])
+        return ordem.index("Xie Lang") + 1, ordem
+
+    print(f"  {'perfil ERRADO (Alma pura), sem nerf — a 15ª rodada':52s} "
+          + " ".join(f"{base_errado[('Xie Lang', rk)]:8.1f}%" for rk in RANKS_SOLO)
+          + f" {'/'.join(str(_posicao(base_errado, rk)[0]) + 'º' for rk in RANKS_SOLO):>18s}")
+    print(f"  {'perfil CERTO 80:20, sem nerf':52s} "
+          + " ".join(f"{base_certo[('Xie Lang', rk)]:8.1f}%" for rk in RANKS_SOLO)
+          + f" {'/'.join(str(_posicao(base_certo, rk)[0]) + 'º' for rk in RANKS_SOLO):>18s}")
+    for modo, label in list(ALMA_CANDIDATOS) + list(ALMA_DIAGNOSTICOS):
+        if modo == "atual":
+            continue
+        pl = n2[modo]["placar"]
+        print(f"  {'80:20 + ' + label[:44]:52s} "
+              + " ".join(f"{pl[('Xie Lang', rk)]:8.1f}%" for rk in RANKS_SOLO)
+              + f" {'/'.join(str(_posicao(pl, rk)[0]) + 'º' for rk in RANKS_SOLO):>18s}")
+
+    if n2b is not None:
+        print("\n  E o MESMO quadro para um ESPECIALISTA de Alma (100% dos ataques em Alma) —")
+        print("  o perfil contra o qual o nerf do CAMINHO se lê, independente da ficha do Xie:")
+        b2 = n2b["atual"]["placar"]
+        for modo, label in list(ALMA_CANDIDATOS) + list(ALMA_DIAGNOSTICOS):
+            pl = n2b[modo]["placar"]
+            d = " ".join(f"({pl[('Xie Lang', rk)] - b2[('Xie Lang', rk)]:+5.1f})" for rk in RANKS_SOLO)
+            print(f"    {modo:10s} " + " ".join(f"{pl[('Xie Lang', rk)]:8.1f}%" for rk in RANKS_SOLO)
+                  + f"   Δ {d}")
+
+    print("\n  A MESA INTEIRA por candidato (placar médio de cada PJ):")
+    for modo, label in [("atual", "80:20 sem nerf")] + [(m, l) for m, l in
+                                                        list(ALMA_CANDIDATOS)[1:] + list(ALMA_DIAGNOSTICOS)]:
+        pl = n2[modo]["placar"]
+        print(f"\n  --- {modo} ---")
+        print(f"    {'PJ':12s} " + " ".join(f"{'rank ' + str(rk):>9s}" for rk in RANKS_SOLO))
+        for nome in sorted(PCS_BASE, key=lambda n: -pl[(n, 3)]):
+            print(f"    {nome:12s} " + " ".join(f"{pl[(nome, rk)]:8.1f}%" for rk in RANKS_SOLO))
+
+    print("\n" + "-" * 122)
+    print("### (e) O GRUPO NÃO PODE PIORAR — deriva contra o 80:20 sem nerf ###")
+    print("  Faixas publicadas: Fácil ≈ 100% · Padrão 75-99% · Difícil ~40-52% · Clímax 56-87%")
+    print("-" * 122)
+    ref = n2["atual"]["grupo"]
+    print(f"  {'candidato':10s} {'Δ vitória média':>16s} {'Δ máx':>8s} {'Δ rodadas':>11s} "
+          f"{'quinhão do Xie r1/r3/r5':>26s} {'dele em Alma':>13s}")
+    for modo, _label in [("atual", "")] + list(ALMA_CANDIDATOS)[1:] + list(ALMA_DIAGNOSTICOS):
+        g = n2[modo]["grupo"]
+        dw = [g[(rk, c)]["win"] * 100 - ref[(rk, c)]["win"] * 100
+              for rk in RANKS_SOLO for c in COMPS]
+        dr = [g[(rk, c)]["rounds"] - ref[(rk, c)]["rounds"] for rk in RANKS_SOLO for c in COMPS]
+        q = n2[modo]["quinhao"]
+        qs = "/".join(f"{q[rk][0]:.0f}%" for rk in RANKS_SOLO)
+        fa = "/".join(f"{q[rk][1]:.0f}%" for rk in RANKS_SOLO)
+        print(f"  {modo:10s} {sum(dw)/len(dw):+15.2f}pp {max(dw, key=abs):+7.1f} "
+              f"{sum(dr)/len(dr):+10.2f}r {qs:>26s} {fa:>13s}")
+
+    print("\n  Tabela de composição completa por candidato (vitória do grupo):")
+    for modo, _label in [("atual", "")] + list(ALMA_CANDIDATOS)[1:] + list(ALMA_DIAGNOSTICOS):
+        g = n2[modo]["grupo"]
+        print(f"\n  --- {modo} ---")
+        print(f"    {'rank':>4s} " + " ".join(f"{c:>16s}" for c in COMPS))
+        for rank in RANKS_SOLO:
+            print(f"    {rank:4d} " + " ".join(f"{g[(rank, c)]['win']*100:15.1f}%" for c in COMPS))
+
+    print("\n" + "-" * 122)
+    print("### (f) A BATERIA SOLO por candidato (cada PJ × 1 Mestre de Gu) ###")
+    print("-" * 122)
+    for modo, _label in [("atual", "")] + list(ALMA_CANDIDATOS)[1:] + list(ALMA_DIAGNOSTICOS):
+        s = n2[modo]["solo"]
+        print(f"\n  --- {modo} ---")
+        print(f"    {'rank':>4s} " + " ".join(f"{n:>14s}" for n in PCS_BASE))
+        for rank in RANKS_SOLO:
+            print(f"    {rank:4d} " + " ".join(f"{s[(n, rank)]['win']*100:13.1f}%" for n in PCS_BASE))
+    return ladder, alma_ladder
+
+
 def main():
     print("=" * 122)
-    print("DÉCIMA QUINTA RODADA — TRIBULAÇÃO · FACE RD · A MESA SEM O FÍSICO")
-    print(f"{N_ITER} iterações/célula ({N_CARREIRAS} carreiras em T1) · semente 20260830 · mix de Alma C")
+    print("DÉCIMA SEXTA RODADA — O NERF DO CAMINHO DA ALMA · O XIE LANG 80:20")
+    print(f"{N_ITER} iterações/célula · semente 20260830 · mix de Alma C")
     print("Premissa de combate: treino = 0 dos dois lados (decisão 215)")
     print("=" * 122)
-    t1 = bateria_t1()
-    t2 = bateria_t2()
-    t2b = bateria_t2_calendario()
-    t3 = bateria_t3()
-    t4 = bateria_t4()
-    t5 = bateria_t5()
-    r5 = bateria_r5()
-    x6 = bateria_x6()
-    return t1, t2, t2b, t3, t4, t5, r5, x6
+    n1 = bateria_n1()
+    n2 = bateria_n2()
+    n2b = bateria_n2b()
+    sens = bateria_sensibilidade()
+    n3 = bateria_n3(n1, n2, n2b)
+    return n1, n2, n2b, sens, n3
 
 
 if __name__ == "__main__":

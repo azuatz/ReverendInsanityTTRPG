@@ -66,9 +66,89 @@ O bônus da faixa (**+1** Notado · **+2** Marcado · **+3** Perseguido · **+5*
 | **Presságio lido e respondido** | **−2 em uma etapa** *(a que o presságio apontou)* | Os três presságios obrigatórios de [[⛈️ A Vontade do Céu]] |
 | **Terra Abençoada Inabalável** | **−2** em toda a Calamidade Terrestre | Estabilidade 5+ em [[🗝️ Terra Abençoada]] |
 | **Gu de Estabilização** | **−3** em toda a sequência | [[🔷 Formações de Gu]] |
+| **Tempo interno desacelerado** | **−1 por ciclo de preparação**, até **−3** | Métodos do Caminho do Tempo — ver abaixo |
+| **Essência Imortal queimada na defesa** | **−1 por 100 UV**, até **−3** | O tanque da própria Fenda ([[🗝️ Terra Abençoada]]) |
+| **Golpe Matador defensivo registrado** | **−2**, e uma conversão de falha *(abaixo)* | [[⚡ Golpes Matadores]] |
 | **Imortal aliado presente** | **Vantagem em uma etapa** | Ele leva o dano daquela etapa junto com você. Ninguém rola no seu lugar |
 
 **Cada presságio vale para uma etapa só, e só se o personagem agiu em cima dele.** Ler o presságio não basta — treinar o atributo fraco, trocar o Golpe Matador registrado ou escolher onde estar quando aquilo chegar é o que compra o −2. É o pilar *quem prepara, vence* aplicado à única parte do jogo que o jogador não pode evitar.
+
+---
+
+## 🛡️ Como se atravessa uma tribulação
+
+**O pilar desta seção:** um Imortal que se prepara direito **quase sempre passa**. Um que não se prepara morre. A tribulação não é um dado da sorte com o qual o jogador convive — é a parte do jogo onde planejamento vira sobrevivência de forma mais direta que em qualquer outro lugar.
+
+E quando ele **não** passa, a saída canônica não é morrer: é **pagar caro e continuar vivo**. Isso está na seção "Quando a conta não fecha", mais abaixo, e é a peça que faz a década seguinte valer a pena jogar.
+
+### As seis preparações
+
+Elas se somam, e é somando que se chega ao "quase sempre".
+
+**1. Estoque de Essência Imortal — a primeira linha de defesa.** A Fenda não contende com uma Calamidade sem ter com que pagar. Queimar o tanque na hora da tribulação compra **−1 de CD a cada 100 UV**, até **−3**. Ficar sem essência às vésperas de uma Calamidade — porque se gastou tudo num refino, numa guerra, num Gu novo — é o erro que mais mata Imortais.
+
+**2. Desacelerar o tempo interno.** As tribulações vêm pelo relógio **da Fenda**, não do mundo. Métodos do Caminho do Tempo que retardam o fluxo interno **adiam** o evento, e cada ciclo assim comprado vira preparação: **−1 de CD por ciclo, até −3**. É o que quase todo Imortal faz, e é por isso que a fase imortal tem tanto tempo morto entre as cenas.
+
+> **O caso extremo, e o preço dele:** dá para **congelar** o tempo interno e as tribulações simplesmente param de chegar. Só que a Fenda também para de produzir Essência Imortal, e sem tribulações não entram Marcas de Dao — o cultivo estaciona. É a aposentadoria: seguro, estéril, e nenhum personagem interessante escolhe isso por muito tempo.
+
+**3. Um Espírito da Terra.** Uma Fenda sem espírito envelhece rápido e reage mal ao que a atinge. O espírito é o que segura o lugar inteiro entre uma Calamidade e a seguinte ([[🧿 Espíritos da Terra]]).
+
+**4. Estabilidade da terra.** A Terra Abençoada Inabalável (Estabilidade 5+) vale **−2** na sequência toda. É investimento de décadas, feito muito antes de precisar.
+
+**5. Um Golpe Matador defensivo registrado.** O arsenal montado contra a tribulação, não contra gente. Vale **−2** e traz a conversão de falha descrita abaixo. Detalhe em [[⚡ Golpes Matadores]].
+
+**6. Um aliado presente.** Vantagem numa etapa, e ele leva o dano dela junto. É o único desconto que não custa recurso — custa um **Débito**, e Débito entre Imortais dura séculos ([[🤝 O Débito]]).
+
+### A sétima preparação: onde você escolhe estar
+
+**O terreno decide o feitio da Calamidade — e, portanto, de que Caminho serão as Marcas que ela deixar.** Enfrentar o evento numa encosta de pedra, num lago, numa floresta ou no coração da própria Fenda não é a mesma coisa: o lugar puxa a calamidade para a natureza dele.
+
+Isso torna a escolha do local **uma decisão de jogador, tomada com antecedência**, e não uma descrição do mestre:
+
+- **No próprio elemento** — o caso normal, e o que a maioria faz. A Calamidade vem no Caminho que você cultiva, é a que você mais sabe enfrentar, e as Marcas que ela deixa caem no Caminho que você quer engrossar. Previsível dos dois lados.
+- **Fora do próprio elemento** — mais perigoso e às vezes deliberado: quem quer Marcas de um segundo Caminho vai buscá-las onde elas caem. É caro, e a chance de morrer sobe.
+- **Repetir o mesmo lugar** duas vezes seguidas atrai atenção: o terreno já ficou marcado, e quem sabe ler isso sabe onde você vai estar da próxima vez.
+
+> **E a escolha pode sair pela culatra.** Esvaziar a Fenda do próprio elemento para fugir da calamidade do seu Caminho é manobra conhecida — e conhecida por dar errado: sem a âncora do que você é, o evento pode vir na natureza **oposta**, contra a qual você não preparou nada. O mestre tem todo direito de rolar isso.
+
+> [!warning] Dentro da tribulação, usar Gu cobra caro
+> Ativar Gu **no meio** de uma Calamidade sofre contragolpe: cada ativação durante a sequência impõe **desvantagem na etapa seguinte**. É o que impede a resposta preguiçosa de "empilho golpes matadores e resolvo na hora".
+>
+> **Tudo que reduz CD nesta seção é preparado ANTES.** A tribulação não se vence improvisando; ela se vence tendo chegado nela pronto. A única exceção é o Golpe Matador defensivo, que existe justamente para ser disparado lá dentro — e mesmo ele cobra o preço da conversão.
+
+### A conta, e o que ela entrega
+
+Somando o que é razoável para um Imortal cuidadoso — essência queimada (−3), tempo desacelerado (−3), terra Inabalável (−2), Gu de Estabilização (−3), Golpe Matador defensivo (−2), mais o −2 de um presságio respondido —, um rank 6 enfrenta uma Calamidade Terrestre de **CD 14** com até **15 pontos de redução** disponíveis, e vantagem numa etapa se tiver companhia.
+
+**Ninguém junta tudo isso.** O Gu de Estabilização morre no uso, a essência queimada é a mesma que paga o resto da década, e o tempo desacelerado é cultivo que não aconteceu. **A escolha é qual metade você compra desta vez** — e é isso que faz a preparação ser jogo, e não uma caixa de conferência.
+
+> [!tip] Pro mestre: a tribulação é calendário, não emboscada
+> A data **se calcula**, e não só pelo dono: **inimigos calculam a tribulação alheia** e aparecem exatamente nela. Uma Fenda que falha abre uma brecha pela qual se entra.
+>
+> Anuncie a data com antecedência. O arco inteiro entre uma Calamidade e a próxima é "o que você vai ter conseguido juntar até lá" — e quem quiser matar o personagem sabe o melhor dia do século para tentar.
+
+---
+
+## ⚰️ Quando a conta não fecha — pagar em vez de morrer
+
+**No romance, quem atravessa uma tribulação difícil quase nunca sai ileso, e quase nunca sai morto: sai mais pobre, e permanentemente.** Um Gu Imortal que explode e deixa de existir; um pedaço da Fenda raspado fora para expulsar a tribulação junto; um ferimento que vira Marca de Dao e por isso **não cura nunca**. É essa a economia, e é ela que o sistema usa.
+
+**Quando o resultado da sequência for falha — antes de aplicar as consequências —, o jogador pode comprar sucessos:**
+
+| O que você sacrifica | O que compra |
+|---|---|
+| **Queimar o Gu núcleo do Golpe Matador defensivo** *(ele deixa de existir)* | **+1 sucesso** |
+| **Raspar parte da Fenda** — perde **uma camada** de produção, permanentemente | **+1 sucesso** |
+| **Aceitar um Ferimento que não cura** — ele vira Marca de Dao no corpo; nenhuma cura, de nenhum rank, o desfaz | **+1 sucesso** |
+
+**Dá para comprar mais de um, e é isso que transforma morte em desastre sobrevivível.** Um Imortal que ia morrer numa Provação Celestial pode sair dela vivo, cego de um olho, com um Gu Imortal a menos e a terra em ruínas — que é exatamente a imagem que o romance dá desses momentos.
+
+> [!important] O que a compra NÃO faz
+> **Ela não devolve Marcas**, e não impede o Ferimento da Terra que a falha já causou. Você comprou a sua vida, não o seu progresso — a década foi perdida do mesmo jeito, e agora você está mais fraco para a próxima.
+>
+> E há um limite: **não se compra o último sucesso duas vezes.** Se depois de todos os sacrifícios disponíveis o total ainda for de morte, é morte. Um personagem sem Gu Imortal, sem terra e sem corpo inteiro não tem mais com que pagar — e chegar nesse ponto é a história de como ele acabou.
+
+**Depois, o que se recupera e como:** o Ferimento da Terra se repara com Pedras de Essência Imortal e tempo interno; a Vitalidade e a Alma voltam com descanso e cura normal; a camada perdida pode ser reconstruída ao longo de arcos. **O que nunca volta é o que virou Marca de Dao.** É por isso que a terceira linha da tabela é a mais barata na hora e a mais cara no fim da campanha — e por que o mestre deve deixar isso muito claro antes de o jogador escolher.
 
 ---
 

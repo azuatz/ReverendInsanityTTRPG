@@ -172,6 +172,69 @@ Essa é a peça que faz um grupo pequeno parecer maior que a soma das partes —
 > [!warning] Na fase mortal, é golpe de desespero — não abertura de cena
 > A sexta rodada de simulação mediu a CD 22 do teste de conjuração coletivo (4 participantes) em ~15% de sucesso antes do rank 6. **Isso é decisão de mesa, não bug**: o Golpe Matador Coletivo nasce como a ferramenta que vira um combate perdido — algo que se monta com o grupo já ferido, os apoios já posicionados, contra um alvo que não vai se mexer a tempo de quebrar a formação — não como jogada de rodada 1 contra um encontro comum. Ensine a mesa a usá-lo assim: **jogada de última rodada, não de primeira.**
 
+## 🛡️ Golpes Matadores defensivos
+
+**A mesma estrutura, com o núcleo do outro lado.** Um Golpe Matador defensivo tem núcleo que protege — barreira, ancoragem, dispersão, desvio — e apoios que garantem que a proteção **chegue a tempo e cubra o que precisa**: um Gu que antecipa o golpe, outro que segura o terreno, outro que desliga a reação do inimigo.
+
+Nada aqui é regra nova. O que muda é **onde os Níveis caem**: num golpe de ataque eles sobem a Escada de Dano; num golpe defensivo eles vão para as faces que [[☯️ Marcas de Dao#As outras faces do Nível — o que ganha um Gu que não bate|as Marcas de Dao já definem]].
+
+| Apoios no combo | O que o núcleo defensivo ganha |
+|---|---|
+| 1 | +1 Nível |
+| 2 | +2 Níveis |
+| 3 | +3 Níveis, e quem tentar furar tem desvantagem |
+| 4 | +4 Níveis, e quem tentar furar tem desvantagem |
+
+E cada 2 Níveis viram, **à escolha de quem montou o golpe, fixada no registro da ficha**:
+
+- **+1 rodada de duração**, ou
+- **+1 aliado coberto**, ou
+- **+1 uso na cena**, ou
+- **+1 na CD** de quem tentar atravessar.
+
+**A RD não entra.** Um golpe defensivo não engrossa a RD do núcleo — a defesa já escala sozinha pelo `base × M`, e somar mais uma subtração por golpe é custo de mesa sem ganho (decisão 220). Um Golpe Matador defensivo faz a barreira **durar mais, cobrir mais gente e subir mais vezes**, não ficar mais grossa.
+
+**Tudo o mais é igual:** custo `(soma das ativações) × (nº de Gu)`, dobrado se híbrido; ocupa vaga de `AST + 1`; Teste de Conjuração `CD 12 + 2 × nGu`; **−4** se registrado, **+4** se improvisado; e **Brecha obrigatória, escrita**.
+
+### A Brecha de um golpe defensivo é diferente
+
+Num golpe de ataque, a Brecha é a condição em que ele **erra**. Num defensivo, é a condição em que ele **não cobre** — e ela precisa ser algo que um inimigo esperto consiga procurar:
+
+- *"Não protege contra dano que já esteja dentro do corpo"* — veneno, doença, uma Marca hostil já impressa.
+- *"Cobre uma direção só, e a direção é declarada quando o golpe sobe."*
+- *"Enquanto está de pé, você não pode se mover"* — proteção comprada com imobilidade.
+- *"Protege o corpo, não a alma"* (ou o inverso), o que a torna inútil contra metade do que existe.
+
+### Contra tribulação — para o que eles servem de verdade
+
+**É aqui que o golpe defensivo justifica a vaga de ficha.** Um Golpe Matador defensivo **registrado especificamente contra tribulação** vale **−2 na CD de toda a sequência** ([[🌩️ Calamidades e Provações]]), e é o único recurso que pode ser **disparado dentro** dela — todo o resto se prepara antes.
+
+E ele carrega a saída de emergência: **queimar o Gu núcleo converte uma falha em sucesso.** O Gu deixa de existir, e a conversão é a diferença entre um Imortal arruinado e um Imortal morto.
+
+> [!info] 📕 Canônico — e o modelo é um desastre bem-sucedido
+> O romance mostra exatamente isso: uma cultivadora atravessa a própria ascensão montando **às pressas** um golpe matador imortal em torno de um Gu Imortal de desvio de desastre. Funciona — e o preço é o pacote inteiro desta seção. O golpe improvisado tem *"fraquezas muito potentes"* (é o `+4` de improvisar, e a Brecha que ninguém teve tempo de pensar), o **Gu Imortal explode e deixa de existir**, e o ferimento que ela leva **vira Marca de Dao e nunca cura**.
+>
+> É o argumento a favor de **registrar** o golpe defensivo com décadas de antecedência, em vez de montar um na hora do desespero: os `−4` de estar treinado, contra os `+4` de improvisar, são oito pontos de diferença no pior teste da vida do personagem.
+
+### Três montagens de exemplo
+
+Nenhuma é regra — são moldes para copiar e trocar os Gu pelos que a mesa realmente tem.
+
+**🪨 A Âncora** *(núcleo: Gu de ancoragem ou de peso · 2 apoios)*
+Núcleo que prende o corpo ao chão, apoio que estabiliza o terreno em volta, apoio que avisa um instante antes do impacto. **+2 Níveis**, gastos em duração. Segura o portador de pé através de uma etapa inteira que empurra, arrasta ou derruba.
+*Brecha: não serve contra nada que ataque de dentro, e enquanto está de pé ele não sai do lugar.*
+
+**🌫️ O Manto Compartilhado** *(núcleo: barreira ou névoa · 3 apoios)*
+Núcleo que ergue a cobertura, apoios que a esticam sobre quem está por perto. **+3 Níveis** em cobertura: mais dois aliados debaixo dela, e quem tentar atravessar rola com desvantagem. É o golpe de quem enfrenta a tribulação acompanhado — e o motivo de valer a pena ter companhia.
+*Brecha: cobre uma direção só, declarada quando sobe.*
+
+**🔀 O Desvio** *(núcleo: Gu de desvio de desastre ou de sorte · 1 apoio)*
+O mais caro e o mais canônico: não resiste, **redireciona**. Núcleo que empurra o desastre para outro alvo — um pedaço da terra, uma construção, um lugar vazio —, apoio que escolhe para onde. **+1 Nível**, gasto num uso a mais na cena.
+*Brecha: precisa existir outra coisa para receber o desastre. Num lugar vazio, não há para onde desviar.*
+*E o preço declarado: o núcleo é o que se queima na conversão. Este golpe foi feito para ser gasto.*
+
+---
+
 ## Golpe Matador de rank 5 — o portão da imortalidade
 
 Um Golpe Matador montado com Gu núcleo de rank 5, **usado com sucesso contra um oponente de rank 5 ou superior**, é um dos dois portões que permitem tentar a [[♾️ A Ascensão Imortal|Ascensão Imortal]] — a rota de quem não conseguiu refinar um Gu Imortal.

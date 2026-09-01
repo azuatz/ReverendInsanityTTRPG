@@ -114,7 +114,14 @@ Aplique **2 dos 3 passos** abaixo nas faixas Marcado e Perseguido; **os 3** na f
 
 ### Passo 1 — Olhe o Caminho, e ataque o que ele não cobre
 
-O céu **nunca usa o Caminho do alvo contra ele**. Um Imortal do Caminho do Fogo já sabe tudo sobre fogo — jogar fogo nele é dar Marcas de graça. O céu usa a lacuna.
+> [!info] 📕 Primeiro, o caso normal — e ele é o oposto disto
+> **A Calamidade comum vem no Caminho do próprio cultivador**, e isso é a regra, não a exceção. Um Imortal do Caminho do Fogo enfrenta calamidades de fogo; a terra de um Imortal da Escravidão ganha Marcas de Escravidão depois de cada evento. **Faz sentido assim que se entende de onde vêm as Marcas:** a tribulação é o que *grava* Marcas de Dao, então receber a do próprio Caminho é o modo normal de aprofundar aquilo que você já é. É o motor de progressão funcionando, não o céu sendo gentil.
+>
+> Tanto que **esvaziar a Fenda do próprio elemento para escapar disso é uma manobra cara e arriscada**: um Imortal da Madeira que remove os recursos de madeira antes da tribulação pode acabar **atraindo uma calamidade de fogo** no lugar — e aí ele está enfrentando exatamente aquilo contra o que não tem nada.
+>
+> **O que vem abaixo é a escalada, não o padrão.** A Tribulação sob medida só aparece a partir da faixa **Marcado**, e é precisamente aí que o céu deixa de alimentar o cultivador e passa a caçá-lo.
+
+**Na Tribulação sob medida, o céu inverte o hábito e usa a lacuna.** Um Imortal do Caminho do Fogo já sabe tudo sobre fogo — a partir de certo ponto, jogar fogo nele deixa de ser suficiente.
 
 | Caminho do personagem | A Calamidade vem como |
 |---|---|
