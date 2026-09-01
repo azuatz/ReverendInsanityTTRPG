@@ -76,6 +76,11 @@ Custo de ativação  = 40 (rank próprio) · 10 · 4 · 1
 Modificador de Caminho: Sangue/Carne/Osso ×0,5 · elementais ×1
                         · Alma/Sabedoria/Escravidão/Informação/Sorte ×1,25
                         · Tempo/Espaço/Sonho/Leis ×1,5
+Modificador de DENSIDADE (escolhido a cada ativação):
+                        B 0 ×1 · B 1 ×1,5 · B 2 ×2 · B 3 ×3
+                        [o custo base entrega o Gu com B 0 — o bônus de dano
+                         do estágio é COMPRA, nunca brinde. Nunca acima do
+                         B que o seu estágio concede]
 Essência em combate       = NÃO regenera (só Físico Extremo, que é NPC: 10% do tanque,
                             teto 100/rodada · 150 favorável · 200 ideal · 50 hostil)
 

@@ -75,7 +75,7 @@ O preço da minha traição:
 | **Gu sustentados** | **3** *(fixo; +1 acima do teto rola erro em `1d6` 1–2)* | 3 |
 | **Vagas de Suporte** | `B` — só Gu passivos de utilidade, **fora do teto de 3** | 0 |
 | **Teto de Combo** | 2 · 3 · 4 · 5 Gu, por estágio | 2 |
-| **Bônus de dano** | **`+B por dado`** — some `M × B` a todo dano | 0 |
+| **Bônus de dano** | **`+B por dado`**, e ele é **comprado por ativação**: ×1 (B 0) · ×1,5 · ×2 · ×3 sobre o custo do Gu | 0 |
 | **Golpes registrados** | `AST + 1` | — |
 
 **O bloco "Níveis de Dano" é o placar do seu dano.** Some os permanentes uma vez (Densidade do estágio, Gu de Corpo assentados, Marcas) e anote os condicionais com a condição do lado ("+2 lua cheia", "+1 Javali Branco ativo") — na hora do golpe, é ler duas linhas em vez de caçar regra em quatro notas. Lembrando a conversão: Níveis sobem o tipo do dado até d12; dali em diante viram +1 por dado (ver [[⚔️ Combate]]).

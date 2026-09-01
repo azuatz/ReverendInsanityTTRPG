@@ -178,7 +178,8 @@ FOR 〖  〗  DES 〖  〗  CON 〖  〗  VON 〖  〗  AST 〖  〗  CAR 〖  �
 - **Acerto melee** = `d20 + FOR + 3` · **distância** = `d20 + DES + 3` · **Gu** = `d20 + VON + 3 + rank do Gu`
 - **Gu na Abertura** = `(% ÷ 10) + 1` · **Gu sustentados ao mesmo tempo** = **3**, sempre *(só os que ficam ligados ocupam vaga; um ataque que dispara e acaba, não)*
 - **Golpes registrados** = `AST + 1`
-- **B** = 0 no estágio Inicial (sobe com o estágio; quando subir, some `M × B` a todo dano)
+- **B** = 0 no estágio Inicial (sobe com o estágio)
+- **O bônus de B é COMPRADO, disparo a disparo.** O custo normal entrega o Gu com `B` 0. Quer o `M × B` no dano? Pague mais: **×1,5 (B 1) · ×2 (B 2) · ×3 (B 3)**. Pergunte a si mesmo toda vez: *este tiro precisa do dano cheio?*
 
 **Os 3 erros de todo mundo:** esquecer o +1 do rank na Defesa · esquecer que **Alma é uma barra separada, com Defesa própria** · esquecer de somar `M×B` no dano quando o estágio subir.
 

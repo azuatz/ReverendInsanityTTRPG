@@ -63,6 +63,7 @@ Alma máxima       = (16 + 3 × VON + 3 × B) × M
 | **Arma** | *(passo na Escada: desarmado −2 · leve −1 · média 0 · pesada +1)* |
 | **Dano melee** | *(dado do passo)* + FOR **× M do Gu de Força/Transformação ativo** *(sem Gu ativo, sem multiplicador)* |
 | **RD** | *(de Gu de defesa: `RD base × M`. Duas fontes **não somam** — vale só a maior)* |
+| **Densidade comprada** | *(o `M × B` no dano é compra por ativação: ×1 se você quiser `B` 0 · ×1,5 · ×2 · ×3. O custo base entrega o Gu sem bônus)* |
 
 ### 🦴 Gu de Corpo assentados
 

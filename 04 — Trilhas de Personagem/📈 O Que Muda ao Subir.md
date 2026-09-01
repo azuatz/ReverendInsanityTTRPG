@@ -23,7 +23,7 @@ Nada aqui é regra nova: é tudo o que já está em [[🪜 Ranks e Estágios]], 
 | Anote na ficha | Como fica |
 |---|---|
 | ☐ **Grau de Densidade (B)** | 0 · 1 · 2 · 3 — o número que você vai usar em tudo abaixo |
-| ☐ **Dano de todo Gu** | **+1 por dado, por Grau.** No Médio some `+1 × M`, no Alto `+2 × M`, no Pico `+3 × M` ao total |
+| ☐ **Dano de todo Gu** | **Sobe o TETO, não o dano.** O Grau destrava comprar até `+1/+2/+3` por dado, pagando **×1,5 / ×2 / ×3** no custo da ativação. O custo base continua entregando o Gu com `B` 0 ([[🏛️ Arquitetura do Sistema]]) |
 | ☐ **Vitalidade máxima** | `+4 × M` por Grau *(fórmula cheia: `(18 + 3×CON + 4×B) × M`)* |
 | ☐ **Alma máxima** | `+3 × M` por Grau *(`(16 + 3×VON + 3×B) × M`)* |
 | ☐ **Essência máxima** | **Dobra a cada estágio** — `% de Aptidão × 4 × 2^(estágio − 1)` |

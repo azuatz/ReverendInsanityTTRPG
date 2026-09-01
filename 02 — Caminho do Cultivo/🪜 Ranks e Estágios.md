@@ -55,6 +55,9 @@ DANO = M d(dado do Caminho) + (M × B)
 
 **Por dado.** É isso que faz o estágio continuar importando no rank 9: no rank 1 o Pico soma +3 num dado só; no rank 9 soma +3 em 256 dados, ou **+768**.
 
+> [!important] O Grau é o seu **teto** de bônus, não o bônus que você recebe de graça
+> O estágio diz **até quanto** você pode comprar, e nada mais. Cada ativação você escolhe com que `B` quer o Gu, e paga por isso: **×1 (B 0) · ×1,5 · ×2 · ×3** sobre o custo ([[🏛️ Arquitetura do Sistema|Arquitetura do Sistema]]). O custo base sempre entrega o Gu funcionando, com `B` 0. Subir de estágio não engorda o seu dano sozinho — **destrava uma compra mais cara**, e a decisão de fazê-la é por disparo.
+
 | Caminho | Rank 1 Inicial | Rank 1 Pico | Crescimento |
 |---|---|---|---|
 | d6 (utilitário) | `1d6` — média 3,5 | `1d6+3` — média 6,5 | **+86%** |
