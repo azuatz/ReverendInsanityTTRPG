@@ -4,7 +4,6 @@ tags:
   - gu
 aliases:
   - Espólio de Gu Imortal
-  - Espólio
 escopo: sistema
 ---
 
