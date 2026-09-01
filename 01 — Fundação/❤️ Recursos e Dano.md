@@ -10,6 +10,11 @@ escopo: sistema
 
 # ❤️ Recursos e Dano
 
+> [!info] Dois símbolos aparecem em quase toda fórmula desta nota
+> **M** — quantos dados o rank vale (`1 · 2 · 4 · 8 · 16 · 32 · 64 · 128 · 256`, do rank 1 ao 9). · **Grau de Densidade** — o degrau de estágio dentro do rank (`0` Inicial · `1` Médio · `2` Alto · `3` Pico); é o mesmo número que [[⚔️ Combate]] chama de **B**. Os dois vivem em [[🪜 Ranks e Estágios]].
+>
+> Qualquer outro termo estranho está em [[📔 Dicionário do Sistema]], uma linha cada.
+
 ## Os dois trilhos: Vitalidade e Alma
 
 Todo personagem tem **dois medidores de HP separados**:
@@ -47,10 +52,8 @@ Grau = 0 (Inicial) · 1 (Médio) · 2 (Alto) · 3 (Pico)
 | d10 — dano alto | **~6,5** | ~3,3 |
 | d12 — letalidade direta | **~5,5** | ~2,8 |
 
-> [!warning] A coluna da direita é a que esta nota publicava como se fosse o caso normal
-> Os números `5 / 4 / 3,3 / 2,8` estavam certos, mas descrevem **um alvo de Constituição −1 sem nenhuma defesa** — o personagem mais frágil que as regras permitem, desarmado de RD. Contra alguém real eles **mais que dobram**. *(Decisão 252 — a linha de base de atributo desta mesa é **3**, não 0, e o que fica baixo é o oposto do arquétipo: um lutador tem Vontade baixa, um atirador tem Força baixa.)*
->
-> **A escala não mudou, só o rótulo.** As proporções entre os quatro degraus são as mesmas (d6 aguenta ~2× o que o d12 aguenta, nas duas colunas), e as durações de cena medidas — 4,5 a 8,8 rodadas conforme a composição — continuam dentro do ritmo de 6-8 que o sistema busca. **Nada de balanceamento se move por causa desta correção**; o que muda é a nota parar de prometer uma letalidade que nenhum personagem real sente.
+> [!warning] Use a coluna da esquerda
+> **A coluna da direita descreve o personagem mais frágil que as regras permitem** (Constituição −1, sem RD nenhuma) — quase ninguém. Contra alguém real, o número de acertos mais que dobra. Se você vir `5 / 4 / 3,3 / 2,8` citado por aí como se fosse o caso normal, é a leitura antiga. *(Decisão 252 do [[🧭 Log de Decisões]]; nenhum número de balanceamento mudou, só o rótulo.)*
 
 **Sem níveis de ferimento pra rastrear em combate.** Nada de tabela de penalidade por faixa de HP — é coisa demais pra lembrar no meio de uma cena. Os dois trilhos são só um número que desce. Fora zerar (ver abaixo), a ficha não aplica penalidade automática por estar "machucado" — é a mesa que decide o quanto isso pesa na narração.
 
@@ -65,9 +68,16 @@ Zerar Vitalidade **não mata na hora**. O personagem cai, inconsciente, à beira
 | 1 natural | Piora dois degraus de uma vez |
 | 20 natural | Acorda com 1 de Vitalidade, ainda em perigo mas de pé |
 
-Três degraus de piora (por acúmulo de falhas) = morte. Um aliado pode estabilizar o personagem caído com uma ação dedicada perto dele (socorro, um Gu de cura, qualquer coisa que a cena aceite como cuidado real) — estabilizado, ele para de rolar Teste de Morte, mas continua inconsciente até tratamento de verdade ou descanso longo.
+**Três degraus de piora (por acúmulo de falhas) = morte.** Um aliado pode estabilizar o personagem caído com uma ação dedicada perto dele (socorro, um Gu de cura, qualquer coisa que a cena aceite como cuidado real) — estabilizado, ele para de rolar Teste de Morte, mas continua inconsciente até tratamento de verdade ou descanso longo.
 
-**Falhar o Teste de Morte pelo menos uma vez** (mesmo que estabilize depois) deixa sequela — a escolha é da mesa, mas o padrão recomendado é **−1 permanente num atributo à escolha do jogador dentre os afetados pela cena**, ou **perder o estágio mais recente conquistado** (regride um estágio dentro do rank atual) — nunca os dois ao mesmo tempo por um único Teste de Morte falho. Um personagem que se aproximou da morte sai da cena mais fraco, mesmo sobrevivendo — é o preço de sobrevivente que o tom do jogo pede.
+**Falhar o Teste de Morte pelo menos uma vez deixa sequela**, mesmo que o personagem estabilize depois. A escolha final é da mesa; o padrão recomendado é **uma** destas duas, nunca as duas pelo mesmo teste falho:
+
+| Sequela | O que é |
+|---|---|
+| **−1 permanente num atributo** | À escolha do jogador, entre os atributos afetados pela cena |
+| **Perder o estágio mais recente** | Regride um estágio dentro do rank atual |
+
+Quem chegou perto da morte sai da cena mais fraco, mesmo sobrevivendo — é o preço de sobrevivente que o tom do jogo pede.
 
 ## Alma zerada — Colapso Espiritual
 
@@ -81,13 +91,25 @@ O desenho espelha o corpo: a primeira queda nunca mata, a repetição sem cuidad
 
 ## 💥 Destruição da Abertura — o estado terminal que não é morte
 
-Existe uma saída pior que morrer e melhor que sobreviver ileso: perder tudo e continuar vivo. **Raro por desenho** — nunca automático, sempre escolha do jogador. *(Decisão 130, inspirada pela adaptação em 3DeT Victory trazida como referência — ver [[Homebrew 3DeT — Lamúrias do Reverendo]].)*
+A **Abertura** é o espaço interno que guarda a essência e abriga os Gu do personagem — destruí-la é perder o cultivo inteiro e continuar vivo. É a saída pior que morrer e melhor que sobreviver ileso. **Raro por desenho** — nunca automático, sempre escolha do jogador. *(Decisão 130, inspirada em [[Homebrew 3DeT — Lamúrias do Reverendo]].)*
 
-**Gatilho 1 — overkill catastrófico.** Um único golpe cujo dano, já com RD aplicada, seja igual ou maior que a Vitalidade **máxima** do alvo. Em vez do Teste de Morte normal, o jogador escolhe: rolar o Teste de Morte como sempre (risco de morrer, chance de ficar de pé), **ou** aceitar a Destruição da Abertura garantida (sobrevive, sem risco de morte nesta cena, mas paga o preço abaixo).
+**Dois gatilhos, e só estes dois:**
 
-**Gatilho 2 — o Gu Vital ferido de novo.** Se o Gu Vital já estiver **Ferido** (de um refino ou Golpe Matador anterior — ver [[💀 A Morte dos Gu]]) e sofrer um efeito que o feriria outra vez, a Abertura colapsa em vez de o Gu simplesmente resistir de novo. É por isso que o Gu Vital nunca morre pelas regras de refino ou combate: a proteção dele é real, mas tem um limite, e o limite é este.
+| Gatilho | Quando dispara | O que o jogador escolhe |
+|---|---|---|
+| **1 — Overkill catastrófico** | Um único golpe cujo dano, **já com RD aplicada**, seja igual ou maior que a Vitalidade **máxima** do alvo | Rolar o Teste de Morte normal (risco de morrer, chance de ficar de pé) **ou** aceitar a Destruição garantida (sobrevive, sem risco de morte nesta cena) |
+| **2 — O Gu Vital ferido de novo** | O **Gu Vital** (o Gu-identidade do personagem) já está **Ferido** e sofreria um efeito que o feriria outra vez — ver [[💀 A Morte dos Gu]] | Nada: a Abertura colapsa em vez de o Gu resistir mais uma vez |
 
-**O que acontece:** o personagem sobrevive fisicamente. Todos os Gu morrem (os cadáveres valem metade em refino, como qualquer Gu morto). A Aptidão cai a **0%**. Vitalidade e Alma recalculam como as de um mortal comum sem cultivo (`M = 1`, Grau de Densidade = 0). **Reverter isso exige um Gu Imortal de reconstrução de Abertura** — tesouro de rank 6+ que nunca está à venda — ou um milagre equivalente. É gancho de arco de vingança ou redenção, nunca recurso de rotina.
+O gatilho 2 é o limite da proteção do Gu Vital: ele nunca morre por refino ou combate, mas essa blindagem acaba aqui.
+
+**O preço, sempre o mesmo:**
+
+- O personagem **sobrevive fisicamente**.
+- **Todos os Gu morrem** — os cadáveres valem metade em refino, como qualquer Gu morto.
+- A **Aptidão** (o talento nato, em %) cai a **0%**.
+- Vitalidade e Alma recalculam como as de um mortal comum sem cultivo: `M = 1`, Grau de Densidade = 0.
+
+**Reverter exige um Gu Imortal de reconstrução de Abertura** — tesouro de rank 6+ que nunca está à venda — ou um milagre equivalente. É gancho de arco de vingança ou redenção, nunca recurso de rotina.
 
 ## Descanso curto e longo
 
@@ -108,9 +130,9 @@ Gu de cura rola pool, igual a dano — mesmo M (ver [[⚔️ Combate|Combate]]):
 Cura = M d8   (M = rank do Gu de cura)
 ```
 
-O d8 é o padrão (decisão 14 do [[🧭 Log de Decisões]] — cerca de 25% da barra por ativação). Gu de cura excepcionais usam d10 ou d12; está na ficha de cada um no [[📖 Catálogo de Gu|Catálogo de Gu]]. **B não soma em cura** — Níveis de Dano não afetam cura.
+O d8 é o padrão (decisão 14 do [[🧭 Log de Decisões]] — cerca de 25% da barra por ativação). Gu de cura excepcionais usam d10 ou d12; está na ficha de cada um no [[📖 Catálogo de Gu|Catálogo de Gu]].
 
-Níveis de Dano **não** afetam cura. A única exceção formalizada é o Gu de amplificação do Caminho da Água/Vida: ele dá **+1 tipo de dado de cura** (d8→d10), não cumulativo, teto d12.
+**Nada soma no pool de cura:** nem **B**, nem Níveis de Potência. A única exceção é o Gu de amplificação do Caminho da Água/Vida, que dá **+1 tipo de dado de cura** (d8 → d10), não cumulativo, teto d12.
 
 ## 🩹 Ferimento
 
@@ -118,10 +140,19 @@ Várias regras do sistema cobram "1 Ferimento" — Ativação Forçada, a Ascens
 
 > **Um Ferimento é −5% permanente na Vitalidade máxima e na Alma máxima.** Cumulativo. Não impõe penalidade em teste nenhum.
 
-Não é uma condição pra rastrear em combate, não tem tabela de faixa, não muda nada além dos dois números do topo da ficha — é coerente com a decisão de não ter níveis de ferimento (ver acima). É só um teto que desce e não volta sozinho.
+Não é uma condição pra rastrear em combate: é só um teto que desce e não volta sozinho.
 
 **Como se cura:** um Gu de cura de **rank 3 ou superior**, numa cena dedicada fora de combate (não vale no meio da luta), remove **1 Ferimento**. Fora isso, um arco inteiro de recuperação de verdade — reclusão, tratamento, um Gu específico caçado pra isso — remove todos.
 
 ## Retrocesso (o contragolpe)
 
-Falhar num refino de Gu ou num Golpe Matador machuca de volta. O dano de retrocesso é `(soma dos ranks dos Gu envolvidos) × 2` em Vitalidade e `(soma dos ranks dos Gu envolvidos) × 1` em Alma — quanto mais ambicioso o combo, mais caro sai errar.
+Falhar num refino de Gu (o processo de tornar seu um Gu bruto) ou num **Golpe Matador** (vários Gu disparados como uma jogada só) machuca de volta:
+
+```
+R = soma dos ranks de TODOS os Gu envolvidos
+
+Retrocesso em Vitalidade = R × 2
+Retrocesso em Alma       = R × 1
+```
+
+Quanto mais ambicioso o combo, mais caro sai errar.

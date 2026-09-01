@@ -13,7 +13,7 @@ escopo: sistema
 Nota-mãe. **O motor do jogo** — dados, atributos, vida, combate, fuga e preparação. É a pasta que resolve o que acontece quando alguém rola um dado.
 
 > [!important] Se você só for ler uma pasta, é esta
-> São 6 notas e você vai usar as 6. Nenhuma é opcional, mas há uma ordem — e **começar pela errada faz o resto não fazer sentido**.
+> São 8 notas e você vai usar as 8. Nenhuma é opcional, mas há uma ordem — e **começar pela errada faz o resto não fazer sentido**.
 
 ---
 
@@ -36,9 +36,9 @@ Nesta ordem:
 
 **[[⚔️ Combate]]**
 
-O motor de pool de dados: `M d(dado do Caminho) + (M × B)`, a tabela de letalidade dos quatro perfis de Caminho, os Níveis de Dano em dois tempos, a rolagem rápida, RD e dano melee. Leia com a [[📄 Folha de Referência]] ao lado — é ela que fica aberta na mesa depois.
+O motor de pool de dados: `M d(dado do Caminho) + (M × B)`, a tabela de letalidade dos quatro perfis de Caminho, os Níveis de Potência em dois tempos, ataque e defesa, RD e dano melee. Leia com a [[📄 Folha de Referência]] ao lado — é ela que fica aberta na mesa depois.
 
-## Nível 4 — As duas notas que fazem este jogo não ser D&D
+## Nível 4 — As quatro notas que fazem este jogo não ser D&D
 
 Deixadas por último não por serem menos importantes, mas porque só fazem sentido depois que você entendeu o combate. **São elas que sustentam dois dos sete pilares.**
 

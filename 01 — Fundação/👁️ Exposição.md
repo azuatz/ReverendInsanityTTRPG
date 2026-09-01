@@ -27,13 +27,20 @@ escopo: sistema
 
 | Ato | Exposição |
 |---|---|
-| Usar **o mesmo Golpe Matador** diante de sobrevivente ou observador | **+1** — golpe registrado é impressão digital: no romance, veteranos identificam o dono pelo golpe |
+| Usar **o mesmo Golpe Matador** diante de sobrevivente ou observador | **+1** — um Golpe Matador (vários Gu disparados como uma jogada só, com nome próprio) é impressão digital: veteranos reconhecem o dono pelo golpe |
 | Deixar **corpo identificável** de alguém com clã/seita | **+1** |
 | **Vender Gu saqueado** com Proveniência ruim ([[🏪 O Mercado]]) | **+2** |
 | Usar **Caminho proibido** (Sangue etc.) em público | **+2** |
 | Liberar a aura e fazer algo notável, testemunhado | **+1** *(ver abaixo)* |
 
-**Descer:** um arco inteiro quieto e longe da região = **−1**. Gu de disfarce descem mais: os três degraus canônicos são o **Gu de Pele Humana** (rosto novo, −1 imediato), o **"Rosto Vagamente Familiar"** (identidade sustentada, trava o trilho em 2 enquanto mantida) e o **Gu de Limite Sombrio** (apaga a assinatura da aura — só espólio de Físico Extremo).
+## O que desce o trilho
+
+| Via | Efeito |
+|---|---|
+| Um **arco inteiro quieto** e longe da região | **−1** |
+| **Gu de Pele Humana** — dá um rosto novo | **−1** imediato |
+| **Gu do Rosto Vagamente Familiar** — sustenta uma identidade falsa | **Trava** o trilho em 2 enquanto for mantido |
+| **Gu de Limite Sombrio** — apaga a assinatura da aura | Só se obtém como espólio de um **Físico Extremo** (anomalia de mundo, só de NPC — [[🌠 Os Dez Físicos Extremos]]) |
 
 > [!note] A Assinatura do mercado imortal é isto aqui
 > O contador de **Assinatura** do [[🏪 Céu Amarelo do Tesouro]] é a aplicação deste trilho ao rank 6+ — mesma lógica, mesmo número. Um Imortal carrega a Exposição que construiu como mortal.

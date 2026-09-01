@@ -12,6 +12,11 @@ escopo: sistema
 
 Resolução em d20 (ataque, defesa, testes). **Dano é um pool de dados acumulados.** O rank não multiplica um dado — ele diz **quantos dados você rola**. O Caminho diz **qual dado**. O estágio e os Níveis dizem **quanto cada dado soma**.
 
+> [!info] Os quatro termos que esta nota usa o tempo todo
+> **Gu** — criatura viva pequena com uma propriedade sobrenatural; todo poder do jogo vem delas. · **Caminho** — a especialidade do cultivador e do Gu (Força, Lua, Sangue, Alma…), 23 jogáveis. · **Rank** — o "nível", de 1 a 9; ranks 1–5 são a fase mortal, 6+ é imortal. · **Estágio** — os quatro degraus dentro de cada rank mortal: Inicial, Médio, Alto, Pico.
+>
+> Qualquer outro termo estranho está em [[📔 Dicionário do Sistema]], uma linha cada. As fórmulas desta nota, prontas para a mesa, estão na [[📄 Folha de Referência]].
+
 > O porquê deste desenho está nas decisões 77–82 do [[🧭 Log de Decisões]]; a versão anterior do motor, em [[_Arquivo/⚔️ Combate (v1 — multiplicador 1dX × M)|_Arquivo]].
 
 ---
@@ -47,7 +52,7 @@ Se M > 16 → role 16 dados + (M − 16) × 6,5 de bônus fixo
 | 8 | 128 | `128d12` | **`16d12 + 728`** | 832 |
 | 9 | 256 | `256d12` | **`16d12 + 1.560`** | 1.664 |
 
-**A média não muda em rank nenhum** — é a mesma troca que a decisão 77 fez ao criar o pool (`1d12 × 16` e `16d12` valem 104 igual). **A fase mortal inteira fica intocada**, porque nela o M nunca passa de 16: o teto só age da Ascensão pra cima, que é onde a mesa ia rolar dois punhados de dados por ataque. O que muda é o desvio — no rank 9 ele cai de 55 para 14 —, e dano de rank alto ficar **previsível** é exatamente o que o pool foi desenhado pra entregar.
+**A média não muda em rank nenhum** — só o desvio, que encolhe. **A fase mortal (ranks 1–5) fica intocada**, porque nela o M nunca passa de 16: o teto só age da **Ascensão Imortal** (a passagem do rank 5 para o 6) em diante. *(Por quê: decisão 77 do [[🧭 Log de Decisões]].)*
 
 ---
 
@@ -75,7 +80,7 @@ A regra que equilibra a tabela: **quanto maior o dado, menos o Caminho faz além
 >
 > Um Caminho d6 leva quase o dobro de acertos que um d12. Se o seu Gu de Terra parecer fraco em combate, **ele está correto** — o poder dele está na coluna da direita da tabela, e usá-lo como Gu de ataque é jogar errado.
 >
-> *(Esta nota publicava `5 · 4 · 3,3 · 2,8`. Aqueles números estavam certos para **um alvo de Constituição −1 sem defesa nenhuma** — o personagem mais frágil que as regras permitem — e por isso descreviam quase ninguém. As **proporções** entre os quatro degraus são idênticas nas duas leituras; só a régua mudou de lugar. Decisão 252; tabela completa em [[❤️ Recursos e Dano]].)*
+> *(Números remedidos na decisão 252; a leitura contra um alvo sem defesa alguma está na tabela de duas colunas de [[❤️ Recursos e Dano]].)*
 
 > [!important] O Caminho da Alma tem uma escada só dele *(decisão 231)*
 > A escada acima conta acertos contra a **Vitalidade**. O Caminho da Alma não ataca a Vitalidade: ele ataca a **barra de Alma**, que é uma barra menor e com Defesa própria. Contra ela, a conta é:
@@ -89,9 +94,7 @@ A regra que equilibra a tabela: **quanto maior o dado, menos o Caminho faz além
 >
 > É assim que se lê a tabela: **Alma não é uma letalidade maior, é uma letalidade seletiva.** O que ela compra com o furo total de RD, ela devolve em duas coisas — uma barra que cresce com a Vontade do alvo, e o fato de que o alvo que mais lhe interessa derrubar (o conjurador) é justamente o que mais resiste.
 >
-> *(Números remedidos na decisão 252, contra a linha de base real de atributo. A leitura anterior — "≈ 2,6 acertos, praticamente os mesmos 2,8 do d12" — comparava dois alvos de atributo zerado, e a equivalência que ela enxergava era artefato disso.)*
->
-> Antes da decisão 231 a barra era `(12 + 2 × VON + 3 × B) × M` e a Defesa subia só **+1 por rank** — metade do que sobe o acerto que a atacava. Medido, isso punha a Alma em **2,2 acertos** (contra os 2,8 do próprio degrau) e, no rank 5, fazia a barra de Alma de um lutador **nunca ser errada**.
+> *(Fórmulas fixadas na decisão 231 e remedidas na 252 — o histórico das versões anteriores está no [[🧭 Log de Decisões]].)*
 
 ---
 
@@ -109,7 +112,7 @@ Uma regra só cobre a escada inteira, do chão ao teto. Um Gu de Terra (d6) que 
 
 ### Um Nível age na FACE que o Gu tem — uma face por Gu
 
-O nome mudou de "Nível de Dano" para **Nível de Potência** porque a mesma moeda agora melhora o Gu **na coisa que aquele Gu faz**, não só em dano. Cada Gu tem **uma** face, declarada na ficha dele — nunca duas:
+O Nível melhora o Gu **na coisa que aquele Gu faz**, e nem todo Gu faz dano. Cada Gu tem **uma** face, declarada na ficha dele — nunca duas. *(Notas antigas chamam isto de "Nível de Dano" ou "Escada de Dano": é a mesma moeda, com o nome anterior.)*
 
 | Face | O que o Nível faz |
 |---|---|
@@ -120,7 +123,7 @@ O nome mudou de "Nível de Dano" para **Nível de Potência** porque a mesma moe
 | **Alcance / área** | **+50% por Nível** — cor, não número de balanceamento |
 
 > [!important] Nível nunca toca RD *(decisão 220)*
-> A **RD fica de fora** desta tabela, de propósito e por medição. A RD já é `base × M` e **dobra sozinha a cada rank** (base 2 = RD 8 no rank 3, 64 no rank 6, 256 no rank 8) — a potência crescente de um Gu defensivo já está entregue pelo M. Somar Nível por cima seria, entre pares do mesmo patamar, **um no-op exato** (o +1 de dano por dado e o +1 de RD por dado se cancelam) e, entre patamares diferentes, inflação pura. Um Gu defensivo que sobe de Nível ganha **duração e usos**, não RD.
+> **Nenhum Nível de Potência aumenta Redução de Dano.** A RD já é `base × M` e dobra sozinha a cada rank, então o crescimento de um Gu defensivo já vem pelo M. Um Gu defensivo que sobe de Nível ganha **duração e usos**, não RD.
 
 ### De onde vêm os Níveis
 
@@ -131,7 +134,7 @@ O nome mudou de "Nível de Dano" para **Nível de Potência** porque a mesma moe
 | **Gu do Caminho da Força ativo**    | +1 Nível a cada 2 ranks do próprio Gu (rank 1–2 = +1, 3–4 = +2, 5–6 = +3)                                                |
 | **Golpe Matador**                   | +1 por Gu de apoio, até o **Teto de Combo do estágio menos um** (Inicial +1 · Médio +2 · Alto +3 · Pico +4); +6 num coletivo de 4. Ver [[⚡ Golpes Matadores]] |
 | **Marcas de Dao**                   | +1 por nível de domínio. Ver abaixo                                                                                      |
-| **Físico Extremo**                  | +2 nos Gu do Caminho correspondente (+1 se a Abertura estiver Latente)                                                   |
+| **Físico Extremo** *(só NPC)*       | +2 nos Gu do Caminho correspondente ([[🌠 Os Dez Físicos Extremos|material de mestre]], decisão 217)                     |
 | **Fase Lunar**                      | 0 a +2, ver [[🌙 Caminho da Lua]]                                                                                        |
 | **Material da arma**                | Não dá mais Nível: material especial dá **+1 no acerto** (definido no item)                                              |
 | **Pra baixo**                       | Nada tira Nível: Gu de enfraquecimento e ambiente hostil dão **−2 no acerto** do atacante; armadura pesada protege via **RD**, nunca via Nível |
@@ -180,10 +183,13 @@ CD dos seus Gu = 10 + VON + rank do Gu          (+2 se o Caminho for do perfil d
 | Atacante com Gu **vs.** defensor **sem** Gu de movimento | 80% |
 | Corpo a corpo sem Gu **vs.** defensor com Gu de movimento | 50% |
 
+### Depois de rolar o d20
+
 1. **Acertou, role o pool.** Não existe dano extra por "quanto passou" no teste.
 2. **20 natural é crítico:** acerta automaticamente, mesmo contra Defesa maior, e **dobra os dados de dano** — role `2 × M` dados em vez de `M`. O bônus por dado não dobra: o crítico fica `2M d(dado) + (M × B)`. **Sem falha automática em 1** — errar por número é só errar.
+3. **Diferença de 2 ranks ou mais:** um Gu de defesa de rank muito inferior ao do Gu de ataque que o atinge não segura o golpe — cai automaticamente, sem teste, e fica **Esgotado** (a condição de um Gu machucado, um degrau antes de morrer); com 3+ ranks de diferença, **morre espatifado**. Mirar um Gu manifestado, e o resto do que mata Gu em combate: [[💀 A Morte dos Gu]] (decisão 129).
 
-> **Exemplo resolvido, passo a passo:** um rank 3 (M = 4) ataca com um Gu de Fogo (d10) de rank 3, estágio Médio (B = 1). Rola `d20 + VON + (3+2) + 3 + treino` contra a Defesa do alvo — passou. Rola o pool: `4d10 + (4×1)` = `4d10 + 4`, digamos 22 no dado + 4 = **26**. O alvo tem RD 6 de armadura: `26 − 6 = 20` de dano final na Vitalidade dele.
+> **Exemplo resolvido, passo a passo:** um rank 3 (M = 4) ataca com um Gu de Fogo (d10) de rank 3, estágio Médio (B = 1). Rola `d20 + VON + (3+2) + 3` contra a Defesa do alvo — **sem treino: ataque nunca soma o bônus de treino** (decisão 215) — passou. Rola o pool: `4d10 + (4×1)` = `4d10 + 4`, digamos 22 no dado + 4 = **26**. O alvo tem RD 6 de armadura: `26 − 6 = 20` de dano final na Vitalidade dele.
 
 > [!warning] Fratura da Abertura *(decisão 131 — ainda sem simulação)*
 > Crítico que deixa o alvo com **25% ou menos** da Vitalidade máxima: role `1d6`.
@@ -193,8 +199,7 @@ CD dos seus Gu = 10 + VON + rank do Gu          (+2 se o Caminho for do perfil d
 > | 1–2 | **Vazamento** — perde `1 × M` de Essência no início de cada turno seu, até tratado por Gu Médico ou fim de cena |
 > | 3–4 | **Gu Atordoados** — todo Gu ativo dele fica Esgotado por 1 rodada ([[💀 A Morte dos Gu]]); próximo Golpe Matador custa o dobro |
 > | 5 | **Fratura funda** — desvantagem no próximo Teste de Morte, se precisar de um nesta cena |
-> | 6 | **Esmagamento** — um Gu ativo dele, sorteado (nunca o Vital), fica Ferido |
-3. **Diferença de 2 ranks ou mais:** um Gu de defesa de rank muito inferior ao do Gu de ataque que o atinge não segura o golpe — cai automaticamente, sem teste, e fica **Esgotado**; com 3+ ranks de diferença, **morre espatifado**. Mirar um Gu manifestado, e o resto do que mata Gu em combate: [[💀 A Morte dos Gu]] (decisão 129).
+> | 6 | **Esmagamento** — um Gu ativo dele, sorteado (nunca o Vital — o Gu-identidade do personagem), fica Ferido |
 
 > [!tip] Uso criativo, sem custo de ponto *(decisão 130)*
 > Quando o jogador descreve um uso não-óbvio de um Gu — explorar o dado do
@@ -240,8 +245,8 @@ Piso: a RD nunca reduz o dano abaixo de M (1 ponto por dado do pool atacante).
 
 **Duas fontes de RD não somam: vale só a maior.** Armadura e Gu de defesa não se empilham — anote o maior dos dois e pronto.
 
-> [!note] Por que a regra encolheu *(decisão 223)*
-> A versão anterior era "a maior **mais metade da segunda**". Medido, isso somava **no máximo +2 de RD**, e nunca escalava — a armadura mortal é fixa (1 a 4) enquanto a RD de Gu é `base × M` e dobra a cada rank, então a segunda fonte já era irrelevante do rank 3 em diante (6-12% da RD total) e valia ±1 nos ranks 1-2. Trocar isso pela conta mais simples do jogo custa quase nada — e **alinha a regra escrita com as quinze rodadas de simulação, que sempre modelaram uma fonte só**.
+> [!note] Se você viu a regra antiga *(decisão 223)*
+> A versão anterior somava "a maior **mais metade da segunda**". Ela foi trocada pela conta simples porque a segunda fonte valia no máximo +2 de RD e nunca escalava. **Vale só a maior.**
 
 ### Quem fura RD
 
@@ -293,17 +298,17 @@ Dano melee = (M do Gu) d(dado da arma, ajustado por Níveis) + FOR + (M × B)
 Um rank 5 com machado pesado e um Gu de Força de rank 5 ativo, no estágio Alto: `16d10 + FOR + 32` — média **120 + FOR**. Sem o Gu: `1d10 + FOR`, média 5,5 + FOR.
 
 > [!important] Não é só o Caminho da Força — é qualquer Caminho que tenha o Gu certo
-> A regra costumava dizer "Gu do Caminho da Força ou de Transformação", e isso **nunca descreveu o [[📖 Catálogo de Gu|Catálogo]]**: os cinco elementos Wu Xing têm Gu de melee em todos os ranks, marcados **🔨 amplifica** ou **🗡️ entrega**, e eles já concedem o pool — o *Gu do Punho de Montanha* (Terra, rank 3) faz `4d12`, o *Gu do Manto de Carvão* (Fogo, rank 2) faz `2d12`. O que qualifica é **a função do Gu**, não o Caminho dele.
+> **O que qualifica é a função do Gu, não o Caminho dele.** No [[📖 Catálogo de Gu|Catálogo]], os Gu que servem são os marcados **🔨 amplifica** ou **🗡️ entrega** — e há deles em todos os ranks nos cinco elementos, não só em Força e Transformação. Um cultivador de Metal ou de Madeira com o Gu de melee certo luta corpo a corpo com o pool cheio.
 >
-> **Na prática:** Força e Transformação são os Caminhos que fazem isso melhor e mais barato, mas um cultivador de Metal com o *Sabre de Ouro Vivo*, ou de Madeira com a *Videira-Espinho no Braço*, luta corpo a corpo com o multiplicador cheio. O pilar continua de pé — **o poder segue emprestado da criatura**, só que a criatura não precisa ser do Caminho da Força.
+> Força e Transformação continuam sendo os Caminhos que fazem isso melhor e mais barato.
 
-> **A Força fica fora do pool, e isso é o pilar virando número.** *O poder não é seu — está emprestado da criatura que você carrega.* O músculo humano é o mesmo no rank 1 e no rank 9; o que cresce é o bicho. Se a Força entrasse no pool, um lutador de FOR +4 no rank 5 ganharia 64 pontos de graça por ter comprado um atributo na criação.
+> **A Força fica fora do pool porque o poder não é seu — está emprestado da criatura que você carrega.** O músculo humano é o mesmo no rank 1 e no rank 9; o que cresce é o bicho.
 
 ---
 
 ## ☯️ Marcas de Dao — o dano depois do rank 6
 
-A partir do rank 6 não há mais estágios. O lugar deles é ocupado por **dois** números diferentes, e confundi-los é o erro mais fácil de cometer aqui:
+**Marca de Dao** é a progressão que substitui o estágio a partir do rank 6 (o mundo imortal): fragmentos de lei do mundo impressos no corpo, contados às milhares. A partir daí não há mais estágios — o lugar deles é ocupado por **dois** números diferentes, e confundi-los é o erro mais fácil de cometer aqui:
 
 > [!important] Dois B, e eles não se misturam
 > | | Conta | Alimenta |
@@ -326,7 +331,7 @@ A tabela abaixo é a do **nível de domínio** — a metade que entra no dano. A
 | **Quase-Supremo** | 150.000 – 299.999 | **+4** | M |
 | **Grande Mestre Supremo** | 300.000+ | **+5** | **2 × M** — o único lugar do jogo onde o pool dobra |
 
-O pool dobrado no topo é o que torna verdadeira a promessa da ficção: um rank 8 Grande Mestre Supremo causa `256d12 + 640` (média **2.304**) contra os `256d12` (média **1.664**) de um Venerável recém-chegado ao rank 9. **Densidade de Marca vence rank**, mas só no último degrau.
+O pool dobrado no topo é o único lugar onde **Marca vence rank**: um rank 8 Grande Mestre Supremo causa `256d12 + 640` (média **2.304**) contra os `256d12` (média **1.664**) de um **Venerável** (rank 9, o teto absoluto do mundo) recém-chegado ao posto.
 
 Todas as capacidades não-numéricas de cada nível de domínio seguem inalteradas em [[☯️ Marcas de Dao]].
 
@@ -334,7 +339,11 @@ Todas as capacidades não-numéricas de cada nível de domínio seguem inalterad
 
 ## 📝 Changelog
 
-- `2026-08-31` — **Nerf do Caminho da Alma (decisão 231):** a **Alma máxima** passa de `(12 + 2×VON + 3×B) × M` para **`(16 + 3×VON + 3×B) × M`** e a **Defesa contra Alma** passa de `10 + VON + rank` para **`10 + VON + 2 × rank`**. O furo total de RD e o dado d12 **ficam como estão** — a décima sexta rodada mediu que o furo de RD valia +0,12 acerto e que a dominância vinha da barra (2,2 acertos contra os 2,8 do próprio degrau) e da Defesa que crescia metade do que crescia o acerto. As duas candidatas que mexiam em dado ou em RD foram recusadas por medição.
-- `2026-08-30` — **Rodada do autor (decisões 103–106):** dano passa a ser **sempre rolado** (rolagem rápida por média removida); **iniciativa passa a ser rolada** (`d20 + DES`); **crítico no 20 natural** dobra os dados de dano; **armas à distância mundanas removidas** (alcance é trabalho de Gu); desbloqueios de estágio (resistência/ordem, ativação com desconto, Pico ignorar ½ RD) removidos — o estágio agora dá só o que está na tabela mestre. Regra antiga arquivada em `_Arquivo`; fontes menores de Nível de Dano convertidas em acerto/RD (decisão 112).
-- `2026-08-28` — **v2: pool de dados cumulativo.** `1dX × M` virou `M dX`; o tipo do dado passou a ser propriedade do **Caminho** (tabela de letalidade em 4 perfis); Níveis de Dano passaram a subir o tipo do dado e depois virar bônus por dado; criada a **Densidade da Essência** como progressão de estágio (+1 por dado por estágio); armas subiram um tipo (d4/d6/d8/d10) e a Vitalidade subiu junto pra manter a calibragem. Ver decisões 77–82.
-- `2026-08-26` — dano de Gu deixou de ser fixo e voltou a ser rolado; criada a Escada de Dano única; RD formalizada com regra de não-empilhamento.
+O que mudou, em uma linha por rodada. **O porquê de cada uma está no [[🧭 Log de Decisões]], na decisão citada.**
+
+| Data | Mudança | Decisão |
+|---|---|---|
+| `2026-08-31` | **Nerf do Caminho da Alma:** Alma máxima passa a `(16 + 3×VON + 3×B) × M` e Defesa contra Alma a `10 + VON + 2 × rank`. O furo de RD e o d12 ficaram como estavam | 231 |
+| `2026-08-30` | Dano passa a ser **sempre rolado**; **iniciativa rolada** (`d20 + DES`); **crítico no 20 natural** dobra os dados; **armas à distância mundanas removidas**; desbloqueios de estágio removidos | 103–106, 112 |
+| `2026-08-28` | **v2 — pool de dados cumulativo:** `1dX × M` virou `M dX`, o dado virou propriedade do Caminho, criada a Densidade da Essência, armas subiram um tipo | 77–82 |
+| `2026-08-26` | Dano de Gu voltou a ser rolado; criada a Escada de Dano única; RD formalizada com regra de não-empilhamento | — |

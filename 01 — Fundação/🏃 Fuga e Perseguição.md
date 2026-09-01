@@ -29,12 +29,18 @@ Sair do alcance de alguém que está te atacando custa alguma coisa. Na sua vez,
 
 Quando um lado foge e o outro persegue, não role um teste só — isso decide cedo demais e tira a decisão do jogador. Rode uma **perseguição de três rodadas**:
 
-**A cada rodada, cada lado rola `d20 + DES`** (ou o atributo que a fuga estiver usando — CON numa subida de montanha, AST num labirinto de becos).
+**A cada rodada, cada lado rola `d20 + DES`** (ou o atributo que a fuga estiver usando — CON numa subida de montanha, AST num labirinto de becos). O placar é um número só, a **Distância**, que começa em 0:
 
-- Quem **vence a rolagem** ganha 1 ponto de Distância.
-- **3 pontos de Distância** = escapou.
-- **−3 pontos** (perseguidor à frente por 3) = alcançado, e a luta recomeça em posição pior pra quem fugia.
-- Empate não move nada.
+| Resultado da rodada | Distância |
+|---|---|
+| Quem foge vence a rolagem | **+1** |
+| O perseguidor vence a rolagem | **−1** |
+| Empate | não move |
+
+| Placar final | O que acontece |
+|---|---|
+| **+3** | **Escapou** |
+| **−3** | **Alcançado** — a luta recomeça em posição pior pra quem fugia |
 
 ### O que muda a perseguição
 
@@ -56,7 +62,7 @@ A qualquer momento, quem foge pode **abrir mão de algo** por 1 ponto de Distân
 - Largar o espólio da cena (o tesouro, o corpo, a prova).
 - Queimar um Gu de ativação única como distração — o Gu morre.
 - Deixar um aliado pra trás (com todas as consequências de mesa que isso tem).
-- Levar um Ferimento: atalho suicida por um muro, salto de altura, atravessar fogo.
+- Levar um [[❤️ Recursos e Dano|Ferimento]] (−5% permanente na Vitalidade e na Alma máximas): atalho suicida por um muro, salto de altura, atravessar fogo.
 
 Essa escolha é o coração da regra. **Fugir sempre custa alguma coisa que você queria manter** — é o mesmo princípio do resto do sistema.
 

@@ -53,7 +53,7 @@ Cinco vias, e a maioria das mesas só lembra da primeira:
 |---|---|---|---|
 | **Perguntar** | **CAR** | Alguém sabe e conta — por simpatia, medo ou engano | Um favor devido, ou o preço de um segredo seu |
 | **Observar** | **AST** | Vigiar de longe, contar guardas, cronometrar rotinas | Tempo, e risco de ser visto |
-| **Comprar** | **CAR** | Rede de informação, informante, comerciante | Pedras Primordiais, e o vendedor sabe que você perguntou |
+| **Comprar** | **CAR** | Rede de informação, informante, comerciante | Pedras Primordiais (a moeda do mundo mortal), e o vendedor sabe que você perguntou |
 | **Roubar** | **DES** | Registros, mapas, um Gu de memória | Crime, com consequência se descoberto |
 | **Testar** | **AST** | Provocar de leve pra ver a reação | Alerta o alvo — mas às vezes é a única forma |
 
