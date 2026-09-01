@@ -252,12 +252,18 @@ Vários cultivadores montando um golpe único, cada um contribuindo com os Gu de
 
 Essa é a peça que faz um grupo pequeno parecer maior que a soma das partes — e a razão mecânica pela qual vale a pena o inimigo separar o grupo antes de lutar. Um mestre que entende isso constrói encontros em torno disso.
 
-> [!question] "Golpe de desespero" — o rótulo perdeu o lastro e ainda não foi refeito
-> Esta nota classificava o Coletivo como jogada de última rodada, e a base era **a CD 22** do teste de conjuração de quatro participantes, medida em ~15% de sucesso antes do rank 6. **Essa CD não existe mais:** a decisão 240 trocou a fórmula para `10 + nº de Gu`, e sob a regra nova um coletivo de 5 Gu tem CD 15 — **muito mais fácil de acertar**. Some a isso que **nenhuma bateria jamais mediu o coletivo**: todas rodaram o combo em modo solo.
+> [!warning] Golpe de desespero — e o motivo não é o que esta nota dizia
+> O rótulo está certo, mas a justificativa antiga morreu e a nova é mais interessante.
 >
-> Então o rótulo hoje se apoia num número revogado e em zero medição, e **fica aqui marcado como não verificado** até a remedição. Não quer dizer que esteja errado — o Coletivo tem a **Retaliação caindo sobre todos os participantes**, que é um custo brutal e pode continuar justificando o "desespero" sozinho, sem depender da CD.
+> **O que a nota dizia:** que o Coletivo quase nunca acertava, porque a CD de quatro participantes era 22 e o sucesso ficava em ~15%. **Isso acabou.** A decisão 240 trocou a fórmula, a CD de um coletivo caiu para **9**, e ele agora sai em **80% a 95%** das vezes. Pela conta antiga, o Coletivo teria virado jogada de abertura.
 >
-> **O que continua verdadeiro e não depende de medição:** a Brecha é compartilhada, e neutralizar **um** participante derruba o golpe inteiro e cobra o Retrocesso de todos. Isso torna o Coletivo frágil por construção e é a razão mecânica de o inimigo querer separar o grupo — independentemente do que a próxima bateria disser sobre a frequência de uso.
+> **O que a medição mostrou:** ele **acerta e entrega metade**. Custa **quatro ações** — uma de cada participante — e produz de **0,52× a 0,58×** do que esses mesmos quatro fariam atacando normalmente. Descontada a Retaliação, que cai sobre todos, o líquido é **−0,11× no rank 3, +0,07× no 4 e +0,32× no 5**. E ele **perde para o combo solo do mesmo núcleo**: concentrar os apoios num personagem rende mais que espalhar a jogada por quatro.
+>
+> **Por isso continua sendo jogada de última rodada, e não de primeira.** Não porque falhe, mas porque quatro ações são caras demais para o que ele devolve — a não ser quando essas quatro ações não teriam feito diferença nenhuma. É exatamente o cenário do desespero: o grupo já ferido, o alvo que não cai de outro jeito, a última rodada em que ainda existe grupo.
+>
+> **A fragilidade, que não depende de medição nenhuma:** a Brecha é compartilhada. Neutralizar **um** participante derruba o golpe inteiro e cobra o Retrocesso de todos os quatro. É a razão mecânica de um inimigo esperto separar o grupo antes de lutar.
+>
+> *(Ressalva de modelagem: no motor cada personagem tem um só Gu de ataque, então a Retaliação "dos quatro" é mais dura do que seria numa ficha real com arsenal completo. Os números acima são o pior caso.)*
 
 ## 🛡️ Golpes Matadores defensivos
 
