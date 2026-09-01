@@ -1710,6 +1710,181 @@ O **C + A** encosta a Alma **exatamente** nos 2,8 da decisão 78. O custo é tex
 
 ---
 
+## ⚒️ Décima sétima rodada — a Lee em corpo a corpo e a isenção do Xie Lang *(2026-09-01)*
+
+Duas diretivas de **ficha** (não de regra genérica), medidas juntas. Script: [[simulacoes/2026-09-01-decima-setima-lee-melee-xie-buff.py|_Processo/simulacoes/2026-09-01-decima-setima-lee-melee-xie-buff.py]] — cópia do motor da décima sexta. Semente `20260830`, **3.000 iterações por célula**, mix de Alma "C", treino = 0 dos dois lados (decisão 215). **O baseline já embute a decisão 231** (candidata C do nerf de Alma **aplicada**) e a decisão 227 (`ess_mod` do Xie Lang = 1,25).
+
+1. **A Lee vira corpo a corpo** — *"a Lee tmb vai ser melee, ela usará uma **foice** e complementará com Gu de suporte ou Gu de ataque melee dos elementos wu xing"*.
+2. **O Xie Lang ganha a isenção de custo de híbrido** (decisão 233), para ver se ela reverte a inversão contra o Demvi.
+
+**Reprodução conferida:** o baseline desta rodada bate com a décima sexta em **0,0pp nas doze células** de PvP e **célula a célula** na bateria de grupo. O que muda daqui em diante é mudança de verdade.
+
+### 🧭 A modelagem da Lee, declarada — os números saíram do Catálogo
+
+[[⚔️ Combate]] fecha o melee em `Dano melee = (M do Gu) d(dado da arma, ajustado por Níveis) + FOR + (M × B)`. A arma é a **foice** (pesada, `d10`), o atributo de ataque vira **FOR +3** (o valor é o mesmo do VON +3 que ela usava, então **o acerto não muda** — o que muda é o `+ FOR` fixo no dano), e os Níveis vêm da escada de Gu **🔨 amplifica** dos cinco elementos, lida rank a rank no [[📖 Catálogo de Gu]]:
+
+| Rank | Gu 🔨 amplifica do Catálogo | Níveis | Foice `d10` + Níveis | O que o Catálogo escreve |
+|---|---|---|---|---|
+| 1 | Palma d'Água · Brasa no Punho · Punho de Seixo | **+1** | `1d12 + FOR` | — |
+| 2 | **Gu do Manto de Carvão** (Fogo) | **+2** | `2d12 + 2 + FOR` | *"arma média (d8) sobe dois tipos: `2d12 + FOR`"* |
+| 3 | **Gu do Punho de Montanha** (Terra) | **+2** | `4d12 + 4 + FOR` | *"arma pesada (d10) sobe um tipo e ganha o resto por dado: **`4d12 + 4 + FOR`**"* |
+| 4 | **Gu da Fornalha nas Veias** (Fogo) | **+3** | `8d12 + 16 + FOR` | *"…os dois Níveis restantes viram +2 por dado: **`8d12 + 16 + FOR`**"* |
+| 5 | **Gu do Trono de Terra** (Terra) | **+4** | `16d12 + 48 + FOR` | *"…os três Níveis restantes viram +3 por dado: **`16d12 + 48 + FOR`**"* |
+
+Passada pelo `apply_niveis` do motor (decisão 79: sobe o tipo até d12, depois +1 por dado), a foice com esses Níveis **reproduz literalmente as três linhas que o Catálogo publica**. Nada foi inventado. A Densidade da Essência (`M × B`) entra por cima, como manda a fórmula. **`role="healer"` fica intacto** — a cura (`M d6`, uma vez por cena, decisão 155) continua na ficha.
+
+> [!warning] Esta leitura é o **TETO**, e a rodada mede o piso junto
+> Todos esses Gu têm condição pesada — Punho de Montanha e Trono de Terra exigem **os dois pés em solo natural** (*"no ar, sobre pedra trabalhada, assoalho, telhado, barco ou metal, o Gu não pega nada"*), a Fornalha cobra `1 × M` de Vitalidade a cada 2 rodadas, o Trono é **deslocamento 0**. O motor não modela posição nem terreno para ninguém. Por isso toda tabela abaixo traz também o **piso**: a *foice crua*, sem Nível nenhum — que é exatamente o tratamento que o Jiāotáng recebe há dezesseis rodadas.
+
+### 🔴 O achado que domina a rodada: o motor só modela os Níveis de ficha DA LEE
+
+Dezesseis rodadas rodaram com `nivel_bonus = 0` para os quatro. Ao dar à Lee a escada do Catálogo, ela ganha uma coisa que **o Jiāotáng também tem na ficha e nunca recebeu** — [[💪 Caminho da Força]] traz o *Gu do Tendão de Búfalo* (rank 2, **+1 Nível**), a *Gu da Mão de Pedra* (rank 3, **+1 permanente**) e o *Gu do Tirano de Mil Jin* (rank 4, **+2 Níveis**, sustentado até o rank 5) — e isso ainda é piso para ele, porque a **Descarga do Ímpeto soma +3 Níveis** a 5 de Ímpeto.
+
+| Configuração | rank 1 | rank 3 | rank 5 |
+|---|---|---|---|
+| **como o motor roda hoje** *(só a Lee com escada)* | Jiāotáng 85,9 > **Lee 71,0** > Xie 24,7 > Demvi 18,4 | Jiāotáng 68,7 > **Lee 67,4** > Demvi 43,9 > Xie 20,0 | **Lee 75,5** > Jiāotáng 57,7 > Demvi 45,1 > Xie 21,7 |
+| **paridade** *(os dois com a escada da ficha)* | Jiāotáng 85,9 > Lee 71,0 > Xie 24,7 > Demvi 18,4 | **Jiāotáng 75,9** > Lee 64,1 > Demvi 41,6 > Xie 18,3 | **Jiāotáng 74,6** > Lee 67,4 > Demvi 39,8 > Xie 18,2 |
+
+**A ultrapassagem da Lee sobre o Jiāotáng no rank 5 é artefato de modelagem, não propriedade da ficha.** Com os dois recebendo o que a ficha deles concede, o Jiāotáng **lidera nos três ranks** e a dianteira dele encolhe como o autor pediu: **+14,9 → +11,8 → +7,2pp** sobre o segundo colocado.
+
+### 📊 A matriz de PvP com as duas mudanças ligadas
+
+Braço A = o motor de sempre (sem Golpe Matador no duelo). Legenda do critério: **D✔** = o Demvi fecha a fila · **J✔** = o Jiāotáng lidera.
+
+| PJ | baseline de hoje *(Lee conjuradora)* | **Lee melee — TETO** | **Lee melee — PISO** |
+|---|---|---|---|
+| **Jiāotáng** | 94,8 · 81,3 · 73,7% | 85,9 · 68,7 · **57,7%** | 88,1 · 75,9 · 69,6% |
+| **Lee** | 53,0 · 29,7 · 32,1% | **71,0 · 67,4 · 75,5%** | 68,0 · 49,3 · 44,5% |
+| **Demvi** | 22,9 · 57,1 · 60,9% | 18,4 · 43,9 · 45,1% | 18,9 · 50,5 · 57,3% |
+| **Xie Lang** | 29,3 · 31,8 · 33,2% | 24,7 · **20,0 · 21,7%** | 24,9 · 24,3 · 28,5% |
+| **critério** | r1 D✔J✔ · r3 D✘J✔ · r5 D✘J✔ | r1 D✔J✔ · r3 D✘J✔ · **r5 D✘J✘** | r1 D✔J✔ · r3 D✘J✔ · r5 D✘J✔ |
+
+**A Lee sai do fundo da mesa.** Ela era **última** nos ranks 3 e 5 (29,7% e 32,1%); vira segunda no piso e primeira-ou-segunda no teto. Isso era o buraco maior da tabela e ele fechou.
+
+**Mas o critério do autor continua reprovado nos ranks 3 e 5 — e o culpado é o Xie Lang, não a Lee nem o Demvi.** Em toda configuração medida, quem fecha a fila nos ranks altos é **o Xie Lang**, não o Demvi.
+
+### ⚖️ A isenção do Xie Lang: ela não pode fazer o que se pediu dela
+
+**A conta da isenção está certa e reproduz o número do autor.** [[⚡ Golpes Matadores]] fecha o custo em `(soma das ativações) × (nº de Gu) × 2 se híbrido`, e o motor escreve isso como `40 × n_gu² × 2`:
+
+| rank | `B` | Gu no combo | custo hoje | **com a isenção** | dial ×1,5 | tanque do Xie | % do tanque hoje → com isenção |
+|---|---|---|---|---|---|---|---|
+| 1 | 0 | 2 | 320 | **160** | 240 | 344 | 93% → **47%** |
+| 2 | 1 | 3 | 720 | **360** | 540 | 688 | 105% → **52%** |
+| 3 | 2 | 4 | **1.280** | **640** | 960 | 1.376 | 93% → **47%** |
+| 4-5 | 3 | 5 | 2.000 | **1.000** | 1.500 | 2.752 | 73% → **36%** |
+
+Os **1.280 → 640** do autor caem exatos na linha do rank 3. **`ess_mod` não foi tocado — segue 1,25.**
+
+> [!important] 🔴 O achado central: **o Golpe Matador nunca dispara num duelo PJ × PJ**
+> O gatilho do motor é `boss is not None`, e `run_duel` passa `None` — **dezesseis rodadas de PvP foram medidas sem Golpe Matador nenhum**. Consequência aritmética: com o motor como está, a isenção é um **no-op exato na matriz de PvP**. Não "quase nada": **0,0pp em todas as doze células**, por construção.
+>
+> E o motor está **certo**, porque a regra está do lado dele. [[⚡ Golpes Matadores]], seção *"Contra quem vale disparar"*: contra **Chefe ou inimigo de rank acima**, sim; contra **"Guerreiro, Mestre de Gu, Recruta, horda"**, ***"Não. Ataque normal duas vezes rende mais e deixa o tanque cheio."*** Um par de rank igual está do lado errado dessa linha.
+
+Medida a isenção nos **três lugares onde ela pode aparecer**:
+
+| Onde | Δ da isenção | Δ do dial ×1,5 |
+|---|---|---|
+| **Matriz de PvP** *(braço A, o motor de sempre)* | **0,0 / 0,0 / 0,0pp** — no-op por construção | 0,0 / 0,0 / 0,0pp |
+| **Cena de Clímax** *(grupo × Chefe — a única composição publicada em que o golpe dispara)* | **+0,83 / −1,03 / +0,23pp** | +0,87 / −0,23 / +0,00pp |
+| **Duelo com o golpe forçado a disparar** *(escolha de modelagem, ver abaixo)* | +1,8 / +10,9 / +0,1pp | — |
+
+E o terceiro braço traz a sua própria lição. Forçando o golpe a sair no duelo (com o teste de conjuração corrigido, ver o achado colateral), o Xie Lang **desaba**: de 24,7 · 20,0 · 21,7% para **16,6 · 0,1 · 10,3%** sem a isenção, e **18,4 · 10,9 · 10,4%** com ela. O motivo é a Retaliação: falhar a conjuração deixa todos os Gu do combo inutilizáveis pelo resto da cena, e ele passa o duelo batendo com dano cru. **A isenção conserta parte de uma ferida que só existe porque o golpe foi disparado no lugar errado** — e mesmo consertada, ele fica muito abaixo de onde estava sem disparar nada.
+
+O par que motivou a decisão 233, medido nos três braços *(vitória do Xie Lang, normalizada)*:
+
+| Xie Lang × Demvi | rank 1 | rank 3 | rank 5 |
+|---|---|---|---|
+| décima sexta *(sem o nerf de Alma)* | 65,3% | 38,1% | 39,5% |
+| **hoje** *(com a candidata C aplicada)* | 62,4% | **29,8%** | **29,2%** |
+| com a isenção, braço A | 62,4% | **29,8%** | **29,2%** |
+| com a isenção, golpe forçado no duelo | 51,0% | 15,3% | 13,0% |
+
+> [!warning] ❌ **A resposta à pergunta do autor é NÃO — e o motivo não é de calibragem, é de eixo**
+> A isenção **não reverte** a inversão contra o Demvi. Ela não move a agulha em lugar nenhum do PvP, e move ±1pp na única cena publicada onde ela existe.
+>
+> **A razão está medida e é simples: a essência nunca foi a restrição do Xie Lang num duelo.** No rank 3 ele tem **27 ações** de tanque e no rank 5, **55** — contra um duelo de no máximo 20 rodadas. Ele nunca seca. O gargalo que a decisão 233 diagnosticou (*"quantas vezes por cena conseguia pagar a jogada boa"*) **é real na cena de Chefe e inexistente no duelo**, que é justamente onde o número que motivou o buff foi lido.
+>
+> **O dial de ×1,5 não salva:** ele mexe no mesmo eixo inerte, e mede **0,0pp** no PvP. Não é uma questão de a isenção ser forte ou fraca demais — é de estar na dimensão errada do problema.
+
+### 🎯 O que faria o critério fechar — e não é regra nova
+
+A décima sexta deixou registrado (item ⚠️) que o motor **não dá controle nenhum a PJ**, e que é exatamente disso que o degrau d8 vive pela Tabela de Letalidade (*"dano constante mais atrito real… o perfil que ganha lutas longas"*). **80% dos ataques do Xie Lang são d8 de Lua.** Novidade desta rodada: com a Lee em d10/d12, **ele é o único d8 da mesa** — o knob deixou de ser ambíguo e mede só a Lua dele.
+
+| Atrito de Lua | rank 1 | rank 3 | rank 5 | Xie × Demvi (r3 · r5) |
+|---|---|---|---|---|
+| **0%** *(o motor de hoje)* | Jiāotáng 85,9 > Lee 71,0 > Xie 24,7 > Demvi 18,4 | Jiāotáng 68,7 > Lee 67,4 > Demvi 43,9 > **Xie 20,0** | Lee 75,5 > Jiāotáng 57,7 > Demvi 45,1 > **Xie 21,7** | 29,8% · 29,2% |
+| **33%** | Jiāotáng 85,0 > Lee 69,8 > Xie 27,9 > Demvi 17,4 | Jiāotáng 63,6 > Lee 62,4 > Demvi 39,6 > Xie 34,5 | Lee 71,0 > Jiāotáng 51,9 > Demvi 40,3 > Xie 36,8 | 43,0% · 43,7% |
+| **67%** | Jiāotáng 83,5 > Lee 68,3 > Xie 32,4 > **Demvi 15,9** | Jiāotáng 57,0 > Lee 55,8 > Xie 52,4 > **Demvi 34,8** | Lee 65,0 > Xie 53,9 > Jiāotáng 45,2 > **Demvi 35,9** | **57,2% · 56,6%** |
+
+E a célula que fecha tudo — **as duas lacunas de modelagem tapadas ao mesmo tempo** (a Lee com a escada Wu Xing, o Jiāotáng com a escada de Força, e o atrito de Lua em ⅔):
+
+| rank | ordem medida | critério |
+|---|---|---|
+| **1** | **Jiāotáng 83,5%** > Lee 68,3% > Xie Lang 32,4% > **Demvi 15,9%** | ✅ D✔ J✔ |
+| **3** | **Jiāotáng 65,7%** > Lee 52,5% > Xie Lang 49,3% > **Demvi 32,5%** | ✅ D✔ J✔ |
+| **5** | **Jiāotáng 64,3%** > Lee 56,9% > Xie Lang 48,2% > **Demvi 30,7%** | ✅ D✔ J✔ |
+
+**É a única configuração medida em que o critério do autor fecha nos três ranks** — o Demvi fechando a fila, os outros três acima dele, o Jiāotáng liderando com a dianteira encolhendo (**+15,2 → +13,2 → +7,4pp**). E **nenhuma das duas peças é mudança de regra**: as duas são coisas que as fichas publicadas já concedem e que o motor nunca leu.
+
+### 👥 A bateria de grupo — a Lee melee mexe a tabela de composição, e muito
+
+As 5 composições publicadas × ranks 1/3/5. 🚩 marca movimento > 3pp.
+
+| Composição | baseline *(Lee conjuradora)* | **Lee melee — TETO** | Δ | **Lee melee — PISO** | Δ |
+|---|---|---|---|---|---|
+| **Fácil** | 100 · 100 · 100% | 100 · 100 · 100% | +0,0 / +0,0 / +0,0 | 100 · 100 · 100% | +0,0 / +0,0 / +0,0 |
+| **Padrão** | 93,2 · 87,6 · 99,2% | 98,1 · 95,6 · 99,8% | 🚩+4,9 / 🚩+7,9 / +0,6 | 97,6 · 92,2 · 98,8% | 🚩+4,4 / 🚩+4,6 / −0,4 |
+| **Padrão pesado** | 69,1 · 60,2 · 84,9% | 82,7 · 77,9 · 94,0% | 🚩+13,6 / 🚩+17,7 / 🚩+9,1 | 80,8 · 70,4 · 86,8% | 🚩+11,6 / 🚩+10,2 / +2,0 |
+| **Difícil** | 32,6 · 51,1 · 45,8% | 59,5 · 71,8 · 71,3% | 🚩+26,8 / 🚩+20,8 / 🚩+25,5 | 55,5 · 61,5 · 46,2% | 🚩+22,9 / 🚩+10,4 / +0,4 |
+| **Clímax** | 3,6 · 87,4 · 90,7% | 16,0 · 96,5 · 97,5% | 🚩+12,4 / 🚩+9,1 / 🚩+6,8 | 11,3 · 93,1 · 92,4% | 🚩+7,7 / 🚩+5,6 / +1,7 |
+| | | | **média +10,35pp · máx +26,8pp** | | **média +5,41pp · máx +22,9pp** |
+
+**🔴 As faixas publicadas não seguram no teto.** *Padrão pesado* sai da faixa **53-77%** para **78-94%**; *Difícil* sai de **~40-52%** para **60-72%**. **Doze das quinze células andam mais de 3pp**, e a maior anda **+26,8pp**. No piso o quadro é bem mais brando — no **rank 5 o movimento inteiro cabe em ±2pp** — mas os ranks 1 e 3 ainda estouram.
+
+**A leitura honesta é que a tabela de composição precisa ser remedida depois que a paridade de Níveis for resolvida**, e não agora: metade deste salto é a Lee ganhando o que a ficha dela dá, e a outra metade é os outros três continuarem sem o que as fichas deles dão. Republicar a tabela em cima de uma mesa meio-modelada seria assar o artefato dentro da regra.
+
+*(Nota de leitura: o baseline reproduz a décima sexta exatamente, incluindo o Clímax de rank 1 em **3,6%**, que já estava fora da faixa publicada de 56-87% antes desta rodada. A faixa vem de calibragens anteriores ao 80:20 e ao nerf de Alma.)*
+
+### ⚔️ A bateria solo — onde o corpo a corpo põe a Lee
+
+Cada PJ × 1 Mestre de Gu (2 ações/rodada), ranks 1/3/5.
+
+| PJ | baseline | **Lee melee — TETO** | **Lee melee — PISO** |
+|---|---|---|---|
+| Xie Lang | 8,9 · 9,8 · 24,4% | *inalterado* | *inalterado* |
+| Jiāotáng | 59,5 · 37,4 · 47,7% | *inalterado* | *inalterado* |
+| **Lee** | **5,3 · 5,8 · 18,2%** | **36,6 · 30,7 · 61,7%** | **29,8 · 16,5 · 26,7%** |
+| Demvi | 15,3 · 24,6 · 48,2% | *inalterado* | *inalterado* |
+
+**A Lee sai do último lugar da mesa na cena solo.** Ela tinha o pior número dos quatro em todos os ranks (5,3 · 5,8 · 18,2%); no teto ela vira **a melhor do grupo no rank 5** (61,7% contra os 48,2% do Demvi), e no piso ela fica em pé de igualdade com os outros nos ranks 1 e 5, ainda atrás no 3. É a mesma história do PvP: o corpo a corpo conserta o buraco, e o teto passa do ponto.
+
+### 🔍 Achado colateral — o teste de conjuração do motor não é o publicado
+
+Descoberto ao fazer o Golpe Matador disparar num duelo pela primeira vez em dezessete rodadas. [[⚡ Golpes Matadores]] publica `Teste = d20 + AST + nível de domínio no Caminho do núcleo`, com **−4 se o golpe está registrado na ficha** (*"a sequência é treinada"*), e a nota diz por extenso: ***"um golpe registrado, treinado e usado em condições decentes passa quase sempre. O teste existe pra punir improviso e pressão."***
+
+O motor rola **`d20 + AST` e mais nada** — sem o nível de domínio e sem o −4.
+
+| rank | CD | motor | **regra publicada** |
+|---|---|---|---|
+| 1 | 16 | 35% | **55%** |
+| 3 | 20 | 15% | **45%** |
+| 5 | 22 | **5%** | **40%** |
+
+**No rank 5 o motor transforma o Golpe Matador numa loteria de 5%** — o oposto exato do que a regra promete. O achado nunca apareceu porque o gatilho é `boss is not None` e o golpe só é modelado na composição de Clímax, onde o impacto do conserto é pequeno (**+0,9 / +0,0 / +0,3pp**). **Nada foi aplicado** — o conserto é uma linha do motor, e vai para "Em aberto".
+
+### 📌 O que esta rodada devolve ao autor
+
+1. **✅ A Lee em corpo a corpo conserta o buraco dela, e conserta grande.** Em PvP ela sai de **última** nos ranks 3 e 5 (29,7 · 32,1%) para **67,4 · 75,5%** no teto e **49,3 · 44,5%** no piso; na cena solo, de **5,3 · 5,8 · 18,2%** para **36,6 · 30,7 · 61,7%** (teto) ou **29,8 · 16,5 · 26,7%** (piso). A modelagem saiu inteira do [[📖 Catálogo de Gu]] e reproduz as linhas publicadas do Punho de Montanha, da Fornalha nas Veias e do Trono de Terra.
+2. **❌ A isenção do Xie Lang NÃO reverte a inversão contra o Demvi, e não pode.** **0,0pp em todas as doze células de PvP**, porque o Golpe Matador não dispara em duelo — e a regra concorda com o motor (*"Guerreiro, Mestre de Gu… Não"*). Onde ela existe de fato, a cena de Clímax, ela vale **+0,83 / −1,03 / +0,23pp**. **O dial de ×1,5 mede exatamente o mesmo nada** — o eixo do custo é inerte no duelo, porque no rank 3 ele tem 27 ações de tanque e no rank 5, 55.
+3. **🔴 O critério do autor está reprovado nos ranks 3 e 5 — e quem fecha a fila é o Xie Lang, não o Demvi.** Em toda configuração medida sem atrito de Lua.
+4. **🎯 A alavanca que faz o critério fechar está medida, e não é regra nova — são duas lacunas de modelagem.** Com a paridade de Níveis (o Jiāotáng recebendo a escada do [[💪 Caminho da Força]] que a Lee agora recebe do Wu Xing) **e** o atrito do degrau d8 em ⅔, o critério fecha **nos três ranks**: Jiāotáng 83,5 / 65,7 / 64,3% liderando com dianteira encolhendo (+15,2 → +13,2 → +7,4pp), e o **Demvi em último nos três** (15,9 / 32,5 / 30,7%). Modelar as duas é uma rodada própria.
+5. **🔴 A tabela de composição de [[⚔️ Ameaças Genéricas por Rank]] não sobrevive à Lee melee como está** — 12 de 15 células andam > 3pp, *Padrão pesado* vai de 53-77% para 78-94% e *Difícil* de ~40-52% para 60-72%. **Não republicar agora:** metade do salto é a Lee ganhando o que a ficha dá e a outra metade é os outros três seguirem sem o que as fichas deles dão. Remedir depois da paridade.
+6. **⚠️ Achado colateral, não aplicado:** o teste de conjuração do motor omite o nível de domínio e o −4 de golpe registrado, fazendo do Golpe Matador de rank 5 uma loteria de 5% contra os 40% da regra escrita. Impacto no Clímax: +0,9 / +0,0 / +0,3pp.
+7. **🟡 Se o autor quiser o Xie Lang consertado por ficha e não por modelagem**, o eixo tem de ser **o ataque, não o custo** — a isenção continua valendo pela ficção e pela cena de Chefe, mas ela não é a peça que move o PvP.
+
+---
+
 ## ☯️ Marcas de Dao no topo — a escada linear já entrega o veredito da ficção? *(2026-08-31)*
 
 Pendência testada: item de "Em aberto" no [[🧭 Log de Decisões]] apontando que a escada de domínio de [[☯️ Marcas de Dao]] (convertida em `01 — Fundação/⚔️ Combate.md#☯️ Marcas de Dao — o dano depois do rank 6`) é uma progressão em degraus (+1 de `B` por patamar, um único dobramento de pool no topo) enquanto o romance descreve a amplificação por Marca, no rank 8, como saltando para multiplicadores de "centenas ou milhares de vezes" — dado como a explicação canônica de por que rank 7 quase nunca vence rank 8.
