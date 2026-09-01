@@ -171,10 +171,10 @@ Vitalidade = (18 + 3×CON + 4×Densidade) × M
 
 **Um Imortal de rank 6 com 10.000 Marcas tem Densidade 4** — dezesseis pontos de Vitalidade por dado do pool acima de um recém-ascendido do mesmo rank e mesmo M. É a tradução mecânica do "Imortal denso": ele não bate mais forte por ser denso, ele **não cai**. Quem bate mais forte é quem tem domínio, e é outra conta.
 
-> [!warning] Acima do topo da faixa: em medição, não use ainda
-> A extensão natural da tabela é que **quem passa do topo continua ganhando Densidade** — seria o que torna ficar num rank uma escolha com dois lados, dureza de um e Calamidade escalada de outro, em vez de só um risco. A proposta em avaliação é **+1 a cada 25% do topo da faixa acumulado além dele** (no rank 6: a cada 2.500 Marcas acima de 10.000).
+> [!failure] Acima do topo da faixa a Densidade **para** — medido e fechado
+> A extensão natural seria deixar quem passa do topo continuar ganhando Densidade (a proposta era +1 a cada 25% do topo excedido). **Foi medida e reprovada.** Densidade alimenta a Vitalidade, Vitalidade é o botão de duração de cena, e o botão anda rápido demais: um Clímax de rank 6 cai de **8,31 rodadas para 5,41** com só dois degraus a mais, e para **3,04** com oito. O encontro mais importante do patamar viraria mais curto quanto mais denso fosse o inimigo — o oposto do que a ficção pede.
 >
-> **Não use isso como regra ainda.** Mesmo alimentando só a Vitalidade, uma Densidade sem teto é o botão de duração de cena, e duração de cena é o número que este sistema mais penou pra calibrar. Está na bateria. Até fechar, trate **Densidade 4 como o teto** e resolva um Imortal muito acima da faixa pela ficção e pelo nível de domínio dele.
+> **Densidade 4 é o teto, e nada acima da faixa acrescenta.** Um Imortal muito além do topo é perigoso pelo **nível de domínio** que acumulou junto e pela ficção; não por ser mais difícil de derrubar. E o preço de ter ficado ali continua sendo cobrado pelo céu — ver [[⛈️ A Vontade do Céu#Excesso de Marcas — o preço de ficar|Excesso de Marcas]]. Números: decisões 224 e 226.
 
 > [!note] Isto substitui os tetos duros de 9.999 / 99.999 / 299.999
 > A regra anterior devolvia ao vazio toda Marca ganha acima do teto do rank. Ela foi substituída por diretiva do autor, pra bater com o romance — onde ficar num rank acumulando densidade é uma estratégia conhecida e perigosa, não uma impossibilidade. Ver decisão 218 no [[🧭 Log de Decisões]].
@@ -258,7 +258,7 @@ Note o padrão: no rank 8, a Calamidade Terrestre **para de ocorrer** (o Imortal
 
 > **A conta que fecha com o cânone — e agora vale pra ranks 7 e 8 também.** O relógio do salto de rank é **interno**, e o mesmo padrão vale em toda a faixa 6–8: 3 repetições do evento mais raro do patamar, a 100 anos internos cada, dão sempre **~300 anos de tempo interno** pra atravessar um rank — os "300 anos" canônicos generalizam, não são exclusivos do rank 6. A Dilatação converte isso em calendário de campanha, **por rank**: um Imortal comum com terra Comum (10×) atravessa cada rank de 6 a 8 em **~30 anos externos**; com terra Boa (20×), em ~15 — o mesmo número, repetido a cada patamar, porque em todo rank o gargalo é "3× o evento de 100 anos".
 >
-> Um portador de Físico Extremo com terra Especial (40–50×, dobro de Marcas e as mesmas provações num relógio 4× mais rápido) faz cada rank em **~4 a 6 anos externos** — enfrentando o evento mais raro do patamar a cada ~3 meses de campanha, com +5 de CD em cada uma. É rápido porque é perigoso, não apesar disso.
+> Um portador de Físico Extremo com terra Especial (40–50×, dobro de Marcas e as mesmas provações num relógio 4× mais rápido) faz cada rank em **~4 a 6 anos externos** — enfrentando o evento mais raro do patamar a cada ~3 meses de campanha, e sempre com o Contador no piso de +15 que o sangue dele impõe. É rápido porque é perigoso, não apesar disso.
 
 **Falhar numa Calamidade** não zera as Marcas: você simplesmente **não ganha as daquele evento**, leva o dano, e a Terra Abençoada ganha um Ferimento da Terra (ver [[🗝️ Terra Abençoada|Terra Abençoada]]) — o que desacelera tudo até ser reparado. É assim que uma sequência ruim custa décadas.
 

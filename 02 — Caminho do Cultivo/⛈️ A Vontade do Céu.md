@@ -81,6 +81,31 @@ A pressão sistêmica precisa de um botão concreto, senão vira narração vaga
 
 ---
 
+## Excesso de Marcas — o preço de ficar
+
+As faixas de Marcas por rank não são teto: um Imortal pode ficar onde está, sobreviver a Calamidade após Calamidade e continuar gravando Marcas muito acima do topo da faixa dele ([[☯️ Marcas de Dao|Marcas de Dao]], decisão 218). Isso não sobrecarrega o corpo. **O que ele paga é aqui.**
+
+Some ao Contador, e some direto na CD das Calamidades e Provações dele:
+
+| Excesso sobre o topo da faixa do rank | O que acontece |
+|---|---|
+| **até +10%** | **+1 de CD.** O céu notou, e mais nada |
+| **+10% a +25%** | **+2 de CD** |
+| **+25% a +50%** | **+4 de CD**, e toda Calamidade **falhada** custa **um nível extra** de Ferimento da Terra |
+| **acima de +50%** | **+6 de CD**, o Ferimento extra acima, e a **cadência dobra** — os eventos passam a vir na metade do intervalo |
+
+**Este acréscimo empilha com o da faixa do Contador.** Um rank 6 Marcado (+2) com 40% de excesso (+4) enfrenta Calamidades a `CD 14 + 2 + 4 = 20`.
+
+> [!note] A primeira versão desta escala foi medida e reprovada
+> Ela tinha um degrau que fazia a Calamidade **"vir uma categoria acima"** na faixa de +10 a +25% — o que, na prática, importava a regra de morte da Provação Celestial para dentro de uma Calamidade Terrestre. Medida por século interno, a escala ficava **não-monotônica**: +8% de excesso era decorativo, **+20% virava precipício** (30,2% de morte por evento, e apenas 1,9% de chance de estar vivo depois de um século), e **acima de +50%, que deveria ser o pior degrau, era o mais brando** (25,7%) — porque os degraus de cima só somavam CD, enquanto o do meio trocava a natureza do evento.
+>
+> A correção foi tirar a troca de categoria e deixar a escala **só em CD, Ferimento e cadência**, que crescem de forma monotônica. Números e método: [[🧭 Log de Decisões]] (decisões 226 e 228).
+
+> [!tip] Pro mestre: este é o único freio do "ficar denso"
+> Com os tetos duros revogados, **nada além desta tabela impede um Imortal de acumular indefinidamente sem avançar**. Se você a esquecer, a estratégia de ficar vira sem preço e o rank deixa de significar alguma coisa. Role o excesso na conta da CD toda vez.
+
+---
+
 ## 🎯 A Tribulação sob medida
 
 **A regra mais importante desta nota.** O céu não joga o mesmo raio em todo mundo. Ele lê a ficha e ataca o buraco.
@@ -106,7 +131,14 @@ Se o personagem tem dois Caminhos, o céu escolhe a lacuna **comum aos dois** �
 
 ### Passo 2 — Olhe o atributo mais baixo, e exija um teste dele
 
-A Calamidade tem um teste central obrigatório, no atributo mais baixo da ficha (empate: escolha do mestre). CD conforme a faixa: **14** em Marcado, **18** em Perseguido, **22** em Alvo do Céu — mais os bônus de CD da tabela de faixas.
+A Calamidade tem um teste central obrigatório, no atributo mais baixo da ficha (empate: escolha do mestre).
+
+> [!warning] A CD sai de [[🌩️ Calamidades e Provações]], não daqui
+> `CD = 14 + 2 × (rank − 6) + bônus da faixa (+ 2 se for Provação Celestial ou acima)`.
+>
+> Esta nota já trouxe uma fórmula rival — "14 em Marcado, 18 em Perseguido, 22 em Alvo do Céu, mais os bônus da tabela de faixas" — e ela estava errada por três motivos: contava a faixa **duas vezes**, era **indefinida** nas faixas Ignorado e Notado (que é onde a mesa passa a maior parte da campanha), e **não escalava com o rank**, o que apagava o eixo de progressão inteiro. Medida, ela tornava Perseguido e Alvo do Céu insobrevivíveis em todo rank — contra a regra de mestre desta própria nota de que **a saída tem que estar aberta** (decisão 226).
+>
+> Os números 14 / 18 / 22 continuam úteis como **descrição de sensação** — "difícil, muito difícil, quase impossível" —, nunca como conta.
 
 | Atributo mais baixo | A forma que a Calamidade toma |
 |---|---|

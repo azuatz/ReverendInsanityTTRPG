@@ -130,7 +130,12 @@ Teste de CON.  CD = 10 + Pressão da Abertura
 
 ## ⛈️ Tribulações do Físico Extremo
 
-O céu percebe o que ele é: **+15 de piso permanente** no Contador de Ameaça Celestial ([[⛈️ A Vontade do Céu|A Vontade do Céu]]), e **+5 de CD** em toda Calamidade e Provação.
+O céu percebe o que ele é: **+15 de piso permanente** no Contador de Ameaça Celestial ([[⛈️ A Vontade do Céu|A Vontade do Céu]]). Ele nunca volta a ser Ignorado — começa marcado e o resto da vida dele só sobe a partir daí.
+
+> [!info] O "+5 de CD do Físico Extremo" nunca existiu como regra
+> Notas antigas citavam um `+5` de CD fixo em toda Calamidade para portadores de físico, e uma rodada de simulação chegou a usá-lo. **Não há regra nenhuma que o produza.** O que existe é o piso de +15 no Contador, que pela tabela de faixas coloca o portador em **Notado** — ou seja, **+1 de CD**, subindo conforme ele acumule outros gatilhos como qualquer um.
+>
+> A diferença é grande: pela regra escrita, um portador atravessa o rank 6 vivo em **63,8%** dos casos, não nos 20,2% que o número inventado produzia. Se você quiser que o físico seja mais perseguido do que isso, o lugar de mexer é o **piso do Contador**, não uma CD paralela (decisão 226).
 
 Na **Ascensão**, além do `+5` em cada uma das cinco etapas ([[♾️ A Ascensão Imortal|A Ascensão Imortal]]), duas travas exclusivas:
 

@@ -99,6 +99,16 @@ Conte os sucessos no fim da sequência inteira. Não se para no meio: **todas as
 
 Um **1 natural** em qualquer etapa conta como **duas falhas**, igual à provação da [[♾️ A Ascensão Imortal]].
 
+> [!important] E se o dano zerar a Vitalidade ou a Alma no meio da sequência?
+> Acontece com frequência — o dano de uma etapa falhada come de 10% a 52% do trilho, e uma sequência ruim chega lá. **A regra é esta, e ela não interrompe a Calamidade:**
+>
+> 1. **A sequência continua até o fim.** O céu não para porque você caiu; as etapas restantes são roladas normalmente, e você as rola caído.
+> 2. **Cada etapa restante é rolada com desvantagem.** Você está lutando pela consciência, não pela vitória.
+> 3. **Ao fim da sequência**, e só então, faça **um Teste de Morte** ([[❤️ Recursos e Dano]]) por trilho que tenha zerado. Sobreviver deixa você em **1** naquele trilho, com um **Ferimento** permanente somado ao que o resultado da Calamidade já cobrar.
+> 4. **Se os dois trilhos zerarem**, não há teste: o Imortal morre, e a Fenda dele vai a **Ferimento da Terra nível 4** — é assim que uma Terra Abençoada fica órfã e vira achado de campanha.
+>
+> **Por que não interromper.** Se cair no meio encerrasse a Calamidade, um Imortal quase morto sairia dela mais barato que um que aguentou de pé — e o incentivo viraria "leve dano cedo". Rolando até o fim, o preço de cair é a desvantagem nas etapas seguintes, que é grande e não é ganho nenhum.
+
 ### Marcas proporcionais — o que isso muda
 
 Passar raspando ainda rende. Não passar não rende nada. É o que faz a diferença entre um Imortal que se preparou e um que só sobreviveu aparecer **na contagem de Marcas**, e portanto no rank, e portanto em quem ganha a próxima briga — em vez de aparecer só na narração.
@@ -113,7 +123,7 @@ Falhar uma Calamidade por completo cobra três coisas ao mesmo tempo, e é a int
 
 1. **Zero Marcas** — o relógio de rank parou por uma década.
 2. **1 Ferimento** — o teto de Vitalidade e Alma desceu 5%, permanente ([[❤️ Recursos e Dano]]).
-3. **Um nível de Ferimento da Terra** — a renda cai, e reparar custa 50 PEI e 3 meses internos por nível ([[⚗️ Materialização e Alquimia Interna]]).
+3. **Um nível de Ferimento da Terra** — a renda cai, e reparar custa 50 Pedras de Essência Imortal e 3 meses internos por nível ([[🗝️ Terra Abençoada#Ferimento da Terra|Terra Abençoada]]).
 
 Há ainda um **quarto efeito, separado dos três acima e com gatilho próprio**: role `1d6` por etapa individual falhada na tabela de [[🌾 Ecologia e Economia da Terra Abençoada]] (safra perdida, veia desabada, fera morta, clima invertido, cadeia rompida ou o Espírito da Terra ferido) — isso acontece **mesmo quando o personagem passa a Calamidade inteira**, bastando que uma etapa isolada tenha falhado no caminho.
 

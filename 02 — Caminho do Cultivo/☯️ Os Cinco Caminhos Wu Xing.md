@@ -222,30 +222,31 @@ Um Golpe Matador que combine dois ou mais dos cinco elementos
 NÃO é híbrido para Lee. Não paga o ×2.
 ```
 
-### A partir do rank 6 — as Marcas se dividem por cinco
+### A partir do rank 6 — as Marcas **não** se dividem
 
-Do rank 6 em diante, o que mede alguém não é rank, é **Marca de Dao no Caminho que está usando** (ver [[☯️ Marcas de Dao|Marcas de Dao]]). Aqui a conta vira contra ele:
+Do rank 6 em diante, o que mede alguém não é rank, é **Marca de Dao no Caminho que está usando** ([[☯️ Marcas de Dao|Marcas de Dao]]). E é aqui que a regra dos cinco como um Caminho só precisa valer inteira, senão ela não vale nada:
 
 ```
-Toda Marca ganha entra num pote único e se divide por cinco,
-uma parte para cada elemento (arredonda pra baixo; o resto acumula
-num contador de sobra e é distribuído quando fecha 5).
-
-Nível de domínio de cada elemento = (Marcas totais ÷ 5)
+Toda Marca ganha entra num contador ÚNICO — o do Wu Xing —
+não importa de que elemento veio a fonte que a gerou.
+Esse contador é o nível de domínio dele nos cinco elementos, por igual.
 ```
 
-| Marcas totais | Por elemento | Domínio de Lee (em **cada** um dos cinco) | Um especialista com o mesmo total |
-|---|---|---|---|
-| 5.000 | 1.000 | **Pequeno Feito** — +1 Nível, ×5 | Pequeno Feito — +1 Nível |
-| 25.000 | 5.000 | **Pequeno Feito** — +1 Nível, ×5 | **Mestre** — +2 Níveis, custo −50% |
-| 50.000 | 10.000 | **Mestre** — +2 Níveis, custo −50%, ×5 | **Grão-Mestre** — +3 Níveis |
-| 250.000 | 50.000 | **Grão-Mestre** — +3 Níveis, ×5 | **Quase-Supremo** — +4, ignora RD inferior |
-| 750.000 | 150.000 | **Quase-Supremo** — +4 Níveis, ×5 | **Grande Mestre Supremo** — +5, pré-requisito de Venerável |
-| 1.500.000 | 300.000 | **Grande Mestre Supremo** ×5 | *(alcançado com 300.000)* |
+O corpo dele **lê qualquer Marca elemental como Marca do mesmo Caminho**. Uma Calamidade atravessada no fogo, um Gu Imortal de metal refinado, uma terra sintonizada em madeira: tudo entra no mesmo pote e vale nos cinco.
 
-**A leitura em uma linha:** na faixa baixa ele empata; a partir de ~10.000 Marcas ele fica **um nível de domínio inteiro atrás** e nunca mais alcança. Pra virar Venerável (que exige Grande Mestre Supremo) ele precisa de **cinco vezes o mundo**: 1.500.000 Marcas contra 300.000 de um especialista. **Lee provavelmente não vira Venerável — e isso é a parte honesta da build, não um bug.**
+| Marcas | Domínio nos cinco elementos | Um especialista com o mesmo total |
+|---|---|---|
+| 5.000 | **Pequeno Feito** — +1 Nível | Pequeno Feito — +1 Nível |
+| 25.000 | **Mestre** — +2 Níveis, custo −50% | Mestre — +2 Níveis |
+| 150.000 | **Quase-Supremo** — +4, ignora RD inferior | Quase-Supremo — +4 |
+| 300.000 | **Grande Mestre Supremo** — +5 | Grande Mestre Supremo — +5 |
 
-**Elemento Âncora (opcional).** Uma vez por campanha, ao custo de um arco inteiro de reclusão, Lee pode declarar um **Elemento Âncora**: dali em diante o pote se divide em **seis partes**, com o Âncora recebendo **duas** e os outros quatro **uma cada**. Ele ganha profundidade num elemento à custa dos outros quatro. Trocar o Âncora exige outro arco de reclusão e **perde 20% das Marcas do Âncora antigo** — o corpo tinha se reescrito naquela direção.
+**A leitura em uma linha:** ele empata com um especialista em toda a escada, e chega ao pré-requisito de Venerável — 300.000 Marcas no Caminho principal — **no mesmo momento que ele**. A diferença é que o especialista tem aquilo num elemento e o Lee tem nos cinco.
+
+> [!note] Isto substitui a divisão por cinco (decisão 222)
+> A versão anterior desta seção mandava dividir cada Marca por cinco, e concluía que "Lee provavelmente não vira Venerável — e isso é a parte honesta da build". **Por diretiva do autor, não é mais assim.** Aquela regra transformava o buff numa armadilha: cinco contagens rasas, um nível de domínio inteiro atrás a partir de ~10.000 Marcas, e 1.500.000 Marcas necessárias para virar Venerável contra 300.000 de qualquer outro. Um buff que custa o teto da campanha não é um buff.
+>
+> O **Elemento Âncora** — a válvula opcional que deixava concentrar Marcas num elemento à custa dos outros — saiu junto, porque só existia para amortecer a divisão. Texto integral das duas regras em `_Arquivo/`.
 
 ### O que ele ganha
 
