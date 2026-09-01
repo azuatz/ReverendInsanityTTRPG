@@ -1455,8 +1455,13 @@ def dominio_de(marcas):
     return 0, "Vislumbre"
 
 
+# A decisão 218 REVOGOU os tetos duros (9.999 / 99.999 / 299.999): as faixas
+# viraram descritivas e dá pra passar do topo continuando no mesmo rank — o
+# preço do excesso é exatamente o escalonamento de Calamidade medido na T4.
+# `TETO_MARCAS` sobrevive só como o ponto de parada da carreira da T1 (que é
+# "até 10.000 Marcas", o topo da faixa do rank 6), pra bater com a 4ª rodada.
 TETO_MARCAS = {6: 9999, 7: 99999, 8: 299999, 9: None}
-# a "faixa" de referência da qual o excesso é medido (o teto redondo da banda)
+# o topo da FAIXA do rank, do qual o excesso é medido (decisão 218)
 BANDA_MARCAS = {6: 10000, 7: 100000, 8: 300000}
 
 # --- rendimento por evento (☯️ Marcas de Dao) -------------------------------
@@ -2103,6 +2108,70 @@ def bateria_t4(formula="rank"):
     return out
 
 
+# ---------------------------------------------------------------------------
+# BATERIA T5 — a extensão RETIDA da decisão 224: B ilimitado acima da faixa
+# ---------------------------------------------------------------------------
+# A decisão 224 publicou a Densidade Imortal com teto em B 4 e mandou à bateria
+# a continuação: "+1 de B a cada 25% do topo da faixa excedido", sem teto.
+# `B` alimenta Vitalidade (`+4 × M` por degrau) E dano por dado (`+M`), então é
+# a alavanca mais forte do motor — a decisão diz isso e pede o número.
+def b_por_excesso(marcas, rank):
+    """+1 de B a cada 25% do topo da faixa excedido (a proposta retida)."""
+    banda = BANDA_MARCAS.get(rank)
+    if banda is None or marcas <= banda:
+        return 0
+    return int(((marcas - banda) / banda) / 0.25)
+
+
+def bateria_t5():
+    print("\n" + "=" * 120)
+    print("BATERIA T5 — A EXTENSÃO RETIDA DA DECISÃO 224: B ilimitado acima do topo da faixa")
+    print("Proposta: +1 de B a cada 25% do topo excedido. B dá +4×M de Vitalidade E +M de dano por dado.")
+    print("Grupo de PJs com o B do excesso; inimigo no domínio-base do rank (o Imortal denso contra a cena padrão).")
+    print("=" * 120)
+    print(f"  {'rank':>4s} {'Marcas':>9s} {'excesso':>8s} {'B extra':>8s} " +
+          " ".join(f"{c:>17s}" for c in COMPS))
+    out = {}
+    casos = ((6, 10000), (6, 12500), (6, 15000), (6, 20000), (6, 30000),
+             (7, 100000), (7, 150000), (7, 200000))
+    for rank, marcas in casos:
+        dom = DOMINIO[(rank, "recem")]
+        extra = b_por_excesso(marcas, rank)
+        banda = BANDA_MARCAS[rank]
+        exc = (marcas - banda) / banda * 100
+        linha = []
+        for comp in COMPS:
+            random.seed(20260830)
+            r = simulate(rank, comp, imortal=True, dom_B=dom["B"] + extra,
+                         pool_mult=dom["pool_mult"], enemy_B=dom["B"],
+                         enemy_pool_mult=dom["pool_mult"])
+            out[(rank, marcas, comp)] = r
+            linha.append((r["win"] * 100, r["rounds"]))
+        print(f"  {rank:4d} {marcas:9d} {exc:7.0f}% {extra:8d} " +
+              " ".join(f"{w:8.1f}% {rr:6.2f}r" for w, rr in linha))
+    print("\n  O PREÇO DE CADA DEGRAU. A vitória satura em 100% quase de imediato (a escada de")
+    print("  composição já colapsa acima do rank 5 — achado da oitava rodada), então quem mede")
+    print("  o degrau é a DURAÇÃO e o desgaste, não a vitória.")
+    for rank in (6, 7):
+        b0w = sum(out[(rank, BANDA_MARCAS[rank], c)]["win"] * 100 for c in COMPS) / len(COMPS)
+        b0r = sum(out[(rank, BANDA_MARCAS[rank], c)]["rounds"] for c in COMPS) / len(COMPS)
+        b0v = sum(out[(rank, BANDA_MARCAS[rank], c)]["vit_lost"] for c in COMPS) / len(COMPS)
+        cl0 = out[(rank, BANDA_MARCAS[rank], "climax")]["rounds"]
+        for r2, mk in casos:
+            if r2 != rank or mk == BANDA_MARCAS[rank]:
+                continue
+            v = sum(out[(rank, mk, c)]["win"] * 100 for c in COMPS) / len(COMPS)
+            rr = sum(out[(rank, mk, c)]["rounds"] for c in COMPS) / len(COMPS)
+            vl = sum(out[(rank, mk, c)]["vit_lost"] for c in COMPS) / len(COMPS)
+            cl = out[(rank, mk, "climax")]["rounds"]
+            print(f"  rank {rank}, {mk:7d} Marcas (B +{b_por_excesso(mk, rank)}): "
+                  f"vitória {v:5.1f}% ({v - b0w:+4.1f}pp) · rodadas {rr:4.2f} "
+                  f"({(rr / b0r - 1) * 100:+5.1f}%) · Clímax {cl:4.2f}r vs {cl0:4.2f}r "
+                  f"({(cl / cl0 - 1) * 100:+5.1f}%) · Vit. perdida {vl * 100:4.1f}% "
+                  f"(base {b0v * 100:4.1f}%)")
+    return out
+
+
 # ===========================================================================
 # ███  DELIVERABLE 2 — A FACE RD DO "NÍVEL DE POTÊNCIA"  ███
 # ===========================================================================
@@ -2385,9 +2454,10 @@ def main():
     t2b = bateria_t2_calendario()
     t3 = bateria_t3()
     t4 = bateria_t4()
+    t5 = bateria_t5()
     r5 = bateria_r5()
     x6 = bateria_x6()
-    return t1, t2, t2b, t3, t4, r5, x6
+    return t1, t2, t2b, t3, t4, t5, r5, x6
 
 
 if __name__ == "__main__":

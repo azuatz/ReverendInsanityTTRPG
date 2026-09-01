@@ -856,7 +856,7 @@ Assinatura de Hei Lou Lan. O golpe mais autodestrutivo do rank 5 — e o mais lu
 | 6 | Uva Verde | **UV** |
 | 7 | Jujuba Vermelha (100 UV = 1) | **JV** |
 | 8 | Lichia Branca (100 JV = 1) | **LB** |
-| 9 | Damasco Amarelo (1 = 1.000.000 de Pedras Primordiais) | **AA** |
+| 9 | Damasco Amarelo (1 = ~100.000.000 de Pedras Primordiais) | **AA** |
 
 **Marcas de Dao** aparecem como `MD [Caminho]`. Marca de Dao gasta **não volta com descanso** — só se recupera sobrevivendo a uma Calamidade ou Provação do caminho correspondente. É a razão pela qual até os maiores sábios do romance usam seus melhores golpes uma vez por década, não uma vez por combate.
 

@@ -53,7 +53,7 @@ B                  = Grau de Densidade + Níveis de Dano excedentes
 Níveis de Dano     = sobem o tipo (d4→d6→d8→d10→d12); em d12, viram +1/dado
 Cura               = M d8   (não soma B)
 RD                 = base × M   [piso: nunca reduz abaixo de M]
-                                [duas fontes: maior + metade da segunda]
+                                [duas fontes: vale só a MAIOR, nunca soma]
 Dano melee         = 1 dado da arma + FOR          [sem Gu ativo]
                    = (M do Gu de Força) d(arma) + FOR + (M × B)   [com Gu]
 Armas              = improvisada d4 · leve d6 · média d8 · pesada d10
@@ -95,7 +95,7 @@ outra coisa:
 
 1. **Arredonde sempre para baixo.** `12,7 pedras` são `12`; `3,9 dias` são `3`.
 2. **Ordem de resolução de uma ação:** teste → efeito (dano/condição/controle) → RD e reduções → o que sobrar acontece. Nunca aplica RD antes do dano estar rolado.
-3. **A mesma fonte nunca soma com ela mesma — vale a maior.** Duas fontes de RD já seguem essa regra (`maior + metade da segunda`, acima); o mesmo princípio vale para qualquer bônus repetido do mesmo tipo (dois Gu de Vantagem no mesmo teste, dois efeitos idênticos de terreno) que uma nota específica não tenha resolvido de outro jeito.
+3. **A mesma fonte nunca soma com ela mesma — vale a maior.** Duas fontes de RD seguem exatamente essa regra: **vale só a maior**, nunca se somam (decisão 223). O mesmo princípio vale para qualquer bônus repetido do mesmo tipo (dois Gu de Vantagem no mesmo teste, dois efeitos idênticos de terreno) que uma nota específica não tenha resolvido de outro jeito.
 
 ## 💠 O estágio numa linha
 
@@ -121,7 +121,8 @@ CALAMIDADE / PROVAÇÃO
   CD de cada etapa  = 14 + 2 × (rank − 6) + faixa do Contador (+1/+2/+3/+5)
                       +2 se for Provação Celestial ou acima
   Reduções          = −2 por presságio respondido (numa etapa só)
-                      −2 terra Inabalável · −3 Gu da Âncora dos Três Ares
+                      −2 terra Inabalável · −3 Gu de Estabilização
+                      (no Catálogo: "Gu da Âncora dos Três Ares")
   Marcas            = proporcionais aos sucessos
   Não passar da maioria = 0 Marcas + 1 Ferimento + 1 Ferimento da Terra
 

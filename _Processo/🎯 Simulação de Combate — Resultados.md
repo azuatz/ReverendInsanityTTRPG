@@ -1400,11 +1400,32 @@ Rank 6, preparação típica. Excesso medido sobre a banda de 10.000 Marcas.
 > **(c) O terceiro degrau mata por outra porta, com a mesma força.** `+4 CD` sozinho seria caro-mas-jogável; o **Ferimento da Terra automático por etapa falhada** produz **4,66 níveis por século** contra um reparo de 1 nível por década — a Fenda colapsa (nível 4) e leva a Abertura junto. Sobrevivência **1,7%**, sem uma única morte por Provação.
 > **(d) O quarto degrau, o que deveria ser o pior, é o mais brando dos três últimos.** `+6 CD` e cadência dobrada deixam **25,7%** de sobrevivência — **nove vezes mais** que a banda de +20% e **quinze vezes mais** que a de +40%. A ordem dos degraus está invertida na prática.
 >
-> **Duas observações que agravam o veredito, e que a sessão paralela precisa pesar:**
-> 1. **Marcas em excesso não deveriam existir por acúmulo.** [[☯️ Marcas de Dao]] diz que no teto *"o excesso simplesmente não gruda"*. A única forma de chegar a 12.000 no rank 6 é **Retrocesso de Marca** — que **já cobra 1 Ferimento permanente por 1.000 Marcas forçadas** (20 Ferimentos para as 2.000 do cenário, ou seja, morte). O escalonamento é, hoje, uma **terceira** punição empilhada sobre duas que já existem.
-> 2. **A escala não tem teto de rank.** Aplicada ao rank 7 com +20% (cenário 3b), a combinação `Perseguido + categoria acima + 5 etapas` dá **CD 23** e **99,4% de mortalidade por evento**. Não é uma penalidade dura; é a ausência de resultado.
+> **Três observações que agravam o veredito, e que a sessão paralela precisa pesar:**
+> 1. **Esta escala é agora o ÚNICO preço do excesso, e a decisão 218 a colocou nessa posição de propósito.** Com os tetos duros revogados, passar do topo da faixa é o caso **normal** do "Imortal denso" — a decisão registra explicitamente que *"o preço do excesso é a Vontade do Céu escalando as Calamidades"*. Ou seja: toda a punição por densidade está concentrada nesta única escala, e ela precisa aguentar sozinha o peso de ser um **desenho jogável**, não um portão. Medida, ela não aguenta: 20% acima do topo já é 2,9% de sobrevivência por século.
+> 2. **A escala é a única coisa que separa o "Imortal denso" da morte.** A decisão 218 quer que ficar denso seja uma **jogada** ("é assim que o Imortal denso deixa de ser exceção de regra e vira o caso normal"). Com os degraus como estão, ficar denso é suicídio: a banda de +10-25% — a primeira que um Imortal denso encosta — é justamente a mais letal das quatro.
+> 3. **A escala não tem teto de rank.** Aplicada ao rank 7 com +20% (cenário 3b), a combinação `Perseguido + categoria acima + 5 etapas` dá **CD 23** e **99,4% de mortalidade por evento**. Não é uma penalidade dura; é a ausência de resultado.
 >
 > **Se o autor quiser mantê-la**, o desenho mínimo que a medição sustenta: mover o **"categoria acima"** para a banda de topo (onde a morte cabe), pôr um **teto de 1 Ferimento da Terra por evento** na banda de +25-50%, e deixar as bandas baixas como estão. Isso restaura a monotonia. **Nada disso foi aplicado — é medição, e a decisão é do autor.**
+
+---
+
+### 🟠 T5 — A extensão retida da decisão 224: `B` ilimitado acima do topo da faixa
+
+A decisão 224 publicou a Densidade Imortal **com teto em B 4** e mandou à bateria a continuação natural: **`+1 de B` a cada 25% do topo da faixa excedido, sem teto** — exatamente a alavanca que o excesso de Marcas da decisão 218 torna corriqueira. Grupo de PJs com o `B` do excesso, inimigo no domínio-base do rank (o Imortal denso contra a cena publicada):
+
+| Rank | Marcas | Excesso | `B` extra | Vitória média | Rodadas médias | **Clímax** | Vitalidade perdida |
+|---|---|---|---|---|---|---|---|
+| 6 | 10.000 | 0% | 0 | 94,4% | 5,69 | **8,31r** | 41,7% |
+| 6 | 12.500 | +25% | **+1** | 99,7% | 4,80 *(−15,7%)* | **6,50r** *(−21,7%)* | 30,0% |
+| 6 | 15.000 | +50% | **+2** | 100,0% | 4,03 *(−29,1%)* | **5,41r** *(−34,9%)* | 21,4% |
+| 6 | 20.000 | +100% | **+4** | 100,0% | 3,53 *(−37,9%)* | **4,38r** *(−47,3%)* | 14,5% |
+| 6 | 30.000 | +200% | **+8** | 100,0% | 2,39 *(−58,0%)* | **3,04r** *(−63,4%)* | **7,0%** |
+| 7 | 150.000 | +50% | **+2** | 100,0% | 4,79 *(−20,9%)* | 4,92r *(−23,7%)* | 26,6% |
+| 7 | 200.000 | +100% | **+4** | 100,0% | 3,91 *(−35,5%)* | 4,00r *(−38,0%)* | 17,4% |
+
+> [!important] ⚠️ **A vitória não é a métrica aqui — a duração é.** A escada de composição já colapsa acima do rank 5 (achado da oitava rodada), então a vitória satura em 100% no primeiro degrau e não diz mais nada. O que o `B` ilimitado faz é **apagar a cena**: o Clímax de rank 6 cai de **8,31 para 3,04 rodadas** (−63%) e o grupo termina com **93% da Vitalidade intacta** contra 58% no degrau 0. Dois degraus (`+50%` de excesso, perfeitamente alcançável agora que a decisão 218 revogou os tetos) já cortam a cena em um terço.
+>
+> **Veredito de medição:** o teto em `B 4` da decisão 224 é a escolha certa, e a extensão sem teto **não deve ser publicada como está**. `B` alimenta Vitalidade *e* dano ao mesmo tempo — é a alavanca mais forte do motor, e a própria decisão já suspeitava disso. Se o autor quiser algum reconhecimento mecânico do excesso acima da faixa, a medição sugere um **degrau que toque um eixo só** (Vitalidade *ou* dano, não os dois), ou o caminho que o vault já tem e que não infla nada: **nível de domínio**, que é por Caminho e mede quanto você machuca sem também engordar a barra.
 
 ---
 
@@ -1525,7 +1546,8 @@ A deriva de composição é total. Sob (i), nos ranks 3 e 5 **todas as cinco com
 5. **🔴 O `+5 de CD do Físico Extremo` não existe em regra** — só o piso de +15 no Contador, que é +1.
 6. **🔴 A escada de CD ultrapassa a ficha** nos ranks 8-9 e nenhuma regra do vault faz a ficha alcançá-la.
 7. **🟡 Lacuna de regra:** a nota de Calamidades não diz o que acontece se o dano `M d6` zerar a Vitalidade ou a Alma do personagem no meio da sequência. Medido em 10-52% do pool por evento — chega perto, e vai acontecer na mesa.
-8. **🟡 `01 — Fundação/⚔️ Combate.md` l.104** ainda traz `+ treino` na fórmula de acerto, contra a decisão 215. Reportado, não editado.
+8. **⚠️ A extensão retida da decisão 224 (`B` ilimitado, +1 a cada 25% do topo excedido) não deve ser publicada como está** — dois degraus já cortam o Clímax de rank 6 em um terço; oito o cortam em 63%. O teto em `B 4` é a escolha certa.
+9. **🟢 Confirmado por construção:** a **Densidade Imortal** da decisão 224 (`B` pelo total de Marcas) e o **nível de domínio** (por Caminho) são de fato eixos separados no motor de tribulação — a etapa 5 soma **domínio**, não Densidade, como as duas notas mandam.
 
 ---
 

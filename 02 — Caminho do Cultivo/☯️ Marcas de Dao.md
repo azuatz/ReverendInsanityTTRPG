@@ -145,11 +145,21 @@ Mas ela comporta com elasticidade. **Cada rank tem uma faixa típica, não um te
 
 Um mortal cresce **dentro** do rank: Inicial, Médio, Alto, Pico, e cada degrau soma **+1 de Densidade da Essência (B)**, que engorda a Vitalidade e o dano por dado ([[🪜 Ranks e Estágios|Ranks e Estágios]]). Ao ascender, esses degraus somem — e até aqui não havia nada no lugar deles. **Um Imortal recém-chegado e um Imortal veterano do mesmo rank tinham exatamente a mesma ficha**, o que é falso no romance e chato na mesa.
 
-**A contagem de Marcas é o que substitui os pequenos reinos** (decisão 224). A posição dentro da faixa do seu rank dá o seu **B**, com o mesmo efeito de sempre:
+**A contagem de Marcas é o que substitui os pequenos reinos** (decisão 224). A posição dentro da faixa do seu rank dá a sua **Densidade Imortal**, e ela alimenta **a Vitalidade — só a Vitalidade**:
 
 ```
-Vitalidade = (18 + 3×CON + 4×B) × M          Dano = M d(dado) + (M × B)
+Vitalidade = (18 + 3×CON + 4×Densidade) × M
 ```
+
+> [!important] Dois B, e eles não se misturam
+> Na fase mortal existe um número só, o Grau de Densidade do estágio, e ele entra nas duas fórmulas ao mesmo tempo. **Na fase imortal são dois números diferentes, cada um com a sua fórmula:**
+>
+> | | Conta o quê | Alimenta |
+> |---|---|---|
+> | **Densidade Imortal** | Marcas **totais**, somando Caminhos | **Vitalidade** — o quanto você aguenta |
+> | **Nível de domínio** | Marcas **naquele Caminho** | **Dano e Níveis de Potência** — o quanto você machuca |
+>
+> Um Imortal com muitas Marcas espalhadas é **duro e inofensivo**; um com poucas Marcas todas num Caminho só é **frágil e letal**. É a diferença entre o veterano que ninguém consegue matar e o especialista que mata em duas trocas, e agora ela tem número. Ver [[⚔️ Combate|Combate]] para a tabela de domínio.
 
 | Densidade Imortal | Rank 6 | Rank 7 | Rank 8 |
 |---|---|---|---|
@@ -159,14 +169,12 @@ Vitalidade = (18 + 3×CON + 4×B) × M          Dano = M d(dado) + (M × B)
 | **B 3** — no topo da faixa | 7.500 | 75.000 | 250.000 |
 | **B 4** — atingiu o topo | 10.000 | 100.000 | 300.000 |
 
-**A contagem é do TOTAL**, somando Caminhos — é a Abertura inteira que engrossa, não um Caminho específico. (O que é por Caminho é o **nível de domínio**, que dá Níveis de Potência. São dois eixos diferentes e vale não confundir: **Densidade é o quanto você aguenta, domínio é o quanto você machuca.**)
-
-**Um Imortal de rank 6 com 10.000 Marcas tem B 4** — quatro degraus de Vitalidade e quatro de dano por dado acima do recém-ascendido do mesmo rank, com o mesmo M. É a tradução mecânica exata do "Imortal denso" e é por isso que ele assusta.
+**Um Imortal de rank 6 com 10.000 Marcas tem Densidade 4** — dezesseis pontos de Vitalidade por dado do pool acima de um recém-ascendido do mesmo rank e mesmo M. É a tradução mecânica do "Imortal denso": ele não bate mais forte por ser denso, ele **não cai**. Quem bate mais forte é quem tem domínio, e é outra conta.
 
 > [!warning] Acima do topo da faixa: em medição, não use ainda
-> A extensão natural da tabela é que **quem passa do topo continua ganhando B** — seria o que torna ficar num rank uma escolha com dois lados, poder de um e Calamidade escalada de outro, em vez de só um risco. A proposta em avaliação é **+1 de B a cada 25% do topo da faixa acumulado além dele** (no rank 6: a cada 2.500 Marcas acima de 10.000).
+> A extensão natural da tabela é que **quem passa do topo continua ganhando Densidade** — seria o que torna ficar num rank uma escolha com dois lados, dureza de um e Calamidade escalada de outro, em vez de só um risco. A proposta em avaliação é **+1 a cada 25% do topo da faixa acumulado além dele** (no rank 6: a cada 2.500 Marcas acima de 10.000).
 >
-> **Não publique isso como regra ainda.** B alimenta Vitalidade *e* dano ao mesmo tempo, e sem teto isso é a alavanca mais forte do motor inteiro — exatamente o tipo de número que a casa não fixa sem simulação. Está na bateria. Até fechar, trate **B 4 como o teto** e resolva um Imortal muito acima da faixa pela ficção e pelo nível de domínio dele.
+> **Não use isso como regra ainda.** Mesmo alimentando só a Vitalidade, uma Densidade sem teto é o botão de duração de cena, e duração de cena é o número que este sistema mais penou pra calibrar. Está na bateria. Até fechar, trate **Densidade 4 como o teto** e resolva um Imortal muito acima da faixa pela ficção e pelo nível de domínio dele.
 
 > [!note] Isto substitui os tetos duros de 9.999 / 99.999 / 299.999
 > A regra anterior devolvia ao vazio toda Marca ganha acima do teto do rank. Ela foi substituída por diretiva do autor, pra bater com o romance — onde ficar num rank acumulando densidade é uma estratégia conhecida e perigosa, não uma impossibilidade. Ver decisão 218 no [[🧭 Log de Decisões]].
