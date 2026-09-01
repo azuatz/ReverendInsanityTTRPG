@@ -560,13 +560,16 @@ simulação que envolva o Xie Lang**, porque muda o dano de Alma dele em todos o
 
 | Gu | Caminho | Tipo | Efeito mecânico | Forte / Fraco | Peculiaridades | Alimentação |
 |---|---|---|---|---|---|---|
-| **Gu da Voz Sem Dono\*** (Ownerless Voice Gu) | Alma | Ataque de Alma, alvo único | Uma voz que o alvo reconhece e não consegue nomear fala dentro do crânio dele. `Ataque de Alma: 16d10` (passo +1), alcance 30 m. **Ignora RD, armadura e Defesa física por completo** — a Defesa contra ele é `10 + VON + 2 × rank`. Contra alvo que **já sofreu dano de Alma nesta cena**, **+1 Nível** (continuidade com a Agulha Espectral). Contra alvo sob **Frio Yin**, o teste de VON dele é com **desvantagem** e a RD de Alma dele conta pela metade — a sinergia Lua + Alma que já é regra. Custo ×1,25 como todo Gu de Alma | ⬆️ O ataque de execução de alvo único que o Caminho não tem no topo da fase mortal: passa por RD 64, por armadura de rank 5 e por qualquer Gu de defesa físico, e **não pega aliado nenhum** — que é o defeito do Grito Sem Boca · ⬇️ **Cada uso soma +2 de Contaminação** (o dobro do Grito Sem Boca: a voz é uma alma armazenada gastando-se). Contra alvo com Gu de defesa **de Alma** ativo, o dano cai pela metade. E a voz **não é anônima**: quem sobrevive sabe que foi um cultivador de Alma, o que é acusação suficiente na maioria das facções | ⚡Marca ⚡Recuo 🍖Rara | Uma alma de cultivador **armazenada e não digerida** por ativação. Sem estoque, o Gu come um pedaço da do usuário: **−1 de Alma máxima permanente por disparo a seco** |
+| **Gu da Voz Sem Dono\*** (Ownerless Voice Gu) | Alma | Ataque de Alma, alvo único | Uma voz que o alvo reconhece e não consegue nomear fala dentro do crânio dele. `Ataque de Alma: 16d12` (passo 0), alcance 30 m. **Ignora RD, armadura e Defesa física por completo** — a Defesa contra ele é `10 + VON + 2 × rank`. Contra alvo que **já sofreu dano de Alma nesta cena**, **+1 Nível** (continuidade com a Agulha Espectral). Contra alvo sob **Frio Yin**, o teste de VON dele é com **desvantagem** e a RD de Alma dele conta pela metade — a sinergia Lua + Alma que já é regra. Custo ×1,25 como todo Gu de Alma | ⬆️ O ataque de execução de alvo único que o Caminho não tem no topo da fase mortal: passa por RD 64, por armadura de rank 5 e por qualquer Gu de defesa físico, e **não pega aliado nenhum** — que é o defeito do Grito Sem Boca · ⬇️ **Cada uso soma +2 de Contaminação** (o dobro do Grito Sem Boca: a voz é uma alma armazenada gastando-se). Contra alvo com Gu de defesa **de Alma** ativo, o dano cai pela metade. E a voz **não é anônima**: quem sobrevive sabe que foi um cultivador de Alma, o que é acusação suficiente na maioria das facções | ⚡Marca ⚡Recuo 🍖Rara | Uma alma de cultivador **armazenada e não digerida** por ativação. Sem estoque, o Gu come um pedaço da do usuário: **−1 de Alma máxima permanente por disparo a seco** |
 
-**Calibração:** segue a escada própria da nota `👻 Caminho da Alma` (`2d6` r2 → `4d6` r3 → `8d8` r4),
-o que põe o r5 em passo +1 = `16d10` (16–160, média 88). **Se o autor resolver B10 a favor do d12
-declarado no Catálogo, este Gu vira `16d12`** e a escada inteira de Alma sobe junto.
-Comparado ao **Gu da Lua Afogada** (r5, `16d12+16`, passo +4): bate bem menos, mas **ignora RD por
-completo e mira uma barra que ninguém defende** — é a barganha que o Caminho da Alma já faz em todos os ranks.
+**Calibração (atualizada pela decisão 250):** B10 foi resolvido a favor do d12 — **Alma é um Caminho
+d12** e a escada mortal da nota `👻 Caminho da Alma` passou a ser `2d12` (r2) → `4d12` (r3) →
+`8d12 + 8` (r4). O r5 entra em **passo 0 = `16d12`** (16–192, média 104).
+**Passo 0, e não +1, é deliberado.** A comparação é o **Gu da Lua Afogada** (r5, `16d12+16`, passo +4):
+ele bate mais, mas **não ignora RD**. Se a Alma também levasse o `+16`, ela seria estritamente melhor
+que o colega de tier — exatamente o desequilíbrio que a **decisão 231** acabou de corrigir. O que este
+Gu compra em vez de dado é **ignorar RD por completo e mirar uma barra que ninguém defende**, que é a
+barganha que o Caminho da Alma já faz em todos os ranks.
 Custo de ativação **50**.
 
 ## P2 — 木 Wu Xing / Madeira, rank 5, melee · fecha B3

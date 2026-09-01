@@ -52,7 +52,7 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Alma
 
-28 Gu — dano em **d12**.
+36 Gu — dano em **d12**. **Vinte e oito destes moram no [[📖 Catálogo de Gu|Catálogo]]; os outros oito moram na nota do Caminho**, e a coluna **Onde** diz qual é qual — ver [[👻 Caminho da Alma]].
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
@@ -63,20 +63,28 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 2 | **Gu de Acumulação de Ansiedade** — *Alma/Encantamento* | Controle social | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
 | 2 | **Gu de Fogo Fantasma** — *Fogo/Alma* | Ataque | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
 | 2 | **Gu do Acúmulo de Ansiedade** | Social, oculto | [[📖 Catálogo de Gu#🎭 Gu Sociais e de Investigação *(ranks 1 a 4)*\|Sociais]] |
+| 2 | **Gu do Verme da Lembrança** ✱ | Ataque de Alma | [[👻 Caminho da Alma\|Caminho da Alma]] |
 | 3 | **Gu da Lanterna da Alma** | Reconhecimento | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Verme da Verdade** ✱ — *Alma/Sabedoria* | Investigação | [[📖 Catálogo de Gu#🎭 Gu Sociais e de Investigação *(ranks 1 a 4)*\|Sociais]] |
+| 3 | **Gu da Agulha Espectral** ✱ | Ataque de Alma | [[👻 Caminho da Alma\|Caminho da Alma]] |
+| 3 | **Gu do Casaco de Alma** ✱ | Defesa de Alma | [[👻 Caminho da Alma\|Caminho da Alma]] |
 | 4 | **Gu Casaco da Alma Oculta** — *Alma/Sombras* | Furtividade de alma | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Gu Espírito Refinado** | Cura de Alma | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Gu Explosão Cerebral** — *Alma/Veneno* | Ataque de Alma, atrasado | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Gu da Mente Djinn** — *Transformação/Alma* | Transformação, apoio | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Gu do Medo** — *Alma/Sabedoria* | Controle mental | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Gu do Ressurgir dos Mortos** — *Vida/Alma* | Especial, ressurreição | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
+| 4 | **Gu do Grito Sem Boca** ✱ | Ataque de Alma, área | [[👻 Caminho da Alma\|Caminho da Alma]] |
+| 4 | **Gu Devorador Espectral** ✱ | Devoração | [[👻 Caminho da Alma\|Caminho da Alma]] |
 | 5 | **Gu da Explosão de Alma** | Armadilha | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Gu da Viagem Espiritual** — *Alma/Espaço* | Reconhecimento/Movimento | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
+| 5 | **Gu da Voz Sem Dono** ✱ | Ataque de Alma, alvo único | [[👻 Caminho da Alma\|Caminho da Alma]] |
 | 5 | **Gu do Casaco da Alma Oculta** — *Alma/Sombras* | Furtividade | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Gu do Som Magnífico Céu-Terra** — *Ar/Alma* | Ataque, área | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
+| 5 | **Gu da Alma de Cem Faces** ✱ | Utilidade / Social | [[👻 Caminho da Alma\|Caminho da Alma]] |
 | 6 | **Alma de Gelo** — *Gelo/Alma* | Ataque / Controle | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
 | 6 | **Purifica-Alma** | Cura / Refino | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
+| 6 | **Gu Imortal da Alma Devorada** ✱ | Ataque de Alma | [[👻 Caminho da Alma\|Caminho da Alma]] |
 | 7 | **Mudança de Alma** | Especial / Troca | [[📖 Catálogo de Gu#Rank 7 — M = 64\|Rank 7]] |
 | 7 | **Purifica-Alma Maior** ✱ | Cura / Refino | [[📖 Catálogo de Gu#Rank 7 — M = 64\|Rank 7]] |
 | 8 | **Arrependimento** — *Alma/Humano* | Aura passiva | [[📖 Catálogo de Gu#Rank 8 — M = 128\|Rank 8]] |
@@ -404,12 +412,13 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Lua
 
-14 Gu — dano em **d8**. **A Lua é Caminho próprio, não subcaminho de Luz** (decisão 121): no romance existem Imortais dedicados a ela e Marcas de Dao de Lua. Sete destes Gu moram no [[📖 Catálogo de Gu|Catálogo]]; os outros sete moram na nota do Caminho, e a coluna **Onde** diz qual é qual. O dial do Caminho é **a fase da lua** — ver [[🌙 Caminho da Lua]].
+15 Gu — dano em **d8**. **A Lua é Caminho próprio, não subcaminho de Luz** (decisão 121): no romance existem Imortais dedicados a ela e Marcas de Dao de Lua. Sete destes Gu moram no [[📖 Catálogo de Gu|Catálogo]]; os outros sete moram na nota do Caminho, e a coluna **Onde** diz qual é qual. O dial do Caminho é **a fase da lua** — ver [[🌙 Caminho da Lua]].
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
 | 1 | **Gu do Luar** | Ataque, à distância | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
 | 2 | **Gu da Foice Crescente** ✱ | Ataque, à distância | [[🌙 Caminho da Lua\|Caminho da Lua]] |
+| 2 | **Gu da Pele de Luar** ✱ | Corpo, defensivo | [[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)\|Corpo Elementais]] |
 | 2 | **Gu do Convite Lunar** | Ataque, concentrado | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
 | 2 | **Gu do Fulgor Lunar** | Ataque, à distância | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
 | 2 | **Vestimenta Lunar** | Defesa | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
@@ -447,7 +456,7 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Madeira
 
-32 Gu.
+33 Gu.
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
@@ -480,6 +489,7 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 4 | **Gu do Bosque no Osso** ✱ | 🗡️ Ataque melee — **entrega** | [[📖 Catálogo de Gu#🔥 Ataque Corpo a Corpo dos Cinco Elementos (Wu Xing)\|Wu Xing]] |
 | 4 | **Gu do Soldado de Elite Espada-de-Grama** — *Madeira/Escravidão* | Invocação de elite | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 5 | **Gu do Céu de Jade** — *Veneno/Madeira* | Ataque/Veneno | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
+| 5 | **Gu do Tronco de Mil Anéis** ✱ | 🗡️ Ataque melee — **entrega** | [[📖 Catálogo de Gu#🔥 Ataque Corpo a Corpo dos Cinco Elementos (Wu Xing)\|Wu Xing]] |
 | 6 | **Bambu Maduro** | Suporte | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
 | 6 | **Bambu de Ferro do Dossel** ✱ — *Madeira/Terra* | Defesa | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
 | 9 | **Lótus Imperial do Tesouro da Essência Celestial** | Produção | [[📖 Catálogo de Gu#Rank 9 — M = 256\|Rank 9]] |
@@ -530,7 +540,7 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Osso
 
-14 Gu — dano em **d10**.
+15 Gu — dano em **d10**.
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
@@ -538,6 +548,7 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 2 | **Gu da Asa de Osso Curta** ✱ — *Osso/Movimento* | Movimento | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
 | 2 | **Gu da Lança Óssea Espiral** | Ataque, à distância | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
 | 2 | **Gu da Medula de Jade Pálido** ✱ — *Osso/Terra* | Corpo, reforço estrutural | [[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)\|Corpo Elementais]] |
+| 2 | **Gu do Peito de Fole** ✱ — *Vento/Osso* | Corpo, reforço estrutural | [[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)\|Corpo Elementais]] |
 | 3 | **Gu da Alavanca Óssea** ✱ | Corpo, atributo | [[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)\|Corpo Elementais]] |
 | 3 | **Gu das Costelas-Escudo** | Defesa, passiva | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu de Carne-Osso** — *Osso/Vida* | Cura, reconstrutiva | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
@@ -780,7 +791,7 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Terra
 
-40 Gu.
+42 Gu.
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
@@ -800,6 +811,7 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 2 | **Gu Monólito** | Defesa | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
 | 2 | **Gu Poeirento** | Ocultação | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
 | 2 | **Gu da Casca de Barro** ✱ | Corpo, defensivo | [[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)\|Corpo Elementais]] |
+| 2 | **Gu da Manopla de Cascalho** ✱ | 🔨 Ataque melee — **amplifica** | [[📖 Catálogo de Gu#🔥 Ataque Corpo a Corpo dos Cinco Elementos (Wu Xing)\|Wu Xing]] |
 | 2 | **Gu da Medula de Jade Pálido** ✱ — *Osso/Terra* | Corpo, reforço estrutural | [[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)\|Corpo Elementais]] |
 | 2 | **Gu da Pele de Bronze Reforçada** ✱ — *Terra/Metal* | Defesa | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
 | 2 | **Gu da Terra Amarela** | Defesa | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
@@ -815,6 +827,7 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 4 | **Gu da Lasca de Falésia** ✱ | Ataque, à distância | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Gu de Jade Branco** — *Terra/Metal* | Defesa | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Gu do Alicerce de Granito** ✱ | Corpo, reforço estrutural | [[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)\|Corpo Elementais]] |
+| 4 | **Gu do Contraforte de Pedra** ✱ | 🔨 Ataque melee — **amplifica** | [[📖 Catálogo de Gu#🔥 Ataque Corpo a Corpo dos Cinco Elementos (Wu Xing)\|Wu Xing]] |
 | 5 | **Aranha-Lobo-da-Terra dos Mil Li** — *Escravidão/Terra* | Montaria | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Gu da Lama de Papa** ✱ — *Terra/Refino* | Utilidade/Ataque | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Gu da Pele de Lobo em Jade de Tartaruga** — *Transformação/Terra* | Defesa | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
@@ -894,12 +907,13 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Vento
 
-5 Gu — dano em **d10**.
+6 Gu — dano em **d10**.
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
 | 1 | **Gu da Aragem Cortante** ✱ | Ataque, à distância | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
 | 2 | **Gu do Passo de Pluma** ✱ | Corpo, perícia | [[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)\|Corpo Elementais]] |
+| 2 | **Gu do Peito de Fole** ✱ — *Vento/Osso* | Corpo, reforço estrutural | [[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)\|Corpo Elementais]] |
 | 3 | **Gu dos Ossos Ocos do Falcão** ✱ — *Vento/Osso* | Corpo, deslocamento | [[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)\|Corpo Elementais]] |
 | 5 | **Gu da Foice do Vazio** ✱ | Ataque, à distância | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 8 | **Verão** | Ataque em área | [[📖 Catálogo de Gu#Rank 8 — M = 128\|Rank 8]] |
@@ -932,7 +946,7 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Água
 
-20 Gu — dano em **d8**.
+21 Gu — dano em **d8**.
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
@@ -954,6 +968,7 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 4 | **Gu da Troca de Taças** — *Água/Espaço* | Utilidade, logística | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Gu do Espelho d'Água Cortante** ✱ | 🗡️ Ataque melee — **entrega** | [[📖 Catálogo de Gu#🔥 Ataque Corpo a Corpo dos Cinco Elementos (Wu Xing)\|Wu Xing]] |
 | 5 | **Gu da Torrente Vertical** ✱ | Ataque, área | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
+| 5 | **Gu da Maré na Palma** ✱ | 🗡️ Ataque melee — **entrega** | [[📖 Catálogo de Gu#🔥 Ataque Corpo a Corpo dos Cinco Elementos (Wu Xing)\|Wu Xing]] |
 | 5 | **Gu de Cura Autossuficiente** ✱ — *Força/Água* | Cura | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 6 | **Puxa-Água** — *Força/Água* | Utilidade / Controle | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
 
