@@ -35,6 +35,7 @@ Núcleo + apoio: o combo que define um cultivador em combate. É o momento em qu
 ## Nível 3 — Quando o grupo tiver dinheiro e oficina *(rank 3+)*
 
 - **[[🧩 Refino e Precificação]]** — receitas, taxas de sucesso e preços. Como um Gu vira outro Gu.
+- **[[⛓️ Espólio de Gu Imortal]]** — por que matar um Imortal **não** te dá o arsenal dele. Os três estados de um Gu tomado, e a única operação de refino em que uma falha destrói o prêmio.
 - **[[🧬 Receitas de Combo-Refino]]** — as combinações prontas, para você não ter que inventar na hora.
 
 ## Nível 4 — Consulta, quando a situação pedir
