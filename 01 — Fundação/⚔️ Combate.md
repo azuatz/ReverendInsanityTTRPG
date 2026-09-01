@@ -101,9 +101,11 @@ Pra rolar 32+ dados sem travar a mesa: rolem em punhados (8 de cada vez, somando
 A Defesa é um número fixo na ficha; ninguém rola pra defender.
 
 ```
-Acerto = d20 + atributo + (rank do personagem + 2) + rank do Gu que entrega o golpe + treino
+Acerto = d20 + atributo + (rank do personagem + 2) + rank do Gu que entrega o golpe
 Defesa = 10 + DES + rank do personagem + rank do Gu de movimento/defesa ativo
 ```
+
+*(Ataque **não** soma bônus de treino — o treino vale só em teste de perícia, ver [[💪 Atributos]], decisão 215.)*
 
 | Você está atacando com... | Atributo |
 |---|---|
@@ -184,7 +186,10 @@ RD é um número subtraído do dano **depois** de rolado o pool inteiro. RD de u
 Piso: a RD nunca reduz o dano abaixo de M (1 ponto por dado do pool atacante).
 ```
 
-Duas fontes de RD **não** somam integralmente: vale a maior, mais metade da segunda (arredonda pra baixo).
+**Duas fontes de RD não somam: vale só a maior.** Armadura e Gu de defesa não se empilham — anote o maior dos dois e pronto.
+
+> [!note] Por que a regra encolheu *(decisão 223)*
+> A versão anterior era "a maior **mais metade da segunda**". Medido, isso somava **no máximo +2 de RD**, e nunca escalava — a armadura mortal é fixa (1 a 4) enquanto a RD de Gu é `base × M` e dobra a cada rank, então a segunda fonte já era irrelevante do rank 3 em diante (6-12% da RD total) e valia ±1 nos ranks 1-2. Trocar isso pela conta mais simples do jogo custa quase nada — e **alinha a regra escrita com as quinze rodadas de simulação, que sempre modelaram uma fonte só**.
 
 ### Quem fura RD
 
