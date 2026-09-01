@@ -264,9 +264,9 @@ Custo: 1 ponto por degrau até +3, 2 pontos pra ir de +3 a +4, e baixar um atrib
 Hedda, a Filha do Ferreiro        Origem: Ramo Secundário (+1 ponto)
 Aptidão 63% (Grau de aptidão B)   Rank 1, Estágio Inicial   M = 1   B (Grau de Densidade) = 0
 
-FOR +3   CON +3   DES +2   AST +2   VON +2   CAR −1     (13 pontos)
+FOR +3   CON +4   DES +2   AST +2   VON +2   CAR −1     (13 pontos: 3+5+2+2+2, −1 devolvido)
 
-Vitalidade  27   (18 + 3×3)        Alma      22   (16 + 3×2)
+Vitalidade  30   (18 + 3×4)        Alma      22   (16 + 3×2)
 Essência   252   (63 × 4)          Regeneração  ~15 / HORA (Grau B, 6%/h), fora de combate
 Defesa      13   (10 + 2 + 1 + 0)  ← sem Gu de movimento ainda
 Acerto melee  d20 + 6              Acerto de Gu  d20 + 5 + rank do Gu

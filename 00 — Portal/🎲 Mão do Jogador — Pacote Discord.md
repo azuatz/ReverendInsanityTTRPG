@@ -176,6 +176,7 @@ FOR 〖  〗  DES 〖  〗  CON 〖  〗  VON 〖  〗  AST 〖  〗  CAR 〖  �
 - **Defesa contra Alma** = `12 + VON` *(número separado: é ele, e não a Defesa, que um ataque de Alma tem de vencer)*
 - **CD dos seus Gu** = `11 + VON`
 - **Acerto melee** = `d20 + FOR + 3` · **distância** = `d20 + DES + 3` · **Gu** = `d20 + VON + 3 + rank do Gu`
+- ⚠️ **Não existem arcos, bestas nem armas de arremesso neste mundo.** A linha de distância só entra em jogo com objeto improvisado — **alcance de verdade é sempre um Gu.**
 - **Gu na Abertura** = `(% ÷ 10) + 1` · **Gu sustentados ao mesmo tempo** = **3**, sempre *(só os que ficam ligados ocupam vaga; um ataque que dispara e acaba, não)*
 - **Golpes registrados** = `AST + 1`
 - **B** = 0 no estágio Inicial (sobe com o estágio)
