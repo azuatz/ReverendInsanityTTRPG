@@ -178,9 +178,9 @@ Os números entre parênteses são a **vitória medida do grupo** numa mesa de 4
 | Tipo de cena | **rank 1** | **rank 2** | **rank 3** | **rank 5** |
 |---|---|---|---|---|
 | **Fácil** | Horda de 8 *(100%)* | Horda de 8 *(100%)* | Horda de 8 *(100%)* | Horda de 8 *(100%)* |
-| **Padrão** | **2 Mestres + 1 Guerreiro** *(98%)* | 3 Mestres de Gu *(97%)* | idem *(97%)* | idem **+1 ação em 2 deles** *(98%)* |
-| **Padrão pesado** | 2 Mestres + Horda de 8 *(82%)* | idem *(83%)* | idem *(83%)* | idem **+1 ação em 2 Mestres** *(90%)* |
-| **Difícil** | 3 Mestres + 1 Guerreiro *(62%)* | idem *(70%)* | idem **+1 ação em 1 Mestre** *(70%)* | 4 Mestres **+1 ação em 2 deles** *(58%)* |
+| **Padrão** | **2 Mestres + 1 Guerreiro** *(98%)* | 3 Mestres de Gu *(93-97%)* | idem **+1 ação em 1 deles** *(98%)* | idem **+1 ação em 2 deles** *(98%)* |
+| **Padrão pesado** | 2 Mestres + Horda de 8 *(83%)* | idem *(82%)* | idem **+1 ação em 1 Mestre** *(85%)* | idem **+1 ação em 2 Mestres** *(89%)* |
+| **Difícil** | 3 Mestres + 1 Guerreiro *(64%)* | idem *(69-71%)* | idem **+1 ação em 2 Mestres** *(71%)* | 4 Mestres **+1 ação em 2 deles** *(60%)* |
 | **Clímax** | 1 Elite especial + 3 Mestres *(68%)*✝, ou **Chefe + Guerreiro *(77%)*** | idem, **Chefe + Guerreiro *(86%)*** | 1 Elite especial + 3 Mestres *(44%)*✝, ou **Chefe + Guerreiro *(87%)*** | 1 Elite especial + 3 Mestres *(46%)*✝, ou **Chefe + Guerreiro *(85%)*** |
 
 > [!success] ✅ A escada de dificuldade voltou a funcionar — e o botão é **ação**, não peça
@@ -189,6 +189,8 @@ Os números entre parênteses são a **vitória medida do grupo** numa mesa de 4
 > - **Acrescentar uma peça não serve.** Um Guerreiro a mais leva o Difícil de rank 3 de 78% para 38% — passa por cima da faixa inteira — **e ainda estoura o ritmo**, porque mais inimigos é mais barra para mastigar (7,6 → 9,3 rodadas). Vitória e duração andam em **direções opostas** quando se conta peças, e é por isso que o "penhasco de ações" da decisão 137 nunca teve solução por composição.
 > - **Dar +1 ação a todos os Mestres também não.** Difícil de rank 3 vai a 28%, outro salto por cima.
 > - **Dar +1 ação a APENAS ALGUNS Mestres resolve.** É a granularidade que faltava, e ela **move a vitória sem mexer no ritmo** (7,6 → 7,7 rodadas). Mesma barra, mais ameaça — exatamente a lição que o molde Chefe já tinha entregue: **ações governam a dificuldade, Vitalidade governa o ritmo.**
+>
+> **Confirmado em bateria conjunta:** com o teto de Gu, o molde Chefe recalibrado e as ações extras **todos ligados ao mesmo tempo**, a tabela entrega **25 de 25 células dentro da faixa prometida** — contra 8 de 15 antes de qualquer um dos três consertos. A escada de dificuldade está inteira pela primeira vez desde a décima oitava rodada.
 >
 > **Como o mestre usa isso na mesa:** para apertar uma cena sem alongá-la, **dê uma ação extra a um dos inimigos** em vez de acrescentar mais um inimigo. Para alongar sem apertar, suba a Vitalidade. São dois botões diferentes e não se confundem.
 
