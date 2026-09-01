@@ -295,17 +295,23 @@ Corte à distância que **ignora cobertura parcial** e aplica **frio Yin** (−2
 
 > **Por que a Alma parece bater igual à Lua e mesmo assim é o golpe forte:** os números são parecidos, mas o de Alma **chega inteiro**. Contra o `RD 1 × M` que quase todo inimigo carrega, a Foice perde 2 pontos por acerto no rank 2; a Agulha não perde nada, e ainda bate numa barra que é **60% do tamanho** da de Vitalidade (`15 × M` contra `21 × M` num Mestre de Gu). É a razão de o Caminho da Alma rolar d12 e **não ter efeito colateral nenhum**.
 
-### ⚡ O Golpe Matador no Pico do Rank 2
+### ⚡ O Golpe Matador — a partir do rank 3
 
-Com o Teto de Combo em 5, o **Corte do Minguante** cabe inteiro: núcleo Foice Crescente + 3 apoios (**+3 Níveis**), sob lua cheia (**+2**).
+> [!warning] Ele não monta Golpe Matador nos ranks 1 e 2
+> **Golpe Matador exige rank 3** (decisão 243) — não por custo, mas por acesso: montar um pede um arsenal com núcleo e apoios que se complementam, e nos dois primeiros ranks o personagem ainda está juntando os primeiros Gu. A versão anterior desta seção mostrava o Corte do Minguante montado no **Pico do rank 2**, e essa montagem **não é mais legal**. Os números abaixo foram refeitos para o primeiro momento em que ele pode montá-lo de verdade.
+
+No **Pico do rank 3**, com o Teto de Combo em 5, o **Corte do Minguante** cabe inteiro: núcleo de Lua do próprio rank + 3 apoios (**+3 Níveis**), sob lua cheia (**+2**).
 
 ```
 d10 base → +5 Níveis → d12, com 4 excedentes
 B = 3 (Densidade Pico) + 4 (excedentes) = 7
-DANO = 2d12 + 14   →  média 27, mínimo 16
-Custo = (40 × 4) × 4 = 640 de essência    [QI no Pico do R2: 2.752]
-Teste de Conjuração = d20 + AST(2) + rank(2) vs CD 10 + 4 = 14   (−4 se já usado com sucesso)
+DANO = 4d12 + 28   →  média 54, mínimo 32
+Custo = (40 × 4) × 4 = 640 de essência    [QI no Pico do R3: 2.752]
+Teste de Conjuração = d20 + AST(2) + rank(3) vs CD 10 + 4 = 14
+                      −4 se registrado  →  sai em 80% das vezes
 ```
+
+**Escolha a Prerrogativa junto** ([[⚡ Golpes Matadores#⚡ A Prerrogativa — o que só um Golpe Matador faz|regra]]): para este golpe, **Selar** é a que combina com a ficção dele — o frio prende o alvo no lugar antes do corte. **Romper** seria desperdício, porque a metade de Alma do arsenal dele já ignora RD sem gastar nada.
 
 **Se for híbrido Lua + Alma, ele não paga a dobra** — é a *Ressonância da Montanha Fria* fazendo exatamente o que ela faz: no instante da técnica, os dois Caminhos dele soam como um. O custo fica em **640**, e a Retaliação é a normal, não a agravada de híbrido. Para qualquer outro personagem da mesa o mesmo golpe custaria 1.280 e ainda pioraria a Retaliação (`× 3` em Vitalidade, e um 1 natural matando **dois** Gu de apoio). **É a jogada de arco dele, e é a razão mecânica de o buff existir.**
 

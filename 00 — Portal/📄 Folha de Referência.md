@@ -149,7 +149,7 @@ VÍNCULO           1 por personagem · vantagem 1×/sessão · quebrar vira Déb
 
 **Calibragem central:** três golpes de um Gu do próprio rank derrubam alguém com CON 0, antes de RD.
 
-**Golpe Matador:** cada apoio dá +1 Nível ao núcleo, até o **Teto de Combo do estágio menos um** (Inicial +1 · Médio +2 · Alto +3 · Pico +4); +6 num coletivo de 4. **Brecha obrigatória.** Custo `= (soma dos custos) × (nº de Gu)`, **×2 se híbrido**. Teste `d20 + AST + rank + domínio` vs `10 + (nº de Gu)`, com Retaliação em caso de falha.
+**Golpe Matador** *(rank 3+; ranks 1-2 não montam)*: cada apoio dá +1 Nível ao núcleo, até o **Teto de Combo do estágio menos um** (Inicial +1 · Médio +2 · Alto +3 · Pico +4); +6 num coletivo de 4. **Brecha obrigatória.** Custo `= (soma dos custos) × (nº de Gu)`, **×2 se híbrido**. Teste `d20 + AST + rank + domínio` vs `10 + (nº de Gu)`, com Retaliação em caso de falha.
 
 ---
 

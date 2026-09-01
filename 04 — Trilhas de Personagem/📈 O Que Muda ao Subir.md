@@ -28,7 +28,7 @@ Nada aqui é regra nova: é tudo o que já está em [[🪜 Ranks e Estágios]], 
 | ☐ **Alma máxima** | `+3 × M` por Grau *(`(16 + 3×VON + 3×B) × M`)* |
 | ☐ **Essência máxima** | **Dobra a cada estágio** — `% de Aptidão × 4 × 2^(estágio − 1)` |
 | ☐ **Vagas de Suporte** | = o Grau (0/1/2/3). Gu passivos de utilidade que não pesam na Manutenção |
-| ☐ **Teto de Combo** | 2 · 3 · 4 · 5 Gu num Golpe Matador |
+| ☐ **Teto de Combo** | 2 · 3 · 4 · 5 Gu num Golpe Matador — **e Golpe Matador só existe do rank 3 em diante** |
 
 **O que NÃO muda de estágio:** M, Defesa, acertos, quantos Gu você carrega ou sustenta, bônus de treino. Estágio é **qualidade do combustível**, não patamar.
 

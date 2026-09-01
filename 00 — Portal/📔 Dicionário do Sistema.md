@@ -66,7 +66,7 @@ escopo: sistema
 | **Vaga de Suporte** | Slots (= B) pra Gu passivos que não contam na manutenção | [[🪜 Ranks e Estágios]] |
 | **Golpe Matador** | Vários Gu ativados como uma jogada só, com nome próprio. É como se mata alguém de rank acima | [[⚡ Golpes Matadores]] |
 | **Brecha** | A condição declarada em que um Golpe Matador falha. **Todo** Golpe tem uma — é o que permite vencer chefe por inteligência | [[⚡ Golpes Matadores]] |
-| **Teto de Combo** | Quantos Gu cabem num Golpe Matador, definido pelo estágio: **2 · 3 · 4 · 5** (Inicial → Pico). Como o núcleo ocupa uma vaga, o teto de apoios é esse número **menos um** | [[⚡ Golpes Matadores]] |
+| **Teto de Combo** | Quantos Gu cabem num Golpe Matador, definido pelo estágio: **2 · 3 · 4 · 5** (Inicial → Pico). Como o núcleo ocupa uma vaga, o teto de apoios é esse número **menos um**. **Só vale do rank 3 em diante** — ranks 1 e 2 não montam Golpe Matador | [[⚡ Golpes Matadores]] |
 | **Esgotado / Ferido** *(Gu)* | A escada de condição de um Gu machucado — antes de morrer, ele avisa | [[💀 A Morte dos Gu]] |
 | **Sobrecarga (dos apoios)** | O custo automático de todo Golpe Matador, mesmo bem-sucedido: cada apoio de rank menor que o núcleo rola `1d6` e Esgota num 1 (1–2 se híbrido/coletivo) | [[💀 A Morte dos Gu]] |
 | **Queimar um Gu** | Matar um apoio de propósito no disparo de um Golpe Matador, por +2 Níveis, vantagem ou anular a Brecha | [[💀 A Morte dos Gu]] |
