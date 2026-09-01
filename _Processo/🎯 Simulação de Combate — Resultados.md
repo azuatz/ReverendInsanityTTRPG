@@ -2758,6 +2758,50 @@ Varredura de `vit_mult` por rank, escolhendo a célula que acerta vitória **e**
 
 ---
 
+## ✅ Vigésima terceira rodada — o Chefe recalibrado, aplicado e revalidado *(2026-09-01)*
+
+Script: [`2026-09-01-vigesima-terceira-chefe-aplicado.py`](simulacoes/2026-09-01-vigesima-terceira-chefe-aplicado.py) · 3.000 iterações/célula · semente `20260830`.
+
+O autor aprovou a recomendação da vigésima segunda. **O que passou a valer:** Vitalidade `63 · 72 · 78 · 72 · 80 × M` nos ranks 1-5, e o Chefe de rank 1 trocando **quatro ações por duas** com a Vitalidade intacta. Esta rodada aplica e revalida a tabela de composição inteira.
+
+### A linha do Clímax, antes e depois
+
+| Rank | Antes | **Depois** | Δ | Rodadas |
+|---|---|---|---|---|
+| 1 | 17,1% 🔴 | **70,3%** ✅ | **+53,1pp** | 6,54 → 7,22 |
+| 2 | 87,8% | **78,3%** ✅ | −9,5pp | 7,11 → 7,92 |
+| 3 | 95,1% | **84,3%** ✅ | −10,8pp | 7,34 → 8,78 |
+| 4 | 88,3% | **77,5%** ✅ | −10,8pp | 6,85 → 7,53 |
+| 5 | 97,2% | **86,8%** ✅ | −10,3pp | 6,10 → 7,39 |
+
+**As cinco células entram na faixa de 56-87% pela primeira vez desde que a décima oitava rodada corrigiu o motor.** A duração fica em 7,2-8,8 rodadas contra o alvo de 6-8 da decisão 208 — só o rank 3 estoura, e por 0,78 rodada.
+
+### 🎯 O controle passou limpo
+
+A checagem desta rodada não era o Clímax, era tudo o resto: **nenhuma das outras quatro composições usa o molde Chefe**, então qualquer movimento nelas indicaria contaminação do motor em vez de efeito da mudança.
+
+| Composição | Movimento máximo em 5 ranks |
+|---|---|
+| Fácil | **0,0pp** |
+| Padrão | **0,0pp** |
+| Padrão pesado | **0,0pp** |
+| Difícil | **0,0pp** |
+| Clímax | −10,8 a +53,1pp |
+
+Zero em quatro de cinco linhas, casa decimal por casa decimal. O efeito medido é do molde e de mais nada.
+
+### 🔑 A consequência de leitura
+
+**A escada de ações, não a Vitalidade, é o botão real da dificuldade do Chefe.** Devolver o rank 1 a duas ações o levou de 17,1% para 70,3% **sem tocar em mais nada** — enquanto a Vitalidade, nos outros quatro ranks, moveu cerca de 10pp cada. A Vitalidade governa o **ritmo** da cena; as ações governam a **dificuldade**.
+
+Isso corrige uma justificativa publicada. A nota dizia que *"o rank 1 é duro porque é o único em que o grupo ainda não tem arsenal para amortecer quatro ações por rodada"* — certo no diagnóstico, errado na conclusão. O problema nunca foi o arsenal do grupo; era o molde ter um número fora da própria escada (4 ações no rank 1, contra 2 nos ranks 2-3 e 3 nos ranks 4-5 — subia e voltava a descer).
+
+### 📌 O que continua aberto
+
+**As quatro composições acima do Clímax seguem fora das faixas que prometem** — Padrão pesado e Difícil desde a décima oitava rodada, e a revalidação confirma que nada nelas se moveu. Esta rodada fecha a linha do Chefe e só ela; o redesenho de peças das outras continua esperando o autor.
+
+---
+
 ## ☯️ Marcas de Dao no topo — a escada linear já entrega o veredito da ficção? *(2026-08-31)*
 
 Pendência testada: item de "Em aberto" no [[🧭 Log de Decisões]] apontando que a escada de domínio de [[☯️ Marcas de Dao]] (convertida em `01 — Fundação/⚔️ Combate.md#☯️ Marcas de Dao — o dano depois do rank 6`) é uma progressão em degraus (+1 de `B` por patamar, um único dobramento de pool no topo) enquanto o romance descreve a amplificação por Marca, no rank 8, como saltando para multiplicadores de "centenas ou milhares de vezes" — dado como a explicação canônica de por que rank 7 quase nunca vence rank 8.
