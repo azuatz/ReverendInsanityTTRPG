@@ -2642,6 +2642,63 @@ O que precisa mudar em [[⚔️ Ameaças Genéricas por Rank]] é a **prosa da 1
 
 ---
 
+## 🪤 Vigésima primeira rodada — o preço da captura *(2026-09-01)*
+
+Script: [`2026-09-01-vigesima-primeira-o-preco-da-captura.py`](simulacoes/2026-09-01-vigesima-primeira-o-preco-da-captura.py) · 3.000 iterações/célula · semente `20260830`.
+
+A decisão 247 deu ao Golpe Matador Coletivo a **Prerrogativa ampliada**. Faltava saber se ela é **pagável**.
+
+> [!warning] O eixo errado, e por que ele foi recusado
+> A medição óbvia seria *"o Coletivo impede a fuga?"*. Isso é **tautologia**: a regra diz que Prender impede fuga por meio nenhum, então a resposta é sim por construção — mede-se o enunciado da própria regra, o mesmo erro que a 19ª cometeu ao medir o horizonte solo contra a própria fórmula. *(Crítica da sessão paralela, aceita integralmente.)*
+>
+> A pergunta não-tautológica é o **custo**. A eficácia está escrita; ninguém sabia **quanto o grupo apanha enquanto paga por ela**.
+
+**A cena.** Chefe + Guerreiro, e o Chefe **foge ao chegar a 30% de Vitalidade** — ou seja, some exatamente quando o grupo já gastou a cena inteira nele. Braço de controle: deixar fugir. Braços de teste: montar o Coletivo com 2, 3 ou 4 participantes ao ver o alvo passar de 45%. Duas saídas, nunca uma: **capturou?** e **quantos ficaram de pé?**
+
+**A captura não é 100% nem com o Coletivo** — ela exige passar na conjuração **e** acertar o ataque. É isso que torna o número mensurável em vez de decretado.
+
+| Braço | Rank 3 | Rank 4 | Rank 5 |
+|---|---|---|---|
+| **deixar fugir** *(controle)* | 3,9% cap · 77,8% sobrev | 3,8% · 71,4% | 5,8% · 77,4% |
+| **Coletivo ×2** | **29,8% cap · 65,6% sobrev** | **30,4% · 55,6%** | **35,9% · 65,6%** |
+| **Coletivo ×3** | 24,7% · 55,2% | 21,4% · 48,1% | 28,0% · 55,3% |
+| **Coletivo ×4** | 7,9% · 66,0% | 6,3% · 65,7% | 9,7% · 67,1% |
+| **Coletivo ×2, duas tentativas** | 38,5% · 60,1% | 36,0% · 50,3% | 43,1% · 60,9% |
+
+**Preço** = pontos percentuais de sobrevivência perdidos por ponto percentual de captura ganho. Abaixo de ~0,20 a ferramenta é barata; acima de ~0,50 é armadilha bonita.
+
+| Braço | Preço (r3) | Preço (r4) | Preço (r5) | ΔTPK |
+|---|---|---|---|---|
+| **Coletivo ×2** | **0,470** | **0,593** | **0,392** | +3,8 a +10,6pp |
+| Coletivo ×3 | 1,086 | 1,328 | 0,997 | **+18,3 a +21,2pp** |
+| Coletivo ×4 | 2,958 | 2,336 | 2,687 | +4,9 a +9,6pp |
+
+### 🔴 O achado: o Coletivo de quatro quase nunca acontece — e não é por essência
+
+O ×4 monta em **10% a 22% das cenas**. O primeiro palpite foi o custo de essência, que cresce quase ao quadrado com os participantes (360 · 780 · 1.360). **Refutado por controle:** com essência infinita as taxas de montagem não se movem uma casa decimal (0,217 → 0,215 · 0,101 → 0,101 · 0,193 → 0,193).
+
+O gargalo é outro, e é estrutural: **montar com quatro exige quatro pessoas de pé.** A janela abre tarde — o inimigo foge quando já está perdendo — e é exatamente aí que o grupo já está desfalcado. A taxa de montagem do ×4 **é** a taxa de "ninguém caiu ainda", casa por casa:
+
+| Rank | Cenas sem baixa *(controle)* | Montagens do ×4 |
+|---|---|---|
+| 3 | 22,4% | **21,7%** |
+| 4 | 10,5% | **10,1%** |
+| 5 | 19,9% | **19,3%** |
+
+Três de três, quase exatas. **A regra estava apontando o jogador para a versão que não acontece** — e que, quando acontece, é pior: +4pp de captura contra os +26pp do ×2, custando 11pp de sobrevivência.
+
+**Na cena de dois Elites o ×3 e o ×4 têm captura NEGATIVA** (−2,8 a −14,6pp): gastar três ou quatro ações **atrasa o abate que já ia acontecer** e empurra o alvo para o limiar de fuga. Fazer nada captura mais.
+
+### ✅ O que esta rodada estabelece
+
+- **O Coletivo ×2 é a versão boa, e por larga margem.** Preço 0,39-0,66 na cena de Chefe e **0,09-0,29** na de Elite, com +26 a +30pp de captura. É a única leitura que compra alguma coisa por um preço que a mesa aceita pagar.
+- **O ×3 é o mais letal para o grupo**: +18 a +21pp de TPK, o pior de todos os braços, por três ações e a Retaliação caindo em três pessoas.
+- **O ×4 não precisa de nerf — ele já se pune sozinho**, e por um mecanismo que nenhum número conserta: a exigência de quatro corpos de pé numa cena em que alguém já caiu. O que ele precisa é que a nota pare de vendê-lo como o topo da escada.
+- **A segunda tentativa vale no ×2** (+7 a +8pp de captura extra), mas cobra em TPK (+5 a +8pp). É jogada de quem aceita perder alguém para não deixar o alvo escapar — que é exatamente a decisão que a mesa deveria estar tomando conscientemente.
+- **Todo custo aqui é piso.** Sobrecarga dos apoios e Queima deliberada continuam fora do motor (decisão 245).
+
+---
+
 ## ☯️ Marcas de Dao no topo — a escada linear já entrega o veredito da ficção? *(2026-08-31)*
 
 Pendência testada: item de "Em aberto" no [[🧭 Log de Decisões]] apontando que a escada de domínio de [[☯️ Marcas de Dao]] (convertida em `01 — Fundação/⚔️ Combate.md#☯️ Marcas de Dao — o dano depois do rank 6`) é uma progressão em degraus (+1 de `B` por patamar, um único dobramento de pool no topo) enquanto o romance descreve a amplificação por Marca, no rank 8, como saltando para multiplicadores de "centenas ou milhares de vezes" — dado como a explicação canônica de por que rank 7 quase nunca vence rank 8.

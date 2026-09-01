@@ -267,8 +267,14 @@ Um Golpe Matador Coletivo declara Prerrogativa como qualquer outro, **mas na ver
 >
 > **Prender e Alcançar não são invenção de designer — são a descrição literal daquele golpe.** Quatro cultivadores não se juntam para bater mais forte; juntam-se para tornar impossível o que era possível. Medido, o Coletivo entrega **0,52× a 0,58×** do dano que os mesmos quatro fariam atacando normalmente — se ele fosse jogada de dano, seria erro sempre. Com a Prerrogativa ampliada, a pergunta muda de *"rende mais dano?"* para *"eu preciso que esta pessoa não saia daqui?"*.
 
-> [!tip] Não precisa ser quatro
-> O Coletivo escala com quem entra: **dois participantes custam duas ações**, três custam três. Menos gente rende menos Níveis (+5 com três, +6 com quatro), mas a Prerrogativa ampliada vale a partir de **dois** — e a Brecha compartilhada fica muito menos frágil com menos gente para desarrumar. **Um coletivo de dois é a versão que a maioria das mesas vai usar de verdade.**
+> [!tip] Não precisa ser quatro — e quatro é a pior escolha das três
+> O Coletivo escala com quem entra: **dois participantes custam duas ações**, três custam três. Menos gente rende menos Níveis (+3 com dois, +5 com três, +6 com quatro), mas **a Prerrogativa ampliada vale por inteiro a partir de dois** — ela não escala com o tamanho do grupo.
+>
+> **Ninguém precisa ser substituído.** Se um dos que iam entrar já caiu, os que sobraram montam a versão menor. O Coletivo nunca é cancelado por falta de gente; ele só encolhe.
+>
+> Medido na cena que ele existe para resolver — um alvo que foge ao chegar a 30% de Vitalidade —, **o coletivo de dois compra +26 a +30 pontos percentuais de captura** por cerca de meio ponto de sobrevivência cada. O de três é o **mais letal para o próprio grupo** (+18 a +21pp de aniquilação total). E o de quatro **quase não acontece**: ele exige quatro pessoas de pé numa cena em que alguém quase sempre já caiu, e só monta em 10-22% das vezes. Contra dois Elites, montar com três ou quatro **captura menos que não fazer nada** — as ações gastas atrasam o abate que já ia acontecer.
+>
+> **Duas pessoas é a leitura certa desta ferramenta**, não a versão econômica dela.
 
 Essa é a peça que faz um grupo pequeno parecer maior que a soma das partes — e a razão mecânica pela qual vale a pena o inimigo separar o grupo antes de lutar. Um mestre que entende isso constrói encontros em torno disso.
 
