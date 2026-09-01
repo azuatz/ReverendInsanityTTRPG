@@ -61,10 +61,10 @@ Nenhuma combinação legal deixa o personagem morto de fábrica — mesmo −1 �
 
 ```
 Defesa              = 10 + DES + rank + rank do Gu de movimento ativo
-Acerto melee        = d20 + FOR + (rank + 2) + treino
-Acerto à distância  = d20 + DES + (rank + 2) + treino
+Acerto melee        = d20 + FOR + (rank + 2)
+Acerto à distância  = d20 + DES + (rank + 2)
 Dano melee          = 1 dado da arma + FOR   [sem Gu de Força ativo]
-Acerto de Gu        = d20 + VON + (rank + 2) + rank do Gu + treino
+Acerto de Gu        = d20 + VON + (rank + 2) + rank do Gu
 CD dos seus Gu      = 10 + VON + rank do Gu
 Vitalidade máxima   = (18 + 3 × CON + 4 × B) × M
 Alma máxima         = (12 + 2 × VON + 3 × B) × M
@@ -101,7 +101,12 @@ Bônus de treino = +2, e sobe +1 a cada rank PAR
 |---|---|---|---|---|---|
 | **Bônus de treino** | **+2** | **+3** | **+4** | **+5** | **+6** |
 
-O bônus vale em **tudo que já usava treino**: testes de perícia, acerto melee, acerto à distância e acerto de Gu (as fórmulas acima não mudam — só o valor de `treino` dentro delas).
+O bônus vale nos **testes de perícia** — e só neles.
+
+> [!important] Ataque não é ação treinada — o treino fica fora do combate
+> **Rolagem de ataque não soma treino**, nem melee, nem à distância, nem de Gu. É a mesma regra que [[🎯 Perícias]] enuncia do outro lado ("perícia não rola em combate"): combate resolve por ataque contra Defesa, e as duas escadas não se somam. As fórmulas em "Onde cada atributo entra em número" já refletem isso.
+>
+> Sem essa trava, cada rank par empurraria o acerto de todo mundo pra cima sem a Defesa acompanhar: medido, **+12,6 pontos percentuais de vitória do grupo em média, até +30,9** (decisões 213-215). A escada existe pra separar quem estudou de quem improvisa **fora** da luta, que é onde ela não desequilibra nada.
 
 *(Calibrado contra *Feiticeiros e Maldições*, que usa a mesma escada: base +2, subindo +1 nos níveis 5, 9, 13 e 17, chegando a +6 — cinco degraus. Os nove ranks deste sistema com "+1 a cada rank par" reproduzem os mesmos cinco degraus e a mesma faixa +2 a +6.)*
 

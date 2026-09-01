@@ -50,6 +50,9 @@ Uma horda de 8 bate em **`M d8`**; uma de 12, em **`M d10`**. Conforme perde Vit
 
 **O piso existe porque oito feras cercando uma pessoa devem assustar, não cansar.** Sem ele, a nona rodada de simulação mediu a horda contra um alvo solitário virando guerra de atrito de 10 a 19 rodadas — um ataque por rodada contra uma parede de Vitalidade dimensionada para quatro. Com o piso, o cerco volta a ser cerco — e é bom saber o tamanho dele, medido na décima quarta rodada: **uma Horda de 8 derruba um personagem sozinho em ~5 rodadas, com 0-37% de chance de vitória solo** (a maioria dos perfis fica em ~0%). Oito feras contra um não é uma cena de vitória, é fuga ou resgate; se a mesa quiser uma caçada solo *jogável*, use uma matilha menor (uma Horda de 2-3) — dimensionar a Horda pra mesa é a mesma lógica da linha "com 3 jogadores" mais abaixo.
 
+> [!warning] Horda contra UM personagem é cena de fuga, não encontro
+> Com o piso, a matilha executa: medido, um PJ sozinho contra uma Horda de 8 vence **0-37% das vezes** (dez de doze células abaixo de 1%) em cerca de 5 rodadas. É o desenho funcionando — a Horda é ameaça de cerco, e cerco contra uma pessoa só é como cerco deve ser. **Não existe configuração que faça essa cena durar** e continuar ganhável: as variantes medidas (Horda de 2, de 3, Vitalidade escalada pela mesa) devolvem cenas de 3-4 rodadas. Se um personagem se separar do grupo e a matilha o encontrar, o jogo ali é [[🏃 Fuga e Perseguição|fugir]] — e a mesa deve saber disso antes de se separar.
+
 **Área é a resposta.** Um Gu de área contra uma horda tira Vitalidade da barra inteira; é a única situação do jogo em que dano em área supera dano concentrado, e é o que faz esses Gu valerem uma vaga na Abertura.
 
 ## 🐺 Feras — três traços, cole em qualquer molde
@@ -166,12 +169,8 @@ Os números entre parênteses são a **vitória medida do grupo** numa mesa de 4
 > [!success] Tabela revalidada em conjunto — décima terceira rodada (2026-08-31)
 > As 20 células publicadas acima foram remedidas de uma vez só, com todas as regras de hoje ligadas ao mesmo tempo (3.000 iterações/célula). **Dezenove conferem dentro de 3 pontos percentuais**; a única que se moveu foi **Difícil de rank 2 (35% → 31%)**, corrigida acima. As faixas de duração também conferem. Ver [[🎯 Simulação de Combate — Resultados#✅ Décima terceira rodada — validação final conjunta (2026-08-31)|a décima terceira rodada]].
 
-> [!warning] 🔴 Estes números não incluem o bônus de treino — e o de [[💪 Atributos]] diz que deveriam
-> A mesma rodada descobriu que **o motor de simulação sempre modelou `treino = 0` no acerto** (`d20 + atributo + 2×rank + 2` é `(rank+2) + rank do Gu`, sem treino), enquanto a fórmula de acerto de Gu em [[💪 Atributos]] sempre trouxe `+ treino`. Medido: **ligar o treino move a tabela acima +12,6 pontos percentuais em média, até +30,9** — Difícil de rank 2 saltaria de 31% para 62%, Clímax de rank 2 de 54% para 85%. Decompondo, **+9,9pp são a lacuna antiga do motor** (treino +2 fixo) e **+2,7pp são a escada da decisão 211**.
->
-> **Não é uma correção mecânica**, por dois motivos, e por isso nada foi republicado: (1) depende de uma leitura de regra que é do autor — um ataque de Gu em combate conta como ação *treinada*? ([[🎯 Perícias]] diz que perícia não rola em combate); (2) a correção óbvia — dar a mesma escada aos moldes de inimigo — foi medida e **corrige demais**: −8,3pp em média, mas até **−56pp** nas cenas com Horda, porque a Horda rola muito mais ataques por rodada que o grupo.
->
-> **Enquanto o autor não decide, leia esta tabela como "sem treino dos dois lados"** — ela é internamente consistente, e é a mesma premissa de todas as 13 rodadas de simulação. Números e o menu de saídas em [[🎯 Simulação de Combate — Resultados#5️⃣ A decisão 211 medida — e a lacuna de treino que ela revelou|a décima terceira rodada]].
+> [!success] Resolvido — a tabela acima está certa como está *(decisão 215)*
+> A décima terceira rodada descobriu que o motor de simulação sempre modelou `treino = 0` no acerto, enquanto [[💪 Atributos]] trazia `+ treino` na fórmula. O autor decidiu: **ataque não é ação treinada** — o bônus de treino vale só em teste de perícia, nunca em rolagem de ataque. A fórmula de Atributos foi corrigida para refletir isso, e **os números acima seguem válidos sem nenhuma republicação**, com a mesma premissa das quatorze rodadas de simulação. *(A alternativa — ligar treino só nos PJs — moveria esta tabela +12,6 pontos percentuais em média, até +30,9.)*
 
 **A linha de "Padrão pesado" caiu 8-13 pontos porque o piso de ataques da Horda a endurece** — os 71/64/63/85 anteriores eram medição feita **antes** do piso. Remedida na décima primeira rodada de simulação: 63% · 57% · 50% · 76%. É a única cena da tabela que o piso move de verdade (as outras quatro conferem com o publicado dentro de 1,5 ponto), porque é a única em que a Horda é metade da força inimiga.
 
@@ -238,31 +237,36 @@ Um Imortal não se descreve só pelo rank. Declare **rank + nível de domínio n
 >
 > | ΔB do inimigo vs. o grupo | **rank 6** | **rank 7** | **rank 8** | **rank 9** |
 > |---|---|---|---|---|
-> | **igual (ΔB 0)** | 52% | 91% | 99% | 99,6% |
-> | **+1 nível de domínio** | **23%** | 80% | 96% | 99% |
-> | **+3 níveis** | **3%** | 43% | 79% | 98% |
+> | **igual (ΔB 0)** | 52% | 34% | 59% | 85% |
+> | **+1 nível de domínio** | **23%** | **16%** | **36%** | 80% |
+> | **+3 níveis** | **3%** | **1%** | **5%** | **57%** |
 >
 > Monte a cena imortal escolhendo o ΔB do inimigo principal, não contando
 > cabeças. Escolta (Guerreiros/Hordas do rank) é textura — não muda a conta.
 > A fase mortal (ranks 1-5) segue a tabela de composição normalmente.
 >
-> **Mas o ΔB só é um dial de verdade no rank 6.** A escada acima foi medida na
-> décima terceira rodada com o Chefe imortal (Gu Imortal `M d12`) e o domínio
-> como única variável: no rank 6 ela entrega a régua clássica (passeio →
-> difícil → sentença), e **do rank 7 em diante ela vai perdendo força até
-> sumir** — no rank 9 nem um inimigo três níveis acima ameaça (98%). A causa é
-> a assimetria que a oitava rodada já tinha diagnosticado: o acerto do inimigo
-> escala `+1/rank` e a Defesa dos personagens `+2/rank`, então o inimigo passa
-> a errar tanto que nenhum bônus de dano compensa.
+> **O que faz a matriz funcionar nos ranks 7-9: o molde imortal soma treino.**
+> Até a décima quarta rodada o ΔB só era dial de verdade no rank 6 — do 7 em
+> diante ele perdia força até sumir (no rank 9, um inimigo três níveis acima
+> ainda perdia 98% das vezes), pela assimetria que a oitava rodada
+> diagnosticou: o acerto do inimigo escala `+1/rank` e a Defesa dos
+> personagens `+2/rank`, então o inimigo passa a errar tanto que nenhum bônus
+> de dano compensa. A correção, medida e adotada *(decisão 215)*:
 >
-> **Na prática:** rank 6 se dosa por ΔB · ranks 7-9 **não têm dial de
-> dificuldade publicado** — a cena ali se resolve por objetivo, terreno,
-> Golpe Matador com a Brecha ou pressão narrativa, nunca por ficha de
-> oponente. Consertar isso (escalar o acerto dos moldes imortais? tabela
-> própria pro rank 7+?) é a pendência aberta da decisão 202.
+> ```
+> Molde de rank 7 ou mais soma o bônus de treino do rank dele no acerto
+>       (+5 nos ranks 6-7 · +6 nos ranks 8-9 — tabela em 💪 Atributos)
+> ```
 >
-> *(As 5 composições mortais rodadas a ΔB 0 nos ranks 6-9 medem 76-100% de
-> vitória — a alegação de "passeio" da oitava rodada continua de pé.)*
+> **Só do rank 7 pra cima**, e **só no lado do inimigo**: a fase mortal e o
+> rank 6 ficam **exatamente** como estavam (0,00pp de diferença medida), e os
+> ranks 7-9 recuperam a escada — é a linha "+3 níveis" da matriz acima saindo
+> de 43/79/98% para **1/5/57%**.
+>
+> *(As 5 composições rodadas a ΔB 0 no rank 6 seguem em 76-100% — o "passeio"
+> da oitava rodada continua de pé lá. Nos ranks 7-9, com o treino do molde, a
+> tabela de composição volta a ter gradação: Fácil 100% · Padrão 96-99% ·
+> Padrão pesado 53-77% · Difícil 23-36% · Clímax 55-94%.)*
 
 **Imortal Recém-Ascendido (Elite, rank 6, Vislumbre)** — VIT `21 × 32` = 672, Defesa 20, RD 64, Gu Imortal de ataque `32d8` no passo padrão. Perigoso, mas ainda "novo".
 

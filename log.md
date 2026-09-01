@@ -725,3 +725,6 @@ superaquece o rank 6 — quarta saída do item 🔴. Script novo em
 `_Processo/simulacoes/2026-08-31-decima-quarta-bateria-estendida.py`; seção
 nova nos Resultados; anotações em [[⚔️ Ameaças Genéricas por Rank]] e na seção
 da nona rodada; dois itens novos em aberto. Nenhuma regra mudou.
+
+## [2026-08-31] ingest | Fork do treino fechado, ranks 7-9 recuperados, Horda solo documentada (decisão 215)
+Autor mandou fazer o recomendado nos três itens. (a) Ataque não é ação treinada — treino vale só em perícia; fórmulas de [[💪 Atributos]] corrigidas com callout, e a tabela de composição fica válida sem republicação (a alternativa moveria +12,6pp). (d′) Medida uma variante nova (`2026-08-31-hibrido-treino-rank7.py`): treino nos moldes só a partir do rank 7 — a (d) da 14ª superaquecia o rank 6 (ΔB 0: 51,8→4,4%), o piso em 7 deixa rank 6 e fase mortal idênticos por construção e recupera os ranks 7-9 (ΔB+3: 43/79/98% → 1/5/57%; composição volta a ter gradação, Difícil 23-36%). Fecha a pendência da decisão 202, aberta desde a oitava rodada. (c) Horda × 1 PJ mantém o piso e vira cena de fuga documentada — alvo de duração e piso pedem coisas opostas, e nenhuma variante medida entrega os dois. Três pendências fechadas; restam 2 no Log.
