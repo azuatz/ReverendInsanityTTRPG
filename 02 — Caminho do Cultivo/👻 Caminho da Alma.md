@@ -85,12 +85,15 @@ A Força de Alma não serve só pra aguentar dano de Alma:
 
 | Limiar | Benefício permanente |
 |---|---|
-| **10+** | **+1 Gu ativo simultâneo** além do limite normal (`CON + rank`) — a alma segura o que o corpo não segura |
+| **10+** | **Sustentar acima do teto fica mais seguro:** a rolagem de erro do Gu excedente falha só em **1** no `1d6`, em vez de 1–2 — a alma segura o que a cabeça deixaria cair |
 | **50+** | **+2 em todo teste de VON**, e vantagem contra controle mental e medo |
-| **100** *(Cem Homens)* | **+2 Gu ativos** no total, e **imunidade a controle mental de rank inferior ao seu** |
-| **1.000** *(Monstro)* | **+3 Gu ativos**, e você **percebe mentiras automaticamente** de quem tem Força de Alma menor que um décimo da sua |
+| **100** *(Cem Homens)* | **+1 vaga permanente de Gu sustentado** *(teto 3 → 4)*, e **imunidade a controle mental de rank inferior ao seu** |
+| **1.000** *(Monstro)* | **+2 vagas no total** *(teto 3 → 5)*, e você **percebe mentiras automaticamente** de quem tem Força de Alma menor que um décimo da sua |
 
-**Esses Gu ativos extras são o benefício mais forte da lista** e a razão pela qual construções de Alma conseguem sustentar combos que ninguém mais sustenta — mas lembre da [[🏛️ Arquitetura do Sistema|Manutenção de Sustentação]] quadrática: ter vaga não é ter essência pra pagar.
+> [!note] Por que a Alma dá vaga tarde, e pouco
+> Sustentar mais Gu é um limite de **atenção**, e é a coisa mais cara de comprar no sistema inteiro ([[🏛️ Arquitetura do Sistema|Arquitetura do Sistema]]) — a rota normal é o **Gu de multitarefa**, que é arsenal e pode ser roubado, perdido ou morrer de fome. A alma forte é a rota que **ninguém tira de você**, e por isso ela cobra caro: nada de vaga em Força de Alma 10 (que um personagem de rank 1 alcança em dois meses de Moagem), só a partir de **Cem Homens** — um patamar que a obra trata como raro entre mortais. O que o limiar baixo dá é o que ele deve dar: **estabilidade**, não capacidade.
+>
+> E ter vaga não é ter essência pra pagar. A [[🏛️ Arquitetura do Sistema|Manutenção de Sustentação]] é quadrática: a quinta vaga sozinha custa **125 de essência por rodada** antes do preço individual de cada Gu.
 
 ### 🍖 Gu das Tripas — a droga do Caminho
 

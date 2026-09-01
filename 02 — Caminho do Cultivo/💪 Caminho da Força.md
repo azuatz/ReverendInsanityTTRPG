@@ -130,7 +130,7 @@ A seção completa está em [[⚔️ Combate|Combate]] ("Gu de Corpo — a cadei
 2. Cada **+1 de CON** destrava um grau acima de Gu de Corpo ofensivo (Leve +1 · Médio +2 · Pesado +3 · Extremo +4).
 3. **Gu de Corpo ofensivos** dão **Níveis de Dano permanentes** — teto absoluto de **+4 Níveis**.
 4. Cada Gu de Corpo **Pesado ou Extremo** assentado sobe o **teto de Ímpeto em +1** (regra desta nota).
-5. CON também é a conta de `Gu simultaneamente ativos = CON + rank` ([[🏛️ Arquitetura do Sistema|Arquitetura do Sistema]]) — o lutador que reconstruiu o corpo sustenta mais Gu ao mesmo tempo que qualquer outro personagem da mesa.
+5. **O que a cadeia de CON *não* dá é vaga de Gu sustentado.** O teto de sustentação é fixo em **3** pra todo mundo ([[🏛️ Arquitetura do Sistema|Arquitetura do Sistema]]) — é atenção, não corpo. E isso é bom pro lutador: os Gu de Corpo **não ocupam vaga nenhuma**, porque não são sustentados, são carne. Enquanto o Mestre de Gu clássico gasta as três vagas dele em defesa, reforço e movimento, o lutador chega na luta com o reforço já embutido no osso e as três vagas livres.
 
 **Os freios continuam valendo, sem exceção:** teste de **CON CD 15** pra assentar (falha = assenta mesmo assim, **1 Ferimento permanente**), incompatibilidades declaradas, e **irreversibilidade**. O que você escolheu no rank 2 ainda está no seu corpo no rank 6.
 

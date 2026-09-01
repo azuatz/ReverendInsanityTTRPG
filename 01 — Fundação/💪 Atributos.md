@@ -14,7 +14,7 @@ Seis atributos. Cada um manda em uma coisa que aparece de verdade na mesa, e nen
 | Atributo | Sigla | No combate | Fora do combate |
 |---|---|---|---|
 | **Força** | FOR | **Acerto e dano corpo a corpo** | Erguer, quebrar, arrombar, segurar alguém |
-| **Constituição** | CON | **Vitalidade**, quantos Gu você sustenta ativos, e **o que seu corpo aguenta receber** | Veneno, doença, fadiga, frio, fome, tortura |
+| **Constituição** | CON | **Vitalidade**, o **portão dos Gu de Corpo** (os graus caros exigem CON alto), e **o que seu corpo aguenta receber** | Veneno, doença, fadiga, frio, fome, tortura |
 | **Destreza** | DES | **Defesa**, deslocamento, **acerto à distância** (arco, arremesso) | Furtividade, acrobacia, mãos leves, escapar, fugir |
 | **Astúcia** | AST | Perceber emboscada, ler o campo, achar a Brecha de um golpe | Percepção, investigação, **perceber mentira**, conhecimento, refino, criar Golpe Matador |
 | **Vontade** | VON | **Acerto dos seus Gu e a CD que eles impõem**, mais Alma | Resistir a controle mental, medo e loucura; Ativação Forçada |
@@ -24,7 +24,7 @@ Seis atributos. Cada um manda em uma coisa que aparece de verdade na mesa, e nen
 
 **Força e Vontade são as duas formas de fazer dano.** Um personagem de Força bate com arma e corpo; um de Vontade mata com os Gu que carrega.
 
-**Constituição é o que o corpo aguenta** — e isso não é só vida. É **o portão dos Gu de Corpo**: os Gu que se instalam permanentemente na carne e no osso exigem um mínimo de Constituição pra não rasgar o hospedeiro. Um lutador sem Constituição não consegue equipar as coisas que fariam ele valer a pena.
+**Constituição é o que o corpo aguenta** — e isso não é só vida. É **o portão dos Gu de Corpo**: os Gu que se instalam permanentemente na carne e no osso exigem um mínimo de Constituição pra não rasgar o hospedeiro. Um lutador sem Constituição não consegue equipar as coisas que fariam ele valer a pena. **O que a Constituição não faz é sustentar mais Gu ao mesmo tempo** — esse teto é de atenção, não de corpo, e é fixo pra todo mundo ([[🏛️ Arquitetura do Sistema|Arquitetura do Sistema]]).
 
 **Destreza é o imposto que todo mundo paga** — é a sua Defesa. Ignorar Destreza é escolher morrer rápido.
 
@@ -69,7 +69,7 @@ CD dos seus Gu      = 10 + VON + rank do Gu
 Vitalidade máxima   = (18 + 3 × CON + 4 × B) × M
 Alma máxima         = (16 + 3 × VON + 3 × B) × M
                       [B = Grau de Densidade do estágio: 0 · 1 · 2 · 3]
-Gu ativos ao mesmo tempo   = CON + rank
+Gu sustentados ao mesmo tempo = 3   [fixo — não vem de atributo nem de rank]
 Golpes Matadores registrados = AST + 1
 Aliados/escravos comandados  = CAR + 1
 Pontos de Plano máximos      = 2 + (o maior entre AST e CAR)

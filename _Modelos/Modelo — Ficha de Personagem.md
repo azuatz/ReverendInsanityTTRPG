@@ -20,7 +20,7 @@ escopo: sistema
 | Atributo | Valor | Pra que serve |
 |---|---|---|
 | **Força** (FOR) | | **Acerto e dano corpo a corpo**, erguer, quebrar, segurar |
-| **Constituição** (CON) | | **Vitalidade**, limite de Gu ativos, **portão dos Gu de Corpo**, veneno e fadiga |
+| **Constituição** (CON) | | **Vitalidade**, **portão dos Gu de Corpo**, veneno e fadiga |
 | **Destreza** (DES) | | **Defesa**, deslocamento, ordem de turno, **acerto à distância**, furtividade, fuga |
 | **Astúcia** (AST) | | Percepção, investigação, **perceber mentira**, refino, criar Golpe Matador |
 | **Vontade** (VON) | | **Acerto e CD dos seus Gu**, Alma, resistir a controle mental, medo e loucura |
@@ -78,7 +78,7 @@ Alma máxima       = (16 + 3 × VON + 3 × B) × M
 ## 🪱 Gu
 
 **Quantos cabem na Abertura:** `(% de aptidão ÷ 10) + rank` = ___
-**Quantos ficam ativos ao mesmo tempo:** `CON + rank` = ___ *(só os sustentados ocupam vaga)*
+**Quantos ficam sustentados ao mesmo tempo:** **3** + ___ *(Gu de multitarefa)* *(só os sustentados ocupam vaga; o quarto é possível, com rolagem de erro)*
 
 | Gu | Rank | Efeito | Custo | Alimento | Próxima refeição |
 |---|---|---|---|---|---|

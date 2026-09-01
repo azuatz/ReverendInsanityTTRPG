@@ -71,7 +71,7 @@ O preço da minha traição:
 | **Acerto de Gu** | `d20 + VON + (rank + 2) + rank do Gu + treino` | `d20 + VON + 3 + rank do Gu` |
 | **M** | 1 · 2 · 4 · 8 · 16 · 32 · 64 · 128 · 256 | 1 |
 | **Gu na Abertura** | `(% de aptidão ÷ 10) + rank` | — |
-| **Gu ativos** | `CON + rank` | — |
+| **Gu sustentados** | **3** *(fixo; +1 acima do teto rola erro em `1d6` 1–2)* | 3 |
 | **Vagas de Suporte** | `B` — só Gu passivos de utilidade, fora da Manutenção quadrática | 0 |
 | **Teto de Combo** | 2 · 3 · 4 · 5 Gu, por estágio | 2 |
 | **Bônus de dano** | **`+B por dado`** — some `M × B` a todo dano | 0 |

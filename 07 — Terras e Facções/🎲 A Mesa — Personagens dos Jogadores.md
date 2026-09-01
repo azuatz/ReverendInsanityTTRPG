@@ -241,7 +241,7 @@ QI         = 344 × 2^(estágio−1)   ← zera ao subir de rank, e é de propó
 | **Defesa** *(sem Gu de mov.)* | 14 | 14 | 14 | 14 | 15 | 15 | 15 | 15 |
 | Resistência / ordem de turno | — | +1 | +2 | +3 | — | +1 | +2 | +3 |
 | Vagas de Suporte | 0 | 1 | 2 | 3 | 0 | 1 | 2 | 3 |
-| Gu ativos *(CON + rank)* | 4 | 4 | 4 | 4 | 5 | 5 | 5 | 5 |
+| Gu sustentados *(fixo)* | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 |
 | Teto de Combo | 2 | 3 | 4 | **5** | 2 | 3 | 4 | **5** |
 | Densidade *(nome)* | Turvo | Claro | Puro | **Cristalino** | Bruto | Temperado | Polido | **Espelhado** |
 

@@ -22,7 +22,7 @@ escopo: sistema
 | **Caminho** | *(um dos 23 — ver [[🛤️ Os Caminhos\|Os Caminhos]])* |
 | **Tipo** | Ataque / Defesa / Cura / Amplificação / Movimento / Controle / Reconhecimento / Utilidade / Consumível |
 | **Custo de ativação** | *(40 se for do rank do dono; 10 se 1 abaixo; 4 se 2 abaixo; 1 se 3+ abaixo — ver [[🏛️ Arquitetura do Sistema\|Arquitetura do Sistema]])* |
-| **Manutenção** | *(essência por rodada, se for sustentado — e sustentado ocupa vaga no limite de `CON + rank`)* |
+| **Manutenção** | *(essência por rodada, se for sustentado — e sustentado ocupa **uma das 3 vagas**)* |
 | **Ação necessária** | Ação / Reação / Livre |
 | **Alcance** | Contato / Curto (10 m) / Médio (30 m) / Longo (100 m+) |
 | **Duração** | *(instantânea / X rodadas / 1 cena / sustentado)* |

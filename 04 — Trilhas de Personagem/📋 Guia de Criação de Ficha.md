@@ -49,7 +49,7 @@ CD dos seus Gu     = 10 + VON + rank do Gu
 Regeneração        = % da Essência máxima por hora, pelo Grau (D 2%/h · C 4%/h · B 6%/h · A 8%/h)
                      (a Essência NÃO regenera durante o combate)
 Gu que cabem na Abertura   = (% de aptidão ÷ 10) + rank
-Gu ativos ao mesmo tempo   = CON + rank
+Gu sustentados ao mesmo tempo = 3   (fixo — não sobe com CON nem com o rank)
 Golpes registrados         = AST + 1
 Pontos de Plano            = 2 + maior(AST, CAR)
 ```
@@ -111,7 +111,7 @@ Um personagem genérico, sem ligação com nenhum PJ de nenhuma campanha de refe
 | Acerto melee | d20 + 1 + 3 | **d20 + 4** |
 | Regeneração | Grau C → 4%/h | **~10 de essência por hora de descanso** *(o tanque de 240 enche em ~25 horas — o ritmo é de dias, não de minutos)* |
 | Gu que cabem na Abertura | (60 ÷ 10) + 1 | **7** |
-| Gu ativos ao mesmo tempo | 4 + 1 | **5** |
+| Gu sustentados ao mesmo tempo | fixo | **3** |
 | Golpes registrados | 1 + 1 | **2** |
 | Pontos de Plano | 2 + maior(1, 1) | **3** |
 

@@ -49,7 +49,7 @@ Nada aqui é regra nova: é tudo o que já está em [[🪜 Ranks e Estágios]], 
 | ☐ **Acertos** | `(rank + 2)` → **+1** em melee, à distância e de Gu |
 | ☐ **CD dos seus Gu** | `10 + VON + rank do Gu` — sobe quando você troca por Gu do rank novo |
 | ☐ **Gu que cabem na Abertura** | `(% de Aptidão ÷ 10) + rank` → **+1** |
-| ☐ **Gu ativos ao mesmo tempo** | `CON + rank` → **+1** |
+| ☐ **Gu sustentados ao mesmo tempo** | **Não muda: continua 3.** Subir de rank dá Gu melhores, nunca mais atenção — quem quiser sustentar mais compra Gu de multitarefa ([[🏛️ Arquitetura do Sistema]]) |
 | ☐ **Bônus de treino** *(só em rank PAR)* | +2 → +3 → +4 → +5 → +6. **Vale só em perícia, nunca em ataque** ([[💪 Atributos]]) |
 | ☐ **Anos de vida** | Não muda. Subir de rank **não queima nem devolve** anos ([[⏳ Longevidade]]) |
 

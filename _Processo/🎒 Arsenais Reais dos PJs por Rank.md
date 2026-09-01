@@ -31,17 +31,27 @@ de `01 — Fundação/🏛️ Arquitetura do Sistema.md` e de `07 — Terras e F
 
 **O Demvi é o teto inferior. Os quatro arsenais abaixo usam exatamente 6 / 8 / 10 Gu.**
 
-**Gu simultaneamente ativos** = `CON + rank` — isto NÃO é igual entre os quatro, e é uma
-assimetria real que a simulação precisa modelar:
+**Gu simultaneamente sustentados = 3, igual para os quatro, em todo rank** *(decisão 260)*.
+Não vem de CON nem do rank, e a assimetria que esta nota registrava — de 2 a 9 vagas conforme a
+ficha — **deixou de existir**. Some daqui uma variável que a simulação precisava modelar, e some
+também a distorção que ela criava: o Demvi não é mais punido duas vezes (menos Gu **e** menos
+vagas) pela CON baixa dele.
 
-| | Xie Lang (CON +3) | Jiāotáng (CON +3) | Lee (CON +2) | Demvi (CON +1) |
-|---|---|---|---|---|
-| Rank 1 | 4 | 4 | 3 | **2** |
-| Rank 3 | 6 | 6 | 5 | **4** |
-| Rank 5 | 8 | 8 | 7 (9 c/ Corpo) | **6** |
+Só os **sustentados** ocupam vaga; ataque instantâneo não ocupa, e os Gu de Corpo também não
+(são carne, não sustentação). **Manutenção de Sustentação = `nº² × 5` por rodada**, por cima do
+custo próprio de cada Gu — com teto 3, o piso de manutenção numa luta com tudo ligado é
+**45/rodada** pra todo mundo.
 
-Só os **sustentados** ocupam vaga; ataque instantâneo não ocupa. **Manutenção de Sustentação
-= `nº² × 5` por rodada**, por cima do custo próprio de cada Gu.
+> [!check] Os arsenais abaixo já estavam certos
+> Todos os três blocos de economia desta nota (ranks 1, 3 e 5) já foram montados com **3 Gu
+> sustentados** e 45/rodada de Manutenção — nenhum deles usava as vagas extras que a fórmula
+> antiga concedia. **Nenhum arsenal precisa ser refeito por causa da decisão 260**; o que muda é
+> que agora eles são a regra, e não uma escolha conservadora.
+
+**A quarta vaga, se algum deles quiser:** sustentar um acima do teto é legal, ao preço de `1d6`
+por turno (1–2 desliga um Gu) e de **80/rodada** de Manutenção. Acima disso, só com **Gu de
+multitarefa**, que nenhum dos quatro tem hoje — e o candidato natural a caçar um é a **Lee**,
+que é quem sempre tem uma ferramenta útil na mão e nenhuma vaga sobrando.
 
 **Custo de ativação** = `40 / 10 / 4 / 1` (rank próprio / 1 abaixo / 2 abaixo / 3+ abaixo),
 vezes o modificador de Caminho: Sangue e Osso ×0,5 · elementais, Lua, Vento, Força, Wu Xing ×1 ·
@@ -99,7 +109,7 @@ rank 2, e o único Gu permanente de rank 1 do Catálogo inteiro é o **Gu do Ten
 **Permanentes:** +1 CON (Pele de Aço) → CON efetiva **+4**; +1 DES (Arco Reflexo) → DES efetiva **+4**;
 **RD 4** passiva que nunca desliga e não custa nada.
 **Defesa:** `10 + DES 4 + rank 3 + 2 (Grilo de Jade)` = **19**. Vitalidade sobe com o CON novo.
-**Gu ativos simultâneos:** CON 4 + rank 3 = **7** (a ficha diz 6 com CON +3 — o Corpo comprou +1 vaga).
+**Gu sustentados simultâneos:** **3** — o teto fixo, e é exatamente o que ele liga.
 **Economia:** 3 sustentados (Frio de Osso, Casaco de Alma, Grilo) = **45 + 4 + 4 = 53/rodada** contra
 344 de QI. **Ele aguenta ~6 rodadas com tudo ligado** — e é por isso que a economia de cena dele
 importa menos do que a ficha sugere: em duelo curto ele nunca chega perto do limite.
@@ -124,7 +134,7 @@ importa menos do que a ficha sugere: em duelo curto ele nunca chega perto do lim
 **Permanentes:** CON +3→**+5** (Pele de Aço), DES +3→**+4**, VON +3→**+4**, RD 4, imune a medo.
 **Defesa:** `10 + DES 4 + rank 5 + 5 (Asas de Osso)` = **24**.
 **CD dos Gu dele** = `10 + VON 4 + rank do Gu` → **19** com um Gu de rank 5.
-**Gu ativos:** CON 5 + rank 5 = **10** — folga confortável.
+**Gu sustentados:** **3** (+ até 3 Vagas de Suporte pelo estágio, que não contam na Manutenção).
 **Economia:** 3 sustentados = **45 + 4 + 4 + 4 = 57/rodada**, contra 344 de QI. Ainda ~6 rodadas.
 
 > ⚠️ **O ataque de Alma dele no rank 5 é um Gu de rank 4.** Não existe Gu de ataque de Alma de
@@ -645,16 +655,18 @@ de Caminho alheio vive dentro dele atritando com todo o resto do arsenal (ver a 
 [[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)|Catálogo]]). A Pele de Aço é **Metal**; a
 Pele de Luar é **Lua**, que é o Caminho dele.
 
-**O preço, e ele é real:** sai o **+1 CON permanente** da Pele de Aço, que hoje lhe compra a vaga extra
-de Gu ativo (`CON + rank`) e o acesso ao grau Pesado (Coração de Ferro-Frio, que exige CON +3). Ou seja,
-os arsenais de rank 3 e 5 acima precisam ser refeitos **com um Gu ativo a menos** e sem a linha de
-Corpo pesada. **Em troca** ele ganha `RD 1 × M` passiva que **dobra para `2 × M` em qualquer noite com
+**O preço, e ele encolheu com a decisão 260:** sai o **+1 CON permanente** da Pele de Aço. Isso **não
+custa mais vaga de sustentação nenhuma** — o teto é fixo em 3 e não olha pra CON —, então o preço real
+ficou reduzido a Vitalidade (`3 × M` a menos) e ao acesso ao grau Pesado (Coração de Ferro-Frio, que
+exige CON +3). Os arsenais de rank 3 e 5 acima seguem válidos como estão; some só a linha de Corpo
+pesada. **Em troca** ele ganha `RD 1 × M` passiva que **dobra para `2 × M` em qualquer noite com
 lua visível** — o dial do próprio Caminho trabalhando na defesa dele, e não uma placa de metal
 emprestada. Nas noites de lua nova, e só nelas, a Pele de Aço teria sido melhor.
 
-⚠️ **Pendência que isto abre:** os arsenais dos ranks 3 e 5 do Xie Lang, acima nesta nota, ainda
-listam a Pele de Aço e contam o CON efetivo com o +1 dela. **Precisam ser recontados** antes de virarem
-insumo de simulação.
+⚠️ **Pendência que isto abre, agora bem menor:** os arsenais dos ranks 3 e 5 do Xie Lang, acima nesta
+nota, ainda listam a Pele de Aço e contam o CON efetivo com o +1 dela. O que precisa ser recontado é a
+**Vitalidade** dele (`3 × M` a menos) e a linha de Corpo pesada; a contagem de Gu sustentados **não**
+muda, porque o teto é 3 com ou sem a Pele.
 
 ---
 

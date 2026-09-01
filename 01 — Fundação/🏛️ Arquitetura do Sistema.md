@@ -74,13 +74,25 @@ Cada rank novo devolve ao começo — com ferramentas de outro patamar. E o dano
 
 **Carregar um Gu não custa essência — custa comida.** Cada Gu come um tipo de coisa do mundo, ou pedras primordiais no lugar. Quantos cabem depende do tamanho da Abertura: `(sua % ÷ 10) + rank`. Gu de rank baixo ficam praticamente de graça de ativar conforme você sobe, então vale carregar os de utilidade pra sempre — mas os de dano, defesa e reforço precisam ser trocados a cada rank, porque o dado deles não cresce sozinho.
 
-**Carregar não é o mesmo que manter ativo.** O número acima é quantos Gu cabem na Abertura. Quantos podem estar **ativos ao mesmo tempo** é outra conta, bem menor:
+**Carregar não é o mesmo que manter ativo.** O número acima é quantos Gu cabem na Abertura. Quantos podem estar **ativos ao mesmo tempo** é outra coisa, e é um número pequeno e **fixo**:
 
 ```
-Gu simultaneamente ativos = Constituição (CON) + rank
+Gu simultaneamente sustentados = 3      (Mestre de Gu comum: 2)
 ```
 
-Um rank 3 com CON +2 sustenta 5 Gu ativos. Gu de ativação instantânea (um ataque que dispara e acaba) não ocupam vaga; os que ocupam são os **sustentados** — defesa, reforço, voo, transformação, formação. É essa trava que impede alguém de ligar seis Gu de defesa e virar invulnerável.
+**Não depende de atributo nem de rank.** Este não é um limite do corpo nem da essência: é um limite de **atenção**. Cada Gu ligado é uma tarefa mental separada rodando ao mesmo tempo — manter três de pé sem errar já é a marca de um cultivador excepcional, e é por isso que **3 é o número dos personagens de jogador** e dos inimigos nomeados, enquanto o Mestre de Gu de rua opera em **2**.
+
+Gu de ativação instantânea (um ataque que dispara e acaba) **não ocupam vaga**; os que ocupam são os **sustentados** — defesa, reforço, voo, transformação, percepção contínua, formação sobrecarregada. É essa trava que impede alguém de ligar seis Gu de defesa e virar invulnerável, e ela vale **fora do combate também**: quem está sustentando três Gu não tem cabeça sobrando pra refinar.
+
+> [!warning] O quarto Gu — possível, e é onde os erros acontecem
+> Você **pode** sustentar **um** acima do seu teto. Enquanto estiver assim, role **`1d6` no início de cada turno** (ou por hora, fora de combate): em **1–2**, a atenção escorrega e **um dos Gu sustentados desliga** — o mestre escolhe qual, e a essência de reativação sai do zero na sua próxima ação.
+>
+> Não há quinto. Passar de um acima do teto só com **Gu de multitarefa** (abaixo), e o que eles dão conta como teto pra tudo: um personagem com teto 4 rola erro no quinto, não no quarto.
+
+**A rota de subir o teto é comprada, não rolada na ficha.** Existe uma família de Gu dedicada a dividir a atenção — cada posto dela dá **+1 vaga permanente** enquanto o Gu estiver carregado. É o instrumento clássico do **Caminho da Escravidão** ([[🛤️ Os Caminhos|Os Caminhos]]) — quem comanda feras e escravos precisa de linhas mentais sobrando —, e é o que explica em ficção por que um domador sustenta mais coisa que um espadachim do mesmo rank. Isso transforma *"quantos Gu eu sustento"* num **eixo de arsenal e de economia** em vez de um número que vem de graça com o rank.
+
+> [!note] Por que fixo em vez de `CON + rank`
+> A fórmula antiga entregava **8 Gu simultâneos** a um rank 5 com CON +3 — quase o triplo do que o mundo suporta, e o efeito colateral era que a Manutenção quadrática virava decoração, porque ninguém chegava perto do teto. Com teto 3, ela morde exatamente onde deve: no especialista que **comprou** o direito de empilhar. Ver decisão 260 no [[🧭 Log de Decisões]].
 
 ### A Manutenção — o preço de manter tudo ligado
 
@@ -100,6 +112,8 @@ Manutenção de Sustentação = (número de Gu sustentados)² × 5 de essência 
 | 6 | **180** |
 
 Isso é **somado** aos custos individuais dos Gu. Um personagem com quatro Gu sustentados paga 80 de Sustentação mais o que cada um cobra separadamente.
+
+**As três primeiras linhas são a mesa inteira.** Da quarta em diante você está no território de quem empurrou o teto — pagando o quarto com risco de erro, ou tendo comprado Gu de multitarefa. A curva é justamente o que torna essa compra uma decisão em vez de um upgrade óbvio: **a sexta vaga custa 180 por rodada**, e nenhum tanque de essência de rank baixo aguenta uma luta inteira assim.
 
 ### A regeneração — fora de combate, salvo o Físico Extremo
 
