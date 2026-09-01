@@ -20,6 +20,15 @@ Em troca, é o Caminho que **te muda**. Cada alma devorada deixa alguma coisa pr
 
 **1. Atravessa.** Ataques de Alma **ignoram RD física e Defesa de armadura**. A Defesa contra eles não é a Defesa normal: é `10 + VON + 2 × rank`. Um bruto de CON +4 e RD 40 é feito de papel contra isto, e é essa a promessa do Caminho.
 
+> [!info] "Mas a Prerrogativa Romper também ignora RD" — e por que isso não come o nicho da Alma
+> A pergunta é justa: desde a decisão 241, qualquer Golpe Matador registrado pode declarar **Romper** e ignorar toda a RD do alvo ([[⚡ Golpes Matadores]]). Se qualquer Caminho compra isso, o que sobra de especial em atravessar RD?
+>
+> **A diferença é de natureza, não de tamanho: Alma é propriedade de Caminho; Romper é declaração de um golpe.** Um cultivador de Alma **é** a resposta à RD — toda ação, toda cena, sem rolar nada e sem gastar vaga nenhuma; é o que ele é. Um cultivador com um golpe Romper **tem** uma resposta à RD: **uma**, entre os `AST + 1` golpes que cabem na ficha dele, gastável quando decidir que aquela cena vale a maior jogada que ele possui.
+>
+> E os preços são de moedas diferentes. Quem quer a resposta **sempre** paga com o Caminho inteiro: custo de ativação ×1,25, nenhum efeito colateral em nenhum Gu de Alma, e a barra de Alma como alvo em vez da Vitalidade. Quem quer a resposta **uma vez** paga com uma vaga de ficha, o combo montado, uma rolagem de conjuração e a Defesa −4 do disparo.
+>
+> Além disso, Romper **só** fura RD. A Alma também troca a Defesa que o ataque mira e a barra que ele esvazia — duas coisas que nenhuma Prerrogativa faz.
+
 **2. Fortalece por dentro.** A Alma máxima de um cultivador de Alma cresce por degraus, não por rank — ver a escada abaixo.
 
 **3. Devora.** Almas alheias viram recurso: cura, essência, Marcas de Dao. E viram problema.

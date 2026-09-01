@@ -67,6 +67,11 @@ Golpes de apoio que não somam dano somam **outra coisa**: +2 no teste de acerto
 
 **Uma só por golpe, declarada junto da Brecha.** Um segundo Golpe Matador registrado pode ter outra.
 
+> [!tip] Romper parece a escolha óbvia, e é — até você olhar o alvo
+> Ela é a única das quatro que **nunca é inútil**, então um jogador que registra um golpe só tende a escolhê-la por eliminação. Vale saber o trade antes de descobrir na terceira sessão: **o valor de Romper escala com a RD do alvo.** Contra um Chefe (`RD 2 × M`) é enorme; contra um Mestre de Gu (`RD 1 × M`) é modesto; **contra uma Horda, que não tem RD nenhuma, é literalmente zero.**
+>
+> E ela não resolve nada além de dano. Quem só tem Romper fica sem resposta contra **quem foge**, contra **quem se esconde** e contra **quem precisa ser capturado vivo** — que são exatamente os três problemas que Selar, Alcançar e Prender existem para resolver, e que aparecem mais na mesa do que uma parede de RD.
+
 > [!quote] Por que isto existe, e é canônico
 > No romance ninguém dispara um golpe matador porque ele rende mais dano — dispara porque **o ataque comum não resolve aquele problema**. Yan Tu, num duelo: *"Será difícil contê-la com **golpes comuns**, eu só estaria desperdiçando essência primeva. Já que é assim... vou usar meu golpe matador contra o golpe matador dela!"* O golpe combinado dos quatro anciãos do clã Tie **prendia e rastreava**, não matava; o golpe de outro expert **selou até um Gu de teleporte de rank cinco**. A Prerrogativa põe isso em regra, e tira o combo de uma disputa de dano por ação que ele perde por construção.
 

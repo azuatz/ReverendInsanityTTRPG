@@ -4037,6 +4037,402 @@ def bateria_q10():
     return res
 
 
+# ===========================================================================
+# ███████████  DÉCIMA NONA RODADA — AS BATERIAS  ███████████
+# ===========================================================================
+# O estado publicado pela décima oitava (regra antiga, gatilho por essência).
+REF18_PVP = {("Jiaotang", 1): 78.8, ("Jiaotang", 3): 74.1, ("Jiaotang", 5): 73.4,
+             ("Lee", 1): 61.3, ("Lee", 3): 48.1, ("Lee", 5): 55.3,
+             ("Demvi", 1): 36.0, ("Demvi", 3): 55.5, ("Demvi", 5): 51.7,
+             ("Xie Lang", 1): 23.9, ("Xie Lang", 3): 22.3, ("Xie Lang", 5): 19.6}
+REF18_GRUPO = {   # leitura "paridade — ordinária", os três consertos ligados
+    "facil": (100.0, 100.0, 100.0), "padrao": (99.4, 99.4, 100.0),
+    "padrao_pesado": (91.4, 94.9, 99.3), "dificil": (78.4, 94.1, 94.8),
+    "climax": (27.5, 99.7, 99.7)}
+REF18_CHEFE = {1: 27.5, 2: 96.0, 3: 99.7, 4: 98.4, 5: 99.7}
+
+BASE19 = dict(lee="melee — foice + Wu Xing", isencao=False, golpe_duelo=False,
+              niveis="paridade — ordinária", teste_publicado=True,
+              gatilho="economico", quem=tuple(PCS_BASE))
+
+
+def _fire_rate(disparos):
+    return {n: (disparos[n][1] / disparos[n][0]) if disparos[n][0] else 0.0
+            for n in PCS_BASE}
+
+
+def _grupo_com_disparos(n_iter=N_ITER):
+    """A bateria de grupo, mais a contagem de disparos por cena e por composição."""
+    out, disp = {}, {}
+    for rank in RANKS_SOLO:
+        for comp in COMPS:
+            reset_golpe_disparos(True)
+            random.seed(20260830)
+            r = simulate(rank, comp, n_iter=n_iter)
+            out[(rank, comp)] = r
+            d = _fire_rate(GOLPE_DISPAROS)
+            disp[(rank, comp)] = (sum(d.values()), d)
+            reset_golpe_disparos(False)
+    return out, disp
+
+
+def _print_grupo(out, disp, ref=None):
+    print(f"  {'rank':>4s} " + " ".join(f"{c:>21s}" for c in COMPS))
+    for rank in RANKS_SOLO:
+        linha = []
+        for comp in COMPS:
+            v = out[(rank, comp)]["win"] * 100
+            flag = ""
+            if ref is not None:
+                base = ref[comp][RANKS_SOLO.index(rank)]
+                flag = " *" if abs(v - base) > 3 else "  "
+            linha.append(f"{v:6.1f}% {out[(rank, comp)]['rounds']:5.2f}r"
+                         f" {disp[(rank, comp)][0]:4.2f}g{flag}")
+        print(f"  {rank:4d} " + " ".join(f"{c:>21s}" for c in linha))
+    print("     (%. = vitória do grupo · r = rodadas · g = golpes por cena, "
+          "somando os quatro PJs · * = >3pp do publicado)")
+
+
+# ---------------------------------------------------------------------------
+def bateria_r0():
+    """Com os knobs no default da 18ª, a 19ª é a 18ª?"""
+    print("\n" + "=" * 122)
+    print("BATERIA R0 — REPRODUÇÃO: regra antiga + heurística por ESSÊNCIA = a décima oitava?")
+    print("=" * 122)
+    configura(regra="18a", heuristica="essencia", **BASE19)
+    random.seed(20260830)
+    _cel, placar = matriz_pvp(verbose=False)
+    print("\n  PvP (placar geral) contra o publicado pela 18ª:")
+    for n in PCS_BASE:
+        d = [placar[(n, rk)] - REF18_PVP[(n, rk)] for rk in RANKS_SOLO]
+        print(f"    {n:12s} " + " ".join(f"r{rk} {placar[(n,rk)]:5.1f}% ({x:+.2f}pp)"
+                                         for rk, x in zip(RANKS_SOLO, d)))
+    out, disp = _grupo_com_disparos()
+    print("\n  Bateria de grupo:")
+    _print_grupo(out, disp, REF18_GRUPO)
+    piores = max(abs(out[(rk, c)]["win"] * 100 - REF18_GRUPO[c][RANKS_SOLO.index(rk)])
+                 for rk in RANKS_SOLO for c in COMPS)
+    print(f"\n  Maior desvio da bateria de grupo contra o publicado: {piores:.2f}pp")
+    return placar, out
+
+
+# ---------------------------------------------------------------------------
+def bateria_r1():
+    """A regra nova da decisão 240 contra a antiga, e contra o que a nota promete."""
+    print("\n" + "=" * 122)
+    print("BATERIA R1 — O TESTE DE CONJURAÇÃO: `CD 12+2×nGu / d20+AST+B` → `CD 10+nGu / d20+AST+rank`")
+    print("A nota promete: registrado, 5 Gu, rank 5 = 85% · improvisado, 4 Gu, sob pressão = 40%.")
+    print("=" * 122)
+    configura(regra="240", heuristica="acao", **BASE19)
+    print(f"\n  {'PJ':11s} {'AST':>4s} " + " ".join(f"{'rank ' + str(rk):>22s}" for rk in RANKS_MORTAIS))
+    tab = {}
+    for nome in PCS_BASE:
+        linha = []
+        for rank in RANKS_MORTAIS:
+            pc = make_pc(nome, rank)
+            _ap, n_gu = _n_gu_golpe(pc)
+            set_golpe_regra("18a")
+            p_velho = _p_conjuracao(pc, n_gu)
+            set_golpe_regra("240")
+            p_novo = _p_conjuracao(pc, n_gu)
+            tab[(nome, rank)] = (p_velho, p_novo, n_gu)
+            linha.append(f"{n_gu}Gu {p_velho:4.0%}→{p_novo:4.0%}")
+        ast = make_pc(nome, 1)["AST"]
+        print(f"  {nome:11s} {ast:+4d} " + " ".join(f"{c:>22s}" for c in linha))
+
+    print("\n  Os dois números que a nota publica, conferidos no motor:")
+    pc = make_pc("Xie Lang", 5)
+    set_golpe_regra("240")
+    set_golpe_teste(publicado=True, registrado=True, improviso=False)
+    print(f"    registrado, 5 Gu, rank 5, AST +2 ......... {_p_conjuracao(pc, 5):.0%}   (a nota diz 85%)")
+    set_golpe_teste(publicado=True, registrado=False, improviso=True)
+    pc["dano_recente"] = True
+    print(f"    improvisado, 4 Gu, sob pressão ........... {_p_conjuracao(pc, 4):.0%}   (a nota diz 40%)")
+    set_golpe_teste(publicado=True, registrado=True, improviso=False)
+    print("\n  Escolha de implementação declarada: `nível de domínio` = 0 na fase mortal.")
+    print("  Com `domínio = B` (a leitura da 18ª) os mesmos dois casos dariam 100% e 55% —")
+    print("  números que a nota não publica em lugar nenhum. O rank já é o termo que cresce.")
+    return tab
+
+
+# ---------------------------------------------------------------------------
+def bateria_r2():
+    """A aritmética por AÇÃO, primeiro no papel e depois com o motor de verdade."""
+    print("\n" + "=" * 122)
+    print("BATERIA R2 — A ARITMÉTICA POR AÇÃO, VERIFICADA CONTRA O MOTOR")
+    print("A conta de mão dizia: por ESSÊNCIA o combo é 0,29× a 0,06× (3 a 17× pior);")
+    print("por AÇÃO, 1,15× a 1,62× melhor, melhorando com o tamanho.")
+    print("Aqui: (a) a conta determinística do motor e (b) a medição Monte Carlo com")
+    print("acerto, crítico, RD, RD de Alma e falha de conjuração — tudo que a mão ignorou.")
+    print("=" * 122)
+    configura(regra="240", heuristica="acao", **BASE19)
+    print(f"\n  (a) DETERMINÍSTICO — contra o Chefe publicado do próprio rank")
+    print(f"  {'PJ':11s} {'rank':>4s} {'nGu':>4s} {'e_norm':>8s} {'e_golpe':>9s} "
+          f"{'×ação':>7s} {'custo':>7s} {'×essência':>10s} {'p':>5s} {'p×ação':>8s}")
+    for nome in PCS_BASE:
+        for rank in RANKS_SOLO:
+            pc = make_pc(nome, rank)
+            alvo = make_chefe(rank)
+            apoios, n_gu = _n_gu_golpe(pc)
+            usa_alma = pc["alma_dmg"] and alvo.get("alma") is not None
+            e_norm = _e_dano_normal(pc, alvo)
+            e_golpe = _e_dano_pool(pc, apoios, usa_alma)
+            custo = _custo_golpe(pc)
+            custo_atq = ACT_COST_BASE * pc["ess_mod"]
+            por_ess = (e_golpe / custo) / (e_norm / custo_atq)
+            p = _p_conjuracao(pc, n_gu)
+            print(f"  {nome:11s} {rank:4d} {n_gu:4d} {e_norm:8.1f} {e_golpe:9.1f} "
+                  f"{e_golpe/e_norm:6.2f}× {custo:7.0f} {por_ess:9.2f}× {p:5.0%} "
+                  f"{p*e_golpe/e_norm:7.2f}×")
+
+    print("\n  (b) MONTE CARLO — dano REALMENTE entregue ao Chefe numa AÇÃO")
+    print("      (20.000 amostras por célula; o golpe inclui a falha de conjuração como 0 de dano)")
+    print(f"  {'PJ':11s} {'rank':>4s} {'ataque comum':>13s} {'golpe':>10s} {'×ação real':>11s} "
+          f"{'×ação no papel':>15s}")
+    mc = {}
+    for nome in PCS_BASE:
+        for rank in RANKS_SOLO:
+            random.seed(20260830)
+            tot_n = tot_g = 0.0
+            N = 20000
+            for _ in range(N):
+                pc = make_pc(nome, rank)
+                alvo = make_chefe(rank)
+                v0, a0 = alvo["vit"], alvo["alma"]
+                resolve_pc_hit(pc, alvo)
+                tot_n += (v0 - alvo["vit"]) + (a0 - alvo["alma"])
+            for _ in range(N):
+                pc = make_pc(nome, rank)
+                alvo = make_chefe(rank)
+                v0, a0 = alvo["vit"], alvo["alma"]
+                golpe_matador_xie(pc, alvo)
+                tot_g += (v0 - alvo["vit"]) + (a0 - alvo["alma"])
+            en, eg = tot_n / N, tot_g / N
+            pc = make_pc(nome, rank)
+            alvo = make_chefe(rank)
+            apoios, n_gu = _n_gu_golpe(pc)
+            usa_alma = pc["alma_dmg"] and alvo.get("alma") is not None
+            papel = (_p_conjuracao(pc, n_gu) * _e_dano_pool(pc, apoios, usa_alma)
+                     / _e_dano_normal(pc, alvo))
+            mc[(nome, rank)] = (en, eg, eg / en if en else 0.0, papel)
+            print(f"  {nome:11s} {rank:4d} {en:13.1f} {eg:10.1f} {eg/en if en else 0:10.2f}× "
+                  f"{papel:14.2f}×")
+    print("\n  Leitura: a coluna 'real' já traz a falha de conjuração, o crítico, a RD e a")
+    print("  RD de Alma. Se ela for MENOR que a coluna do papel, a conta de mão era otimista.")
+    return mc
+
+
+# ---------------------------------------------------------------------------
+MOLDES_R3 = (
+    ("Guerreiro", lambda rk: make_guerreiro(rk)),
+    ("Elite", lambda rk: make_elite(rk)),
+    ("Mestre de Gu", lambda rk: make_mestre_de_gu(rk)),
+    ("Chefe publicado (63×M)", lambda rk: make_chefe(rk)),
+    ("Chefe reforçado (94×M)", lambda rk: make_chefe(rk, vit_mult=94)),
+    ("Chefe de rank +1", lambda rk: make_chefe(min(rk + 1, 6))),
+    ("Horda de 8", lambda rk: make_horda(rk, 8)),
+)
+
+
+def bateria_r3():
+    """CONTRA QUEM o gatilho manda disparar — a pergunta 1 da decisão 240."""
+    print("\n" + "=" * 122)
+    print("BATERIA R3 — CONTRA QUEM O GATILHO MANDA DISPARAR (pergunta 1 da decisão 240)")
+    print("O alvo entra INTEIRO na conta, e o horizonte é o da cena com os quatro PJs de pé.")
+    print("Três gatilhos lado a lado: E = por essência (18ª) · A = por ação (19ª) · P = regra de bolso.")
+    print("=" * 122)
+    resultado = {}
+    for rank in RANKS_SOLO:
+        print(f"\n  ── rank {rank} " + "─" * 100)
+        print(f"  {'PJ':11s} " + " ".join(f"{m[0][:16]:>17s}" for m in MOLDES_R3))
+        for nome in PCS_BASE:
+            linha = []
+            for rot, fab in MOLDES_R3:
+                cel = []
+                for regra, heur, tag in (("18a", "essencia", "E"), ("240", "acao", "A"),
+                                         ("240", "acao_pura", "P")):
+                    configura(regra=regra, heuristica=heur, **BASE19)
+                    pcs = make_pcs(rank)
+                    pc = next(q for q in pcs if q["name"] == nome)
+                    alvo = fab(rank)
+                    ok = vale_o_golpe(pc, alvo, 0, pcs)
+                    resultado[(nome, rank, rot, tag)] = ok
+                    cel.append(tag if ok else "·")
+                linha.append("".join(cel))
+            print(f"  {nome:11s} " + " ".join(f"{c:>17s}" for c in linha))
+    print("\n  Legenda: a letra aparece quando AQUELE gatilho manda disparar contra AQUELE molde.")
+    print("  'E' nunca deveria aparecer — é o gatilho da 18ª, que mede o eixo errado.")
+    return resultado
+
+
+# ---------------------------------------------------------------------------
+def bateria_r4():
+    """QUANTAS VEZES o combo dispara por cena, por composição e por rank."""
+    print("\n" + "=" * 122)
+    print("BATERIA R4 — A TAXA DE DISPARO POR CENA (contra os 0,19/cena da décima oitava)")
+    print("=" * 122)
+    braços = (
+        ("18ª — regra antiga + gatilho por ESSÊNCIA", dict(regra="18a", heuristica="essencia")),
+        ("só a regra nova (240), gatilho por essência", dict(regra="240", heuristica="essencia")),
+        ("só o gatilho por AÇÃO, regra antiga", dict(regra="18a", heuristica="acao")),
+        ("OS DOIS — regra 240 + gatilho por AÇÃO", dict(regra="240", heuristica="acao")),
+        ("regra 240 + regra de bolso (ação pura)", dict(regra="240", heuristica="acao_pura")),
+    )
+    out = {}
+    for rot, kw in braços:
+        configura(**dict(BASE19, **kw))
+        res, disp = _grupo_com_disparos()
+        out[rot] = (res, disp)
+        print(f"\n### {rot} ###")
+        _print_grupo(res, disp, REF18_GRUPO)
+    print("\n" + "-" * 122)
+    print("GOLPES POR CENA, SÓ NA COLUNA CLÍMAX (o único cenário com Chefe)")
+    print("-" * 122)
+    print(f"  {'braço':46s} " + " ".join(f"{'rank ' + str(rk):>12s}" for rk in RANKS_SOLO))
+    for rot, _kw in braços:
+        _res, disp = out[rot]
+        print(f"  {rot:46s} " + " ".join(f"{disp[(rk, 'climax')][0]:11.2f}g" for rk in RANKS_SOLO))
+    print("\n  Por PJ, no Clímax, com os dois consertos ligados:")
+    _res, disp = out["OS DOIS — regra 240 + gatilho por AÇÃO"]
+    for rk in RANKS_SOLO:
+        d = disp[(rk, "climax")][1]
+        print(f"    rank {rk}: " + " · ".join(f"{n} {d[n]:.2f}" for n in PCS_BASE))
+    return out
+
+
+# ---------------------------------------------------------------------------
+def bateria_r5():
+    """A CENA DE CHEFE — a pergunta 2 da decisão 240, a mais importante."""
+    print("\n" + "=" * 122)
+    print("BATERIA R5 — A CENA DE CHEFE NOS CINCO RANKS MORTAIS (pergunta 2 da decisão 240)")
+    print("Publicado hoje (18ª): r1 27,5% · r2 96,0% · r3 99,7% · r4 98,4% · r5 99,7%")
+    print("O molde do Chefe fica INTOCADO por decisão do autor.")
+    print("=" * 122)
+    braços = (
+        ("18ª (regra antiga + essência)", dict(regra="18a", heuristica="essencia")),
+        ("regra 240 + gatilho por AÇÃO", dict(regra="240", heuristica="acao")),
+        ("regra 240 + regra de bolso", dict(regra="240", heuristica="acao_pura")),
+    )
+    out = {}
+    for rot, kw in braços:
+        configura(**dict(BASE19, **kw))
+        linha, cells = [], {}
+        for rank in RANKS_MORTAIS:
+            reset_golpe_disparos(True)
+            random.seed(20260830)
+            r = simulate(rank, "climax", n_iter=N_ITER)
+            g = sum(_fire_rate(GOLPE_DISPAROS).values())
+            reset_golpe_disparos(False)
+            cells[rank] = (r["win"] * 100, r["rounds"], g)
+            linha.append(f"{r['win']*100:5.1f}% {r['rounds']:5.2f}r {g:4.2f}g")
+        out[rot] = cells
+        print(f"\n  {rot:32s} " + " ".join(f"r{rk} {c}" for rk, c in zip(RANKS_MORTAIS, linha)))
+    print("\n  Δ do conserto sobre o publicado da 18ª:")
+    for rot, _kw in braços[1:]:
+        print(f"    {rot:32s} " + " ".join(
+            f"r{rk} {out[rot][rk][0] - REF18_CHEFE[rk]:+5.1f}pp" for rk in RANKS_MORTAIS))
+    print("\n  A faixa publicada do Clímax é 56-87%.")
+    return out
+
+
+# ---------------------------------------------------------------------------
+def bateria_r6():
+    """A tabela de composição republicável, nos três dials de ficha."""
+    print("\n" + "=" * 122)
+    print("BATERIA R6 — A TABELA DE COMPOSIÇÃO NOS TRÊS DIALS (o que republicar em `06`)")
+    print("Regra 240 + gatilho por AÇÃO, os quatro PJs com golpe.")
+    print("=" * 122)
+    res, disps = {}, {}
+    for modo in ("paridade — dials zerados", "paridade — ordinária", "paridade — teto"):
+        configura(**dict(BASE19, niveis=modo, regra="240", heuristica="acao"))
+        print(f"\n### {modo} ###")
+        out, disp = _grupo_com_disparos()
+        _print_grupo(out, disp, REF18_GRUPO)
+        res[modo], disps[modo] = out, disp
+
+    print("\n" + "-" * 122)
+    print("A FAIXA POR CÉLULA (mínimo–máximo entre os três dials) contra a faixa publicada")
+    print("-" * 122)
+    print(f"  {'composição':16s} {'faixa-alvo':>12s} {'18ª publicada':>16s} " +
+          " ".join(f"{'rank ' + str(rk):>18s}" for rk in RANKS_SOLO))
+    for comp in COMPS:
+        cels = []
+        for rk in RANKS_SOLO:
+            vs = [res[m][(rk, comp)]["win"] * 100 for m in res]
+            cels.append(f"{min(vs):5.1f}-{max(vs):5.1f}%")
+        pub = "/".join(f"{v:.0f}" for v in REF18_GRUPO[comp])
+        print(f"  {comp:16s} {FAIXAS_PUBLICADAS[comp]:>12s} {pub:>16s} " +
+              " ".join(f"{c:>18s}" for c in cels))
+
+    print("\n" + "=" * 122)
+    print("A TABELA DE AÇÕES DO CHEFE — Chefe + Guerreiro nos cinco ranks mortais")
+    print("Publicado pela 18ª: r1 27,5% · r2 96,0% · r3 99,7% · r4 98,4% · r5 99,7%")
+    print("=" * 122)
+    chefe = {}
+    for modo in ("paridade — dials zerados", "paridade — ordinária", "paridade — teto"):
+        configura(**dict(BASE19, niveis=modo, regra="240", heuristica="acao"))
+        linha = []
+        for rank in RANKS_MORTAIS:
+            reset_golpe_disparos(True)
+            random.seed(20260830)
+            r = simulate(rank, "climax", n_iter=N_ITER)
+            g = sum(_fire_rate(GOLPE_DISPAROS).values())
+            reset_golpe_disparos(False)
+            chefe[(modo, rank)] = (r["win"] * 100, r["rounds"], g)
+            linha.append(f"{r['win']*100:5.1f}% {r['rounds']:5.2f}r {g:4.2f}g")
+        print(f"  {modo:28s} " + " ".join(f"r{rk} {c}" for rk, c in zip(RANKS_MORTAIS, linha)))
+    return res, chefe
+
+
+# ---------------------------------------------------------------------------
+def bateria_r7():
+    """PvP e cena solo — o combo passa a existir fora do Clímax?"""
+    print("\n" + "=" * 122)
+    print("BATERIA R7 — PvP E CENA SOLO COM OS DOIS CONSERTOS")
+    print("Nas duas o alvo é um Mestre de Gu ou um PJ — a regra nova diz que ali o golpe")
+    print("só vale se o alvo NÃO cairia com um ataque comum.")
+    print("=" * 122)
+    out = {}
+    for rot, kw in (("18ª (antiga + essência)", dict(regra="18a", heuristica="essencia")),
+                    ("regra 240 + por AÇÃO", dict(regra="240", heuristica="acao"))):
+        configura(**dict(BASE19, **kw))
+        reset_golpe_disparos(True)
+        random.seed(20260830)
+        _cel, placar = matriz_pvp(verbose=False)
+        d_pvp = _fire_rate(GOLPE_DISPAROS)
+        reset_golpe_disparos(False)
+        print(f"\n### {rot} ###")
+        _print_ranking(placar)
+        print("    golpes por cena em PvP: " + " · ".join(f"{n} {d_pvp[n]:.2f}" for n in PCS_BASE))
+        reset_golpe_disparos(True)
+        solo = bateria_solo_mestre(verbose=False)
+        d_solo = _fire_rate(GOLPE_DISPAROS)
+        reset_golpe_disparos(False)
+        print("    solo × Mestre de Gu: " + " · ".join(
+            f"{n} " + "/".join(f"{solo[(n, rk)]['win']*100:.1f}" for rk in RANKS_SOLO)
+            for n in PCS_BASE))
+        print("    golpes por cena solo: " + " · ".join(f"{n} {d_solo[n]:.2f}" for n in PCS_BASE))
+        out[rot] = (placar, solo, d_pvp, d_solo)
+    return out
+
+
+def main19():
+    print("=" * 122)
+    print("DÉCIMA NONA RODADA — O GOLPE MATADOR MEDIDO POR AÇÃO, E A REGRA NOVA (decisão 240)")
+    print(f"{N_ITER} iterações/célula · semente 20260830 · mix de Alma C")
+    print("Baseline: decisões 231 · 227 · 236 · 238 (paridade de Níveis, gatilho econômico)")
+    print("=" * 122)
+    r0 = bateria_r0()
+    r1 = bateria_r1()
+    r2 = bateria_r2()
+    r3 = bateria_r3()
+    r4 = bateria_r4()
+    r5 = bateria_r5()
+    r6 = bateria_r6()
+    r7 = bateria_r7()
+    return r0, r1, r2, r3, r4, r5, r6, r7
+
+
 def main18b():
     print("=" * 122)
     print("DÉCIMA OITAVA — ADENDO: Q9 (contra quem o golpe paga) e Q10 (o que republicar)")
@@ -4064,4 +4460,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main19()
