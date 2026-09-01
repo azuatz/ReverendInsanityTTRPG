@@ -57,7 +57,7 @@ Nas contas abaixo, **`M`** é o Multiplicador de Rank da formação (tabela de [
 | **Supressão** | Gu de rank **igual ou inferior** ao da formação custam **o dobro** pra ativar (só pra quem o fundador não autorizou). Gu de movimento de intrusos operam **1 rank abaixo** — o que derruba a Defesa deles pela conta padrão. Não afeta quem a formação reconhece |
 | **Armadilha** | **Uma vez por cena**, a formação dispara o efeito do próprio Gu-núcleo contra uma zona escolhida na montagem: dano **`M d(dado do Caminho do núcleo, já com o passo dele)`**, com o `M` da **formação** e não o do Gu, ou o efeito de controle dele com **CD `10 + VON do fundador + rank da formação`**. Recarrega em 24 horas |
 
-**Uma formação não é um Gu ativo do fundador.** Ela está ancorada no solo, não na Abertura dele — não ocupa vaga no limite de `CON + rank` e não entra na Manutenção por rodada. É isso que permite a um Mestre de Gu de rank 4 ter uma formação de grau II em casa **e** lutar com o arsenal completo.
+**Uma formação não é um Gu sustentado do fundador.** Ela está ancorada no solo, não na Abertura dele — não ocupa nenhuma das **3 vagas** de sustentação e não entra na Manutenção por rodada. É isso que permite a um Mestre de Gu de rank 4 ter uma formação de grau II em casa **e** lutar com o arsenal completo.
 
 ## Manutenção — a fórmula quadrática, em cadência diária
 
@@ -85,9 +85,17 @@ Manutenção da Formação = (Gu-núcleo + Gu de apoio)² × 5 de essência,
 
 Uma vez por cena, o fundador **dentro do raio** pode sobrecarregar a formação: ela passa a operar **um grau acima** (raio, CDs e RD da linha seguinte) por uma cena inteira.
 
-Durante a sobrecarga, a formação **deixa de ser infraestrutura e vira Gu ativo**: conta como `G + 1` Gu sustentados na Manutenção por rodada do fundador **e** ocupa esse tanto de vagas no limite de `CON + rank` dele. Se ele não tiver as vagas, não pode sobrecarregar.
+Durante a sobrecarga, a formação **deixa de ser infraestrutura e vira Gu sustentado**: conta como `G + 1` Gu sustentados na Manutenção por rodada do fundador **e** ocupa esse tanto das vagas dele. Se ele não tiver as vagas, não pode sobrecarregar.
 
-Isso é o que faz uma invasão a uma formação virar decisão dos dois lados: o defensor pode transformar a casa em arma, mas só desligando quase tudo que ele mesmo carrega.
+Com o teto de sustentação em **3**, a conta fica dura de propósito:
+
+| Grau sobrecarregado | Vagas que come | O que sobra do fundador |
+|---|---|---|
+| **I** | 2 | Uma vaga. Ele fica com **um** Gu de combate ligado |
+| **II** | 3 | **Nenhuma.** Ele desliga tudo e vira o operador da casa |
+| **III ou mais** | 4+ | **Impossível** sem Gu de multitarefa ou Força de Alma de Cem Homens |
+
+Isso é o que faz uma invasão a uma formação virar decisão dos dois lados: o defensor pode transformar a casa em arma, mas o preço é **ele mesmo ficar nu** enquanto a casa luta por ele. E é a razão de existir de um grande fundador de formações comprar linhas de atenção antes de comprar mais Gu de ataque: a sobrecarga de grau III é literalmente a coisa que ele não consegue fazer sozinho.
 
 ## 🔨 Como se quebra uma formação
 

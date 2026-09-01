@@ -175,7 +175,7 @@ FOR 〖  〗  DES 〖  〗  CON 〖  〗  VON 〖  〗  AST 〖  〗  CAR 〖  �
 - **Defesa** = `11 + DES` *(não esqueça o +1 do rank!)*
 - **CD dos seus Gu** = `11 + VON`
 - **Acerto melee** = `d20 + FOR + 3` · **distância** = `d20 + DES + 3` · **Gu** = `d20 + VON + 3 + rank do Gu`
-- **Gu na Abertura** = `(% ÷ 10) + 1` · **Gu ativos** = `CON + 1`
+- **Gu na Abertura** = `(% ÷ 10) + 1` · **Gu sustentados ao mesmo tempo** = **3**, sempre *(só os que ficam ligados ocupam vaga; um ataque que dispara e acaba, não)*
 - **Golpes registrados** = `AST + 1`
 - **B** = 0 no estágio Inicial (sobe com o estágio; quando subir, some `M × B` a todo dano)
 

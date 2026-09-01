@@ -80,7 +80,10 @@ Manutenção de Sustentação = (nº de Gu sustentados)² × 5 por rodada
 Essência em combate       = NÃO regenera (só Físico Extremo, que é NPC: 10% do tanque,
                             teto 100/rodada · 150 favorável · 200 ideal · 50 hostil)
 
-Gu carregados      = (% ÷ 10) + rank        Gu ativos = CON + rank
+Gu carregados      = (% ÷ 10) + rank        Gu sustentados = 3 (FIXO; inimigo comum 2)
+                                            [+1 acima do teto: 1d6 por turno,
+                                             em 1-2 um Gu desliga. Passar disso,
+                                             só com Gu de multitarefa]
 Vagas de Suporte   = B (só Gu passivos de utilidade/movimento/sentidos)
 Teto de Combo      = 2 · 3 · 4 · 5 Gu num Golpe Matador, por estágio
 Golpes registrados = AST + 1                Aliados = CAR + 1

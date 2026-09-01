@@ -266,7 +266,7 @@ Essência   252   (63 × 4)          Regeneração  6 / minuto, fora de combate
 Defesa      13   (10 + 2 + 1 + 0)  ← sem Gu de movimento ainda
 Acerto melee  d20 + 6              Acerto de Gu  d20 + 5 + rank do Gu
 CD dos Gu dela  12 + rank do Gu
-Gu na Abertura  7 (6 + 1)          Gu ativos  4 (3 + 1)
+Gu na Abertura  7 (63÷10 + rank 1)  Gu sustentados  3 (é fixo, pra todo mundo)
 Golpes registrados  3              Pontos de Plano  4
 Arma: machado pesado (1d10 + 3)              Armadura: couro batido (RD 2)
 Gu: —  (vazio. vem em jogo)

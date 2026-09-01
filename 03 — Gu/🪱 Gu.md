@@ -36,6 +36,7 @@ Núcleo + apoio: o combo que define um cultivador em combate. É o momento em qu
 
 - **[[🧩 Refino e Precificação]]** — receitas, taxas de sucesso e preços. Como um Gu vira outro Gu.
 - **[[⛓️ Espólio de Gu Imortal]]** — por que matar um Imortal **não** te dá o arsenal dele. Os três estados de um Gu tomado, e a única operação de refino em que uma falha destrói o prêmio.
+- **[[📇 Índice de Gu do Romance — Consulta]]** — 251 Gu que o romance cita mas não detalha. Lista de consulta para povoar o mundo, **sem ficha mecânica**; promove para o Catálogo sob demanda.
 - **[[🧬 Receitas de Combo-Refino]]** — as combinações prontas, para você não ter que inventar na hora.
 
 ## Nível 4 — Consulta, quando a situação pedir

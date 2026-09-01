@@ -63,7 +63,9 @@ escopo: sistema
 | **Receita** | O "como" de uma fusão. Tê-la escrita = +15% e vantagem. É tesouro, não informação livre | [[📜 Livro de Receitas de Gu]] |
 | **Regra de Linhagem** | A receita universal: dois exemplares iguais + comida em dose tripla = o rank seguinte | [[📜 Livro de Receitas de Gu]] |
 | **Gu de Corpo** | Gu implantado por cirurgia, permanente, com portão de CON. Nunca nasce de fusão | [[📖 Catálogo de Gu]] |
-| **Vaga de Suporte** | Slots (= B) pra Gu passivos que não contam na manutenção | [[🪜 Ranks e Estágios]] |
+| **Gu sustentado** | Gu que fica **ligado** ocupando atenção (defesa, reforço, voo, transformação). Um ataque que dispara e acaba não é sustentado. **Teto: 3** pra jogadores e inimigos nomeados, **2** pro Mestre de Gu comum — fixo, não sobe com atributo nem com rank | [[🏛️ Arquitetura do Sistema]] |
+| **Gu de multitarefa** | A família de Gu que **compra +1 vaga de sustentação** por posto. É a única rota limpa de passar do teto, e o instrumento clássico do Caminho da Escravidão | [[🏛️ Arquitetura do Sistema]] |
+| **Vaga de Suporte** | Slots (= B) pra Gu passivos que não contam na manutenção **nem no teto de 3** | [[🪜 Ranks e Estágios]] |
 | **Golpe Matador** | Vários Gu ativados como uma jogada só, com nome próprio. É como se mata alguém de rank acima | [[⚡ Golpes Matadores]] |
 | **Brecha** | A condição declarada em que um Golpe Matador falha. **Todo** Golpe tem uma — é o que permite vencer chefe por inteligência | [[⚡ Golpes Matadores]] |
 | **Teto de Combo** | Quantos Gu cabem num Golpe Matador, definido pelo estágio: **2 · 3 · 4 · 5** (Inicial → Pico). Como o núcleo ocupa uma vaga, o teto de apoios é esse número **menos um**. **Só vale do rank 3 em diante** — ranks 1 e 2 não montam Golpe Matador | [[⚡ Golpes Matadores]] |

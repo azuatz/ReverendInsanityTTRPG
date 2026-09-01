@@ -146,7 +146,7 @@ Teste de Conjuração = d20 + AST + rank + nível de domínio no Caminho do núc
 CD = 10 + (número de Gu no combo)
 ```
 
-> **Na fase mortal, o nível de domínio é ZERO.** Domínio é contagem de Marcas de Dao ([[☯️ Marcas de Dao]]), que só existem na Fenda Imortal a partir do rank 6 — **não confunda com o Grau de Densidade (B) do estágio**, que é outra coisa e não entra aqui. Um cultivador de rank 1 a 5 rola `d20 + AST + rank` e mais nada.
+> **Na fase mortal, o nível de domínio é ZERO.** Domínio é **compreensão de Caminho** e só começa a existir na Fenda Imortal, do rank 6 em diante — e ele **não é a contagem de Marcas de Dao**: são dois eixos independentes ([[☯️ Marcas de Dao]], decisão 254). Também **não confunda com o Grau de Densidade (B) do estágio**, que é outra coisa e não entra aqui. Um cultivador de rank 1 a 5 rola `d20 + AST + rank` e mais nada.
 
 | Combo | CD |
 |---|---|
@@ -318,7 +318,7 @@ E cada 2 Níveis viram, **à escolha de quem montou o golpe, fixada no registro 
 
 **A RD não entra.** Um golpe defensivo não engrossa a RD do núcleo — a defesa já escala sozinha pelo `base × M`, e somar mais uma subtração por golpe é custo de mesa sem ganho (decisão 220). Um Golpe Matador defensivo faz a barreira **durar mais, cobrir mais gente e subir mais vezes**, não ficar mais grossa.
 
-**Tudo o mais é igual:** custo `(soma das ativações) × (nº de Gu)`, dobrado se híbrido; ocupa vaga de `AST + 1`; Teste de Conjuração `CD 12 + 2 × nGu`; **−4** se registrado, **+4** se improvisado; e **Brecha obrigatória, escrita**.
+**Tudo o mais é igual:** custo `(soma das ativações) × (nº de Gu)`, dobrado se híbrido; ocupa vaga de `AST + 1`; Teste de Conjuração `CD 10 + nº de Gu`; **−4** se registrado, **+4** se improvisado; e **Brecha obrigatória, escrita**.
 
 ### A Brecha de um golpe defensivo é diferente
 
