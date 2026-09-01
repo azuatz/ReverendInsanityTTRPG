@@ -34,7 +34,7 @@ Registro vivo dos quatro jogadores e dos personagens. Atualize conforme a criaç
 
 | Jogador | Buff de Lore | O fio preso nele |
 |---|---|---|
-| **Pepo (Xie Lang)** | **Ressonância da Montanha Fria** — uma vez por arco, quando ele cairia, a ressonância responde e ele fica de pé | É **cultivo duplo normal**: as Marcas dele se dividem entre Lua e Alma e ele paga a taxa cheia de Caminhos complementares; e a ressonância é uma assinatura que quem sabe procurar consegue seguir |
+| **Pepo (Xie Lang)** | **Ressonância da Montanha Fria** — Golpe Matador que mistura Lua e Alma **não paga a dobra de híbrido**; e, uma vez por arco, ele fica de pé quando cairia | É **cultivo duplo normal**: as Marcas dele se dividem entre Lua e Alma e ele paga a taxa de Caminhos complementares; e a ressonância é uma assinatura que quem sabe procurar consegue seguir |
 | **Gush (Lee)** | **Os Cinco Elementos como um Caminho só**, cada elemento em força plena | Nunca pode tomar um segundo Caminho, e mantém cinco arsenais alimentados |
 | **Vize (Jiāotáng)** | **Linhagem de sangue antigo** — o corpo dele carrega Sangue e Força **sem atrito nenhum entre os dois** | As Marcas dele **se dividem** entre os dois Caminhos, e ele **nunca pode tomar um terceiro**; e o Sangue é crime capital se descoberto |
 | **Binho (Demvi)** | **Nascido do vento** — uma vez por cena, **ignora sem rolar** qualquer tentativa de bloqueio, cerco ou prisão | Ele escapa sempre, e por isso **nunca segura uma posição**: não pode ser quem cobre a retirada dos outros |
@@ -53,9 +53,20 @@ Registro vivo dos quatro jogadores e dos personagens. Atualize conforme a criaç
 >
 > **A consequência pro rank 9 é a mesma do Jiāotáng:** com a contagem dividida, chegar aos 300.000 Marcas num Caminho só exige bem mais Marcas totais do que exige da Lee. Vale dizer isso ao jogador cedo.
 
-**O buff, em regra:** **uma vez por arco**, quando o Xie Lang seria reduzido a 0 de Vitalidade ou de Alma, a ressonância responde: ele fica em **1** em vez de cair, e o frio se espalha num raio de 5 m — todos ali fazem CON contra a CD dos Gu dele ou perdem a reação até o fim da rodada.
+**O buff, em regra — duas coisas:**
+
+**1. A ressonância não separa os dois.** Um **Golpe Matador que mistura Gu de Lua e de Alma não paga a dobra de custo de híbrido**: para efeito de montar o golpe, os dois Caminhos dele soam como um só. O custo é o de um Caminho único, e a Retaliação é a normal, não a agravada de híbrido.
+
+> Repare no que isto **não** faz: as Marcas continuam se dividindo entre Lua e Alma, cada Caminho com o próprio nível de domínio, e ele continua pagando os +25% de progressão. A ressonância une os dois **no instante da técnica**, não na carne. É a distinção que separa este buff do Físico que ele perdeu.
+
+**2. Uma vez por arco**, quando o Xie Lang seria reduzido a 0 de Vitalidade ou de Alma, a ressonância responde: ele fica em **1** em vez de cair, e o frio se espalha num raio de 5 m — todos ali fazem CON contra a CD dos Gu dele ou perdem a reação até o fim da rodada.
 
 É literalmente o que aconteceu com ele aos oito anos, acontecendo de novo: ele não se salva, **é salvo**, e não decide quando. Uma vez por arco, não por sessão — é evento, não recurso.
+
+> [!tip] Por que o buff é este, e não mais dano
+> Ele é o personagem de maior tanque de essência da mesa (QI 344, o maior dos quatro) e **nenhum ponto de dano na ficha**. O gargalo dele nunca foi bater mais forte: foi **poder pagar a jogada boa mais de uma vez por cena**. Tirar a dobra do híbrido ataca exatamente isso, e ataca só ali — fora do Golpe Matador misto, ele continua um cultivador comum de dois Caminhos.
+>
+> É também o formato certo de Buff de Lore, pelo padrão de [[⚖️ Pontos de Criação|Pontos de Criação]]: **dobra uma regra existente, não inventa um número maior.**
 
 **O fio preso nele:**
 - **Nunca pode tomar um terceiro Caminho.** Lua e Alma ocupam o espaço inteiro — nada entra, nem por herança, nem por Gu Imortal.
@@ -71,11 +82,16 @@ Registro vivo dos quatro jogadores e dos personagens. Atualize conforme a criaç
 >
 > **Por que as taxas antigas de 88-99% estavam erradas:** elas o modelavam como atacante **puro de Alma**, com todo o dano furando RD. Com 80% dos ataques vindo pela Lua — d8, na Vitalidade, freado pela RD como o de qualquer um —, ele é outro personagem. O número velho estava obsoleto duas vezes: pelo perfil e pela reversão da economia de Caminho duplo.
 >
-> **A decisão que isto abre, e que é do autor:** o buff dele foi escrito fraco de propósito, quando se acreditava que ele dominava. **Essa premissa caiu**, e fortalecer a *Ressonância* virou defensável.
+> **O que estava errado não era o número dele — era a ordem da mesa.** O autor fechou assim: *"se Xie Lang é o mais fraco talvez seja sim dar um buff nele; o mais fraco era para ser o Demvi, pelo seu caminho e por ele ter menos aptidão e geralmente estar atrás"*. Ou seja, existe uma **ordem pretendida**, e ela estava invertida na ponta de baixo — o Xie Lang perdia do Demvi nos ranks 3 e 5 (38,1% e 39,5%), quando o Demvi é quem deveria fechar a fila: menor Aptidão da mesa (56%, Grau C), Caminho do Vento, e o desenho inteiro dele é escapar, não vencer trocas.
 >
-> **E o Jiāotáng não é problema — isso está encerrado por decisão do autor.** Repare no formato dos números dele: **93,5 / 78,3 / 70,3%**, caindo a cada rank. Não é dominância sistêmica, é **vantagem de rank 1 que se dissolve sozinha conforme a mesa sobe**, e o autor a declarou comportamento pretendido: *"é normal melee ser mais forte antes, está ok"*. **Não nerfe Sangue+Força**, e não trate os 93,5% como um número a consertar.
+> **Daí a primeira metade do buff atual** (não pagar a dobra do híbrido). Ela mira exatamente essa inversão, e mira pelo lado certo: o Xie Lang tem o maior tanque de essência da mesa e nenhum ponto de dano, então o que o segurava era **quantas vezes por cena ele conseguia pagar a jogada boa**, não o tamanho dela. **Falta medir se basta** — a remedição vai junto com a da Lee.
 >
-> Sobra, então, uma pergunta só, e ela é do autor: **fortalecer ou não a Ressonância do Xie Lang**, agora que ele é o mais fraco em duelo e a justificativa do buff fraco caiu. Até a resposta vir — e até a Lee ser remedida, porque ela muda o quadro —, **as quatro fichas ficam como estão**.
+> **E o Jiāotáng não é problema — está encerrado por decisão do autor.** Repare no formato dos números dele: **93,5 / 78,3 / 70,3%**, caindo a cada rank. Não é dominância sistêmica, é **vantagem de rank 1 que se dissolve sozinha conforme a mesa sobe**, e o autor a declarou comportamento pretendido: *"é normal melee ser mais forte antes, está ok"*. **Não nerfe Sangue+Força**, e não trate os 93,5% como número a consertar.
+
+> [!tip] A ordem de força pretendida, para calibrar daqui em diante
+> Serve de alvo às medições futuras e evita que a mesa seja reequilibrada no escuro: **o Demvi é quem deve fechar a fila**, por Aptidão e por Caminho. Os outros três ficam acima dele, com o Jiāotáng à frente na fase mortal baixa por ser corpo a corpo — e essa dianteira encolhendo conforme os ranks sobem, que é o comportamento pretendido, não um defeito.
+>
+> Isso **não** significa que o Demvi seja um personagem ruim de jogar. Ele tem a única saída garantida do jogo (uma vez por cena, ignora qualquer bloqueio, cerco ou prisão, sem rolar), e o valor dele aparece onde a taxa de vitória em duelo não mede: escapar, chegar, sair com o grupo vivo.
 
 > [!warning] Por que este buff foi escrito narrativo — a justificativa original, hoje superada
 > **Ele é 80:20 — Lua principal, Alma secundária.** O jogador declarou que na maior parte do tempo ataca pela Lua, deixando a Alma como segundo recurso. Isso importa mais do que parece: **Lua rola d8 contra a Vitalidade e passa pela RD como qualquer um**, enquanto Alma rola d12, ignora RD e armadura e mira uma barra que mais ninguém na mesa ataca. São dois personagens diferentes.
@@ -266,7 +282,7 @@ Custo = (40 × 4) × 4 = 640 de essência    [QI no Pico do R2: 2.752]
 Teste de Conjuração = d20 + AST(2) vs CD 12 + 2×4 = 20   (−4 se já usado com sucesso)
 ```
 
-**Se for híbrido Lua + Alma**, o custo dobra pra **1.280** — ele é cultivo duplo normal, e um golpe que mistura os dois Caminhos é híbrido como o de qualquer um. Ainda é pagável no Pico, e é exatamente a jogada de arco que o personagem deve estar guardando. A Retaliação de um híbrido também piora: `× 3` em Vitalidade, e um 1 natural mata **dois** Gu de apoio.
+**Se for híbrido Lua + Alma, ele não paga a dobra** — é a *Ressonância da Montanha Fria* fazendo exatamente o que ela faz: no instante da técnica, os dois Caminhos dele soam como um. O custo fica em **640**, e a Retaliação é a normal, não a agravada de híbrido. Para qualquer outro personagem da mesa o mesmo golpe custaria 1.280 e ainda pioraria a Retaliação (`× 3` em Vitalidade, e um 1 natural matando **dois** Gu de apoio). **É a jogada de arco dele, e é a razão mecânica de o buff existir.**
 
 > **A Brecha continua obrigatória e continua sendo a dele:** o Corte do Minguante depende do Frio de Osso sustentado e visível — o ar congela em volta do Xie Lang, e quem já viu o golpe sabe que tem duas rodadas pra sair do raio de 8 m. E o combo inteiro **não existe na lua nova**.
 
@@ -297,7 +313,7 @@ Teste de Conjuração = d20 + AST(2) vs CD 12 + 2×4 = 20   (−4 se já usado c
 - Ficha pronta em [[Modelo — Ficha Compacta|Ficha Compacta]]: FOR −1 · CON +3 · DES +3 · AST +2 · VON +3 · CAR +2 · Vitalidade 27 · Alma 18 · QI 344 · Defesa 14 · CD 14
 - **Cultivo duplo normal:** as Marcas se dividem entre Lua e Alma, à taxa reduzida de Caminhos complementares (**+25% de custo, −1/6 por fonte**) — que é regra geral, não privilégio dele
 - **Perfil de ataque declarado: 80:20, Lua principal e Alma secundária.** A maior parte do dano dele é **d8 na Vitalidade, freado pela RD** como o de qualquer um; a Alma (d12, ignora RD, mira a barra de Alma) é o segundo recurso, não o padrão. É a informação de ficha mais importante dele para efeito de balanceamento, e ela **corrige** o que as medições antigas assumiam
-- **Buff de Lore — Ressonância da Montanha Fria:** uma vez por arco, quando ele seria reduzido a 0 de Vitalidade ou Alma, fica em **1** e o frio se espalha (CON contra a CD dos Gu dele em 5 m, ou perde a reação). Em troca, nunca pode tomar um terceiro Caminho, e a ressonância é rastreável ([[👁️ Exposição|Exposição]]). Ver [[🌙 Caminho da Lua|Caminho da Lua]] e [[👻 Caminho da Alma|Caminho da Alma]]
+- **Buff de Lore — Ressonância da Montanha Fria:** (a) Golpe Matador que mistura Gu de Lua e de Alma **não paga a dobra de custo de híbrido**, e a Retaliação é a normal; (b) uma vez por arco, quando ele seria reduzido a 0 de Vitalidade ou Alma, fica em **1** e o frio se espalha (CON contra a CD dos Gu dele em 5 m, ou perde a reação). Em troca, nunca pode tomar um terceiro Caminho, e a ressonância é rastreável ([[👁️ Exposição|Exposição]]). Ver [[🌙 Caminho da Lua|Caminho da Lua]] e [[👻 Caminho da Alma|Caminho da Alma]]
 - **Um número pra acompanhar na ficha:** Contaminação (sobe ao devorar almas, cai sob lua cheia). A Pressão da Abertura **não existe mais nesta ficha** — ela era do Físico Extremo, que saiu (decisão 216)
 
 > **Depois da Ascensão — a corrida é entre iguais agora.** Com o Físico Extremo fora, o Xie Lang **não entra mais na fase imortal na frente**: sem dobro de Marcas, sem terra Especial garantida, sem Calamidade a cada ~3 meses. Ele ascende como qualquer um — a qualidade da Terra Abençoada dele sai das Porções de Qi que ele investir, como a dos outros três ([[🗝️ Terra Abençoada|Terra Abençoada]]).
