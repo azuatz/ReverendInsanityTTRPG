@@ -93,7 +93,7 @@ A Força de Alma não serve só pra aguentar dano de Alma:
 > [!note] Por que a Alma dá vaga tarde, e pouco
 > Sustentar mais Gu é um limite de **atenção**, e é a coisa mais cara de comprar no sistema inteiro ([[🏛️ Arquitetura do Sistema|Arquitetura do Sistema]]) — a rota normal é o **Gu de multitarefa**, que é arsenal e pode ser roubado, perdido ou morrer de fome. A alma forte é a rota que **ninguém tira de você**, e por isso ela cobra caro: nada de vaga em Força de Alma 10 (que um personagem de rank 1 alcança em dois meses de Moagem), só a partir de **Cem Homens** — um patamar que a obra trata como raro entre mortais. O que o limiar baixo dá é o que ele deve dar: **estabilidade**, não capacidade.
 >
-> E ter vaga não é ter essência pra pagar. A [[🏛️ Arquitetura do Sistema|Manutenção de Sustentação]] é quadrática: a quinta vaga sozinha custa **125 de essência por rodada** antes do preço individual de cada Gu.
+> E ter vaga não é ter essência pra pagar. Cada Gu ligado cobra o custo por rodada dele, e o Caminho da Alma paga **×1,25** sobre tudo ([[🏛️ Arquitetura do Sistema|Arquitetura do Sistema]]) — quem abre a quinta vaga é justamente quem tem a essência mais cara da mesa.
 
 ### 🍖 Gu das Tripas — a droga do Caminho
 

@@ -170,7 +170,7 @@ A versão imortal: em vez de ancorar Gu no solo ao longo de semanas, o Imortal *
 ```
 Abrir     = selar 1% das suas Marcas do Caminho (mínimo 100) + 100 de Essência Imortal
 Sustentar = 50 de Essência Imortal por rodada
-            + o Domínio conta como 3 Gu sustentados na Manutenção quadrática (45/rodada)
+            + o Domínio ocupa 1 das 3 vagas de sustentação enquanto estiver aberto
 ```
 
 **Marcas seladas não são gastas — mas também não são suas enquanto o Domínio estiver aberto.** Elas saem da contagem: um Mestre com 10.000 Marcas que sela 100 luta o combate inteiro com 9.900, o que não muda nada; um Grão-Mestre no piso exato de 50.000 que sela 500 **recua pro nível Mestre** e perde 1 Nível de Dano durante a própria luta que ele escolheu isolar.

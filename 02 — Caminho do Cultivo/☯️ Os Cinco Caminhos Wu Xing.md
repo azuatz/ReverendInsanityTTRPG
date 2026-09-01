@@ -74,7 +74,7 @@ Madeira → Fogo → Terra → Metal → Água → Madeira
 
 > **Encadeamento de Geração.** Ativar um Gu do elemento **gerado** na rodada imediatamente seguinte à ativação de um Gu do elemento **gerador** custa **metade da essência** (arredonda pra cima) e soma **+1 Nível de Dano** naquele Gu. Uma vez por rodada, no máximo.
 >
-> **Cadeia longa:** do **terceiro elo consecutivo em diante**, o bônus passa a **+2 Níveis** e a Manutenção de Sustentação daquela rodada conta **um Gu a menos** (um personagem com 4 sustentados paga 45 em vez de 80). O bônus de encadeamento **nunca passa de +2**, aconteça o que acontecer.
+> **Cadeia longa:** do **terceiro elo consecutivo em diante**, o bônus passa a **+2 Níveis**. O bônus de encadeamento **nunca passa de +2**, aconteça o que acontecer.
 >
 > **A cadeia quebra** no instante em que o usuário ativa um Gu fora da ordem, passa uma rodada inteira sem ativar nada, ou é atordoado. Remontar exige **uma rodada sem atacar** — e é essa rodada que o inimigo usa pra te matar.
 
@@ -188,7 +188,7 @@ Regras gerais em [[⚡ Golpes Matadores|Golpes Matadores]]: cada Gu de apoio dá
 - **Efeito final:** **+2 do combo, +1 da cadeia = +3 Níveis**. O Campo sai no passo **+5** (`16d12 + 32`, 48–224 por rodada) contra alvos *Preso* com −2 na Defesa, e você está parado no meio com RD 12.
 - **Custo:** 40 + 10 + 4 = **54**, `× 3` = **162**. É barato de propósito: **este é o golpe de toda semana**, não o de uma vez por arco.
 - **🕳️ Brecha — *ambiental*:** a areia exige **solo natural**. Em pátio de pedra, salão, convés ou telhado o golpe não tem rodada 1, e sem ela o Campo é um campo fixo do qual qualquer um sai andando. Um inimigo informado marca o encontro dentro de casa.
-- **Contragolpe:** só essência e a Manutenção de Sustentação de 2 Gu (20/rodada) somada aos 12 do Campo e 4 da Escama.
+- **Contragolpe:** só essência — os 12/rodada do Campo e os 4 da Escama, e as duas vagas de sustentação que eles ocupam enquanto a armadilha estiver de pé.
 
 ### 🌧️ A Chuva Que Apaga a Forja *(rank 3–4, ciclo de destruição — anti-Fogo)*
 - **Núcleo:** Gu da Lança de Chuva (Água, r3)
@@ -259,7 +259,7 @@ O corpo dele **lê qualquer Marca elemental como Marca do mesmo Caminho**. Uma C
 ### O que ele perde
 
 1. **Um nível de domínio inteiro, pra sempre, a partir do rank 6.** Contra um Imortal especialista do mesmo rank, ele rola dados menores em **todos** os cinco elementos. Ele vence pela troca, não pelo número.
-2. **O teto de Gu sustentados é o teto real dele — e ele é fixo em 3.** Não sobe com CON nem com o rank, e a Manutenção de Sustentação é quadrática: `(nº)² × 5` por rodada. Carregar cinco elementos não adianta se ele só liga três ao mesmo tempo. **Este é o número que ele deve olhar antes de comprar qualquer Gu novo** — e o especialista dos Cinco Elementos é, de toda a mesa, quem mais tem motivo pra caçar um **Gu de multitarefa**, porque é o único que sempre tem uma quarta ferramenta útil na mão e nenhuma vaga pra ligar ela.
+2. **O teto de Gu sustentados é o teto real dele — e ele é fixo em 3.** Não sobe com CON nem com o rank. Carregar cinco elementos não adianta se ele só liga três ao mesmo tempo. **Este é o número que ele deve olhar antes de comprar qualquer Gu novo** — e o especialista dos Cinco Elementos é, de toda a mesa, quem mais tem motivo pra caçar um **Gu de multitarefa**, porque é o único que sempre tem uma quarta ferramenta útil na mão e nenhuma vaga pra ligar ela.
 3. **Cinco dietas incompatíveis.** Metal quer forja e minério, Madeira quer bosque e estação certa, Água quer rio corrente, Fogo quer vulcão e brasa, Terra quer campo de batalha antigo. **Regra de mesa:** se um elemento passa **um mês inteiro** sem que nenhum Gu dele seja alimentado, **todos os Gu daquele elemento hibernam** e só acordam depois de uma cena dedicada de alimentação. Um arco inteiro numa cidade fechada custa Madeira e Terra; um arco no deserto custa Água.
 4. **Nenhum elemento dele é o melhor da mesa.** Num duelo direto de Fogo contra Fogo, ele perde. A build inteira depende de **poder escolher o elemento**, e um inimigo que o prende num matchup espelhado (mesmo elemento, sem bônus de ciclo) o reduz ao pior especialista da sala.
 5. **Ele carrega cinco vezes mais Gu que qualquer ficha da mesa** — cinco vezes mais coisas pra alimentar, pra perder, pra terem roubadas. `(% de abertura ÷ 10) + rank` de vagas, e ele vai viver estourando esse número.

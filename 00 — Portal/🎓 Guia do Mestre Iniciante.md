@@ -481,7 +481,7 @@ Vitalidade     (18 + 3×CON + 4×B) × M   Alma  (16 + 3×VON + 3×B) × M
 Essência       % de aptidão × 4 × 2^(estágio−1)
 Regeneração    % do tanque/hora pelo Grau (D 2 · C 4 · B 6 · A 8) — FORA de combate
 Ativar um Gu   40 (rank próprio) · 10 · 4 · 1 (por rank abaixo)
-Sustentar      (nº de Gu ligados)² × 5 por rodada
+Gu ligados     no máximo 3 ao mesmo tempo (inimigo comum: 2)
 Ferimento      −5% permanente em Vitalidade E Alma máximas
 Morte          d20 puro, 10+ estabiliza. Falhar uma vez deixa sequela
 

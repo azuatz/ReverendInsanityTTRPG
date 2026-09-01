@@ -468,8 +468,10 @@ contra ele** e cobre mecanicamente metade do Buff de Lore dele · sem pegada.
    16 dados se estiverem com um Gu de rank 5 ligado. Com o Gu barato de rank 3 ligado eles rolam 4.
 2. **O Demvi não tem dano fixo.** `4d4` parado e `4d12 + 12` em movimento pelas costas do alvo são
    o mesmo Gu na mesma rodada. Modelá-lo com um dado médio destrói o personagem nos dois sentidos.
-3. **Ninguém sustenta o conjunto completo por mais de 3 a 6 rodadas.** A Manutenção de Sustentação
-   quadrática (`nº² × 5`) é o freio real da mesa e nenhuma simulação anterior a aplicou.
+3. **Ninguém liga o conjunto completo.** O freio real não é preço por rodada — é o **teto de 3 Gu
+   sustentados** (decisão 260). A Manutenção quadrática que este item citava como "o freio real da
+   mesa" foi **removida** (decisão 266): nenhuma das 26 rodadas de simulação a aplicou, e três
+   motores diziam isso na própria docstring.
 
 ---
 

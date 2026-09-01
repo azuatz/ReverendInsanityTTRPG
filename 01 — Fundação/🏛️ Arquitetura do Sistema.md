@@ -74,6 +74,11 @@ Cada rank novo devolve ao começo — com ferramentas de outro patamar. E o dano
 
 **Carregar um Gu não custa essência — custa comida.** Cada Gu come um tipo de coisa do mundo, ou pedras primordiais no lugar. Quantos cabem depende do tamanho da Abertura: `(sua % ÷ 10) + rank`. Gu de rank baixo ficam praticamente de graça de ativar conforme você sobe, então vale carregar os de utilidade pra sempre — mas os de dano, defesa e reforço precisam ser trocados a cada rank, porque o dado deles não cresce sozinho.
 
+> [!important] Gu de Corpo **não ocupam vaga na Abertura**
+> Um Gu de Corpo foi assentado na carne por cirurgia: ele não está guardado na Abertura, **ele é o corpo**. Não conta na `(% ÷ 10) + rank`, não conta nas 3 vagas de sustentação, não come e não pode ser roubado.
+>
+> **Por que de graça nas duas contas:** ele já foi pago três vezes — exige o portão de CON, exige teste de assentamento (falha = 1 Ferimento permanente), e é **irreversível**, com teto de +4 Níveis de Dano para a cadeia inteira. Cobrar vaga por cima seria cobrar de novo pela mesma compra, e é o que fazia o lutador ter o arsenal mais pobre da mesa apesar de ser quem paga mais caro por ele. *(Decisão do autor, 2026-09-01.)*
+
 **Carregar não é o mesmo que manter ativo.** O número acima é quantos Gu cabem na Abertura. Quantos podem estar **ativos ao mesmo tempo** é outra coisa, e é um número pequeno e **fixo**:
 
 ```

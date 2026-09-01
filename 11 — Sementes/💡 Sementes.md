@@ -31,16 +31,18 @@ sobrando —, o que dá identidade mecânica a um Caminho que hoje é sobretudo 
 |---|---|---|---|
 | **2** | Gu da Mente Partida | 3 → **4** | A porta. Um Gu de rank 2 caro **pro que faz**, não pro rank |
 | **4** | Gu das Três Correntes | 3 → **5** | **Substitui** o anterior, não soma com ele — é a mesma cadeia evolutiva, sob a Regra de Linhagem |
-| **6** | *(Imortal)* | 3 → **6** | Só na Fenda. É onde a Manutenção de 180/rodada finalmente encontra alguém que a pague |
+| **6** | *(Imortal)* | 3 → **6** | Só na Fenda. Seis linhas de atenção ao mesmo tempo é coisa de Imortal, não de Mestre de Gu |
 
 **As três travas que fazem a compra ser uma decisão, e não um upgrade óbvio:**
 
 1. **Não ocupa vaga de sustentação** — se ocupasse, o ganho líquido seria zero. Mas **ocupa vaga na
    Abertura** e **come**, como qualquer Gu carregado. É arsenal: pode ser roubado em
    [[⚰️ Espólio|espólio]], pode morrer de fome, pode ser destruído.
-2. **A vaga vem sem a essência pra pagar por ela.** A [[🏛️ Arquitetura do Sistema|Manutenção de
-   Sustentação]] é quadrática: a quarta vaga custa **80/rodada** e a quinta, **125**. Quem compra a
-   escada e não tem tanque compra o direito de ficar sem essência mais rápido.
+2. **A vaga vem sem a essência pra pagar por ela.** Cada Gu ligado cobra o custo por rodada dele, e
+   com a **Densidade paga** (decisão 258) o preço sobe junto com o `B` que o jogador escolher. Quem
+   compra a escada e não tem tanque compra o direito de ficar sem essência mais rápido.
+   *(Esta trava mudou de fundamento: ela citava a Manutenção de Sustentação quadrática, removida
+   pela decisão 266. O freio agora é o custo de ativação, não um imposto por rodada.)*
 3. **Não empilha com a Força de Alma** de forma cumulativa sem teto: o teto final é o **maior** entre o
    que a cadeia dá e o que a alma dá ([[👻 Caminho da Alma]]), nunca a soma. Sem isso, um cultivador de
    Alma com a cadeia completa chegaria a 8 vagas e a decisão 260 voltaria à estaca zero.

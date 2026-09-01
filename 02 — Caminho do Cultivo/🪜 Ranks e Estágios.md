@@ -87,7 +87,7 @@ Vagas de Suporte = Grau de Densidade    (0 · 1 · 2 · 3)
 
 **Só entram nelas Gu de suporte:** movimento, sentidos, informação, comunicação, furtividade, utilidade logística. **Nunca** defesa (RD), amplificação (Níveis de Dano), ataque ou controle — essas continuam disputando as vagas normais, e é o que impede alguém de ligar seis Gu de defesa e virar invulnerável.
 
-**Gu numa Vaga de Suporte não contam na Manutenção de Sustentação quadrática** (`n² × 5`). Pagam só o custo individual deles. É literalmente "sustentar mais sem penalidade mental": a essência densa segura os Gu passivos sozinha.
+**Gu numa Vaga de Suporte não ocupam nenhuma das 3 vagas normais** e pagam só o custo individual deles. É literalmente "sustentar mais sem penalidade mental": a essência densa segura os Gu passivos sozinha, e a atenção do cultivador fica livre para as três coisas que decidem a luta.
 
 > [!important] É por aqui que um cultivador maduro parece poderoso — não pelo teto de 3
 > O teto de sustentação é de **atenção**, e atenção não cresce com o rank: um Venerável liga três Gu de combate, igual a um rank 1. O que muda é tudo em volta — os Gu são de outro patamar, a essência é densa, e o **estágio devolve até três Vagas de Suporte** que o corpo carrega sem pensar. Um rank 5 no Pico anda com voo, sentidos e comunicação ligados **de graça**, e ainda tem as três vagas inteiras livres pra luta. É a diferença entre ter mais mãos e ter mãos melhores.
