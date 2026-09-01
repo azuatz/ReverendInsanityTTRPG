@@ -42,6 +42,7 @@ escopo: processo
 | [[📔 Dicionário do Sistema]] | **Todo termo do sistema numa linha** — o "o que é isso?" de consulta rápida, sem spoiler |
 | [[📄 Folha de Referência]] | **O motor numa página só** — todas as fórmulas fechadas, pra deixar aberto na mesa |
 | [[🎓 Guia do Mestre Iniciante]] | **Para quem nunca mestrou isto e vem de D&D** — tradução D&D→sistema, os 5 procedimentos de mesa, sessão zero, as 3 primeiras sessões, preparar sessão em 30 min, os 8 erros que este sistema pune |
+| [[💰 Guia do Mestre — Ritmo, Tesouro e Evolução]] | Quanto dar por sessão e quão rápido subir — orçamento de pedras por rank, dias de jogo por sessão, sintomas de dose errada |
 
 ## 01 — Fundação
 

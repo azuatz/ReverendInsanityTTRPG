@@ -16,6 +16,7 @@ Para quem **nunca leu Reverend Insanity**, **nunca rodou este sistema**, e quer 
 Esta nota é o assistente de mesa: o que você precisa saber pra rodar, na ordem em que você precisa saber. Se você vai jogar num cenário medieval clássico — castelos, tavernas, masmorras, dragões —, leia isto primeiro e depois vá pra [[🏰 Conversão Medieval]], que traduz os tropos de D&D peça por peça.
 
 > **A regra que economiza sua vida:** você não precisa ler as 7.000 linhas deste vault. Precisa de **três notas** ([[📄 Folha de Referência]], [[⚔️ Combate]], [[⚔️ Ameaças Genéricas por Rank]]) e desta aqui. O resto se consulta quando aparecer na mesa. Termo estranho? [[📔 Dicionário do Sistema]] — uma linha por termo.
+- **[[💰 Guia do Mestre — Ritmo, Tesouro e Evolução]]** — quantas Pedras Primordiais dar por sessão e quão rápido deixar o grupo subir. **Os dois botões: tempo de jogo (de graça) e pedra (compra tempo).**
 
 ---
 
