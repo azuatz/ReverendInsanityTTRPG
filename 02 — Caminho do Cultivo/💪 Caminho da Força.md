@@ -72,6 +72,8 @@ Cada **Descarga** usada na mesma cena cobra, no fim do golpe: **`1 × M` de Vita
 | **3** | **1–2** |
 | **4 ou mais** | **1–3** |
 
+> **O que conta como "outro Gu da mesma fera":** contam **linhagens diferentes** do mesmo animal, não degraus da mesma linhagem. O Gu do Tendão do Crocodilo e o Gu de Força de Crocodilo Maior são dois — tendão e músculo, duas remodelagens separadas do mesmo bicho. Já a Força do Crocodilo (rank 2) e o Crocodilo Maior (rank 3) são **a mesma linhagem** e não convivem no mesmo corpo ([[📖 Catálogo de Gu|Catálogo]]), então nunca contam dois. Subir de rank não enche esta tabela: **colecionar partes diferentes da mesma fera enche**.
+>
 > Quando sai: o golpe ganha **+2 Níveis de Potência** além dos da própria Descarga, mas fica previsível — **−2 no teste de acerto** deste golpe específico. **Não custa essência nenhuma** e não exige Gu de amplificação ativo: a Marca já estava no corpo, ela só apareceu.
 >
 > **Não existe piso de rank.** Um rank 2 no estágio de Pico que empilhou três Gu do mesmo animal tira o fantasma com regularidade; um rank 4 com a força vinda de quatro bichos diferentes não tira nenhum. É a única mecânica do sistema em que **especializar-se dentro do próprio Caminho** tem efeito mecânico direto, e é exatamente assim no romance.
