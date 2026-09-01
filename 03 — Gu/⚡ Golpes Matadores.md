@@ -243,9 +243,9 @@ Quem conhece a Brecha e a explora: o golpe **perde todos os Níveis de Dano do c
 
 ## 🤝 Golpe Matador Coletivo
 
-Vários cultivadores montando um golpe único, cada um contribuindo com os Gu dele. O romance faz isso o tempo todo — combos de três e quatro pessoas são rotina — e **num grupo pequeno isso é a ferramenta mais forte que existe** — com 3 participantes chega a +5 Níveis, com 4 a +6.
+Vários cultivadores montando um golpe único, cada um contribuindo com os Gu dele. **Na prática, isso quer dizer duas pessoas** — três e quatro existem na regra e são raras na mesa, pelo motivo medido que está no aviso mais abaixo.
 
-- **Some os Gu de apoio de todos os participantes.** Com 3 PJs, é realista chegar a **+5 Níveis de Dano** no núcleo — território que nenhum deles alcança sozinho.
+- **Some os Gu de apoio de todos os participantes.** Dois participantes chegam a **+3 Níveis de Dano** no núcleo, três a +5, quatro a +6 — território que nenhum deles alcança sozinho.
 - **Todos gastam a ação — na mesma rodada.** Não são quatro rodadas montando: é **uma rodada**, em que cada participante usa a ação dele naquilo em vez de atacar. Cada um paga o custo de essência da própria parte.
 - **O núcleo é de um só**, e é ele quem rola o dano — **dobrado no sucesso**, como todo Golpe Matador (decisão 244).
 - **A Prerrogativa vem ampliada.** É isto que justifica gastar a ação de quatro pessoas, e não o dano.
@@ -278,18 +278,18 @@ Um Golpe Matador Coletivo declara Prerrogativa como qualquer outro, **mas na ver
 
 Essa é a peça que faz um grupo pequeno parecer maior que a soma das partes — e a razão mecânica pela qual vale a pena o inimigo separar o grupo antes de lutar. Um mestre que entende isso constrói encontros em torno disso.
 
-> [!warning] Golpe de desespero — e o motivo não é o que esta nota dizia
-> O rótulo está certo, mas a justificativa antiga morreu e a nova é mais interessante.
+> [!warning] "Golpe de desespero" descreve as versões grandes — não o de dois
+> O rótulo antigo valia para o Coletivo inteiro, e a medição o separou em dois casos que não se parecem.
 >
-> **O que a nota dizia:** que o Coletivo quase nunca acertava, porque a CD de quatro participantes era 22 e o sucesso ficava em ~15%. **Isso acabou.** A decisão 240 trocou a fórmula, a CD de um coletivo caiu para **9**, e ele agora sai em **80% a 95%** das vezes. Pela conta antiga, o Coletivo teria virado jogada de abertura.
+> **O de dois é ferramenta tática, e boa.** Compra de **+26 a +30 pontos percentuais** de captura na cena que ele existe para resolver, por cerca de meio ponto de sobrevivência cada. Não é jogada de desespero: é o que se faz quando alguém não pode sair dali.
 >
-> **O que a medição mostrou:** ele **acerta e entrega metade**. Custa **quatro ações** — uma de cada participante — e produz de **0,52× a 0,58×** do que esses mesmos quatro fariam atacando normalmente. Descontada a Retaliação, que cai sobre todos, o líquido é **−0,11× no rank 3, +0,07× no 4 e +0,32× no 5**. E ele **perde para o combo solo do mesmo núcleo**: concentrar os apoios num personagem rende mais que espalhar a jogada por quatro.
+> **O de três e o de quatro é que são desespero — e por razões diferentes entre si.** Em dano, o Coletivo entrega de **0,52× a 0,58×** do que os mesmos participantes fariam atacando normalmente, e **perde para o combo solo do mesmo núcleo**: concentrar os apoios num personagem rende mais que espalhar a jogada. O de três ainda é **o mais letal para o próprio grupo** de todas as configurações medidas (+18 a +21pp de aniquilação total). E contra dois Elites, montar com três ou quatro **captura menos que não fazer nada** — as ações gastas atrasam o abate que já ia acontecer e empurram o alvo para o limiar de fuga.
 >
-> **Por isso continua sendo jogada de última rodada, e não de primeira.** Não porque falhe, mas porque quatro ações são caras demais para o que ele devolve — a não ser quando essas quatro ações não teriam feito diferença nenhuma. É exatamente o cenário do desespero: o grupo já ferido, o alvo que não cai de outro jeito, a última rodada em que ainda existe grupo.
+> **A justificativa antiga do rótulo morreu, e vale saber por quê:** a nota dizia que o Coletivo quase nunca acertava, porque a CD de quatro participantes era 22 e o sucesso ficava em ~15%. A decisão 240 derrubou essa CD para **9**, e ele passa em **80% a 95%**. Não é mais "não acerta"; é "acerta, e com muita gente entrega menos do que devolveria atacar".
 >
-> **A fragilidade, que não depende de medição nenhuma:** a Brecha é compartilhada. Neutralizar **um** participante derruba o golpe inteiro e cobra o Retrocesso de todos os quatro. É a razão mecânica de um inimigo esperto separar o grupo antes de lutar.
+> **A fragilidade, que não depende de medição nenhuma:** a Brecha é compartilhada. Neutralizar **um** participante derruba o golpe inteiro e cobra o Retrocesso de todos. É a razão mecânica de um inimigo esperto separar o grupo antes de lutar — e mais uma razão pela qual dois é melhor que quatro: menos gente para o inimigo precisar atingir.
 >
-> *(Ressalva de modelagem: no motor cada personagem tem um só Gu de ataque, então a Retaliação "dos quatro" é mais dura do que seria numa ficha real com arsenal completo. Os números acima são o pior caso.)*
+> *(Ressalva de modelagem: no motor cada personagem tem um só Gu de ataque, então a Retaliação com muitos participantes é mais dura do que seria numa ficha real com arsenal completo. Os números de dano acima são o pior caso.)*
 
 ## 🛡️ Golpes Matadores defensivos
 
