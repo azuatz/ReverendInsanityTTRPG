@@ -61,7 +61,24 @@ Cada **Descarga** usada na mesma cena cobra, no fim do golpe: **`1 × M` de Vita
 > [!info] 👻 Fantasma de Fera — o que separa sorte de garantia *(📕 canônico, cap. 280-281 — o fenômeno natural — e 285-286 — o Gu que o garante)*
 > O romance descreve cultivadores talentosos do Caminho da Força manifestando, de vez em quando, o **fantasma da fera** cuja força o Gu carrega — um lampejo da criatura por cima do golpe, liberando o poder pleno do Gu em vez do poder sempre diluído de um corpo humano. É raro, chega sem aviso, e só num estilo de golpe bem específico — o que também o torna fácil de prever e desviar quando um observador já viu acontecer uma vez.
 >
-> **Mecânica: rank 3+, com um Gu de amplificação da Força ativo.** Sempre que você pagar uma **Descarga** (5 de Ímpeto), role `1d6` à parte. Em **1**, o Fantasma de Fera se manifesta: o golpe ganha **+2 Níveis de Dano** além dos da própria Descarga, mas fica previsível — **−2 no teste de acerto** deste golpe específico. Sem um Gu de amplificação ativo, isso nunca dispara — não há poder emprestado para transbordar. *(Efeito raro por desenho — 1 em 6 sobre um gatilho que já exige 5 de Ímpeto acumulado; impacto esperado pequeno na letalidade média, não medido isoladamente em simulação.)*
+> **O gatilho não é o rank — é a densidade, e o resto é sorte.** O fantasma de fera **é** a sua Marca de Dao de força física, escondida na carne e visível só quando transborda. Ela transborda quando você acumulou muita força **da mesma fera**, e não transborda nunca quando a sua força vem de bichos diferentes: o poder está lá, só não está junto o bastante pra tomar forma.
+>
+> **Mecânica.** Sempre que você pagar uma **Descarga** (5 de Ímpeto), role `1d6` à parte. A chance depende de quantos **Gu de Corpo assentados emprestam a força de uma mesma espécie**:
+
+| Gu de Corpo da mesma fera | O Fantasma sai em |
+|---|---|
+| Nenhuma espécie repetida | **nunca** — a força está dispersa demais |
+| **2** | **1** |
+| **3** | **1–2** |
+| **4 ou mais** | **1–3** |
+
+> Quando sai: o golpe ganha **+2 Níveis de Potência** além dos da própria Descarga, mas fica previsível — **−2 no teste de acerto** deste golpe específico. **Não custa essência nenhuma** e não exige Gu de amplificação ativo: a Marca já estava no corpo, ela só apareceu.
+>
+> **Não existe piso de rank.** Um rank 2 no estágio de Pico que empilhou três Gu do mesmo animal tira o fantasma com regularidade; um rank 4 com a força vinda de quatro bichos diferentes não tira nenhum. É a única mecânica do sistema em que **especializar-se dentro do próprio Caminho** tem efeito mecânico direto, e é exatamente assim no romance.
+>
+> **O contraste que a obra faz questão de marcar:** o [[📖 Catálogo de Gu#Rank 3 — M = 4\|Gu do Empenho Total]] invoca o fantasma **sempre**, sem rolar nada, e ainda por cima o controla. A imagem que o próprio romance usa: as Marcas acumuladas são um pote d'água, e o Gu é um cano de bambu que se abre à vontade. Sem o cano, a água continua lá — e transborda por sorte.
+>
+> *(Regra reescrita pela decisão 219: a versão anterior travava o efeito em "rank 3+ com Gu de amplificação ativo", o que a fonte primária refuta em dois pontos. Impacto na letalidade média não medido isoladamente — a nova versão pode disparar mais em fichas especializadas e menos em fichas dispersas.)*
 >
 > **O [[📖 Catálogo de Gu#Rank 3 — M = 4|Gu do Empenho Total]]** — o Gu quase extinto que Fang Yuan adquire por acaso numa casa de apostas — é a versão **garantida** disto: todo cultivador de Força comum depende da sorte do 1d6, ele não.
 

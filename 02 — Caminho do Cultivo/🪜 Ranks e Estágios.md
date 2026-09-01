@@ -124,7 +124,7 @@ Ao acumular Essência suficiente no Pico, o personagem força a ruptura da próp
 Teste de Ruptura = 1d20 + bônus de Aptidão vs. CD do salto
 ```
 
-| Bônus por grau de Aptidão | D | C | B | A | Dez Físicos Extremos |
+| Bônus por grau de Aptidão | D | C | B | A | Dez Físicos Extremos *(só NPC)* |
 |---|---|---|---|---|---|
 | **Bônus** | +0 | +2 | +4 | +6 | +10 |
 

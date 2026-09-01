@@ -24,7 +24,7 @@ Um número por personagem, começando em **0**, anotado na ficha do mestre. Só 
 | Gatilho | +CAC | Quando conta |
 |---|---|---|
 | **Marcas de Dao acumuladas** | **+5** a cada 10.000 Marcas totais | Automático, somando todos os Caminhos. Ver [[☯️ Marcas de Dao\|Marcas de Dao]] |
-| **[[🌠 Os Dez Físicos Extremos\|Físico Extremo]]** | **+15 de piso permanente** | O sangue de Ren Zu já é uma anomalia. Começa marcado |
+| **[[🌠 Os Dez Físicos Extremos\|Físico Extremo]]** *(só NPC)* | **+15 de piso permanente** | O sangue de Ren Zu já é uma anomalia. Nasce marcado, e nenhuma ficha de jogador entra nesta linha |
 | **Matar alguém 1 rank acima** | **+3** | Por morte |
 | **Matar alguém 2+ ranks acima** | **+8** | Por morte. É a jogada que a obra inteira promete, e ela cobra |
 | **Golpe Matador de rank 5 bem-sucedido contra rank 5+** | **+5** | O portão da [[♾️ A Ascensão Imortal\|Ascensão]] é, por definição, desafiar o céu |
@@ -154,7 +154,7 @@ Tem que existir saída, sempre. Nenhum personagem deve chegar a Alvo do Céu sem
 
 ```
 CAC nunca desce abaixo de:  (Marcas de Dao totais ÷ 20.000, arredondado pra baixo) × 5
-                            + 15 se o personagem tem Físico Extremo
+                            + 15 se for um NPC com Físico Extremo
 ```
 
 Um Grão-Mestre com 60.000 Marcas tem piso 15 — ele nunca volta a ser Ignorado, faça o que fizer. **O que você é não se disfarça**, e isso ecoa a regra "Marcas não escondem" de [[☯️ Marcas de Dao\|Marcas de Dao]]: a partir de certo ponto, a única saída é ficar forte o bastante pra aguentar.

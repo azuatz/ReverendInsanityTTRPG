@@ -11,6 +11,8 @@ escopo: processo
 # 🎯 Simulação de Combate — Resultados
 
 > [!important] Rodada mais recente
+> A **décima quinta rodada** ([[#⛈️ Décima quinta rodada — tribulação, face RD e a mesa sem o Físico (2026-08-31)|2026-08-31]]) constrói o **motor de tribulação** — o subsistema que catorze rodadas de combate nunca tinham modelado — e o usa para três vereditos pedidos pelo autor. **(1) O fork da CD de Calamidade está resolvido:** o vault publicava duas fórmulas incompatíveis, e a de [[🌩️ Calamidades e Provações]] (`14 + 2 × (rank − 6) + faixa`) é a correta — a de [[⛈️ A Vontade do Céu]] conta a faixa duas vezes, é indefinida abaixo de Marcado, não escala com rank e torna Perseguido e Alvo do Céu **insobrevivíveis em todo rank** (97,9-100% de mortalidade por Provação). O motor novo **reproduz a curva da quarta rodada** (2,2/48,3/70,2% → 0,2/49,9/76,2%) escrito do zero. **(2) A escala de escalonamento por excesso de Marcas é brutal e NÃO-MONOTÔNICA:** a banda de +10-25% (que importa a regra de morte da Provação) deixa **2,9%** de sobrevivência em cem anos internos, contra **25,7%** da banda de >+50% que deveria ser a pior. **(3) A face RD do Nível de Potência não entra** — a variante simétrica é um no-op aritmético exato, e a assimétrica estoura o alvo de 7-9 rodadas **sem melhorar a vitória**, quebra a escada da decisão 78 por +0,54 a +0,66 (quatro a cinco vezes o ajuste que a 11ª tinha na direção certa) e infla a vitória do grupo em +14,85pp de média. **(4) O Xie Lang sem o Físico da Lua Antiga NÃO cai para o mais fraco:** ele perde 1,0pp de dominância em PvP e continua vencendo 97,8-99,5% de qualquer duelo — a dominância sempre veio do Caminho da Alma, não do Físico. Três achados 🔴 novos, o maior deles estrutural: **a escada de CD por rank ultrapassa a ficha, e nada na ficha a alcança**.
+>
 > A **décima quarta rodada** ([[#🧭 Décima quarta rodada — a bateria estendida (2026-08-31)|2026-08-31]]) é a **bateria estendida** pedida pelo autor: as cenas solo remedidas com o piso da Horda, o primeiro PJ × PJ do motor atual, e a quarta saída do fork do treino. Quatro achados: **(1)** a Horda de 8 contra um PJ isolado deixou de ser guerra de atrito e virou **execução** (vitória 0-37%, ~5 rodadas — 10 de 12 células ≤ 1%), e o alvo de 7-9 rodadas solo é **inatingível** com qualquer variante medida (proporcional 2-3, `VIT × n/4`): solo, duração e piso pedem coisas opostas; **(2)** o Rei de Cem solo caiu de "melhor caso 8,4%" pra **0,0-0,1%** — a sentença que o design promete, agora absoluta; **(3)** no PvP a degeneração de 1-2 rodadas que o F&M teme não é a norma, mas **Xie Lang vence 84-99,5% de qualquer duelo** (80-100% das vitórias por queda de Alma) e o Lee segue no fundo, como na era Perl; **(4)** o **híbrido do treino** (mortal sem treino + escada só nos moldes de rank 6+) recupera os ranks 7-9 como a saída (c) **com 0,00pp de custo na fase mortal** — mas superaquece o rank 6 (ΔB 0: 51,8% → 4,4%). Nenhuma regra mudou; tudo devolvido ao autor com número.
 >
 > A **décima terceira rodada** ([[#✅ Décima terceira rodada — validação final conjunta (2026-08-31)|2026-08-31]]) é a **validação final conjunta** do lote de decisões 146-210 — o mesmo papel que a sexta rodada teve para as 103-133. Primeiro corrige o motor, que ainda modelava **Alma zerada como morte permanente** enquanto a decisão 205 já mandava tratá-la como inconsciência (Colapso Espiritual): medido com a mesma semente nos dois modelos, o efeito é **0,00pp na vitória em 25 de 25 células** e **+0,003 sobrevivente de 4** — a decisão 206 (Alma rara) tornou o Colapso raro, e ele é relógio de campanha, não alavanca de combate. Depois confere cada número publicado: **19 das 20 células da tabela de composição batem dentro de 3pp**, o **"~99%" do Rei de Cem Feras e o "0%" do Rei de Mil sobrevivem** ao piso da Horda, e a coluna de Vitalidade da Varredura não drifou. **Oito números foram corrigidos**, dois deles graves: a **tabela de ações do Chefe** contradizia a tabela de composição da própria nota (57% contra 3% para a mesma cena de rank 1), e a **régua ΔB imortal** só é dial de verdade no **rank 6** — nos ranks 7-9 nem um inimigo três níveis acima ameaça (98% de vitória do grupo no rank 9). E ao medir a decisão 211 (bônus de treino escalado, aplicada às regras durante esta rodada) apareceu o achado que ninguém procurava: **o motor nunca modelou o bônus de treino que [[💪 Atributos]] põe na fórmula de acerto de Gu** — ligar isso move a tabela +12,6pp em média, dos quais só +2,7 são da decisão 211 e +9,9 são uma lacuna antiga. **Nada foi republicado por causa disso**: é fork de design, devolvido ao autor com três saídas medidas, e a nota ganhou um aviso 🔴.
@@ -1221,6 +1223,309 @@ Três leituras:
 - **Híbrido do treino**: a quarta saída do fork, medida — recupera os ranks 7-9 como a (c) com custo zero na fase mortal, mas superaquece o rank 6. No item 🔴.
 
 Anotações feitas: a seção da nona rodada ganhou o aviso de "números pré-piso" apontando pra cá, e [[⚔️ Ameaças Genéricas por Rank]] ganhou o número medido do solo-com-piso no parágrafo do piso da Horda. **Nenhuma regra mudou nesta rodada.**
+
+---
+
+## ⛈️ Décima quinta rodada — tribulação, face RD e a mesa sem o Físico *(2026-08-31)*
+
+Script: [[simulacoes/2026-08-31-decima-quinta-tribulacao-e-potencia.py]] (cópia do motor da décima quarta + o **motor de tribulação**, que nunca tinha existido em código versionado). Semente 20260830, 3.000 iterações por célula, **20.000 carreiras** na bateria de reprodução, mix de Alma "C", `treino = 0` nos dois lados (decisão 215).
+
+---
+
+### 🌩️ O desenho de resolução da tribulação — declarado por extenso
+
+Quatorze rodadas modelaram combate; nenhuma modelou uma Calamidade. Este é o desenho adotado, montado **só com regras já publicadas** — nada foi inventado. A sessão que escreve a regra tem que conseguir reescrever isto idêntico a partir daqui.
+
+**1. O que é uma "rodada" de tribulação.** É **uma etapa**. Não existe iniciativa, alcance, ação nem turno: a Calamidade é uma sequência de testes anunciada, e a unidade de resolução é a etapa. Uma **Calamidade Terrestre são 3 rodadas** (etapas 1 · 3 · 5); uma **Provação Celestial e tudo acima são 5** (1 · 2 · 3 · 4 · 5). **Nunca se para no meio** — todas as etapas são roladas, mesmo depois de duas falhas.
+
+**2. Como se rola uma etapa.**
+
+```
+Etapa = d20 + atributo  vs  CD da etapa
+   1 — O Aviso      CON
+   2 — A Lacuna     VON
+   3 — A Fraqueza   o atributo MAIS BAIXO da ficha
+   4 — A Brecha     AST
+   5 — O Veredito   VON + nível de domínio no Caminho principal
+```
+
+**Sem bônus de treino** — a decisão 215 fechou que o treino vale só em teste de perícia, e uma etapa é teste de atributo puro. **Sem bônus de rank**: o vault não põe rank em teste de atributo, só em acerto e Defesa.
+
+**3. Como a CD se compõe.** Ver o veredito do fork logo abaixo; a fórmula medida como correta é a de [[🌩️ Calamidades e Provações]]:
+
+```
+CD de cada etapa = 14 + 2 × (rank − 6)
+                   + bônus da faixa do Contador (0/+1/+2/+3/+5)
+                   + 2 se Provação Celestial ou acima
+                   + escalonamento por excesso de Marcas (se houver)
+                   − 3 se Gu de Estabilização (sequência inteira)
+                   − 2 se terra Inabalável (só Calamidade Terrestre)
+                   − 2 por presságio respondido (uma etapa cada)
+```
+
+A **vantagem do Imortal aliado** entra como vantagem em uma etapa. O jogo ótimo modelado gasta presságios e vantagem nas **etapas mais difíceis** (maior `CD − modificador`) — declarado, porque a mesa real pode gastar pior.
+
+**4. As Fichas de Azar.** O mestre recebe `faixa` Fichas ([[⛈️ A Vontade do Céu]]) e o motor as gasta contra a sequência, **no máximo uma por etapa**, sempre contra um **sucesso**: se a margem foi ≤ 2, converte em falha (a opção garantida); senão, rerrola o d20 e fica com o pior. Só as duas opções que a nota autoriza.
+
+**5. Um 1 natural conta como duas falhas.** Modelado como `sucessos efetivos = sucessos − (nº de 1 naturais)`, com piso em 0 — a leitura que fecha com a provação da [[♾️ A Ascensão Imortal|Ascensão]]. **Numa Terrestre, um único 1 natural é falha automática**, porque 3 etapas não comportam a correção.
+
+**6. O que uma etapa falhada custa.** `M d6` no trilho que a Calamidade atacou (Vitalidade ou Alma — a mesa anuncia antes), **por etapa falhada**, e **uma rolagem `1d6` na tabela de dano colateral** de [[🌾 Ecologia e Economia da Terra Abençoada]] — esta segunda acontece *mesmo quando o personagem passa a Calamidade inteira*. Terra Inabalável ignora a primeira rolagem; terra Frágil rola uma a mais.
+
+**7. Dano à Fenda Imortal.** `+1 nível de Ferimento da Terra` por **Calamidade falhada** (não por etapa), pela tabela de [[🗝️ Terra Abençoada]]; nível 4 sem reparo em um ano custa a Abertura, o rank e a vida. Em faixa Alvo do Céu, duas Calamidades falhadas seguidas levam direto ao nível 2. Na banda de excesso de +25 a +50% o escalonamento proposto adiciona **um Ferimento da Terra por etapa falhada** — é a única fonte que escala por etapa em vez de por evento.
+
+**8. Gasto de Essência Imortal.** `50 UV + 3 meses internos por nível` de Ferimento da Terra reparado, **sem pular níveis**. O tanque contra o qual isso se lê é o **da terra**, não o da ficha: 200/400/600/800/1.200 UV no rank 6 por qualidade, dobrando a cada rank. O modelo repara **1 nível por década interna** (a correção que a quarta rodada já tinha feito).
+
+**9. As simplificações — todas declaradas.**
+
+| Simplificação | Por quê |
+|---|---|
+| **Atributos não crescem com o rank** | Porque o sistema não os faz crescer: 12 pontos na criação e ponto final. Isso tem consequência medida — ver o achado 🔴 abaixo |
+| A faixa do Contador vem **só do gatilho de Marcas** (`+5 a cada 10.000`) nos cenários do autor | É o único gatilho que a ficha do cenário determina. Os outros dez são história de campanha; o fork completo por faixa está na bateria T3 |
+| Presságios/Gu/terra/aliado entram como **dial**, não como sorteio | A nota trata os três presságios como obrigatórios e as reduções como o caso normal — o dial deixa o autor ler qualquer nível de preparação |
+| A Calamidade "sob medida" (os 3 passos) não é modelada como conteúdo | Ela muda **a ficção da etapa**, não o número dela. O que ela move — a CD por faixa — está no fork T3 |
+| Vitalidade/Alma zeradas pelo dano `M d6` são **contabilizadas mas não resolvidas** | A regra **não diz** o que acontece se a Calamidade zerar o trilho. Fica reportado como lacuna, não preenchido |
+| Marcas do evento sorteadas uniformemente na faixa publicada | 200-500 · 1.000-2.000 · 6.000-8.500, dobro para Físico Extremo |
+
+---
+
+### ✅ T1 — a reprodução da quarta rodada, e um `+5` que não existe em regra nenhuma
+
+20.000 carreiras por célula, método transcrito da [[#🔧 Método desta rodada|quarta rodada]] (Calamidade Terrestre a cada 10 anos internos, Provação a cada 100, do rank 6 até 10.000 Marcas). Ficha genérica de 12 pontos (`FOR+1 · CON+3 · DES+2 · AST+2 · VON+3 · CAR+1`).
+
+| Perfil | Preparação | Vivo no rank 7 | Quarta rodada | Δ | Anos internos | UV de reparo |
+|---|---|---|---|---|---|---|
+| **Imortal comum** | despreparado | **0,2%** | 2,2% | −2,0pp | 397 | 527 |
+| **Imortal comum** | típico | **49,9%** | 48,3% | **+1,6pp** | 340 | 413 |
+| **Imortal comum** | bem preparado | **76,2%** | 70,2% | +6,0pp | 260 | 152 |
+| Físico *(+5 de CD, como a 4ª)* | despreparado | 0,0% | 0,0% | +0,0 | — | 448 |
+| Físico *(+5 de CD, como a 4ª)* | típico | **0,0%** | 4,2% | −4,2pp | — | 455 |
+| Físico *(+5 de CD, como a 4ª)* | bem preparado | **1,1%** | 20,2% | **−19,1pp** | 245 | 374 |
+| **Físico *(regra escrita: só o piso de CAC 15)*** | despreparado | 0,0% | — | — | 250 | 488 |
+| **Físico *(regra escrita)*** | típico | **25,1%** | — | — | 228 | 459 |
+| **Físico *(regra escrita)*** | bem preparado | **63,8%** | — | — | **161** | 192 |
+
+**A curva do Imortal comum reproduz.** As três células caem a −2,0 / +1,6 / +6,0pp do publicado em 2026-08-28, com o motor reescrito do zero e sem acesso ao código antigo. O pilar "a preparação **é** o sistema" continua de pé, medido duas vezes por caminhos independentes.
+
+> [!warning] 🔴 Achado — o "+5 se Físico Extremo" do método da quarta rodada não existe em regra nenhuma
+> Nenhuma nota do vault dá +5 de CD a um portador de Físico Extremo. O que [[⛈️ A Vontade do Céu]] dá é um **piso de +15 no Contador de Ameaça**, que o coloca em **Notado — +1 de CD**, não +5. Medido pela regra como está escrita, o Físico bem preparado atravessa o rank 6 em **63,8%** (contra os 20,2% publicados) e em **161 anos internos** contra os 260 do Imortal comum. Isso muda a leitura do achado 2 da quarta rodada: o Físico não é "três vezes e meia mais mortal e um quarto mais rápido" — pela regra escrita ele é **ligeiramente mais mortal (−12,4pp) e 38% mais rápido**, que é uma troca muito mais parecida com o que a nota do físico promete. O `+5` é o número que a [[🎲 A Mesa — Personagens dos Jogadores|nota da Mesa]] repete ("uma Calamidade a cada ~3 meses com +5 de CD"), e ele só se justifica se o personagem estiver em **Alvo do Céu** — o que é destino provável de um Físico, mas não é o piso dele. **Não corrigido nesta rodada** (é território da sessão paralela): reportado ao autor.
+
+---
+
+### 🔴 T3 — O FORK DA CD: duas fórmulas incompatíveis, e o veredito
+
+O vault publica duas contas diferentes para a mesma coisa:
+
+| | Fórmula | Rank 6 Perseguido | Rank 8 Ignorado |
+|---|---|---|---|
+| **A** — [[🌩️ Calamidades e Provações]] l.49 | `14 + 2 × (rank − 6) + faixa (+2 se Provação)` | **17** | **18** |
+| **B** — [[⛈️ A Vontade do Céu]] l.109 | base `14/18/22` pela faixa, **"mais os bônus da tabela de faixas"** | **21** | **14** |
+| **C** — leitura escopada de B (só a etapa 3, o "Passo 2" da Tribulação sob medida) | mista | 18,3 (média) | 16,7 |
+
+**Mortalidade por Provação Celestial (bem preparado, 3.000 iterações/célula) — 0-1 sucessos é morte sem Teste de Morte:**
+
+| Rank | Faixa | **A** *(rank)* | **B** *(faixa)* | C *(escopada)* |
+|---|---|---|---|---|
+| 6 | Ignorado | **11,3%** | 11,3% | 11,3% |
+| 6 | Marcado | **60,0%** | 60,0% | 60,0% |
+| 6 | Perseguido | **82,4%** | **99,2%** | 88,4% |
+| 6 | Alvo do Céu | 95,5% | **100,0%** | 97,3% |
+| 7 | Ignorado | **18,7%** | 11,6% | 19,8% |
+| 8 | Ignorado | **31,1%** | 10,7% | 25,7% |
+| 8 | Marcado | 90,8% | **57,0%** | 84,4% |
+| 9 | Ignorado | **44,2%** | 9,8% | 33,9% |
+| 9 | Notado | 81,8% | **24,9%** | 69,1% |
+
+> [!important] ✅ **Veredito: a fórmula correta é a A — `14 + 2 × (rank − 6) + faixa (+2 se Provação)`.** A linha de [[⛈️ A Vontade do Céu]] deve deixar de enunciar CD própria.
+> Cinco razões, todas medidas ou estruturais:
+> 1. **B conta a faixa duas vezes.** O próprio texto de B diz "mais os bônus de CD da tabela de faixas" *sobre* uma base que já é a faixa. A [[☯️ Marcas de Dao]] é explícita de que **os bônus de CD vêm só da tabela de faixas** — B viola isso.
+> 2. **B é indefinida abaixo de Marcado.** Não existe base para Ignorado nem para Notado, que são as duas faixas onde a maioria da mesa vive. (A medição acima usou 14 como leitura caridosa.)
+> 3. **B não escala com rank.** Um Venerável Ignorado enfrenta a mesma CD 14 de um rank 6 Ignorado — 9,8% de mortalidade por Provação no rank 9 contra 44,2% pela A. Isso apaga o eixo de progressão inteiro do sistema.
+> 4. **B torna Perseguido e Alvo do Céu matematicamente insobrevivíveis em TODO rank** (97,9-100% de mortalidade por Provação). Isso contradiz frontalmente a regra de mestre da própria nota: *"a saída tem que estar aberta"* e *"um CAC alto é uma conquista, e trate como tal"*.
+> 5. **A é a fórmula que reproduz a curva publicada** — a bateria T1 acima bate os 2,2/48,3/70,2% da quarta rodada usando A.
+>
+> **Recomendação de texto:** a seção "Passo 2" de [[⛈️ A Vontade do Céu]] deve dizer *"CD conforme a fórmula de [[🌩️ Calamidades e Provações]]"* e parar aí. Os números 14/18/22 podem sobreviver como **descrição de sensação** ("no Marcado a etapa central pesa como uma CD 14; no Alvo do Céu, como 22"), nunca como conta.
+
+> [!warning] 🔴 Achado estrutural — a escada de CD ultrapassa a ficha, e nada na ficha a alcança
+> Pela fórmula A, cada rank soma **+2 de CD em todas as etapas** (10 pontos de dificuldade numa Provação de 5 etapas). Do lado do personagem, **só uma etapa das cinco cresce** — a 5, que soma o nível de domínio, e ela ganha **+1** por patamar de Marca. Atributos não crescem: [[💪 Atributos]] dá 12 pontos na criação e nenhuma regra do vault os aumenta depois. O resultado, medido: um Imortal **bem preparado e Ignorado** morre em **11,3%** das Provações no rank 6, **31,1%** no rank 8 e **44,2%** no rank 9 — a mesma preparação, a mesma ficha, o triplo do risco. Nos ranks 8-9 a Provação Celestial é a rotina do patamar, não a exceção. **Isto não é um número para corrigir nesta rodada** — é uma pergunta de design para o autor: ou os atributos ganham progressão imortal, ou a escada de CD para de subir com o rank, ou as reduções de preparação escalam. Registrado em "Em aberto".
+
+---
+
+### 📊 T2 — Os três cenários pedidos, com a conta da Fenda e do UV
+
+Preparação **típica** (`−3` de Gu de Estabilização + 2 presságios respondidos), fórmula A, terra Comum, faixa vinda só do gatilho de Marcas. Por evento:
+
+| Cenário | Faixa | Etapas | CD | Sucesso | **Morte** | Marcas | Dano no trilho | Ferimento PJ | **Ferimento da Terra** | **UV** |
+|---|---|---|---|---|---|---|---|---|---|---|
+| **1 · r6 inicial, 1.000 Marcas** *(Terrestre)* | Ignorado | 3 | **14** | **71,1%** | 0,0% | 206 | 10,2% do pool | 0,29 | **0,29** | **14,4** |
+| **2 · r6 estendido, 12.000 Marcas (+20%)** | Ignorado | **5** | **18** | **41,3%** | **30,2%** | 421 | 26,1% | 0,59 | **0,59** | **29,4** |
+| **3a · r7 inicial, 10.000 Marcas** *(Terrestre)* | Ignorado | 3 | **16** | **62,0%** | 0,0% | 174 | 11,3% | 0,38 | **0,38** | **19,0** |
+| **3b · r7 estendido, 120.000 Marcas (+20%)** | **Perseguido** | **5** | **23** | **0,0%** | **99,4%** | 0 | 43,7% | 1,00 | **1,00** | **50,0** |
+
+*Números da ficha genérica; os quatro PJs da mesa ficam dentro de ±8pp e aparecem célula a célula na saída do script. A dispersão entre eles é governada pelo **atributo mais baixo** (etapa 3): Demvi e Xie Lang têm `FOR −1` e pagam 4-8pp por isso.*
+
+**O ciclo de 100 anos internos** (10 Terrestres + 1 Provação Celestial — a década real do calendário imortal), que é onde "dano à Fenda" e "gasto de UV" viram grandezas legíveis:
+
+| Cenário | Preparação | **Vivo ao fim** | Marcas | Fer. da Terra ao fim / pico | **UV** | **% do tanque da terra** | Meses de reclusão |
+|---|---|---|---|---|---|---|---|
+| **1 · r6 inicial** | despreparado | 54,5% | 1.400 | 0,89 / 1,44 | **272** | **68,0%** | 16,3 |
+| **1 · r6 inicial** | típico | **80,2%** | 2.636 | 0,33 / 1,11 | **149** | **37,3%** | 8,9 |
+| **1 · r6 inicial** | bem preparado | **88,8%** | 3.664 | 0,14 / 0,82 | 64 | 15,9% | 3,8 |
+| **2 · r6 estendido** | típico | **1,9%** | 1.421 | 0,99 / 1,01 | 48 | 12,0% | 2,9 |
+| **3a · r7 inicial** | típico | **70,4%** | 2.125 | 0,52 / 1,22 | 196 | 24,6% | 11,8 |
+| **3b · r7 estendido** | bem preparado | **0,0%** | 2 | 1,00 / 1,00 | 1 | 0,1% | 0,0 |
+
+**A leitura de mesa dos três números que o autor pediu:**
+
+- **Dano à Fenda.** No cenário padrão a Fenda oscila entre **Íntegra e Rachada** e volta ao normal — o pico médio é 1,1 nível e o reparo de uma década segura. **Ela nunca chega a Ferida** com preparação típica. É pressão de manutenção, não espiral: a espiral só começa quando o personagem **para de reparar**, e é isso que a nota de Calamidades já promete.
+- **Gasto de Essência Imortal.** **149 UV por século interno** com preparação típica no rank 6 — **37% do tanque de uma terra Comum**, e ~1,5 ano de renda de uma camada 3 Comum (200 PEI/ano). Despreparado sobe a **272 UV (68% do tanque)**, que é o ponto em que a manutenção compete com o investimento. **O reparo é caro em atenção e barato em pedra**: os 9 a 16 meses internos de reclusão pesam mais que o UV.
+- **Ferimentos no personagem.** 3,3 por século típico, 6,3 despreparado — de um teto de 20 (−100% de Vitalidade). É o relógio que mata o Imortal negligente **antes** de qualquer Provação.
+
+---
+
+### 🔴 T4 — A escala de escalonamento por excesso: **brutal, e fora de ordem**
+
+Rank 6, preparação típica. Excesso medido sobre a banda de 10.000 Marcas.
+
+| Banda proposta | Etapas | CD | Sucesso | **Morte/evento** | **Vivo em 100 anos** | Fer. da Terra/100a | UV/100a |
+|---|---|---|---|---|---|---|---|
+| **no teto (0%)** | 3 | 14,0 | 72,6% | 0,0% | **100,0%** | 0,00 | 135 |
+| **≤ +10% → +1 CD** | 3 | 15,0 | 68,3% | 0,0% | **100,0%** | 0,00 | 163 |
+| **+10 a +25% → +2 CD e categoria acima** | **5** | 18,0 | 41,3% | **30,2%** | **2,9%** | 0,97 | 47 |
+| **+25 a +50% → +4 CD e Ferimento auto por falha** | 3 | 18,0 | 49,3% | 0,0% | **1,7%** | **4,66** | 117 |
+| **> +50% → +6 CD e cadência dobrada** | 3 | 20,0 | 34,4% | 0,0% | **25,7%** | 3,29 | 305 |
+
+> [!important] ✅ **Veredito pedido: a escala é BRUTAL — e, pior que brutal, é NÃO-MONOTÔNICA.**
+> **(a) O primeiro degrau é decorativo.** `≤ +10% = +1 CD` custa 4,3pp de sucesso e **zero** de mortalidade e de dano à Fenda. Frouxo, mas inofensivo.
+> **(b) O segundo degrau é um precipício, e a culpa não é do `+2 CD` — é do "categoria acima".** Subir de categoria não soma dificuldade: **importa uma regra de morte que a Calamidade Terrestre não tem** (0-1 sucessos numa sequência de 5 = morte sem Teste de Morte). O evento sai de **0% de mortalidade** para **30,2%**, e um século interno sai de 100% de sobrevivência para **2,9%**. Vinte por cento acima do teto compra uma chance em trinta e quatro de estar vivo em cem anos.
+> **(c) O terceiro degrau mata por outra porta, com a mesma força.** `+4 CD` sozinho seria caro-mas-jogável; o **Ferimento da Terra automático por etapa falhada** produz **4,66 níveis por século** contra um reparo de 1 nível por década — a Fenda colapsa (nível 4) e leva a Abertura junto. Sobrevivência **1,7%**, sem uma única morte por Provação.
+> **(d) O quarto degrau, o que deveria ser o pior, é o mais brando dos três últimos.** `+6 CD` e cadência dobrada deixam **25,7%** de sobrevivência — **nove vezes mais** que a banda de +20% e **quinze vezes mais** que a de +40%. A ordem dos degraus está invertida na prática.
+>
+> **Duas observações que agravam o veredito, e que a sessão paralela precisa pesar:**
+> 1. **Marcas em excesso não deveriam existir por acúmulo.** [[☯️ Marcas de Dao]] diz que no teto *"o excesso simplesmente não gruda"*. A única forma de chegar a 12.000 no rank 6 é **Retrocesso de Marca** — que **já cobra 1 Ferimento permanente por 1.000 Marcas forçadas** (20 Ferimentos para as 2.000 do cenário, ou seja, morte). O escalonamento é, hoje, uma **terceira** punição empilhada sobre duas que já existem.
+> 2. **A escala não tem teto de rank.** Aplicada ao rank 7 com +20% (cenário 3b), a combinação `Perseguido + categoria acima + 5 etapas` dá **CD 23** e **99,4% de mortalidade por evento**. Não é uma penalidade dura; é a ausência de resultado.
+>
+> **Se o autor quiser mantê-la**, o desenho mínimo que a medição sustenta: mover o **"categoria acima"** para a banda de topo (onde a morte cabe), pôr um **teto de 1 Ferimento da Terra por evento** na banda de +25-50%, e deixar as bandas baixas como estão. Isso restaura a monotonia. **Nada disso foi aplicado — é medição, e a decisão é do autor.**
+
+---
+
+### 🛡️ R5 — A face RD do "Nível de Potência": as três variantes falham
+
+> **A decisão 220 já recusou a face RD por derivação, enquanto esta bateria rodava.** Esta seção é a **confirmação empírica** dela: a derivação que a decisão registra está reproduzida abaixo, e o que ela não tinha — o tamanho da inflação assimétrica em cena — está medido. Nenhum número contraria a decisão; todos a apertam.
+
+**Antes de qualquer cena: a variante (ii) sai por aritmética.** Um Nível vale **+1 na média por dado** (d6→d8→d10→d12 sobe a média de 3,5 a 6,5; em d12 o Nível excedente é literalmente +1 por dado). A RD é `base × M`, ou seja **+1 de RD base é −1 por dado atacante**. Com os dois lados escalando igual:
+
+| Níveis | Dano/dado | RD/dado (i) | **Líquido (i)** | RD/dado (ii) | Líquido (ii) |
+|---|---|---|---|---|---|
+| 0 | 4,5 | 0 | **4,5** | 0 | 4,5 |
+| 2 | 6,5 | 2 | **4,5** | 1 | 5,5 |
+| 5 | 9,5 | 5 | **4,5** | 2 | 7,5 |
+
+**A (i) simétrica é um no-op exato** — o líquido nunca sai de 4,5/dado, e a regra seria overhead de mesa sem efeito nenhum. **A (ii) é o mesmo no-op em degraus**, sempre atrás do dano e nunca acompanhando-o. Nenhuma das duas precisa de cena para ser descartada.
+
+**O que restou medir é a assimetria.** Como os moldes de inimigo **não** recebem a face (cláusula anti-dupla-contagem: a RD impressa deles já embute o patamar de domínio), a (i) deixa de ser neutra e vira **inflação pura** do lado do PJ. `N` = os Níveis que o motor já calcula (`pc["B"]`, Densidade da Essência): **rank 1 → 0 · rank 3 → 2 · rank 5 → 3**.
+
+**(a) Duração da cena solo — 1 PJ com o Gu de defesa contra a Horda de 8, alvo de 7-9 rodadas:**
+
+| Variante | Rodadas | No alvo (7-9) | **Acima de 9** | Vitória |
+|---|---|---|---|---|
+| **(iii)** — regra de hoje | 4,3 – 5,5 *(média **4,78**)* | 0/12 | **0/12** | 0,0 – 37,4% |
+| **(i)** assimétrica | 4,3 – **10,4** *(média **7,27**)* | 4/12 | **4/12** | 0,0 – 37,4% |
+
+**Resposta a (a): sim, estoura.** A (i) empurra a média de 4,78 para 7,27 rodadas e **passa de 9 em 4 das 12 células** (rank 5 inteiro, com pico de 10,4). E o mais importante: **a faixa de vitória não se move um ponto** — 0,0-37,4% nas duas. A face RD não torna a cena solo ganhável, só a torna longa. É exatamente o pior resultado possível para uma alavanca de duração: o jogador passa mais rodadas perdendo.
+
+**(b) A escada de letalidade da decisão 78 — `d6≈5 · d8≈4 · d10≈3,3 · d12≈2,8`, razão-alvo d6/d12 = 1,79:**
+
+| Alvo | d6 | d8 | d10 | d12 | **d6/d12** | Δ vs 1,79 |
+|---|---|---|---|---|---|---|
+| rank 1 *(N=0)*, RD 1 — **âncora da 11ª (2,09)** | 6,78 | 4,99 | 3,92 | 3,21 | **2,11** | +0,32 |
+| rank 3 *(N=2)* sob **(iii)** — RD 4 | 5,79 | 4,74 | 4,01 | 3,46 | **1,67** | **−0,11** |
+| rank 3 *(N=2)* sob **(i)** — RD **12** | 10,39 | 7,44 | 5,79 | 4,71 | **2,21** | **+0,42** |
+| rank 5 *(N=3)* sob **(iii)** — RD 16 | 5,46 | 4,62 | 4,00 | 3,53 | **1,55** | −0,24 |
+| rank 5 *(N=3)* sob **(i)** — RD **64** | 12,03 | 8,57 | 6,67 | 5,45 | **2,21** | **+0,42** |
+
+**Resposta a (b): a escada NÃO sobrevive, e o tamanho do estrago está quantificado.** O contexto da décima primeira rodada estava certo: `RD × 0,5` melhorava a fidelidade (2,09 → 1,97) porque **menos RD aproxima a razão do alvo**. Subir a RD faz o oposto, e por mais do que a 11ª tinha para descer: a razão vai de **1,67 → 2,21 no rank 3 (+0,54)** e de **1,55 → 2,21 no rank 5 (+0,66)**. Comparando com o eixo da 11ª, `RD × 0,5` movia a razão **−0,12**; a face RD (i) a move **+0,54 a +0,66** — de **quatro a cinco vezes o tamanho do ajuste**, na direção errada. O d6 passa a precisar de **12 acertos** onde a decisão 78 promete 5.
+
+Varredura direta por `N` (rank 3, `M = 4`), para a sessão paralela ler qualquer valor:
+
+| N | RD sob (i) | d6/d12 (i) | RD sob (ii) | d6/d12 (ii) |
+|---|---|---|---|---|
+| 0 | 4 | 1,67 | 4 | 1,67 |
+| 1 | 8 | 1,86 | 4 | 1,67 |
+| 2 | 12 | **2,19** | 8 | 1,86 |
+| 3 | 16 | **2,74** | 8 | 1,86 |
+| 4 | 20 | **3,09** | 12 | 2,19 |
+| 5 | 24 | 2,65 *(o piso `M` começa a mascarar)* | 12 | 2,19 |
+
+**(c) A bateria de grupo — ranks 1/3/5, as cinco composições publicadas:**
+
+| Variante | Δ vitória média | Δ máx | Δ rodadas |
+|---|---|---|---|
+| **(iii)** controle | — | — | — |
+| **(i)** assimétrica | **+14,85pp** | **+61,5pp** | −0,44r |
+
+A deriva de composição é total. Sob (i), nos ranks 3 e 5 **todas as cinco composições passam de 96%**, Clímax incluído (rank 3: Difícil 44,7% → **96,5%**, Clímax 87,7% → **99,6%**; rank 5: Padrão pesado 75,9% → **100,0%**). O dial de dificuldade deixa de existir acima do rank 1 — e o rank 1 só sobrevive porque `N = 0` lá.
+
+**Quanto a RD do PJ morde — o número que nenhuma rodada tinha medido:**
+
+| Variante | Rank | RD | Acertos de inimigo na Vitalidade | No piso `M` | **Dano absorvido** |
+|---|---|---|---|---|---|
+| (iii) | 1 | 1 | 260.595 | 22,9% | 17,7% |
+| (iii) | 3 | 4 | 248.569 | 0,0% | 14,6% |
+| (iii) | 5 | 16 | 219.507 | 0,0% | **12,6%** |
+| **(i)** | 3 | **12** | 236.621 | 2,1% | **43,8%** |
+| **(i)** | 5 | **64** | 204.382 | 0,0% | **50,5%** |
+
+> **Cobertura do Gu de defesa: 100% das rodadas, por construção.** A RD do PJ é campo permanente da ficha no motor (`rd = base × M`) e **nunca foi modelada como sustentado que liga e desliga** — nenhuma das quinze rodadas modelou um PJ sem Gu defensivo. Todo número acima é, portanto, o **teto** da inflação. Uma mesa em que o Gu defensivo fica ativo metade do tempo veria metade da deriva — o que ainda é **+7pp de vitória média** e a escada da decisão 78 quebrada nas rodadas em que ele estiver ligado.
+
+> [!important] ⛔ **Veredito: as três variantes falham os guarda-corpos. A face RD não entra — decisão negativa.**
+> **(i) simétrica** — no-op aritmético exato: overhead de mesa por zero efeito.
+> **(ii)** — o mesmo no-op em degraus, descartada por derivação.
+> **(i) assimétrica** *(a que a spec realmente propõe)* — estoura o alvo de 7-9 rodadas em 4 de 12 células **sem melhorar a vitória**, quebra a escada da decisão 78 por +0,54 a +0,66 (quatro a cinco vezes o ajuste que a 11ª tinha na direção certa), e apaga o dial de dificuldade (+14,85pp de média, +61,5pp de máximo).
+> **A medição confirma o raciocínio do autor**, que já não queria RD nova por sobrecarga de mesa: a face RD é a única das três faces que **cobra atenção em toda rodada** e, medida, ou não faz nada ou faz demais. **O Nível de Potência entra com duas faces (DANO e o par CD/duração), não com três.**
+
+---
+
+### 🌙 X6 — Xie Lang sem o Físico da Lua Antiga: **ele não cai; ele continua no topo**
+
+**O que muda no motor, item a item.** Das cinco coisas que o Físico dava, **quatro nunca foram efeito de combate**: regeneração violenta, Marcas em dobro na Ascensão, terra Especial garantida e Pressão da Abertura são relógio de campanha, e nenhuma das quinze rodadas as modelou. A quinta — **+1/+2 Níveis de Dano em Lua e Alma** — é efeito de combate real, e **o motor das catorze rodadas anteriores também nunca a modelou** (`nivel_bonus = 0` para todos). Esta rodada corrigiu isso e mediu as três configurações:
+
+| Configuração | Níveis do Físico | `ess_mod` |
+|---|---|---|
+| **ficha atual** *(o que a [[🎲 A Mesa — Personagens dos Jogadores|nota da Mesa]] publica)* | +1 *(Abertura Latente)* | 1,25 *(+25% de Caminho duplo)* |
+| **motor 1ª–14ª** *(a lacuna histórica)* | 0 | 1,25 |
+| **NOVO — sem Físico** | 0 | **1,00** *(Ressonância da Montanha Fria: Lua+Alma como um Caminho só, sem penalidade nenhuma — decisão 216)* |
+
+*A decisão 216 registra que "as taxas de vitória publicadas dele (63% em duelo, 70% contra Elite de rank 3) foram medidas com o físico na ficha e estão desatualizadas — remedição na décima quinta rodada". É esta.*
+
+**A matriz PJ × PJ (placar: média de vitória de cada PJ nos três duelos dele):**
+
+| PJ | rank 1 | rank 3 | rank 5 | | rank 1 | rank 3 | rank 5 |
+|---|---|---|---|---|---|---|---|
+| | **ficha atual** | | | | **NOVO (sem Físico)** | | |
+| **Xie Lang** | **89,1%** | **98,6%** | **99,6%** | | **88,1%** | **97,8%** | **99,5%** |
+| Jiāotáng | 68,3% | 54,0% | 48,2% | | 69,9% | 54,3% | 48,2% |
+| Demvi | 13,3% | 34,5% | 37,6% | | 13,3% | 34,9% | 37,7% |
+| Lee | 29,3% | 12,8% | 14,6% | | 28,7% | 12,9% | 14,6% |
+
+**Bateria de grupo (ranks 1/3/5, as cinco composições): Δ vitória média de −0,28pp, Δ máximo −2,2pp.** Ruído.
+
+> [!important] ✅ **Veredito pedido: NÃO. Ele não cai para o mais fraco dos quatro — ele continua sendo, com folga, o mais forte.**
+> A dominância de PvP cai de **89,1 / 98,6 / 99,6%** para **88,1 / 97,8 / 99,5%**: **−1,0 / −0,8 / −0,1 pontos percentuais**. Nos ranks 3 e 5 ele continua vencendo **97,8% e 99,5%** de qualquer duelo, e o segundo colocado (Jiāotáng) continua 44 a 51 pontos atrás. Na bateria de grupo o efeito é **−0,28pp** — indistinguível de ruído de Monte Carlo.
+> **A razão é a que a décima quarta já suspeitava, agora confirmada por construção:** a dominância vem do **Caminho da Alma**, não do Físico. O ataque de Alma rola **d12** (o topo da tabela da decisão 78), **ignora RD e armadura por completo**, e mira `10 + VON + rank` em vez da Defesa física — contra os três colegas isso é 3 a 5 pontos de Defesa a menos e uma barra que ninguém mais ataca. Tirar o Físico não toca em nada disso.
+> **Consequência direta para a sessão paralela: não é preciso fortalecer o buff do Xie Lang.** O buff substituto proposto (Lua e Alma como um Caminho só) já é, no motor, **um ganho líquido** — apaga o `+25%` de Caminho duplo e devolve ~20% de orçamento de essência por cena, o que compensa sozinho a perda do +1 Nível (o duelo Xie × Lee no rank 1 sobe de 84,3% para 92,6%). **O item aberto da décima quarta continua aberto e não muda de tamanho:** a dominância de PvP do Xie Lang é um problema do Caminho da Alma em duelo, não do Físico da Lua Antiga.
+
+---
+
+### 📌 O que esta rodada devolve ao autor
+
+1. **✅ A CD de Calamidade é a fórmula de [[🌩️ Calamidades e Provações]]** (`14 + 2 × (rank − 6) + faixa + 2 se Provação`). A linha de [[⛈️ A Vontade do Céu]] deve deixar de enunciar CD própria. *(Território da sessão paralela — reportado, não editado.)*
+2. **⛔ A face RD do Nível de Potência não entra** — a **decisão 220** já a recusara por derivação; esta rodada confirma com cena e quantifica a inflação assimétrica.
+3. **✅ O Xie Lang sem o Físico continua o mais forte da mesa** — não fortalecer a Ressonância da Montanha Fria (decisão 216). As taxas antigas (63% em duelo, 70% contra Elite r3) ficam substituídas pelos números desta seção.
+4. **🔴 A escala de escalonamento por excesso é brutal e não-monotônica** — o degrau de +10-25% é mais letal que o de >+50%.
+5. **🔴 O `+5 de CD do Físico Extremo` não existe em regra** — só o piso de +15 no Contador, que é +1.
+6. **🔴 A escada de CD ultrapassa a ficha** nos ranks 8-9 e nenhuma regra do vault faz a ficha alcançá-la.
+7. **🟡 Lacuna de regra:** a nota de Calamidades não diz o que acontece se o dano `M d6` zerar a Vitalidade ou a Alma do personagem no meio da sequência. Medido em 10-52% do pool por evento — chega perto, e vai acontecer na mesa.
+8. **🟡 `01 — Fundação/⚔️ Combate.md` l.104** ainda traz `+ treino` na fórmula de acerto, contra a decisão 215. Reportado, não editado.
 
 ---
 

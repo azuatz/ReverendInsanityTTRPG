@@ -31,7 +31,7 @@ Tudo que está entre parênteses é instrução: apague ao preencher.
 -
 
 **Níveis de Dano** ⚡
-- Permanentes:        (Densidade B ___ · Gu de Corpo ___ · Físico ___ · outros ___)
+- Permanentes:        (Densidade B ___ · Gu de Corpo ___ · Marcas ___ · outros ___)
 - Condicionais:       (fase/terreno ___ · Gu ativo ___ — anote a condição de cada um)
 
 **Gu** 🪱  (   /    na Abertura ·    /    ativos)
@@ -77,7 +77,7 @@ O preço da minha traição:
 | **Bônus de dano** | **`+B por dado`** — some `M × B` a todo dano | 0 |
 | **Golpes registrados** | `AST + 1` | — |
 
-**O bloco "Níveis de Dano" é o placar do seu dano.** Some os permanentes uma vez (Densidade do estágio, Gu de Corpo assentados, Físico Extremo, Marcas) e anote os condicionais com a condição do lado ("+2 lua cheia", "+1 Javali Branco ativo") — na hora do golpe, é ler duas linhas em vez de caçar regra em quatro notas. Lembrando a conversão: Níveis sobem o tipo do dado até d12; dali em diante viram +1 por dado (ver [[⚔️ Combate]]).
+**O bloco "Níveis de Dano" é o placar do seu dano.** Some os permanentes uma vez (Densidade do estágio, Gu de Corpo assentados, Marcas) e anote os condicionais com a condição do lado ("+2 lua cheia", "+1 Javali Branco ativo") — na hora do golpe, é ler duas linhas em vez de caçar regra em quatro notas. Lembrando a conversão: Níveis sobem o tipo do dado até d12; dali em diante viram +1 por dado (ver [[⚔️ Combate]]).
 
 **Grau (B) é o número mais importante da ficha.** Ele vem do estágio (Inicial 0 · Médio 1 · Alto 2 · Pico 3), soma **por dado** em todo dano, e entra na Vitalidade, na Alma, nas Vagas de Suporte, no Teto de Combo, em testes de resistência e na ordem de turno. Ver [[🪜 Ranks e Estágios]].
 
@@ -89,7 +89,7 @@ O preço da minha traição:
 
 Só quem tem. Escreva o número atual, não a regra:
 
-- **Abertura %** *(e o estado: Latente · Desperta · Plena)*, **Pressão da Abertura** e **Perda de Vitalidade %** — Físico Extremo ([[🌠 Os Dez Físicos Extremos|Dez Físicos Extremos]])
+- **Abertura %** — a Aptidão rolada na criação. Não muda mais depois disso, mas é o número de onde saem o QI e quantos Gu cabem, então vale ficar à mão ([[🌟 Aptidão e Abertura|Aptidão e Abertura]])
 - **Força de Alma** *(em homens, teto mortal 100)* e **Contaminação** — Caminho da Alma
 - **Vício em Gu das Tripas** *(pedras já consumidas)* — Caminho da Alma
 - **Obrigação com o clã** — [[🏛️ Clãs e Seitas|Clãs e Seitas]]
@@ -109,7 +109,7 @@ Não são enfeite — são o que faz a mesa funcionar.
 
 ```
 **Nome:** Gu Yue Xie Lang               **Idade:** 15
-**Vitalidade:** 21 / 21                **Alma:** 14 / 14
+**Vitalidade:** 27 / 27                **Alma:** 18 / 18
 **QI:** 344 / 344                      **Defesa:** 14
 **CD:** 14                             **M:** 1     **Rank:** 1 Inicial
 
@@ -134,8 +134,7 @@ Não são enfeite — são o que faz a mesa funcionar.
 - 💠 Gasto semanal de Pedras: 0
 
 **Trilhos** 🎚️
-- Abertura: 86% — **Latente** (0 / 7 Marcos)
-- Pressão da Abertura: 0    · Perda de Vitalidade: 0%
+- Abertura: 86% *(fixa)*
 - Força de Alma: 1 homem    · Contaminação: 0
 - Pontos de Plano: 4 / 4
 
@@ -144,11 +143,11 @@ Vínculo com o mundo:
 O preço da minha traição:
 ```
 
-**De onde saem esses números:** QI 344 é `86% × 4` — o **Físico da Lua Antiga** dele está **Latente**, e sobe até 100% ao longo da campanha (ver [[🌠 Os Dez Físicos Extremos|Abertura Incompleta]]). Gu que cabem na Abertura: `(86 ÷ 10) + 1 = 9`. Os atributos somam exatamente 12 (o −1 em Força devolve 1 ponto, e os outros custam 13). Vitalidade `18 + 3×3 = 27`; Alma `12 + 2×3 = 18`; Defesa `10 + 3 + 1 = 14`; CD `10 + 3 + 1 = 14` contra um Gu de rank 1. No **estágio Inicial o Grau (B) é 0**, então nada é somado ainda — é a partir do Médio que a ficha começa a crescer dentro do rank.
+**De onde saem esses números:** QI 344 é `86% × 4` — a Aptidão dele é 86%, saiu assim no dado e **fica assim**: nada na campanha sobe esse número ([[🌟 Aptidão e Abertura|Aptidão e Abertura]]). Gu que cabem na Abertura: `(86 ÷ 10) + 1 = 9`. Os atributos somam exatamente 12 (o −1 em Força devolve 1 ponto, e os outros custam 13). Vitalidade `18 + 3×3 = 27`; Alma `12 + 2×3 = 18`; Defesa `10 + 3 + 1 = 14`; CD `10 + 3 + 1 = 14` contra um Gu de rank 1. No **estágio Inicial o Grau (B) é 0**, então nada é somado ainda — é a partir do Médio que a ficha começa a crescer dentro do rank.
 
-**A leitura da ficha:** ele tem mais QI que qualquer outro na mesa e mal consegue erguer uma espada. É exatamente o personagem que o Físico Extremo produz — tudo resolvido por Gu, nada resolvido pelo corpo. Com Força −1, ele **precisa** que o primeiro Gu seja ofensivo, ou passa a primeira sessão inteira sem ter o que fazer num combate.
+**A leitura da ficha:** ele tem mais QI que qualquer outro na mesa e mal consegue erguer uma espada. É o que a distribuição de pontos dele diz em voz alta — **VON 3 e AST 2 contra Força −1**: tudo se resolve por Gu, nada se resolve pelo corpo. Com Força −1, ele **precisa** que o primeiro Gu seja ofensivo, ou passa a primeira sessão inteira sem ter o que fazer num combate.
 
-E ele ainda não é o que vai ser: Latente, a regeneração dele é metade da tabela, os Gu de Lua e Alma ganham **+1** Nível de Dano em vez de +2, a *Maré Baixa* não existe ainda, e o teste da Pressão é **2 pontos mais difícil**. O físico inteiro é uma promessa que a campanha vai cumprindo.
+O que ele tem de fora do comum não está em atributo nenhum: é o **Buff de Lore** dele, a *Ressonância da Montanha Fria* — **Lua e Alma contam como um Caminho só**, os dois em força plena ([[🎲 A Mesa — Personagens dos Jogadores|A Mesa]]). Isso não soma um ponto de dano; soma **eficiência de longo prazo**, porque ele monta dois arsenais pelo preço de um. Uma ficha vazia de exceção numérica e cheia de escolha de Caminho é exatamente o formato que esta folha foi feita pra segurar.
 
 ---
 

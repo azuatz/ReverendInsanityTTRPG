@@ -32,20 +32,10 @@ Todo personagem tem **12 pontos**, gastos em atributos (ver [[💪 Atributos|Atr
 
 A Aptidão é rolada (`1d80+20`, ver [[🌟 Aptidão e Abertura|Aptidão e Abertura]]) e **o número que sair é o número** — não se compra pra cima nem se vende pra baixo com pontos de criação (decisão 111; a opção de negociar ±5%/±10% existiu e foi removida — as aptidões da mesa foram roladas e ficam como caíram). Ponto de criação compra atributo; Aptidão vem do dado, e mudá-la depois é história (Gu de aptidão, métodos de Sangue), nunca planilha.
 
-A única exceção continua sendo o pacote abaixo — que não é "comprar aptidão", é assumir outra categoria de existência:
+**Nenhum pacote fura essa regra.** A única coisa que pode encostar na Aptidão de um personagem é um **Buff de Lore** (logo abaixo), concedido pela história e não comprado — e mesmo ele dobra uma regra em vez de somar porcentagem.
 
-### O pacote dos Dez Físicos Extremos
-
-Custa **8 dos seus 12 pontos**, sobrando 4 pra distribuir entre seis atributos — **a menos que o físico seja o seu Buff de Lore**, e aí ele sai de graça (ver a seção seguinte). Em troca:
-
-- Aptidão 100%, sem teto natural de rank.
-- Regeneração de Essência acelerada (10% do tanque por rodada, até o teto de 100–200), cultivo passivo mais rápido, vantagem em Quebra de Paredes, e **+2 Níveis de Dano** nos Gu do Caminho correspondente.
-- **A contagem regressiva:** a Pressão da Abertura sobe a cada 6 meses; teste de CON contra `10 + Pressão` ou **−5% de Vitalidade máxima permanente — e essa perda fica**. São **duas** as válvulas: subir de rank **zera** a Pressão, e **esvaziar a Essência até 0** dentro do mês a faz **cair 1** (decisão 44 — a válvula de escape é gastar poder de forma imprudente). A contagem **cessa no rank 6** e nunca recomeça, mas a perda acumulada até ali **permanece** (decisão 99). Regra completa em [[🌠 Os Dez Físicos Extremos]].
-- Uma **Dívida do Destino** — um gancho de enredo que a mesa cobra quando quiser.
-
-Comprado com pontos, isso é deliberadamente brutal. Um Físico Extremo com 4 pontos de atributo é um personagem frágil, desequilibrado e apressado, carregando algo grande demais pro corpo dele. É exatamente a figura que o cenário produz — e quase nenhuma delas morre de velhice.
-
-**Concedido como Buff de Lore, o personagem fica com os 12 pontos inteiros** — mas a Pressão da Abertura, a Dívida do Destino e a exigência do Gu Imortal correspondente **continuam valendo**. O preço do físico nunca foram os pontos; os pontos eram só a parcela que dava pra cobrar na ficha.
+> [!info] E os Dez Físicos Extremos?
+> Não são opção de personagem jogador. Não existe pacote de 8 pontos, não existe Físico concedido como Buff de Lore, não existe ficha de jogador com Pressão da Abertura (decisão 217). Eles são material de mundo — rivais, vilões e ganchos de sessão que o mestre monta em [[🌠 Os Dez Físicos Extremos]].
 
 ---
 
@@ -56,9 +46,9 @@ Comprado com pontos, isso é deliberadamente brutal. Um Físico Extremo com 4 po
 **As quatro regras:**
 
 1. **Um por jogador, declarado na criação.** Ninguém ganha um segundo depois, por arco bem jogado ou por barganha. O que se conquista em jogo são Gu, Marcas e aliados — não mais exceções.
-2. **Ele dobra uma regra; não inventa um número maior.** Um Buff de Lore muda *quais* regras se aplicam a você (este Caminho conta como um só; este físico não custa pontos; você já nasceu sabendo isto). Ele **não** dá bônus solto de acerto, dano, Vitalidade ou RD — isso é trabalho de Gu, e Gu se conquista em jogo.
+2. **Ele dobra uma regra; não inventa um número maior.** Um Buff de Lore muda *quais* regras se aplicam a você (estes dois Caminhos contam como um só; este material me é vendido pelo preço de custo; você já nasceu sabendo isto). Ele **não** dá bônus solto de acerto, dano, Vitalidade ou RD — isso é trabalho de Gu, e Gu se conquista em jogo.
 3. **Ele vem com um preço pago em ficção.** Toda exceção tem um fio preso nela: uma dívida, um inimigo, um segredo, uma condição que pode ser tirada de você. O mestre escreve esse fio junto com o buff, e o jogador aceita antes de começar.
-4. **Os quatro pesam parecido.** Se um jogador ganha um dos Dez Físicos Extremos de graça, os outros três não podem ficar com "meu personagem é canhoto". Sugestões calibradas, como exemplo de campanha, em [[🎲 A Mesa — Personagens dos Jogadores|A Mesa]].
+4. **Os quatro pesam parecido.** Se um jogador ganha "meus dois Caminhos contam como um só" — uma economia de progressão que vale uma campanha inteira —, os outros três não podem ficar com "meu personagem é canhoto". Sugestões calibradas, como exemplo de campanha, em [[🎲 A Mesa — Personagens dos Jogadores|A Mesa]].
 
 **Pro mestre, o teste é simples:** o buff dá uma *identidade* ou dá uma *vantagem numérica*? "Meus cinco elementos contam como um Caminho só" é identidade — ele rola exatamente como todo mundo, só com outra paleta. "+2 em tudo" é vantagem numérica, e isso não é Buff de Lore, é um item que o jogador não conquistou.
 

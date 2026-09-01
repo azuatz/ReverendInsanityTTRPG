@@ -208,7 +208,7 @@ Dano        M d6, e o dado sobe um tipo a cada 4 membros vivos acima dos 4 prime
 2. **A guerreira (FOR +3, machado pesado, sem Gu de Força ativo)** ataca: `d20 + 3 + 3` = `d20+6` contra Defesa 11 — acerta com 5+. Dano: **um dado só**, `1d10 + 3`. Tirou 5 → **8 de dano**. A barra da Horda cai pra 40.
 3. **O usuário de Gu (VON +3, Gu do Luar rank 1, Caminho da Luz = d8)** ativa: paga **40 de essência** (Gu do próprio rank). Acerto `d20 + 3 + 3 + 1` = `d20+7`. Dano `1 d8` — um dado, porque M = 1 no rank 1. Tirou 4 → **4**. A Horda cai pra 36. *Com 36 de Vitalidade ela ainda tem 6 membros, então o dado dela **cai pra d6** já na ação seguinte — o grupo sente a horda enfraquecendo sem ninguém contar corpo.*
 4. **A Horda age:** um ataque por personagem de pé, quatro ataques, `d20+7` contra as Defesas do grupo (11 + DES). Contra Defesa 13, acerta 75% das vezes. Dano `1d6` cada (o dado já caiu com as baixas), **menos a RD da armadura** — quem comprou couro batido (RD 2) come 2 de cada golpe.
-5. **Fim da rodada:** ninguém recupera nada. **Essência não regenera em combate** (decisão 107) — a recuperação acontece **entre cenas, em % da Essência máxima por hora** (Grau D 2%/h · C 4%/h · B 6%/h · A 8%/h — tanque cheio leva de meio dia a dois dias). O tanque é um recurso que acaba dentro da luta, e é assim de propósito. A única exceção do jogo é o [[🌠 Os Dez Físicos Extremos|Físico Extremo]].
+5. **Fim da rodada:** ninguém recupera nada. **Essência não regenera em combate** (decisão 107) — a recuperação acontece **entre cenas, em % da Essência máxima por hora** (Grau D 2%/h · C 4%/h · B 6%/h · A 8%/h — tanque cheio leva de meio dia a dois dias). O tanque é um recurso que acaba dentro da luta, e é assim de propósito. A única exceção do jogo é o [[🌠 Os Dez Físicos Extremos|Físico Extremo]] — **e ele nunca está do lado dos jogadores**: é ficha de NPC, e a torneira aberta é justamente o que faz um rival desses parecer outra categoria de criatura.
 
 **Onde o mestre iniciante erra nesta cena:** esquece o `+ rank` na Defesa (11 + DES no rank 1, não 10 + DES), e esquece que o número de dados vem do rank **do Gu**, não do personagem.
 
@@ -241,7 +241,7 @@ Custo: 1 ponto por degrau até +3, 2 pontos pra ir de +3 a +4, e baixar um atrib
 - **AST** é quantos Golpes Matadores cabem na ficha (`AST + 1`) e metade da investigação.
 - **CAR** é quantos aliados se comanda (`CAR + 1`) e a outra metade da investigação.
 
-**3. A Aptidão rolada não se negocia.** O número que saiu no dado é definitivo — não se compra nem se vende % com ponto de criação (decisão 111). A única exceção é o pacote dos **Dez Físicos Extremos**, que custa **8 dos 12 pontos** e é escolha consciente da mesa, nunca surpresa de dado.
+**3. A Aptidão rolada não se negocia.** O número que saiu no dado é definitivo — não se compra nem se vende % com ponto de criação (decisão 111), e não existe pacote que a eleve. A única coisa que pode encostar nela é um **Buff de Lore** ([[⚖️ Pontos de Criação]]), e mesmo esse dobra uma regra em vez de comprar porcentagem.
 
 **4. Cada jogador escolhe uma Origem** — de onde veio ([[🌱 Origens]]). O mais importante que ela faz é dizer **de onde vem o primeiro Gu do personagem**.
 

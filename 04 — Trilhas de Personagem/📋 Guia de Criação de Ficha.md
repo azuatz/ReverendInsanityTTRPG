@@ -20,7 +20,7 @@ Uma frase: quem é, de onde vem, o que quer. Escolha uma [[🌱 Origens|Origem]]
 
 ## 2. Aptidão — rolada, e ponto final
 
-Role `1d80+20` (ver [[🌟 Aptidão e Abertura|Aptidão e Abertura]]) — piso 21%, teto 100%. **O número que saiu é o número**, sem exceção pelos pontos de criação. As duas formas de mexer nisso (o pacote dos Dez Físicos Extremos, ou um Buff de Lore) estão detalhadas em [[⚖️ Pontos de Criação|Pontos de Criação]] — decida isso **antes** de gastar os pontos do passo 3, porque muda toda a conta.
+Role `1d80+20` (ver [[🌟 Aptidão e Abertura|Aptidão e Abertura]]) — piso 21%, teto 100%. **O número que saiu é o número**, sem exceção pelos pontos de criação. A única coisa que encosta nisso é um **Buff de Lore**, detalhado em [[⚖️ Pontos de Criação|Pontos de Criação]] — decida isso **antes** de gastar os pontos do passo 3, porque muda toda a conta. *(Os Dez Físicos Extremos não são opção de ficha: são material de mestre.)*
 
 A Aptidão define sua % de Abertura, e portanto a Essência máxima:
 
@@ -96,7 +96,7 @@ Um personagem genérico, sem ligação com nenhum PJ de nenhuma campanha de refe
 
 **1. Conceito e Origem.** Um jovem do ramo secundário de um clã de refino de veneno, criado nos fundos da propriedade principal, tentando provar que o sangue dele vale tanto quanto o do ramo principal. Origem: **Ramo Secundário** → **+1 ponto** (13 no total, em vez de 12).
 
-**2. Aptidão.** Rolada: `1d80` deu 40, +20 fixo = **60%**. Sem pacote de Físico Extremo e sem Buff de Lore nesta ficha — o número fica como caiu.
+**2. Aptidão.** Rolada: `1d80` deu 40, +20 fixo = **60%**. Sem Buff de Lore que encoste na Aptidão nesta ficha — o número fica como caiu.
 
 **3. Atributos** (13 pontos, tabela de custo em [[💪 Atributos|Atributos]]): FOR +1 (1 ponto) · CON +4 (3 pontos até +3, +2 pontos de +3 a +4 = 5 pontos) · DES +2 (2 pontos) · AST +1 (1 ponto) · VON +3 (3 pontos) · CAR +1 (1 ponto). Total gasto: 1+5+2+1+3+1 = **13**.
 

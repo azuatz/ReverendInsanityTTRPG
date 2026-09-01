@@ -42,7 +42,7 @@ O teste é `1d20 + bônus de Aptidão` vs CD 10/14/18/22 ([[🪜 Ranks e Estági
 | **Dose absurda de Pedras Primordiais** | **Vantagem e +2** no teste | ~10× o custo de um estágio acelerado do rank |
 | **Gu da Reforma** (Reform Gu, r5, 📕) | **+5% de Abertura permanente** (1×/pessoa) — pode subir o grau de Aptidão, e com ele o bônus de todos os saltos futuros | **Só leilão**, 300.000+ pedras. É o único Gu de aptidão ortodoxo |
 | **Gu do Crânio de Sangue** (Blood Skull, r5, 📕) | **+10% de Abertura por parente de sangue morto** (rende metade a cada uso) | Caminho do Sangue — crime capital, irreversível, e conflita com Gu de Abertura de Pedra (regressão de um rank inteiro) |
-| **Físico Extremo** | +10 no teste e vantagem em todo salto | Não se compra — se nasce (ou ver o Crânio de Sangue acima, que é como se rouba) |
+| **Físico Extremo** *(só NPC)* | +10 no teste e vantagem em todo salto | Não se compra e não se escolhe: se nasce. Está aqui porque é o que explica um rival subindo de rank mais rápido que o grupo — ver [[🌠 Os Dez Físicos Extremos]] |
 
 ## 3️⃣ A Ascensão Imortal (rank 5 → 6)
 
@@ -92,7 +92,7 @@ O salto passa a ser provações + saturação de Marcas ([[🪜 Ranks e Estágio
 | **2→3** | | | | |
 | **3→4** | | | | |
 | **4→5** | | | | |
-| **Ascensão** | Gu Imortal de **Lua ou Alma** obrigatório (Físico) | | | |
+| **Ascensão** | | | | |
 | **6→7** | | | | |
 
 *Preencha cada célula com a linha desta nota que o personagem está caçando — e quando uma célula estiver vazia a duas sessões do salto, isso é o gancho da próxima sessão.*

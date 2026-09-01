@@ -20,15 +20,17 @@ A Aptidão decide o tamanho da Abertura de um personagem — a % usada na fórmu
 | **Grau C** | 40%–59% | Rank 2, raramente início do 3 | Pilar de uma família comum |
 | **Grau B** | 60%–79% | Rank 3–4 | Futuro ancião |
 | **Grau A** | 80%–99% | Rank 5, com chance real de Ascensão | "Sorte da família" — prioridade de recursos |
-| **Dez Físicos Extremos** | 100%, transbordando | Sem teto natural — mas a provação de Ascensão é ao menos 10× mais perigosa, e a maioria não sobrevive pra contar história | Lenda ou tragédia, quase nunca os dois |
+| **Dez Físicos Extremos** *(só NPC)* | 100%, transbordando | Sem teto natural — mas a provação de Ascensão é ao menos 10× mais perigosa, e a maioria não sobrevive pra contar história | Lenda ou tragédia, quase nunca os dois |
+
+> **A última linha não é uma opção de ficha.** Os Dez Físicos Extremos são anomalia de mundo — rival, vilão ou gancho de sessão, nunca personagem jogador (decisão 217). Ela está na tabela porque o mestre precisa saber onde eles caem na régua.
 
 Aptidão não é só o teto — também afeta a **velocidade de recuperação de essência** e quanto custa refinar um Gu (ver [[🧩 Refino e Precificação|Refino e Precificação]]).
 
-### A regeneração — só fora de combate (exceto o Físico Extremo)
+### A regeneração — só fora de combate
 
 **Durante um combate, a Essência não regenera** (decisão 107). O tanque com que você entrou na luta é o tanque da luta inteira — cada ativação é uma decisão, e ficar seco no meio da cena é um dos jeitos clássicos de morrer neste mundo. Pedra Primordial também não repõe essência em combate ([[💠 Economia das Pedras Primordiais]]).
 
-**A única exceção é o [[🌠 Os Dez Físicos Extremos|Físico Extremo]]:** ele recupera **10% da Essência máxima por rodada** (sujeito ao teto de regeneração), e essa torneira aberta — que ninguém mais tem — é a diferença que se sente em toda cena de combate. É a identidade mecânica do físico inteiro.
+**A única exceção do sistema inteiro é o [[🌠 Os Dez Físicos Extremos|Físico Extremo]] — e ele é ficha de NPC:** um portador recupera **10% da Essência máxima por rodada** (sujeito ao teto de regeneração). Nenhum personagem jogador tem isso, em hipótese alguma; a torneira aberta existe justamente pra fazer o rival do grupo parecer outra categoria de criatura quando a luta se arrasta.
 
 **Fora de combate**, a recuperação é **uma porcentagem da sua Essência máxima por hora**, ditada pelo Grau de Aptidão:
 
@@ -62,38 +64,17 @@ Grau D: 2%/h  ·  Grau C: 4%/h  ·  Grau B: 6%/h  ·  Grau A: 8%/h
 
 Duas opções — a mesa escolhe uma pro grupo inteiro, não mistura:
 
-**Opção A — Aleatório puro (recomendado).** Role **1d80 e some 20**. O resultado (21–100) é a **% de Abertura direto** — não existe grau abaixo de 20%, por isso o dado já começa deslocado. O grau do personagem sai sozinho de onde o número cai na tabela acima (por exemplo, tirar 63 é Grau B). Simples, uma rolagem só, cobre toda a faixa jogável de forma equilibrada. **Dez Físicos Extremos não entra nessa rolagem** — é sempre escolha consciente da mesa (ver abaixo), nunca puro acaso, porque vem com uma Dívida do Destino pesada demais pra cair de surpresa num dado.
+**Opção A — Aleatório puro (recomendado).** Role **1d80 e some 20**. O resultado (21–100) é a **% de Abertura direto** — não existe grau abaixo de 20%, por isso o dado já começa deslocado. O grau do personagem sai sozinho de onde o número cai na tabela acima (por exemplo, tirar 63 é Grau B). Simples, uma rolagem só, cobre toda a faixa jogável de forma equilibrada. **Físico Extremo não sai de dado:** tirar 100 no `1d80+20` é Aptidão 100% e mais nada — sem físico, sem teto de rank removido, sem contagem regressiva.
 
 **Opção B — Grau sugerido + rolagem dentro da faixa.** O mestre sugere o grau que melhor serve o conceito de cada personagem (um prodígio talvez peça Grau A; um coadjuvante do clã talvez sirva melhor em Grau C) — o jogador topa ou negocia. Depois, role **1d20** e some ao mínimo do grau escolhido pra achar a % exata: Grau D = 19 + 1d20, Grau C = 39 + 1d20, Grau B = 59 + 1d20, Grau A = 79 + 1d20. Essa opção dá controle narrativo sobre o teto de cada personagem sem tirar de todo a variação de um dado.
 
-**Dez Físicos Extremos**, em qualquer das duas opções, só entra em jogo se um jogador pedir e a mesa topar — nunca por sorteio automático. É praticamente uma classe de risco à parte: sem teto, mas a Ascensão vira dez vezes mais perigosa (ver acima), e o personagem começa com uma **Dívida do Destino** — um gancho de enredo pendente que a mesa cobra mais cedo ou mais tarde.
+**Nenhuma das duas opções produz um Físico Extremo.** Aptidão 100% não é resultado de criação de personagem — é anomalia de mundo, e mora do lado do mestre.
 
-## Os Dez Físicos Extremos
+## Os Dez Físicos Extremos — material de mestre, não de ficha
 
-> **Tratamento completo em [[🌠 Os Dez Físicos Extremos|Os Dez Físicos Extremos]]** — os cinco físicos jogáveis, a regeneração violenta, a contagem regressiva e as tribulações. O resumo abaixo é só o suficiente pra decidir na criação.
+Existe uma categoria acima do Grau A: um punhado de pessoas nasce com Aptidão **100%**, sem gargalo entre grandes reinos, um corpo que gera mais poder do que consegue conter, e uma contagem regressiva que quase sempre as mata antes da hora.
 
-Um Físico Extremo não é "aptidão A+". É outra categoria de existência — e a mecânica reflete os dois lados disso.
-
-**O que ganha:**
-
-| | |
-|---|---|
-| **Regeneração violenta** | No início de cada rodada de combate, recupera **10% da Essência máxima**, sem gastar ação — sujeito ao [[🏛️ Arquitetura do Sistema\|teto de regeneração]]. Ver [[🌠 Os Dez Físicos Extremos\|Os Dez Físicos Extremos]] pra variação por físico |
-| **Cultivo passivo** | A essência nutre as paredes sozinha: avança de estágio ~60% mais rápido que um Grau A |
-| **Sem gargalos** | Vantagem em todo teste de Quebra de Paredes, e em testes de ativar Golpe Matador ou refinar Gu **do Caminho correspondente ao físico** |
-| **Amplificação** | Gu do Caminho do físico ganham **+2 Níveis de Dano** na Escada — não um rank a mais, só dano |
-
-**O que custa:**
-
-| | |
-|---|---|
-| **A contagem regressiva** | A **Pressão da Abertura** sobe a cada 6 meses; teste de CON contra `10 + Pressão` ou **−5% de Vitalidade máxima, permanente**. Ver [[🌠 Os Dez Físicos Extremos\|Os Dez Físicos Extremos]] |
-| **Como se para** | O relógio zera de duas formas: **subir de rank**, ou **esvaziar a Essência** — gastar poder de forma imprudente é a válvula de escape do físico. E a contagem **cessa de vez no rank 6**: a Abertura Imortal comporta o que o corpo mortal não comportava, mas **a perda já acumulada permanece**. É por isso que todo portador de Físico Extremo é apressado — e é por isso que quase nenhum chega velho |
-| **Autoexplosão** | Se a Vitalidade máxima chegar a zero por esse acúmulo, o físico detona. A escala é regional: um portador do Físico da Alma de Gelo do Norte congela uma montanha inteira ao morrer |
-| **Tribulações violentas** | Toda Calamidade e Provação, incluindo a Ascensão, vem em escala muito pior |
-| **A trava da Ascensão** | Pra ascender, o Gu Imortal vital precisa **corresponder exatamente ao físico** — Físico da Verdadeira Marcialidade da Grande Força exige um Gu Imortal do Caminho da Força, sem substituto |
-
-Na mesa isso vira um personagem que **queima**: absurdamente forte pro rank dele, com um cronômetro rodando o tempo todo, e um único caminho de fuga que é correr pro rank seguinte antes que o corpo ceda. Ótimo pra quem quer intensidade; péssimo pra quem quer jogar devagar.
+**Isso não é opção de personagem jogador** (decisão 217). Não se compra com pontos de criação, não se concede como Buff de Lore, e ninguém desperta um durante a campanha. É a peça que o mestre usa quando precisa de um rival que o grupo não alcança cultivando igual — e a ficha completa dele, com a regeneração violenta, a Pressão da Abertura e as tribulações, está em **[[🌠 Os Dez Físicos Extremos|Os Dez Físicos Extremos]]**.
 
 ## Aptidão não é 100% fixa
 

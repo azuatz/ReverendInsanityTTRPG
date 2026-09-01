@@ -29,15 +29,69 @@ O que importa não é o total de Marcas, e sim **quantas você tem no Caminho es
 | **Mestre** | 10.000 – 49.999 | +2 Níveis; custo de ativação do Caminho cai pela metade; refina rank 7 |
 | **Grão-Mestre** | 50.000 – 149.999 | +3 Níveis; pode **anexar** Terra Abençoada alheia (ver [[🗝️ Terra Abençoada\|Terra Abençoada]]); refina rank 8 |
 | **Quase-Supremo** | 150.000 – 299.999 | +4 Níveis; Golpes Matadores do Caminho ganham vantagem no teste; ignora RD de fontes de rank inferior |
-| **Grande Mestre Supremo** | 300.000+ | +5 Níveis; **o patamar em que todo Venerável se consolida — atingido no próprio ato do salto pro rank 9**, nunca antes (o teto do rank 8 impede; ver [[🪜 Ranks e Estágios|o rompimento do teto]]); dentro do próprio domínio, cada ação recebe amplificação do céu e da terra |
+| **Grande Mestre Supremo** | 300.000+ | +5 Níveis; **o patamar do Venerável** — e o pré-requisito dele: chegar aqui **no Caminho principal** é o que abre o salto pro rank 9 (ver [[🪜 Ranks e Estágios|Ranks e Estágios]]); dentro do próprio domínio, cada ação recebe amplificação do céu e da terra |
 
 > [!info] 🔧 Adaptado — "Quase-Supremo" não é o nome canônico deste patamar
 > O romance chama esse degrau de **Grão-grão-mestre** / "Grande Grão-Mestre" (Cap. 1326, 1501–1502) — "quase-X" no cânone é sempre um sub-degrau abaixo de um patamar, não este. O vault mantém "Quase-Supremo" por já estar consolidado em mais de dez notas (inclusive resposta de enigma em [[📜 Catálogo de Heranças]]); renomear em cascata é pendência do autor. Citação completa e raciocínio: [[🧭 Log de Decisões]] (decisão 153).
 
-Os Níveis de Dano são os mesmos da [[⚔️ Combate|Escada de Dano]] — Marcas empurram os Gu do seu Caminho pra cima na escada.
+Os Níveis são os mesmos da [[⚔️ Combate|Escada de Dano]] — Marcas empurram os Gu do seu Caminho pra cima na escada.
 
-> [!warning] O veterano de rank 6 só assusta o rank 7 em duas condições — e a tabela acima mostra por quê
-> Um rank 6 no teto (9.999 Marcas num Caminho só) ainda é **Pequeno Feito** (+1 Nível); um rank 7 recém-chegado **especialista** cruzou os 10.000 no mesmo Caminho e já é **Mestre** (+2), com o dobro de M — ele não teme veterano nenhum. O medo canônico do "veterano denso" vale quando: **(a)** o recém-ascendido dividiu as Marcas entre dois Caminhos — num 50:50, ele chega ao rank 7 com ~5.000 por Caminho, **Pequeno Feito nos dois**, empatado em patamar com o veterano e atrás em experiência; ou **(b)** o veterano empilha feitos de compreensão ([[#O gênio pobre — compreensão acima da contagem|gênio pobre]], decisão 133) e opera 1–2 patamares acima da própria contagem. Sem uma das duas, rank maior vence — como deve ser.
+### Quanto isso vale, em porcentagem
+
+O mestre não precisa desta tabela pra jogar; ela existe pra responder à pergunta "um Grão-Mestre é *quanto* mais forte?" sem ninguém ter que rolar dez mil dados pra descobrir. São os **ganhos médios de dano** sobre um Vislumbre do mesmo rank, derivados direto da Escada:
+
+| Patamar | Caminho **d6** | **d8** | **d10** | **d12** |
+|---|---|---|---|---|
+| Vislumbre | — | — | — | — |
+| Pequeno Feito | +29% | +22% | +18% | +15% |
+| Mestre | +57% | +44% | +36% | +31% |
+| Grão-Mestre | +86% | +67% | +55% | +46% |
+| Quase-Supremo | +114% | +89% | +73% | +62% |
+| Grande Mestre Supremo | **+143%** | **+111%** | **+91%** | **+77%** |
+
+**Duas leituras que importam:**
+
+- **Cada Nível vale menos que o anterior.** O primeiro degrau de um Caminho d6 vale +29%; o quinto vale +13%. A escada é generosa com quem está atrás e avara com quem já está na frente, e é isso que impede o topo de disparar.
+- **Caminho de dado pequeno ganha mais.** Um Caminho d6 mais que dobra o dano de Vislumbre a Grande Mestre Supremo; um d12 não chega perto disso. É a compensação estrutural de quem escolheu um Caminho utilitário: as Marcas fecham parte do buraco de dano que o dado abriu.
+
+**No Caminho secundário vale a mesma tabela — com o patamar dele.** Não existe uma penalidade escrita "de secundário": o que existe é que o Caminho secundário tem **a contagem de Marcas dele**, quase sempre muito menor, e portanto um patamar mais baixo. Um Imortal Grão-Mestre em Lua e Vislumbre em Espaço bate +55% com a Lua e +0% com o Espaço. Se os dois forem **incompatíveis**, some a anulação da seção de conflito, abaixo.
+
+> [!info] 🔧 Adaptado — o romance tem uma fórmula de porcentagem, e ela é injogável
+> A obra dá um número explícito e o repete em quatro capítulos (1161, 1204, 1310, 1470): **multiplicador = 1 + (Marcas do Caminho ÷ 1.000)**. Cem Marcas dão +10%; mil dobram; dez mil multiplicam por dez; trezentas mil multiplicariam por **trezentos**.
+>
+> O sistema não usa isso, e a recusa foi testada, não presumida: uma escada dessas transforma qualquer diferença de contagem em aniquilação instantânea e apaga a rolagem de dado do jogo. A escada de patamares acima cobre a mesma faixa narrativa — o Venerável **é** esmagadoramente mais forte — sem tornar a mesa indecidível. Raciocínio e a simulação que fecharam isso: [[🧭 Log de Decisões]] (decisão 164).
+
+### E a defesa? — o que as Marcas **não** fazem
+
+A pergunta natural é se as Marcas engrossam a defesa junto com o ataque. **Não engrossam, e a decisão é deliberada** (decisão 220).
+
+A razão é que **a defesa já escala sozinha**: a RD de um Gu defensivo é `base × M`, e o M dobra a cada rank. Um Gu de RD base 2 reduz 8 no rank 3, 64 no rank 6 e 256 no rank 8 — a "potência crescente do Gu defensivo" já está no motor, entregue pelo multiplicador. Somar Níveis por cima disso, quando os dois lados de uma luta têm Marcas, ou não muda desfecho nenhum ou infla a cena; e nos dois casos acrescenta um número que a mesa precisa rastrear a cada golpe, que é custo puro.
+
+**O que as Marcas fazem por um Gu que não causa dano** está logo abaixo, e não passa por RD.
+
+### As outras faces do Nível — o que ganha um Gu que não bate
+
+Um Nível de Potência age na **face que o Gu tem**. Um Gu de ataque ganha dano; um Gu que não ataca ganha o que segue:
+
+| Face do Gu | O que cada Nível dá |
+|---|---|
+| **Dano** | +1 degrau na Escada — a regra de sempre |
+| **Teste forçado** | **+1 na CD a cada 2 Níveis** |
+| **Duração** | **+1 rodada a cada 2 Níveis**, em efeito que já se mede em rodadas |
+| **Cobertura / usos** | **+1 alvo coberto ou +1 uso na cena a cada 2 Níveis**, em Gu de proteção e suporte |
+| **Alcance / área** | **+50% por Nível** — sem rolagem, é cor |
+
+**Por que só estas.** Todas são números **estáticos**: anotam-se antes da luta e não entram na aritmética de nenhum ataque. Um Grão-Mestre do Caminho das Formações não fica com uma barreira mais grossa pra subtrair a cada golpe — fica com uma barreira que **dura mais, cobre mais gente e sobe mais vezes**. É a mesma ficção, sem custo de mesa.
+
+> [!warning] Por que um rank 6 veterano assusta um rank 7 — e por que isso agora é comum, não excepcional
+> Com as faixas flutuantes (abaixo), **o veterano denso deixou de ser um caso de regra e virou o caso normal.** Um rank 6 que fica e sobrevive a Calamidades cruza os 10.000 Marcas pela contagem real e é **Mestre** (+2 Níveis) — o mesmo patamar de domínio de um rank 7 recém-ascendido especialista. Ele continua atrás no **M** (metade dos dados), então ainda perde a troca direta; mas perde por uma margem que a experiência, o terreno e a preparação cobrem, e é exatamente esse o medo que o romance descreve.
+>
+> As duas condições que **agravam** isso: **(a)** o rank 7 recém-chegado dividiu as Marcas entre dois Caminhos e chegou lá com metade da contagem em cada, empatando em patamar com o veterano e ficando atrás em experiência; **(b)** o veterano empilha feitos de compreensão ([[#O gênio pobre — compreensão acima da contagem|gênio pobre]]) e opera acima da própria contagem. Com uma das duas, o rank menor é **favorito**.
+
+> [!note] O gênio pobre continua existindo, e agora serve a outra coisa
+> A regra do gênio pobre (decisão 133) nasceu porque o teto duro de 9.999 tornava **matematicamente impossível** um rank 6 alcançar Mestre — contra o cânone. Com as faixas flutuantes esse buraco fechou sozinho: agora dá pra chegar a Mestre pela contagem real, bastando ficar e sobreviver.
+>
+> Ela não virou redundante, mudou de função. Passou a ser **o atalho de quem não quer esperar** — e a única rota viável pros patamares que o excesso não alcança: chegar a **Grão-Mestre** (50.000) ainda no rank 6 significaria cinco vezes o topo da faixa, com a Vontade do Céu escalada nesse nível o tempo todo. Ninguém sobrevive a isso por acúmulo. Sobrevive por compreensão.
 
 ### O que cada nível destrava além do dano
 
@@ -63,20 +117,59 @@ Marca é estrutura física, mas **entendimento não é a mesma coisa que múscul
 > [!note] Calibrado pelo cânone — rank 6 com Grão-Mestre é o padrão dos fortes do romance, não uma exceção
 > Citação, raciocínio completo e por que o empilhamento vai até dois níveis: [[🧭 Log de Decisões]] (decisões 120 e 133).
 
-## Rank e Marcas: as duas travas
+## Rank e Marcas: faixas, não tetos
 
-Rank e Marcas se travam mutuamente — não dá pra correr num sem o outro. **O teto é do TOTAL de Marcas, somando todos os Caminhos** (decisão 109): a Abertura é uma só, e é ela que comporta. Não existe "10.000 de Lua e mais 10.000 de Alma no rank 6" — existe 10.000 no total, divididos como as fontes renderam.
+Rank e Marcas se travam mutuamente — não dá pra correr num sem o outro. **A conta é do TOTAL de Marcas, somando todos os Caminhos** (decisão 109): a Abertura é uma só, e é ela que comporta.
 
-| Rank | Essência Imortal | Teto de Marcas (total) | Ao encher |
+Mas ela comporta com elasticidade. **Cada rank tem uma faixa típica, não um teto duro** (decisão 218): é onde quase todo mundo daquele patamar está, e não uma parede que devolve as Marcas que sobram.
+
+| Rank | Essência Imortal | Faixa típica de Marcas (total) |
+|---|---|---|
+| 6 | Uva Verde | **1.000 – 10.000** |
+| 7 | Jujuba Vermelha | **10.000 – 100.000** |
+| 8 | Lichia Branca | **100.000 – 300.000** |
+| 9 — **Venerável** | Damasco Amarelo | **300.000+ no Caminho principal** — e este é o único número rígido da tabela |
+
+**Dá pra passar do topo da faixa e continuar no mesmo rank.** Um Imortal que sobrevive a Calamidade após Calamidade sem correr pro salto continua gravando Marcas normalmente: elas grudam, contam pro nível de domínio, e fazem dele exatamente o **Imortal "denso"** que o mundo teme — alguém cujo rank subestima o que ele é.
+
+**O que ele paga por isso é o céu.** Não existe sobrecarga física: as Marcas ficam gravadas na Fenda Imortal e na carne imortal, e nenhum corpo explode pelo peso delas. O preço é que **a Vontade do Céu escala junto** — quanto mais o excesso cresce, mais fortes e destrutivas vêm as Calamidades seguintes. A escala está em [[⛈️ A Vontade do Céu#Excesso de Marcas — o preço de ficar|A Vontade do Céu]].
+
+> [!important] O único número rígido: o rank 9 exige 300.000 **num Caminho só**
+> Todas as faixas acima são de total. A ascensão a Venerável é a exceção: exige **300.000 Marcas no Caminho principal**, e nenhum acúmulo espalhado substitui isso.
+>
+> É daí que sai, como teorema em vez de conselho, a regra que o romance repete: **Venerável é coisa de especialista.** Um Imortal que divide 300.000 Marcas entre dois Caminhos tem 150.000 em cada e não ascende — ele precisaria de 300.000 no principal, ou seja, de um total muito maior, enfrentando Calamidades escaladas o caminho inteiro por causa do próprio excesso. É possível. É o modo mais difícil de fazer isso que existe.
+
+**Subir de rank** exige ter sobrevivido às provações do patamar e vencer a **Provação de Avanço** — procedimento completo em [[🪜 Ranks e Estágios|Ranks e Estágios]] (decisão 108). Note o que mudou: **o gargalo do salto nunca foram as Marcas, são as provações.** A faixa descreve onde você provavelmente está quando chega lá; ela não é o portão.
+
+### Densidade Imortal — as Marcas ocupam o lugar dos pequenos reinos
+
+Um mortal cresce **dentro** do rank: Inicial, Médio, Alto, Pico, e cada degrau soma **+1 de Densidade da Essência (B)**, que engorda a Vitalidade e o dano por dado ([[🪜 Ranks e Estágios|Ranks e Estágios]]). Ao ascender, esses degraus somem — e até aqui não havia nada no lugar deles. **Um Imortal recém-chegado e um Imortal veterano do mesmo rank tinham exatamente a mesma ficha**, o que é falso no romance e chato na mesa.
+
+**A contagem de Marcas é o que substitui os pequenos reinos** (decisão 224). A posição dentro da faixa do seu rank dá o seu **B**, com o mesmo efeito de sempre:
+
+```
+Vitalidade = (18 + 3×CON + 4×B) × M          Dano = M d(dado) + (M × B)
+```
+
+| Densidade Imortal | Rank 6 | Rank 7 | Rank 8 |
 |---|---|---|---|
-| 6 | Uva Verde | **9.999** | Marcas novas **não grudam mais** — perdem-se. A Abertura está saturada e pronta pro salto |
-| 7 | Jujuba Vermelha | **99.999** | idem |
-| 8 | Lichia Branca | **299.999** | idem |
-| 9 — **Venerável** | Damasco Amarelo | **sem teto** | — |
+| **B 0** — recém-ascendido | 1.000 | 10.000 | 100.000 |
+| **B 1** | 2.500 | 25.000 | 150.000 |
+| **B 2** | 5.000 | 50.000 | 200.000 |
+| **B 3** — no topo da faixa | 7.500 | 75.000 | 250.000 |
+| **B 4** — atingiu o topo | 10.000 | 100.000 | 300.000 |
 
-**Subir de rank** exige saturar o teto **e** ter sobrevivido às provações do patamar, e então vencer a **Provação de Avanço** — o procedimento completo, com o que acontece na conversão, está em [[🪜 Ranks e Estágios|Ranks e Estágios]] (decisão 108). Acumular densidade num Caminho só sem correr pro salto é possível e comum — é o Imortal "denso", perigoso acima do que o rank dele sugere.
+**A contagem é do TOTAL**, somando Caminhos — é a Abertura inteira que engrossa, não um Caminho específico. (O que é por Caminho é o **nível de domínio**, que dá Níveis de Potência. São dois eixos diferentes e vale não confundir: **Densidade é o quanto você aguenta, domínio é o quanto você machuca.**)
 
-No teto, o excesso de Marcas simplesmente não gruda — acúmulo natural nunca corrói a Abertura. O que corrói é o **Retrocesso de Marca**: Marcas impressas à força acima do teto (anexação grande demais, Marca emprestada no limite, Gu que gravam Marcas num cofre cheio). Definição completa em "O preço: as Marcas mandam em você" (item 4), abaixo.
+**Um Imortal de rank 6 com 10.000 Marcas tem B 4** — quatro degraus de Vitalidade e quatro de dano por dado acima do recém-ascendido do mesmo rank, com o mesmo M. É a tradução mecânica exata do "Imortal denso" e é por isso que ele assusta.
+
+> [!warning] Acima do topo da faixa: em medição, não use ainda
+> A extensão natural da tabela é que **quem passa do topo continua ganhando B** — seria o que torna ficar num rank uma escolha com dois lados, poder de um e Calamidade escalada de outro, em vez de só um risco. A proposta em avaliação é **+1 de B a cada 25% do topo da faixa acumulado além dele** (no rank 6: a cada 2.500 Marcas acima de 10.000).
+>
+> **Não publique isso como regra ainda.** B alimenta Vitalidade *e* dano ao mesmo tempo, e sem teto isso é a alavanca mais forte do motor inteiro — exatamente o tipo de número que a casa não fixa sem simulação. Está na bateria. Até fechar, trate **B 4 como o teto** e resolva um Imortal muito acima da faixa pela ficção e pelo nível de domínio dele.
+
+> [!note] Isto substitui os tetos duros de 9.999 / 99.999 / 299.999
+> A regra anterior devolvia ao vazio toda Marca ganha acima do teto do rank. Ela foi substituída por diretiva do autor, pra bater com o romance — onde ficar num rank acumulando densidade é uma estratégia conhecida e perigosa, não uma impossibilidade. Ver decisão 218 no [[🧭 Log de Decisões]].
 
 ### De qual Caminho é cada Marca que entra
 
@@ -167,7 +260,67 @@ Uma Terra Abençoada desenvolvida gera Marcas devagar, sozinha, enquanto o Imort
 
 ---
 
-## O preço: as Marcas mandam em você
+## 🌫️ O que as Marcas fazem sozinhas — manifestações passivas
+
+**Marca de Dao não é só um bônus que entra na conta do golpe. Ela vaza.** Quem carrega muita lei de um Caminho começa a deformar o mundo em volta sem ativar nada, sem gastar essência e sem querer — o corpo e a terra dele passam a *ser* um pouco daquele Caminho.
+
+Esta seção é **ferramenta de mestre**. Serve pra descrever um inimigo importante antes de ele levantar a mão, pra dar pistas ao grupo sobre com o que estão lidando, e pra fazer a caverna de um vilão parecer a caverna daquele vilão. Quase nada aqui é número.
+
+### Quando aparece
+
+| Onde o portador está | O que se manifesta |
+|---|---|
+| **Mortal, rank 1–5** | Só em quem é **muito especializado** — um detalhe sensorial e nada mais. As Marcas de um mortal ficam gravadas no **corpo**, e o corpo comporta pouco |
+| **Imortal, patamar Vislumbre a Pequeno Feito** | O detalhe fica constante e perceptível de perto, e a **Terra Abençoada começa a mudar** de acordo |
+| **Mestre ou acima** | A manifestação vira **aura**: sensível à distância, impossível de esconder por meios normais (é a mesma razão de "Marcas não escondem", abaixo), e a terra dele está francamente transformada |
+| **Quase-Supremo e acima** | O ambiente responde a ele sem que ele peça. A distribuição natural das Marcas dele pelo terreno é, nas palavras do romance, **um golpe matador passivo** |
+
+> [!success] 📕 Canônico — e mortais têm Marcas de Dao, sim
+> Vale desfazer uma confusão comum: **Marcas de Dao existem desde o rank 1**, gravadas no corpo (Cap. 764, 950, 1272 — um Gu Master privado de todos os seus Gu continua lutando com a força de um javali, porque a Marca está na carne). O que a Ascensão acrescenta não é a existência delas, é um **segundo reservatório** (a Fenda Imortal) e o motor de acúmulo em massa das tribulações. É por isso que o Caminho da Força consegue ter um fenômeno passivo em rank mortal ([[💪 Caminho da Força#👻 Fantasma de Fera|Fantasma de Fera]]) sem contradizer nada.
+>
+> As manifestações **ambientais** da tabela abaixo são canônicas e vêm quase todas de uma passagem só (Cap. 2109), onde se enumera o que acontece numa Fenda Imortal só por acumular Marcas: o Fogo esquenta o lugar, o Metal faz minério nascer no solo, a Água traz chuva e depois enchente. As entradas dos Caminhos que a obra não cobre são ✍️ **autorais**, construídas pelo mesmo molde.
+
+### A tabela
+
+**Como usar:** escolha a linha do Caminho do NPC e descreva **uma** coluna por cena — a pessoa quando o grupo o encontra, o lugar quando o grupo invade. Não descreva as duas de uma vez; a segunda perde o efeito.
+
+| Caminho | Na pessoa | No lugar dela |
+|---|---|---|
+| **Força** | Fantasmas de fera irrompem do golpe, involuntários — a única passiva **marcial** da lista, e a única que dá número ([[💪 Caminho da Força#👻 Fantasma de Fera\|regra]]) | O chão em volta cede e racha onde ele costuma treinar |
+| **Fogo** | O ar em volta é sempre quente demais; a comida perto dele esfria devagar demais | A temperatura da terra sobe sozinha, ano após ano, até nada de raiz fina sobreviver |
+| **Água** | A umidade condensa nele — roupa nunca seca de todo, copo transpira na mão | Chove muito mais que devia. Passado certo ponto, alaga sozinho |
+| **Madeira** | Plantas crescem rápido demais por onde ele passa e dorme | A vegetação toma tudo, rápido e sem ordem; a terra é fertilíssima e intransitável |
+| **Metal** | Objetos de metal perto dele soam diferente e resistem a enferrujar | Veios de minério **nascem no solo** onde não havia nenhum |
+| **Terra** | Ele parece pesado demais pro tamanho; pisar perto dele soa em pedra | O relevo se molda: sem Marcas, o terreno é plano e infértil; com muitas, vira rocha e fossa |
+| **Lua** | Frio ao toque; a sombra atrasa um instante em relação à luz que a fez | A noite dura mais do que devia, e a luz de dia chega sempre filtrada |
+| **Alma** | O olhar dele pesa; ficar muito tempo perto dá a impressão de estar sendo lido | Almas soltas se acumulam ali e não se dispersam — o lugar fica *habitado* |
+| **Sangue** | O cheiro; e sangue exposto perto dele escorre na direção errada | A flora e as feras da terra nascem **do lugar**, não de reprodução: vivas, vermelhas e erradas |
+| **Sombras** | A sombra dele é maior do que a fonte de luz justifica | A luz não chega ao chão em canto nenhum, por mais tochas que se acendam |
+| **Luz** | Ele é sempre um pouco mais visível do que o ambiente permitiria | Não existe noite lá dentro, e ninguém consegue se esconder de ninguém |
+| **Relâmpago** | Estática constante: cabelo, faísca ao toque, o cheiro antes da tempestade | Tempestade seca permanente, e nada alto sobrevive muito tempo em pé |
+| **Vento / Ar** | O ar se mexe em volta dele quando não há corrente nenhuma | Vento sem origem, constante, que apaga rastro e som |
+| **Gelo** | A respiração dele condensa mesmo no calor | A terra congela por camadas e não descongela na estação certa |
+| **Veneno** | Insetos morrem perto dele; a água parada estraga mais rápido | Nada comestível cresce, e o que cresce mata quem não é da casa |
+| **Osso** | As juntas dele estalam alto e o esqueleto se marca sob a pele | Ossadas antigas afloram do solo sem ninguém as ter enterrado |
+| **Espada / Lâmina** | Fios cortam a mão dele mais fácil; tecido roça e se rasga | O ar corta. Objetos deixados ali aparecem cortados sem que ninguém tenha tocado |
+| **Escravidão** | Animais o obedecem antes de ele pedir, e não gostam disso | As feras da região convergem pra lá e ficam, mesmo com fome |
+| **Transformação** | O rosto dele não se fixa direito na memória de quem o viu | Nada ali mantém a mesma forma de uma visita pra outra |
+| **Sonhos** | Quem dorme perto dele sonha com o que ele andou pensando | O lugar é difícil de lembrar depois, e o mapa nunca bate |
+| **Espaço** | Distâncias perto dele enganam — o passo chega antes ou depois | Caminhos de dentro não têm o comprimento que têm de fora |
+| **Cosmos / Tempo** | Ele parece ter a idade errada, e nunca a mesma | Coisas envelhecem em ritmos diferentes em cômodos diferentes |
+| **Sabedoria** | Ele responde meio segundo antes da pergunta terminar | O lugar é organizado de um jeito que só faz sentido depois |
+| **Formações** | Ele arruma tudo em padrão sem perceber que está fazendo isso | A geografia inteira **é** um arranjo, e o grupo já está dentro dele |
+| **Informação** | Ele sabe o nome de gente que não devia saber | Segredo nenhum dura ali dentro; o lugar conta |
+| **Sorte** | Coisas pequenas dão certo pra ele com frequência irritante | Acidentes bobos acontecem com quem não é bem-vindo |
+| **Humano** | As pessoas gostam dele antes de ter motivo | Comunidade prospera ali de um jeito que a economia não explica |
+| **Alimentação** | Ele nunca parece com fome, e quem o acompanha come melhor | A terra rende comida em quantidade absurda, mesmo mal cuidada |
+| **Refino** | As mãos dele têm marcas que não vêm de trabalho nenhum | Refinos feitos ali dão certo mais vezes do que deviam |
+| **Leis** | Promessas feitas perto dele custam a ser quebradas | Regras ditas ali dentro **valem**, e quem as quebra sente |
+
+**Os Caminhos que a mesa não vai usar** também estão aqui de propósito: um vilão do Caminho das Leis ou da Sorte é muito mais interessante quando o mestre sabe como a presença dele se parece antes de qualquer rolagem.
+
+> [!tip] A passiva que o sistema deliberadamente **não** transformou em número
+> O romance também diz que as Marcas de um Caminho **amortecem golpes de Caminhos alheios** antes de eles chegarem (Cap. 1161). É boa ficção e péssima regra: viraria mais uma subtração por golpe, exatamente o que a decisão 220 recusou. Use como descrição — "o golpe chega e parece perder peso no caminho" — e deixe a aritmética quieta.
 
 Marca de Dao não é só bônus. Ela **reescreve o portador**, e é aqui que mora o tom de sobreviventes do jogo.
 
@@ -179,9 +332,65 @@ Um Imortal muito denso vive sob tempestade permanente, e é por isso que alguns 
 
 **3. Marcas não escondem.** Um Imortal com nível de domínio Mestre ou acima **não consegue se disfarçar** de rank inferior por meios normais — as Marcas vazam. Só um Gu Imortal específico de ocultação, caríssimo de manter, resolve isso.
 
-**4. Retrocesso de Marca.** Marcas **impressas à força** acima do teto do rank (anexação grande demais, Marca emprestada no limite, Gu que gravam Marcas num cofre cheio) corroem a Abertura: **1 Ferimento permanente por 1.000 Marcas forçadas**, e nenhuma Marca nova gruda até subir de rank ou expurgá-las. Acúmulo natural não corrói — no teto, ele simplesmente para (ver "Rank e Marcas", acima).
+**4. Retrocesso de Marca.** Acúmulo natural **nunca** corrói a Abertura, por maior que fique — as Marcas se gravam na Fenda Imortal e na carne imortal, e o preço do excesso é o céu, não o corpo (ver "Rank e Marcas", acima). O que corrói é a Marca **do Caminho errado**: Marcas de um Caminho **incompatível** impressas à força na sua Abertura (anexação de uma vítima de Caminho oposto, Marca emprestada de aliado incompatível, Gu que gravam a Marca que vier) custam **1 Ferimento permanente por 1.000 Marcas forçadas**. Ver "Conflito de Caminhos", logo abaixo.
 
-**5. Caminho duplo custa duas vezes.** Como já está em [[🛤️ Os Caminhos|Os Caminhos]], cada Caminho além do primeiro soma +50% ao custo de progressão de ambos — em Marcas, isso significa que toda fonte da tabela acima rende **um terço a menos** por Caminho extra que o personagem carrega.
+**5. Caminho extra custa em progressão.** Cada Caminho além do primeiro encarece a progressão de ambos e reduz o que cada fonte rende. **Quanto exatamente depende da relação entre os dois Caminhos** — é o assunto da seção a seguir.
+
+---
+
+## Conflito de Caminhos — o que acontece quando as Marcas brigam
+
+**Marcas de Caminhos diferentes não convivem em paz.** Elas ocupam a mesma Abertura, e a lei que cada uma carrega contradiz a da outra — o poder que deveria sair inteiro sai gastando parte de si mesmo só pra atravessar o conflito. Carregar dois Caminhos nunca é somar dois arsenais: é sempre pagar um atrito.
+
+**Mas o atrito não é o mesmo entre quaisquer dois Caminhos.** Dois Caminhos da mesma família se assentam em camadas; dois Caminhos opostos se repelem ativamente.
+
+### As três relações
+
+| Relação | O que são | Custo de progressão | Cada fonte rende | Penalidade em jogo |
+|---|---|---|---|---|
+| **Complementar** | Mesma família Yin ou Yang, ou o **ciclo de geração** do Wu Xing (Água→Madeira→Fogo→Terra→Metal→Água) | **+25%** | **−1/6** por Caminho extra | Nenhuma |
+| **Neutro** | Pelo menos um dos dois é **estrutural** — não tem polaridade | **+50%** | **−1/3** por Caminho extra | Nenhuma |
+| **Incompatível** | Yin contra Yang direto, ou o **ciclo de destruição** do Wu Xing (Água↔Fogo, Fogo↔Metal, Metal↔Madeira, Madeira↔Terra, Terra↔Água) | **+50%** | **−1/3** por Caminho extra | **Anulação** e **ecologia instável** — abaixo |
+
+**A que família cada Caminho pertence:**
+
+| Família | Caminhos |
+|---|---|
+| **Yin** | Lua · Alma · Sombras · Sangue · Veneno · Sonhos · Gelo |
+| **Yang** | Fogo · Luz · Relâmpago · Espada/Metal · Força · Osso |
+| **Estruturais** *(sem polaridade — neutros com todo mundo)* | Terra · Madeira · Água · Ar · Espaço · Cosmos/Tempo · Formações · Sabedoria · Informação · Sorte · Humano · Alimentação · Refino · Transformação · Escravidão · Leis |
+
+Dois Caminhos da **mesma** família são complementares. Um Yin e um Yang são **incompatíveis**. Qualquer combinação que inclua um estrutural é **neutra** — salvo os pares do ciclo de destruição do Wu Xing, que são incompatíveis mesmo entre estruturais (Água e Fogo é o par clássico).
+
+> [!success] 📕 Canônico — o atrito interno
+> O romance trata isso com um nome próprio: **atrito interno** (*internal friction*). Marcas de Caminhos conflitantes desperdiçam poder continuamente, sem ninguém ativar nada — a ponto de uma Casa de Gu Imortal **colapsar sozinha** ao ser instalada perto de marcas incompatíveis (Vol. 6). É a manifestação passiva de Marcas de Dao mais bem documentada da obra inteira, e vale pra todos os Caminhos.
+
+### O que a incompatibilidade faz
+
+**1. Anula parte do seu domínio.** Pra calcular o nível de domínio de um Caminho, subtraia **metade** das Marcas do Caminho incompatível:
+
+```
+Marcas efetivas do Caminho A = Marcas de A − (Marcas do Caminho incompatível ÷ 2)
+```
+
+Um Imortal com 30.000 de Lua e 12.000 de Fogo opera a Lua como se tivesse **24.000** — ainda Mestre, mas comprou isso com 42.000 Marcas em vez de 30.000. E o Fogo dele conta como **zero**: 12.000 − 15.000 é negativo, então ele tem um Caminho que não lhe rende domínio nenhum.
+
+**2. Anula parte da sua potência.** **−1 Nível de Potência** em todos os seus Gu, por Caminho incompatível carregado (mínimo 0). Ter Lua e Fogo custa um Nível nos dois; ter Lua, Fogo e Luz custaria dois.
+
+**3. Desestabiliza a Fenda Imortal.** A ecologia da Terra Abençoada não aguenta duas leis que se recusam mutuamente. **A cada 10.000 Marcas do Caminho incompatível menor, a terra ganha 1 nível permanente de [[🗝️ Terra Abençoada#Ferimento da Terra|Ferimento da Terra]]** — permanente no sentido literal: as 50 Pedras de Essência Imortal e os 3 meses de reparo padrão **não** consertam este nível, porque a causa não saiu. Ele só some quando as Marcas somem.
+
+E enquanto durar, a terra não estabiliza: a Sintonia dela **não pode ser trocada**, e o Desequilíbrio ecológico sobe sozinho ([[🌾 Ecologia e Economia da Terra Abençoada|Ecologia]]).
+
+### A leitura de mesa
+
+**Isto não proíbe nada — precifica.** Um jogador pode absolutamente cultivar Lua e Fogo. Ele vai ser um Imortal com uma Fenda ferida, um Nível a menos em tudo, e um segundo Caminho que não lhe rende domínio até passar a metade do primeiro. Se ele topar isso porque a história do personagem exige, a mesa não deve impedir — deve **cobrar direito**.
+
+**E é o que explica a especialização canônica sem precisar de sermão.** Quase todo cultivador do romance é especialista, e quem carrega um segundo Caminho o trata como **ferramenta**: mantém nele só o mínimo pra utilidade que quer (deslocamento, refino, investigação) e escolhe, quando pode, um Caminho complementar ou estrutural. Não é disciplina — é aritmética.
+
+> [!tip] Os Caminhos que contam como um só
+> Existem casos em que dois ou mais Caminhos se comportam como **um contador único**, sem divisão, sem conflito e sem penalidade — o corpo do cultivador simplesmente lê todas as Marcas como sendo do mesmo Caminho. Não é algo que se compre: vem de linhagem, de físico anômalo ou de concessão de mesa, e é sempre exceção nomeada, nunca regra geral.
+>
+> Quando acontece, vale **inteiro**, inclusive pro pré-requisito de 300.000 Marcas do rank 9. Exemplos da campanha de referência estão em [[🎲 A Mesa — Personagens dos Jogadores|A Mesa]].
 
 ---
 

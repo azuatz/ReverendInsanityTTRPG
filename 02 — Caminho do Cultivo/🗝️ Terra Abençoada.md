@@ -32,7 +32,7 @@ Tamanho (em milhões de mu) = Base de Aptidão + Qi Celestial + modificadores
 | C | 1 |
 | B | 2 |
 | A | 3 |
-| Dez Físicos Extremos | 6 |
+| Dez Físicos Extremos *(só NPC)* | 6 |
 
 ### 2. Os Três Ares — as 10 Porções
 

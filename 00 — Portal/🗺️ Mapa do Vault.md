@@ -69,7 +69,7 @@ escopo: processo
 | [[🛤️ Os Caminhos]] | Os 23 Caminhos, sinergias, e a **via de avanço** de cada um (o que rende Marca em dobro) |
 | [[🗝️ Terra Abençoada]] | Território de um Imortal — tamanho decidido na Ascensão pelos Três Ares, **fluxo de tempo e essência por qualidade**, 4 camadas, **Ferimentos da Terra**, anexação |
 | [[🌾 Ecologia e Economia da Terra Abençoada]] | **A fenda como ecossistema e fazenda** — Sintonia elemental pelas Marcas (o que prospera e o que a terra rejeita), Capacidade de Carga em Pontos de Biomassa, cadeia alimentar, **Ração dos Gu Imortais e as 4 penalidades de fome**, mineração com Reserva finita, trilha de **Desequilíbrio**, dano ecológico de Calamidade, e o **Ciclo Anual** em 5 passos |
-| [[🌠 Os Dez Físicos Extremos]] | **6 físicos jogáveis** (inclusive a Lua Antiga), a regeneração violenta, a **Pressão da Abertura** e as tribulações |
+| [[🌠 Os Dez Físicos Extremos]] | **Material de mestre, não de ficha** — a anomalia que vira rival, tragédia ou prêmio caçado: regeneração violenta, **Pressão da Abertura**, tribulações e 6 físicos detalhados |
 | [[🌙 Caminho da Lua]] | Fase Lunar como dial, lâminas de corte, maré e frio Yin. 5 Gu + 2 Golpes Matadores |
 | [[👻 Caminho da Alma]] | Dano que ignora RD, a **Força de Alma em homens** (teto mortal 100), Gu das Tripas e o vício, Devoração e **Contaminação**, e a sinergia Lua+Alma |
 | [[☯️ Os Cinco Caminhos Wu Xing]] | Os ciclos de geração e destruição como regra de combate, o terreno como dial, e **os cinco elementos como um Caminho só** (o acordo do Lee) |
@@ -82,7 +82,7 @@ escopo: processo
 | [[⏳ Longevidade]] | 100 anos pra todos; o Gu de Longevidade é o único caminho limpo, mais **10 desvios canônicos** (zumbificação, ressurreição, possessão) e o que cada um cobra |
 | [[💠 Economia das Pedras Primordiais]] | Preços de referência, Pedra Imortal, Pontos de Origem, e a **escala de pontos de recurso** (minúsculo → auge) pra riqueza territorial de facção |
 | [[🧘 Ritmo de Cultivo e Cultivo Fechado]] | **Quanto tempo leva cada estágio** (dias por rank × Aptidão), cultivo acelerado a Pedras (consumo 1–16/dia pelo rank), e o **cultivo fechado**: −1/3 do tempo, zero renda, ração dos Gu estocada antes |
-| [[🌟 Aptidão e Abertura]] | Graus D a A, teto natural, as duas rolagens de criação, e os **Dez Físicos Extremos** com a contagem regressiva |
+| [[🌟 Aptidão e Abertura]] | Graus D a A, teto natural, **a regeneração de essência por Grau**, as duas rolagens de criação (a Aptidão rolada é definitiva), e a distribuição real da população |
 
 ## 03 — Gu
 
@@ -113,6 +113,7 @@ escopo: processo
 | [[📋 Guia de Criação de Ficha]] | Passo a passo completo, do conceito à ficha pronta |
 | [[🤝 Vínculos e Acordo de Mesa]] | **A nota que protege jogador, não personagem** — o Vínculo (vantagem 1×/sessão, quebra vira Débito), as 5 perguntas do Acordo de Mesa e as 5 amarras do protocolo de traição |
 | [[🎯 Perícias]] | **A lista fechada de 17 perícias** pelos seis atributos (com Bestiário, Refino, Avaliação e Etiqueta de Clã como as quatro do cenário), 3 treinadas na criação, bônus de treino escalando +2→+6 pelo rank |
+| [[📈 O Que Muda ao Subir]] | **O checklist do crescimento** — o que recalcular ao subir de estágio, ao subir de rank e ao ascender, em caixas de conferência, mais os 6 itens que quase todo mundo esquece |
 | [[🏛️ Clãs e Seitas]] | Clã = sangue (heranças de linhagem + trilho de **Obrigação**) × Seita = contrato (**Pontos de Contribuição** com tabela de preços). Salão de Missões mortal; ao ascender a Imortal, vira os **Três Quadros** (Contribuição, Missões, Troca) |
 
 ## 05 — Arsenal

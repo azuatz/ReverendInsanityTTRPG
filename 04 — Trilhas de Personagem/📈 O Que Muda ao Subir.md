@@ -71,7 +71,6 @@ A Ascensão não é "mais um rank". Metade da ficha passa a funcionar por outras
 |---|---|
 | ☐ **Estágios** | Não existem mais. Nada de Inicial/Médio/Alto/Pico daqui pra cima |
 | ☐ **Grau de Densidade (B)** | **O nível de domínio nas Marcas de Dao ocupa o lugar dele** na mesma fórmula |
-| ☐ **Pressão da Abertura** | Cessa na Ascensão *(quem tinha Físico Extremo para de rolar)* |
 | ☐ **Essência mortal como tanque** | O tanque passa a ser **da sua Terra Abençoada**, não da sua ficha |
 
 ### O que nasce

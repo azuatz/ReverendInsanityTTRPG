@@ -77,7 +77,7 @@ Modificador de Caminho: Sangue/Carne/Osso ×0,5 · elementais ×1
                         · Tempo/Espaço/Sonho/Leis ×1,5
 Manutenção de Sustentação = (nº de Gu sustentados)² × 5 por rodada
                             [Gu em Vaga de Suporte ficam FORA dessa conta]
-Essência em combate       = NÃO regenera (só Físico Extremo: 10% do tanque,
+Essência em combate       = NÃO regenera (só Físico Extremo, que é NPC: 10% do tanque,
                             teto 100/rodada · 150 favorável · 200 ideal · 50 hostil)
 
 Gu carregados      = (% ÷ 10) + rank        Gu ativos = CON + rank

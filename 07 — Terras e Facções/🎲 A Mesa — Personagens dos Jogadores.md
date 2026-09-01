@@ -19,7 +19,7 @@ Registro vivo dos quatro jogadores e dos personagens. Atualize conforme a criaç
 
 | Jogador   | Personagem    | Aptidão | Grau | Teto natural                        | Caminho declarado         |
 | --------- | ------------- | ------- | ---- | ----------------------------------- | ------------------------- |
-| **Pepo**  | **Gu Yue Xie Lang** | **86%**, subindo a 100% | A | Nenhum, quando a Abertura fechar | Lua + Alma                |
+| **Pepo**  | **Gu Yue Xie Lang** | **86%** | A    | Rank 5, com chance real de Ascensão | Lua + Alma                |
 | **Vize**  | **Jiāotáng**  | **76%** | B    | Rank 3–4                            | Sangue + Força            |
 | **Gush**  | **Lee**       | **63%** | B    | Rank 3–4                            | Cinco Elementos (Wu Xing) |
 | **Binho** | **Demvi**     | **56%** | C    | Rank 2, raramente início do 3       | Vento                     |
@@ -34,41 +34,47 @@ Registro vivo dos quatro jogadores e dos personagens. Atualize conforme a criaç
 
 | Jogador | Buff de Lore | O fio preso nele |
 |---|---|---|
-| **Pepo** | **Físico da Lua Antiga** — um dos Dez Físicos Extremos, de graça, com os 12 pontos intactos. Começa **Latente**, em 86%, e desperta até 100% em jogo | Pressão da Abertura, Dívida do Destino, o Gu Imortal vital travado no físico, e **+25% de Caminho duplo a partir de Pequeno Feito** |
+| **Pepo (Xie Lang)** | **Ressonância da Montanha Fria** — **Lua e Alma contam como um Caminho só**, os dois em força plena | Não paga penalidade nenhuma de Caminho duplo, mas **nunca pode tomar um terceiro Caminho**; e a ressonância é uma assinatura que quem sabe procurar consegue seguir |
 | **Gush (Lee)** | **Os Cinco Elementos como um Caminho só**, cada elemento em força plena | Nunca pode tomar um segundo Caminho, e mantém cinco arsenais alimentados |
-| **Vize (Jiāotáng)** | **Linhagem de sangue antigo** — Sangue e Força contam como **um Caminho só**, os dois em força plena | Não paga o +50% de Caminho duplo, mas também **nunca pode tomar um terceiro Caminho**; e o Sangue é crime capital se descoberto |
+| **Vize (Jiāotáng)** | **Linhagem de sangue antigo** — o corpo dele carrega Sangue e Força **sem atrito nenhum entre os dois** | As Marcas dele **se dividem** entre os dois Caminhos, e ele **nunca pode tomar um terceiro**; e o Sangue é crime capital se descoberto |
 | **Binho (Demvi)** | **Nascido do vento** — uma vez por cena, **ignora sem rolar** qualquer tentativa de bloqueio, cerco ou prisão | Ele escapa sempre, e por isso **nunca segura uma posição**: não pode ser quem cobre a retirada dos outros |
 
-### Pepo — Físico da Lua Antiga concedido
+### Xie Lang — a Ressonância da Montanha Fria
 
-**Custo: zero.** Ele fica com os **12 pontos inteiros**, e **começa com os 86% que rolou** — o físico está lá, mas **Latente**. A Abertura sobe até 100% ao longo da campanha, em **sete Marcos de +2%**: quatro vêm de subir de rank, três vêm de feitos do próprio físico (*A Noite Inteira*, *A Colheita*, *O Eclipse*). Regra completa em [[🌠 Os Dez Físicos Extremos|Abertura Incompleta]].
+> [!warning] Este personagem mudou. Se você leu a versão antiga desta nota, esqueça o que ela dizia
+> O Xie Lang **não tem mais o Físico da Lua Antiga** — nem Latente, nem despertando, nem nada (decisão 216). Ele é um cultivador de Aptidão alta e mais nada de excepcional no corpo. Não existe Pressão da Abertura na ficha dele, não existe contagem de Marcos, não existe teto de rank removido, e a Aptidão dele **não sobe** durante a campanha: 86% é 86%. Os Dez Físicos Extremos passaram a ser exclusivamente material de NPC ([[🌠 Os Dez Físicos Extremos|lá]]).
 
-**O que ele tem agora, com a Abertura Latente:** QI 344 em vez de 400, regeneração pela metade (41 sob lua cheia em vez de 100), **+1** Nível de Dano em Lua e Alma em vez de +2, sem a *Maré Baixa*, sem Ativação Forçada barata, e o teste da Pressão da Abertura **2 pontos mais difícil** (`CD 12 + Pressão` enquanto Latente).
+**A história.** Ele tinha oito anos quando o clã perdeu os pais dele numa noite na montanha, e foi o único que voltou. Não voltou por talento: voltou porque havia **um Gu residual naquele frio** — algo velho, sem dono, que já estava ali muito antes — e a coisa **ressoou** com ele em vez de matá-lo. Ninguém no clã sabe explicar direito, ele menos que todos, e o Gu nunca mais foi encontrado. O que ficou foi a ressonância.
 
-**O que o físico dá:** sem teto de rank, regeneração de Essência acelerada (10% do tanque por rodada, até o teto de 100–200), cultivo passivo mais rápido, vantagem em toda Quebra de Paredes, e **+2 Níveis de Dano** nos Gu de Lua e de Alma.
+**O buff, em regra:** **Lua e Alma contam como um Caminho só**, os dois em força plena. Ele não paga a penalidade de Caminho duplo em nada — nem custo de progressão, nem redução de Marcas — e as Marcas dele contam por inteiro nos dois pra efeito de nível de domínio.
 
-**O que ele continua pagando — e isto não é negociável, é o buff inteiro:**
-- **A contagem regressiva.** A **Pressão da Abertura** sobe +1 a cada 6 meses; teste de CON contra `10 + Pressão` ou **−5% de Vitalidade máxima, permanente**. Subir de rank zera a Pressão e cura metade da perda. Dá pra sangrar a Pressão esvaziando a Essência no mês — o físico premia imprudência.
-- **A Dívida do Destino.** Um gancho que o mestre cobra quando quiser, e o jogador não escolhe quando.
-- **Na Ascensão, o Gu Imortal vital tem que corresponder exatamente ao físico.** Sem substituto, sem plano B.
+É o mesmo desenho do buff do Lee e do Jiāotáng, e tem uma razão de regra por trás: **Lua e Alma são Caminhos complementares**, ambos Yin puro, e pela regra geral de [[☯️ Marcas de Dao#Conflito de Caminhos — o que acontece quando as Marcas brigam|conflito de Caminhos]] eles já pagariam a penalidade reduzida. O buff leva isso ao limite e zera.
 
-**Leitura honesta pro mestre:** a Abertura Latente resolve o maior problema que este buff tinha. Com 100% de largada, o Xie Lang começaria mais forte que a mesa inteira na sessão 1 e nada dos outros três importaria. Com 86% subindo, ele começa **um pouco à frente** e passa a campanha **se tornando** o que ele é — que é a versão boa da mesma história.
+**O fio preso nele:**
+- **Nunca pode tomar um terceiro Caminho.** Lua e Alma ocupam o espaço inteiro — nada entra, nem por herança, nem por Gu Imortal.
+- **A ressonância é uma assinatura.** Quem souber o que procurar — um adivinho decente, um Gu de rastreamento de Lua ou de Alma, alguém que já tenha sentido aquele Gu antes — consegue **segui-la**. Trate como um degrau permanente de [[👁️ Exposição|Exposição]] que ele não tem como baixar por meios normais: ele pode trocar de rosto, não de ressonância.
+- **E o Gu residual ainda está em algum lugar.** Quem matou os pais dele pode ter ido atrás dele; pode ainda estar indo.
 
-Duas coisas continuam dependendo de você: dar aos outros três buffs que **importem tanto quanto** (sugestões abaixo), e **rolar a Pressão da Abertura de verdade**. Ela é o cronômetro do personagem inteiro, e é mais perigosa agora do que será depois — enquanto Latente o teste é `CD 12 + Pressão`. Se você esquecer de rolá-la, o buff fica sem preço nenhum.
+**Leitura honesta pro mestre.** Este buff é bem mais modesto do que o Físico Extremo era, e isso é de propósito: o Xie Lang deixou de ser o personagem que começa à frente da mesa inteira e virou **um dos quatro**, com uma vantagem de eficiência real (ele mantém dois arsenais pelo preço de um) e nenhuma vantagem de poder bruto. Se ele for o mais forte da mesa agora, vai ser pelo arsenal que o jogador montar, não pela ficha.
 
-**Mas o freio real não era a Abertura Latente — era um buraco no catálogo, e ele foi corrigido.** Ao simular os quatro personagens no rank 3, o Xie Lang saiu **penúltimo**, não primeiro: 13% de vitória num duelo contra o Jiāotáng, 22% contra um Elite do próprio rank. O motivo não era a ficha dele. **Lua e Alma não tinham nenhum Gu de ataque de rank 3 nem de rank 4** — o melhor ataque dele nessa faixa era um Gu de rank 2, com `M = 2`, enquanto Lee e Jiāotáng batiam com `M = 4`. Metade do multiplicador, e os 344 de QI não compravam nada porque não havia em que gastar.
+**O que continua valendo da medição antiga — e o que não.** Ao simular os quatro no rank 3, o Xie Lang saiu **penúltimo**: 13% de vitória em duelo contra o Jiāotáng, 22% contra um Elite do próprio rank. O motivo não era a ficha dele — **Lua e Alma não tinham nenhum Gu de ataque de rank 3 nem de rank 4**, então o melhor ataque dele na faixa era um Gu de rank 2 com `M = 2`, contra `M = 4` dos outros. Os Gu que faltavam foram escritos, e com o buraco tapado ele subiu pra 63% em duelo e 70% contra o Elite.
 
-Os Gu que faltavam foram escritos ([[🌙 Caminho da Lua|Lua]], [[👻 Caminho da Alma|Alma]] e [[🌪️ Caminho do Vento|Vento]] ganharam ataque de rank 3 e 4). Com o buraco tapado — e ainda **Latente**, com +1 Nível em vez de +2 — ele passa a vencer o Jiāotáng em **63%** dos duelos e um Elite do próprio rank em **70%**: o topo da mesa, por uma margem que se sente sem esmagar ninguém. É exatamente onde este buff deveria ter deixado ele desde o começo, e a Abertura completando ao longo da campanha ainda é margem por vir.
+Esses 63% e 70% foram medidos **com o Físico ainda na ficha**, e portanto estão desatualizados: sem os +2 Níveis em Lua e Alma e sem a regeneração violenta, ele cai. **A remedição está em andamento** — quando ela fechar, os números entram aqui e no [[🎯 Simulação de Combate — Resultados]].
 
-> **A lição de mesa, e ela vale além deste personagem:** neste sistema o que define o poder de um personagem não é a aptidão nem o rank — é **se o Caminho dele tem um Gu de ataque no rank em que ele está**. Um buraco de catálogo custou mais que oito pontos de criação. Antes de subir a mesa de rank, confira se cada Caminho da mesa tem ataque no rank novo.
-
-**E use os três feitos como ganchos.** *A Noite Inteira* pede que ele fique imóvel e indefeso a noite toda num lugar que atrai coisas ruins. *A Colheita* pede dez homens de Força de Alma, e cada um veio de alguém. *O Eclipse* acontece **uma vez na campanha**, você decide quando, e todo mundo que entende de Lua vai estar lá. São três sessões inteiras que se escrevem sozinhas.
+> **A lição de mesa, e ela vale além deste personagem:** neste sistema o que define o poder de um personagem não é a aptidão nem o rank — é **se o Caminho dele tem um Gu de ataque no rank em que ele está**. Um buraco de catálogo custou mais que qualquer buff de lore vale. Antes de subir a mesa de rank, confira se cada Caminho da mesa tem ataque no rank novo.
 
 ### Lee — os Cinco Elementos em força plena
 
 Pelas regras normais, cada Caminho além do primeiro soma +50% ao custo de progressão de ambos (ver [[🛤️ Os Caminhos|Os Caminhos]]) — cinco Caminhos seria matematicamente impossível.
 
-**O buff:** "Cinco Elementos" é **um Caminho só**, com os cinco funcionando como faces dele. Ele paga o custo de **um** Caminho, e as **Marcas de Dao dele contam por inteiro em todos os cinco** — em fogo ele é tão forte quanto um especialista em fogo do mesmo nível de domínio, e o mesmo vale pros outros quatro. As sinergias dos ciclos de geração e destruição saem de graça (ver [[☯️ Os Cinco Caminhos Wu Xing|Os Cinco Caminhos Wu Xing]]).
+**O buff:** "Cinco Elementos" é **um Caminho só**, com os cinco funcionando como faces dele. Ele paga o custo de **um** Caminho, e as sinergias dos ciclos de geração e destruição saem de graça (ver [[☯️ Os Cinco Caminhos Wu Xing|Os Cinco Caminhos Wu Xing]]).
+
+> [!important] As Marcas de Dao dele não se dividem — nunca
+> **O corpo do Lee lê qualquer Marca elemental como Marca do mesmo Caminho.** Não importa se ela veio de uma Calamidade que ele atravessou com fogo, de um Gu Imortal de metal que ele refinou, ou da Sintonia de uma terra de madeira: **toda Marca entra num contador só, o do Wu Xing**, que é o Caminho principal dele e vale nos cinco elementos por igual.
+>
+> Ele **não sofre conflito de Caminhos**, não paga a redução de fonte por Caminho extra, e não corre o risco de chegar ao rank 8 com a contagem repartida ([[☯️ Marcas de Dao#Conflito de Caminhos — o que acontece quando as Marcas brigam|conflito de Caminhos]]). Para o pré-requisito de **300.000 Marcas no Caminho principal** que a ascensão a Venerável exige, o contador do Wu Xing conta inteiro.
+>
+> Isto é o que impede o buff dele de ser uma armadilha: sem esta regra, "cinco Caminhos" significaria cinco contagens rasas e um personagem estruturalmente incapaz de chegar ao topo — o oposto do que o buff promete.
 
 **O fio preso nele:**
 - **Ele nunca pode tomar um segundo Caminho.** Os cinco já ocupam o espaço inteiro. Sangue, Vento, Alma, Espaço — nada disso entra, nem com herança, nem com Gu Imortal.
@@ -80,7 +86,7 @@ Pelas regras normais, cada Caminho além do primeiro soma +50% ao custo de progr
 Os dois têm buff do mesmo peso dos outros dois. As alternativas que foram consideradas e não escolhidas ficam registradas abaixo, caso a mesa queira trocar antes da primeira sessão. Sugestões que dobram uma regra sem inventar número:
 
 **Pra Jiāotáng (Sangue + Força):**
-- ✅ **Linhagem de sangue antigo** *(escolhido)* — Sangue e Força contam como **um Caminho só** (mesmo desenho do buff do Lee, e resolve de vez a penalidade dupla que já está anotada na ficha dele).
+- ✅ **Linhagem de sangue antigo** *(escolhido)* — o corpo dele carrega Sangue e Força **sem atrito nenhum**. As Marcas continuam se dividindo entre os dois Caminhos, mas não conflitam e não custam nada a mais.
 - **Carne que lembra** — ele pode reaprender qualquer Gu de Corpo que já assentou uma vez, mesmo depois de perdê-lo, sem repetir o requisito de CON.
 - **Sangue que não acaba** — o custo de essência dos Gu de Sangue dele pode ser pago em Vitalidade, 1 pra 1, quando a Essência acabar.
 
@@ -139,7 +145,10 @@ Os quatro no **rank 1, estágio Inicial** (`M = 1`), que é onde a campanha come
 
 ## 📈 Xie Lang — a progressão completa do Rank 1 ao Rank 2 *(motor v2)*
 
-Tabela de acompanhamento pronta pra ficha. Base: **CON +3 · VON +3 · DES +3**, Abertura **86% Latente**, **Físico da Lua Antiga** dando **+1 Nível** em Gu de Lua e de Alma enquanto Latente (vira +2 quando a Abertura fechar em 100%).
+Tabela de acompanhamento pronta pra ficha. Base: **CON +3 · VON +3 · DES +3**, Abertura **86%, fixa**, e a *Ressonância da Montanha Fria* como Buff de Lore — que dá **economia de progressão** (Lua e Alma como um Caminho só), **não Nível de Dano nenhum**.
+
+> [!note] Números já recalculados sem o Físico
+> Todas as tabelas abaixo foram refeitas: o **+1 Nível que o Físico da Lua Antiga somava em Lua e Alma saiu de cada linha**, e os dados caíram um degrau onde ele estava embutido. O que continua pendente é só a **taxa de vitória** dele contra os outros três (a medição está em andamento) — os dados de dano aqui já são os corretos.
 
 ```
 Vitalidade = (18 + 3×CON + 4×B) × M = (27 + 4B) × M
@@ -173,19 +182,19 @@ Corte à distância que **ignora cobertura parcial** e aplica **frio Yin** (−2
 
 | Estágio | Interior / dia *(Fase −1)* | **Noite comum** *(+1)* | Lua cheia, céu aberto *(+2)* |
 |---|---|---|---|
-| **Inicial** | `1d8` — média 4,5 | **`1d12`** — 6,5 | `1d12+1` — 7,5 |
-| **Médio** | `1d8+1` — 5,5 | **`1d12+1`** — 7,5 | `1d12+2` — 8,5 |
-| **Alto** | `1d8+2` — 6,5 | **`1d12+2`** — 8,5 | `1d12+3` — 9,5 |
-| **Pico** | `1d8+3` — 7,5 | **`1d12+3`** — 9,5 | `1d12+4` — 10,5 |
+| **Inicial** | `1d6` — média 3,5 | **`1d10`** — 5,5 | `1d12` — 6,5 |
+| **Médio** | `1d6+1` — 4,5 | **`1d10+1`** — 6,5 | `1d12+1` — 7,5 |
+| **Alto** | `1d6+2` — 5,5 | **`1d10+2`** — 7,5 | `1d12+2` — 8,5 |
+| **Pico** | `1d6+3` — 6,5 | **`1d10+3`** — 8,5 | `1d12+3` — 9,5 |
 
 **Rank 2 — Gu da Foice Crescente** *(passo +1 → d10)* · pool de **2 dados** · alcance 25 m, 2 disparos por ativação
 
 | Estágio | Interior / dia | **Noite comum** | Lua cheia, céu aberto |
 |---|---|---|---|
-| **Inicial** | `2d10` — 11 | **`2d12+2`** — 15 | `2d12+4` — 17 |
-| **Médio** | `2d10+2` — 13 | **`2d12+4`** — 17 | `2d12+6` — 19 |
-| **Alto** | `2d10+4` — 15 | **`2d12+6`** — 19 | `2d12+8` — 21 |
-| **Pico** | `2d10+6` — 17 | **`2d12+8`** — 21 | `2d12+10` — 23 |
+| **Inicial** | `2d8` — 9 | **`2d12`** — 13 | `2d12+2` — 15 |
+| **Médio** | `2d8+2` — 11 | **`2d12+2`** — 15 | `2d12+4` — 17 |
+| **Alto** | `2d8+4` — 13 | **`2d12+4`** — 17 | `2d12+6` — 19 |
+| **Pico** | `2d8+6` — 15 | **`2d12+6`** — 19 | `2d12+8` — 21 |
 
 *A Fase é o único dial: o teto do Caminho é **+2 Níveis**, na lua cheia. Sem céu visível, trate como lua nova e o Caminho não recebe nada.*
 
@@ -193,14 +202,14 @@ Corte à distância que **ignora cobertura parcial** e aplica **frio Yin** (−2
 
 **Ignora RD, armadura e Defesa física por completo.** A Defesa contra ele é `10 + VON + rank` do alvo. Custo ×1,25 como todo Gu de Alma.
 
-**Rank 1 — Gu da Agulha de Sussurro** *(passo −1 → d10, +1 do Físico → d12)* · **1 dado** · alcance 10 m
+**Rank 1 — Gu da Agulha de Sussurro** *(passo −1 → d10)* · **1 dado** · alcance 10 m
 
 | Estágio | Dano em Alma |
 |---|---|
-| **Inicial** | `1d12` — 6,5 |
-| **Médio** | `1d12+1` — 7,5 |
-| **Alto** | `1d12+2` — 8,5 |
-| **Pico** | `1d12+3` — 9,5 |
+| **Inicial** | `1d10` — 5,5 |
+| **Médio** | `1d10+1` — 6,5 |
+| **Alto** | `1d10+2` — 7,5 |
+| **Pico** | `1d10+3` — 8,5 |
 
 **Rank 2 — Gu do Verme da Lembrança** *(passo 0 → d12)* · **2 dados** · toque ou 5 m · falha de VON custa a ação da próxima rodada
 
@@ -215,24 +224,31 @@ Corte à distância que **ignora cobertura parcial** e aplica **frio Yin** (−2
 
 ### ⚡ O Golpe Matador no Pico do Rank 2
 
-Com o Teto de Combo em 5, o **Corte do Minguante** cabe inteiro: núcleo Foice Crescente + 3 apoios (**+3 Níveis**), sob lua cheia (**+2**), com o Físico (**+1**).
+Com o Teto de Combo em 5, o **Corte do Minguante** cabe inteiro: núcleo Foice Crescente + 3 apoios (**+3 Níveis**), sob lua cheia (**+2**).
 
 ```
-d10 base → +6 Níveis → d12, com 5 excedentes
-B = 3 (Densidade Pico) + 5 (excedentes) = 8
-DANO = 2d12 + 16   →  média 29, mínimo 18
+d10 base → +5 Níveis → d12, com 4 excedentes
+B = 3 (Densidade Pico) + 4 (excedentes) = 7
+DANO = 2d12 + 14   →  média 27, mínimo 16
 Custo = (40 × 4) × 4 = 640 de essência    [QI no Pico do R2: 2.752]
 Teste de Conjuração = d20 + AST(2) vs CD 12 + 2×4 = 20   (−4 se já usado com sucesso)
 ```
 
-**Se for híbrido Lua + Alma**, o custo dobra pra **1.280** — ainda pagável no Pico, e é exatamente a jogada de arco que o personagem deve estar guardando. A Retaliação de um híbrido também piora: `× 3` em Vitalidade, e um 1 natural mata **dois** Gu de apoio.
+**Se for híbrido Lua + Alma**, ele **não paga a dobra de custo** — é justamente o que a *Ressonância da Montanha Fria* compra: pros efeitos de regra, Lua e Alma são um Caminho só, e um golpe que mistura os dois é um golpe de um Caminho só. Continuam valendo a Retaliação normal e a Brecha; o que sai é a penalidade de híbrido. **Este é o motivo mecânico de o buff dele importar**, e a jogada de arco que o personagem deve estar guardando.
 
 > **A Brecha continua obrigatória e continua sendo a dele:** o Corte do Minguante depende do Frio de Osso sustentado e visível — o ar congela em volta do Xie Lang, e quem já viu o golpe sabe que tem duas rodadas pra sair do raio de 8 m. E o combo inteiro **não existe na lua nova**.
 
 
 ### Jiāotáng *(Vize)* — Sangue + Força
 - Aptidão 76% (Grau B) · Pontos: 12
-- **Buff de Lore:** *Linhagem de sangue antigo* — Sangue e Força contam como um Caminho só, o que anula o +50% de Caminho duplo que ele pagaria pelo padrão. Em troca, nunca poderá tomar um terceiro Caminho.
+- **Buff de Lore:** *Linhagem de sangue antigo* — o corpo dele carrega Sangue e Força **sem atrito**. Em troca, nunca poderá tomar um terceiro Caminho.
+
+> [!important] Como as Marcas dele funcionam — é diferente do Lee, e de propósito
+> Sangue é Yin e Força é Yang: pelo padrão, seriam **Caminhos incompatíveis**, com anulação de domínio, −1 Nível de Potência e Ferimento permanente na Fenda ([[☯️ Marcas de Dao#Conflito de Caminhos — o que acontece quando as Marcas brigam|conflito de Caminhos]]). O corpo dele é a exceção: **os dois convivem sem conflito nenhum.**
+>
+> O que ele **não** ganha é a unificação do contador. **As Marcas dele se dividem** entre Sangue e Força, cada uma indo pro Caminho da fonte que a gerou, e cada Caminho tem o próprio nível de domínio. Ele simplesmente não paga por isso: sem o +50% de progressão, sem a redução de um terço por fonte, sem anulação, sem ferir a terra. É cultivo duplo **de graça**, não cultivo duplo **fundido**.
+>
+> **A consequência que vale dizer em voz alta na mesa:** o pré-requisito do rank 9 é de **300.000 Marcas num Caminho só**. Com a contagem dividida, o Jiāotáng precisa de bem mais Marcas totais que o Lee ou o Xie Lang pra chegar lá — não porque paga penalidade, mas porque dois baldes enchem mais devagar que um. Se a campanha for até o rank 9, isso é uma conversa a ter com o jogador cedo, não uma surpresa no fim.
 
 ### Lee *(Gush)* — Cinco Elementos
 - Aptidão 63% (Grau B) · Pontos: 12
@@ -243,11 +259,12 @@ Teste de Conjuração = d20 + AST(2) vs CD 12 + 2×4 = 20   (−4 se já usado c
 - Aptidão 56% (Grau C) · Pontos: 12
 - **Buff de Lore:** *Nascido do vento* — uma vez por cena, ignora sem rolar qualquer bloqueio, cerco ou prisão. O fio preso: ele escapa sempre, e por isso nunca é quem cobre a retirada dos outros.
 
-### Gu Yue Xie Lang *(Pepo)* — Físico da Lua Antiga, Lua + Alma
-- 15 anos, do Clã Gu Yue. Aptidão **86%** (Grau A), subindo a 100% pelos Marcos do Físico da Lua Antiga, concedido como **Buff de Lore** — **custo zero, os 12 pontos ficam intactos**
-- **Abertura: 86% · Latente · 0 / 7 Marcos** — anote os três números na ficha e não deixe o mestre esquecer deles
+### Gu Yue Xie Lang *(Pepo)* — Lua + Alma
+- 15 anos, do Clã Gu Yue. Aptidão **86%** (Grau A) — teto natural rank 5, com chance real de Ascensão. **A Aptidão não sobe durante a campanha**
 - Ficha pronta em [[Modelo — Ficha Compacta|Ficha Compacta]]: FOR −1 · CON +3 · DES +3 · AST +2 · VON +3 · CAR +2 · Vitalidade 27 · Alma 18 · QI 344 · Defesa 14 · CD 14
-- **Físico da Lua Antiga** — Caminhos vinculados Lua **e** Alma, que contam como **um só até o domínio Pequeno Feito e pagam +25% depois** (metade da penalidade cheia) pra efeito de Caminho duplo. Ver [[🌠 Os Dez Físicos Extremos|Os Dez Físicos Extremos]], [[🌙 Caminho da Lua|Caminho da Lua]] e [[👻 Caminho da Alma|Caminho da Alma]]
-- **Dois números pra acompanhar na ficha:** Pressão da Abertura (sobe a cada 6 meses, zera ao subir de rank, cai 1 se você esvaziar a Essência) e Contaminação (sobe ao devorar almas, cai sob lua cheia)
+- **Buff de Lore — Ressonância da Montanha Fria:** Lua e Alma contam como **um Caminho só**, sem penalidade nenhuma de Caminho duplo, e as Marcas contam por inteiro nos dois. Em troca, nunca pode tomar um terceiro Caminho, e a ressonância é rastreável ([[👁️ Exposição|Exposição]]). Ver [[🌙 Caminho da Lua|Caminho da Lua]] e [[👻 Caminho da Alma|Caminho da Alma]]
+- **Um número pra acompanhar na ficha:** Contaminação (sobe ao devorar almas, cai sob lua cheia). A Pressão da Abertura **não existe mais nesta ficha** — ela era do Físico Extremo, que saiu (decisão 216)
 
-> **Depois da Ascensão — a corrida dos outros três.** O Xie Lang entra na fase imortal na frente (dobro de Marcas, terra Especial 40–50×, cross-count Lua/Alma) e a paridade de relógio interno já foi medida (decisão 100). O plano do sistema **não é nerfá-lo de novo** — é dar aos outros três as rotas canônicas de aceleração que o próprio romance usa: heranças verdadeiras, reinos de sonho, Gu aceleradores, anexação e investimento na terra. A tabela dessas rotas está em [[☯️ Marcas de Dao|Marcas de Dao — A corrida imortal]]; as sessões do ato imortal são, em boa parte, os outros três caçando essas rotas enquanto o Xie Lang enfrenta uma Calamidade a cada ~3 meses de calendário com +5 de CD.
+> **Depois da Ascensão — a corrida é entre iguais agora.** Com o Físico Extremo fora, o Xie Lang **não entra mais na fase imortal na frente**: sem dobro de Marcas, sem terra Especial garantida, sem Calamidade a cada ~3 meses. Ele ascende como qualquer um — a qualidade da Terra Abençoada dele sai das Porções de Qi que ele investir, como a dos outros três ([[🗝️ Terra Abençoada|Terra Abençoada]]).
+>
+> O que isso muda no ato imortal: as rotas de aceleração de [[☯️ Marcas de Dao|Marcas de Dao — A corrida imortal]] (heranças verdadeiras, reinos de sonho, Gu aceleradores, anexação, investimento na terra) deixaram de ser "como os outros três alcançam o Xie Lang" e viraram **o que os quatro disputam entre si**. É uma campanha melhor: ninguém está correndo atrás de um colega de mesa.

@@ -40,7 +40,7 @@ Dias por estágio = Base do rank × (100 ÷ sua % de Abertura)
 |---|---|
 | **Verme do Licor** e a linhagem do Vinho ([[🚀 Gu de Avanço de Rank]]) | −25% a −50% do tempo |
 | **Nascente espiritual** do clã/seita ([[🏛️ Clãs e Seitas]]) | −10% enquanto durar o acesso |
-| **Físico Extremo** | −60% (o "~60% mais rápido" de [[🌠 Os Dez Físicos Extremos]], fechado em número) |
+| **Físico Extremo** *(só NPC)* | −60% (o "~60% mais rápido" de [[🌠 Os Dez Físicos Extremos]], fechado em número) — é este número que faz o rival do grupo chegar antes |
 | **Cultivo com Pedras** (abaixo) | **tempo pela metade** |
 | **Cultivo fechado** (abaixo) | **−1/3 do tempo restante** |
 

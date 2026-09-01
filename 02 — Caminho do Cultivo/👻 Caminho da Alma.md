@@ -68,7 +68,7 @@ Devorar é rápido e sujo. Existem três métodos lentos, e todo cultivador de A
 
 **Combinar os três** é o cronograma padrão de um cultivador de Alma dedicado: ~1 (visualização) + ~10 (moagem, 4 sessões) + ~3,5 (maré) = **~15 de Força de Alma por mês**, sem matar ninguém e sem Contaminação — mas exigindo reclusão, o que é tempo que a campanha não está acontecendo.
 
-> **A tensão que isso cria é o Caminho inteiro.** Temperar é seguro, limpo e **lento**. Devorar é instantâneo, poderoso e te apaga aos poucos. Todo cultivador de Alma vive nessa escolha, e um personagem apressado — digamos, um com Pressão da Abertura subindo — tem um motivo mecânico pra escolher errado.
+> **A tensão que isso cria é o Caminho inteiro.** Temperar é seguro, limpo e **lento**. Devorar é instantâneo, poderoso e te apaga aos poucos. Todo cultivador de Alma vive nessa escolha, e um personagem apressado — alguém com um inimigo subindo mais rápido que ele, ou um prazo que a campanha já colocou na mesa — tem um motivo mecânico pra escolher errado.
 
 ### Benefícios de uma alma forte, além da barra
 
@@ -172,7 +172,9 @@ Contaminação é um número na ficha que **só sobe**, salvo purificação. Nos
 
 ## 🌑 Sinergia: Lua + Alma
 
-Os dois Caminhos são **Yin puro**, e é por isso que a combinação existe. Pro [[🌠 Os Dez Físicos Extremos|Físico da Lua Antiga]] eles contam como **um Caminho só** pra efeito de penalidade de Caminho duplo — mas as sinergias abaixo valem pra **qualquer** um que cultive os dois.
+Os dois Caminhos são **Yin puro**, e é por isso que a combinação existe. Sendo **complementares**, quem cultiva os dois já paga a penalidade reduzida de Caminho duplo pela regra geral de [[☯️ Marcas de Dao#Conflito de Caminhos — o que acontece quando as Marcas brigam|conflito de Caminhos]] — os números estão lá, não aqui.
+
+**A isenção total — Lua e Alma contando como um Caminho só, sem penalidade nenhuma — não é regra geral: é um [[⚖️ Pontos de Criação#🎁 Buffs de Lore|Buff de Lore]]**, o tipo de exceção que a mesa concede a um personagem porque a história dele pede, com um preço pago em ficção do lado. Um exemplo montado está em [[🎲 A Mesa — Personagens dos Jogadores|A Mesa]]. As sinergias abaixo, essas sim, valem pra **qualquer** um que cultive os dois.
 
 ### 1. A lua limpa o que você comeu
 
@@ -200,12 +202,14 @@ Isso faz a sequência canônica da build: **esfria primeiro, devora depois.** O 
 
 ### 4. A Terra de Noite Eterna acumula
 
-Numa Terra Abençoada de **Noite Eterna** ([[🗝️ Terra Abençoada|Terra Abençoada]] Especial do Físico da Lua Antiga), as almas devoradas e não digeridas **não dispersam** — elas ficam vagando pelo território.
+A **Terra de Noite Eterna** ([[🗝️ Terra Abençoada|Terra Abençoada]] Especial do Físico da Lua Antiga) tem uma propriedade que interessa a quem cultiva Alma: lá dentro, as almas devoradas e não digeridas **não dispersam** — ficam vagando pelo território.
+
+**Isso é território de NPC.** O físico é material de mestre ([[🌠 Os Dez Físicos Extremos|Os Dez Físicos Extremos]]), então um cultivador de Alma jogador não constrói uma dessas: ele **invade** uma, herda uma, ou negocia com quem tem. O que a tabela abaixo descreve é, portanto, o que o grupo encontra do outro lado do muro.
 
 | | |
 |---|---|
-| **O bom** | Você tem um estoque permanente de almas armazenadas pra queimar em Golpes Matadores defensivos, e a terra purifica Contaminação passivamente: **−1 por mês interno** |
-| **O ruim** | Elas se acumulam, e uma terra com almas demais **desenvolve vontade própria**. A cada 50 pontos de Contaminação que você purgou ali, role 1d6: num **1**, as almas se coagulam em algo que anda pela sua terra e não te obedece |
-| **O pior** | Se sua terra ganhar um [[🧿 Espíritos da Terra\|Espírito da Terra]] naturalmente, ele nasce **dessas** almas — e a obsessão dele vai ser tudo que elas queriam quando você as comeu |
+| **O que o dono ganha** | Um estoque permanente de almas armazenadas pra queimar em Golpes Matadores defensivos, e purificação passiva de Contaminação: **−1 por mês interno** |
+| **O que isso cobra dele** | As almas se acumulam, e uma terra com almas demais **desenvolve vontade própria**. A cada 50 pontos de Contaminação purgados ali, role 1d6: num **1**, elas se coagulam em algo que anda pela terra e não obedece a ninguém |
+| **O pior caso** | Se a terra ganhar um [[🧿 Espíritos da Terra\|Espírito da Terra]] naturalmente, ele nasce **dessas** almas — e a obsessão dele vai ser tudo que elas queriam quando foram comidas |
 
-Esse último ponto é o gancho de campanha que a build produz sozinha. Nenhum outro personagem da mesa tem um antagonista fabricado pelas próprias escolhas dele.
+**Pro mestre, esse último ponto é uma masmorra pronta:** o vilão tem um território que fabricou o próprio inimigo interno, e um grupo que descubra isso ganha um aliado dentro da casa dele.

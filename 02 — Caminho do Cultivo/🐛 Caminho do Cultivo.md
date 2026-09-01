@@ -41,7 +41,7 @@ Não leia os seis. **Leia só o do Caminho que apareceu na sua mesa.**
 | [[🌪️ Caminho do Vento]] | Velocidade e Defesa: o Caminho que decide **se a luta acontece** |
 | [[☯️ Os Cinco Caminhos Wu Xing]] | Os ciclos de geração e destruição, e os cinco elementos tratados como um Caminho só |
 
-E, se um jogador tirar uma aptidão excepcional: **[[🌠 Os Dez Físicos Extremos]]** — 6 são jogáveis, com regeneração violenta, Pressão da Abertura e tribulações próprias.
+E, quando você for montar o rival que corre na frente do grupo: **[[🌠 Os Dez Físicos Extremos]]** — a anomalia mais rara do mundo, com regeneração violenta, contagem regressiva e tribulações próprias. **É ficha de NPC, nunca de jogador.**
 
 ## Nível 3 — Quando o grupo se aproximar do rank 5
 

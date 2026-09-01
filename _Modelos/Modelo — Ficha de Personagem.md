@@ -129,8 +129,6 @@ Máximo de golpes registrados: **AST + 1**. Cada Gu de apoio empurra o núcleo +
 
 | Trilho | Valor | Regra |
 |---|---|---|
-| **Pressão da Abertura** | ___ | *(Físico Extremo)* +1 a cada 6 meses · zera ao subir de rank · **−1 se esvaziar a Essência no mês** |
-| **Perda acumulada de Vitalidade** | ___% | *(Físico Extremo)* −5% por falha · cai pela metade ao subir de rank · **100% = autoexplosão** |
 | **Força de Alma** | ___ homens | *(Caminho da Alma)* ⚠️ **teto mortal 100** — passar mata na hora, sem teste |
 | **Contaminação** | ___ | *(Caminho da Alma)* Sobe ao devorar · limiares em 10 / 25 / 50 / 75 / **100** · cai sob lua cheia |
 | **Vício em Gu das Tripas** | ___ pedras | *(Caminho da Alma)* VON `CD 14 + pedras já consumidas` pra recusar uma |
