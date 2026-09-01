@@ -193,7 +193,7 @@ Duração  = (Marcas do Caminho ÷ 2.000) rodadas, mínimo 5, máximo 20
 O Domínio fecha antes se a Essência Imortal acabar. Segurar além do tanque custa **1 Ferimento por rodada**, e o Imortal escolhe rodada a rodada se paga.
 
 > [!example]+ Exemplo, parte 2 — abrindo o Domínio de Campo de Batalha
-> Décadas depois, o mesmo Mestre de Gu já é Imortal de rank 6, com nível de domínio **Mestre** (10.000 Marcas) no próprio Caminho. Num duelo contra outro Imortal, abre o Domínio: sela 100 Marcas (1%, o mínimo) + gasta 100 de Essência Imortal pra erguê-lo, e paga 50 EI por rodada de sustento, mais 45/rodada de Manutenção (o Domínio conta como 3 Gu sustentados). O Domínio cobre 100 m por 5 rodadas — o bastante pra garantir que o duelo aconteça sem interrupção externa e sem que o oponente fuja antes da hora.
+> Décadas depois, o mesmo Mestre de Gu já é Imortal de rank 6, com nível de domínio **Mestre** (10.000 Marcas) no próprio Caminho. Num duelo contra outro Imortal, abre o Domínio: sela 100 Marcas (1%, o mínimo) + gasta 100 de Essência Imortal pra erguê-lo, e paga 50 EI por rodada de sustento, com o Domínio ocupando **uma das três vagas** dele enquanto estiver aberto — ele luta o duelo inteiro com duas mãos em vez de três. O Domínio cobre 100 m por 5 rodadas — o bastante pra garantir que o duelo aconteça sem interrupção externa e sem que o oponente fuja antes da hora.
 
 ## O que ele bloqueia — e o que não bloqueia
 
@@ -261,7 +261,7 @@ O rank operante vale pras **três** estações ao mesmo tempo, não só pras vaz
 
 - **Um PJ opera uma estação por rodada.** Trocar de estação gasta a ação de movimento da rodada.
 - **Cada operador paga os 40 de essência da própria estação**, do próprio tanque, por rodada. Não é o fundador que banca todo mundo.
-- **O fundador, se estiver dentro da Casa,** paga a Manutenção de Sustentação como se a Casa fossem **3 Gu sustentados** (45/rodada) — mesmo que ele não esteja operando estação nenhuma. A Casa está ancorada na Abertura dele.
+- **O fundador, se estiver dentro da Casa,** tem **uma das três vagas de sustentação ocupada por ela** — mesmo que não esteja operando estação nenhuma. A Casa está ancorada na Abertura dele, e comandar uma máquina de guerra é uma das três coisas que a cabeça dele consegue fazer ao mesmo tempo.
 - **NPCs podem tripular**, mas o atributo deles nunca conta acima de **+1** naquela estação. A Casa responde a quem a conhece — e é por isso que encher de discípulos não substitui os PJs.
 
 **Custo total de uma Casa em combate:** 45 (fundador) + 3 × 40 (estações) = **165 de essência por rodada**, dividida entre quatro pessoas. Contra o teto de regeneração de 100/rodada ([[🏛️ Arquitetura do Sistema|Arquitetura do Sistema]]), isso é sustentável por um grupo que se organizou e ruinoso pra um que improvisou. É o ponto.
