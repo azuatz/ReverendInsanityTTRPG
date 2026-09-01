@@ -3671,7 +3671,22 @@ def bateria_p9():
         r5 = cel[("Xie Lang", "Demvi", 5)]
         print(f"    Xie Lang × Demvi:  r3 {r['win_a']/(r['win_a']+r['win_b'])*100:.1f}%  ·  "
               f"r5 {r5['win_a']/(r5['win_a']+r5['win_b'])*100:.1f}%")
+    print("\n" + "-" * 122)
+    print("A CÉLULA COMBINADA — as duas lacunas de modelagem fechadas ao mesmo tempo:")
+    print("  Lee com a escada Wu Xing · Jiāotáng com a escada de Força · atrito de Lua em ⅔.")
+    print("  É a única configuração medida em que o critério do autor fecha nos três ranks.")
+    print("-" * 122)
+    for atr in (1 / 3, 2 / 3):
+        configura(lee="melee — foice + Wu Xing", isencao=True, golpe_duelo=False)
+        set_pc_variant("Jiaotang", nivel_bonus_rank={1: 0, 2: 1, 3: 1, 4: 2, 5: 2})
+        set_lua_atrito(atr)
+        random.seed(20260830)
+        cel, placar = matriz_pvp(verbose=False)
+        out[("combinada", atr)] = placar
+        print(f"\n### paridade de Níveis + atrito de Lua em {atr*100:.0f}% ###")
+        _print_ranking(placar)
     set_lua_atrito(0.0)
+    reset_pcs()
     return out
 
 
