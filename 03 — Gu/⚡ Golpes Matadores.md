@@ -11,6 +11,11 @@ escopo: sistema
 
 Um Golpe Matador não é um Gu — é a combinação de vários Gu, orquestrada como uma única jogada que decide o combate. É a resposta deste sistema ao que a obra chama de *killer move*: o motivo pelo qual um cultivador de rank baixo consegue matar alguém acima dele, uma vez, com tudo preparado.
 
+> [!important] 🚪 Golpe Matador é coisa de **rank 3 em diante**
+> **Um cultivador de rank 1 ou 2 não monta Golpe Matador.** Não é questão de custo — é que montar um exige um arsenal com núcleo e apoios que se complementam, e nos dois primeiros ranks o personagem ainda está juntando os primeiros Gu. O combo é a jogada de quem já tem coleção, não de quem tem três bichos.
+>
+> Isso bate com a forma da própria obra: **o volume inteiro que cobre a fase de rank 1-2 não menciona um único golpe matador** — eles aparecem quando a história chega às arenas e aos duelos entre cultivadores estabelecidos. *(🔧 Adaptado: o romance chega a citar "golpe matador de rank dois", então não é proibição explícita da fonte — é simplificação de mesa que segue o ritmo em que a obra os apresenta.)*
+
 ## Estrutura: núcleo + apoio
 
 Todo Golpe Matador tem duas partes:
@@ -53,7 +58,7 @@ Um Golpe Matador **empurra o Gu núcleo pra cima na [[⚔️ Combate|Escada de D
 > [!important] Se o núcleo é um Gu de melee, o `+ FOR` continua valendo
 > O combo **empurra o núcleo na Escada**; ele não troca a fórmula de dano por outra. Um Golpe Matador com núcleo de corpo a corpo continua sendo `(M do Gu) d(arma) + FOR + (M × B)`, com os Níveis dos apoios subindo o dado ([[⚔️ Combate|Combate]]).
 >
-> Vale dizer isso em voz alta porque a ausência do `+ FOR` foi justamente o que fez o combo parecer **pior que um ataque comum** no rank 1 para os personagens de corpo a corpo. E há uma razão estrutural por trás disso que continua verdadeira mesmo com o `+ FOR` no lugar: **o combo escala com `M` e o `+ FOR` não.** No rank 1, com `M = 1`, o bônus fixo pesa o máximo que vai pesar na vida do personagem — é a mesma razão pela qual corpo a corpo é mais forte cedo, e é comportamento pretendido.
+> A razão estrutural por trás disso vale a pena guardar: **o combo escala com `M` e o `+ FOR` não.** Quanto menor o `M`, mais o bônus fixo do melee pesa em relação ao combo — é a mesma razão pela qual corpo a corpo é mais forte cedo, e é comportamento pretendido. O caso extremo (rank 1, `M = 1`, onde o combo perdia para um ataque comum) **deixou de existir com o portão de rank 3**.
 
 Um Gu de apoio só conta se **fizer alguma coisa de verdade** pelo golpe — imobilizar, cegar, atrasar, esconder a preparação, furar defesa. Empilhar três Gu de ataque não é Golpe Matador, é gastar essência.
 
@@ -166,7 +171,7 @@ Falhar no teste de conjuração não é só "não acontece nada". Os Gu foram fo
 **Num Golpe Matador Coletivo**, quem rola o teste é o dono do núcleo — mas **todos os participantes sofrem a Retaliação**. É por isso que ninguém entra num combo coletivo com alguém em quem não confia.
 
 > [!danger] A Retaliação é o custo real do Golpe Matador — e é maior que o ganho de dano
-> Isto não estava escrito em lugar nenhum, e é o número mais importante desta nota. **Medida, a perda esperada da Retaliação supera o ganho de dano em todas as células testadas.** Para o combo se pagar **só em dano**, a chance de conjuração precisaria estar entre **88% e 98%** nos ranks 3 a 5 — e a regra nova entrega 80 a 85%, ou seja **ainda faltam de 3 a 21 pontos**. No rank 1, para personagens de corpo a corpo, a conta pede **mais de 100%**: nenhuma taxa de conjuração, por melhor que fosse, faria o combo pagar ali pelo dano.
+> Isto não estava escrito em lugar nenhum, e é o número mais importante desta nota. **Medida, a perda esperada da Retaliação supera o ganho de dano em todas as células testadas.** Para o combo se pagar **só em dano**, a chance de conjuração precisaria estar entre **88% e 98%** nos ranks 3 a 5 — e a regra nova entrega 80 a 85%, ou seja **ainda faltam de 3 a 21 pontos**. *(A medição original incluía o rank 1, onde a conta pedia mais de 100% — impossível. Esse caso **deixou de existir**: Golpe Matador é de rank 3 em diante, e o rank 1 nunca monta um. O que resta de pé é a faixa dos ranks 3 a 5, que é onde a regra vale.)*
 >
 > **A conclusão não é que o subsistema está quebrado — é que ele não se justifica por dano, e nunca vai se justificar.** O que paga o Golpe Matador é a **Prerrogativa**: o alvo blindado que você não fura de outro jeito, o fugitivo que você precisa selar, o inimigo que tem que sair vivo. Essas coisas não têm preço em dano por ação, e por isso a Retaliação não as anula.
 >
@@ -196,7 +201,7 @@ Isso mudou de resposta, e a versão antiga desta seção estava errada. Ela dizi
 **A regra de bolso, e ela não é sobre dano:** **dispare quando a Prerrogativa resolve um problema que você tem** — o alvo está blindado, vai fugir, está fora de alcance, precisa sair vivo. Se o problema é só "ele tem muita vida", ataque normal e economize a rolagem.
 
 > [!warning] Uma versão anterior desta regra de bolso dizia o contrário, e se contradizia
-> Ela mandava *"disparar contra quem não cairia com um ataque normal"* — o que, ao pé da letra, manda disparar contra **Guerreiro, Elite e Horda**, exatamente os alvos que a tabela acima desaconselha. O erro era continuar medindo o combo em dano. **Medido, ele não vence essa comparação nem com a conjuração consertada:** contra a maioria dos alvos o ganho de dano por ação fica entre **0,68× e 1,63×**, e **abaixo de 1,00× para personagens de corpo a corpo no rank 1** — porque o `+ FOR` do golpe melee não escala com `M`, enquanto o combo escala. Quem monta um Golpe Matador esperando bater mais forte está montando pelo motivo errado.
+> Ela mandava *"disparar contra quem não cairia com um ataque normal"* — o que, ao pé da letra, manda disparar contra **Guerreiro, Elite e Horda**, exatamente os alvos que a tabela acima desaconselha. O erro era continuar medindo o combo em dano. **Medido, ele não vence essa comparação nem com a conjuração consertada:** contra a maioria dos alvos o ganho de dano por ação fica entre **0,68× e 1,63×**, e o pior caso medido ficava **abaixo de 1,00× para personagens de corpo a corpo no rank 1** — porque o `+ FOR` do golpe melee não escala com `M`, enquanto o combo escala. *(Esse pior caso saiu de cena com o portão de rank 3: no rank 1 ninguém monta combo. Nos ranks em que a regra vale, a faixa é a de cima.)* Quem monta um Golpe Matador esperando bater mais forte está montando pelo motivo errado.
 
 > [!info] O que a medição de "97% para 76%" realmente dizia
 > Aquele número — um grupo que dispara o combo contra um inimigo mediano perdendo 21 pontos de vitória — continua verdadeiro, e continua sendo o melhor argumento desta seção. Mas a causa não é a essência gasta: é **a ação gasta** e o **excedente de dano jogado fora**, e é por isso que ele aparece contra alvo mediano e não contra Chefe.
