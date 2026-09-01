@@ -126,19 +126,24 @@ Um único inimigo contra um grupo perde a ação por turno na maioria dos sistem
 
 | Rank do Chefe | Ações por rodada | Vitória do grupo *(mesa de 4, com 1 Guerreiro de apoio)* |
 |---|---|---|
-| **1** | **4** | **3%** 🔴 — não é clímax, é execução (ver abaixo) |
-| **2** | **2** | 54% |
-| **3** | **2** | 87% · com 3 ações vira 45%, que é o clímax mais duro do jogo |
-| **4** | **3** | 75% |
-| **5** | **3** | 90% |
+| **1** | **4** | **28%** 🔴 — ainda é a cena mais dura do jogo (ver abaixo) |
+| **2** | **2** | **96%** |
+| **3** | **2** | **>99%** |
+| **4** | **3** | **98%** |
+| **5** | **3** | **>99%** |
 | **6+** | **4** | ver a régua ΔB dos imortais, mais abaixo |
 
-> [!warning] O Chefe de rank 1 com 4 ações mata a mesa
-> Remedido na décima terceira rodada: **3%** de vitória do grupo, com **0,1 personagem de pé** — o mesmo 🔴 que a tabela de composição já marca. No rank 1 o grupo não paga nenhum Golpe Matador e não tem arsenal pra amortecer quatro ações por rodada. **Use a variante "1 Elite + 3 Mestres" para o clímax de rank 1**, ou reduza o Chefe a 2 ações e aceite uma cena mais curta. A linha de 4 ações fica registrada porque é o número que a quinta rodada mediu como "necessário pra ameaçar" — e a décima terceira mostra que ele ameaça demais.
+> [!danger] 🔴 Estes números foram corrigidos na décima oitava rodada, e o Chefe deixou de ameaçar
+> A tabela publicava **3 / 54 / 87 / 75 / 90%**; remedida com o motor consertado, ela dá **28 / 96 / >99 / 98 / >99%** *(faixa entre os três dials de ficha: 17-38 · 90-98 · 98-100 · 96-99 · 99-100)*. A causa não é o Chefe — é que dezessete rodadas de simulação rodaram com **três dos quatro PJs sem os Níveis de Potência que as fichas deles concedem** (ver [[🎯 Simulação de Combate — Resultados#🔧 Décima oitava rodada — os três consertos de motor e a revalidação (2026-09-01)|a décima oitava rodada]]). Com o grupo modelado inteiro, **um Chefe do rank do grupo não é mais um clímax do rank 2 em diante.**
+>
+> **Os números estão corrigidos; as peças não foram redesenhadas** — isso é decisão do autor. As alavancas já estão nesta nota: subir a Vitalidade do Chefe (`63 × M` → `94 × M`), somar ações, ou usar um Chefe acima do rank do grupo (o que a nota hoje proíbe).
 
-**Por que não é uma escala limpa.** A dificuldade de um Chefe não é governada por ele, e sim por **quantos Golpes Matadores o grupo consegue pagar naquele rank**. No rank 1 ninguém paga um — por isso 4 ações ali não ameaçam, **atropelam** (é o aviso acima). Nos ranks 2 e 3 o grupo paga um combo cada, esvazia o tanque, e **duas ações do Chefe já bastam**. Do rank 4 em diante o combo fica barato de novo e o Chefe precisa de 3. A tabela acima é medida, não deduzida — use os números dela e ignore a intuição.
+> [!warning] O Chefe de rank 1 com 4 ações continua sendo a exceção
+> Com o motor consertado ele mede **27,5%** (17-38% entre os dials), não os 3% de antes — deixou de ser execução, mas segue sendo de longe a célula mais dura da tabela inteira, e a única que fica abaixo da faixa de 56-87% que "Clímax" promete. **A variante "1 Elite + 3 Mestres" continua sendo a recomendação para o clímax de rank 1.**
 
-**Onde isso cai, medido:** contra uma mesa de 4 do mesmo rank, um Chefe com as ações da tabela acima mais um Guerreiro de apoio é uma luta de **6,8 a 10,7 rodadas**. Do rank 2 em diante o grupo ganha em **54% a 90% das vezes**, terminando com **1,3 a 2,1 personagens de pé** — esse é o alvo de um clímax de arco. **O rank 1 é a exceção que o aviso acima trata** (3%, 0,1 de pé). Para apertar sem sair do jogável, **suba a Vitalidade do Chefe** (`63 × M` → `94 × M`) em vez de subir o rank dele: alonga a luta sem dobrar o dano que entra no grupo. Subir pra 4 ações por rodada leva a vitória do grupo pra ~50% e é o teto do que a mesa aguenta.
+**Por que não é uma escala limpa.** *(Justificativa revista pela décima oitava rodada.)* A explicação antiga dizia que a dificuldade do Chefe era governada por **quantos Golpes Matadores o grupo consegue pagar naquele rank**. **A medição refuta isso:** pela conta de custo-benefício da própria [[⚡ Golpes Matadores|nota do Golpe Matador]], o combo **não compensa contra nenhum Chefe publicado dos ranks 3 e 5** — nem contra um Chefe de rank +2 —, porque a essência que ele custa compra 16 a 40 ataques comuns que derrubam a barra duas a cinco vezes. **O que governa a escala é o volume de ações contra o arsenal do grupo**, e o rank 1 é duro porque é o único em que o grupo ainda não tem arsenal para amortecer quatro ações por rodada.
+
+**Onde isso cai, medido:** contra uma mesa de 4 do mesmo rank, um Chefe com as ações da tabela acima mais um Guerreiro de apoio é uma luta de **4,7 a 6,8 rodadas**. **Do rank 2 em diante o grupo ganha em 96% ou mais das vezes** — o que já não é alvo de clímax de arco. Para apertar, **suba a Vitalidade do Chefe** (`63 × M` → `94 × M`) em vez de subir o rank dele: alonga a luta sem dobrar o dano que entra no grupo.
 
 ## Referência rápida por rank (M já aplicado)
 
@@ -159,29 +164,46 @@ Os números entre parênteses são a **vitória medida do grupo** numa mesa de 4
 | Tipo de cena | **rank 1** | **rank 2** | **rank 3** | **rank 5** |
 |---|---|---|---|---|
 | **Fácil** | Horda de 8 *(100%)* | Horda de 8 *(100%)* | Horda de 8 *(100%)* | Horda de 8 *(100%)* |
-| **Padrão** | **2 Mestres + 1 Guerreiro** *(92%)* | 3 Mestres de Gu *(77%)* | idem *(85%)* | idem *(99%)* |
-| **Padrão pesado** | 2 Mestres + Horda de 8 *(63%)* | idem *(57%)* | idem *(50%)* | idem *(76%)* |
-| **Difícil** | 3 Mestres + 1 Guerreiro *(31%)* | idem *(31%)* | idem *(46%)* | 4 Mestres *(37%)* |
-| **Clímax** | 1 Elite especial + 3 Mestres *(68%)*✝, ou Chefe + Guerreiro *(3%)* 🔴 | idem, Chefe + Guerreiro *(54%)* | 1 Elite especial + 3 Mestres *(44%)*✝, ou Chefe + Guerreiro *(86%)* | 1 Elite especial + 3 Mestres *(46%)*✝, ou Chefe + Guerreiro *(90%)* |
+| **Padrão** | **2 Mestres + 1 Guerreiro** *(99%)* | 3 Mestres de Gu *(97%)* | idem *(99%)* | idem *(100%)* |
+| **Padrão pesado** | 2 Mestres + Horda de 8 *(89%)* | idem *(91%)* | idem *(91%)* | idem *(99%)* |
+| **Difícil** | 3 Mestres + 1 Guerreiro *(70%)* | idem *(83%)* | idem *(88%)* | 4 Mestres *(86%)* |
+| **Clímax** | 1 Elite especial + 3 Mestres *(68%)*✝, ou Chefe + Guerreiro *(28%)* 🔴 | idem, Chefe + Guerreiro *(96%)* | 1 Elite especial + 3 Mestres *(44%)*✝, ou Chefe + Guerreiro *(>99%)* | 1 Elite especial + 3 Mestres *(46%)*✝, ou Chefe + Guerreiro *(>99%)* |
 
 *(✝ não retestado desde a terceira rodada — e sob a regra de Alma rara os 3 Mestres dessa variante também mudam de especial, então o número está duplamente desatualizado.)*
 
+> [!danger] 🔴 Tabela corrigida na décima oitava rodada — e a escada de dificuldade colapsou (2026-09-01)
+> Dezessete rodadas de simulação rodaram com **três dos quatro PJs sem os Níveis de Potência que as fichas deles concedem** — só a Lee recebia a escada do Wu Xing, enquanto Jiāotáng (Caminho da Força), Xie Lang (Fase da Lua) e Demvi (Corrente + Altitude do Vento) rodavam com zero. Com os quatro modelados, **8 das 16 células acima mudaram** e três das cinco composições saíram da faixa que prometem.
+>
+> **A faixa entre os três dials de ficha** (as escadas de Lua, Vento e Wu Xing dependem de fase, posição e terreno — o número da tabela é a leitura de **cena ordinária**, e a faixa vai do dial zerado ao teto):
+>
+> | Composição | faixa que a nota promete | rank 1 | rank 2 | rank 3 | rank 5 |
+> |---|---|---|---|---|---|
+> | Fácil | ≈100% | 100 | 100 | 100 | 100 |
+> | Padrão | 75-99% | 98-99 | 94-99 | 97-99 | 100 |
+> | **Padrão pesado** | **53-77%** | **83-91** | **83-94** | **85-95** | **97-99** |
+> | **Difícil** | **~40-52%** | **59-78** | **68-90** | **80-94** | **79-95** |
+> | **Clímax** *(Chefe + Guerreiro)* | **56-87%** | **17-38** | **90-98** | **98-100** | **99-100** |
+>
+> **O que NÃO foi feito:** redesenhar as composições para voltarem às faixas. Isso é decisão de design do autor, não conserto de motor. As alavancas já estão nesta nota — mais peças, Chefe de `94 × M`, mais ações por rodada. Detalhe e método em [[🎯 Simulação de Combate — Resultados#🔧 Décima oitava rodada — os três consertos de motor e a revalidação (2026-09-01)|a décima oitava rodada]].
+
 > [!success] Tabela revalidada em conjunto — décima terceira rodada (2026-08-31)
-> As 20 células publicadas acima foram remedidas de uma vez só, com todas as regras de hoje ligadas ao mesmo tempo (3.000 iterações/célula). **Dezenove conferem dentro de 3 pontos percentuais**; a única que se moveu foi **Difícil de rank 2 (35% → 31%)**, corrigida acima. As faixas de duração também conferem. Ver [[🎯 Simulação de Combate — Resultados#✅ Décima terceira rodada — validação final conjunta (2026-08-31)|a décima terceira rodada]].
+> As 20 células publicadas acima foram remedidas de uma vez só, com todas as regras de hoje ligadas ao mesmo tempo (3.000 iterações/célula). **Dezenove conferem dentro de 3 pontos percentuais**; a única que se moveu foi **Difícil de rank 2 (35% → 31%)**, corrigida acima. As faixas de duração também conferem. Ver [[🎯 Simulação de Combate — Resultados#✅ Décima terceira rodada — validação final conjunta (2026-08-31)|a décima terceira rodada]]. *(Registro histórico: os números que esta caixa validou foram substituídos pela décima oitava rodada, acima.)*
 
 > [!success] Resolvido — a tabela acima está certa como está *(decisão 215)*
-> A décima terceira rodada descobriu que o motor de simulação sempre modelou `treino = 0` no acerto, enquanto [[💪 Atributos]] trazia `+ treino` na fórmula. O autor decidiu: **ataque não é ação treinada** — o bônus de treino vale só em teste de perícia, nunca em rolagem de ataque. A fórmula de Atributos foi corrigida para refletir isso, e **os números acima seguem válidos sem nenhuma republicação**, com a mesma premissa das quatorze rodadas de simulação. *(A alternativa — ligar treino só nos PJs — moveria esta tabela +12,6 pontos percentuais em média, até +30,9.)*
+> A décima terceira rodada descobriu que o motor de simulação sempre modelou `treino = 0` no acerto, enquanto [[💪 Atributos]] trazia `+ treino` na fórmula. O autor decidiu: **ataque não é ação treinada** — o bônus de treino vale só em teste de perícia, nunca em rolagem de ataque. A fórmula de Atributos foi corrigida para refletir isso, e **a premissa segue válida**: `treino = 0` continua sendo o que todas as rodadas medem, inclusive a décima oitava. *(A alternativa — ligar treino só nos PJs — moveria esta tabela +12,6 pontos percentuais em média, até +30,9.)* ⚠️ **O que caducou é a frase "os números acima seguem válidos sem nenhuma republicação":** eles foram republicados pela décima oitava rodada, por causa da paridade de Níveis de ficha — nada a ver com treino.
 
-**A linha de "Padrão pesado" caiu 8-13 pontos porque o piso de ataques da Horda a endurece** — os 71/64/63/85 anteriores eram medição feita **antes** do piso. Remedida na décima primeira rodada de simulação: 63% · 57% · 50% · 76%. É a única cena da tabela que o piso move de verdade (as outras quatro conferem com o publicado dentro de 1,5 ponto), porque é a única em que a Horda é metade da força inimiga.
+**A linha de "Padrão pesado" caiu 8-13 pontos porque o piso de ataques da Horda a endurece** — os 71/64/63/85 anteriores eram medição feita **antes** do piso, e os 63/57/50/76 vieram da décima primeira rodada. *(Os dois conjuntos são históricos: a décima oitava rodada, com os quatro PJs modelados, mede 89/91/91/99% — ver a caixa 🔴 acima.)*
 
-**Quanto tempo a cena dura, medido** *(ranks 1 a 5)*: Fácil 2,5-4,6 rodadas · Padrão 6,0-7,7 · Padrão pesado 7,5-10,5 · Difícil 8,3-9,1 · Clímax 6,8-10,7. Se a mesa quiser cenas curtas, o botão **não** é dano nem RD — é o número de peças, e ele é o mesmo botão da dificuldade (ver [[🎯 Simulação de Combate — Resultados#⏱️ Décima primeira rodada — encurtando a cena (2026-08-31)|a décima primeira rodada]]).
+**Quanto tempo a cena dura, medido** *(ranks 1 a 5, décima oitava rodada)*: Fácil 2,2-3,9 rodadas · Padrão 4,2-5,1 · Padrão pesado 6,0-7,5 · Difícil 6,5-6,8 · Clímax 4,7-6,7. **As cenas encurtaram 1,5 a 4 rodadas** em relação ao que se publicava (Fácil 2,5-4,6 · Padrão 6,0-7,7 · Padrão pesado 7,5-10,5 · Difícil 8,3-9,1 · Clímax 6,8-10,7), pela mesma causa: o grupo bate mais forte do que o motor supunha. **Isso reabre a decisão 208** — o autor tinha fechado o fork de duração escolhendo "6-8 rodadas é o ritmo real do sistema", e o ritmo real agora é 4-7. Se a mesa quiser cenas curtas, o botão **não** é dano nem RD — é o número de peças, e ele é o mesmo botão da dificuldade (ver [[🎯 Simulação de Combate — Resultados#⏱️ Décima primeira rodada — encurtando a cena (2026-08-31)|a décima primeira rodada]]).
 
 **Os números acima já assumem a regra de Alma rara** (décima rodada de simulação): todo Mestre de Gu com a Ação Especial do próprio Caminho, e o cultivador de Alma entrando só pela exceção rolada de 1d6 (ver o molde acima). Contraintuitivo mas medido: **tirar o Alma do padrão deixou as cenas um pouco MAIS difíceis, não mais fáceis** (2-10 pontos) — uma especial de Alma isolada gasta o golpe numa barra que nada mais ataca, enquanto a especial física soma no foco de fogo e aplica Lentidão com mais frequência. Histórico completo em [[🎯 Simulação de Combate — Resultados#🔇 Décima rodada — Alma rara entre inimigos (2026-08-31)|a décima rodada]].
 
 > [!note] Duas exceções por rank, e as duas são deliberadas
 > **Padrão muda de composição no rank 1** (2 Mestres + 1 Guerreiro em vez de 3 Mestres) pelo mesmo motivo que Difícil já muda desde a decisão 137: o penhasco de volume de ações não deixa composição intermediária, e 3 Mestres no rank 1 dão 62% — abaixo da faixa de 75-99% que "Padrão" promete. Do rank 2 em diante, 3 Mestres volta a ser a composição certa.
 >
-> **Difícil nos ranks 1-2 (31%/31%) é quase-Clímax, e está aceito assim** (decisão do autor): nessa faixa o grupo ainda não tem arsenal pra amortecer 7 ações por rodada, e a cena Difícil de rank baixo é legitimamente a mais perigosa da fase inicial. Se a mesa quiser algo mais suave ali, use Padrão pesado (63%/57%) — não existe degrau entre os dois com as peças atuais.
+> **Difícil de rank baixo é quase-Clímax, e está aceito assim** (decisão do autor): nessa faixa o grupo ainda não tem arsenal pra amortecer 7 ações por rodada, e a cena Difícil de rank baixo é legitimamente a mais perigosa da fase inicial.
+>
+> ⚠️ **As duas exceções foram calibradas contra números que a décima oitava rodada substituiu** (Difícil r1-2 media 31%/31% e agora mede 70%/83%; "3 Mestres no rank 1" media 62%). A *lógica* das duas — o penhasco de volume de ações — segue valendo; os *limiares* precisam ser recalibrados pelo autor junto com o resto da tabela.
 
 **Clímax é o único nível onde uma cena inteira de cultivadores de Alma é intencional.** É lá, e só lá, que o alfa-strike total contra as quatro barras de Alma do grupo deve acontecer — a promessa do Caminho da Alma ("ignora RD por completo", [[👻 Caminho da Alma]]) continua absoluta; a regra de Alma rara muda a **frequência** do inimigo de Alma, não o poder dele. Fora do Clímax, cultivador de Alma inimigo é a exceção de 1d6 do [[#🧑‍🦱 Mestre de Gu — o inimigo humano|Mestre de Gu]] mais acima.
 
