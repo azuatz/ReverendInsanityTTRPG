@@ -147,7 +147,15 @@ A cada 10.000 Marcas num Caminho, o personagem ganha um **traço obrigatório** 
 
 ## Praticar mais de um Caminho
 
-Um personagem pode ter um Caminho secundário — mas cada Caminho além do primeiro soma **+50% ao custo de progressão** (tempo, Marcas de Dao necessárias) de ambos. Com três Caminhos, +100% em cada. É por isso que a maioria dos cultivadores se especializa em um só: tentar abraçar tudo deixa tudo mais lento.
+Um personagem pode ter um Caminho secundário — e **o preço depende de quais dois**, não de quantos. São **três relações**, publicadas por inteiro em [[☯️ Marcas de Dao#Conflito de Caminhos — o que acontece quando as Marcas brigam|Marcas de Dao]] (decisão 221):
+
+| Relação | Exemplo | Custo de progressão | O que mais acontece |
+|---|---|---|---|
+| **Complementares** *(mesma família — dois Yin, dois Yang)* | Lua + Alma | **+25%** em ambos, e **−1/6** por fonte | Nada além disso. É o cultivo duplo barato |
+| **Neutros** | Vento + Metal | **+50%** em ambos, e **−1/3** por fonte | Nada além disso |
+| **⚠️ Incompatíveis** | **Sangue + Força** | **+50%**, e o pior não é o custo | **As Marcas se anulam entre si**, você perde **1 Nível de Potência**, e a sua Terra Abençoada fica **permanentemente ferida** |
+
+**A linha que decide fichas é a terceira**, e é por isso que ela vem escrita aqui e não só na nota de Marcas: um par incompatível não é um cultivo duplo caro, é um cultivo duplo que **se sabota**. Quem quiser um precisa de um motivo de ficção que pague por isso — e no romance é exatamente assim que os cultivadores demoníacos aparecem. É por isso que a maioria dos cultivadores se especializa em um só: tentar abraçar tudo deixa tudo mais lento.
 
 ## Sabedoria e Sorte — os dois Caminhos sem trilho próprio
 

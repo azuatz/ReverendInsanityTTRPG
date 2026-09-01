@@ -164,7 +164,7 @@ Falhar não é só perder o turno: é a essência acumulada do Pico inteiro rico
 >
 > **É por isso que esperar é o normal e forçar é desespero.** Na obra, cultivadores passam anos no Pico juntando coragem para uma tentativa; quem força é quem não tem tempo — o perseguido, o moribundo, o demoníaco. A regra deve fazer o jogador sentir isso na ficha, não só na narração. *(Decisão 255.)*
 
-**Falha crítica (1 natural):** a Abertura racha feio. O jogador escolhe: perde o estágio mais recente conquistado (regride dentro do rank atual), **ou** −1 permanente num atributo — mesma escolha do Teste de Morte, pra manter o jogo consistente sobre o que "falha catastrófica" custa.
+**Falha crítica (1 natural):** ver a tabela acima — o personagem **regride um rank** e cai para o Pico do rank anterior (decisão 255). *(A nota publicava aqui uma segunda versão desta regra, anterior e mais branda; arquivada em [[Regras removidas (2026-09-01 — varredura de texto)]].)*
 
 Um **Gu Relíquia** avança um **estágio** na hora, sem teste — mas **não salta rank** (ver [[🚀 Gu de Avanço de Rank]]). Pro salto de rank não existe compra limpa: uma dose absurda de Pedras Primordiais infundida na ruptura concede **vantagem e +2** no Teste de Ruptura, e é o máximo que dinheiro faz aqui.
 
