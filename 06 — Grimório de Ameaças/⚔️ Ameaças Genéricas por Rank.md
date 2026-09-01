@@ -175,13 +175,13 @@ A Horda usa `6 × M × nº de membros` — a coluna acima é o caso de 8. O Mest
 
 Os números entre parênteses são a **vitória medida do grupo** numa mesa de 4, pela [[🎯 Simulação de Combate — Resultados\|simulação]]. A maioria das composições vale em qualquer rank; **"Difícil" é a exceção — muda de composição por faixa de rank**, como o Chefe (abaixo) já muda de número de ações. A causa é a mesma nos dois casos — **volume bruto de ações contra o arsenal do grupo** (ver o achado na quinta rodada de simulação) —, e a lição é que nem toda composição escala limpo do rank 1 ao 5. *(A explicação anterior atribuía a escala do Chefe ao "custo relativo do Golpe Matador"; a décima nona rodada mediu o combo disparando e mostrou que ele move menos de 5pp em qualquer célula de Chefe — decisão 242.)*
 
-| Tipo de cena | **rank 1** | **rank 2** | **rank 3** | **rank 5** |
-|---|---|---|---|---|
-| **Fácil** | Horda de 8 *(100%)* | Horda de 8 *(100%)* | Horda de 8 *(100%)* | Horda de 8 *(100%)* |
-| **Padrão** | **2 Mestres + 1 Guerreiro** *(98%)* | 3 Mestres de Gu *(93-97%)* | idem **+1 ação em 1 deles** *(98%)* | idem **+1 ação em 2 deles** *(98%)* |
-| **Padrão pesado** | 2 Mestres + Horda de 8 *(83%)* | idem *(82%)* | idem **+1 ação em 1 Mestre** *(85%)* | idem **+1 ação em 2 Mestres** *(89%)* |
-| **Difícil** | 3 Mestres + 1 Guerreiro *(64%)* | idem *(69-71%)* | idem **+1 ação em 2 Mestres** *(71%)* | 4 Mestres **+1 ação em 2 deles** *(60%)* |
-| **Clímax** | 1 Elite especial + 3 Mestres *(68%)*✝, ou **Chefe + Guerreiro *(77%)*** | idem, **Chefe + Guerreiro *(86%)*** | 1 Elite especial + 3 Mestres *(44%)*✝, ou **Chefe + Guerreiro *(87%)*** | 1 Elite especial + 3 Mestres *(46%)*✝, ou **Chefe + Guerreiro *(85%)*** |
+| Tipo de cena | **rank 1** | **rank 2** | **rank 3** | **rank 4** | **rank 5** |
+|---|---|---|---|---|---|
+| **Fácil** | Horda de 8 *(100%)* | idem *(100%)* | idem *(100%)* | idem *(100%)* | idem *(100%)* |
+| **Padrão** | **2 Mestres + 1 Guerreiro** *(98%)* | 3 Mestres de Gu *(93%)* | idem *(97%)* | idem **+1 ação em 1 deles** *(98%)* | idem **+1 ação em 2 deles** *(98%)* |
+| **Padrão pesado** | 2 Mestres + Horda de 8 *(83%)* | idem *(82%)* | idem *(82%)* | idem **+1 ação em 1 Mestre** *(85%)* | idem **+1 ação em 2 Mestres** *(89%)* |
+| **Difícil** | 3 Mestres + 1 Guerreiro *(64%)* | idem *(69%)* | idem **+1 ação em 1 Mestre** *(71%)* | idem **+1 ação em 2 Mestres** *(71%)* | 4 Mestres **+1 ação em 2 deles** *(60%)* |
+| **Clímax** | Chefe + Guerreiro *(69%)* | idem *(68%)* | idem *(75%)* | idem *(71%)* | idem *(72%)* — ou 1 Elite especial + 3 Mestres ✝ |
 
 > [!success] ✅ A escada de dificuldade voltou a funcionar — e o botão é **ação**, não peça
 > As composições prometiam faixas que não entregavam desde a décima oitava rodada. Consertadas na vigésima quarta (decisão 258), e o caminho até lá vale mais que o resultado:
@@ -201,15 +201,17 @@ Os números entre parênteses são a **vitória medida do grupo** numa mesa de 4
 >
 > **A faixa entre os três dials de ficha** (as escadas de Lua, Vento e Wu Xing dependem de fase, posição e terreno — o número da tabela é a leitura de **cena ordinária**, e a faixa vai do dial zerado ao teto):
 >
-> | Composição | faixa que a nota promete | rank 1 | rank 2 | rank 3 | rank 5 |
-> |---|---|---|---|---|---|
-> | Fácil | ≈100% | 100 | 100 | 100 | 100 |
-> | Padrão | 75-99% | 98-99 | 94-99 | 97-99 | 100 |
-> | **Padrão pesado** | **53-77%** | **83-91** | **83-94** | **85-95** | **97-99** |
-> | **Difícil** | **~40-52%** | **59-78** | **68-90** | **80-94** | **79-95** |
-> | **Clímax** *(Chefe + Guerreiro)* | **56-87%** | **77** ✅ | **86** ✅ | **87** ✅ | **85** ✅ |
+> | Composição | faixa prometida | r1 | r2 | r3 | r4 | r5 |
+> |---|---|---|---|---|---|---|
+> | Fácil | 95-100% | 100 ✅ | 100 ✅ | 100 ✅ | 100 ✅ | 100 ✅ |
+> | Padrão | 75-99% | 98 ✅ | 93 ✅ | 97 ✅ | 98 ✅ | 98 ✅ |
+> | Padrão pesado | 60-90% | 83 ✅ | 82 ✅ | 82 ✅ | 85 ✅ | 89 ✅ |
+> | Difícil | 40-75% | 64 ✅ | 69 ✅ | 71 ✅ | 71 ✅ | 60 ✅ |
+> | Clímax | 56-87% | 69 ✅ | 68 ✅ | 75 ✅ | 71 ✅ | 72 ✅ |
 >
-> *(A linha do Clímax foi **recalibrada e revalidada** pela vigésima terceira rodada — decisão 251. As quatro linhas acima dela seguem como a décima oitava as mediu: são as que ainda esperam redesenho de peças.)*
+> **25 de 25 dentro da faixa** (decisão 262). Antes dos três consertos — teto de Gu, molde Chefe e ações extras — eram 8 de 15 nas células então medidas.
+>
+> *(Tabela remedida por inteiro na vigésima quarta rodada, com o teto de Gu, o molde Chefe recalibrado e as ações extras todos ligados — decisões 258, 260 e 262. **A escada de dificuldade está completa pela primeira vez desde a décima oitava rodada.**)*
 >
 > **O que NÃO foi feito:** redesenhar as composições para voltarem às faixas — **as quatro acima do Clímax**, que é a única já resolvida (decisão 251). Isso é decisão de design do autor, não conserto de motor, e a alavanca dessas quatro é o **número de peças**, não o molde. *(A alavanca "Chefe de `94 × M`" que esta nota sugeria está **rejeitada por medição** — ver a tabela de Vitalidade e ações do Chefe.)* Detalhe e método em [[🎯 Simulação de Combate — Resultados#🔧 Décima oitava rodada — os três consertos de motor e a revalidação (2026-09-01)|a décima oitava rodada]].
 >
