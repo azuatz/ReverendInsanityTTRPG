@@ -78,6 +78,7 @@ escopo: processo
 | [[🌪️ Caminho do Vento]] | Corrente de Ar, a **Regra da Posição** (dano por deslocamento e ângulo), e por que 56% de aptidão ainda mata |
 | [[⚗️ Materialização e Alquimia Interna]] | Condensar essência em minério e cristal, forjar material espectral com Força de Alma, e vender no mercado imortal |
 | [[🌩️ Calamidades e Provações]] | **Como se joga uma cobrança do céu** — cinco etapas (três na Calamidade de rotina), CD por rank e faixa, Marcas proporcionais aos sucessos, e a espiral de falhar duas seguidas |
+| [[🌪️ Guia de Tribulações — Como Construir Uma]] | Guia do mestre: tipos, tabela de eventos `1d12`, **a cicatriz que fica**, como construir em 5 passos, sabotagem |
 | [[⛈️ A Vontade do Céu]] | **Contador de Ameaça Celestial**, Fichas de Azar, e a Tribulação feita sob medida pro ponto fraco da ficha |
 | [[⏳ Longevidade]] | 100 anos pra todos; o Gu de Longevidade é o único caminho limpo, mais **10 desvios canônicos** (zumbificação, ressurreição, possessão) e o que cada um cobra |
 | [[💠 Economia das Pedras Primordiais]] | Preços de referência, Pedra Imortal, Pontos de Origem, e a **escala de pontos de recurso** (minúsculo → auge) pra riqueza territorial de facção |

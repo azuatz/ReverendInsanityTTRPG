@@ -55,6 +55,7 @@ Aqui está o **maior evento do jogo**. Leia com algumas sessões de antecedênci
 ## Nível 4 — Consequências e economia *(consulta, sem pressa)*
 
 - **[[🌩️ Calamidades e Provações]]** — o passo a passo em cinco etapas (três na versão de rotina), com Marcas proporcionais aos sucessos.
+- **[[🌪️ Guia de Tribulações — Como Construir Uma]]** — o guia do mestre: que forma a tribulação toma, **que pedaço do mapa ela leva**, o que ela deixa morando lá, e como usá-la como arma contra um rival.
 - **[[⛈️ A Vontade do Céu]]** — o Contador de Ameaça e a Tribulação sob medida: o mundo reage a quem cresce demais.
 - **[[💠 Economia das Pedras Primordiais]]** — a moeda do mundo e o que ela compra.
 - **[[⚗️ Materialização e Alquimia Interna]]** — essência vira matéria, e matéria vira renda.
