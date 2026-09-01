@@ -240,7 +240,6 @@ QI         = 344 × 2^(estágio−1)   ← zera ao subir de rank, e é de propó
 | **Alma** | **25** | 28 | 31 | **34** | **50** | 56 | 62 | **68** |
 | **QI** | 344 | 688 | 1.376 | 2.752 | 344 | 688 | 1.376 | 2.752 |
 | **Defesa** *(sem Gu de mov.)* | 14 | 14 | 14 | 14 | 15 | 15 | 15 | 15 |
-| Resistência / ordem de turno | — | +1 | +2 | +3 | — | +1 | +2 | +3 |
 | Vagas de Suporte | 0 | 1 | 2 | 3 | 0 | 1 | 2 | 3 |
 | Gu sustentados *(fixo)* | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 |
 | Teto de Combo | 2 | 3 | 4 | **5** | 2 | 3 | 4 | **5** |
@@ -342,7 +341,7 @@ Teste de Conjuração = d20 + AST(2) + rank(3) vs CD 10 + 4 = 14
 
 ### Gu Yue Xie Lang *(Pepo)* — Lua + Alma
 - 15 anos, do Clã Gu Yue. Aptidão **86%** (Grau A) — teto natural rank 5, com chance real de Ascensão. **A Aptidão não sobe durante a campanha**
-- Ficha pronta em [[Modelo — Ficha Compacta|Ficha Compacta]]: FOR −1 · CON +3 · DES +3 · AST +2 · VON +3 · CAR +2 · Vitalidade 27 · Alma 18 · QI 344 · Defesa 14 · CD 14
+- Ficha pronta em [[Modelo — Ficha Compacta|Ficha Compacta]]: FOR −1 · CON +3 · DES +3 · AST +2 · VON +3 · CAR +2 · Vitalidade 27 · Alma 25 · QI 344 · Defesa 14 · CD 14
 - **Cultivo duplo normal:** as Marcas se dividem entre Lua e Alma, à taxa reduzida de Caminhos complementares (**+25% de custo, −1/6 por fonte**) — que é regra geral, não privilégio dele
 - **Perfil de ataque declarado: 80:20, Lua principal e Alma secundária.** A maior parte do dano dele é **d8 na Vitalidade, freado pela RD** como o de qualquer um; a Alma (d12, ignora RD, mira a barra de Alma) é o segundo recurso, não o padrão. É a informação de ficha mais importante dele para efeito de balanceamento, e ela **corrige** o que as medições antigas assumiam
 - **Buff de Lore — Ressonância da Montanha Fria:** (a) Golpe Matador que mistura Gu de Lua e de Alma **não paga a dobra de custo de híbrido**, e a Retaliação é a normal; (b) uma vez por arco, quando ele seria reduzido a 0 de Vitalidade ou Alma, fica em **1** e o frio se espalha (CON contra a CD dos Gu dele em 5 m, ou perde a reação). Em troca, nunca pode tomar um terceiro Caminho, e a ressonância é rastreável ([[👁️ Exposição|Exposição]]). Ver [[🌙 Caminho da Lua|Caminho da Lua]] e [[👻 Caminho da Alma|Caminho da Alma]]

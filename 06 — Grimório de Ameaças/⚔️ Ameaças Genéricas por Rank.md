@@ -129,12 +129,15 @@ Um único inimigo contra um grupo perde a ação por turno na maioria dos sistem
 
 | Rank do Chefe | Vitalidade | Ações por rodada | Vitória do grupo *(mesa de 4, com 1 Guerreiro de apoio)* | Duração |
 |---|---|---|---|---|
-| **1** | `63 × M` | **2** | **77%** | 6,5 rodadas |
-| **2** | `80 × M` | **2** | **86%** | 7,5 |
-| **3** | `100 × M` | **2** | **87%** | 8,3 |
-| **4** | `94 × M` | **3** | **84%** | 7,2 |
-| **5** | `115 × M` | **3** | **85%** | 7,7 |
+| **1** | `63 × M` | **2** | **69%** | 6,5 rodadas |
+| **2** | `80 × M` | **2** | **68%** | 7,5 |
+| **3** | `100 × M` | **2** | **75%** | 8,3 |
+| **4** | `94 × M` | **3** | **71%** | 7,2 |
+| **5** | `115 × M` | **3** | **72%** | 7,7 |
 | **6+** | `63 × M` | **4** | ver a régua ΔB dos imortais, mais abaixo | — |
+
+> [!warning] De onde vêm estes números, porque a nota já publicou dois conjuntos
+> A coluna de vitória vem da **bateria conjunta da decisão 262**, que mediu esta mesma cena (Chefe + Guerreiro) com o teto de Gu, o molde recalibrado e as ações extras **todos ligados**, e varrendo os cinco ranks. A versão anterior desta tabela trazia 77/86/87/84/85%, medidos na decisão 253 **antes** da bateria conjunta — e ficavam em contradição com a linha de Clímax da tabela de composição, na mesma nota. **As durações não foram remedidas na bateria conjunta** e continuam vindo da 253.
 
 **As cinco células caem dentro da faixa de 56-87% que "Clímax" promete**, e a cena dura 6,5 a 8,3 rodadas — o ritmo de 6-8 da decisão 208, com o rank 3 estourando 0,3 rodada. *(Decisão 253, que **corrige** os números das decisões 249 e 251 — aquelas duas rodadas mediram com três dos quatro PJs sem os Níveis de Potência das fichas deles, o mesmo defeito de motor que a décima oitava rodada tinha consertado. O rank 6+ segue em `63 × M` de propósito: a fase imortal é dimensionada pela régua ΔB, não por esta tabela.)*
 
