@@ -485,7 +485,7 @@ removida pela decisão 266.)* As Asas sozinhas custam 15/rodada, e são o item q
 | R3 — essência/rodada com tudo ligado | 8 / 344 → **cobre a cena** | **61 / 304 → 5,0 rd** | manutenção própria só → **cobre a cena** | 7 / 224 → **cobre a cena** |
 | **R5 — ataque principal** | `16d12 + 16` (Lua Afogada, 40 m) | `16d12 + 32 + FOR 5` melee | `16d12 + 48 + FOR 4` foice | `16d12` a 50 m **+ Posição** |
 | R5 — 2º recurso | `8d10` (Crescente) · `8d8` Alma em cone | `16d12 + 16` ignora RD (1×/cena, 5 Ímpeto) | 2 × `8d8` c/ cura 8 · `8d12+8` meia RD | `8d6` em linha 40 m, **sem ar 2 rd** |
-| R5 — RD | 4 + RD de Alma 12 | 0 | **32** (Trono) | 16 (**0 no ar**) |
+| R5 — RD | **16** + RD de Alma 12 ⚠️ *(era publicado como 4 — a RD usa o `M` do PORTADOR, decisão 275, então um Gu de base 1 num rank 5 dá 16, não 4)* | 0 | **32** (Trono) | 16 (**0 no ar**) |
 | R5 — Defesa | 24 | 19 no ar / 15 no chão | **17** | **25** no ar |
 | R5 — permanentes | +2 CON, +1 DES, +1 VON, RD 4, imune a medo | +1 FOR, +1 CON, **+3 Níveis melee**, arma pesada desarmado, imune a deslocamento forçado | +2 CON, +1 FOR, +8 Vit, imune a deslocamento forçado | +1 DES, +1 CON, +2 m, **imune a agarrão/laço/videira sem rolar** |
 | R5 — essência/rodada | 12 / 344 → **cobre a cena** | 5 / 304 → **cobre** (mas **16 Vit a cada 2 rd** e Dívida) | 28 / 252 → **9,0 rd** | 23 / 224 → **9,7 rd** |
