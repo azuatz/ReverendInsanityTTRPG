@@ -11,6 +11,8 @@ escopo: processo
 # 🎯 Simulação de Combate — Resultados
 
 > [!important] Rodada mais recente
+> A **vigésima rodada** ([[#⚖️ Vigésima rodada — o Golpe Matador é escolha ou obrigação? (2026-09-01)|2026-09-01]]) mede as três regras que entraram depois da 19ª — o **portão de rank 3** (decisão 243), a **Abertura do disparo** (241) e o **pool dobrado no sucesso** (244) — para responder se o combo virou obrigação. **A resposta não é "escolha" nem "obrigação": é a terceira.** **(1) O 2,2×-2,5× da decisão 244 é teto, e ela mesma suspeitava disso.** Bruto o combo é **1,81× a 2,41×**; com a perda de arsenal descontada é **0,40× a 1,46×**, e **8 de 12 células ficam abaixo de 1,00×** — nenhuma chega perto da linha de 2,0× que definiria obrigação. **(2) A previsão registrada antes da medição está confirmada com precisão:** o `p` de equilíbrio cai de 88-96% para **77-85%**, e **4 de 12 células passam** — as de perda moderada (o Xie Lang) — enquanto as de perda extrema (os dois de corpo a corpo) seguem negativas. **(3) 🔴 O teste da obrigação inverte o sinal:** o grupo que **SEMPRE** monta perde para o que **NUNCA** monta em **15 de 15 células**, gap médio **−14,06pp** e até −29,7pp. **O combo não virou a jogada obrigatória; virou a jogada que PARECE obrigatória** — o número bruto convida, a cena cobra. **(4) O Clímax anda na direção errada:** 95,4% → **96,8%** no rank 5 (99,3 e 98,5% nos ranks 3 e 4), contra a faixa de 56-87% — disparar mais **facilita** a cena para o Chefe, não para o grupo, e **o reforço do Chefe tem de vir do Chefe**. **(5) Nenhum dial é necessário** — o EV já caiu sob a linha sozinho; o dial (b) é no-op exato na bateria inteira, porque toda composição publicada usa inimigos do mesmo rank. **(6) 🔴 Achado de motor:** a heurística que a decisão 245 canonizou **subestima a duração da cena pela metade** (3,0 rodadas estimadas contra 5,71 medidas) e portanto subprecifica exatamente a cauda que ela existe para precificar; corrigida, a taxa de disparo cai de 3,59 para **0,60** golpe por cena de Clímax no rank 3. **(7) O Golpe Matador Coletivo, medido pela primeira vez:** a CD nova o leva de ~15% para **80-95%** de sucesso, mas ele entrega **0,52×-0,58×** do que os mesmos quatro entregariam atacando — *"desespero tardio"* continua certo, **com a justificativa trocada de confiabilidade para economia**. **Nenhum número de [[⚔️ Ameaças Genéricas por Rank]] precisa mudar**; só a prosa da 19ª.
+>
 > A **décima nona rodada** ([[#🎯 Décima nona rodada — o Golpe Matador medido por ação (2026-09-01)|2026-09-01]]) mede a **etapa 1 do conserto do Golpe Matador** (decisão 240) e corrige o eixo do gatilho. **⛔ Primeiro, uma retratação:** o *"não existe alvo contra o qual o combo pague"* da 18ª está **retirado** — o gatilho daquela rodada usava horizonte **solo** (`r = ⌈barra / e_norm⌉`), com o qual o ataque comum sempre alcança a barra inteira e disparar só pode perder. **Era tautologia, não achado.** **(1) O teste de conjuração da decisão 240 entrega o prometido** — 80/80/80/80/**85%** nos cinco ranks para AST +2, contra 55/50/45/40/40% — e a implementação força uma premissa: **`nível de domínio` = 0 na fase mortal**, a única leitura que reproduz os 85% e os 40% que a nota publica. **(2) A aritmética por ação confere na direção e erra na faixa:** por essência 0,23× a 0,04×, por ação **0,68× a 1,63×** (a conta de mão dizia 1,15-1,62× e generalizou os números do Xie Lang), e o Monte Carlo com crítico, RD e falha de conjuração confirma o papel em 11 de 12 células. **(3) O combo passa a disparar — e só com os DOIS consertos juntos:** de **0,00** (qualquer conserto isolado) para **3,21 golpes por cena** no Clímax de rank 5, contra os 0,19 do gatilho antigo forçado. **(4) 🔴 Mas o Clímax não recupera o clímax:** a vitória do grupo cai só de 99,7% para **95,4%** (98,0% na leitura conservadora), contra a faixa de 56-87% que a cena promete — **os dois problemas são independentes**, e o Chefe fácil é da paridade de Níveis, não do combo ausente. **(5) O gargalo virou a Retaliação:** em 12 de 12 células a perda esperada de passar a cena sem Gu supera o ganho do golpe, e o `p` de equilíbrio é de **88% a 146%** contra os 75-85% que a regra nova entrega — no rank 1 dos dois PJs de corpo a corpo **nenhuma taxa de conjuração faz o combo pagar**. É evidência a favor da etapa 2 (decisão 241), que esta rodada **não** mede. **Nenhuma célula de [[⚔️ Ameaças Genéricas por Rank]] anda mais de 3pp** — só a prosa foi corrigida.
 >
 > A **décima oitava rodada** ([[#🔧 Décima oitava rodada — os três consertos de motor e a revalidação (2026-09-01)|2026-09-01]]) é **só correção de motor** — três defeitos da mesma classe, todos "o código implementando uma leitura estreita da regra escrita". **(1) O teste de conjuração** passou a ser o publicado (`d20 + AST + nível de domínio`, CD `12 + 2×nGu` com os quatro modificadores): o Golpe Matador de rank 5 sai de **loteria de 5% para os 40%** que a regra promete, e a régua fica em **55 / 45 / 40%** nos ranks 1/3/5 — mas o conserto **não move nenhuma célula publicada** (0 de 15 acima de 3pp, máximo 1,4pp), então a suspeita de contaminação do Clímax está **refutada**. **(2) A escada de Níveis de ficha** existia só para a Lee, e o buraco era maior do que a 17ª descreveu: **os quatro Caminhos concedem Níveis**, três deles como dial de cena (fase da lua, posição, solo natural). Derivadas uma a uma das notas publicadas, elas movem **8 de 15 células de grupo (até +15,9pp)** e sobem os três PJs esquecidos em **+9 a +25pp** na cena solo. **(3) O gatilho do Golpe Matador** deixou de ser `boss is not None` e virou a **conta que a própria regra descreve** — e a conta diz **não disparar contra alvo nenhum** dos ranks 3 e 5, nem contra um Chefe de rank +2: a essência do combo compra 25 a 40 ataques comuns que derrubam a barra duas a cinco vezes. A isenção da decisão 233 segue medindo **+0,00pp**, agora como resultado **derivado**, não como gatilho congelado. **Veredito do critério do autor: o Jiāotáng lidera nos três ranks (✅), mas o Demvi não fecha a fila em rank nenhum e o Xie Lang NÃO converge** — 23,9 → 22,3 → 19,6%, terminando a +53,9pp do líder. A afirmação da 17ª de que a paridade fecharia o critério está **refutada**. A tabela de composição e a de ações do Chefe foram **corrigidas** em [[⚔️ Ameaças Genéricas por Rank]].
@@ -2365,6 +2367,278 @@ Com os dois consertos, o Xie Lang passa a disparar **0,15 golpe por duelo** e **
 - **O golpe do combo perde o `+ FOR` do dano melee.** É a leitura de que o combo é uma sequência de Gu e não um golpe de arma — herdada da 18ª —, e é ela que põe Jiāotáng e Lee abaixo de 1,0× no rank 1.
 - **A Sobrecarga dos apoios e a Queima deliberada ([[💀 A Morte dos Gu]]) continuam fora do motor**, nesta rodada como em todas as anteriores. As duas só pioram o lado do combo, então o veredito não muda de sinal.
 - **A decisão 241 (Prerrogativa + Abertura do disparo) NÃO está nesta medição.** A rodada estava em execução quando ela foi registrada; ela é a linha de base de "só confiabilidade", exatamente como a decisão 241 previu.
+
+---
+
+## ⚖️ Vigésima rodada — o Golpe Matador é escolha ou obrigação? *(2026-09-01)*
+
+Script: [[simulacoes/2026-09-01-vigesima-escolha-ou-obrigacao.py|_Processo/simulacoes/2026-09-01-vigesima-escolha-ou-obrigacao.py]] — cópia do motor da décima nona. Semente `20260830`, **3.000 iterações por célula**, mix de Alma "C", treino 0 dos dois lados. **Ranks 3, 4 e 5 apenas**: o rank 1 e o 2 não montam Golpe Matador (decisão 243), então as células deles saíram da bateria do combo — não são combo ruim, são combo que a regra não permite.
+
+**Reprodução conferida:** com os três knobs novos desligados, a rodada reproduz a décima nona em **0,03pp** nas cinco células de Clímax e **exatamente** na taxa de disparo (0,02 / 1,72 / 3,21).
+
+Três regras entraram desde a rodada anterior, e nenhuma é motor:
+
+| Decisão | O que entrou |
+|---|---|
+| **243** | **Portão de rank 3.** Rank 1 e 2 não montam combo |
+| **241** | **A Abertura do disparo.** Vantagem em todo ataque contra o executor até o próximo turno dele — e portanto o dobro de chance de crítico contra ele |
+| **244** | **O pool dobra no sucesso.** `2 × M` dados, mecânica do crítico: dobra os dados, o bônus por dado não dobra |
+
+**A pergunta:** a sessão paralela registrou que **acima de ~2,0× de valor esperado a jogada deixa de ser escolha e vira obrigação**. A conta de mão da decisão 244 põe o combo em 2,2× a 2,5×, além dessa linha — mas ela **não desconta a perda de arsenal**, que é o que o ponto de equilíbrio da 19ª capturou.
+
+---
+
+> [!info] 📐 Premissa publicada — a heurística do jogador é a da **cauda precificada** (decisão 245a)
+> A 19ª publicou duas: a **`por ação`** (compara só o dano da ação e dispara muito) e a **`com a cauda de Retaliação precificada`** (desconta a perda de arsenal pelo resto da cena). **O autor escolheu a segunda**, porque modela o jogador competente — quem enxerga que perder os Gu do combo pelo resto da cena é custo real. Ela é o padrão da casa daqui em diante; a `por ação` fica só como sensibilidade.
+>
+> **⚠️ E esta rodada encontrou um defeito nela** — ver a seção *"O horizonte estimado"* mais abaixo. O princípio está certo; a aritmética dentro do motor subestima a cena pela metade, e é isso, não a regra nova, que explica a maior parte do que a bateria de composição parecia mover.
+
+---
+
+### 🩸 O preço da Abertura do disparo, medido — e ele é um **piso**
+
+| rank | PJ | rodadas na janela | dano/rodada dentro | fora | razão | custo por disparo |
+|---|---|---|---|---|---|---|
+| **3** | Xie Lang | 0,97 | 67,0 | 57,5 | **1,17×** | **9,5** |
+| **5** | Xie Lang | 0,94 | 347,1 | 296,7 | **1,17×** | **50,4** |
+| 3-5 | Jiāotáng · Lee · Demvi | ~1,00 | 0,0-15,9 | 4,6-88,8 | 0,00-0,18× | **0,0** |
+
+**A nota publica ~1,50×; o motor mede 1,17×, e só para um PJ.** A causa não é a regra — é a IA do inimigo: ela concentra fogo no **mais ferido** (`pick_weakest`), que é sempre o Xie Lang, e nunca no **exposto**. Os outros três abrem a guarda e ninguém aproveita.
+
+> [!warning] ⚠️ Limite declarado: o número acima é o **piso** do custo da Abertura, não o custo
+> Um mestre que joga a Abertura ataca **quem acabou de se abrir** — é literalmente o que a regra convida a fazer. O motor não modela essa mudança de alvo, então a punição medida aqui é a que sobra quando ninguém a explora. **Com a Abertura explorada de propósito, o custo sobe, e todas as conclusões desta rodada ficam mais fortes, nunca mais fracas.**
+
+---
+
+### 🔢 Pergunta 1 — o EV por ação, com a perda de arsenal descontada
+
+```
+L        = (rodadas da cena − 1) × (e_norm − e_cru)     ← a perda de arsenal
+líquido  = (p × e_golpe_2x − (1 − p) × L) / e_norm
+```
+
+*(Duração medida da cena de Clímax sem combo: r3 **5,71** · r4 **5,31** · r5 **4,72** rodadas.)*
+
+| PJ | rank | bruto | × p | **líquido** | + Abertura |
+|---|---|---|---|---|---|
+| **Xie Lang** | 3 | 2,41× | 1,92× | **1,06×** | 0,76× |
+| | 4 | 2,36× | 1,89× | **1,06×** | 1,06× |
+| | 5 | 2,36× | 2,01× | **1,46×** | 1,10× |
+| **Demvi** | 3 | 2,00× | 1,60× | **0,70×** | 0,70× |
+| | 4 | 2,00× | 1,60× | **0,75×** | 0,75× |
+| | 5 | 2,00× | 1,70× | **1,15×** | 1,15× |
+| **Jiāotáng** | 3 | 1,81× | 1,36× | **0,45×** | 0,45× |
+| | 4 | 1,83× | 1,38× | **0,40×** | 0,40× |
+| | 5 | 1,87× | 1,50× | **0,79×** | 0,79× |
+| **Lee** | 3 | 1,85× | 1,39× | **0,46×** | 0,46× |
+| | 4 | 1,85× | 1,39× | **0,41×** | 0,41× |
+| | 5 | 1,81× | 1,45× | **0,74×** | 0,74× |
+
+> [!check] ✅ **O 2,2×-2,5× é teto, e a decisão 244 já suspeitava disso — estava certa**
+> - **Bruto, a faixa real é 1,81× a 2,41×**, não 2,22-2,46×: a conta de mão de novo generalizou o Xie Lang. Só ele e o Demvi chegam a 2,0×.
+> - **Líquido, com a perda de arsenal paga, a faixa é 0,40× a 1,46×.** **Nenhuma das doze células chega perto de 2,0×**, e **oito das doze ficam abaixo de 1,00×** — ou seja, ali o combo ainda perde para um ataque comum.
+> - Descontando também a Abertura (conversão 1:1, declarada como sensibilidade), o Xie Lang no rank 3 cai de 1,06× para **0,76×**.
+> - **Monte Carlo com o motor real** (20.000 amostras/célula, com acerto, crítico, RD, RD de Alma e a falha contando 0): o múltiplo por ação sai de **0,92×-1,30×** (1×) para **1,49×-1,98×** (2×), confirmando o papel dentro de 0,2× em todas as células.
+
+---
+
+### 🎯 A previsão da decisão 244, conferida — o ponto de equilíbrio
+
+A decisão 244 registrou, **antes da medição**, que dobrar move o equilíbrio de `L/(G+L)` para `L/(2G+L)`, levando 88% → ~79%, 92% → 85%, 95% → 90% e 98% → 96%, e previu que **o 2× não torna o combo obrigatório de forma uniforme**.
+
+| PJ | rank | `p_eq` 1× | **`p_eq` 2×** | `p` entregue | falta | |
+|---|---|---|---|---|---|---|
+| **Xie Lang** | 3 | 90% | **79%** | 80% | +0,8pp | ✅ **passa** |
+| | 4 | 89% | **79%** | 80% | +0,9pp | ✅ **passa** |
+| | 5 | 88% | **77%** | 85% | +7,6pp | ✅ **passa** |
+| **Demvi** | 5 | 92% | **82%** | 85% | +2,6pp | ✅ **passa** |
+| **Demvi** | 3 | 95% | 85% | 80% | −4,7pp | ❌ falha |
+| | 4 | 93% | 84% | 80% | −4,0pp | ❌ falha |
+| **Jiāotáng** | 3 | 96% | 85% | 75% | −10,2pp | ❌ falha |
+| | 4 | 94% | 85% | 75% | −10,4pp | ❌ falha |
+| | 5 | 93% | 84% | 80% | −3,9pp | ❌ falha |
+| **Lee** | 3 | 96% | 85% | 75% | −9,7pp | ❌ falha |
+| | 4 | 94% | 85% | 75% | −10,2pp | ❌ falha |
+| | 5 | 94% | 85% | 80% | −4,9pp | ❌ falha |
+
+> [!check] ✅ **A previsão está confirmada, e com precisão**
+> O `p` de equilíbrio cai de **88-96%** para **77-85%** (a previsão dizia 79-96%; o motor derruba um pouco mais), e o resultado é exatamente o previsto: **4 de 12 células passam, 8 falham.** As que passam são as de **perda moderada** — o Xie Lang, cujo `e_norm` é o menor da mesa e portanto cuja cauda `L` é a menor. As que falham são as de **perda extrema** — Jiāotáng e Lee, os dois de corpo a corpo, que têm o maior dano normal e portanto o maior arsenal em risco.
+>
+> **A leitura de design é a que a decisão 244 antecipou:** o combo passa a valer **onde o arsenal em risco é pequeno** e continua não valendo onde o jogador põe a coleção inteira na mesa. **Isso devolve a decisão de montar ao que está sendo arriscado — que é exatamente a escolha que o teto de 2,0× temia perder.**
+
+---
+
+### 🔫 Pergunta 2 — a taxa de disparo, por tipo de cena
+
+*(heurística oficial da casa — cauda precificada; golpes por cena somando os quatro PJs, teto 4,00)*
+
+| rank | Fácil | Padrão | Padrão pesado | Difícil | **Clímax** |
+|---|---|---|---|---|---|
+| **3** | 3,51 | 3,08 | 1,81 | 2,35 | **3,59** |
+| **4** | 3,53 | 3,10 | 2,80 | 2,44 | **3,38** |
+| **5** | 3,92 | 3,46 | 3,51 | 2,94 | **3,86** |
+
+**Contra os 3,21/cena que a 19ª mediu** (e os 2,32 da leitura conservadora): o combo passou a disparar **em toda cena, não só no Clímax** — inclusive na Fácil, contra uma Horda de 8 que a nota desaconselha explicitamente. **O 2× fez o gatilho estourar.**
+
+⚠️ **Mas este número está contaminado pelo defeito de horizonte descrito abaixo.** Com a cauda dimensionada corretamente, a taxa cai para **0,60 / 0,60 / 1,64** golpes por cena de Clímax nos ranks 3/4/5.
+
+---
+
+### 🚨 Pergunta 3 — o TESTE DA OBRIGAÇÃO, e ele responde a rodada inteira
+
+Dois grupos, mesma semente, mesmas cenas: um que **SEMPRE** monta o combo quando é legal, e um que **NUNCA** monta. A diferença entre as taxas de vitória **é** a resposta.
+
+| rank | Fácil | Padrão | Padrão pesado | Difícil | Clímax |
+|---|---|---|---|---|---|
+| **3** | −1,6pp | **−19,4pp** | **−29,7pp** | **−26,2pp** | **−22,0pp** |
+| **4** | −1,6pp | −12,7pp | **−23,4pp** | −18,1pp | −16,6pp |
+| **5** | −0,9pp | −5,5pp | −13,8pp | −11,3pp | −8,1pp |
+
+> [!danger] 🔴 O achado da rodada: **o gap é NEGATIVO em 15 de 15 células**
+> Gap médio **−14,06pp**, do mínimo de −0,9pp ao máximo de **−29,7pp**. **O grupo que sempre monta o combo perde muito mais**, em todo rank e em toda composição.
+>
+> **A resposta à pergunta da rodada, então, não é "escolha" nem "obrigação" — é a terceira:** o Golpe Matador com o pool dobrado **não virou a jogada obrigatória; virou a jogada que parece obrigatória.** O número bruto (1,81×-2,41×) convida a montar; a cena cobra a conta. **Montar sempre é erro de jogador**, e é um erro grande — perto de trinta pontos de vitória no rank 3.
+>
+> É o mesmo achado da 19ª, sobrevivendo ao dobro de dano: **enquanto o combo competir por dano, ele perde.** O que o paga é a Prerrogativa (decisão 241) — a coisa que um ataque comum não faz —, e a Prerrogativa não é medível em dano por construção.
+
+---
+
+### 🏰 Pergunta 4 — onde o Clímax foi parar
+
+| Braço | r1 | r2 | r3 | r4 | r5 |
+|---|---|---|---|---|---|
+| **19ª (publicado)** | 27,5% | 96,0% | 96,1% | 95,2% | 95,4% |
+| 243 só — o portão de rank 3 | 27,5% | 96,0% | 96,1% | 95,2% | 95,4% |
+| 243 + 241 — com a Abertura | 27,5% | 96,0% | 95,5% | 93,2% | 94,1% |
+| HOJE — 243 + 241 + 244, gatilho por ação | 27,5% | 96,0% | 77,3% | 82,4% | 92,5% |
+| HOJE — heurística oficial, horizonte estimado | 27,5% | 96,0% | 82,0% | 84,7% | 91,9% |
+| **HOJE — heurística oficial, cauda corrigida** | **27,5%** | **96,0%** | **99,3%** | **98,5%** | **96,8%** |
+| HOJE — o grupo que SEMPRE monta | 27,5% | 96,0% | 77,7% | 81,8% | 91,5% |
+
+> [!important] 🎯 **O número que a sessão paralela precisa para dimensionar o Chefe é a linha em negrito: 99,3 / 98,5 / 96,8%**
+> **E o sinal é o oposto do esperado.** A expectativa registrada era que um combo mais forte tornaria o Clímax **mais fácil**. **Medido: ele o torna mais DIFÍCIL** — porque disparar custa ao grupo, e quanto mais o grupo dispara, pior. A cena só "melhora" nas leituras em que o grupo joga mal.
+>
+> **A faixa que "Clímax" promete é 56-87%, e nenhuma leitura chega lá.** O rank 5 sai de 95,4% para **96,8%** — anda **+1,4pp na direção errada**. **O Golpe Matador continua não sendo o que segura a cena de Chefe, nem com o dobro de dano**, e a conclusão da 19ª (os dois problemas são independentes) sobrevive intacta. **O reforço do Chefe tem de vir do Chefe.**
+>
+> ⚠️ **Não use os 82,0 / 84,7 / 91,9% para dimensionar nada.** Eles vêm do horizonte defeituoso da seção seguinte e descrevem um grupo que dispara três a quatro combos por cena — o que o teste da obrigação acabou de medir como erro de −14pp.
+
+---
+
+### 🔴 O horizonte estimado — a heurística oficial subestima a cauda pela metade
+
+A conta analítica (`p × e_golpe_2x` contra a perda de arsenal, com a duração **medida** da cena) diz **não disparar em 8 de 12 células**. E mesmo assim a heurística oficial dispara 3 a 4 vezes por cena. **As duas usam a mesma fórmula, então uma das duas está errada** — e é a de dentro do motor.
+
+`_horizonte_total` estima quantas rodadas a cena ainda tem dividindo a Vitalidade inimiga total pelo dano **nominal** do grupo. Ela ignora erro de acerto, RD, segunda barra e baixas:
+
+| rank | composição | horizonte **estimado** | duração **medida** |
+|---|---|---|---|
+| 3 | Clímax | **3,0** | **5,71** |
+| 4 | Clímax | **3,0** | **5,31** |
+| 5 | Clímax | **3,0** | **4,72** |
+| 3-5 | Padrão pesado | 5,0 | 4,72-5,71 |
+
+**No Clímax ela erra por quase metade**, e a cauda da Retaliação é proporcional ao horizonte — logo a heurística **subprecifica exatamente o custo que ela existe para precificar**. Com a cauda dimensionada pela duração medida (mesma fórmula, mesma regra, mesmo princípio da decisão 245a):
+
+| Braço | golpes/cena no Clímax r3/r4/r5 | maior desvio contra o que `06` publica |
+|---|---|---|
+| `acao_ret` — horizonte estimado | 3,59 / 3,38 / 3,86 | **20,30pp** |
+| **`acao_ret_cena` — cauda pela duração medida** | **0,60 / 0,60 / 1,64** | **5,40pp** |
+| `nunca monta` | 0,00 | 0,03pp |
+
+> [!warning] 🔴 É a mesma classe de erro que a 19ª retratou, e é minha de novo
+> A 19ª retirou a conclusão da 18ª porque o horizonte era `⌈barra / e_norm⌉` — o horizonte **solo**. Aqui o horizonte é o da cena, que é o certo, mas **estimado por uma divisão que subestima**. O princípio que a decisão 245(a) canonizou está correto; a implementação dele não estava, e o defeito só ficou visível porque o 2× empurrou a heurística contra o próprio limite.
+>
+> **Nada de regra muda por causa disto** — é motor. Mas **o que a 19ª e esta rodada publicaram como "taxa de disparo" está inflado**, e a leitura correta do subsistema é a da linha do meio: **o combo dispara de meia a uma vez e meia por cena de Clímax, não três a quatro.**
+
+---
+
+### 🧪 Pergunta 5 — os dois dials de forma: **nenhum é necessário**
+
+| | EV líquido (faixa, ranks 3-5) | gap médio da obrigação | Clímax r3/r4/r5 |
+|---|---|---|---|
+| **2× cheio** *(a regra da 244)* | 0,40× – 1,46× | −14,06pp | 77,3 / 82,4 / 92,5% |
+| **(a) dobrar só o núcleo** | 0,34× – 1,46× | −14,44pp | 78,7 / 82,8 / 92,1% |
+| **(b) dobrar só contra rank ≥** | 0,40× – 1,46× | −14,06pp | 77,3 / 82,4 / 92,5% |
+
+- **O dial (a) tira 0,07-0,08× do EV** dos três PJs cujo dado ainda sobe na Escada (o Xie Lang já rola d12 de Alma, então nele é no-op) — e **piora o gap da obrigação**, porque enfraquece o golpe sem tocar na Retaliação.
+- **O dial (b) é um no-op exato na bateria inteira**, célula por célula. A razão é estrutural: **toda composição publicada usa inimigos do mesmo rank do grupo**, e "rank igual" já dobra. Ele só age contra capanga de rank **inferior**, que a tabela de composição nunca usa.
+
+> [!check] ✅ **Nenhum dial é necessário, e a decisão 244 previu isto também**
+> Ela registrou: *"é possível que o número honesto já caia sob a linha sem ajuste nenhum"*. **Caiu.** O EV líquido máximo medido é **1,46×**, contra a linha de obrigação de 2,0× — e o teste da obrigação mostra o grupo que sempre monta **perdendo**, não ganhando. **Não há o que abrandar, e o princípio do autor fica de pé sem emenda.**
+>
+> *(Se o dial (b) vier a ser adotado por outro motivo — ele resolve sozinho a contradição da regra de bolso reportada na 19ª, fazendo o combo ser devastador contra quem a nota diz que ele existe para matar e comum contra capanga —, **o custo de balanceamento medido é zero**. É mudança de ficção de graça.)*
+
+---
+
+### 🤝 O Golpe Matador Coletivo — medido pela primeira vez com as regras vivas
+
+Encomendado pela decisão 245(b): o rótulo *"jogada de desespero tardio"* da decisão 161(a) apoia-se na **CD 22**, que a decisão 240 revogou, somada a zero medição com as regras de hoje.
+
+**(a) A confiabilidade — o lastro do rótulo evaporou.**
+
+| Núcleo | rank | CD antiga | `p` antiga | **CD nova** | **`p` nova** |
+|---|---|---|---|---|---|
+| **Xie Lang · Demvi** | 3 · 4 · 5 | 16 | 45 / 50 / 50% | **9** | **85 / 90 / 95%** |
+| **Jiāotáng · Lee** | 3 · 4 · 5 | 16 | 40 / 45 / 45% | **9** | **80 / 85 / 90%** |
+
+*(A CD 22 crua da sexta rodada, rolada como `d20 + AST` sem modificadores, é que dava os ~15% que a decisão 161(a) cita. Mesmo a leitura generosa da 18ª já dava 40-50%.)* **Sob a regra da decisão 240 o coletivo passa em 80 a 95% das vezes.** *"Difícil de acertar"* deixou de ser verdade.
+
+**(b) A economia — e é aqui que o rótulo sobrevive.** O coletivo custa **quatro ações**, então a comparação honesta é com **quatro ataques comuns**:
+
+| rank | `p` | dano do coletivo | 4 ataques comuns | bruto | **líquido** *(Retaliação dos 4 paga)* |
+|---|---|---|---|---|---|
+| **3** | 85% | 88,0 | 152,6 | 0,58× | **−0,11×** |
+| **4** | 90% | 184,0 | 346,2 | 0,53× | **+0,07×** |
+| **5** | 95% | 368,0 | 701,4 | 0,52× | **+0,32×** |
+
+**O coletivo entrega pouco mais da METADE do que os quatro entregariam atacando normalmente** — e isso **antes** de qualquer risco. Um núcleo só, mesmo com +6 Níveis e o pool dobrado, não alcança quatro pools somados quando `M` é grande.
+
+**(c) A cena inteira** *(Clímax, coletivo disparado na rodada 1)*:
+
+| Modo de jogo | r3 | r4 | r5 |
+|---|---|---|---|
+| **nenhum combo** *(linha de base)* | 99,7% | 98,4% | 99,7% |
+| coletivo, Retaliação **só no núcleo** | 95,8% *(−3,9)* | 85,9% *(−12,5)* | 95,5% *(−4,2)* |
+| coletivo, Retaliação **nos quatro** | 80,3% *(−19,4)* | 78,6% *(−19,8)* | 91,2% *(−8,5)* |
+| coletivo **+ individuais depois**, nos quatro | 80,2% *(−19,5)* | 67,8% *(−30,5)* | 82,7% *(−17,0)* |
+
+> [!important] 🎯 Veredito: **"desespero tardio" continua descrevendo o coletivo — com a justificativa trocada**
+> **O motivo antigo morreu:** não é mais que você não consegue acertá-lo (85-95% agora). **O motivo novo é econômico e é mais duro:** quatro personagens gastando quatro ações num coletivo entregam **pouco mais da metade** do que entregariam atacando, e uma falha custa o arsenal de todos. Disparar o coletivo de abertura custa ao grupo **4 a 20 pontos de vitória** conforme a leitura da Retaliação.
+>
+> **É a mesma conclusão do combo individual, elevada ao quadrado:** o coletivo não é jogada de dano, é jogada de **Prerrogativa coletiva** — a coisa que quatro ataques comuns não conseguem fazer (prender quem ia fugir, romper o que quatro ataques não rompem, alcançar quem ninguém alcança). **A recomendação de mesa da decisão 161(a) fica de pé, e o callout de [[⚡ Golpes Matadores]] não precisa mudar** — só a razão por trás dele.
+>
+> ⚠️ **As duas linhas de Retaliação são um piso e um teto declarados, não uma faixa de incerteza.** A sexta rodada **deliberadamente** desligou os Gu só do núcleo, com razão registrada: no motor cada PJ tem **um** Gu de ataque de assinatura, então tirar os Gu dos quatro apaga o arsenal inteiro do grupo, enquanto os apoios de um coletivo de verdade são Gu baratos e diferentes do Gu principal de cada um. **A regra escrita diz "todos sofrem"; o modelo pune demais quando a implementa ao pé da letra.** A verdade de mesa está entre as duas linhas. **Ponto de decisão do autor, reportado e não resolvido.**
+
+---
+
+### 👥 O que republicar em `06` — e a resposta é **nada de número**
+
+Sob a heurística oficial com a **cauda corrigida**, a faixa entre os três dials de ficha:
+
+| Composição | faixa-alvo | 18ª/19ª publicada *(r1/r3/r5)* | **20ª — r1** | **20ª — r3** | **20ª — r5** |
+|---|---|---|---|---|---|
+| **Fácil** | ≈100% | 100 / 100 / 100 | 100,0% | 100,0% | 100,0% |
+| **Padrão** | 75-99% | 98-99 / 97-99 / 100 | 98,1-99,4% | 96,6-99,4% | 98,3-98,9% |
+| **Padrão pesado** | 53-77% | 83-91 / 85-95 / 97-99 | 82,7-91,4% | 78,8-94,9% | 94,2-97,6% |
+| **Difícil** | ~40-52% | 60-78 / 80-94 / 79-95 | 59,5-78,4% | 76,5-94,1% | 75,2-88,1% |
+| **Clímax** *(Chefe + Guerreiro)* | 56-87% | 17-38 / 98-100 / 99-100 | 16,9-38,3% | 98,2-99,9% | 95,8-96,8% |
+
+**Nenhum veredito de faixa muda:** Padrão pesado segue acima de 53-77%, Difícil segue acima de ~40-52%, Clímax segue acima de 56-87%, e o rank 1 segue sendo a única célula abaixo da faixa dele. Três células deslizam de 3 a 7pp no **piso** da faixa (Padrão pesado r3, Padrão pesado r5, Difícil r5), sempre para baixo e sempre dentro da vizinhança do que a nota já publica. **Nenhum número publicado precisa mudar.**
+
+O que precisa mudar em [[⚔️ Ameaças Genéricas por Rank]] é a **prosa da 19ª**: os *"3,21 golpes por cena"* e o *"cai de 99,7% para 95,4%"*, que descreviam um mundo sem o portão de rank, sem a Abertura e sem o pool dobrado — e que, corrigidos, viram **0,60 a 1,64 golpes por cena** e **96,8% no rank 5**.
+
+*(Sob a heurística com o horizonte defeituoso, quatro composições andariam 5 a 20pp para baixo — Padrão de rank 3 iria a 80-87% e Difícil a 58-74%. **Não republicado**: essa leitura modela um grupo que dispara três a quatro combos por cena, e o teste da obrigação acabou de medir isso como uma perda de 14pp. Publicar seria assar a má jogada dentro da tabela de dificuldade — a mesma recusa que a 19ª registrou.)*
+
+---
+
+### ⚠️ Limites declarados desta rodada
+
+- **O preço da Abertura é um piso.** A IA do inimigo foca o mais ferido, nunca o exposto; um mestre que joga a regra atacaria quem se abriu. Corrigir isso só endurece as conclusões.
+- **O horizonte da heurística oficial subestima a cena pela metade** — reportado acima como achado, e é a razão de a taxa de disparo publicada estar inflada. A variante corrigida (`acao_ret_cena`) está no script e é a leitura recomendada.
+- **A Retaliação coletiva tem um piso e um teto de modelagem**, não uma medida — ver o veredito do coletivo acima.
+- **A Sobrecarga dos apoios e a Queima deliberada ([[💀 A Morte dos Gu]]) continuam fora do motor.** As duas só encarecem o lado do combo, então nenhum veredito muda de sinal — mas **todo número de Retaliação reportado é otimista** (decisão 245).
+- **A heurística otimiza dano esperado, não sobrevivência.** O uso que a nota chama de legítimo — jogada de última rodada, com o grupo já ferido — continua fora do que ela mede.
+- **A Prerrogativa (decisão 241) não é medível neste motor**, por construção: Romper, Selar, Prender e Alcançar mudam o que é *possível*, não quanto dano sai. **Toda conclusão desta rodada é sobre a metade do subsistema que dá para medir**, e é a metade que o combo perde.
 
 ---
 

@@ -662,11 +662,26 @@ GOLPE_DOBRA = "nao"
 GOLPE_ABERTURA = False
 
 
-def set_golpe_v20(portao=0, dobra="nao", abertura=False):
+# A Retaliação do COLETIVO cai nos quatro participantes (o que a nota publica),
+# ou só no dono do núcleo (o que dezenove rodadas de motor fizeram)?
+COLETIVO_RETALIACAO_TODOS = False
+
+# Instrumentação do coletivo: [tentativas, sucessos].
+COLETIVO_TRACK = None
+
+
+def reset_coletivo_track(on=True):
+    global COLETIVO_TRACK
+    COLETIVO_TRACK = ([0, 0] if on else None)
+
+
+def set_golpe_v20(portao=0, dobra="nao", abertura=False, col_ret_todos=False):
     global GOLPE_PORTAO_RANK, GOLPE_DOBRA, GOLPE_ABERTURA
+    global COLETIVO_RETALIACAO_TODOS
     GOLPE_PORTAO_RANK = portao
     GOLPE_DOBRA = dobra
     GOLPE_ABERTURA = abertura
+    COLETIVO_RETALIACAO_TODOS = col_ret_todos
 
 
 def _pode_montar(pc):
@@ -1292,6 +1307,11 @@ def _e_dano_normal(pc, alvo):
 #               ação?"), sem horizonte nenhum.
 GOLPE_HEURISTICA = "essencia"
 
+# A duração MEDIDA da cena de Clímax sem combo (bateria V0 desta rodada; r1 e r2
+# herdados da 18ª/19ª). É o número que a heurística `acao_ret_cena` usa para
+# dimensionar a cauda da Retaliação em vez de estimá-la.
+RODADAS_CENA_MEDIDA = {1: 6.76, 2: 6.47, 3: 5.71, 4: 5.31, 5: 4.72}
+
 # Onde o golpe cai. Herdado da 18ª: "chefe" — o combo troca de alvo para o Chefe,
 # enquanto o ataque comum do mesmo PJ concentraria fogo no mais ferido
 # (`pick_weakest`). Isso mistura DUAS mudanças na mesma medição: combo em vez de
@@ -1383,6 +1403,17 @@ def vale_o_golpe(pc, alvo, rodada, pcs=None, inimigos=None):
     #   merece a minha ação?"), mas a Retaliação é cobrada sobre a CENA inteira,
     #   não sobre as duas rodadas que o alvo leva para cair — e a essência é
     #   cobrada só pelas ações que ela realmente deixa de bancar.
+    # ▸ VIGÉSIMA — a MESMA conta da `acao_ret`, mas com a cauda dimensionada pela
+    #   duração MEDIDA da cena em vez do horizonte estimado. `_horizonte_total`
+    #   divide a Vitalidade inimiga total pelo dano nominal do grupo e ignora
+    #   erro, RD e segunda barra — ele subestima a cena pela metade, e é por isso
+    #   que a `acao_ret` dispara contra a própria conta analítica.
+    if GOLPE_HEURISTICA == "acao_ret_cena":
+        r_cena = RODADAS_CENA_MEDIDA.get(pc["rank"], 5.0)
+        ganho = p * util(e_golpe) - util(e_norm)
+        perda = (1 - p) * max(0.0, r_cena - 1) * max(0.0, e_norm - e_cru)
+        return ganho > perda
+
     if GOLPE_HEURISTICA == "acao_ret":
         r_cena = _horizonte_total(pc, alvo, rodada, pcs, inimigos)
         ganho = p * util(e_golpe) - util(e_norm)
@@ -1463,6 +1494,9 @@ def golpe_matador_coletivo(pcs, boss):
     participants = [p for p in pcs if pc_alive(p)]
     if len(participants) < 2 or boss is None or not enemy_alive(boss):
         return False
+    # VIGÉSIMA (decisão 243): o portão de rank vale igual no coletivo.
+    if not _pode_montar(nucleo_provisorio := participants[0]):
+        return False
 
     nucleo = next((p for p in participants if p["name"] == "Xie Lang"), participants[0])
     apoios_outros = len(participants) - 1
@@ -1510,12 +1544,24 @@ def golpe_matador_coletivo(pcs, boss):
                 dmg = apply_rd(dmg, boss.get("rd", 0), nucleo["M"])
                 boss["vit"] -= dmg
     else:
-        nucleo["fallback_raw"] = True
+        # ███ VIGÉSIMA — A RETALIAÇÃO COLETIVA ███
+        # [[⚡ Golpes Matadores]]: *"quem rola o teste é o dono do núcleo — mas
+        # TODOS os participantes sofrem a Retaliação"*. Dezenove rodadas de motor
+        # tiraram os Gu só do núcleo; o custo publicado cai nos quatro. Com o
+        # knob desligado o comportamento é o histórico (reprodução preservada).
+        if COLETIVO_RETALIACAO_TODOS:
+            for p in participants:
+                p["fallback_raw"] = True
+        else:
+            nucleo["fallback_raw"] = True
         if cd - teste >= 5:
             for p in participants:
                 p["vit_max"] = round(p["vit_max"] * 0.85)
                 p["vit"] = min(p["vit"], p["vit_max"])
 
+    if COLETIVO_TRACK is not None:
+        COLETIVO_TRACK[0] += 1
+        COLETIVO_TRACK[1] += int(teste >= cd)
     return True
 
 
@@ -3736,7 +3782,8 @@ def configura(lee="melee — foice + Wu Xing", isencao=False, dial=None,
               golpe_duelo=False, teste_publicado=False, niveis="17ª — só a Lee",
               gatilho="chefe", quem=("Xie Lang",), atrito=0.0,
               regra="18a", heuristica="essencia", alvo_golpe="chefe",
-              portao=0, dobra="nao", abertura=False, **kw_teste):
+              portao=0, dobra="nao", abertura=False, col_ret_todos=False,
+              **kw_teste):
     """Monta a mesa inteira num estado declarado.
 
     A ordem importa: `set_niveis_ficha` primeiro (ele zera a escada de todo
@@ -3755,7 +3802,8 @@ def configura(lee="melee — foice + Wu Xing", isencao=False, dial=None,
     set_golpe_teste(publicado=teste_publicado, **kw_teste)
     set_golpe_gatilho(gatilho, quem)
     set_golpe_heuristica(heuristica, alvo_golpe)
-    set_golpe_v20(portao=portao, dobra=dobra, abertura=abertura)
+    set_golpe_v20(portao=portao, dobra=dobra, abertura=abertura,
+                  col_ret_todos=col_ret_todos)
     set_lua_atrito(atrito)
     set_alma("C")
 
@@ -5249,6 +5297,215 @@ def bateria_v9():
     return res, faixas
 
 
+# ---------------------------------------------------------------------------
+def _e_golpe_coletivo(nucleo, alvo, n_part=4):
+    """Dano MÉDIO do Golpe Matador Coletivo — espelha `golpe_matador_coletivo`."""
+    apoios_outros = n_part - 1
+    bonus_levels = {1: 3, 2: 5, 3: 6}.get(apoios_outros, 3 + apoios_outros)
+    usa_alma = nucleo["alma_dmg"] and alvo.get("alma") is not None
+    base = alma_dado() if usa_alma else nucleo["dado"]
+    dado, extra_b = apply_niveis(base, NIVEL_DELTA + nucleo.get("nivel_bonus", 0))
+    n = nucleo["M"] * nucleo.get("pool_mult", 1)
+    modo = _dobra_ativa(nucleo, alvo)
+    return (_media_pool_golpe(n, dado, base, modo)
+            + nucleo["M"] * (nucleo["B"] + bonus_levels + extra_b))
+
+
+def _p_coletivo(nucleo, n_part=4):
+    """A CD do coletivo: `_cd_base(n_gu) − 2`, com os modificadores publicados."""
+    n_gu_cd = {2: 2, 3: 3, 4: 5}.get(n_part, n_part + 1)
+    cd = _cd_conjuracao(nucleo, _cd_base(n_gu_cd) - 2)
+    return min(1.0, max(0.0, (21 - (cd - _bonus_conjuracao(nucleo))) / 20))
+
+
+def bateria_v10(rodadas):
+    """O GOLPE MATADOR COLETIVO — nunca medido em rodada nenhuma."""
+    print("\n" + "=" * 122)
+    print("BATERIA V10 — O GOLPE MATADOR COLETIVO, MEDIDO PELA PRIMEIRA VEZ")
+    print("A decisão 161(a) rotulou o coletivo de 'jogada de desespero tardio' com base na")
+    print("CD 22 do teste de quatro pessoas — e essa CD NÃO EXISTE MAIS: a decisão 240 trocou")
+    print("a fórmula para `10 + nº de Gu`. O rótulo publicado se apoia num número revogado.")
+    print("Aqui: a CD nova, o 2× da 244, a Abertura da 241, o portão da 243 — e a Retaliação")
+    print("caindo nos QUATRO participantes, como [[⚡ Golpes Matadores]] publica e como")
+    print("dezenove rodadas de motor NÃO faziam (só o dono do núcleo perdia os Gu).")
+    print("=" * 122)
+
+    # ── (a) A taxa de sucesso, regra velha contra regra nova ──────────────
+    print("\n  (a) A TAXA DE SUCESSO DO TESTE DE CONJURAÇÃO COLETIVO (4 participantes)")
+    print(f"  {'núcleo':11s} {'rank':>4s} {'CD 18ª':>8s} {'p 18ª':>7s} "
+          f"{'CD 240':>8s} {'p 240':>7s} {'ganho':>8s}")
+    for nome in PCS_BASE:
+        for rank in RANKS_COMBO:
+            pc = make_pc(nome, rank)
+            configura(**dict(BASE20, regra="18a", col_ret_todos=True))
+            pc_v = make_pc(nome, rank)
+            cd_v = _cd_conjuracao(pc_v, _cd_base(5) - 2)
+            p_v = _p_coletivo(pc_v)
+            configura(**dict(BASE20, col_ret_todos=True))
+            cd_n = _cd_conjuracao(pc, _cd_base(5) - 2)
+            p_n = _p_coletivo(pc)
+            print(f"  {nome:11s} {rank:4d} {cd_v:8d} {p_v:6.0%} {cd_n:8d} {p_n:6.0%} "
+                  f"{p_n - p_v:+7.0%}")
+    print("\n  A 161(a) publicou ~15% para o coletivo de 4 na fase mortal. Sob a regra nova")
+    print("  o mesmo teste é o número da coluna `p 240`.")
+
+    # ── (b) O EV por ação, com a Retaliação dos quatro precificada ────────
+    print("\n  (b) O EV DO COLETIVO — ele custa QUATRO ações, então compara com QUATRO")
+    print("      ataques comuns. E a Retaliação cobra o arsenal dos QUATRO pelo resto da cena.")
+    print(f"\n  {'rank':>4s} {'p':>5s} {'e_coletivo':>11s} {'4 ataques':>10s} {'bruto':>7s} "
+          f"{'× p':>7s} {'L (4 PJs)':>10s} {'líquido':>9s} {'solo do núcleo':>15s}")
+    configura(**dict(BASE20, col_ret_todos=True))
+    out = {}
+    for rank in RANKS_COMBO:
+        pcs = make_pcs(rank)
+        alvo = make_chefe(rank)
+        nucleo = next(q for q in pcs if q["name"] == "Xie Lang")
+        e_col = _e_golpe_coletivo(nucleo, alvo)
+        e_quatro = sum(_e_dano_normal(q, alvo) for q in pcs)
+        p = _p_coletivo(nucleo)
+        L = (rodadas[rank] - 1) * sum(
+            max(0.0, _e_dano_normal(q, alvo) - max(0.0, (q["raw_die"] + 1) / 2.0 + q["FOR"]))
+            for q in pcs)
+        liq = (p * e_col - (1 - p) * L) / e_quatro
+        # o mesmo núcleo disparando o combo SOLO, por ação
+        apoios, n_gu = _n_gu_golpe(nucleo)
+        usa_alma = nucleo["alma_dmg"] and alvo.get("alma") is not None
+        e_solo = _e_dano_golpe(nucleo, apoios, usa_alma, alvo)
+        e_norm_n = _e_dano_normal(nucleo, alvo)
+        e_cru_n = max(0.0, (nucleo["raw_die"] + 1) / 2.0 + nucleo["FOR"])
+        p_solo = _p_conjuracao(nucleo, n_gu)
+        L_solo = (rodadas[rank] - 1) * max(0.0, e_norm_n - e_cru_n)
+        liq_solo = (p_solo * e_solo - (1 - p_solo) * L_solo) / e_norm_n
+        out[rank] = (p, e_col, e_quatro, liq, liq_solo)
+        print(f"  {rank:4d} {p:5.0%} {e_col:11.1f} {e_quatro:10.1f} {e_col/e_quatro:6.2f}× "
+              f"{p*e_col/e_quatro:6.2f}× {L:10.1f} {liq:8.2f}× {liq_solo:14.2f}×")
+    print("\n  'líquido' abaixo de 1,00× = quatro ataques comuns entregam mais que o coletivo,")
+    print("  já pagando a chance de falha e o arsenal dos quatro.")
+
+    # ── (c) A cena inteira: coletivo × solo × nenhum combo ────────────────
+    print("\n  (c) A CENA DE CLÍMAX INTEIRA, três modos de jogo")
+    print(f"\n  {'modo':46s} " + " ".join(f"{'rank ' + str(rk):>20s}" for rk in RANKS_COMBO))
+    modos = (
+        ("nenhum combo (linha de base)", dict(heuristica="nunca"), "solo"),
+        ("só combos individuais (cauda precificada)", dict(heuristica="acao_ret"), "solo"),
+        ("COLETIVO na rodada 1, Retaliação só no núcleo",
+         dict(heuristica="nunca", col_ret_todos=False), "coletivo"),
+        ("COLETIVO na rodada 1, Retaliação nos QUATRO",
+         dict(heuristica="nunca", col_ret_todos=True), "coletivo"),
+        ("COLETIVO + individuais depois, Retaliação nos QUATRO",
+         dict(heuristica="acao_ret", col_ret_todos=True), "coletivo"),
+    )
+    cena = {}
+    for rot, kw, modo in modos:
+        base = dict(BASE20, **kw)
+        base.setdefault("col_ret_todos", False)
+        configura(**base)
+        linha = []
+        for rank in RANKS_COMBO:
+            reset_coletivo_track(True)
+            random.seed(20260830)
+            r = simulate(rank, "climax", n_iter=N_ITER, golpe_mode=modo)
+            tent, suc = COLETIVO_TRACK
+            reset_coletivo_track(False)
+            taxa = (suc / tent) if tent else float("nan")
+            cena[(rot, rank)] = (r["win"] * 100, r["rounds"], tent / N_ITER, taxa)
+            linha.append(f"{r['win']*100:5.1f}% {r['rounds']:5.2f}r {taxa:4.0%}✓")
+        print(f"  {rot:46s} " + " ".join(f"{c:>20s}" for c in linha))
+    print("\n     (%. = vitória do grupo · r = rodadas · ✓ = taxa de sucesso do teste coletivo)")
+    print("\n  Δ do coletivo sobre a linha de base (nenhum combo):")
+    for rot, _kw, _m in modos[1:]:
+        print(f"    {rot:46s} " + " ".join(
+            f"r{rk} {cena[(rot, rk)][0] - cena[('nenhum combo (linha de base)', rk)][0]:+6.1f}pp"
+            for rk in RANKS_COMBO))
+    return out, cena
+
+
+def bateria_v11():
+    """A heurística oficial dispara CONTRA a própria conta analítica. Por quê?
+
+    A V2 mede, com a duração REAL da cena, que o combo é EV-negativo em 8 de 12
+    células — e mesmo assim a `acao_ret` dispara 3 a 4 vezes por cena. A suspeita:
+    `_horizonte_total` **subestima a cena**, porque divide a Vitalidade inimiga
+    total pelo dano NOMINAL do grupo e ignora erro, RD e segunda barra. Aqui a
+    mesma heurística roda com a cauda dimensionada pela duração MEDIDA."""
+    print("\n" + "=" * 122)
+    print("BATERIA V11 — A HEURÍSTICA OFICIAL SUBESTIMA A CAUDA? (o que decide a republicação)")
+    print("`acao_ret` estima o horizonte da cena; `acao_ret_cena` usa a duração MEDIDA")
+    print("(r3 5,71 · r4 5,31 · r5 4,72). Mesma conta, mesma regra, cauda diferente.")
+    print("=" * 122)
+    print("\n  Primeiro, o tamanho do erro: horizonte ESTIMADO na rodada 1 contra o MEDIDO.")
+    configura(**dict(BASE20, heuristica="acao_ret"))
+    print(f"  {'rank':>4s} {'composição':16s} {'estimado':>9s} {'medido (Clímax)':>16s}")
+    for rank in RANKS_COMBO:
+        for comp in ("climax", "padrao_pesado"):
+            pcs = make_pcs(rank)
+            inimigos = make_scenario(rank, comp, mix="C")
+            alvo = pick_weakest(inimigos)
+            h = _horizonte_total(pcs[0], alvo, 0, pcs, inimigos)
+            print(f"  {rank:4d} {comp:16s} {h:9.1f} {RODADAS_CENA_MEDIDA[rank]:16.2f}")
+
+    out = {}
+    for rot, heur in (("acao_ret — o horizonte estimado (oficial hoje)", "acao_ret"),
+                      ("acao_ret_cena — a cauda pela duração medida", "acao_ret_cena"),
+                      ("nunca monta (a linha do publicado)", "nunca")):
+        configura(**dict(BASE20, heuristica=heur))
+        res, disp = _grupo20(ranks=RANKS_SOLO)
+        out[rot] = (res, disp)
+        print(f"\n### {rot} ###")
+        print(f"  {'rank':>4s} " + " ".join(f"{c:>21s}" for c in COMPS))
+        for rank in RANKS_SOLO:
+            linha = [f"{res[(rank, c)]['win']*100:6.1f}% {res[(rank, c)]['rounds']:5.2f}r "
+                     f"{disp[(rank, c)][0]:4.2f}g" for c in COMPS]
+            print(f"  {rank:4d} " + " ".join(f"{c:>21s}" for c in linha))
+
+    print("\n  Δ de cada braço contra o que `06` publica hoje:")
+    for rot in out:
+        res, _d = out[rot]
+        pior = 0.0
+        linhas = []
+        for comp in COMPS:
+            d = [res[(rk, comp)]["win"] * 100 - REF18_GRUPO[comp][RANKS_SOLO.index(rk)]
+                 for rk in RANKS_SOLO]
+            pior = max(pior, max(abs(x) for x in d))
+            linhas.append(f"    {comp:16s} " + " ".join(
+                f"r{rk} {x:+6.2f}pp" for rk, x in zip(RANKS_SOLO, d)))
+        print(f"\n  {rot}  (maior desvio {pior:.2f}pp)")
+        print("\n".join(linhas))
+
+    print("\n  E o Clímax dos cinco ranks, braço a braço:")
+    for rot, heur in (("acao_ret (oficial hoje)", "acao_ret"),
+                      ("acao_ret_cena", "acao_ret_cena")):
+        configura(**dict(BASE20, heuristica=heur))
+        linha = []
+        for rank in RANKS_MORTAIS:
+            reset_golpe_disparos(True)
+            random.seed(20260830)
+            r = simulate(rank, "climax", n_iter=N_ITER)
+            g = sum(_fire_rate(GOLPE_DISPAROS).values())
+            reset_golpe_disparos(False)
+            linha.append(f"r{rank} {r['win']*100:5.1f}% {g:4.2f}g")
+        print(f"    {rot:26s} " + " ".join(linha))
+    return out
+
+
+def main20b():
+    """As duas adições de escopo: o coletivo, e a heurística oficial declarada."""
+    print("=" * 122)
+    print("VIGÉSIMA RODADA — ADENDO: O GOLPE MATADOR COLETIVO")
+    print(f"{N_ITER} iterações/célula · semente 20260830 · ranks 3, 4 e 5")
+    print("PREMISSA PUBLICADA DESTA RODADA EM DIANTE: a heurística de disparo do jogador é a")
+    print("`cauda de Retaliação precificada` (`acao_ret`) — escolha do autor. Ela modela quem")
+    print("enxerga que perder o arsenal pelo resto da cena é custo real; a `acao` modela quem")
+    print("ignora o custo da falha, e fica só como sensibilidade.")
+    print("=" * 122)
+    rodadas = _duracao_climax()
+    print("\n  Duração da cena de Clímax SEM combo: " +
+          " · ".join(f"r{rk} {rodadas[rk]:.2f}" for rk in RANKS_COMBO))
+    v10 = bateria_v10(rodadas)
+    v11 = bateria_v11()
+    return v10, v11
+
+
 def main20():
     print("=" * 122)
     print("VIGÉSIMA RODADA — O GOLPE MATADOR É ESCOLHA OU OBRIGAÇÃO?")
@@ -5318,4 +5575,8 @@ def main():
 
 
 if __name__ == "__main__":
-    main20()
+    import sys
+    if len(sys.argv) > 1 and sys.argv[1] == "coletivo":
+        main20b()
+    else:
+        main20()
