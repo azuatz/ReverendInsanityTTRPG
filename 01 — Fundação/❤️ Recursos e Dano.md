@@ -21,7 +21,7 @@ Os dois escalam pela tabela de M do rank **e pelo Grau de Densidade do estágio*
 
 ```
 Vitalidade máxima = (18 + 3 × CON + 4 × Grau) × M do rank
-Alma máxima       = (12 + 2 × VON + 3 × Grau) × M do rank
+Alma máxima       = (16 + 3 × VON + 3 × Grau) × M do rank
 
 Grau = 0 (Inicial) · 1 (Médio) · 2 (Alto) · 3 (Pico)
 ```

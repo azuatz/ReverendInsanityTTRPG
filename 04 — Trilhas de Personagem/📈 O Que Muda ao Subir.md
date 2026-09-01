@@ -25,7 +25,7 @@ Nada aqui é regra nova: é tudo o que já está em [[🪜 Ranks e Estágios]], 
 | ☐ **Grau de Densidade (B)** | 0 · 1 · 2 · 3 — o número que você vai usar em tudo abaixo |
 | ☐ **Dano de todo Gu** | **+1 por dado, por Grau.** No Médio some `+1 × M`, no Alto `+2 × M`, no Pico `+3 × M` ao total |
 | ☐ **Vitalidade máxima** | `+4 × M` por Grau *(fórmula cheia: `(18 + 3×CON + 4×B) × M`)* |
-| ☐ **Alma máxima** | `+3 × M` por Grau *(`(12 + 2×VON + 3×B) × M`)* |
+| ☐ **Alma máxima** | `+3 × M` por Grau *(`(16 + 3×VON + 3×B) × M`)* |
 | ☐ **Essência máxima** | **Dobra a cada estágio** — `% de Aptidão × 4 × 2^(estágio − 1)` |
 | ☐ **Vagas de Suporte** | = o Grau (0/1/2/3). Gu passivos de utilidade que não pesam na Manutenção |
 | ☐ **Teto de Combo** | 2 · 3 · 4 · 5 Gu num Golpe Matador |
