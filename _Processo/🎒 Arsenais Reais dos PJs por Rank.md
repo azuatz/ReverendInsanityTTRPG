@@ -89,7 +89,7 @@ rank 2, e o único Gu permanente de rank 1 do Catálogo inteiro é o **Gu do Ten
 (Força, +1 FOR, Leve/CON +1) — que num personagem de FOR −1 é vaga jogada fora.
 
 **Defesa efetiva:** `10 + DES 3 + rank 1 + 1 (Grilo)` = **15** (a ficha lista 14 sem Gu de movimento).
-**RD 1.** Sustentados: Grilo + Casaco = 2 → Sustentação 20/rodada + 2 do Casaco = **22/rodada**.
+**RD 1.** Sustentados: Grilo + Casaco = 2 → **2/rodada** (só a manutenção própria do Casaco).
 
 ---
 
@@ -110,9 +110,9 @@ rank 2, e o único Gu permanente de rank 1 do Catálogo inteiro é o **Gu do Ten
 **RD 4** passiva que nunca desliga e não custa nada.
 **Defesa:** `10 + DES 4 + rank 3 + 2 (Grilo de Jade)` = **19**. Vitalidade sobe com o CON novo.
 **Gu sustentados simultâneos:** **3** — o teto fixo, e é exatamente o que ele liga.
-**Economia:** 3 sustentados (Frio de Osso, Casaco de Alma, Grilo) = **45 + 4 + 4 = 53/rodada** contra
-344 de QI. **Ele aguenta ~6 rodadas com tudo ligado** — e é por isso que a economia de cena dele
-importa menos do que a ficha sugere: em duelo curto ele nunca chega perto do limite.
+**Economia:** 3 sustentados (Frio de Osso, Casaco de Alma, Grilo) = **8/rodada** contra 344 de QI —
+sustentar deixou de ser restrição para ele (decisão 266). **O relógio dele agora é ativação**, não
+sustentação: cada Gu do próprio rank custa 40, e é essa conta que decide a cena.
 
 ---
 
@@ -135,7 +135,7 @@ importa menos do que a ficha sugere: em duelo curto ele nunca chega perto do lim
 **Defesa:** `10 + DES 4 + rank 5 + 5 (Asas de Osso)` = **24**.
 **CD dos Gu dele** = `10 + VON 4 + rank do Gu` → **19** com um Gu de rank 5.
 **Gu sustentados:** **3** (+ até 3 Vagas de Suporte pelo estágio, que não contam na Manutenção).
-**Economia:** 3 sustentados = **45 + 4 + 4 + 4 = 57/rodada**, contra 344 de QI. Ainda ~6 rodadas.
+**Economia:** 3 sustentados = **12/rodada**, contra 344 de QI. Sustentar é irrelevante para ele; o custo real é ativação.
 
 > ⚠️ **O ataque de Alma dele no rank 5 é um Gu de rank 4.** Não existe Gu de ataque de Alma de
 > alvo único no rank 5 em lugar nenhum do vault — ver *Buraco B2* e a **Proposta P1**. Isso significa
@@ -171,7 +171,7 @@ Custos: **Força 40/10/4/1** (×1) · **Sangue e Osso 20/5/2/1** (×0,5)
 **Dano melee com os dois javalis ligados:** arma média `d8` +1 Nível (Branco) +1 Nível (Negro) →
 `1d12 + FOR 6` (Negro dá +1 FOR ativo em cima do +1 permanente). **Ver a ressalva de empilhamento em B7.**
 Conservador, com um javali só: **`1d10 + 5`**.
-**Sustentados:** Javali Branco + Javali Negro + Pele de Ferro = 3 → **45 + 3 = 48/rodada** contra 304 de QI.
+**Sustentados:** Javali Branco + Javali Negro + Pele de Ferro = 3 → **3/rodada** contra 304 de QI.
 Ele **não tem Gu de movimento** — Defesa fica em `10 + DES 2 + rank 1` = **13**, a menor da mesa com o Demvi acima dele em 5 pontos.
 
 ---
@@ -193,10 +193,16 @@ Ele **não tem Gu de movimento** — Defesa fica em `10 + DES 2 + rank 1` = **13
 **Dano melee no rank 3:** garras = arma média `d8`, +1 Nível permanente → `4d10 + 5`; com Passo de Aríete
 (+2 Níveis) → **`4d12 + 8 + 5`**; com Descarga de Ímpeto (5 de Ímpeto, +3 Níveis e **ignora RD**) → passo +6.
 **Fantasmas:** 3 × `4d10` por rodada, **no turno dele**, além do golpe próprio. É o maior volume de dano da mesa no rank 3.
-**Economia — e é aqui que a ficha dele trava:** Empenho Total (46) + Qi de Força (15) + Sustentação de
-2 sustentados (20) = **~81 essência por rodada** contra 304 de QI. **Ele sustenta o conjunto completo por
-3,7 rodadas.** Se a simulação der a ele os três fantasmas por 5+ rodadas, está dando essência que ele não tem.
-Ligar Correntes junto sobe pra 3 sustentados (45) e o custo passa de 106/rodada — **2,8 rodadas**.
+**Economia — e é aqui que a ficha dele trava:** Empenho Total (**46**, e é `5% da essência máxima por
+fantasma por rodada`, então escala com o tanque dele) + Qi de Força (15) = **61 por rodada** contra 304 de
+QI. **Ele sustenta o conjunto completo por 5,0 rodadas** — contra cenas medidas em 6,5 a 8,3. Ligar as
+Correntes junto leva a **66/rodada**, ou **4,6 rodadas**.
+
+> [!warning] Este era **3,7 rodadas** e a decisão 272 o usou como contrapeso — o número mudou
+> A conta antiga somava 20/rodada de Manutenção de Sustentação, **removida pela decisão 266**. Sem ela o
+> fôlego dele sobe de 3,7 para 5,0 rodadas, e **o contrapeso que a 272 invocou fica mais fraco do que
+> estava escrito**. O freio dele continua existindo — o Empenho Total custa percentual, não fixo, e é o
+> único Gu da mesa cujo preço acompanha o tanque —, mas ele agora cobre a maior parte de uma cena.
 
 > ⚠️ **Nenhum Gu de movimento, de novo.** A própria nota do Caminho do Sangue diz por extenso que
 > "o terceiro item essencial não é um Gu de dano: é um **Gu de movimento**". Ele não tem um em rank
@@ -230,7 +236,7 @@ Com a Descarga (5 de Ímpeto, +3 e ignora RD): passo **+11**.
 lhe custou 2 pontos de Defesa permanentes — a nota dela diz literalmente "o transforma num alvo de 80%".
 **Deslocamento:** base −2 (Alicerce) −3 (Densidade) = **−5 m permanentes**. Sem as Asas Ósseas ele
 literalmente não alcança ninguém.
-**Economia:** Efeito Amplificado + Manto Fervente + Asas = 3 sustentados = **45 + 3 + 2 = 50/rodada**
+**Economia:** Efeito Amplificado + Manto Fervente + Asas = 3 sustentados = **5/rodada**
 mais **16 de Vitalidade a cada 2 rodadas** (Efeito Amplificado) e **24 de Dívida** por Manto em N=3.
 Contra 304 de QI ele aguenta 6 rodadas de essência — **mas o corpo dele acaba antes: o relógio dele é
 Vitalidade e Dívida, nunca essência.** É exatamente o que a nota do Caminho do Sangue promete.
@@ -297,7 +303,7 @@ carrega cinco vezes mais Gu que qualquer ficha da mesa".
 **Dano principal:** `4d12 + 4 + FOR 4` = **12–56**, média 34.
 **Cobertura dos cinco elementos: completa** — Terra (Punho de Montanha), Água (Golpe de Maré),
 Metal (Sabre de Ouro Vivo), Madeira (Videira-Espinho), Fogo (Brasa no Punho r1 a 4 de essência).
-**Economia:** 2 sustentados (um amplificador + um entrega/controle) = **20/rodada** de Sustentação.
+**Economia:** 2 sustentados custam só a manutenção própria de cada um — **sustentar não é a conta dela**.
 Encadeamento de Geração (Madeira → Fogo → Terra → Metal → Água) faz a partir da 2ª rodada custar
 **metade e +1 Nível**; do 3º elo em diante, **+2 Níveis e um Gu a menos na Sustentação**. Com 252 de QI
 e Gu de 40, ela tem ~5 ativações cheias por cena — **o encadeamento não é sabor, é o que faz a cena caber no tanque.**
@@ -331,11 +337,12 @@ golpe da mesa no rank 5, e é o que a ficha dela já reivindicava.
 Terra r5 ✓ · Metal r5 ✓ · Fogo r5 ✓ · **Água r4** (Espelho d'Água) · **Madeira r4** (Bosque no Osso).
 **Não existe Gu de melee de Madeira nem de Água no rank 5** — ver *Buracos B4/B5* e as **Propostas P2 e P3**.
 Na prática, dois dos cinco elementos dela rodam com **M = 8 enquanto três rodam com M = 16**.
-**Economia — a trava real:** Trono (8) + Garras do Rei de Metal (10) + Véu de Névoa (10) = 28 de
-manutenção própria, mais **Sustentação de 3 Gu = 45** → **73 por rodada** contra **252 de QI**.
-**Ela sustenta o conjunto por 3,4 rodadas.** Ligar um quarto sustentado leva a Sustentação a 80 e o
-total a 108/rodada — **2,3 rodadas.** É o número que a nota do Wu Xing manda ela olhar antes de
-comprar qualquer Gu novo, e a simulação precisa dele: **a Lee de rank 5 não é uma personagem de luta longa.**
+**Economia — a trava real:** Trono (8) + Garras do Rei de Metal (10) + Véu de Névoa (10) = **28 por
+rodada** de manutenção própria contra **252 de QI**. **Ela sustenta o conjunto por 9,0 rodadas** — cobre
+a cena inteira. *(Era 3,4 rodadas quando a Manutenção de Sustentação existia; a decisão 266 a removeu, e
+com ela some a leitura de que "a Lee de rank 5 não é uma personagem de luta longa". Ela é.)* **O que
+continua limitando a Lee é o teto de 3 Gu sustentados**, não o tanque: com cinco elementos carregados,
+ela escolhe três por rodada e troca — é o que a nota do Wu Xing manda ela olhar antes de comprar Gu novo.
 **Deslocamento:** −2 m (Alicerce) e **0 com o Trono ligado**. Sem Gu de movimento em rank nenhum.
 **Defesa:** `10 + DES 2 + rank 5` = **17**, sem bônus de Gu de movimento — a menor da mesa no rank 5.
 A defesa real dela são **RD 32 (Trono)** e o **−4 no acerto de todo mundo (Véu de Névoa)**.
@@ -391,11 +398,11 @@ exatamente por que ela entra no arsenal em vez de um Gu de defesa melhor.
 **Permanentes:** DES +4→**+5**; sem pegada; sem armadilha de pressão; +2 Acrobacia, +4 Furtividade acumulada.
 **Defesa:** `10 + DES 5 + rank 3 + 2 (Passo de Brisa)` = **20** — **a maior da mesa no rank 3**, e é essa a
 conversão que a nota do Vento promete a quem rolou aptidão baixa.
-**Ativos simultâneos = CON 1 + rank 3 = 4.** Passo de Brisa + Rastro Apagado + Escamas Ocultas = 3, sobra 1.
-**Economia — e é aqui que ele quebra:** 3 sustentados = **45 de Sustentação + 3 + 4 = 52/rodada**
-contra **224 de QI**. **Ele aguenta 4,3 rodadas com o conjunto completo ligado, e mais nada.**
-Uma ativação de Foice de Vento (40) no meio disso corta uma rodada inteira. **É a economia mais
-apertada da mesa por uma margem larga, e a simulação tem que impor isso.**
+**Gu sustentados = 3**, o teto fixo. Passo de Brisa + Rastro Apagado + Escamas Ocultas = 3, sem sobra.
+**Economia:** **7/rodada** de manutenção própria contra **224 de QI** — sustentar deixou de apertá-lo.
+**O que continua apertando é ativação:** uma Foice de Vento custa 40, quase um sexto do tanque dele, e
+ele tem o menor QI da mesa. **A escassez dele mudou de lugar, não desapareceu** — era fôlego, virou
+número de disparos.
 
 > ⚠️ **Ele não pode assentar o Gu de Corpo próprio do Caminho dele.** O **Gu dos Ossos Ocos do Falcão\***
 > (r3, Vento/Osso: +4 m de deslocamento permanente, +3 na ordem de turno, absorve 20 m de queda) exige
@@ -427,9 +434,9 @@ contra ele** e cobre mecanicamente metade do Buff de Lore dele · sem pegada.
 (que não está no arsenal por falta de vaga — ver a nota abaixo).
 **Dano:** `16d12` base (passo +1). Com Posição +4 e Altitude/Corrente dentro do teto de +6: passo **+7**,
 `16d12 + 96`. **Parado, sem se mover: `16d12` limpo, 16–192.**
-**Economia — o pior número da mesa:** Asas de Andorinha (15) + Escamas Ocultas v4 (4) + Rastro Apagado (4)
-= 23 de manutenção própria, mais **Sustentação de 3 Gu = 45** → **68/rodada** contra **224 de QI**.
-**3,3 rodadas.** E as Asas sozinhas, com a Sustentação de 1 Gu, já são 20/rodada.
+**Economia:** Asas de Andorinha (15) + Escamas Ocultas v4 (4) + Rastro Apagado (4) = **23 por rodada**
+contra **224 de QI**. **9,7 rodadas** — cobre a cena. *(Era 3,3 rodadas com a Manutenção de Sustentação,
+removida pela decisão 266.)* As Asas sozinhas custam 15/rodada, e são o item que ele nunca desliga.
 **Se a essência acabar no ar, ele cai e leva `4d10` sem teste.**
 
 > ⚠️ **Ele não tem vaga para o Passo de Brisa no rank 5.** As Asas de Andorinha substituem funcionalmente
@@ -471,13 +478,13 @@ contra ele** e cobre mecanicamente metade do Buff de Lore dele · sem pegada.
 | R3 — RD | 4 (passiva, permanente) | 0 (**nenhuma RD**) | 4 (Punho de Montanha, condicional) | 4 (quebra ao atacar) |
 | R3 — Defesa | 19 | 15 (**13** com Aríete/Correntes) | 13 | **20** |
 | R3 — permanentes | +1 CON, +1 DES, RD 4 | +1 FOR, +1 Nível, **+2 Vit/turno**, imune *Sangramento* | +1 CON, +1 FOR, +8 Vit máx | +1 DES, sem pegada |
-| R3 — essência/rodada com tudo ligado | 53 / 344 → **6,5 rd** | 81 / 304 → **3,7 rd** | ~20–45 / 252 → **5 rd** | 52 / 224 → **4,3 rd** |
+| R3 — essência/rodada com tudo ligado | 8 / 344 → **cobre a cena** | **61 / 304 → 5,0 rd** | manutenção própria só → **cobre a cena** | 7 / 224 → **cobre a cena** |
 | **R5 — ataque principal** | `16d12 + 16` (Lua Afogada, 40 m) | `16d12 + 32 + FOR 5` melee | `16d12 + 48 + FOR 4` foice | `16d12` a 50 m **+ Posição** |
 | R5 — 2º recurso | `8d10` (Crescente) · `8d8` Alma em cone | `16d12 + 16` ignora RD (1×/cena, 5 Ímpeto) | 2 × `8d8` c/ cura 8 · `8d12+8` meia RD | `8d6` em linha 40 m, **sem ar 2 rd** |
 | R5 — RD | 4 + RD de Alma 12 | 0 | **32** (Trono) | 16 (**0 no ar**) |
 | R5 — Defesa | 24 | 19 no ar / 15 no chão | **17** | **25** no ar |
 | R5 — permanentes | +2 CON, +1 DES, +1 VON, RD 4, imune a medo | +1 FOR, +1 CON, **+3 Níveis melee**, arma pesada desarmado, imune a deslocamento forçado | +2 CON, +1 FOR, +8 Vit, imune a deslocamento forçado | +1 DES, +1 CON, +2 m, **imune a agarrão/laço/videira sem rolar** |
-| R5 — essência/rodada | 57 / 344 → **6 rd** | 50 / 304 → **6 rd** (mas **16 Vit a cada 2 rd** e Dívida) | 73 / 252 → **3,4 rd** | 68 / 224 → **3,3 rd** |
+| R5 — essência/rodada | 12 / 344 → **cobre a cena** | 5 / 304 → **cobre** (mas **16 Vit a cada 2 rd** e Dívida) | 28 / 252 → **9,0 rd** | 23 / 224 → **9,7 rd** |
 
 **Três coisas que a modelagem atual (só atributos + um dado de Caminho) está errando por completo:**
 
