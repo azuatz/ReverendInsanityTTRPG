@@ -1561,6 +1561,19 @@ Duas diretivas do autor, medidas juntas porque são o mesmo eixo visto de dois l
 1. **O Xie Lang é 80:20 Lua:Alma, e as quinze rodadas mediram ele errado.** O motor sempre o modelou como atacante de Alma **puro** (`dado=12, alma_dmg=True`). A ficha de verdade tem **Lua como Caminho principal (~80% dos ataques)** e Alma como secundário (~20%). Lua é **d8**, e o dano dela vai na Vitalidade atravessando a RD normalmente.
 2. **Nerfar o Caminho da Alma**, verbatim: *"nerfe o caminho da alma bastante pois ele não atinge o RD, sendo ruim para batalhas em grupo e bom para batalhas solo"*.
 
+> [!warning] ⏳ Duas decisões posteriores mexeram na mesa — o que desta seção continua valendo
+> As decisões **232, 233 e 235** foram escritas **depois** desta bateria, e a leitura correta de cada bloco mudou:
+>
+> | O que | Estado |
+> |---|---|
+> | **Xie Lang, PvP e solo** | ✅ **Valem** como medição do perfil 80:20. Mas a **decisão 233 deu a ele uma segunda metade de buff** (Golpe Matador misto Lua+Alma sem a dobra de custo de híbrido), *motivada por estes números* e ainda **não medida** — o efeito esperado é na economia de essência, não no dano. |
+> | **A inversão Xie × Demvi** *(38,1% e 39,5% nos ranks 3 e 5)* | ✅ Vale, e foi o achado que motivou a decisão 233. A **ordem de força declarada** ali (Demvi fecha a fila) é o alvo de calibragem, não o estado medido. |
+> | **Jiāotáng no topo** *(93,5 / 78,3 / 70,3%)* | ✅ Vale, e a decisão 233 **encerrou a questão**: é comportamento pretendido (*"é normal melee ser mais forte antes"*). Sangue+Força não se nerfa. |
+> | **Todas as células da Lee** | 🔴 **Obsoletas.** A decisão 232 a tornou **corpo a corpo** e generalizou o multiplicador de melee. Os números de PvP, solo e grupo dela nesta seção são de antes disso. |
+> | **O nerf da Alma (a candidata C) e a escada da barra** | ✅ **Intactos.** Nada nas decisões 232-235 toca a barra de Alma, a Defesa contra Alma ou o dado do Caminho — o veredito e os guarda-corpos desta rodada seguem de pé. |
+>
+> A remedição da Lee e o teste do buff novo do Xie Lang estão **enviados à medição** pela própria decisão 233.
+
 > [!info] A modelagem do 80:20, declarada — é escolha, não dedução
 > A cada ataque do Xie Lang o motor rola uma moeda: **80% de chance de um golpe de Lua** (`M d8` contra a Defesa física, RD normal, dano na Vitalidade) e **20% de um golpe de Alma** (`M d12` contra `10 + VON + rank`, sem RD, dano na barra de Alma). A moeda vale para **todo** ataque dele, Golpe Matador incluído. A alternativa (misturar os dois dados no mesmo golpe) foi rejeitada por não existir em regra nenhuma do vault. Com `alma_frac = 1` o motor **não consome rolagem nova**, então o perfil antigo reproduz as rodadas anteriores bit-a-bit — o que a bateria confere.
 
