@@ -74,8 +74,8 @@ Nenhuma delas é uma classe aqui. Todas são **uma distribuição de atributos +
 | **Guilda de aventureiros** | Uma **Seita** ou companhia com **Pontos de Contribuição** ([[🏛️ Clãs e Seitas]]) | Missão → Contribuição → catálogo de recompensas. É literalmente o quadro de missões, com números |
 | **Masmorra** | **Herança selada** — a tumba de um cultivador morto, ainda cheia dos Gu dele | O motor de arco mais reutilizável deste cenário. 17 heranças prontas em [[📜 Catálogo de Heranças]] |
 | **Armadilhas e quebra-cabeças da masmorra** | Iguais. As heranças prontas já vêm com **7 quebra-cabeças com solução e 1 armadilha** | Nada a converter |
-| **Poção de cura** | **Gu de Grama Curativa** — `M d10`, o Gu morre no uso | Tradução exata. Só que é escassa e devolve mais ou menos o que um golpe tira |
-| **Espada +1** | **Arma de material de fera de rank 3+**: +1 Nível de Dano (sobe o tipo do dado), uma vez só. Custa 200–800 pedras, ou uma caçada | O "+1" tem que ser caçado. Vira sessão |
+| **Poção de cura** | **Gu de Grama Curativa** — `M d8`, o Gu morre no uso | Tradução exata. Só que é escassa e devolve mais ou menos o que um golpe tira |
+| **Espada +1** | **Arma de material de fera de rank 3+**: **+1 no acerto** (armadura do mesmo material: +1 de RD), uma vez só — **não sobe o tipo do dado**, que é coisa de Gu. Custa 200–800 pedras, ou uma caçada | O "+1" tem que ser caçado. Vira sessão |
 | **Armadura +1** | Mesma coisa: +1 de RD, uma vez só | — |
 | **Loja de itens mágicos** | **Não existe.** Existe um refinador que talvez tenha, uma caravana duas vezes por ano, e alguém no beco | Teste de Disponibilidade: `d20 + lugar` vs CD 8/12/16/20 por rank. Uma vez por arco, não por visita |
 | **Leilão / feira** | **Casa de Leilões**: 3 a 5 lotes, até 1 rank acima do grupo | "Onde se vê o que ainda não se pode ter" — e onde se fica devendo pra gente perigosa |
@@ -123,7 +123,7 @@ Todo monstro vira um dos moldes de [[⚔️ Ameaças Genéricas por Rank]], esca
 | **Fantasma, aparição, espectro** | Mestre de Gu com tudo no Caminho da Alma | 2–4 | Ataca a barra de **Alma**, que quase ninguém defende. É a razão do Caminho da Alma existir |
 | **Vampiro** | Elite ou Chefe | 3–4 | Caminho do **Sangue** + um dos desvios de [[⏳ Longevidade]]. A Dívida de Sangue dele é a Brecha |
 | **Lich** | **Imortal (rank 6+)** | 6 | **Não é um encontro.** É uma cena de fuga, uma negociação, ou o alvo de um Golpe Matador com a Brecha já descoberta |
-| **Dragão** | Chefe, no rank do grupo | 3–5 | Uma **fera-Gu ancestral** sentada em cima de um [[💠 Economia das Pedras Primordiais\|Ponto de Origem]]. É por isso que ela tem tesouro: o tesouro **é** a nascente. `63 × M` de Vitalidade, ações por rank na tabela |
+| **Dragão** | Chefe, no rank do grupo | 3–5 | Uma **fera-Gu ancestral** sentada em cima de um [[💠 Economia das Pedras Primordiais\|Ponto de Origem]]. É por isso que ela tem tesouro: o tesouro **é** a nascente. Vitalidade pela escada do Chefe — `100 × M` no rank 3, `94 × M` no 4, `115 × M` no 5 — e ações por rank na tabela |
 | **Beholder, aberração** | Elite ou Chefe | 3–4 | Uma fera-Gu do Caminho do **Espaço** — teleporte, barreira, deslocamento forçado |
 | **Horda de mortos-vivos** | Horda | 1–3 | Alguém plantou um Gu num cemitério. Esse alguém está por perto |
 
@@ -153,7 +153,7 @@ Errantes de verdade não recebem nada — e é por isso que roubam.
 
 ### 4. "Subir de nível" contra "não existe XP"
 
-**A resposta:** anuncie o estágio em voz alta. É o "subiu de nível" da sua mesa, acontece a cada 1–3 sessões, e no **Avançado** e no **Pico** ele dá algo concreto (ativação pela metade, e depois a primeira ativação do combate de graça). Rank sobe a cada 8–12 sessões, com teste real.
+**A resposta:** anuncie o estágio em voz alta. É o "subiu de nível" da sua mesa, acontece a cada 1–3 sessões, e o que ele dá é concreto e vale em todos os quatro (mais dano por dado, mais Vitalidade e Alma, mais Vagas de Suporte, combo maior — e depois a primeira ativação do combate de graça). Rank sobe a cada 8–12 sessões, com teste real.
 
 E o principal: **entregue um Gu novo quase toda sessão.** É essa a recompensa que substitui o XP, e é ela que faz a mesa sentir que avançou.
 
