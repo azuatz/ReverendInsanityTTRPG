@@ -92,6 +92,9 @@ O molde mais útil do conjunto, porque é o que o cenário produz o tempo todo: 
 | **Ataque** | Gu de ataque do próprio rank — **`M d8`** |
 | **Ação Especial** | Gu do **próprio Caminho**: **+4 no acerto**, **`M d10`**, e aplica Lentidão 2 |
 
+> [!info] Quantos Gu ele sustenta: **2**
+> O teto de sustentação de um **Mestre de Gu comum é 2**, não 3 ([[🏛️ Arquitetura do Sistema|Arquitetura do Sistema]]) — sustentar três tarefas sem errar é a marca de um cultivador excepcional, e o inimigo de rua não é um. Na prática ele entra em cena com o **Gu de defesa** (a RD `1 × M` acima) e **um segundo** à escolha do mestre: movimento, percepção ou reforço. **Inimigo nomeado — Elite com nome, rival de arco, Chefe — sustenta 3**, como os jogadores. Essa diferença de uma vaga é a forma mais barata de fazer um vilão parecer diferente do capanga sem mexer em nenhum número de dano.
+
 **A Ação Especial é o que separa o molde de um saco de pancada** — e a versão acima, medida, é a mais perigosa quando aparece sozinha: o +4 quase garante o acerto (e com ele a Lentidão), e o dano soma na mesma Vitalidade que o resto da cena já está batendo. Um Mestre de Gu com 2 ações e uma especial ameaça de verdade com **metade da Vitalidade de um Chefe**.
 
 **A exceção rara — o cultivador do Caminho da Alma.** Inimigo com poder de Alma é raro: a maioria dos Mestres de Gu inimigos é de outros Caminhos. Ao montar a cena, **role 1d6 por Mestre de Gu — só em 6 ele é um cultivador de Alma de verdade**, e a Ação Especial dele vira **`M d12`, ignora RD por completo e mira a barra de Alma** (mantendo a Lentidão 2). Sozinho, esse golpe abre uma barra que nada mais na cena vai tocar; **várias especiais de Alma juntas, empilhadas na mesma barra, são um alfa-strike** — por isso "todos de Alma" é ferramenta de Clímax, nunca composição casual (ver a tabela de composição de cena mais abaixo).
@@ -117,7 +120,7 @@ Escolha os Gu concretos no [[📖 Catálogo de Gu]] pelo Caminho que a especial 
 
 Um único inimigo contra um grupo perde a ação por turno na maioria dos sistemas — 3 ou 4 personagens agem, ele age uma vez, e a luta acaba rápido demais pra ser memorável. Pra qualquer inimigo que a cena trata como **Chefe** (rival de arco, vilão de sessão):
 
-1. **Vitalidade — o multiplicador vem da tabela abaixo**, junto com as ações. Não é um número só: vai de `63 × M` no rank 1 a `80 × M` no rank 5.
+1. **Vitalidade — o multiplicador vem da tabela abaixo**, junto com as ações. Não é um número só: vai de `63 × M` no rank 1 a `115 × M` no rank 5.
 2. **Age várias vezes por rodada, e o número vem da tabela abaixo** — não é fixo.
 3. **Ignora a primeira Condição de controle** que sofrer em cada cena (atordoamento, lentidão, medo) — descreva como ele resiste, não como ela simplesmente falha.
 4. Tem pelo menos **um Golpe Matador** e **um Gu de defesa sustentado** — um chefe sem defesa própria morre rápido demais quando o grupo foca fogo nele.
@@ -175,10 +178,19 @@ Os números entre parênteses são a **vitória medida do grupo** numa mesa de 4
 | Tipo de cena | **rank 1** | **rank 2** | **rank 3** | **rank 5** |
 |---|---|---|---|---|
 | **Fácil** | Horda de 8 *(100%)* | Horda de 8 *(100%)* | Horda de 8 *(100%)* | Horda de 8 *(100%)* |
-| **Padrão** | **2 Mestres + 1 Guerreiro** *(99%)* | 3 Mestres de Gu *(97%)* | idem *(99%)* | idem *(100%)* |
-| **Padrão pesado** | 2 Mestres + Horda de 8 *(89%)* | idem *(91%)* | idem *(91%)* | idem *(99%)* |
-| **Difícil** | 3 Mestres + 1 Guerreiro *(70%)* | idem *(83%)* | idem *(88%)* | 4 Mestres *(86%)* |
+| **Padrão** | **2 Mestres + 1 Guerreiro** *(98%)* | 3 Mestres de Gu *(97%)* | idem *(97%)* | idem **+1 ação em 2 deles** *(98%)* |
+| **Padrão pesado** | 2 Mestres + Horda de 8 *(82%)* | idem *(83%)* | idem *(83%)* | idem **+1 ação em 2 Mestres** *(90%)* |
+| **Difícil** | 3 Mestres + 1 Guerreiro *(62%)* | idem *(70%)* | idem **+1 ação em 1 Mestre** *(70%)* | 4 Mestres **+1 ação em 2 deles** *(58%)* |
 | **Clímax** | 1 Elite especial + 3 Mestres *(68%)*✝, ou **Chefe + Guerreiro *(77%)*** | idem, **Chefe + Guerreiro *(86%)*** | 1 Elite especial + 3 Mestres *(44%)*✝, ou **Chefe + Guerreiro *(87%)*** | 1 Elite especial + 3 Mestres *(46%)*✝, ou **Chefe + Guerreiro *(85%)*** |
+
+> [!success] ✅ A escada de dificuldade voltou a funcionar — e o botão é **ação**, não peça
+> As composições prometiam faixas que não entregavam desde a décima oitava rodada. Consertadas na vigésima quarta (decisão 258), e o caminho até lá vale mais que o resultado:
+>
+> - **Acrescentar uma peça não serve.** Um Guerreiro a mais leva o Difícil de rank 3 de 78% para 38% — passa por cima da faixa inteira — **e ainda estoura o ritmo**, porque mais inimigos é mais barra para mastigar (7,6 → 9,3 rodadas). Vitória e duração andam em **direções opostas** quando se conta peças, e é por isso que o "penhasco de ações" da decisão 137 nunca teve solução por composição.
+> - **Dar +1 ação a todos os Mestres também não.** Difícil de rank 3 vai a 28%, outro salto por cima.
+> - **Dar +1 ação a APENAS ALGUNS Mestres resolve.** É a granularidade que faltava, e ela **move a vitória sem mexer no ritmo** (7,6 → 7,7 rodadas). Mesma barra, mais ameaça — exatamente a lição que o molde Chefe já tinha entregue: **ações governam a dificuldade, Vitalidade governa o ritmo.**
+>
+> **Como o mestre usa isso na mesa:** para apertar uma cena sem alongá-la, **dê uma ação extra a um dos inimigos** em vez de acrescentar mais um inimigo. Para alongar sem apertar, suba a Vitalidade. São dois botões diferentes e não se confundem.
 
 *(✝ não retestado desde a terceira rodada — e sob a regra de Alma rara os 3 Mestres dessa variante também mudam de especial, então o número está duplamente desatualizado.)*
 
