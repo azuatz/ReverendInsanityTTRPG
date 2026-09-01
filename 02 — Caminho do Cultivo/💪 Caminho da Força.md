@@ -96,7 +96,7 @@ Cada **Descarga** usada na mesma cena cobra, no fim do golpe: **`1 × M` de Vita
 **1. Amplificação corpo a corpo — e a regra do multiplicador.** É o pilar, e ele vive inteiro dentro de uma linha de [[⚔️ Combate|Combate]]:
 
 ```
-Com um Gu do Caminho da Força ou de Transformação ativo,
+Com um Gu que amplifique ou entregue um golpe corpo a corpo ativo,
 o dano melee passa a ser multiplicado pelo M do RANK DAQUELE GU.
 ```
 

@@ -51,7 +51,7 @@ Registro vivo dos quatro jogadores e dos personagens. Atualize conforme a criaç
 >
 > **A taxa dele é a reduzida**, e isso não é buff: Lua e Alma são ambos Yin, portanto **Caminhos complementares** pela regra geral de [[☯️ Marcas de Dao#Conflito de Caminhos — o que acontece quando as Marcas brigam|conflito de Caminhos]] — **+25% de custo e −1/6 por fonte**, sem anulação e sem ferir a Fenda. É a regra fazendo o trabalho dela, disponível a qualquer personagem que combine dois Caminhos da mesma família.
 >
-> **A consequência pro rank 9 é a mesma do Jiāotáng:** com a contagem dividida, chegar aos 300.000 Marcas num Caminho só exige bem mais Marcas totais do que exige do Lee. Vale dizer isso ao jogador cedo.
+> **A consequência pro rank 9 é a mesma do Jiāotáng:** com a contagem dividida, chegar aos 300.000 Marcas num Caminho só exige bem mais Marcas totais do que exige da Lee. Vale dizer isso ao jogador cedo.
 
 **O buff, em regra:** **uma vez por arco**, quando o Xie Lang seria reduzido a 0 de Vitalidade ou de Alma, a ressonância responde: ele fica em **1** em vez de cair, e o frio se espalha num raio de 5 m — todos ali fazem CON contra a CD dos Gu dele ou perdem a reação até o fim da rodada.
 
@@ -63,17 +63,19 @@ Registro vivo dos quatro jogadores e dos personagens. Atualize conforme a criaç
 - **E o Gu residual ainda está em algum lugar.** Quem matou os pais dele pode ter ido atrás dele; pode ainda estar indo.
 
 > [!important] Medido com o perfil 80:20 — ele é o **terceiro** da mesa, não o primeiro
-> Os números finalmente saíram com o perfil de ataque correto, e eles **invertem** tudo o que se dizia deste personagem. Média de vitória dele nos três duelos, por rank: **33,4% · 39,9% · 43,6%**. Contra cada colega — Jiāotáng / Lee / Demvi: **9,8 / 25,0 / 65,3%** no rank 1, **26,1 / 55,5 / 38,1%** no rank 3, **33,6 / 57,7 / 39,5%** no rank 5. Sozinho contra um Mestre de Gu do próprio rank: **12,7 / 13,8 / 29,2%**.
+> Os números finalmente saíram com o perfil de ataque correto, e eles **invertem** tudo o que se dizia deste personagem. Contra cada colega, por rank — **Jiāotáng: 9,8 / 26,1 / 33,6%** · **Demvi: 65,3 / 38,1 / 39,5%**. Sozinho contra um Mestre de Gu do próprio rank: **12,7 / 13,8 / 29,2%**.
 >
-> **O novo topo da mesa é o Jiāotáng** (93,5 / 78,3 / 70,3%, decrescendo com o rank). O Xie Lang é o **terceiro de quatro**, e ganha com folga de um colega só, o Demvi, e só no rank 1.
+> ⚠️ **As células contra a Lee estão fora** (eram 25,0 / 55,5 / 57,7%) e as médias gerais junto com elas: a Lee virou personagem de corpo a corpo, e o motor a modelava como conjuradora de `d8` por VON. Toda célula que a envolve é do perfil errado, exatamente como as do Xie Lang eram. Remedição na próxima bateria.
+>
+> **O topo da mesa é o Jiāotáng** (93,5 / 78,3 / 70,3%, decrescendo com o rank). O Xie Lang perde para ele com folga em todos os ranks e ganha do Demvi só no rank 1.
 >
 > **Por que as taxas antigas de 88-99% estavam erradas:** elas o modelavam como atacante **puro de Alma**, com todo o dano furando RD. Com 80% dos ataques vindo pela Lua — d8, na Vitalidade, freado pela RD como o de qualquer um —, ele é outro personagem. O número velho estava obsoleto duas vezes: pelo perfil e pela reversão da economia de Caminho duplo.
 >
 > **A decisão que isto abre, e que é do autor:** o buff dele foi escrito fraco de propósito, quando se acreditava que ele dominava. **Essa premissa caiu**, e fortalecer a *Ressonância* virou defensável.
 >
-> **Mas não nerfe o Jiāotáng por causa disto, e não corra para buffar ninguém.** Repare no formato dos números dele: **93,5 / 78,3 / 70,3%**, caindo a cada rank. Isso não é dominância sistêmica — é **dominância de rank 1, que se dissolve sozinha conforme a mesa sobe**. A hipótese em investigação é que o rank 1 favorece o corpo a corpo por um motivo estrutural: com `M = 1`, o pool de todo mundo é um dado só, e aí o `+ FOR` — o único bônus **fixo** do motor — pesa proporcionalmente mais do que pesará em qualquer rank seguinte. Se for isso, o problema é do rank 1, não do personagem, e mexer na ficha dele consertaria o sintoma.
+> **E o Jiāotáng não é problema — isso está encerrado por decisão do autor.** Repare no formato dos números dele: **93,5 / 78,3 / 70,3%**, caindo a cada rank. Não é dominância sistêmica, é **vantagem de rank 1 que se dissolve sozinha conforme a mesa sobe**, e o autor a declarou comportamento pretendido: *"é normal melee ser mais forte antes, está ok"*. **Não nerfe Sangue+Força**, e não trate os 93,5% como um número a consertar.
 >
-> Até a medição fechar, **as quatro fichas ficam como estão**, e a mesa deve saber que estão assim por decisão pendente e não por acidente.
+> Sobra, então, uma pergunta só, e ela é do autor: **fortalecer ou não a Ressonância do Xie Lang**, agora que ele é o mais fraco em duelo e a justificativa do buff fraco caiu. Até a resposta vir — e até a Lee ser remedida, porque ela muda o quadro —, **as quatro fichas ficam como estão**.
 
 > [!warning] Por que este buff foi escrito narrativo — a justificativa original, hoje superada
 > **Ele é 80:20 — Lua principal, Alma secundária.** O jogador declarou que na maior parte do tempo ataca pela Lua, deixando a Alma como segundo recurso. Isso importa mais do que parece: **Lua rola d8 contra a Vitalidade e passa pela RD como qualquer um**, enquanto Alma rola d12, ignora RD e armadura e mira uma barra que mais ninguém na mesa ataca. São dois personagens diferentes.
@@ -92,19 +94,24 @@ Esses 63% e 70% foram medidos **com o Físico ainda na ficha**, e portanto estã
 
 Pelas regras normais, cada Caminho além do primeiro soma +50% ao custo de progressão de ambos (ver [[🛤️ Os Caminhos|Os Caminhos]]) — cinco Caminhos seria matematicamente impossível.
 
-**O buff:** "Cinco Elementos" é **um Caminho só**, com os cinco funcionando como faces dele. Ele paga o custo de **um** Caminho, e as sinergias dos ciclos de geração e destruição saem de graça (ver [[☯️ Os Cinco Caminhos Wu Xing|Os Cinco Caminhos Wu Xing]]).
+**O buff:** "Cinco Elementos" é **um Caminho só**, com os cinco funcionando como faces dele. Ela paga o custo de **um** Caminho, e as sinergias dos ciclos de geração e destruição saem de graça (ver [[☯️ Os Cinco Caminhos Wu Xing|Os Cinco Caminhos Wu Xing]]).
 
-> [!important] As Marcas de Dao dele não se dividem — nunca
-> **O corpo do Lee lê qualquer Marca elemental como Marca do mesmo Caminho.** Não importa se ela veio de uma Calamidade que ele atravessou com fogo, de um Gu Imortal de metal que ele refinou, ou da Sintonia de uma terra de madeira: **toda Marca entra num contador só, o do Wu Xing**, que é o Caminho principal dele e vale nos cinco elementos por igual.
+> [!important] Ela luta de foice, no corpo a corpo — não é uma conjuradora
+> A Lee **ataca por FOR com uma foice** (arma pesada, `d10`), e os Gu elementais entram como amplificação e entrega: o dano dela é multiplicado pelo `M` do Gu de melee que estiver ativo, com os Gu de suporte dos cinco elementos completando o resto. Ver [[⚔️ Combate|o dano melee]] e o [[📖 Catálogo de Gu|Catálogo]], que traz Gu de ataque corpo a corpo nos cinco elementos.
 >
-> Ele **não sofre conflito de Caminhos**, não paga a redução de fonte por Caminho extra, e não corre o risco de chegar ao rank 8 com a contagem repartida ([[☯️ Marcas de Dao#Conflito de Caminhos — o que acontece quando as Marcas brigam|conflito de Caminhos]]). Para o pré-requisito de **300.000 Marcas no Caminho principal** que a ascensão a Venerável exige, o contador do Wu Xing conta inteiro.
->
-> Isto é o que impede o buff dele de ser uma armadilha: sem esta regra, "cinco Caminhos" significaria cinco contagens rasas e um personagem estruturalmente incapaz de chegar ao topo — o oposto do que o buff promete.
+> **É o que faz o buff dela render de verdade:** um Caminho só, cinco elementos, e um golpe físico que aceita qualquer um deles — ela nunca está no matchup errado *e* nunca depende de ter o Gu de ataque à distância certo na mão.
 
-**O fio preso nele:**
-- **Ele nunca pode tomar um segundo Caminho.** Os cinco já ocupam o espaço inteiro. Sangue, Vento, Alma, Espaço — nada disso entra, nem com herança, nem com Gu Imortal.
-- **Ele alimenta cinco arsenais.** Pra ter resposta pra tudo, precisa carregar Gu dos cinco elementos ao mesmo tempo, e cada um come uma comida diferente. Onde o Demvi mantém uma dieta, o Lee mantém cinco: as vagas de Abertura dele enchem mais rápido e o custo de sustento é o maior da mesa (ver [[🍖 Sustento e Alimento|Sustento]]).
-- **Ele é o alvo óbvio.** Um Mestre Gu de cinco elementos numa região pequena é notícia, e um espólio que muita gente quer.
+> [!important] As Marcas de Dao dela não se dividem — nunca
+> **O corpo da Lee lê qualquer Marca elemental como Marca do mesmo Caminho.** Não importa se ela veio de uma Calamidade atravessada no fogo, de um Gu Imortal de metal refinado, ou da Sintonia de uma terra de madeira: **toda Marca entra num contador só, o do Wu Xing**, que é o Caminho principal dela e vale nos cinco elementos por igual.
+>
+> Ela **não sofre conflito de Caminhos**, não paga a redução de fonte por Caminho extra, e não corre o risco de chegar ao rank 8 com a contagem repartida ([[☯️ Marcas de Dao#Conflito de Caminhos — o que acontece quando as Marcas brigam|conflito de Caminhos]]). Para o pré-requisito de **300.000 Marcas no Caminho principal** que a ascensão a Venerável exige, o contador do Wu Xing conta inteiro.
+>
+> Isto é o que impede o buff dela de ser uma armadilha: sem esta regra, "cinco Caminhos" significaria cinco contagens rasas e uma personagem estruturalmente incapaz de chegar ao topo — o oposto do que o buff promete.
+
+**O fio preso nela:**
+- **Ela nunca pode tomar um segundo Caminho.** Os cinco já ocupam o espaço inteiro. Sangue, Vento, Alma, Espaço — nada disso entra, nem com herança, nem com Gu Imortal.
+- **Ela alimenta cinco arsenais.** Pra ter resposta pra tudo, precisa carregar Gu dos cinco elementos ao mesmo tempo, e cada um come uma comida diferente. Onde o Demvi mantém uma dieta, a Lee mantém cinco: as vagas de Abertura dela enchem mais rápido e o custo de sustento é o maior da mesa (ver [[🍖 Sustento e Alimento|Sustento]]).
+- **Ela é o alvo óbvio.** Uma Mestra Gu de cinco elementos numa região pequena é notícia, e um espólio que muita gente quer.
 
 ### Vize e Binho — fechados
 
@@ -160,7 +167,7 @@ Os quatro no **rank 1, estágio Inicial** (`M = 1`), que é onde a campanha come
 
 **Vitalidade** `(18 + 3 × CON + 4 × B) × M` · **Alma** `(16 + 3 × VON + 3 × B) × M` · **QI** `% × 4 × 2^(estágio−1)` · **Defesa** `10 + DES + rank` (+ rank do Gu de movimento sustentado). `B` = Grau de Densidade do estágio, 0 no Inicial — ver [[🪜 Ranks e Estágios]].
 
-> ✅ **As quatro fichas fecham exatas em 12 pontos.** Lembrando a tabela de [[💪 Atributos]]: o degrau **+3 → +4 custa 2 pontos**, não 1, e **0 → −1 devolve 1**. Xie Lang gasta 13 e recebe 1 de volta pelo FOR −1; Jiāotáng gasta 5 no FOR +4 e 7 no resto; Lee gasta 12 diretos; Demvi gasta 5 no DES +4, 8 no resto, e recebe 1 de volta pelo FOR −1. A distribuição do Jiāotáng é exatamente o exemplo **"Lutador de clã"** que a nota de Atributos já lista como legal.
+> ✅ **As quatro fichas fecham exatas em 12 pontos.** Lembrando a tabela de [[💪 Atributos]]: o degrau **+3 → +4 custa 2 pontos**, não 1, e **0 → −1 devolve 1**. Xie Lang gasta 13 e recebe 1 de volta pelo FOR −1; Jiāotáng gasta 5 no FOR +4 e 7 no resto; a Lee gasta 12 diretos; Demvi gasta 5 no DES +4, 8 no resto, e recebe 1 de volta pelo FOR −1. A distribuição do Jiāotáng é exatamente o exemplo **"Lutador de clã"** que a nota de Atributos já lista como legal.
 
 **Ninguém começa com Gu** — os quatro conquistam o primeiro em jogo até o fim da sessão 2, e de onde ele vem é decidido pela [[🌱 Origens\|Origem]] de cada um. **Os Vínculos ainda não foram declarados:** cada jogador escreve um, com um personagem de outro jogador, na sessão zero — ver [[🤝 Vínculos e Acordo de Mesa]].
 
@@ -268,17 +275,18 @@ Teste de Conjuração = d20 + AST(2) vs CD 12 + 2×4 = 20   (−4 se já usado c
 - Aptidão 76% (Grau B) · Pontos: 12
 - **Buff de Lore:** *Linhagem de sangue antigo* — o corpo dele carrega Sangue e Força **sem atrito**. Em troca, nunca poderá tomar um terceiro Caminho.
 
-> [!important] Como as Marcas dele funcionam — é diferente do Lee, e de propósito
+> [!important] Como as Marcas dele funcionam — é diferente da Lee, e de propósito
 > Sangue é Yin e Força é Yang: pelo padrão, seriam **Caminhos incompatíveis**, com anulação de domínio, −1 Nível de Potência e Ferimento permanente na Fenda ([[☯️ Marcas de Dao#Conflito de Caminhos — o que acontece quando as Marcas brigam|conflito de Caminhos]]). O corpo dele é a exceção: **os dois convivem sem conflito nenhum.**
 >
 > O que ele **não** ganha é a unificação do contador. **As Marcas dele se dividem** entre Sangue e Força, cada uma indo pro Caminho da fonte que a gerou, e cada Caminho tem o próprio nível de domínio. Ele simplesmente não paga por isso: sem o +50% de progressão, sem a redução de um terço por fonte, sem anulação, sem ferir a terra. É cultivo duplo **de graça**, não cultivo duplo **fundido**.
 >
-> **A consequência que vale dizer em voz alta na mesa:** o pré-requisito do rank 9 é de **300.000 Marcas num Caminho só**. Com a contagem dividida, o Jiāotáng precisa de bem mais Marcas totais que o **Lee** pra chegar lá — não porque paga penalidade, mas porque dois baldes enchem mais devagar que um. O **Xie Lang está no mesmo barco** desde que perdeu o Físico: ele também divide, entre Lua e Alma. Na prática, **o Lee é o único dos quatro com rota limpa ao rank 9**, e isso é uma conversa a ter com a mesa cedo, não uma surpresa no fim.
+> **A consequência que vale dizer em voz alta na mesa:** o pré-requisito do rank 9 é de **300.000 Marcas num Caminho só**. Com a contagem dividida, o Jiāotáng precisa de bem mais Marcas totais que a **Lee** pra chegar lá — não porque paga penalidade, mas porque dois baldes enchem mais devagar que um. O **Xie Lang está no mesmo barco** desde que perdeu o Físico: ele também divide, entre Lua e Alma. Na prática, **a Lee é a única dos quatro com rota limpa ao rank 9**, e isso é uma conversa a ter com a mesa cedo, não uma surpresa no fim.
 
-### Lee *(Gush)* — Cinco Elementos
+### Lee *(Gush)* — Cinco Elementos, corpo a corpo
 - Aptidão 63% (Grau B) · Pontos: 12
-- **Melee com elementos** — ver os Gu de ataque elemental corpo a corpo e os Gu de Corpo elementais no [[📖 Catálogo de Gu|Catálogo]].
-- **Gu do Broto Restaurador** (Madeira, dentro do arsenal de Cinco Elementos) — cura `M d6`, uma vez por cena, só a toque. É o único Gu de cura registrado nas quatro fichas da mesa — sem ele, nenhum PJ tinha suporte de cura por escrito, apesar de toda simulação de combate assumir o Lee curando o aliado mais ferido. *(Registrado pela sexta rodada de simulação, decisão 154 — a heurística de simulação usada até aqui, M d8 sem limite de usos, era mais forte que o Gu real; simulações futuras devem usar M d6/cena.)*
+- **Luta de foice** (arma pesada, `d10`), atacando por **FOR +3**. O dano multiplica pelo `M` do Gu de melee elemental ativo — ver os Gu de ataque elemental corpo a corpo e os Gu de Corpo elementais no [[📖 Catálogo de Gu|Catálogo]], e [[⚔️ Combate|o dano melee]].
+- **Os cinco elementos entram como amplificação, entrega e suporte**, não como ataque à distância. É a build que o buff dela pede: nunca está no matchup errado, e o golpe é sempre o mesmo.
+- **Gu do Broto Restaurador** (Madeira, dentro do arsenal de Cinco Elementos) — cura `M d6`, uma vez por cena, só a toque. É o único Gu de cura registrado nas quatro fichas da mesa — sem ele, nenhum PJ tinha suporte de cura por escrito, apesar de toda simulação de combate assumir a Lee curando o aliado mais ferido. *(Registrado pela sexta rodada de simulação, decisão 154 — a heurística de simulação usada até aqui, M d8 sem limite de usos, era mais forte que o Gu real; simulações futuras devem usar M d6/cena.)*
 
 ### Demvi *(Binho)* — Vento
 - Aptidão 56% (Grau C) · Pontos: 12
