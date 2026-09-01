@@ -298,3 +298,38 @@ Convenção do Caminho de Refino da sessão paralela). Achados:
 **Conferido e correto:** o resto das ~20 linhas tocadas pelo arco (Metrópole,
 Token de Sangue, Arena, Três Quadros, Masmorra de andares, Estrada de Prova,
 Convenção, Marca de Sucesso, Refino territorial) já batiam com as notas-fonte.
+
+---
+
+## Rodada [2026-09-01] — contradição nota × Log na tabela de composição (achado único)
+
+Varredura disparada pela conferência da decisão 262 logo depois de ela ser
+commitada. **Um achado, e ele é de conteúdo, não mecânico** — está devolvido a
+quem tem os números, e não corrigido aqui, porque corrigi-lo exige a medição.
+
+**Onde:** [[⚔️ Ameaças Genéricas por Rank]], a tabela "Tipo de cena × rank".
+
+**O quê:** a tabela tem colunas para os ranks **1, 2, 3 e 5** — **não tem coluna
+de rank 4**. A decisão 262 mediu os cinco ranks e prescreveu **três consertos
+específicos de rank 4**, e os três foram escritos **na coluna do rank 3**, que
+por sua vez perdeu os valores próprios que a decisão 258 tinha fixado:
+
+| Linha | O que a coluna "rank 3" diz hoje | De quem é esse número | O que a 258 fixou para o rank 3 |
+|---|---|---|---|
+| **Padrão** | +1 ação em 1 deles *(98%)* | rank 4 (262) | nenhum conserto — 97% |
+| **Padrão pesado** | +1 ação em 1 Mestre *(85%)* | rank 4 (262) | nenhum conserto — 83% |
+| **Difícil** | +1 ação em 2 Mestres *(71%)* | rank 4 (262) | **+1 ação em 1 Mestre — 70%** |
+
+**Impacto na mesa, e não é cosmético:** um mestre montando um "Difícil" de rank 3
+pela tabela dá hoje **duas** ações extras onde a medição da 258 pediu **uma**. A
+própria 258 mediu que dar ação demais no rank 3 derruba a célula para 28% — ou
+seja, o erro empurra na direção que já se sabe que estoura a faixa. E os três
+consertos de rank 4, que a 262 mediu e que existem no Log, **não chegam ao
+mestre**, porque não há coluna onde morar.
+
+**Por que não corrigi:** a reconstrução das células de rank 3 a partir da 258 é
+mecânica, mas os valores de rank 1 e 2 foram **remedidos** na bateria conjunta
+(62% → 64%, 82% → 83%), então as células de rank 3 provavelmente também
+mudaram de número na mesma varredura. Escrever os valores antigos da 258 de
+volta seria trocar um número errado por outro. **Devolvido à sessão que tem a
+bateria**, com o diagnóstico fechado: acrescentar a quinta coluna e redistribuir.
