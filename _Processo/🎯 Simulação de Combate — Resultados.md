@@ -11,6 +11,8 @@ escopo: processo
 # 🎯 Simulação de Combate — Resultados
 
 > [!important] Rodada mais recente
+> A **décima nona rodada** ([[#🎯 Décima nona rodada — o Golpe Matador medido por ação (2026-09-01)|2026-09-01]]) mede a **etapa 1 do conserto do Golpe Matador** (decisão 240) e corrige o eixo do gatilho. **⛔ Primeiro, uma retratação:** o *"não existe alvo contra o qual o combo pague"* da 18ª está **retirado** — o gatilho daquela rodada usava horizonte **solo** (`r = ⌈barra / e_norm⌉`), com o qual o ataque comum sempre alcança a barra inteira e disparar só pode perder. **Era tautologia, não achado.** **(1) O teste de conjuração da decisão 240 entrega o prometido** — 80/80/80/80/**85%** nos cinco ranks para AST +2, contra 55/50/45/40/40% — e a implementação força uma premissa: **`nível de domínio` = 0 na fase mortal**, a única leitura que reproduz os 85% e os 40% que a nota publica. **(2) A aritmética por ação confere na direção e erra na faixa:** por essência 0,23× a 0,04×, por ação **0,68× a 1,63×** (a conta de mão dizia 1,15-1,62× e generalizou os números do Xie Lang), e o Monte Carlo com crítico, RD e falha de conjuração confirma o papel em 11 de 12 células. **(3) O combo passa a disparar — e só com os DOIS consertos juntos:** de **0,00** (qualquer conserto isolado) para **3,21 golpes por cena** no Clímax de rank 5, contra os 0,19 do gatilho antigo forçado. **(4) 🔴 Mas o Clímax não recupera o clímax:** a vitória do grupo cai só de 99,7% para **95,4%** (98,0% na leitura conservadora), contra a faixa de 56-87% que a cena promete — **os dois problemas são independentes**, e o Chefe fácil é da paridade de Níveis, não do combo ausente. **(5) O gargalo virou a Retaliação:** em 12 de 12 células a perda esperada de passar a cena sem Gu supera o ganho do golpe, e o `p` de equilíbrio é de **88% a 146%** contra os 75-85% que a regra nova entrega — no rank 1 dos dois PJs de corpo a corpo **nenhuma taxa de conjuração faz o combo pagar**. É evidência a favor da etapa 2 (decisão 241), que esta rodada **não** mede. **Nenhuma célula de [[⚔️ Ameaças Genéricas por Rank]] anda mais de 3pp** — só a prosa foi corrigida.
+>
 > A **décima oitava rodada** ([[#🔧 Décima oitava rodada — os três consertos de motor e a revalidação (2026-09-01)|2026-09-01]]) é **só correção de motor** — três defeitos da mesma classe, todos "o código implementando uma leitura estreita da regra escrita". **(1) O teste de conjuração** passou a ser o publicado (`d20 + AST + nível de domínio`, CD `12 + 2×nGu` com os quatro modificadores): o Golpe Matador de rank 5 sai de **loteria de 5% para os 40%** que a regra promete, e a régua fica em **55 / 45 / 40%** nos ranks 1/3/5 — mas o conserto **não move nenhuma célula publicada** (0 de 15 acima de 3pp, máximo 1,4pp), então a suspeita de contaminação do Clímax está **refutada**. **(2) A escada de Níveis de ficha** existia só para a Lee, e o buraco era maior do que a 17ª descreveu: **os quatro Caminhos concedem Níveis**, três deles como dial de cena (fase da lua, posição, solo natural). Derivadas uma a uma das notas publicadas, elas movem **8 de 15 células de grupo (até +15,9pp)** e sobem os três PJs esquecidos em **+9 a +25pp** na cena solo. **(3) O gatilho do Golpe Matador** deixou de ser `boss is not None` e virou a **conta que a própria regra descreve** — e a conta diz **não disparar contra alvo nenhum** dos ranks 3 e 5, nem contra um Chefe de rank +2: a essência do combo compra 25 a 40 ataques comuns que derrubam a barra duas a cinco vezes. A isenção da decisão 233 segue medindo **+0,00pp**, agora como resultado **derivado**, não como gatilho congelado. **Veredito do critério do autor: o Jiāotáng lidera nos três ranks (✅), mas o Demvi não fecha a fila em rank nenhum e o Xie Lang NÃO converge** — 23,9 → 22,3 → 19,6%, terminando a +53,9pp do líder. A afirmação da 17ª de que a paridade fecharia o critério está **refutada**. A tabela de composição e a de ações do Chefe foram **corrigidas** em [[⚔️ Ameaças Genéricas por Rank]].
 >
 > A **décima sexta rodada** ([[#🌑 Décima sexta rodada — o nerf do Caminho da Alma e o Xie Lang 80:20 (2026-08-31)|2026-08-31]]) corrige o erro de modelagem mais caro do vault e usa a correção para nerfar o Caminho da Alma com número. **(1) O Xie Lang nunca foi atacante de Alma puro:** ele é **80:20 Lua:Alma**, e Lua é d8 que atravessa RD normalmente. Medido no perfil certo, a dominância de PvP dele cai de **83,9 / 97,8 / 99,5%** para **33,4 / 39,9 / 43,6%** — ele sai do 1º lugar e vira **3º de 4** nos três ranks, e o novo topo da mesa é o **Jiāotáng** (93,5 / 78,3 / 70,3%, decrescente com o rank). *(Os 88,1% publicados eram duplamente obsoletos: perfil errado **e** o `ess_mod = 1,0` que a decisão 227 reverteu.)* **(2) A diretiva do autor culpava o furo de RD, e a medição mostra que a culpa é de outro lugar:** o número que dezesseis rodadas nunca calcularam é **quantos acertos zeram a barra de Alma** — **1,85 / 2,12 / 2,21**, contra os **2,8** que a decisão 78 promete ao degrau mais letal do jogo. A barra é um terço menor que a Vitalidade e a Defesa que a protege cresce **+1/rank** contra um acerto que cresce **+2/rank** (no rank 5 ela **não erra nunca**). **(3) Dos três candidatos, só um funciona:** meia-RD e d10 deixam o especialista de Alma em **96-99%** (nerfs no papel, não no número); a **barra endurecida** (`(16+3×VON+3×B)×M` e Defesa `+2/rank`) leva o especialista de **99,5% para 87,1%**, a escada da barra de 2,21 para **2,63**, não toca dado nenhum — e custa **+0,24pp** na bateria de grupo, com o quinhão de dano do Caminho em cena de grupo **inalterado**, que era a promessa a cumprir. Aplicada em [[⚔️ Combate]] (decisão 231), com um ripple de oito notas listado.
@@ -2127,6 +2129,242 @@ A cena solo é a leitura mais limpa do bug 2, porque nela cada PJ enfrenta o mes
 5. **❌ O critério do autor está reprovado em duas das quatro cláusulas.** O Jiāotáng lidera nos três ranks (✅), mas a dianteira dele **não encolhe** (+17,5 → +18,6 → +18,1pp), o **Demvi não fecha a fila em rank nenhum**, e o **Xie Lang não converge**: 23,9 → 22,3 → 19,6%, terminando a **+53,9pp** do líder. A afirmação da 17ª de que a paridade fecharia o critério está **refutada** — aqueles 83,5 / 65,7 / 64,3% eram a célula "paridade + atrito de Lua", e mesmo ela não sobrevive à paridade completa (a Lee passa a fechar a fila no rank 3).
 6. **🎯 A alavanca que resta é a única que age em duelo, e é modelagem, não conserto.** O atrito do degrau d8 leva o Xie Lang a **35,3 → 50,9 → 50,7%** com a distância para o líder caindo a **+11,8pp** — a única curva medida que sobe e converge. A nota da Mesa já registra que *"a correção, nesse caso, precisa agir em duelo, não na economia de cena"*. **É a próxima rodada, e ela é de desenho.**
 7. **🔴 A tabela de composição e a tabela de ações do Chefe foram corrigidas em [[⚔️ Ameaças Genéricas por Rank]]** — 8 células de composição e 5 de ações do Chefe. As composições **não** foram redesenhadas para voltar às faixas: isso é decisão do autor.
+
+---
+
+## 🎯 Décima nona rodada — o Golpe Matador medido por ação *(2026-09-01)*
+
+Script: [[simulacoes/2026-09-01-decima-nona-golpe-matador-por-acao.py|_Processo/simulacoes/2026-09-01-decima-nona-golpe-matador-por-acao.py]] — cópia do motor da décima oitava. Semente `20260830`, **3.000 iterações por célula**, mix de Alma "C", treino 0 dos dois lados. Baseline com as decisões 231, 227, 236 e 238 (paridade de Níveis de ficha + gatilho econômico).
+
+**Reprodução conferida:** com os knobs no default da 18ª, a matriz de PvP reproduz em **0,04pp** e a bateria de grupo em **0,03pp**.
+
+Duas coisas mudaram desde a rodada anterior, e nenhuma delas é motor:
+
+1. **A regra mudou no disco** (decisão 240): `CD = 12 + 2 × nGu` virou **`CD = 10 + nGu`**, e a rolagem virou **`d20 + AST + rank + nível de domínio`**.
+2. **O gatilho da 18ª media o eixo errado**, e o erro é meu. Ele perguntava *"o combo bate o que a mesma ESSÊNCIA compra em ataques comuns?"*. Essa pergunta só faz sentido se essência for escassa, e a própria 18ª mediu que não é.
+
+> [!danger] ⛔ Retratação — a conclusão central da décima oitava está **retirada**
+> A 18ª publicou: *"não existe alvo publicado contra o qual o Golpe Matador pague, dos ranks 3 e 5"*. **A afirmação é artefato da métrica, não propriedade do sistema, e a métrica era minha.**
+>
+> O gatilho da 18ª usava horizonte **solo**: `r = ⌈barra / e_norm⌉`, isto é, quantas rodadas o PJ **sozinho** levaria para derrubar a barra do alvo. Com esse horizonte o ataque comum sempre alcança a barra inteira, os dois ramos da conta empatam no teto, e disparar só pode **perder** (porque `p < 1`). **Era um gatilho que provava que o combo nunca paga por construção** — qualquer alvo, qualquer rank, qualquer custo. Não é achado; é tautologia.
+>
+> O que fica de pé da 18ª: a aritmética por essência (0,23× a 0,04×, medida) e a observação de que o custo do combo congela com o Teto de Combo. **O que cai é a conclusão**, e com ela a frase de [[⚔️ Ameaças Genéricas por Rank]] que a repetia.
+
+---
+
+### 🎲 O teste de conjuração da decisão 240, e a premissa que ele força
+
+A regra nova traz **dois** termos que crescem (`rank` e `nível de domínio`), e a fase mortal não tem domínio. A 18ª tinha adotado `domínio = B` por equivalência escrita em [[📈 O Que Muda ao Subir]] — mas ali o `B` ocupava o lugar do domínio numa fórmula que **não somava rank**. Somar os dois conta a progressão duas vezes.
+
+> [!info] 📐 Premissa publicada: **`nível de domínio` = 0 na fase mortal**
+> A aritmética força a escolha — é a única leitura que reproduz os dois números que a própria nota publica:
+>
+> | Caso | Conta | Resultado | A nota diz |
+> |---|---|---|---|
+> | registrado, 5 Gu, rank 5, AST +2 | CD `10+5=15`, −4 = 11 · `d20+2+5 ≥ 11` | **85%** | **85%** ✅ |
+> | improvisado, 4 Gu, sob pressão | CD `10+4=14`, +4, +2 = 20 · `d20+2+5 ≥ 20` | **40%** | **40%** ✅ |
+>
+> Com `domínio = B` os mesmos dois casos dariam **100%** e **55%** — números que a nota não publica em lugar nenhum.
+
+**A régua inteira, antes e depois** *(golpe registrado, sem dano recente)*:
+
+| PJ | AST | rank 1 | rank 2 | rank 3 | rank 4 | rank 5 |
+|---|---|---|---|---|---|---|
+| **Xie Lang · Demvi** | +2 | 55% → **80%** | 50% → **80%** | 45% → **80%** | 40% → **80%** | 40% → **85%** |
+| **Jiāotáng · Lee** | +1 | 50% → **75%** | 45% → **75%** | 40% → **75%** | 35% → **75%** | 35% → **80%** |
+
+A decisão 240 entrega o que promete: **o combo deixou de ser loteria.**
+
+---
+
+### 📐 A heurística nova, declarada — vira premissa publicada
+
+O recurso escasso é a **ação**, então o valor de disparar se mede sobre as ações que a cena ainda comporta, não sobre as que a essência bancaria num mundo com rodadas infinitas.
+
+```
+barra    = o que resta do alvo no trilho que o golpe atinge
+e_norm   = dano esperado de UM ataque comum do PJ
+e_golpe  = dano esperado do golpe (núcleo + M × apoios)
+e_cru    = dano esperado sem Gu (o estado de Retaliação)
+p        = probabilidade de o teste de conjuração passar, pela CD real
+util(x)  = min(x, barra)          ← o excedente não vale nada (é o overkill que
+                                    a decisão 240 chama de desperdício de ação)
+r        = AÇÕES que este PJ ainda terá NESTA CENA contra este alvo
+         = min(rodadas restantes, ⌈vit do alvo / dano esperado do GRUPO por rodada⌉)
+
+NÃO DISPARAR:  A = util(min(r, essência/custo_atq) × e_norm)
+DISPARAR:      B = p × util(e_golpe + min(r−1, (essência−custo)/custo_atq) × e_norm)
+                 + (1 − p) × util((r−1) × e_cru)
+Dispara se B > A.
+```
+
+**A única diferença de fórmula em relação à 18ª é o `r`** — e é ela que carregava o erro inteiro. O horizonte certo é o da **cena**: o alvo cai quando o grupo o derruba, e contra um Chefe isso são 2 a 4 rodadas, não 8 a 25. Nada aqui consome rolagem: ligar o gatilho não desalinha o fluxo aleatório.
+
+Duas variantes foram medidas em paralelo:
+
+- **`ação pura`** — a regra de bolso da decisão 240 ao pé da letra: dispara sse `p × util(e_golpe) > util(e_norm)`, isto é, *"este alvo merece a minha ação?"*, sem horizonte nenhum.
+- **`cauda precificada`** — a mesma pergunta, mas com a **Retaliação cobrada sobre a cena inteira** e não sobre as duas rodadas que o alvo leva para cair: `ganho = p × util(e_golpe) − util(e_norm)` contra `perda = (1−p) × (rodadas da cena − 1) × (e_norm − e_cru)` mais as ações que a essência deixa de bancar.
+
+---
+
+### 🔢 A aritmética por ação, verificada contra o motor
+
+A conta de mão que motivou a rodada dizia: **por essência 0,29× a 0,06×; por ação 1,15× a 1,62×, melhorando com o tamanho.**
+
+**(a) Determinístico, contra o Chefe publicado do próprio rank:**
+
+| PJ | rank | `e_norm` | `e_golpe` | **× por AÇÃO** | custo | × por essência | `p` | **`p` × ação** |
+|---|---|---|---|---|---|---|---|---|
+| **Xie Lang** | 1 | 5,9 | 8,5 | **1,44×** | 320 | 0,23× | 80% | 1,15× |
+| | 3 | 31,6 | 50,0 | **1,58×** | 1.280 | 0,06× | 80% | 1,27× |
+| | 5 | 142,4 | 232,0 | **1,63×** | 2.000 | 0,04× | 85% | 1,38× |
+| **Jiāotáng** | 1 | 9,5 | 6,5 | **0,68×** | 160 | 0,17× | 75% | 0,51× |
+| | 3 | 42,0 | 50,0 | **1,19×** | 640 | 0,07× | 75% | 0,89× |
+| | 5 | 188,0 | 248,0 | **1,32×** | 1.000 | 0,05× | 80% | 1,06× |
+| **Lee** | 1 | 9,5 | 7,5 | **0,79×** | 160 | 0,20× | 75% | 0,59× |
+| | 3 | 41,0 | 50,0 | **1,22×** | 640 | 0,08× | 75% | 0,91× |
+| | 5 | 203,0 | 264,0 | **1,30×** | 1.000 | 0,05× | 80% | 1,04× |
+| **Demvi** | 1 | 7,5 | 8,5 | **1,13×** | 160 | 0,28× | 80% | 0,91× |
+| | 3 | 38,0 | 50,0 | **1,32×** | 640 | 0,08× | 80% | 1,05× |
+| | 5 | 168,0 | 232,0 | **1,38×** | 1.000 | 0,06× | 85% | 1,17× |
+
+**(b) Monte Carlo, com o motor de verdade** — 20.000 amostras por célula, o golpe passando pelo código real (teste de acerto, crítico, RD, RD de Alma, e a falha de conjuração contando como 0 de dano):
+
+| PJ | rank 1 | rank 3 | rank 5 |
+|---|---|---|---|
+| **Xie Lang** | **0,94×** *(papel 1,15)* | **1,17×** *(1,27)* | **1,31×** *(1,38)* |
+| **Jiāotáng** | **0,48×** *(0,51)* | **0,91×** *(0,89)* | **1,10×** *(1,06)* |
+| **Lee** | **0,58×** *(0,59)* | **0,93×** *(0,91)* | **1,08×** *(1,04)* |
+| **Demvi** | **0,93×** *(0,91)* | **1,09×** *(1,05)* | **1,24×** *(1,17)* |
+
+> [!check] ✅❌ O veredito sobre a minha conta de mão: **confere na direção, erra na faixa**
+> - ✅ **A direção está certa e é o achado que importa.** Por essência o combo é **0,23× a 0,04×** (a mão dizia 0,29× a 0,06×); por ação ele é **melhor e melhora com o tamanho** — 1,44 → 1,58 → 1,63× para o Xie Lang, que é o dono do golpe modelado em dezessete rodadas.
+> - ❌ **O piso da faixa está errado.** A mão publicou "1,15× a 1,62×"; o motor dá **0,68× a 1,63×**. A conta de mão usou os números do Xie Lang e os generalizou. Para **Jiāotáng e Lee no rank 1 o combo é PIOR que um ataque comum mesmo com `p = 1`** — o `+ FOR` do dano melee só existe no ataque comum, e no rank 1 (`M = 1`) ele é metade do golpe.
+> - ✅ **O Monte Carlo confirma o papel**: desvio ≤ 0,07× em 11 das 12 células, e 0,21× na única exceção (Xie Lang no rank 1, onde a RD do Chefe morde um dado pequeno). **Crítico, RD, RD de Alma e falha de conjuração não invertem nada.**
+> - ⚠️ **O `0,71× a 0,99×` citado pela decisão 241 está desatualizado**: era o número com os 40% da regra antiga. Com os 80-85% da decisão 240 a faixa real é **0,48× a 1,31×**, e ela cruza o 1,0 a partir do rank 3.
+
+---
+
+### 🎯 Pergunta 1 da decisão 240 — o combo passa a disparar? Contra quem?
+
+**Sim — e só com os DOIS consertos.** Nenhum deles sozinho tira o combo do zero:
+
+| Braço | Clímax r1 | Clímax r3 | Clímax r5 |
+|---|---|---|---|
+| 18ª — regra antiga + gatilho por essência | 0,00 | 0,00 | 0,00 |
+| **só** a regra nova (240), gatilho por essência | 0,00 | 0,00 | 0,00 |
+| **só** o gatilho por ação, regra antiga | 0,00 | 0,00 | 0,00 |
+| **os dois — regra 240 + gatilho por AÇÃO** | 0,02 | **1,72** | **3,21** |
+| regra 240 + regra de bolso *(ação pura)* | 0,84 | 1,98 | 3,95 |
+| regra 240 + **cauda de Retaliação precificada** | 0,00 | **0,70** | **2,32** |
+
+*(golpes por cena, somando os quatro PJs; o teto é 4,00 — um golpe registrado por PJ por cena)*
+
+**Contra os 0,19 golpes/cena da 18ª**, que eram o gatilho antigo **forçado** (`boss is not None`) e não uma decisão: com os dois consertos o Clímax de rank 5 sai de 0,19 para **3,21** — dezessete vezes mais — e o gatilho da própria 18ª media **0,00**.
+
+**Por PJ, no Clímax:** rank 3 — Xie Lang 0,77 · Demvi 0,95 · Jiāotáng e Lee **0,00**; rank 5 — Demvi 1,00 · Xie Lang 0,81 · Jiāotáng 0,70 · Lee 0,70.
+
+**Contra quem, molde a molde** *(o alvo entra inteiro na conta; A = gatilho por ação, P = regra de bolso)*:
+
+| Rank | Guerreiro | Elite | Mestre de Gu | Chefe `63×M` | Chefe `94×M` | Chefe rank +1 | Horda de 8 |
+|---|---|---|---|---|---|---|---|
+| **1** | só Xie | só Xie | só Xie | **ninguém** *(P: Xie)* | ninguém *(P: Xie)* | ninguém *(P: Xie)* | ninguém |
+| **3** | Xie, Demvi | Xie, Demvi | Xie, Demvi | **só Xie** *(P: +Demvi)* | ninguém *(P: os 2)* | ninguém *(P: os 2)* | ninguém *(P: os 2)* |
+| **5** | **os quatro** | **os quatro** | **os quatro** | **Xie, Demvi** *(P: os 4)* | **só Xie** *(P: os 4)* | ninguém *(P: os 4)* | ninguém *(P: os 4)* |
+
+> [!warning] ⚠️ A regra de bolso da decisão 240, medida, é **permissiva demais** — e contradiz a tabela logo acima dela
+> *"Dispare quando o alvo não cairia com um ataque normal"* manda disparar contra **Guerreiro, Elite, Mestre de Gu e até Horda de 8** a partir do rank 3, porque nenhum deles cai com um golpe só. A mesma tabela de [[⚡ Golpes Matadores]], duas linhas acima, diz *"Guerreiro, Recruta, horda — **Não**"*. **As duas frases da mesma seção discordam.**
+>
+> O que separa as duas é o que a regra de bolso não menciona: **o alvo precisa sobreviver ao golpe também**, não só ao ataque comum. A formulação que reproduz a tabela é *"dispare quando o alvo não cai com um ataque comum **e ainda estaria de pé depois do golpe**"* — mas `03 — Gu` é território da sessão paralela: **reportado, não editado.**
+
+---
+
+### 🏰 Pergunta 2 da decisão 240 — o que isso move na cena de Chefe?
+
+**Quase nada. E essa é a resposta que importa.**
+
+| Braço | rank 1 | rank 2 | rank 3 | rank 4 | rank 5 |
+|---|---|---|---|---|---|
+| **18ª (publicado)** | 27,5% | 96,0% | 99,7% | 98,4% | 99,7% |
+| **regra 240 + gatilho por AÇÃO** | 27,5% | 96,0% | **96,1%** | **95,2%** | **95,4%** |
+| regra 240 + regra de bolso | 24,5% | 96,0% | 93,4% | 90,6% | 91,8% |
+| regra 240 + **cauda precificada** | 26,9% | 96,0% | 99,3% | 97,7% | 98,0% |
+| **Δ (gatilho por ação − 18ª)** | −0,0pp | +0,0pp | **−3,6pp** | **−3,2pp** | **−4,3pp** |
+| Δ (cauda precificada − 18ª) | −0,6pp | +0,0pp | −0,4pp | −0,7pp | −1,7pp |
+
+> [!danger] 🔴 O achado da rodada: **o Clímax não recupera o clímax**
+> A hipótese registrada em "Em aberto" era que os dois problemas tinham a mesma solução — *"se o Golpe Matador não paga, o grupo derruba o Chefe no ataque comum, e o combo nunca entra na cena que foi construída em torno dele"*. **A medição responde: não.** Com o combo disparando **3,21 vezes por cena de Clímax de rank 5**, a vitória do grupo cai de 99,7% para **95,4%** — e para **98,0%** sob a leitura conservadora. A faixa que "Clímax" promete é **56-87%**. Nenhuma das leituras chega perto.
+>
+> **Os dois problemas são independentes.** O Chefe ficou fácil por causa da paridade de Níveis de ficha (bug 2 da 18ª, até +15,9pp), e o Golpe Matador não estava segurando nada. Como o molde do Chefe fica intocado por decisão do autor, **este número serve para dimensionar a mudança depois**, e agora ele está livre da variável do combo.
+>
+> E o sinal é o oposto do esperado: **disparar o combo PIORA a cena para o grupo em todo rank medido.** Nenhuma célula melhora.
+
+---
+
+### 🔴 Por que piora — e o que virou o gargalo
+
+O disparo muda três coisas ao mesmo tempo. Duas foram isoladas e uma sobrou.
+
+**(1) A troca de foco NÃO é a causa.** O gatilho manda o golpe no Chefe enquanto o ataque comum concentraria fogo no mais ferido. Medido com o golpe caindo **exatamente onde o ataque comum cairia**: `27,5 / 96,0 / 96,1 / 95,2 / 95,4%` — **idêntico em todas as cinco células**, até a segunda casa.
+
+**(2) O gargalo é a Retaliação.** Falhar o teste deixa **todos os Gu do combo inutilizáveis pelo resto da cena** — o PJ passa a bater com dado cru. Precificado:
+
+| PJ | rank | `p` | perda por rodada *(`e_norm − e_cru`)* | rodadas de cena | **perda esperada** | **ganho do golpe** |
+|---|---|---|---|---|---|---|
+| **Xie Lang** | 3 | 80% | 29,1 | 5,7 | **27,4** | 8,4 |
+| | 5 | 85% | 139,9 | 4,7 | **77,6** | 54,8 |
+| **Jiāotáng** | 5 | 80% | 178,5 | 4,7 | **132,1** | 10,4 |
+| **Lee** | 5 | 80% | 194,5 | 4,7 | **143,9** | 8,2 |
+| **Demvi** | 5 | 85% | 166,5 | 4,7 | **92,4** | 29,2 |
+
+**Em 12 de 12 células medidas a perda esperada supera o ganho.** É por isso que a heurística por ação — que só enxerga o horizonte curto contra o alvo — dispara, e a heurística com a cauda precificada não.
+
+**(3) Quanto falta, em taxa de conjuração.** Igualando ganho e perda:
+
+| PJ | `p` de equilíbrio r1 / r3 / r5 | `p` que a decisão 240 entrega | **falta** |
+|---|---|---|---|
+| **Xie Lang** | 91% / 90% / **88%** | 80 / 80 / 85% | +10,8 / +10,1 / **+3,0pp** |
+| **Demvi** | 98% / 95% / 92% | 80 / 80 / 85% | +17,7 / +14,6 / +7,5pp |
+| **Jiāotáng** | **146%** / 96% / 93% | 75 / 75 / 80% | +71,2 / +21,1 / +13,4pp |
+| **Lee** | **115%** / 96% / 94% | 75 / 75 / 80% | +40,0 / +20,6 / +13,8pp |
+
+> [!important] 🎯 O que isso diz sobre a etapa 2 (decisão 241)
+> **A decisão 240 fechou a maior parte da distância e não fechou a distância.** Faltam de **3,0pp** (Xie Lang no rank 5, quase lá) a **21pp** nos ranks 3-5, e no **rank 1 dos dois PJs de corpo a corpo a distância é intransponível** — o `p` de equilíbrio é 115% e 146%, ou seja, **nenhuma taxa de conjuração faz o combo pagar ali**, nem 100%.
+>
+> Isto é evidência **a favor** da etapa 2 já registrada como decisão 241, e por um motivo mais forte do que o que a motivou: não é que o combo perca a disputa de dano por pouco — é que **a Retaliação cobra mais do que qualquer ganho de dano possível**, e nenhum ajuste de confiabilidade ou de custo alcança isso. Enquanto o combo competir por dano, ele perde. **Medir a Prerrogativa e a Abertura juntas é a próxima rodada**, e esta aqui é a linha de base de "só confiabilidade" que a decisão 241 pediu.
+
+---
+
+### 👥 O que republicar em `06` — e a resposta é: **quase nada**
+
+Sob a leitura conservadora (`cauda precificada`), que é a que modela um jogador que enxerga a Retaliação, a bateria de grupo fica praticamente onde a 18ª a deixou:
+
+| Composição | faixa que a nota promete | 18ª publicada *(r1/r3/r5)* | **19ª — rank 1** | **19ª — rank 3** | **19ª — rank 5** |
+|---|---|---|---|---|---|
+| **Fácil** | ≈100% | 100 / 100 / 100 | 100% | 100% | 100% |
+| **Padrão** | 75-99% | 98-99 / 97-99 / 100 | 98,3-99,6% | 95,8-98,9% | 98,8-99,8% |
+| **Padrão pesado** | 53-77% | 83-91 / 85-95 / 97-99 | 82,7-91,4% | 85,1-95,0% | 97,0-99,1% |
+| **Difícil** | ~40-52% | 59-78 / 80-94 / 79-95 | 60,0-78,4% | 78,4-92,3% | 77,1-95,1% |
+| **Clímax** *(Chefe + Guerreiro)* | 56-87% | 17-38 / 98-100 / 99-100 | 17,0-38,3% | 98,6-99,7% | 97,4-99,8% |
+
+**Nenhuma célula anda mais de 3pp**, e a tabela de ações do Chefe move −0,6 / 0,0 / −0,4 / −0,7 / −1,7pp. **Nenhum número publicado precisa mudar por causa desta rodada.** O que precisa mudar em [[⚔️ Ameaças Genéricas por Rank]] é a **prosa** que repetia a conclusão retirada da 18ª — a frase que dizia que o combo não compensa contra Chefe nenhum *"porque a essência que ele custa compra 16 a 40 ataques comuns"* — e ela foi corrigida.
+
+*(Sob o gatilho por ação sem a cauda precificada, três composições andariam 5 a 20pp para baixo — Padrão pesado de rank 3 iria a 68-79% e Difícil a 58-75%. **Não republicado**, porque essa leitura modela um jogador que dispara um golpe cuja Retaliação ele não precificou; publicar isso seria assar a má jogada dentro da tabela de dificuldade.)*
+
+---
+
+### ⚔️ PvP e cena solo — o combo continua não sendo alavanca de duelo
+
+Com os dois consertos, o Xie Lang passa a disparar **0,15 golpe por duelo** e **0,19 por cena solo** (os outros três seguem em 0,00). O placar de PvP anda **no máximo +1,0pp** (Xie Lang no rank 5: 19,6% → 20,6%), a cena solo anda no máximo −0,4pp, e **o critério do autor não muda em rank nenhum** (`D✘J✔` nos três). A leitura da decisão 238(f) fica confirmada com a regra nova: **a gaveta do Golpe Matador continua fechada como resposta à curva do Xie Lang.**
+
+---
+
+### ⚠️ Limites declarados desta rodada
+
+- **A heurística otimiza dano esperado, não sobrevivência.** O uso que a nota chama de legítimo — *"jogada de última rodada"*, com o grupo já ferido — está fora do que ela mede, porque o motor não modela "estou prestes a cair".
+- **O golpe do combo perde o `+ FOR` do dano melee.** É a leitura de que o combo é uma sequência de Gu e não um golpe de arma — herdada da 18ª —, e é ela que põe Jiāotáng e Lee abaixo de 1,0× no rank 1.
+- **A Sobrecarga dos apoios e a Queima deliberada ([[💀 A Morte dos Gu]]) continuam fora do motor**, nesta rodada como em todas as anteriores. As duas só pioram o lado do combo, então o veredito não muda de sinal.
+- **A decisão 241 (Prerrogativa + Abertura do disparo) NÃO está nesta medição.** A rodada estava em execução quando ela foi registrada; ela é a linha de base de "só confiabilidade", exatamente como a decisão 241 previu.
 
 ---
 
