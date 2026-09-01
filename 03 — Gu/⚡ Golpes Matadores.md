@@ -188,6 +188,8 @@ Falhar no teste de conjuração não é só "não acontece nada". Os Gu foram fo
 > Com o pool dobrado, o dano esperado por ação sobe para **2,2× a 2,5×** o de um ataque comum nos ranks 3 a 5 — folgadamente acima do ponto de equilíbrio, mesmo pagando a perda de arsenal nas falhas. **A Retaliação continua brutal de propósito:** ela é o preço de uma jogada que agora ganha a luta quando sai.
 >
 > **Na prática de mesa:** o Golpe Matador voltou a ser a maior jogada do personagem, e continua sendo uma aposta. Dispare quando a cena valer a aposta — contra o alvo que decide a luta, não contra o próximo capanga. Perder o combo contra um Guerreiro é perder a essência, o arsenal da cena e a chance de usá-lo quando importava.
+>
+> **E os números acima são otimistas, não pessimistas.** Duas coisas que encarecem o combo ficaram fora de toda medição feita até hoje: a **Sobrecarga dos apoios** (Gu de rank menor que o núcleo se esgotam num `1d6`) e a **Queima deliberada** ([[💀 A Morte dos Gu]]). As duas só pesam contra quem dispara, então nenhum achado muda de sinal — mas o **custo real de falhar é maior do que o que foi medido**, e quem for recalibrar isto depois deve saber que está lendo o piso do custo, não o teto.
 
 ### 💀 O que o golpe custa aos próprios Gu
 
