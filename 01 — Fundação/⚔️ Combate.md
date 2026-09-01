@@ -280,7 +280,19 @@ Um rank 5 com machado pesado e um Gu de Força de rank 5 ativo, no estágio Alto
 
 ## ☯️ Marcas de Dao — o dano depois do rank 6
 
-A partir do rank 6 não há mais estágios, e portanto não há mais Densidade. **O nível de domínio ocupa o lugar dela em B.**
+A partir do rank 6 não há mais estágios. O lugar deles é ocupado por **dois** números diferentes, e confundi-los é o erro mais fácil de cometer aqui:
+
+> [!important] Dois B, e eles não se misturam
+> | | Conta | Alimenta |
+> |---|---|---|
+> | **Densidade Imortal** | Marcas **totais**, de todos os Caminhos | **Vitalidade** — `(18 + 3×CON + 4×Densidade) × M` |
+> | **Nível de domínio** | Marcas **daquele Caminho** | **Dano e Níveis de Potência** — `M d? + (M × domínio)` |
+>
+> A leitura de mesa que a separação compra de graça: **muitas Marcas espalhadas = duro e inofensivo; poucas Marcas concentradas = frágil e letal.** É a diferença entre o veterano que ninguém consegue matar e o especialista que mata em duas trocas — e agora ela tem número.
+>
+> A régua de dificuldade imortal (o **ΔB** da seção de Imortais em [[⚔️ Ameaças Genéricas por Rank]]) mede **domínio**, não Densidade: ela continua valendo sem alteração, porque Densidade não toca dano.
+
+A tabela abaixo é a do **nível de domínio** — a metade que entra no dano. A de Densidade Imortal vive em [[☯️ Marcas de Dao]].
 
 | Nível de domínio | Marcas no Caminho | **B** | Pool |
 |---|---|---|---|

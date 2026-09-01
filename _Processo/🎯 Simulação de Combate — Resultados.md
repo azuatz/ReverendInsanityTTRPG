@@ -1285,6 +1285,7 @@ A **vantagem do Imortal aliado** entra como vantagem em uma etapa. O jogo ótimo
 | A Calamidade "sob medida" (os 3 passos) não é modelada como conteúdo | Ela muda **a ficção da etapa**, não o número dela. O que ela move — a CD por faixa — está no fork T3 |
 | Vitalidade/Alma zeradas pelo dano `M d6` são **contabilizadas mas não resolvidas** | A regra **não diz** o que acontece se a Calamidade zerar o trilho. Fica reportado como lacuna, não preenchido |
 | Marcas do evento sorteadas uniformemente na faixa publicada | 200-500 · 1.000-2.000 · 6.000-8.500, dobro para Físico Extremo |
+| O dano `M d6` é rolado **sem o teto de 16 dados** da decisão 225 | O teto é troca de média-por-média: a média de `32d6` e a de `16d6 + 56` são a mesma. Só o **desvio** muda, e todo número desta seção é média. As baterias de combate (ranks 1/3/5) são intocadas por construção — `M ≤ 16` na fase mortal inteira |
 
 ---
 
