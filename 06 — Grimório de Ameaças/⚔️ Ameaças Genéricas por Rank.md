@@ -194,7 +194,7 @@ Os números entre parênteses são a **vitória medida do grupo** numa mesa de 4
 >
 > *(A linha do Clímax foi **recalibrada e revalidada** pela vigésima terceira rodada — decisão 250. As quatro linhas acima dela seguem como a décima oitava as mediu: são as que ainda esperam redesenho de peças.)*
 >
-> **O que NÃO foi feito:** redesenhar as composições para voltarem às faixas. Isso é decisão de design do autor, não conserto de motor. As alavancas já estão nesta nota — mais peças, Chefe de `94 × M`, mais ações por rodada. Detalhe e método em [[🎯 Simulação de Combate — Resultados#🔧 Décima oitava rodada — os três consertos de motor e a revalidação (2026-09-01)|a décima oitava rodada]].
+> **O que NÃO foi feito:** redesenhar as composições para voltarem às faixas — **as quatro acima do Clímax**, que é a única já resolvida (decisão 250). Isso é decisão de design do autor, não conserto de motor, e a alavanca dessas quatro é o **número de peças**, não o molde. *(A alavanca "Chefe de `94 × M`" que esta nota sugeria está **rejeitada por medição** — ver a tabela de Vitalidade e ações do Chefe.)* Detalhe e método em [[🎯 Simulação de Combate — Resultados#🔧 Décima oitava rodada — os três consertos de motor e a revalidação (2026-09-01)|a décima oitava rodada]].
 >
 > **✅ Revalidada pela décima nona rodada** ([[🎯 Simulação de Combate — Resultados#🎯 Décima nona rodada — o Golpe Matador medido por ação (2026-09-01)|2026-09-01]], decisão 242): com o Golpe Matador disparando pela primeira vez, **nenhuma das quinze células anda mais de 3pp**. A tabela acima segue valendo.
 
