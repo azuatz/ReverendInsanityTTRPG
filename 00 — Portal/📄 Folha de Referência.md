@@ -31,7 +31,7 @@ ATRIBUTOS (6, 12 pontos)   FOR · CON · DES · AST · VON · CAR
 GRAU DE DENSIDADE (B)      Inicial 0 · Médio 1 · Alto 2 · Pico 3
 
 Vitalidade máxima  = (18 + 3 × CON + 4 × B) × M
-Alma máxima        = (12 + 2 × VON + 3 × B) × M
+Alma máxima        = (16 + 3 × VON + 3 × B) × M
 Essência máxima    = % de aptidão × 4 × 2^(estágio − 1)    [não escala com rank]
 Ferimento          = −5% permanente em Vitalidade E Alma máximas
 

@@ -62,10 +62,19 @@ Registro vivo dos quatro jogadores e dos personagens. Atualize conforme a criaç
 - **A ressonância é uma assinatura.** Quem souber o que procurar — um adivinho decente, um Gu de rastreamento de Lua ou de Alma, alguém que já tenha sentido aquele Gu antes — consegue **segui-la**. Trate como um degrau permanente de [[👁️ Exposição|Exposição]] que ele não tem como baixar por meios normais: ele pode trocar de rosto, não de ressonância.
 - **E o Gu residual ainda está em algum lugar.** Quem matou os pais dele pode ter ido atrás dele; pode ainda estar indo.
 
-> [!warning] Por que este buff é narrativo — e por que o número que o justificava está em remedição
+> [!important] Medido com o perfil 80:20 — ele é o **terceiro** da mesa, não o primeiro
+> Os números finalmente saíram com o perfil de ataque correto, e eles **invertem** tudo o que se dizia deste personagem. Média de vitória dele nos três duelos, por rank: **33,4% · 39,9% · 43,6%**. Contra cada colega — Jiāotáng / Lee / Demvi: **9,8 / 25,0 / 65,3%** no rank 1, **26,1 / 55,5 / 38,1%** no rank 3, **33,6 / 57,7 / 39,5%** no rank 5. Sozinho contra um Mestre de Gu do próprio rank: **12,7 / 13,8 / 29,2%**.
+>
+> **O novo topo da mesa é o Jiāotáng** (93,5 / 78,3 / 70,3%, decrescendo com o rank). O Xie Lang é o **terceiro de quatro**, e ganha com folga de um colega só, o Demvi, e só no rank 1.
+>
+> **Por que as taxas antigas de 88-99% estavam erradas:** elas o modelavam como atacante **puro de Alma**, com todo o dano furando RD. Com 80% dos ataques vindo pela Lua — d8, na Vitalidade, freado pela RD como o de qualquer um —, ele é outro personagem. O número velho estava obsoleto duas vezes: pelo perfil e pela reversão da economia de Caminho duplo.
+>
+> **A decisão que isto abre, e que é do autor:** o buff dele foi escrito fraco de propósito, quando se acreditava que ele dominava. **Essa premissa caiu.** Fortalecer a *Ressonância* é agora defensável — mas repare que o desequilíbrio maior não é ele: é o **Jiāotáng a 93,5% no rank 1**. Buffar o terceiro colocado não conserta um primeiro colocado desse tamanho, e as duas coisas devem ser decididas juntas. Até lá, o buff fica como está e a mesa deve saber que está assim por decisão pendente, não por acidente.
+
+> [!warning] Por que este buff foi escrito narrativo — a justificativa original, hoje superada
 > **Ele é 80:20 — Lua principal, Alma secundária.** O jogador declarou que na maior parte do tempo ataca pela Lua, deixando a Alma como segundo recurso. Isso importa mais do que parece: **Lua rola d8 contra a Vitalidade e passa pela RD como qualquer um**, enquanto Alma rola d12, ignora RD e armadura e mira uma barra que mais ninguém na mesa ataca. São dois personagens diferentes.
 >
-> **E é aqui que está a ressalva honesta:** todas as medições de duelo dele até agora o modelaram como atacante **puro de Alma** — ou seja, com 100% do dano furando RD. As taxas de vitória altíssimas que circularam saíram desse perfil, e **o perfil estava errado**. Com 80% dos ataques vindo pela Lua e sendo freados por RD, a expectativa é que ele caia bastante; quanto, ninguém sabe ainda. **A remedição está rodando** e os números entram aqui quando fecharem.
+> **E é aqui que estava a ressalva:** todas as medições antigas de duelo o modelavam como atacante **puro de Alma**, com 100% do dano furando RD. As taxas de 88-99% que circularam saíram desse perfil errado. **A remedição fechou** — os números reais estão no aviso acima, e a queda foi bem maior do que se esperava.
 >
 > **Por enquanto o buff fica narrativo de propósito**, e o mestre deve tratar isso como provisório: se a remedição mostrar que ele ficou fraco demais, o lugar de corrigir é aqui, e a *Ressonância* ganha um segundo efeito. Se mostrar que continua dominante, ela fica como está. **Não recalibre a mesa em cima dos números antigos** — eles descreviam um personagem que não é este.
 
@@ -138,14 +147,14 @@ Os quatro no **rank 1, estágio Inicial** (`M = 1`), que é onde a campanha come
 | **VON** | +3 | +1 | +3 | +3 |
 | **CAR** | +2 | 0 | +1 | +2 |
 | **Vitalidade** *(v2)* | **27** | **27** | **24** | **21** |
-| **Alma** *(v2)* | **18** | **14** | **18** | **18** |
+| **Alma** *(v2)* | **25** | **19** | **25** | **25** |
 | **QI** *(Essência)* | 344 | 304 | 252 | 224 |
 | **Defesa** | 14 | 13 | 13 | **15** |
 | Golpes registrados *(AST+1)* | 3 | 2 | 2 | 3 |
 | Aliados *(CAR+1)* | 3 | 1 | 2 | 3 |
 | Pontos de Plano *(2 + maior de AST/CAR)* | 4 | 3 | 3 | 4 |
 
-**Vitalidade** `(18 + 3 × CON + 4 × B) × M` · **Alma** `(12 + 2 × VON + 3 × B) × M` · **QI** `% × 4 × 2^(estágio−1)` · **Defesa** `10 + DES + rank` (+ rank do Gu de movimento sustentado). `B` = Grau de Densidade do estágio, 0 no Inicial — ver [[🪜 Ranks e Estágios]].
+**Vitalidade** `(18 + 3 × CON + 4 × B) × M` · **Alma** `(16 + 3 × VON + 3 × B) × M` · **QI** `% × 4 × 2^(estágio−1)` · **Defesa** `10 + DES + rank` (+ rank do Gu de movimento sustentado). `B` = Grau de Densidade do estágio, 0 no Inicial — ver [[🪜 Ranks e Estágios]].
 
 > ✅ **As quatro fichas fecham exatas em 12 pontos.** Lembrando a tabela de [[💪 Atributos]]: o degrau **+3 → +4 custa 2 pontos**, não 1, e **0 → −1 devolve 1**. Xie Lang gasta 13 e recebe 1 de volta pelo FOR −1; Jiāotáng gasta 5 no FOR +4 e 7 no resto; Lee gasta 12 diretos; Demvi gasta 5 no DES +4, 8 no resto, e recebe 1 de volta pelo FOR −1. A distribuição do Jiāotáng é exatamente o exemplo **"Lutador de clã"** que a nota de Atributos já lista como legal.
 
@@ -164,7 +173,7 @@ Tabela de acompanhamento pronta pra ficha. Base: **CON +3 · VON +3 · DES +3**,
 
 ```
 Vitalidade = (18 + 3×CON + 4×B) × M = (27 + 4B) × M
-Alma       = (12 + 2×VON + 3×B) × M = (18 + 3B) × M
+Alma       = (16 + 3×VON + 3×B) × M = (25 + 3B) × M
 QI         = 344 × 2^(estágio−1)   ← zera ao subir de rank, e é de propósito
 ```
 
@@ -175,7 +184,7 @@ QI         = 344 × 2^(estágio−1)   ← zera ao subir de rank, e é de propó
 | **Grau (B)** | 0 | 1 | 2 | 3 | 0 | 1 | 2 | 3 |
 | **M** | 1 | 1 | 1 | 1 | 2 | 2 | 2 | 2 |
 | **Vitalidade** | **27** | 31 | 35 | **39** | **54** | 62 | 70 | **78** |
-| **Alma** | **18** | 21 | 24 | **27** | **36** | 42 | 48 | **54** |
+| **Alma** | **25** | 28 | 31 | **34** | **50** | 56 | 62 | **68** |
 | **QI** | 344 | 688 | 1.376 | 2.752 | 344 | 688 | 1.376 | 2.752 |
 | **Defesa** *(sem Gu de mov.)* | 14 | 14 | 14 | 14 | 15 | 15 | 15 | 15 |
 | Resistência / ordem de turno | — | +1 | +2 | +3 | — | +1 | +2 | +3 |
@@ -212,7 +221,7 @@ Corte à distância que **ignora cobertura parcial** e aplica **frio Yin** (−2
 
 ### 👻 O dano espiritual — Caminho da Alma, dado base **d12**
 
-**Ignora RD, armadura e Defesa física por completo.** A Defesa contra ele é `10 + VON + rank` do alvo. Custo ×1,25 como todo Gu de Alma.
+**Ignora RD, armadura e Defesa física por completo.** A Defesa contra ele é `10 + VON + 2 × rank` do alvo. Custo ×1,25 como todo Gu de Alma.
 
 **Rank 1 — Gu da Agulha de Sussurro** *(passo −1 → d10)* · **1 dado** · alcance 10 m
 

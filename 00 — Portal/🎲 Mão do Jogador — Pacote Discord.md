@@ -170,7 +170,7 @@ FOR 〖  〗  DES 〖  〗  CON 〖  〗  VON 〖  〗  AST 〖  〗  CAR 〖  �
 # 🧮 Preenchendo os números (rank 1)
 
 - **Vitalidade** = `18 + 3×CON`
-- **Alma** = `12 + 2×VON`
+- **Alma** = `16 + 3×VON`
 - **QI (Essência)** = `% de aptidão × 4`
 - **Defesa** = `11 + DES` *(não esqueça o +1 do rank!)*
 - **CD dos seus Gu** = `11 + VON`

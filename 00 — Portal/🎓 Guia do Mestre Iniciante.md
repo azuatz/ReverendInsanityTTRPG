@@ -66,7 +66,7 @@ Cole isto na cabeça e 80% do sistema fica óbvio.
 | Espaços de magia | **Essência** (um tanque de pontos) + **teto de Gu sustentados** | Não são slots por nível: é um tanque só, e um limite de quantos ficam ligados ao mesmo tempo |
 | Grimório do mago | **Receita de refino** / **Herança** | Sem a receita, você não faz o Gu. Com ela, você faz — e é isso que se rouba neste mundo |
 | CA (Classe de Armadura) | **Defesa** | `10 + DES + rank + rank do Gu de movimento ativo`. Ninguém rola pra defender |
-| PV | **Vitalidade** *e* **Alma** — duas barras separadas | `(18 + 3×CON + 4×B) × M` e `(12 + 2×VON + 3×B) × M`. Dano de Alma **ignora armadura e RD por completo** |
+| PV | **Vitalidade** *e* **Alma** — duas barras separadas | `(18 + 3×CON + 4×B) × M` e `(16 + 3×VON + 3×B) × M`. Dano de Alma **ignora armadura e RD por completo** |
 | Resistência a dano | **RD** | Subtrai do dano rolado. Duas fontes: a maior + metade da segunda |
 | Poção de cura | **Gu de Grama Curativa** (`M d8`, morre no uso) | Tradução 1:1. Só que é escassa e devolve mais ou menos o que um golpe tira |
 | Item mágico +1 | **Arma/armadura de material de fera** (arma: +1 no acerto · armadura: +1 RD — uma vez só) | Ou um Gu. Não existe loja de item mágico |
@@ -261,7 +261,7 @@ Aptidão 63% (Grau de aptidão B)   Rank 1, Estágio Inicial   M = 1   B (Grau d
 
 FOR +3   CON +3   DES +2   AST +2   VON +2   CAR −1     (13 pontos)
 
-Vitalidade  27   (18 + 3×3)        Alma      16   (12 + 2×2)
+Vitalidade  27   (18 + 3×3)        Alma      22   (16 + 3×2)
 Essência   252   (63 × 4)          Regeneração  6 / minuto, fora de combate
 Defesa      13   (10 + 2 + 1 + 0)  ← sem Gu de movimento ainda
 Acerto melee  d20 + 6              Acerto de Gu  d20 + 5 + rank do Gu
@@ -476,7 +476,7 @@ M              1 · 2 · 4 · 8 · 16 · 32 · 64 · 128 · 256   ← quantos da
 Dado           d12 Alma/Espada/Relâmpago · d10 Fogo/Vento · d8 Lua/Sangue/
                Veneno/Sombras · d6 utilitários (+2 na CD deles)
 B              Grau do estágio (0·1·2·3) + Níveis excedentes
-Vitalidade     (18 + 3×CON + 4×B) × M   Alma  (12 + 2×VON + 3×B) × M
+Vitalidade     (18 + 3×CON + 4×B) × M   Alma  (16 + 3×VON + 3×B) × M
 Essência       % de aptidão × 4 × 2^(estágio−1)
 Regeneração    % do tanque/hora pelo Grau (D 2 · C 4 · B 6 · A 8) — FORA de combate
 Ativar um Gu   40 (rank próprio) · 10 · 4 · 1 (por rank abaixo)

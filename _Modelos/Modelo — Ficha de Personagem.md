@@ -39,7 +39,7 @@ escopo: sistema
 ```
 Essência máxima   = % de abertura × 4 × 2^(estágio − 1)
 Vitalidade máxima = (18 + 3 × CON + 4 × B) × M
-Alma máxima       = (12 + 2 × VON + 3 × B) × M
+Alma máxima       = (16 + 3 × VON + 3 × B) × M
 ```
 
 | Recurso | Atual / Máximo |

@@ -50,7 +50,7 @@ escopo: processo
 | [[⚙️ Fundação]] | Nota-mãe |
 | [[🏛️ Arquitetura do Sistema]] | **A nota mais importante do vault** — os dois eixos, a Ponte, o tom de sobreviventes |
 | [[⚔️ Combate]] | **O motor: pool de dados** — `M d(dado do Caminho) + (M × B)`, a tabela de letalidade dos 4 perfis de Caminho, Níveis de Dano em dois tempos, rolagem rápida, RD e dano melee |
-| [[❤️ Recursos e Dano]] | Vitalidade `(18 + 3 × CON + 4 × B) × M` e Alma `(12 + 2 × VON + 3 × B) × M`, Teste de Morte, **definição de Ferimento**, cura, descanso, retrocesso |
+| [[❤️ Recursos e Dano]] | Vitalidade `(18 + 3 × CON + 4 × B) × M` e Alma `(16 + 3 × VON + 3 × B) × M`, Teste de Morte, **definição de Ferimento**, cura, descanso, retrocesso |
 | [[💪 Atributos]] | **FOR/CON/DES/AST/VON/CAR**, 12 pontos. Força = melee, Vontade = Gu, Constituição = vida e portão dos Gu de Corpo, Destreza = Defesa, Astúcia lê o mundo, Carisma lê as pessoas |
 | [[🏃 Fuga e Perseguição]] | Desengajar, perseguição em 3 rodadas, e sacrificar algo pra escapar — o pilar "fugir tem regra própria" |
 | [[🕵️ Preparação e Informação]] | Ficha de Plano e Pontos de Plano, as 5 vias de conseguir informação, informação plantada — o pilar "quem prepara, vence" |

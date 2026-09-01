@@ -72,7 +72,7 @@ As fórmulas de [[❤️ Recursos e Dano|Recursos e Dano]] passam a incluir o es
 
 ```
 Vitalidade = (18 + 3 × CON + 4 × Grau) × M
-Alma       = (12 + 2 × VON + 3 × Grau) × M
+Alma       = (16 + 3 × VON + 3 × Grau) × M
 ```
 
 Isso mantém intacta a calibragem central do sistema: **um alvo com atributo 0 continua caindo em ~3 acertos de um Gu d10 do próprio rank, em qualquer estágio.** O dano e a carne crescem no mesmo compasso — o que cresce de verdade entre estágios é a distância pra quem ficou pra trás.

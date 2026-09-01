@@ -38,7 +38,7 @@ Distribua o que sobrou dos **12 pontos** entre Força, Constituição, Destreza,
 
 ```
 Vitalidade máxima  = (18 + 3 × CON + 4 × B) × M
-Alma máxima        = (12 + 2 × VON + 3 × B) × M
+Alma máxima        = (16 + 3 × VON + 3 × B) × M
                      (B = Grau de Densidade — no estágio Inicial, B = 0)
 Defesa             = 10 + DES + rank + rank do Gu de movimento ativo
                                             (no rank 1, sem Gu: 11 + DES)
@@ -105,7 +105,7 @@ Um personagem genérico, sem ligação com nenhum PJ de nenhuma campanha de refe
 | Número | Conta | Resultado |
 |---|---|---|
 | Vitalidade máxima | (18 + 3×4 + 4×0) × 1 | **30** |
-| Alma máxima | (12 + 2×3 + 3×0) × 1 | **18** |
+| Alma máxima | (16 + 3×3 + 3×0) × 1 | **25** |
 | Essência máxima | 60 × 4 | **240** |
 | Defesa | 11 + 2 (sem Gu de movimento ainda) | **13** |
 | Acerto melee | d20 + 1 + 3 | **d20 + 4** |

@@ -62,7 +62,7 @@ O preço da minha traição:
 | Campo | Conta | No rank 1 |
 |---|---|---|
 | **Vitalidade** | `(18 + 3 × CON + 4 × B) × M` | `18 + 3 × CON` |
-| **Alma** | `(12 + 2 × VON + 3 × B) × M` | `12 + 2 × VON` |
+| **Alma** | `(16 + 3 × VON + 3 × B) × M` | `16 + 3 × VON` |
 | **QI** *(Essência)* | `% de aptidão × 4 × 2^(estágio − 1)` | `% × 4` |
 | **Defesa** | `10 + DES + rank + rank do Gu de movimento ativo` | `11 + DES` |
 | **CD dos seus Gu** | `10 + VON + rank do Gu` | `11 + VON` |
@@ -109,7 +109,7 @@ Não são enfeite — são o que faz a mesa funcionar.
 
 ```
 **Nome:** Gu Yue Xie Lang               **Idade:** 15
-**Vitalidade:** 27 / 27                **Alma:** 18 / 18
+**Vitalidade:** 27 / 27                **Alma:** 25 / 25
 **QI:** 344 / 344                      **Defesa:** 14
 **CD:** 14                             **M:** 1     **Rank:** 1 Inicial
 
@@ -143,11 +143,11 @@ Vínculo com o mundo:
 O preço da minha traição:
 ```
 
-**De onde saem esses números:** QI 344 é `86% × 4` — a Aptidão dele é 86%, saiu assim no dado e **fica assim**: nada na campanha sobe esse número ([[🌟 Aptidão e Abertura|Aptidão e Abertura]]). Gu que cabem na Abertura: `(86 ÷ 10) + 1 = 9`. Os atributos somam exatamente 12 (o −1 em Força devolve 1 ponto, e os outros custam 13). Vitalidade `18 + 3×3 = 27`; Alma `12 + 2×3 = 18`; Defesa `10 + 3 + 1 = 14`; CD `10 + 3 + 1 = 14` contra um Gu de rank 1. No **estágio Inicial o Grau (B) é 0**, então nada é somado ainda — é a partir do Médio que a ficha começa a crescer dentro do rank.
+**De onde saem esses números:** QI 344 é `86% × 4` — a Aptidão dele é 86%, saiu assim no dado e **fica assim**: nada na campanha sobe esse número ([[🌟 Aptidão e Abertura|Aptidão e Abertura]]). Gu que cabem na Abertura: `(86 ÷ 10) + 1 = 9`. Os atributos somam exatamente 12 (o −1 em Força devolve 1 ponto, e os outros custam 13). Vitalidade `18 + 3×3 = 27`; Alma `16 + 3×3 = 25`; Defesa `10 + 3 + 1 = 14`; CD `10 + 3 + 1 = 14` contra um Gu de rank 1. No **estágio Inicial o Grau (B) é 0**, então nada é somado ainda — é a partir do Médio que a ficha começa a crescer dentro do rank.
 
 **A leitura da ficha:** ele tem mais QI que qualquer outro na mesa e mal consegue erguer uma espada. É o que a distribuição de pontos dele diz em voz alta — **VON 3 e AST 2 contra Força −1**: tudo se resolve por Gu, nada se resolve pelo corpo. Com Força −1, ele **precisa** que o primeiro Gu seja ofensivo, ou passa a primeira sessão inteira sem ter o que fazer num combate.
 
-O que ele tem de fora do comum não está em atributo nenhum: é o **Buff de Lore** dele, a *Ressonância da Montanha Fria* — **Lua e Alma contam como um Caminho só**, os dois em força plena ([[🎲 A Mesa — Personagens dos Jogadores|A Mesa]]). Isso não soma um ponto de dano; soma **eficiência de longo prazo**, porque ele monta dois arsenais pelo preço de um. Uma ficha vazia de exceção numérica e cheia de escolha de Caminho é exatamente o formato que esta folha foi feita pra segurar.
+O que ele tem de fora do comum não está em atributo nenhum: é o **Buff de Lore** dele, a *Ressonância da Montanha Fria* — **uma vez por arco, quando ele cairia, ele fica de pé** ([[🎲 A Mesa — Personagens dos Jogadores|A Mesa]]). Isso não soma um ponto de dano em lugar nenhum da ficha: ele é **cultivo duplo normal** em Lua e Alma, com as Marcas se dividindo entre os dois. Uma ficha vazia de exceção numérica e cheia de escolha de Caminho é exatamente o formato que esta folha foi feita pra segurar.
 
 ---
 
