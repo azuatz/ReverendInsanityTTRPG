@@ -333,3 +333,20 @@ mecânica, mas os valores de rank 1 e 2 foram **remedidos** na bateria conjunta
 mudaram de número na mesma varredura. Escrever os valores antigos da 258 de
 volta seria trocar um número errado por outro. **Devolvido à sessão que tem a
 bateria**, com o diagnóstico fechado: acrescentar a quinta coluna e redistribuir.
+
+**✅ CORRIGIDO** pela sessão que fez a medição — decisão 263. A quinta coluna
+existe, os três consertos de rank 4 moraram nela, e o rank 3 recuperou o
+conserto próprio (+1 ação em 1 Mestre) **com o número da bateria conjunta**,
+não com o valor antigo da 258 — que era exatamente a razão de o achado ter sido
+devolvido em vez de corrigido aqui. A tabela de faixas logo abaixo tinha o mesmo
+defeito de colunas e foi reconstruída junto. Estado publicado: **25 de 25
+células na faixa**, agora com a coluna onde os números cabem.
+
+> [!note] A lição de formato, que é gêmea da lição de método da 262
+> As duas rodadas erraram no **formato que recebeu o número**, não no número. A
+> 262 aprendeu que medir só ranks ímpares esconde o pior valor da tabela; esta
+> aprende que **publicar numa tabela sem a coluna do rank medido esconde a
+> medição inteira** — os três consertos de rank 4 existiam no Log e não
+> chegavam a mestre nenhum. Nos dois casos o defeito só apareceu porque alguém
+> de fora leu o diff, o que é o argumento mais concreto que este vault tem a
+> favor de duas sessões conferindo uma à outra.
