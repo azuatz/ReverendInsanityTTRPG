@@ -2758,7 +2758,14 @@ Varredura de `vit_mult` por rank, escolhendo a célula que acerta vitória **e**
 
 ---
 
-## ✅ Vigésima terceira rodada — o Chefe recalibrado, aplicado e revalidado *(2026-09-01)*
+## ⚠️ Vigésima terceira rodada — o Chefe recalibrado *(2026-09-01)* — **NÚMEROS SUPERADOS**
+
+> [!danger] Os números desta seção e da vigésima segunda estão errados — ver a correção no fim
+> As duas rodadas chamaram `configura()` **sem `niveis=`**, herdando o default `"17ª — só a Lee"`: **três dos quatro PJs rodaram sem os Níveis de Potência das fichas deles**, que é o bug que a décima oitava rodada consertou. Mediram um grupo mais fraco que o real.
+>
+> **A escada correta é `63 / 80 / 100 / 94 / 115 × M`**, não a `63/72/78/72/80` publicada abaixo — e a rejeição do `94 × M` do autor era artefato. **O conserto do rank 1 (quatro ações → duas) sobrevive intacto e mais forte.** Decisão 253; números refeitos ao fim desta seção.
+
+### *(Registro original, preservado — os números abaixo são os da medição contaminada)*
 
 Script: [`2026-09-01-vigesima-terceira-chefe-aplicado.py`](simulacoes/2026-09-01-vigesima-terceira-chefe-aplicado.py) · 3.000 iterações/célula · semente `20260830`.
 
@@ -2799,6 +2806,25 @@ Isso corrige uma justificativa publicada. A nota dizia que *"o rank 1 é duro po
 ### 📌 O que continua aberto
 
 **As quatro composições acima do Clímax seguem fora das faixas que prometem** — Padrão pesado e Difícil desde a décima oitava rodada, e a revalidação confirma que nada nelas se moveu. Esta rodada fecha a linha do Chefe e só ela; o redesenho de peças das outras continua esperando o autor.
+
+### ✅ A correção (decisão 253) — a mesma varredura com o grupo modelado inteiro
+
+| Rank | Ações | **Vitalidade** | Vitória | Rodadas |
+|---|---|---|---|---|
+| 1 | **2** *(era 4)* | `63 × M` | **76,5%** | 6,51 |
+| 2 | 2 | **`80 × M`** | **86,0%** | 7,47 |
+| 3 | 2 | **`100 × M`** | **87,0%** | 8,33 |
+| 4 | 3 | **`94 × M`** | **83,8%** | 7,20 |
+| 5 | 3 | **`115 × M`** | **85,1%** | 7,71 |
+
+**A proposta original do autor estava certa; a rejeição dela é que era artefato.** O `94 × M` acerta o rank 4 em cheio e fica perto no rank 3 — o defeito dele era ser **uniforme**, não ser grande demais.
+
+**E o rank 1 fica ainda mais claro do que estava.** Ele não responde a barra nenhuma: com quatro ações, **`150 × M` ainda dá 0% de vitória ao grupo**. Só ações o movem. A leitura "ações governam a dificuldade, Vitalidade governa o ritmo" é a única conclusão da rodada anterior que o bug não contaminou — porque ela se apoiava num contraste que o bug afetava dos dois lados.
+
+> [!warning] O hábito que causou o erro, para não repetir
+> `configura()` tem como default um estado historicamente errado (`"17ª — só a Lee"`). Qualquer script que a chame sem `niveis=` herda o bug **em silêncio**. Toda bateria nova deve partir de `BASE20`, ou passar `niveis="paridade — ordinária"` explicitamente.
+>
+> **A vigésima primeira rodada (o preço da captura) usou o mesmo default** e portanto também mediu o grupo enfraquecido. Os vereditos dela sobre qual tamanho de Coletivo vale são **provisórios** até serem refeitos.
 
 ---
 

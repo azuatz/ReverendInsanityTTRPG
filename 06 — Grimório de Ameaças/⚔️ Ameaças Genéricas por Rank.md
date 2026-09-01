@@ -126,32 +126,35 @@ Um único inimigo contra um grupo perde a ação por turno na maioria dos sistem
 
 | Rank do Chefe | Vitalidade | Ações por rodada | Vitória do grupo *(mesa de 4, com 1 Guerreiro de apoio)* | Duração |
 |---|---|---|---|---|
-| **1** | `63 × M` | **2** | **70%** | 7,2 rodadas |
-| **2** | `72 × M` | **2** | **78%** | 7,9 |
-| **3** | `78 × M` | **2** | **84%** | 8,8 |
-| **4** | `72 × M` | **3** | **78%** | 7,5 |
-| **5** | `80 × M` | **3** | **87%** | 7,4 |
+| **1** | `63 × M` | **2** | **77%** | 6,5 rodadas |
+| **2** | `80 × M` | **2** | **86%** | 7,5 |
+| **3** | `100 × M` | **2** | **87%** | 8,3 |
+| **4** | `94 × M` | **3** | **84%** | 7,2 |
+| **5** | `115 × M` | **3** | **85%** | 7,7 |
 | **6+** | `63 × M` | **4** | ver a régua ΔB dos imortais, mais abaixo | — |
 
-**As cinco células caem dentro da faixa de 56-87% que "Clímax" promete**, e a cena dura 7,2 a 8,8 rodadas — o ritmo de 6-8 da decisão 208, com o rank 3 estourando 0,8 rodada. *(Vigésima segunda e vigésima terceira rodadas, decisões 249 e 251. O rank 6+ segue em `63 × M` de propósito: a fase imortal é dimensionada pela régua ΔB, não por esta tabela.)*
+**As cinco células caem dentro da faixa de 56-87% que "Clímax" promete**, e a cena dura 6,5 a 8,3 rodadas — o ritmo de 6-8 da decisão 208, com o rank 3 estourando 0,3 rodada. *(Decisão 253, que **corrige** os números das decisões 249 e 251 — aquelas duas rodadas mediram com três dos quatro PJs sem os Níveis de Potência das fichas deles, o mesmo defeito de motor que a décima oitava rodada tinha consertado. O rank 6+ segue em `63 × M` de propósito: a fase imortal é dimensionada pela régua ΔB, não por esta tabela.)*
+
+> [!note] A barra que o autor propôs originalmente estava certa — foi a medição que errou
+> A proposta era `94 × M` uniforme, e uma rodada intermediária a rejeitou dizendo que "a magnitude era quase o dobro do necessário". **Aquela rejeição era artefato de um bug de medição.** Remedida com o grupo modelado inteiro, a escada correta é `63 / 80 / 100 / 94 / 115` — ou seja, o `94 × M` acerta o rank 4 em cheio e fica perto no rank 3. **O que sobrevive intacto é o conserto do rank 1**, que nunca foi problema de barra: ele resiste a qualquer Vitalidade (0% de vitória já em `150 × M`) e só responde a **ações**.
 
 > [!danger] 🔴 Estes números foram corrigidos na décima oitava rodada, e o Chefe deixou de ameaçar
 > A tabela publicava **3 / 54 / 87 / 75 / 90%**; remedida com o motor consertado, ela dá **28 / 96 / >99 / 98 / >99%** *(faixa entre os três dials de ficha: 17-38 · 90-98 · 98-100 · 96-99 · 99-100)*. A causa não é o Chefe — é que dezessete rodadas de simulação rodaram com **três dos quatro PJs sem os Níveis de Potência que as fichas deles concedem** (ver [[🎯 Simulação de Combate — Resultados#🔧 Décima oitava rodada — os três consertos de motor e a revalidação (2026-09-01)|a décima oitava rodada]]). Com o grupo modelado inteiro, **um Chefe do rank do grupo não é mais um clímax do rank 2 em diante.**
 >
-> **✅ Resolvido para o molde Chefe (decisão 251).** O autor escolheu a alavanca da Vitalidade, ela foi medida, e o `94 × M` uniforme que se propunha **foi rejeitado por medição**: ele derruba a vitória *abaixo* do piso de 56% nos ranks 1, 2 e 4 e estoura o teto de 8 rodadas em todos os cinco. A escada aplicada é `63/72/78/72/80 × M`, e o rank 1 trocou quatro ações por duas — ver a tabela de Vitalidade e ações acima. As outras quatro composições **não se moveram uma casa decimal** na revalidação, o que era o controle da rodada.
+> **✅ Resolvido para o molde Chefe (decisões 251 e 253).** O autor escolheu a alavanca da Vitalidade e ela foi medida. A escada aplicada é `63/80/100/94/115 × M`, e o rank 1 trocou quatro ações por duas — ver a tabela de Vitalidade e ações acima. *(A decisão 251 tinha publicado `63/72/78/72/80` e a rejeição do `94 × M`; ambos eram artefato de medição com três dos quatro PJs sem os Níveis das fichas. Corrigido pela 253.)*
 >
 > **✅ Revalidado pela décima nona rodada (decisão 242), com o Golpe Matador finalmente disparando.** A suspeita registrada era que o Chefe só parecia fácil porque o combo nunca entrava na cena que foi construída em torno dele. **Medido: os dois problemas são independentes.** Com a regra da decisão 240 e o gatilho contado por ação, o combo dispara e a tabela acima anda **−0,6 / 0,0 / −0,4 / −0,7 / −1,7 pontos percentuais**. **O molde do Chefe fica intocado por decisão do autor**, e o número que vai dimensioná-lo agora está livre da variável do combo.
 >
 > **✅✅ Revalidado outra vez pela vigésima rodada (decisão 246), agora com o portão de rank 3, a Abertura do disparo e o pool dobrado ligados** — e o veredito ficou **mais forte, não mais fraco**. Com todas as regras vivas o Clímax mede **99,3 / 98,5 / 96,8%** nos ranks 3/4/5: o rank 5 anda **+1,4pp na direção errada**. **Um Golpe Matador mais forte torna a cena de Chefe mais difícil para o GRUPO, não para o Chefe** — porque disparar custa o arsenal, e o grupo que dispara sempre perde 14 pontos de vitória em média. **O Golpe Matador não segura a cena de Chefe em nenhuma versão da regra; o reforço do Chefe tem de vir do Chefe.**
 
 > [!success] ✅ O Chefe de rank 1 deixou de ser a exceção — e a causa não era falta de calibragem
-> Ele media **17-28%**, de longe a célula mais dura da tabela inteira e a única abaixo da faixa que "Clímax" promete. **A causa era um número fora da escada:** o Chefe de rank 1 tinha **quatro** ações por rodada, enquanto os ranks 2-3 têm duas e os 4-5 têm três — subia e voltava a descer. Com **duas ações e a Vitalidade publicada intacta**, ele mede **70,3% de vitória em 7,22 rodadas**, o centro dos dois alvos, sem tocar em nenhuma outra alavanca.
+> Ele media **17-28%**, de longe a célula mais dura da tabela inteira e a única abaixo da faixa que "Clímax" promete. **A causa era um número fora da escada:** o Chefe de rank 1 tinha **quatro** ações por rodada, enquanto os ranks 2-3 têm duas e os 4-5 têm três — subia e voltava a descer. Com **duas ações e a Vitalidade publicada intacta**, ele mede **76,5% de vitória em 6,51 rodadas**, o centro dos dois alvos, sem tocar em nenhuma outra alavanca. E é a **única** alavanca que funciona nele: com quatro ações ele resiste a qualquer barra — `150 × M` ainda dá 0% de vitória ao grupo.
 >
 > Com isso, **a variante "1 Elite + 3 Mestres" deixa de ser a recomendação para o clímax de rank 1** e volta a ser só uma alternativa de sabor. *(Decisão 251. A rejeição da alavanca de ações registrada nas decisões 137 e 209 é sobre **somar** ações; subtrair do rank 1 é o movimento oposto, e aquelas rodadas não o mediram.)*
 
 **Por que não é uma escala limpa.** *(Justificativa revista pela décima nona rodada.)* A explicação antiga dizia que a dificuldade do Chefe era governada por **quantos Golpes Matadores o grupo consegue pagar naquele rank**. **A medição refuta isso — mas não pelo motivo que a décima oitava publicou.** Aquela rodada tinha concluído que o combo *"não compensa contra Chefe publicado nenhum, porque a essência que ele custa compra 16 a 40 ataques comuns"*; **essa conclusão foi retirada** (decisão 242): ela era artefato da métrica do gatilho, não propriedade do sistema. Remedido com a regra da decisão 240 e o custo-benefício contado **por ação**, o combo **dispara** — até 3,21 vezes por cena de Clímax no rank 5 — e a vitória do grupo cai de 99,7% para apenas **95,4%**. **O Golpe Matador não é o que governa a escala do Chefe, nem quando dispara.** O que governa é o **volume de ações contra o arsenal do grupo** — e a vigésima segunda rodada fechou a prova disso pela outra ponta: o rank 1 era a célula mais dura do jogo **por causa das quatro ações**, e devolvê-lo a duas o levou de 17% a 70% de vitória sem mexer em mais nada. A escada de ações é o botão real da dificuldade do Chefe; a Vitalidade é o botão do **ritmo**.
 
-**Onde isso cai, medido:** contra uma mesa de 4 do mesmo rank, um Chefe com a Vitalidade e as ações da tabela acima mais um Guerreiro de apoio é uma luta de **7,2 a 8,8 rodadas**, com o grupo vencendo em **70 a 87%** das vezes — dentro da faixa em todos os cinco ranks. *(Antes da recalibragem eram 4,7-6,8 rodadas e 88-97% de vitória do rank 2 em diante, o que já não era alvo de clímax de arco.)* Se ainda quiser apertar uma cena específica, **suba a Vitalidade** em vez de subir o rank do Chefe: alonga a luta sem dobrar o dano que entra no grupo. Subir o rank é TPK medido, e a nota o proíbe.
+**Onde isso cai, medido:** contra uma mesa de 4 do mesmo rank, um Chefe com a Vitalidade e as ações da tabela acima mais um Guerreiro de apoio é uma luta de **6,5 a 8,3 rodadas**, com o grupo vencendo em **77 a 87%** das vezes — dentro da faixa em todos os cinco ranks. *(Antes da recalibragem eram 4,7-6,8 rodadas e 88-97% de vitória do rank 2 em diante, o que já não era alvo de clímax de arco.)* Se ainda quiser apertar uma cena específica, **suba a Vitalidade** em vez de subir o rank do Chefe: alonga a luta sem dobrar o dano que entra no grupo. Subir o rank é TPK medido, e a nota o proíbe.
 
 ## Referência rápida por rank (M já aplicado)
 
@@ -175,7 +178,7 @@ Os números entre parênteses são a **vitória medida do grupo** numa mesa de 4
 | **Padrão** | **2 Mestres + 1 Guerreiro** *(99%)* | 3 Mestres de Gu *(97%)* | idem *(99%)* | idem *(100%)* |
 | **Padrão pesado** | 2 Mestres + Horda de 8 *(89%)* | idem *(91%)* | idem *(91%)* | idem *(99%)* |
 | **Difícil** | 3 Mestres + 1 Guerreiro *(70%)* | idem *(83%)* | idem *(88%)* | 4 Mestres *(86%)* |
-| **Clímax** | 1 Elite especial + 3 Mestres *(68%)*✝, ou **Chefe + Guerreiro *(70%)*** | idem, **Chefe + Guerreiro *(78%)*** | 1 Elite especial + 3 Mestres *(44%)*✝, ou **Chefe + Guerreiro *(84%)*** | 1 Elite especial + 3 Mestres *(46%)*✝, ou **Chefe + Guerreiro *(87%)*** |
+| **Clímax** | 1 Elite especial + 3 Mestres *(68%)*✝, ou **Chefe + Guerreiro *(77%)*** | idem, **Chefe + Guerreiro *(86%)*** | 1 Elite especial + 3 Mestres *(44%)*✝, ou **Chefe + Guerreiro *(87%)*** | 1 Elite especial + 3 Mestres *(46%)*✝, ou **Chefe + Guerreiro *(85%)*** |
 
 *(✝ não retestado desde a terceira rodada — e sob a regra de Alma rara os 3 Mestres dessa variante também mudam de especial, então o número está duplamente desatualizado.)*
 
@@ -190,7 +193,7 @@ Os números entre parênteses são a **vitória medida do grupo** numa mesa de 4
 > | Padrão | 75-99% | 98-99 | 94-99 | 97-99 | 100 |
 > | **Padrão pesado** | **53-77%** | **83-91** | **83-94** | **85-95** | **97-99** |
 > | **Difícil** | **~40-52%** | **59-78** | **68-90** | **80-94** | **79-95** |
-> | **Clímax** *(Chefe + Guerreiro)* | **56-87%** | **70** ✅ | **78** ✅ | **84** ✅ | **87** ✅ |
+> | **Clímax** *(Chefe + Guerreiro)* | **56-87%** | **77** ✅ | **86** ✅ | **87** ✅ | **85** ✅ |
 >
 > *(A linha do Clímax foi **recalibrada e revalidada** pela vigésima terceira rodada — decisão 251. As quatro linhas acima dela seguem como a décima oitava as mediu: são as que ainda esperam redesenho de peças.)*
 >
@@ -206,7 +209,7 @@ Os números entre parênteses são a **vitória medida do grupo** numa mesa de 4
 
 **A linha de "Padrão pesado" caiu 8-13 pontos porque o piso de ataques da Horda a endurece** — os 71/64/63/85 anteriores eram medição feita **antes** do piso, e os 63/57/50/76 vieram da décima primeira rodada. *(Os dois conjuntos são históricos: a décima oitava rodada, com os quatro PJs modelados, mede 89/91/91/99% — ver a caixa 🔴 acima.)*
 
-**Quanto tempo a cena dura, medido** *(ranks 1 a 5, décima oitava rodada)*: Fácil 2,2-3,9 rodadas · Padrão 4,2-5,1 · Padrão pesado 6,0-7,5 · Difícil 6,5-6,8 · Clímax **7,2-8,8** *(recalibrado — ver a tabela do Chefe; antes da decisão 251 media 4,7-6,7)*. **As cenas encurtaram 1,5 a 4 rodadas** em relação ao que se publicava (Fácil 2,5-4,6 · Padrão 6,0-7,7 · Padrão pesado 7,5-10,5 · Difícil 8,3-9,1 · Clímax 6,8-10,7), pela mesma causa: o grupo bate mais forte do que o motor supunha. **Isso reabre a decisão 208** — o autor tinha fechado o fork de duração escolhendo "6-8 rodadas é o ritmo real do sistema", e o ritmo real agora é 4-7. Se a mesa quiser cenas curtas, o botão **não** é dano nem RD — é o número de peças, e ele é o mesmo botão da dificuldade (ver [[🎯 Simulação de Combate — Resultados#⏱️ Décima primeira rodada — encurtando a cena (2026-08-31)|a décima primeira rodada]]).
+**Quanto tempo a cena dura, medido** *(ranks 1 a 5, décima oitava rodada)*: Fácil 2,2-3,9 rodadas · Padrão 4,2-5,1 · Padrão pesado 6,0-7,5 · Difícil 6,5-6,8 · Clímax **6,5-8,3** *(recalibrado — ver a tabela do Chefe; antes da recalibragem media 4,7-6,7)*. **As cenas encurtaram 1,5 a 4 rodadas** em relação ao que se publicava (Fácil 2,5-4,6 · Padrão 6,0-7,7 · Padrão pesado 7,5-10,5 · Difícil 8,3-9,1 · Clímax 6,8-10,7), pela mesma causa: o grupo bate mais forte do que o motor supunha. **Isso reabre a decisão 208** — o autor tinha fechado o fork de duração escolhendo "6-8 rodadas é o ritmo real do sistema", e o ritmo real agora é 4-7. Se a mesa quiser cenas curtas, o botão **não** é dano nem RD — é o número de peças, e ele é o mesmo botão da dificuldade (ver [[🎯 Simulação de Combate — Resultados#⏱️ Décima primeira rodada — encurtando a cena (2026-08-31)|a décima primeira rodada]]).
 
 **Os números acima já assumem a regra de Alma rara** (décima rodada de simulação): todo Mestre de Gu com a Ação Especial do próprio Caminho, e o cultivador de Alma entrando só pela exceção rolada de 1d6 (ver o molde acima). Contraintuitivo mas medido: **tirar o Alma do padrão deixou as cenas um pouco MAIS difíceis, não mais fáceis** (2-10 pontos) — uma especial de Alma isolada gasta o golpe numa barra que nada mais ataca, enquanto a especial física soma no foco de fogo e aplica Lentidão com mais frequência. Histórico completo em [[🎯 Simulação de Combate — Resultados#🔇 Décima rodada — Alma rara entre inimigos (2026-08-31)|a décima rodada]].
 
@@ -256,7 +259,7 @@ Os números entre parênteses são a **vitória medida do grupo** numa mesa de 4
 
 **Fera-Gu Selvagem de Presas Longas (Elite, rank 2)** — VIT 42, Defesa 16, RD 4, mordida `2d12+FOR` (arma pesada + 1 Nível natural), investida que aplica Lentidão.
 
-**Ancião Renegado (Chefe, rank 3)** — VIT 312 (`78 × M`, M 4), Defesa 18, RD 8 (Gu do Dossel Celestial sustentado), dois ataques por rodada: Gu do Cristal de Gelo (`4d10`, aplica Lentidão) ou golpe melee `4d12+FOR` (arma média + 2 Níveis do Gu de Força ativo). Ignora a primeira Lentidão/Confuso sofrida na cena.
+**Ancião Renegado (Chefe, rank 3)** — VIT 400 (`100 × M`, M 4), Defesa 18, RD 8 (Gu do Dossel Celestial sustentado), dois ataques por rodada: Gu do Cristal de Gelo (`4d10`, aplica Lentidão) ou golpe melee `4d12+FOR` (arma média + 2 Níveis do Gu de Força ativo). Ignora a primeira Lentidão/Confuso sofrida na cena.
 
 ### Imortais (rank 6+) — some a densidade de Marca
 
