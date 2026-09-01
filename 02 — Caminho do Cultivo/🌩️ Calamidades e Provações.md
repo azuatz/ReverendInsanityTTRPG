@@ -116,11 +116,68 @@ Isso torna a escolha do local **uma decisão de jogador, tomada com antecedênci
 >
 > **Tudo que reduz CD nesta seção é preparado ANTES.** A tribulação não se vence improvisando; ela se vence tendo chegado nela pronto. A única exceção é o Golpe Matador defensivo, que existe justamente para ser disparado lá dentro — e mesmo ele cobra o preço da conversão.
 
-### A conta, e o que ela entrega
+### O contrapeso: a Calamidade cresce com o que você acumulou
 
-Somando o que é razoável para um Imortal cuidadoso — essência queimada (−3), tempo desacelerado (−3), terra Inabalável (−2), Gu de Estabilização (−3), Golpe Matador defensivo (−2), mais o −2 de um presságio respondido —, um rank 6 enfrenta uma Calamidade Terrestre de **CD 14** com até **15 pontos de redução** disponíveis, e vantagem numa etapa se tiver companhia.
+**Não é só o rank e o Contador que sobem a CD — é a sua riqueza.** Quanto melhor administrada a Fenda, mais desenvolvidas as camadas, mais recursos guardados, **mais forte vem a Calamidade seguinte**. Enriquecer é o gatilho, e é isso que impede as sete preparações de tornarem a tribulação uma formalidade: quem investe para se preparar melhor está, no mesmo movimento, elevando a barra.
 
-**Ninguém junta tudo isso.** O Gu de Estabilização morre no uso, a essência queimada é a mesma que paga o resto da década, e o tempo desacelerado é cultivo que não aconteceu. **A escolha é qual metade você compra desta vez** — e é isso que faz a preparação ser jogo, e não uma caixa de conferência.
+```
++1 de CD por camada da Terra Abençoada desenvolvida acima da segunda
+```
+
+É deliberadamente pequeno por evento e implacável no acúmulo. Um Imortal que subiu a terra até a camada 4 enfrenta **+2** permanentes, para sempre, em cima de tudo o mais.
+
+> **A leitura de mesa, e é a moldura de todo o ato imortal:** é uma esteira rolante. A dificuldade sobe sozinha com o sucesso, então **quem para de crescer é atropelado**. Não existe o Imortal que se estabeleceu, ficou confortável e passou os séculos em paz — ele existe por uma década ou duas e depois morre numa Calamidade que ficou grande demais para o que ele parou de ser. Em tempos de paz, é assim que a maioria dos Imortais morre, e é isso que explica economicamente por que eles se comportam como se comportam.
+
+**E existe a jogada oposta, que é legítima:** **ficar pobre de propósito.** Manter a Fenda subdesenvolvida, não acumular, não subir camada — as Calamidades ficam fracas e passáveis. O preço é ser fraco também: sem produção, sem essência, sem recursos para nada. É a estratégia de quem quer sobreviver escondido em vez de crescer, e o cenário tem gente assim.
+
+> [!tip] Pro mestre: empobrecer um rival é manobra política canônica
+> Se a dificuldade da Calamidade escala com o patrimônio, o inverso também vale: **arruinar economicamente um Imortal pouco antes da data dele é uma forma de matá-lo sem encostar nele** — e depois vender a salvação a preço de facção. É uma trama inteira que o sistema entrega de graça, e um jeito de o grupo ser tanto vítima quanto autor.
+
+### A oitava preparação: saber o que vem
+
+**As tribulações têm nome próprio e parâmetros conhecidos.** Não são fenômenos anônimos: eruditos as catalogam, e quem estudou reconhece o que está chegando e sabe os números normais dela — o que também deixa evidente quando uma vem **fora do padrão**, maior do que deveria.
+
+Duas coisas saem disso, e as duas são jogáveis:
+
+- **Um teste de [[🧠 Dedução]] bem-sucedido antes da data** identifica a Calamidade que vem: o tipo, a forma provável e a etapa mais perigosa. Isso não reduz CD sozinho — **é o que permite gastar as outras preparações no lugar certo**, e é a diferença entre um preparo genérico e um preparo dirigido. Na prática, é o que converte "provavelmente sobrevivo" em "sei o que vou fazer".
+- **Espionar a data alheia é tão útil quanto conhecer a própria.** Saber quando o rival estará travado, localizável e ocupado é a informação mais acionável do ato imortal.
+
+> [!warning] A Calamidade humana — tribulação não é cena PvE
+> A tribulação **obriga a abrir a Fenda**, o que denuncia a posição, e a data **se calcula** — inclusive por terceiros. Pior: quando as calamidades naturais deixam de bastar, a Vontade do Céu simplesmente **estica a duração do evento até que inimigos humanos cheguem**.
+>
+> Uma Fenda em tribulação abre brechas por onde se entra, e a sabotagem clássica é jogar essência imortal lá dentro para **queimar a reserva** de quem está se defendendo — atacando exatamente a primeira linha de defesa.
+>
+> **Monte pelo menos uma tribulação da campanha como cena de invasão**, não como rolagem contra o clima. É a melhor ponte entre o subsistema e a trama, e é o que o romance faz sempre.
+
+### Ajuda de fora: comum, formalizada e cara
+
+Imortais **se ajudam a atravessar tribulações**, e isso é um mercado, não um favor. Formatos que a mesa pode usar direto:
+
+| Arranjo | O preço típico |
+|---|---|
+| **Presença física de um aliado** | Vantagem numa etapa, e ele leva o dano dela junto — **inclusive o risco de morrer ali** |
+| **Contrato de participação** | Uma fatia dos ganhos futuros do socorrido, entre um quarto e um terço, por décadas |
+| **Adiamento vendido** | Alguém com o método certo **vende** o atraso da data, cobrado em Gu Imortais |
+| **Dividir o Significado Verdadeiro** | O aliado carrega parte do evento e leva parte da compreensão junto — você sobrevive sabendo menos |
+
+**Todo arranjo vira [[🤝 O Débito|Débito]] antes de virar transação.** E o ajudante que morre na tribulação alheia deixa uma dívida de sangue que a mesa vai jogar por muito tempo.
+
+### O teto: nenhuma preparação passa de −4 no total
+
+```
+Some quanto quiser. A redução aplicada nunca passa de −4.
+```
+
+**É a regra mais importante desta seção**, e ela existe porque sem teto o subsistema se desfaz. As alavancas somam até **−15** se o personagem tiver tudo — e uma Provação Celestial de rank 6 já cai de 33,7% de mortalidade para **8,7%** com apenas **−4**. Com −6 vira formalidade; com −11 ela **deixa de existir**, porque a única falha possível passa a ser o 1 natural.
+
+O teto é o que faz as alavancas **competirem**. Sem ele, a resposta ótima é sempre "use todas", e uma escolha em que uma opção domina não é escolha — é papelada. Com ele, a pergunta de mesa vira boa: **quais três você compra desta vez, sabendo que cada uma custa uma coisa diferente?** A essência é a mesma que paga o resto da década. O tempo desacelerado é cultivo que não aconteceu. O Gu de Estabilização morre no uso. O presságio custa ter agido em cima dele, com semanas de antecedência.
+
+**A vantagem do aliado presente não conta no teto** — ela não é redução de CD, é um dado a mais numa etapa, e continua valendo por cima do −4. É de propósito: é o único recurso que exige outra pessoa, e ele deve continuar valendo a pena depois que o teto encheu.
+
+> [!info] De onde saiu o −4
+> Medido: numa Provação Celestial de rank 6 na faixa Ignorado, com atributo +3, a sobrevivência vai de **66,3%** sem redução para **81,2%** com −2, **91,3%** com −4 e **96,9%** com −6. O alvo declarado pelo autor é *"quase sempre passa, mas com chance de falha"* — e a faixa que entrega isso é **−2 a −4**. Acima disso o jogo some. Uma mesa que queira mais folga pode subir o teto para −5 (≈94%); acima de −5, não. Ver [[🧭 Log de Decisões]] (decisão 229).
+
+**E o teto não é o fim da preparação.** Depois que ele enche, o que ainda melhora as chances é tudo aquilo que não passa por CD: saber o que vem ([[🧠 Dedução]]), escolher o local, ter um aliado ao lado, ter um Golpe Matador defensivo carregado para converter uma falha — e, principalmente, **ter com que pagar** se a conta não fechar.
 
 > [!tip] Pro mestre: a tribulação é calendário, não emboscada
 > A data **se calcula**, e não só pelo dono: **inimigos calculam a tribulação alheia** e aparecem exatamente nela. Uma Fenda que falha abre uma brecha pela qual se entra.
