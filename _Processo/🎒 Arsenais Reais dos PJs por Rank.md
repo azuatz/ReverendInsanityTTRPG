@@ -639,9 +639,22 @@ Ocos uma escolha em vez de uma parede.
 Acrobacia). Mesmo grau, mesma RD base, mesmo custo. O **dobro sob lua visível** é o dial do Caminho
 fazendo o trabalho dele, e vale só nas noites em que o céu está aberto — a mesma condição que já rege
 todo Gu de Lua. Custo de assentamento **40** (Lua ×1), uma vez.
-⚠️ **Se o Xie Lang adotar este Gu, ele perde a Pele de Aço** dos arsenais de rank 3 e 5 acima — e com
-ela **+1 CON permanente**, que é o que hoje lhe compra a vaga extra de Gu ativo e o acesso ao grau
-Pesado (Coração de Ferro-Frio). **Não é upgrade: é troca**, e é o autor quem decide.
+✅ **DECIDIDO: o Xie Lang troca a Pele de Aço pela Pele de Luar** — e a razão não é o número, é a regra
+de escolha do autor: **um Mestre de Gu assenta o permanente do próprio Caminho**, porque um permanente
+de Caminho alheio vive dentro dele atritando com todo o resto do arsenal (ver a regra no
+[[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)|Catálogo]]). A Pele de Aço é **Metal**; a
+Pele de Luar é **Lua**, que é o Caminho dele.
+
+**O preço, e ele é real:** sai o **+1 CON permanente** da Pele de Aço, que hoje lhe compra a vaga extra
+de Gu ativo (`CON + rank`) e o acesso ao grau Pesado (Coração de Ferro-Frio, que exige CON +3). Ou seja,
+os arsenais de rank 3 e 5 acima precisam ser refeitos **com um Gu ativo a menos** e sem a linha de
+Corpo pesada. **Em troca** ele ganha `RD 1 × M` passiva que **dobra para `2 × M` em qualquer noite com
+lua visível** — o dial do próprio Caminho trabalhando na defesa dele, e não uma placa de metal
+emprestada. Nas noites de lua nova, e só nelas, a Pele de Aço teria sido melhor.
+
+⚠️ **Pendência que isto abre:** os arsenais dos ranks 3 e 5 do Xie Lang, acima nesta nota, ainda
+listam a Pele de Aço e contam o CON efetivo com o +1 dela. **Precisam ser recontados** antes de virarem
+insumo de simulação.
 
 ---
 

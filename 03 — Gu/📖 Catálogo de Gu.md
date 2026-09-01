@@ -439,6 +439,13 @@ Duas seções escritas a pedido direto da mesa. A **Seção 1** atende ao pedido
 
 Gu que se instalam na carne e ficam. Não ocupam vaga de Gu ativo, não comem, não podem ser roubados no meio de uma luta, não precisam ser reativados. **São a única coisa neste jogo que é de verdade sua** — e é por isso que o corpo cobra tudo na entrada.
 
+> [!important] A regra de escolha: um Mestre de Gu assenta o permanente **do próprio Caminho**
+> Diante de dois Gu de Corpo que fazem coisas parecidas, **um cultivador escolhe o do Caminho dele — sempre, e não por gosto.** Um permanente de Caminho alheio funciona, mas ele passa a vida inteira dentro de você, atritando com tudo o mais que você carrega: as **incompatibilidades** desta tabela quase todas nascem de remodelagens que disputam o mesmo lugar do corpo, e um Gu que não fala a língua do seu Caminho é o primeiro a brigar com o próximo que você quiser assentar.
+>
+> **O do próprio Caminho, ao contrário, foi feito para conviver com o resto do seu arsenal** — os dials do Caminho valem nele (fase lunar, Ímpeto, terreno elemental), as sinergias já estão escritas, e as Marcas de Dao que você acumula empurram os dois na mesma direção.
+>
+> **Consequência prática, e vale para o mestre montar NPC também:** um cultivador de Lua com uma pele de Metal é alguém que **não tinha escolha** quando assentou aquilo, e isso conta uma história — recurso escasso, herança errada, pressa. Um Mestre de Gu bem estabelecido tem os permanentes do Caminho dele, e é assim que se monta um inimigo que parece o que ele é.
+
 ### As regras que valem pra tabela inteira
 
 **Custo.** Gu de Corpo não têm custo de ativação recorrente. O custo é pago **uma vez, no assentamento**, pelo valor cheio do rank do Gu: `40 × modificador de Caminho` (elementais ×1 = 40; Sangue e Osso ×0,5 = 20). Depois disso, zero essência pra sempre.
