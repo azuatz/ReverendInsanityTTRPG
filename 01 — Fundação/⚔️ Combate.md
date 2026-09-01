@@ -125,6 +125,14 @@ O Nível melhora o Gu **na coisa que aquele Gu faz**, e nem todo Gu faz dano. Ca
 > [!important] Nível nunca toca RD *(decisão 220)*
 > **Nenhum Nível de Potência aumenta Redução de Dano.** A RD já é `base × M` e dobra sozinha a cada rank, então o crescimento de um Gu defensivo já vem pelo M. Um Gu defensivo que sobe de Nível ganha **duração e usos**, não RD.
 
+> [!important] `base × M` — o **M do personagem**, não o do Gu
+> A Redução de Dano de um Gu de defesa é `base × M`, e **o `M` é o do rank de quem o usa**. Um Gu de defesa de base 2 na mão de um rank 3 reduz **8**; o mesmo Gu na mão de um rank 5 reduz **32**. **A RD dobra sozinha quando você sobe de rank, sem trocar de Gu** — é a única linha da ficha que faz isso.
+>
+> Isso vale para RD e **só** para RD. O **dado** de um Gu de ataque continua vindo do **rank do Gu** — é por isso que [[📈 O Que Muda ao Subir]] manda trocar os Gu de ataque ao subir e deixa os de defesa em paz.
+>
+> *(Fixado pela decisão 275. As duas leituras conviviam no vault e as 26 rodadas de simulação sempre usaram esta — o motor calcula a RD com o `M` do portador desde a primeira versão.)*
+
+
 ### De onde vêm os Níveis
 
 | Fonte                               | Quanto                                                                                                                   |
