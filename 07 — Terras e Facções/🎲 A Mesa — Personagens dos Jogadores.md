@@ -69,7 +69,11 @@ Registro vivo dos quatro jogadores e dos personagens. Atualize conforme a criaç
 >
 > **Por que as taxas antigas de 88-99% estavam erradas:** elas o modelavam como atacante **puro de Alma**, com todo o dano furando RD. Com 80% dos ataques vindo pela Lua — d8, na Vitalidade, freado pela RD como o de qualquer um —, ele é outro personagem. O número velho estava obsoleto duas vezes: pelo perfil e pela reversão da economia de Caminho duplo.
 >
-> **A decisão que isto abre, e que é do autor:** o buff dele foi escrito fraco de propósito, quando se acreditava que ele dominava. **Essa premissa caiu.** Fortalecer a *Ressonância* é agora defensável — mas repare que o desequilíbrio maior não é ele: é o **Jiāotáng a 93,5% no rank 1**. Buffar o terceiro colocado não conserta um primeiro colocado desse tamanho, e as duas coisas devem ser decididas juntas. Até lá, o buff fica como está e a mesa deve saber que está assim por decisão pendente, não por acidente.
+> **A decisão que isto abre, e que é do autor:** o buff dele foi escrito fraco de propósito, quando se acreditava que ele dominava. **Essa premissa caiu**, e fortalecer a *Ressonância* virou defensável.
+>
+> **Mas não nerfe o Jiāotáng por causa disto, e não corra para buffar ninguém.** Repare no formato dos números dele: **93,5 / 78,3 / 70,3%**, caindo a cada rank. Isso não é dominância sistêmica — é **dominância de rank 1, que se dissolve sozinha conforme a mesa sobe**. A hipótese em investigação é que o rank 1 favorece o corpo a corpo por um motivo estrutural: com `M = 1`, o pool de todo mundo é um dado só, e aí o `+ FOR` — o único bônus **fixo** do motor — pesa proporcionalmente mais do que pesará em qualquer rank seguinte. Se for isso, o problema é do rank 1, não do personagem, e mexer na ficha dele consertaria o sintoma.
+>
+> Até a medição fechar, **as quatro fichas ficam como estão**, e a mesa deve saber que estão assim por decisão pendente e não por acidente.
 
 > [!warning] Por que este buff foi escrito narrativo — a justificativa original, hoje superada
 > **Ele é 80:20 — Lua principal, Alma secundária.** O jogador declarou que na maior parte do tempo ataca pela Lua, deixando a Alma como segundo recurso. Isso importa mais do que parece: **Lua rola d8 contra a Vitalidade e passa pela RD como qualquer um**, enquanto Alma rola d12, ignora RD e armadura e mira uma barra que mais ninguém na mesa ataca. São dois personagens diferentes.
