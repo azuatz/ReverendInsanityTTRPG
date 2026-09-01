@@ -11,6 +11,8 @@ escopo: processo
 # 🎯 Simulação de Combate — Resultados
 
 > [!important] Rodada mais recente
+> A **décima sexta rodada** ([[#🌑 Décima sexta rodada — o nerf do Caminho da Alma e o Xie Lang 80:20 (2026-08-31)|2026-08-31]]) corrige o erro de modelagem mais caro do vault e usa a correção para nerfar o Caminho da Alma com número. **(1) O Xie Lang nunca foi atacante de Alma puro:** ele é **80:20 Lua:Alma**, e Lua é d8 que atravessa RD normalmente. Medido no perfil certo, a dominância de PvP dele cai de **83,9 / 97,8 / 99,5%** para **33,4 / 39,9 / 43,6%** — ele sai do 1º lugar e vira **3º de 4** nos três ranks, e o novo topo da mesa é o **Jiāotáng** (93,5 / 78,3 / 70,3%, decrescente com o rank). *(Os 88,1% publicados eram duplamente obsoletos: perfil errado **e** o `ess_mod = 1,0` que a decisão 227 reverteu.)* **(2) A diretiva do autor culpava o furo de RD, e a medição mostra que a culpa é de outro lugar:** o número que dezesseis rodadas nunca calcularam é **quantos acertos zeram a barra de Alma** — **1,85 / 2,12 / 2,21**, contra os **2,8** que a decisão 78 promete ao degrau mais letal do jogo. A barra é um terço menor que a Vitalidade e a Defesa que a protege cresce **+1/rank** contra um acerto que cresce **+2/rank** (no rank 5 ela **não erra nunca**). **(3) Dos três candidatos, só um funciona:** meia-RD e d10 deixam o especialista de Alma em **96-99%** (nerfs no papel, não no número); a **barra endurecida** (`(16+3×VON+3×B)×M` e Defesa `+2/rank`) leva o especialista de **99,5% para 87,1%**, a escada da barra de 2,21 para **2,63**, não toca dado nenhum — e custa **+0,24pp** na bateria de grupo, com o quinhão de dano do Caminho em cena de grupo **inalterado**, que era a promessa a cumprir. Aplicada em [[⚔️ Combate]] (decisão 231), com um ripple de oito notas listado.
+>
 > A **décima quinta rodada** ([[#⛈️ Décima quinta rodada — tribulação, face RD e a mesa sem o Físico (2026-08-31)|2026-08-31]]) constrói o **motor de tribulação** — o subsistema que catorze rodadas de combate nunca tinham modelado — e o usa para três vereditos pedidos pelo autor. **(1) O fork da CD de Calamidade está resolvido:** o vault publicava duas fórmulas incompatíveis, e a de [[🌩️ Calamidades e Provações]] (`14 + 2 × (rank − 6) + faixa`) é a correta — a de [[⛈️ A Vontade do Céu]] conta a faixa duas vezes, é indefinida abaixo de Marcado, não escala com rank e torna Perseguido e Alvo do Céu **insobrevivíveis em todo rank** (97,9-100% de mortalidade por Provação). O motor novo **reproduz a curva da quarta rodada** (2,2/48,3/70,2% → 0,2/49,9/76,2%) escrito do zero. **(2) A escala de escalonamento por excesso de Marcas é brutal e NÃO-MONOTÔNICA:** a banda de +10-25% (que importa a regra de morte da Provação) deixa **2,9%** de sobrevivência em cem anos internos, contra **25,7%** da banda de >+50% que deveria ser a pior. **(3) A face RD do Nível de Potência não entra** — a variante simétrica é um no-op aritmético exato, e a assimétrica estoura o alvo de 7-9 rodadas **sem melhorar a vitória**, quebra a escada da decisão 78 por +0,54 a +0,66 (quatro a cinco vezes o ajuste que a 11ª tinha na direção certa) e infla a vitória do grupo em +14,85pp de média. **(4) O Xie Lang sem o Físico da Lua Antiga NÃO cai para o mais fraco:** ele perde 1,0pp de dominância em PvP e continua vencendo 97,8-99,5% de qualquer duelo — a dominância sempre veio do Caminho da Alma, não do Físico. Três achados 🔴 novos, o maior deles estrutural: **a escada de CD por rank ultrapassa a ficha, e nada na ficha a alcança**.
 >
 > A **décima quarta rodada** ([[#🧭 Décima quarta rodada — a bateria estendida (2026-08-31)|2026-08-31]]) é a **bateria estendida** pedida pelo autor: as cenas solo remedidas com o piso da Horda, o primeiro PJ × PJ do motor atual, e a quarta saída do fork do treino. Quatro achados: **(1)** a Horda de 8 contra um PJ isolado deixou de ser guerra de atrito e virou **execução** (vitória 0-37%, ~5 rodadas — 10 de 12 células ≤ 1%), e o alvo de 7-9 rodadas solo é **inatingível** com qualquer variante medida (proporcional 2-3, `VIT × n/4`): solo, duração e piso pedem coisas opostas; **(2)** o Rei de Cem solo caiu de "melhor caso 8,4%" pra **0,0-0,1%** — a sentença que o design promete, agora absoluta; **(3)** no PvP a degeneração de 1-2 rodadas que o F&M teme não é a norma, mas **Xie Lang vence 84-99,5% de qualquer duelo** (80-100% das vitórias por queda de Alma) e o Lee segue no fundo, como na era Perl; **(4)** o **híbrido do treino** (mortal sem treino + escada só nos moldes de rank 6+) recupera os ranks 7-9 como a saída (c) **com 0,00pp de custo na fase mortal** — mas superaquece o rank 6 (ΔB 0: 51,8% → 4,4%). Nenhuma regra mudou; tudo devolvido ao autor com número.
@@ -1549,6 +1551,149 @@ A deriva de composição é total. Sob (i), nos ranks 3 e 5 **todas as cinco com
 7. **🟡 Lacuna de regra:** a nota de Calamidades não diz o que acontece se o dano `M d6` zerar a Vitalidade ou a Alma do personagem no meio da sequência. Medido em 10-52% do pool por evento — chega perto, e vai acontecer na mesa.
 8. **⚠️ A extensão retida da decisão 224 (`B` ilimitado, +1 a cada 25% do topo excedido) não deve ser publicada como está** — dois degraus já cortam o Clímax de rank 6 em um terço; oito o cortam em 63%. O teto em `B 4` é a escolha certa.
 9. **🟢 Confirmado por construção:** a **Densidade Imortal** da decisão 224 (`B` pelo total de Marcas) e o **nível de domínio** (por Caminho) são de fato eixos separados no motor de tribulação — a etapa 5 soma **domínio**, não Densidade, como as duas notas mandam.
+
+---
+
+## 🌑 Décima sexta rodada — o nerf do Caminho da Alma e o Xie Lang 80:20 *(2026-08-31)*
+
+Duas diretivas do autor, medidas juntas porque são o mesmo eixo visto de dois lados. Script: [[simulacoes/2026-08-31-decima-sexta-nerf-alma.py|_Processo/simulacoes/2026-08-31-decima-sexta-nerf-alma.py]] — cópia do motor da décima quinta, com o módulo de tribulação intacto e não chamado. Semente `20260830`, **3.000 iterações por célula**, mix de Alma "C", treino = 0 dos dois lados (decisão 215).
+
+1. **O Xie Lang é 80:20 Lua:Alma, e as quinze rodadas mediram ele errado.** O motor sempre o modelou como atacante de Alma **puro** (`dado=12, alma_dmg=True`). A ficha de verdade tem **Lua como Caminho principal (~80% dos ataques)** e Alma como secundário (~20%). Lua é **d8**, e o dano dela vai na Vitalidade atravessando a RD normalmente.
+2. **Nerfar o Caminho da Alma**, verbatim: *"nerfe o caminho da alma bastante pois ele não atinge o RD, sendo ruim para batalhas em grupo e bom para batalhas solo"*.
+
+> [!info] A modelagem do 80:20, declarada — é escolha, não dedução
+> A cada ataque do Xie Lang o motor rola uma moeda: **80% de chance de um golpe de Lua** (`M d8` contra a Defesa física, RD normal, dano na Vitalidade) e **20% de um golpe de Alma** (`M d12` contra `10 + VON + rank`, sem RD, dano na barra de Alma). A moeda vale para **todo** ataque dele, Golpe Matador incluído. A alternativa (misturar os dois dados no mesmo golpe) foi rejeitada por não existir em regra nenhuma do vault. Com `alma_frac = 1` o motor **não consome rolagem nova**, então o perfil antigo reproduz as rodadas anteriores bit-a-bit — o que a bateria confere.
+
+### 🔴 O achado que reordena tudo: a correção do perfil sozinha desmonta a dominância
+
+| PJ | *perfil errado* r1 / r3 / r5 | **perfil CERTO 80:20** r1 / r3 / r5 | Δ |
+|---|---|---|---|
+| **Xie Lang** | **83,9% · 97,8% · 99,5%** | **33,4% · 39,9% · 43,6%** | **−50,5 / −57,9 / −56,0pp** |
+| Jiāotáng | 70,1% · 54,3% · 48,2% | **93,5% · 78,3% · 70,3%** | +23,4 / +24,0 / +22,1 |
+| Lee | 31,4% · 12,9% · 14,6% | 51,2% · 27,4% · 28,7% | +19,8 / +14,4 / +14,0 |
+| Demvi | 14,7% · 34,9% · 37,7% | 22,0% · 54,4% · 57,5% | +7,3 / +19,5 / +19,8 |
+
+**O Xie Lang sai do 1º lugar e vira 3º de 4 nos três ranks.** O novo topo da mesa é o **Jiāotáng** (93,5% no rank 1, caindo a 70,3% no rank 5) — alto, mas nunca ~99%, e decrescente com o rank, que é a forma saudável.
+
+> [!note] Por que o baseline aqui é 83,9% e não os 88,1% publicados
+> Os 88,1% da décima quinta foram medidos com `ess_mod = 1,0` — a fusão Lua+Alma do buff substituto, que a **decisão 227 reverteu**. Com o `ess_mod = 1,25` do cultivo duplo normal (o estado de hoje), o mesmo perfil errado mede **83,9 / 97,8 / 99,5%**. Ranks 3 e 5 batem em 0,0pp com a décima quinta; só o rank 1 se move, porque é lá que o orçamento de essência aperta. A checagem de reprodução está no script.
+
+> [!important] 📋 Para a ficha da mesa — Xie Lang na configuração nova *(80:20, `ess_mod` 1,25, sem nerf nenhum)*
+> Substitui os **88,1 / 97,8 / 99,5%** que a nota da Mesa herdou da décima quinta.
+>
+> | Xie Lang contra... | rank 1 | rank 3 | rank 5 |
+> |---|---|---|---|
+> | **Jiāotáng** | 9,8% | 26,1% | 33,6% |
+> | **Lee** | 25,0% | 55,5% | 57,7% |
+> | **Demvi** | 65,3% | 38,1% | 39,5% |
+> | **Média (dominância)** | **33,4%** | **39,9%** | **43,6%** |
+>
+> Contra o Mestre de Gu solo: **12,7% · 13,8% · 29,2%** (era 63,0 · 71,5 · 86,5% no perfil errado).
+
+### 🎯 O diagnóstico: não é o furo de RD — é a barra
+
+A diretiva do autor culpa o furo de RD. **A medição diz que o furo de RD quase não importa**, e aponta a causa verdadeira. O número que nenhuma das dezesseis rodadas tinha calculado: **quantos acertos zeram a barra de Alma**, o paralelo exato da escada da decisão 78.
+
+| Alvo do golpe | rank 1 | rank 3 | rank 5 | Promessa publicada |
+|---|---|---|---|---|
+| **Vitalidade**, d12 físico *(escada da decisão 78)* | 3,21 | 3,46 | 3,53 | **≈ 2,8** |
+| **Barra de Alma**, d12 de Alma *(regra de hoje)* | **1,85** | **2,12** | **2,21** | — |
+
+A barra de Alma é `(12 + 2×VON + 3×B) × M` contra a Vitalidade `(18 + 3×CON + 4×B) × M` — **um terço menor**, e o golpe que a ataca é o do dado mais alto do jogo. Some a segunda metade da assimetria:
+
+| Alvo | rank | Defesa física | Defesa de Alma | % de acerto vs. Defesa | **% vs. barra de Alma** |
+|---|---|---|---|---|---|
+| Jiāotáng | 1 | 14 | 12 | 70% | **80%** |
+| Jiāotáng | 3 | 18 | 14 | 70% | **90%** |
+| Jiāotáng | 5 | 22 | 16 | 70% | **100%** |
+| Demvi | 5 | 24 | 18 | 60% | **90%** |
+
+A Defesa de Alma escala **+1/rank** enquanto o acerto do atacante escala **+2/rank**: no rank 5 a barra de Alma do Jiāotáng **não erra nunca**. O furo de RD, por contraste, vale pouco — a RD de um PJ é `1 × M`, que ao lado de um pool `M d12` (média 151,8 no rank 5) é ruído. **É por isso que a candidata A quase não faz nada.**
+
+### 📊 Os três candidatos, medidos contra o especialista de Alma
+
+O nerf é do **Caminho**, não do personagem — vale para os dois lados da mesa (o especial de Alma do molde Mestre de Gu, `1d6 = 6` da decisão 206, recebe o mesmo tratamento). E como o Xie Lang só gasta 20% dos ataques em Alma, a força de cada candidato se lê contra o perfil que a décima quinta mediu: **um especialista, 100% dos ataques em Alma**. É esse perfil que hoje vence 99,5% dos duelos, e é ele que o nerf tem de consertar.
+
+| Candidato | especialista r1 / r3 / r5 | Δ vs. hoje | acertos p/ zerar a barra | Δ na escada |
+|---|---|---|---|---|
+| **sem nerf** *(hoje)* | 83,9% · 97,8% · **99,5%** | — | 1,85 · 2,12 · 2,21 | — |
+| **A** — d12, fura **metade** da RD | 79,7% · 97,2% · **99,3%** | −4,2 / −0,6 / −0,2pp | 1,99 · 2,25 · 2,33 | +0,12 a +0,15 |
+| **B** — **d10**, fura tudo | 76,1% · 96,4% · **98,8%** | −7,7 / −1,4 / −0,7pp | 2,19 · 2,40 · 2,47 | +0,26 a +0,34 |
+| **C** — barra `(16+3×VON+3×B)×M` e Defesa **+2/rank** | **62,1% · 85,0% · 87,1%** | **−21,8 / −12,8 / −12,4pp** | **2,47 · 2,59 · 2,63** | **+0,42 a +0,62** |
+| *C_bar* — só a barra maior | 67,5% · 94,4% · 98,7% | −16,4 / −3,4 / −0,8pp | 2,47 · 2,59 · 2,63 | idem C |
+| *C_def* — só a Defesa +2/rank | 80,3% · 92,5% · 93,7% | −3,6 / −5,4 / −5,8pp | 1,85 · 2,12 · 2,21 | 0 |
+
+**A e B falham o teste, e falham pelo mesmo motivo aritmético.** A metade de uma RD `1 × M` continua sendo um número pequeno ao lado de um pool `M d12`; e `d12 → d10` é −16% de dano numa barra que precisa de ~2 acertos, o que muda 2,12 para 2,40 e não muda quem ganha. As duas deixam o especialista em **96-99% nos ranks 3 e 5** — a métrica de sucesso pedida (*nenhum PJ vence ~99% dos duelos*) continua reprovada.
+
+**A C é a única que move a agulha, e as duas metades dela são complementares, não redundantes:** a `C_bar` carrega a escada inteira e o corte de rank 1; a `C_def` carrega o corte dos ranks 3 e 5, porque é ela que conserta a Defesa que ficava 1 ponto por rank atrás do acerto. Nenhuma sozinha basta (`C_bar` deixa 98,7% no rank 5; `C_def` deixa 93,7%); juntas, entregam.
+
+### 🛡️ Os guarda-corpos
+
+**A escada de letalidade da decisão 78 (`d6≈5 · d8≈4 · d10≈3,3 · d12≈2,8`) sai intacta das candidatas A e C** — nenhuma das duas troca um dado, então nenhuma linha da Tabela de Letalidade se move.
+
+**A candidata B move a escada de propósito, e é preciso dizê-lo:** ela tira o Caminho da Alma da coluna d12 e o põe na d10, de **≈2,8 para ≈3,3 acertos** contra Vitalidade equivalente. Espada e Relâmpago ficariam sozinhos no topo d12 — o que é defensável (eles pagam "nenhum efeito colateral" pelo mesmo dado), mas é uma reescrita da tabela publicada em troca de −0,7pp de dominância no rank 5. Preço alto, entrega nula.
+
+**A C aproxima a Alma da própria promessa da escada** em vez de afastá-la: de 2,21 para **2,63** acertos no rank 5, contra os 2,8 que a decisão 78 promete ao degrau d12. A folga que sobra (2,63 contra 2,8) é o preço justo de um Caminho que continua furando RD por completo — e cuja contrapartida medida é ser fraco em grupo.
+
+**As faixas de composição não se movem em candidato nenhum.** Faixas publicadas: Fácil ≈ 100% · Padrão 75-99% · Difícil ~40-52% · Clímax 56-87%.
+
+| Candidato | Δ vitória média do grupo | Δ máx | Δ rodadas | Quinhão de dano do Xie r1/r3/r5 |
+|---|---|---|---|---|
+| sem nerf | — | — | — | 9% · 10% · 12% |
+| **A** | −0,06pp | +1,0 | +0,00r | 9% · 10% · 12% |
+| **B** | +0,05pp | −2,1 | −0,00r | 9% · 10% · 12% |
+| **C** | **+0,24pp** | +2,5 | −0,01r | 9% · 10% · 12% |
+
+**A promessa "o nerf não pode piorar Alma em grupo" está cumprida por medição**, e com folga: o quinhão de dano do Xie Lang na cena de grupo é idêntico nos três candidatos até a casa inteira. O motivo é o achado da décima rodada visto do outro lado — em cena de grupo o Caminho da Alma **já** contribui pouco (9-12% do dano da mesa, contra os 25% de uma divisão par), e mexer no tamanho da barra alheia não muda isso, porque o gargalo nunca foi o dano por golpe, e sim o fato de o golpe cair num trilho que mais ninguém ataca. Corolário útil: no perfil errado, **38-52% do dano do Xie ia para uma barra que ninguém mais tocava**; no 80:20 correto essa perda cai para **9-15%**.
+
+**A bateria solo** (cada PJ × 1 Mestre de Gu, 2 ações/rodada) — a cena em que Alma deve brilhar:
+
+| Candidato | Xie Lang r1/r3/r5 | Jiāotáng | Lee | Demvi |
+|---|---|---|---|---|
+| sem nerf | 12,7% · 13,8% · 29,2% | 59,1 · 37,3 · 46,0% | 5,3 · 5,4 · 17,4% | 15,3 · 24,9 · 47,2% |
+| **A** | 11,7% · 13,7% · 28,8% | *inalterado* | *inalterado* | *inalterado* |
+| **B** | 10,0% · 11,4% · 28,5% | 59,0 · 35,4 · 47,8% | ±0,2pp | ±0,5pp |
+| **C** | **8,9% · 9,8% · 24,4%** | 59,5 · 37,4 · 47,7% | ±0,5pp | ±0,5pp |
+
+A C custa ao Xie Lang **−3,8 / −4,0 / −4,8pp** no solo e não toca os outros três (tudo dentro de ±0,5pp, ruído). É o preço real do nerf, e ele cai onde deve: sobre quem usa o Caminho.
+
+### ⚖️ Os empilhamentos, para o autor que quiser mais
+
+Como só a C move a agulha sozinha, só empilhamento **sobre** a C valia medir:
+
+| Config | especialista r1 / r3 / r5 | acertos p/ zerar a barra |
+|---|---|---|
+| **C** | 62,1% · 85,0% · 87,1% | 2,47 · 2,59 · **2,63** |
+| **C + A** *(barra dura **e** meia RD)* | 56,0% · 82,5% · 85,0% | 2,66 · 2,75 · **2,78** |
+| **C + B** *(barra dura **e** d10)* | 48,5% · 78,4% · 79,3% | 2,92 · 2,94 · **2,94** |
+
+O **C + A** encosta a Alma **exatamente** nos 2,8 da decisão 78. O custo é textual e pesa: o vault perde a frase *"a resposta estrutural à RD alta é o dano de Alma"* ([[⚔️ Combate]], seção de RD), que é um pilar de desenho — é ela que garante que um inimigo de rank acima não **desligue** metade da mesa sem contrapartida. O **C + B** passa dos 2,8 e cai no degrau d10 sem estar lá. Por isso a recomendação aplicada é a **C pura**, com o C + A registrado como alavanca de uma linha caso o autor queira o ajuste fino.
+
+> [!warning] O 80:20 do Xie Lang é um **piso**, não o valor verdadeiro
+> O motor **nunca modelou controle vindo de PJ** — só especiais de inimigo aplicam Lentidão. E a Tabela de Letalidade paga o degrau d8 exatamente com isso: *"dano constante mais atrito real… é o perfil que ganha lutas longas"*. Ou seja, os 80% de Lua do Xie Lang rendem, no motor, só o dado — nenhuma das vantagens pelas quais o d8 é d8. Bracketing medido, ligando o atrito para **todo** atacante d8 da mesa (a Lua dele **e** o Lee):
+>
+> | Atrito de Lua | Xie Lang r1 / r3 / r5 |
+> |---|---|
+> | 0% *(o motor de hoje)* | 33,4% · 39,9% · 43,6% |
+> | 33% dos acertos | 37,1% · 49,1% · 54,5% |
+> | 67% dos acertos | 40,0% · 59,6% · 63,9% |
+>
+> A faixa real dele está entre o piso e ~54% no rank 5. **Em nenhum ponto do intervalo ele é dominante, e em nenhum ponto ele é o mais fraco** — o que sustenta as duas metades da métrica de sucesso pedida.
+
+> [!important] ✅ Veredito: **candidata C aplicada.** A e B recusadas por medição
+> **A** (meia RD) e **B** (d10) são nerfs no papel e não no número: deixam o especialista de Alma em **96-99%** nos ranks 3 e 5, contra os 99,5% de hoje. A **B** ainda cobra a reescrita de uma linha da Tabela de Letalidade por −0,7pp.
+> **C** leva o especialista de **99,5% para 87,1%** no rank 5 (−12,4pp) e de 83,9% para 62,1% no rank 1 (−21,8pp); leva a barra de Alma de **2,21 para 2,63 acertos**, quase encostando nos 2,8 da decisão 78; **não toca dado nenhum**, então a Tabela de Letalidade sai intacta; e custa **+0,24pp** de vitória média na bateria de grupo, com o quinhão de dano do Caminho em cena de grupo **inalterado**.
+> **A causa foi corrigida onde ela estava.** A diretiva culpava o furo de RD; a medição mostra que o furo vale +0,12 acerto e que a dominância vinha de uma **barra um terço menor que a Vitalidade, defendida por um número que crescia metade do que crescia o acerto que a atacava**. A C ataca exatamente esses dois.
+
+### 📌 O que esta rodada devolve ao autor
+
+1. **✅ O Xie Lang corrigido é 33,4 / 39,9 / 43,6%** em PvP — 3º de 4 nos três ranks. Os **88,1 / 97,8 / 99,5%** da nota da Mesa e do [[🧭 Log de Decisões]] estão obsoletos por dois motivos somados (perfil errado **e** `ess_mod` da decisão 227).
+2. **✅ O novo topo da mesa é o Jiāotáng** (93,5 / 78,3 / 70,3%). Alto no rank 1, decrescente com o rank — nunca ~99%. Não pede ação, mas a mesa deve saber.
+3. **🔧 Aplicado em [[⚔️ Combate]]:** a Defesa de Alma passa a `10 + VON + 2 × rank` e a Tabela de Letalidade registra a barra endurecida como a contrapartida do d12 que fura tudo.
+4. **🔴 Ripple obrigatório — a fórmula da Alma máxima está publicada em oito lugares.** A nova é `(16 + 3 × VON + 3 × B) × M`. Precisam republicar: [[❤️ Recursos e Dano]] *(o dono da fórmula)*, [[📄 Folha de Referência]], [[🎓 Guia do Mestre Iniciante]] *(2 ocorrências)*, [[📋 Guia de Criação de Ficha]] *(2, uma delas exemplo calculado)*, [[🎲 Mão do Jogador — Pacote Discord]], [[🗺️ Mapa do Vault]] e a nota da Mesa. **Nada disso foi editado aqui** — a nota da Mesa e a pasta `02` estavam com a sessão paralela durante esta rodada.
+5. **🔴 Território da sessão paralela — [[👻 Caminho da Alma]] precisa de duas correções:** a Defesa citada na regra "**1. Atravessa**" e na ficha do *Gu da Agulha Espectral* vira `10 + VON + 2 × rank`; e o exemplo do próprio Gu da Agulha (*"a barra de Alma de um lutador de VON 0 no rank 3 são 48 pontos"*) passa a **56** sob a fórmula nova. A escada de Força de Alma (multiplicadores ×1 a ×4) **não** muda — ela multiplica a Alma máxima, qualquer que seja a fórmula.
+6. **🟡 O C + A é uma alavanca de uma linha, medida e não aplicada** — encosta a escada da Alma nos 2,8 exatos, ao custo de o Caminho deixar de ser "a resposta estrutural à RD alta".
+7. **⚠️ Lacuna de modelagem confirmada e quantificada, não fechada:** o motor não dá controle nenhum a PJ, e é exatamente disso que o degrau d8 vive. Todo número de Caminho d8 nas dezesseis rodadas (Lua, Gelo, Sangue, Veneno, Sombras, Água, Luz, Escravidão) é um **piso**. Modelar isso é uma rodada própria.
 
 ---
 

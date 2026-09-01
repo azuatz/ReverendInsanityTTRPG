@@ -59,7 +59,7 @@ A regra que equilibra a tabela: **quanto maior o dado, menos o Caminho faz além
 
 | Perfil | Dado | Caminhos | O que ganha | O que paga |
 |---|---|---|---|---|
-| **⚡ Letalidade direta** | **d12** | **Alma** · **Espada/Lâmina** · **Relâmpago/Trovão** | O maior dano do jogo. Alma ignora RD e armadura por completo; Espada e Relâmpago **ignoram metade da RD** | **Nenhum efeito colateral, nunca.** Estes Gu causam dano e mais nada. Sem debuff, sem controle, sem utilidade fora de combate |
+| **⚡ Letalidade direta** | **d12** | **Alma** · **Espada/Lâmina** · **Relâmpago/Trovão** | O maior dano do jogo. Alma ignora RD e armadura por completo; Espada e Relâmpago **ignoram metade da RD** | **Nenhum efeito colateral, nunca.** Estes Gu causam dano e mais nada. Sem debuff, sem controle, sem utilidade fora de combate. **Alma paga um preço a mais pelo furo total: a barra que ela ataca é a mais dura de quebrar do jogo** — ver o callout abaixo |
 | **🔥 Dano alto** | **d10** | **Fogo** · **Vento/Ar** · **Osso** · **Metal** | Dano forte, e **um efeito de 1 rodada** no acerto (queimadura, deslocamento forçado, sangramento) | Efeito curto e sem escolha — vem junto com o dano ou não vem. Sem sustentação, sem controle de terreno |
 | **🌙 Moderado + controle** | **d8** | **Lua** · **Luz** · **Gelo** · **Sangue** · **Escravidão** · **Veneno** · **Água** · **Sombras** | Dano constante **mais atrito real**: essência congelada, lentidão, sangramento acumulado, cativeiro, veneno que dura. É o perfil que **ganha lutas longas** | Nunca mata numa ação. Precisa de tempo, e o tempo é o que uma emboscada não dá |
 | **🧠 Utilitário / suporte** | **d6** | **Sabedoria** · **Terra** · **Madeira** · **Sonhos** · **Formações** · **Espaço** · **Cosmos/Tempo** · **Informação** · **Sorte** · **Humano** · **Alimentação** · **Refino** | Dano ruim de propósito. Em troca: **+2 na CD de todos os seus Gu**, alcance sem teto prático, e o direito de **ignorar regras convencionais de combate** — tirar alguém da cena sem dano, negar uma ação inteira, agir fora da ordem de turno, atravessar distância | Se a luta virar troca de golpes, você perde. Este Caminho não disputa dano — ele decide que a disputa de dano não vai acontecer |
@@ -74,6 +74,18 @@ A regra que equilibra a tabela: **quanto maior o dado, menos o Caminho faz além
 > Contra um alvo com Vitalidade de rank igual, o número de acertos pra derrubar é: **d6 ≈ 5 · d8 ≈ 4 · d10 ≈ 3,3 · d12 ≈ 2,8.** Essa é a escala inteira de letalidade do jogo, e ela é estável em todos os nove ranks.
 >
 > Um Caminho d6 leva quase o dobro de acertos que um d12. Se o seu Gu de Terra parecer fraco em combate, **ele está correto** — o poder dele está na coluna da direita da tabela, e usá-lo como Gu de ataque é jogar errado.
+
+> [!important] O Caminho da Alma tem uma escada só dele *(decisão 231)*
+> A escada acima conta acertos contra a **Vitalidade**. O Caminho da Alma não ataca a Vitalidade: ele ataca a **barra de Alma**, que é uma barra menor e com Defesa própria. Contra ela, a conta é:
+>
+> ```
+> Alma máxima          = (16 + 3 × VON + 3 × B) × M
+> Defesa contra Alma   = 10 + VON + 2 × rank
+> ```
+>
+> Com esses dois números, derrubar alguém pela Alma custa **≈ 2,6 acertos** — praticamente os mesmos **2,8** que um d12 físico cobra contra a Vitalidade. É assim que se lê a tabela: **Alma não é mais letal que os colegas de degrau, ela é letal contra outra coisa.** O que ela compra com o furo total de RD, ela devolve numa barra maior e numa Defesa que acompanha o rank.
+>
+> Antes da decisão 231 a barra era `(12 + 2 × VON + 3 × B) × M` e a Defesa subia só **+1 por rank** — metade do que sobe o acerto que a atacava. Medido, isso punha a Alma em **2,2 acertos** (contra os 2,8 do próprio degrau) e, no rank 5, fazia a barra de Alma de um lutador **nunca ser errada**.
 
 ---
 
@@ -229,7 +241,7 @@ Piso: a RD nunca reduz o dano abaixo de M (1 ponto por dado do pool atacante).
 
 | Fonte | Efeito |
 |---|---|
-| **Caminho da Alma** | Ignora RD, armadura e Defesa física por completo. A Defesa contra ele é `10 + VON + rank` |
+| **Caminho da Alma** | Ignora RD, armadura e Defesa física por completo. A Defesa contra ele é `10 + VON + 2 × rank`, e o dano vai na **Alma máxima** `(16 + 3 × VON + 3 × B) × M` *(decisão 231)* |
 | **Espada e Relâmpago** (d12) | Ignoram **metade** da RD do alvo |
 | **Quase-Supremo** (Marcas) | Ignora RD de qualquer fonte de rank inferior |
 
@@ -311,6 +323,7 @@ Todas as capacidades não-numéricas de cada nível de domínio seguem inalterad
 
 ## 📝 Changelog
 
+- `2026-08-31` — **Nerf do Caminho da Alma (decisão 231):** a **Alma máxima** passa de `(12 + 2×VON + 3×B) × M` para **`(16 + 3×VON + 3×B) × M`** e a **Defesa contra Alma** passa de `10 + VON + rank` para **`10 + VON + 2 × rank`**. O furo total de RD e o dado d12 **ficam como estão** — a décima sexta rodada mediu que o furo de RD valia +0,12 acerto e que a dominância vinha da barra (2,2 acertos contra os 2,8 do próprio degrau) e da Defesa que crescia metade do que crescia o acerto. As duas candidatas que mexiam em dado ou em RD foram recusadas por medição.
 - `2026-08-30` — **Rodada do autor (decisões 103–106):** dano passa a ser **sempre rolado** (rolagem rápida por média removida); **iniciativa passa a ser rolada** (`d20 + DES`); **crítico no 20 natural** dobra os dados de dano; **armas à distância mundanas removidas** (alcance é trabalho de Gu); desbloqueios de estágio (resistência/ordem, ativação com desconto, Pico ignorar ½ RD) removidos — o estágio agora dá só o que está na tabela mestre. Regra antiga arquivada em `_Arquivo`; fontes menores de Nível de Dano convertidas em acerto/RD (decisão 112).
 - `2026-08-28` — **v2: pool de dados cumulativo.** `1dX × M` virou `M dX`; o tipo do dado passou a ser propriedade do **Caminho** (tabela de letalidade em 4 perfis); Níveis de Dano passaram a subir o tipo do dado e depois virar bônus por dado; criada a **Densidade da Essência** como progressão de estágio (+1 por dado por estágio); armas subiram um tipo (d4/d6/d8/d10) e a Vitalidade subiu junto pra manter a calibragem. Ver decisões 77–82.
 - `2026-08-26` — dano de Gu deixou de ser fixo e voltou a ser rolado; criada a Escada de Dano única; RD formalizada com regra de não-empilhamento.

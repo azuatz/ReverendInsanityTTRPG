@@ -338,13 +338,17 @@ RD_FACE_MODE = "zero"
 #   'C_bar' / 'C_def' — as duas metades da C isoladas (diagnóstico).
 ALMA_MODE = "atual"
 
-_ALMA_DADO = {"atual": 12, "A": 12, "B": 10, "C": 12, "C_bar": 12, "C_def": 12}
+# 'CA' / 'CB' = os EMPILHAMENTOS (C + A, C + B), medidos depois que a bateria
+# principal mostrou que a C é a única que move a agulha sozinha.
+_ALMA_DADO = {"atual": 12, "A": 12, "B": 10, "C": 12, "C_bar": 12, "C_def": 12,
+              "CA": 12, "CB": 10}
 # fração da RD do alvo que o golpe de Alma AINDA sofre (0 = fura tudo)
-_ALMA_RD = {"atual": 0.0, "A": 0.5, "B": 0.0, "C": 0.0, "C_bar": 0.0, "C_def": 0.0}
+_ALMA_RD = {"atual": 0.0, "A": 0.5, "B": 0.0, "C": 0.0, "C_bar": 0.0, "C_def": 0.0,
+            "CA": 0.5, "CB": 0.0}
 _ALMA_BAR_DURA = {"atual": False, "A": False, "B": False,
-                  "C": True, "C_bar": True, "C_def": False}
+                  "C": True, "C_bar": True, "C_def": False, "CA": True, "CB": True}
 _ALMA_DEF_DURA = {"atual": False, "A": False, "B": False,
-                  "C": True, "C_bar": False, "C_def": True}
+                  "C": True, "C_bar": False, "C_def": True, "CA": True, "CB": True}
 
 # Fator de inflação da barra de Alma dos MOLDES sob a C. A barra de molde é
 # `razão × Vitalidade`, não a fórmula de PJ, então não dá pra aplicar a fórmula
@@ -2665,6 +2669,31 @@ ALMA_DIAGNOSTICOS = (
     ("C_bar", "C_bar — só a barra maior (metade da C)"),
     ("C_def", "C_def — só a Defesa de Alma +2/rank (a outra metade da C)"),
 )
+# Os empilhamentos, medidos DEPOIS da bateria principal (é ela que mostra que
+# só a C move a agulha sozinha, e portanto que só empilhamento SOBRE a C faz
+# sentido testar).
+ALMA_EMPILHAMENTOS = (
+    ("CA", "C + A — barra dura E meia RD (a Alma vira Espada/Relâmpago com barra própria)"),
+    ("CB", "C + B — barra dura E d10"),
+)
+
+
+def bateria_empilhamento():
+    print("\n" + "=" * 122)
+    print("EMPILHAMENTOS — a C é a única que move a agulha sozinha; e somada às outras?")
+    print("Lidos contra o especialista de Alma e contra a escada da barra (alvo: 2,8 da decisão 78).")
+    print("=" * 122)
+    print(f"  {'config':6s} {'especialista r1/r3/r5':>28s} {'acertos p/ zerar a barra r1/r3/r5':>36s}")
+    for modo in ("atual", "A", "B", "C", "CA", "CB"):
+        set_alma(modo)
+        usa_perfil_xie("puro Alma (1ª-15ª)")
+        _c, p = matriz_pvp(verbose=False)
+        esp = " / ".join(f"{p[('Xie Lang', rk)]:5.1f}%" for rk in RANKS_SOLO)
+        random.seed(20260830)
+        esc = " / ".join(f"{hits_to_kill_alma(rk, 0, 1, n_iter=20000):.2f}" for rk in RANKS_SOLO)
+        print(f"  {modo:6s} {esp:>28s} {esc:>36s}")
+    set_alma("atual")
+    reset_pcs()
 
 
 def usa_perfil_xie(rotulo):
@@ -3124,6 +3153,7 @@ def main():
     n2b = bateria_n2b()
     sens = bateria_sensibilidade()
     n3 = bateria_n3(n1, n2, n2b)
+    bateria_empilhamento()
     return n1, n2, n2b, sens, n3
 
 
