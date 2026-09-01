@@ -20,7 +20,7 @@ Este guia é sobre **como inventar bem**, não sobre o que inventar.
 O sistema tem premissas embutidas. Se a sua lore contradiz uma delas, as regras param de fazer sentido na mesa. Estas quatro são as que importam:
 
 **1. Poder é emprestado, escasso e disputado.**
-Gu não crescem em árvore, não se compram em loja com dinheiro e não se fabricam em série. Toda organização do seu mundo existe, no fundo, pra controlar acesso a Gu, receitas de refino, ou os recursos que alimentam Gu. Se no seu cenário qualquer um consegue os Gu que quiser, o jogo inteiro perde a tensão.
+**Gu se compram, sim** — um Gu de rank 1 custa cerca de 500 Pedras Primordiais e um de rank 3 vai de 1.000 a 10.000 ([[💠 Economia das Pedras Primordiais]]). O que **não** existe é abundância: a partir do rank 4 o preço deixa de ser dinheiro e vira **expedição**, Gu de rank 5+ não têm mercado, e **Gu Imortal é exemplar único no mundo** — não se compra com pedra nenhuma, só se troca por outro Gu Imortal. A escassez é de **rank alto**, não de mercado. Toda organização do seu mundo existe, no fundo, pra controlar acesso a Gu, receitas de refino, ou os recursos que alimentam Gu. Se no seu cenário qualquer um consegue os Gu que quiser, o jogo inteiro perde a tensão.
 
 **2. Aptidão é injusta e todo mundo sabe disso.**
 A aptidão de uma pessoa é medida publicamente na adolescência, e ela decide a vida dela. Isso gera uma sociedade abertamente estratificada: os de talento alto recebem recursos, os de talento baixo servem. **Essa injustiça visível é o gerador de conflito nº 1 do cenário** — use.
