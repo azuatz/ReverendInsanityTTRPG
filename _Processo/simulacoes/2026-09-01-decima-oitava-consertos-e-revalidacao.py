@@ -3920,6 +3920,109 @@ def bateria_q8():
     return out
 
 
+
+def bateria_q9():
+    """A pergunta que o gatilho econômico devolve: EXISTE alvo contra o qual o
+    Golpe Matador paga? A regra diz *"Chefe, ou qualquer inimigo de rank acima
+    do seu: Sim"* — aqui a conta é feita contra os dois."""
+    print("\n" + "=" * 122)
+    print("BATERIA Q9 — CONTRA QUEM O GOLPE PAGA, PELA CONTA DA PRÓPRIA REGRA")
+    print("[[⚡ Golpes Matadores]]: 'Chefe, ou qualquer inimigo de rank acima do seu — Sim.'")
+    print("A heurística é a conta que a nota descreve. Aqui ela é aplicada a alvos cada vez")
+    print("maiores, até achar o ponto em que o golpe passa a valer.")
+    print("=" * 122)
+    configura(lee="melee — foice + Wu Xing", isencao=False, golpe_duelo=False,
+              niveis="paridade — ordinária", teste_publicado=True,
+              gatilho="economico", quem=tuple(PCS_BASE))
+    for rank in RANKS_SOLO:
+        print(f"\n  ── rank {rank} " + "─" * 100)
+        print(f"  {'PJ':11s} {'alvo':34s} {'barra':>8s} {'nAtq×e_norm':>12s} "
+              f"{'p':>5s} {'A':>9s} {'B':>9s} {'dispara':>8s}")
+        for nome in PCS_BASE:
+            pc = make_pc(nome, rank)
+            alvos = [
+                ("Chefe publicado (63×M)", make_chefe(rank)),
+                ("Chefe reforçado (94×M)", make_chefe(rank, vit_mult=94)),
+                ("Chefe de rank +1", make_chefe(min(rank + 1, 6))),
+                ("Chefe de rank +2", make_chefe(min(rank + 2, 6))),
+            ]
+            for rot, alvo in alvos:
+                apoios, n_gu = _n_gu_golpe(pc)
+                p = _p_conjuracao(pc, n_gu)
+                usa_alma = pc["alma_dmg"] and alvo.get("alma") is not None
+                barra = alvo["alma"] if usa_alma else alvo["vit"]
+                e_norm = max(1e-9, _e_dano_normal(pc, alvo))
+                e_golpe = _e_dano_pool(pc, apoios, usa_alma)
+                e_cru = max(0.0, (pc["raw_die"] + 1) / 2.0 + pc["FOR"])
+                custo = _custo_golpe(pc)
+                custo_atq = ACT_COST_BASE * pc["ess_mod"]
+                n_atq = custo / custo_atq
+                r = min(MAX_ROUNDS, math.ceil(barra / e_norm))
+                dano_a = min(barra, min(r, pc["essence"] / custo_atq) * e_norm)
+                resto = max(0, r - 1)
+                atq_b = min(resto, max(0.0, pc["essence"] - custo) / custo_atq)
+                dano_b = (p * min(barra, e_golpe + atq_b * e_norm)
+                          + (1 - p) * min(barra, resto * e_cru))
+                print(f"  {nome:11s} {rot:34s} {barra:8.0f} {n_atq*e_norm:12.0f} "
+                      f"{p:5.0%} {dano_a:9.1f} {dano_b:9.1f} "
+                      f"{'SIM' if dano_b > dano_a else 'não':>8s}")
+    print("\n  Leitura: `nAtq × e_norm` é literalmente a frase da nota — 'os nove a dezoito")
+    print("  ataques normais que você está trocando'. Enquanto esse número for MAIOR que a")
+    print("  barra do alvo, a regra manda NÃO disparar; é a própria nota que diz isso.")
+
+
+def bateria_q10():
+    """A tabela de composição republicável: a faixa entre os dois dials, e a
+    tabela de ações do Chefe nos cinco ranks mortais."""
+    print("\n" + "=" * 122)
+    print("BATERIA Q10 — A TABELA DE COMPOSIÇÃO NOS TRÊS DIALS (o que republicar)")
+    print("=" * 122)
+    res = {}
+    for modo in ("paridade — dials zerados", "paridade — ordinária", "paridade — teto"):
+        configura(lee="melee — foice + Wu Xing", isencao=False, golpe_duelo=False,
+                  niveis=modo, teste_publicado=True, gatilho="economico",
+                  quem=tuple(PCS_BASE))
+        print(f"\n### {modo} ###")
+        grupo, _q = bateria_grupo()
+        res[modo] = grupo
+    print("\n" + "-" * 122)
+    print("A FAIXA POR CÉLULA (mínimo–máximo entre os três dials) contra a faixa publicada")
+    print("-" * 122)
+    print(f"  {'composição':16s} {'publicado':>12s} " +
+          " ".join(f"{'rank ' + str(rk):>18s}" for rk in RANKS_SOLO))
+    for comp in COMPS:
+        cels = []
+        for rk in RANKS_SOLO:
+            vs = [res[m][(rk, comp)]["win"] * 100 for m in res]
+            cels.append(f"{min(vs):5.1f}-{max(vs):5.1f}%")
+        print(f"  {comp:16s} {FAIXAS_PUBLICADAS[comp]:>12s} " +
+              " ".join(f"{c:>18s}" for c in cels))
+
+    print("\n" + "=" * 122)
+    print("A TABELA DE AÇÕES DO CHEFE — Chefe + Guerreiro nos cinco ranks mortais")
+    print("Publicado hoje: r1 3% · r2 54% · r3 87% · r4 75% · r5 90%")
+    print("=" * 122)
+    for modo in ("paridade — dials zerados", "paridade — ordinária", "paridade — teto"):
+        configura(lee="melee — foice + Wu Xing", isencao=False, golpe_duelo=False,
+                  niveis=modo, teste_publicado=True, gatilho="economico",
+                  quem=tuple(PCS_BASE))
+        linha = []
+        for rank in RANKS_MORTAIS:
+            random.seed(20260830)
+            r = simulate(rank, "climax", n_iter=N_ITER)
+            linha.append(f"{r['win']*100:5.1f}% {r['rounds']:5.2f}r")
+        print(f"  {modo:28s} " + " ".join(f"r{rk} {c}" for rk, c in zip(RANKS_MORTAIS, linha)))
+    return res
+
+
+def main18b():
+    print("=" * 122)
+    print("DÉCIMA OITAVA — ADENDO: Q9 (contra quem o golpe paga) e Q10 (o que republicar)")
+    print("=" * 122)
+    bateria_q9()
+    return bateria_q10()
+
+
 def main():
     print("=" * 122)
     print("DÉCIMA OITAVA RODADA — OS DOIS (TRÊS) CONSERTOS DE MOTOR E A REVALIDAÇÃO")
