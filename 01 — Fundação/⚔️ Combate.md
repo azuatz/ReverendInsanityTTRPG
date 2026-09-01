@@ -71,9 +71,11 @@ A regra que equilibra a tabela: **quanto maior o dado, menos o Caminho faz além
 
 > ### ⚖️ A leitura de mesa
 >
-> Contra um alvo com Vitalidade de rank igual, o número de acertos pra derrubar é: **d6 ≈ 5 · d8 ≈ 4 · d10 ≈ 3,3 · d12 ≈ 2,8.** Essa é a escala inteira de letalidade do jogo, e ela é estável em todos os nove ranks.
+> Contra um alvo comum de rank igual — **Constituição +3, com a Redução de Dano mínima** —, o número de acertos pra derrubar é: **d6 ≈ 11 · d8 ≈ 8 · d10 ≈ 6,5 · d12 ≈ 5,5.** Essa é a escala inteira de letalidade do jogo, e ela é estável em todos os nove ranks.
 >
 > Um Caminho d6 leva quase o dobro de acertos que um d12. Se o seu Gu de Terra parecer fraco em combate, **ele está correto** — o poder dele está na coluna da direita da tabela, e usá-lo como Gu de ataque é jogar errado.
+>
+> *(Esta nota publicava `5 · 4 · 3,3 · 2,8`. Aqueles números estavam certos para **um alvo de Constituição −1 sem defesa nenhuma** — o personagem mais frágil que as regras permitem — e por isso descreviam quase ninguém. As **proporções** entre os quatro degraus são idênticas nas duas leituras; só a régua mudou de lugar. Decisão 252; tabela completa em [[❤️ Recursos e Dano]].)*
 
 > [!important] O Caminho da Alma tem uma escada só dele *(decisão 231)*
 > A escada acima conta acertos contra a **Vitalidade**. O Caminho da Alma não ataca a Vitalidade: ele ataca a **barra de Alma**, que é uma barra menor e com Defesa própria. Contra ela, a conta é:
@@ -83,7 +85,11 @@ A regra que equilibra a tabela: **quanto maior o dado, menos o Caminho faz além
 > Defesa contra Alma   = 10 + VON + 2 × rank
 > ```
 >
-> Com esses dois números, derrubar alguém pela Alma custa **≈ 2,6 acertos** — praticamente os mesmos **2,8** que um d12 físico cobra contra a Vitalidade. É assim que se lê a tabela: **Alma não é mais letal que os colegas de degrau, ela é letal contra outra coisa.** O que ela compra com o furo total de RD, ela devolve numa barra maior e numa Defesa que acompanha o rank.
+> Com esses dois números, derrubar alguém pela Alma custa **≈ 2,9 acertos contra um lutador** (Vontade baixa, que é a presa natural dela) e **≈ 4 contra um conjurador** de Vontade alta. Compare com os **5,5** que um d12 físico cobra contra a Vitalidade de um alvo comum: **a Alma é a via mais curta que existe — contra quem não a defende.**
+>
+> É assim que se lê a tabela: **Alma não é uma letalidade maior, é uma letalidade seletiva.** O que ela compra com o furo total de RD, ela devolve em duas coisas — uma barra que cresce com a Vontade do alvo, e o fato de que o alvo que mais lhe interessa derrubar (o conjurador) é justamente o que mais resiste.
+>
+> *(Números remedidos na decisão 252, contra a linha de base real de atributo. A leitura anterior — "≈ 2,6 acertos, praticamente os mesmos 2,8 do d12" — comparava dois alvos de atributo zerado, e a equivalência que ela enxergava era artefato disso.)*
 >
 > Antes da decisão 231 a barra era `(12 + 2 × VON + 3 × B) × M` e a Defesa subia só **+1 por rank** — metade do que sobe o acerto que a atacava. Medido, isso punha a Alma em **2,2 acertos** (contra os 2,8 do próprio degrau) e, no rank 5, fazia a barra de Alma de um lutador **nunca ser errada**.
 

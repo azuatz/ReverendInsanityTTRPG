@@ -30,21 +30,27 @@ Grau = 0 (Inicial) · 1 (Médio) · 2 (Alto) · 3 (Pico)
 
 | CON | Vitalidade *(Inicial)* | Vitalidade *(Pico)* | Acertos de um Gu **d10** do seu rank |
 |---|---|---|---|
-| −1 | `15 × M` | `27 × M` | 2,7 |
-| **0** | **`18 × M`** | **`30 × M`** | **3,3** |
-| +2 | `24 × M` | `36 × M` | 4,4 |
-| +4 | `30 × M` | `42 × M` | 5,5 |
+| −1 | `15 × M` | `27 × M` | 3,9 |
+| 0 | `18 × M` | `30 × M` | 4,5 |
+| +2 | `24 × M` | `36 × M` | 5,9 |
+| **+3** *(o padrão)* | **`27 × M`** | **`39 × M`** | **6,5** |
+| +4 | `30 × M` | `42 × M` | 7,2 |
 
-**A calibragem, que sobreviveu à reforma:** mesmo com Constituição zero, você aguenta **cerca de três golpes** de um Gu d10 do próprio rank antes de cair — e isso **em qualquer estágio**, porque o dano e a carne crescem no mesmo compasso. Com um Gu de defesa decente, dobra.
+**A calibragem:** um personagem comum — Constituição **+3**, que é o valor padrão de atributo desta mesa — aguenta **cerca de seis golpes e meio** de um Gu d10 do próprio rank antes de cair, contando a Redução de Dano mínima. E isso vale **em qualquer estágio**, porque o dano e a carne crescem no mesmo compasso.
 
-**A letalidade agora varia por Caminho**, e é essa a escala inteira do jogo:
+**A letalidade varia por Caminho**, e é essa a escala inteira do jogo. Duas leituras, porque a diferença entre elas é grande e as duas aparecem na mesa:
 
-| Caminho do atacante | Acertos pra derrubar CON 0 |
-|---|---|
-| d6 — utilitário | **~5** |
-| d8 — moderado | **~4** |
-| d10 — dano alto | **~3,3** |
-| d12 — letalidade direta | **~2,8** |
+| Caminho do atacante | Contra o alvo padrão *(CON +3, com RD)* | Contra um alvo desprotegido *(CON −1, sem RD)* |
+|---|---|---|
+| d6 — utilitário | **~11** | ~5 |
+| d8 — moderado | **~8** | ~4 |
+| d10 — dano alto | **~6,5** | ~3,3 |
+| d12 — letalidade direta | **~5,5** | ~2,8 |
+
+> [!warning] A coluna da direita é a que esta nota publicava como se fosse o caso normal
+> Os números `5 / 4 / 3,3 / 2,8` estavam certos, mas descrevem **um alvo de Constituição −1 sem nenhuma defesa** — o personagem mais frágil que as regras permitem, desarmado de RD. Contra alguém real eles **mais que dobram**. *(Decisão 252 — a linha de base de atributo desta mesa é **3**, não 0, e o que fica baixo é o oposto do arquétipo: um lutador tem Vontade baixa, um atirador tem Força baixa.)*
+>
+> **A escala não mudou, só o rótulo.** As proporções entre os quatro degraus são as mesmas (d6 aguenta ~2× o que o d12 aguenta, nas duas colunas), e as durações de cena medidas — 4,5 a 8,8 rodadas conforme a composição — continuam dentro do ritmo de 6-8 que o sistema busca. **Nada de balanceamento se move por causa desta correção**; o que muda é a nota parar de prometer uma letalidade que nenhum personagem real sente.
 
 **Sem níveis de ferimento pra rastrear em combate.** Nada de tabela de penalidade por faixa de HP — é coisa demais pra lembrar no meio de uma cena. Os dois trilhos são só um número que desce. Fora zerar (ver abaixo), a ficha não aplica penalidade automática por estar "machucado" — é a mesa que decide o quanto isso pesa na narração.
 
