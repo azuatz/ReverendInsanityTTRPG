@@ -77,7 +77,11 @@ Golpes de apoio que não somam dano somam **outra coisa**: +2 no teste de acerto
 
 ## 🩸 A Abertura do disparo — o preço vem depois, não antes
 
-**Enquanto executa um Golpe Matador e até o seu próximo turno, sua Defesa cai 4.** Você abriu a guarda para montar a coisa.
+**Enquanto executa um Golpe Matador e até o seu próximo turno, todo ataque contra você tem Vantagem.** Você abriu a guarda para montar a coisa, e quem estava esperando isso não erra.
+
+Não é só acertar mais — **é o dobro de chance de crítico** (9,8% contra 5%), e crítico dobra os dados. Na maioria das vezes você só apanha mais; de vez em quando, o golpe que chega enquanto você está aberto é o que te mata. Medido, o dano esperado que você recebe nessa janela sobe **~50%**.
+
+*(Vantagem em vez de um número de Defesa de propósito: é a mesma mecânica que [[🕵️ Preparação e Informação|Preparação]] e o uso criativo já usam, então não há regra nova pra lembrar — e é ela, não a Defesa, que carrega o risco de crítico.)*
 
 > [!quote] Também canônico, e é a outra metade da mesma cena
 > *"Sua defesa cai quando você usa seu golpe matador"* — dito de um lutador cujo aliado lhe dá um Gu de defesa justamente para cobrir esse buraco. E os quatro anciãos do clã Tie **conseguiram** disparar o golpe deles: morreram depois, secos de essência, mortos por um Mestre de rank três. **No romance o custo do golpe cobra depois, na exposição — nunca impede antes.** É por isso que a confiabilidade foi consertada (decisão 240) e a exposição foi criada no mesmo movimento: o golpe deve sair, e deve deixar você vulnerável por ter saído.
