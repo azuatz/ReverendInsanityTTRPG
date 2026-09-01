@@ -280,7 +280,7 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Força
 
-36 Gu.
+42 Gu. **36 destes moram no [[📖 Catálogo de Gu|Catálogo]]; os outros 6 moram na nota do Caminho**, e a coluna **Onde** diz qual é qual.
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
@@ -294,17 +294,21 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 2 | **Gu do Embate Direto** | Ataque/Movimento | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
 | 2 | **Gu do Javali Branco e Negro** | Amplificação, permanente | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
 | 2 | **Gu do Javali de Ferro** ✱ — *Força/Transformação* | Amplificação | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
+| 2 | **Gu do Tendão de Búfalo ✱ | Amplificação, sustentado | [[💪 Caminho da Força\|Caminho da Força]] |
 | 3 | **Gu de Força de Crocodilo Maior** ✱ — *Força/Transformação* | Amplificação, permanente | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu do Aríete de Essência** ✱ — *Força/Humano* | Consumível, cultivo | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu do Autossustento** | Cura | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu do Empenho Total** | Invocação/Amplificação | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu do Qi de Força** — *Força/Qi* | Amplificação + ataque | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
+| 3 | **Gu do Passo de Aríete ✱ | Investida | [[💪 Caminho da Força\|Caminho da Força]] |
+| 3 | **Gu da Mão de Pedra ✱ | Corpo, permanente | [[💪 Caminho da Força\|Caminho da Força]] |
 | 4 | **Gu Tirano da Força** | Amplificação | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Gu da Força Amarga** | Amplificação | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Gu do Autossustento** | Cura | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Gu do Coração Djinn** — *Transformação/Força* | Transformação, núcleo | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Gu do Punho da Montanha Ereta** ✱ | 🗡️ Ataque melee — entrega | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Gu do Trabalho Árduo** | Amplificação, apoio | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
+| 4 | **Gu do Tirano de Mil Jin ✱ | Amplificação, sustentado | [[💪 Caminho da Força\|Caminho da Força]] |
 | 5 | **Gu da Força Coletiva** — *Força/Escravidão* | Amplificação, área | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Gu de Cura Autossuficiente** ✱ — *Força/Água* | Cura | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Gu de Pedir Emprestada a Força** | Núcleo de golpe, quase extinto | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
@@ -312,11 +316,13 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 5 | **Gu do Empenho Total** ✱ | Núcleo de golpe | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Gu do Qi de Força** ✱ — *Força/Ar* | Auxiliar | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Gu do Suserano da Terra** — *Terra/Força* | Amplificação | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
+| 5 | **Gu do Punho de Montanha Rachada ✱ | 🗡️ Ataque melee — entrega o golpe | [[💪 Caminho da Força\|Caminho da Força]] |
 | 6 | **Come-Força** — *Força/Roubo* | Dreno | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
 | 6 | **Gu do Suor de Ferro** | Amplificação | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
 | 6 | **Força Própria** | Amplificação | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
 | 6 | **Puxa-Montanha** | Utilidade / Amplificação | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
 | 6 | **Puxa-Água** — *Força/Água* | Utilidade / Controle | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
+| 6 | **Gu Imortal do Corpo do Deus Marcial ✱ | Corpo, permanente, terminal | [[💪 Caminho da Força\|Caminho da Força]] |
 | 7 | **Miríade de Si Mesmo** | Invocação / Ataque | [[📖 Catálogo de Gu#Rank 7 — M = 64\|Rank 7]] |
 | 8 | **Fortitude** — *Força/Humano* | Suporte | [[📖 Catálogo de Gu#Rank 8 — M = 128\|Rank 8]] |
 | 8 | **Habilidade** | Amplificação reativa | [[📖 Catálogo de Gu#Rank 8 — M = 128\|Rank 8]] |
@@ -679,7 +685,7 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Sangue
 
-23 Gu — dano em **d8**.
+29 Gu — dano em **d8**. **23 destes moram no [[📖 Catálogo de Gu|Catálogo]]; os outros 6 moram na nota do Caminho**, e a coluna **Onde** diz qual é qual.
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
@@ -687,15 +693,19 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 2 | **Gu da Coagulação Rápida** ✱ | Corpo, regeneração | [[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)\|Corpo Elementais]] |
 | 2 | **Gu da Essência de Sangue** | Auxiliar, ingrediente | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
 | 2 | **Gu da Troca de Sangue** ✱ | Especial | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
+| 2 | **Gu da Agulha Vermelha ✱ | Ataque, à distância | [[🩸 Caminho do Sangue\|Caminho do Sangue]] |
 | 3 | **Gu da Lua Sangrenta** — *Sangue/Lua* | Ataque, dreno | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu da Reunião Sanguínea** — *Sangue/Humano* | Auxiliar, passivo | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu do Espinho Ósseo** — *Osso/Sangue* | Ataque de dano mútuo | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu do Morcego de Sangue Asas-Lâmina** — *Sangue/Fera* | Enxame, dreno | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu do Sangue Endurecido** ✱ | Corpo, defensivo | [[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)\|Corpo Elementais]] |
 | 3 | **Verme de Sangue de Parentesco** | Rastreamento | [[📖 Catálogo de Gu#🎭 Gu Sociais e de Investigação *(ranks 1 a 4)*\|Sociais]] |
+| 3 | **Gu do Torniquete Vivo ✱ | Cura, toque | [[🩸 Caminho do Sangue\|Caminho do Sangue]] |
+| 3 | **Gu das Correntes Vermelhas ✱ | Controle + dreno | [[🩸 Caminho do Sangue\|Caminho do Sangue]] |
 | 4 | **Gu da Lua Cheia Sangrenta** ✱ — *Sangue/Lua* | Ataque, dreno pesado | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Gu do Espinho Ósseo Maior** ✱ — *Osso/Sangue* | Ataque de dano mútuo | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Par de Gu de Sangue Vinculado** — *Sangue/Humano* | Utilidade, contrato | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
+| 4 | **Gu do Manto Fervente ✱ | Amplificação, sacrifício | [[🩸 Caminho do Sangue\|Caminho do Sangue]] |
 | 5 | **Gu Flor-Celeste Cortina de Sangue** — *Sangue/Formações* | Defesa, área | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Gu da Mão de Sangue** | Ataque, à distância | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Gu da Unidade Carne-Osso** — *Sangue/Humano* | Especial | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
@@ -703,9 +713,11 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 5 | **Gu do Selo do Dantian** ✱ | Suporte ritual | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Guilhotina de Sangue** — *Sangue/Escravidão* | Ataque, enxame | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Verme de Sangue de Parentesco** — *Sangue/Informação* | Rastreio | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
+| 5 | **Gu da Lâmina de Parentesco ✱ | Ataque, execução | [[🩸 Caminho do Sangue\|Caminho do Sangue]] |
 | 6 | **Ativo de Sangue** | Suporte / Cura | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
 | 6 | **Deidade do Relâmpago** — *Relâmpago/Sangue* | Invocação | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
 | 6 | **Gu Imortal do Deus de Sangue** | Invocação / Ataque | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
+| 6 | **Gu Imortal do Rio Retornante ✱ | Área, dreno pesado | [[🩸 Caminho do Sangue\|Caminho do Sangue]] |
 
 ## Som
 
@@ -907,15 +919,22 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Vento
 
-6 Gu — dano em **d10**.
+13 Gu — dano em **d10**. **6 destes moram no [[📖 Catálogo de Gu|Catálogo]]; os outros 7 moram na nota do Caminho**, e a coluna **Onde** diz qual é qual.
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
 | 1 | **Gu da Aragem Cortante** ✱ | Ataque, à distância | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
 | 2 | **Gu do Passo de Pluma** ✱ | Corpo, perícia | [[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)\|Corpo Elementais]] |
 | 2 | **Gu do Peito de Fole** ✱ — *Vento/Osso* | Corpo, reforço estrutural | [[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)\|Corpo Elementais]] |
+| 2 | **Gu do Passo de Brisa ✱ | Movimento, sustentado | [[🌪️ Caminho do Vento\|Caminho do Vento]] |
+| 2 | **Gu da Lâmina de Sopro ✱ | Ataque, à distância | [[🌪️ Caminho do Vento\|Caminho do Vento]] |
 | 3 | **Gu dos Ossos Ocos do Falcão** ✱ — *Vento/Osso* | Corpo, deslocamento | [[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)\|Corpo Elementais]] |
+| 3 | **Gu da Foice de Vento ✱ | Ataque, à distância | [[🌪️ Caminho do Vento\|Caminho do Vento]] |
+| 3 | **Gu do Rastro Apagado ✱ | Ocultação, sustentado | [[🌪️ Caminho do Vento\|Caminho do Vento]] |
+| 4 | **Gu do Vácuo Cortante ✱ | Ataque, área + controle | [[🌪️ Caminho do Vento\|Caminho do Vento]] |
 | 5 | **Gu da Foice do Vazio** ✱ | Ataque, à distância | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
+| 5 | **Gu das Asas de Andorinha ✱ | Movimento, voo, sustentado | [[🌪️ Caminho do Vento\|Caminho do Vento]] |
+| 6 | **Gu Imortal do Vento Sem Rastro ✱ | Movimento + ocultação, único | [[🌪️ Caminho do Vento\|Caminho do Vento]] |
 | 8 | **Verão** | Ataque em área | [[📖 Catálogo de Gu#Rank 8 — M = 128\|Rank 8]] |
 
 ## Vida
