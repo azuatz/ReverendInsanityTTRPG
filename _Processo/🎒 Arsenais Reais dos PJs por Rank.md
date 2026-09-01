@@ -449,10 +449,14 @@ removida pela decisão 266.)* As Asas sozinhas custam 15/rodada, e são o item q
 
 # 5. Resumo para o motor de simulação
 
-> [!warning] ⚠️ O ataque do Jiāotáng no rank 3 tem duas leituras, e a tabela lista as duas
-> O **Fantasma de Fera é raro por desenho** (decisão 219, e confirmado pelo autor): no rank 3 ele é **evento raro**, e só se torna confiável de dois jeitos — carregando o **Gu Lendário do Esforço Total** (rank 3), que faz o fantasma aparecer **sempre**, ou já tendo **uma quantidade muito grande de Marcas de Dao de Força no corpo**, o que é fase imortal.
+> [!danger] ⚠️ O Jiāotáng de rank 3 bate 3,4× o Xie Lang, e **isso é real, não artefato de publicação**
+> O **Fantasma de Fera é raro por desenho** — a decisão 219 está correta e o autor a confirmou. **Mas essa é a regra geral do Caminho, e não vale para quem carrega o Gu que remove a rolagem.** O **Gu do Empenho Total** (rank 3, 📕 canônico, *All-out Effort Gu*) é descrito no [[📖 Catálogo de Gu]] como *"a versão garantida do Fantasma de Fera — o que todo Mestre de Força tenta e raramente consegue, este Gu entrega sempre, sem rolar nada"* — e ele é o **item 4 do arsenal de rank 3 desta ficha**, logo acima nesta mesma nota.
 >
-> **Sem uma dessas duas coisas, o ataque do Jiāotáng de rank 3 é `4d10 + 5`, e mais nada.** A leitura com os três fantasmas é o **pico**, não a média — medida, ela faz ele bater **3,4 vezes** o Xie Lang, o que sairia da ordem de poder que o autor fixou. Quem for medir aquela célula precisa declarar qual das duas leituras está usando. *(Decisão 273.)*
+> **Então o pico É o valor de todo turno em que ele pagar.** Medido, ele faz **2,7×** a Lee e **3,4×** o Xie Lang, com quatro ataques por ativação garantidos — fora da ordem de poder que o autor fixou.
+>
+> **A resolução é escolha de desenho do autor**, e as duas saídas são legítimas: *(a)* o Empenho Total é **Gu lendário**, e Gu lendário quebrar a curva **é o que o torna lendário** — nesse caso o rank 3 do Jiāotáng é uma exceção deliberada e a régua de paridade vale para arsenais comuns; ou *(b)* um Gu que entrega sempre o que o Caminho inteiro consegue raramente não é equipamento padrão de rank 3, e sai da lista até a ficha ter contrapeso à altura.
+>
+> *(Decisão 274, que **corrige** a 272 e o callout errado que ela publicou aqui.)*
 
 > [!warning] Alimente o motor com os **pools prontos** desta tabela, não com "Níveis efetivos"
 > A linha de ataque de cada rank já traz o pool final, e é ela que deve ir para o motor. **Não tente
