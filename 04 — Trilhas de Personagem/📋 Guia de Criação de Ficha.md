@@ -78,7 +78,7 @@ Você entra em jogo **de mãos vazias**. Deixe o espaço de Gu em branco na fich
 
 Uma frase ligando seu personagem ao personagem de **outro jogador**, e ela precisa dizer **o que você arriscaria** — colega de infância, dívida, rivalidade, parentesco. Não precisa ser recíproco, e funciona melhor quando não é.
 
-**O Vínculo é regra, não sabor.** Uma vez por sessão, quando você age por causa dele aceitando um custo que não aceitaria de outra forma, ganha **vantagem** num teste — ou dá **+2** no teste do vinculado, se estiver ajudando ele. Agir **contra** o Vínculo o quebra, e a quebra vira um [[🤝 O Débito\|Débito]] em favor de quem foi deixado. Regra completa, e o Acordo de Mesa que vem junto, em [[🤝 Vínculos e Acordo de Mesa]].
+**O Vínculo é regra, não sabor.** Uma vez por sessão, quando você age por causa dele aceitando um custo que não aceitaria de outra forma, ganha **vantagem** num teste — ou dá **+2** no teste do vinculado, se estiver ajudando ele. Agir **contra** o Vínculo o quebra, e a quebra vira um [[🤝 O Débito|Débito]] em favor de quem foi deixado. Regra completa, e o Acordo de Mesa que vem junto, em [[🤝 Vínculos e Acordo de Mesa]].
 
 ## 8. O que preencher na ficha
 
@@ -114,7 +114,7 @@ Um personagem genérico, sem ligação com nenhum PJ de nenhuma campanha de refe
 | Defesa | 11 + 2 (sem Gu de movimento ainda) | **13** |
 | Defesa contra Alma | 10 + 3 + 2×1 | **15** |
 | Acerto melee | d20 + 1 + 3 | **d20 + 4** |
-| Regeneração | Grau C → 4%/h | **~10 de essência por hora de descanso** *(o tanque de 240 enche em ~25 horas — o ritmo é de dias, não de minutos)* |
+| Regeneração | Grau **B** → 6%/h | **~14 de essência por hora de descanso** *(o tanque de 240 enche em ~17 horas — o ritmo é de dias, não de minutos)* |
 | Gu que cabem na Abertura | (60 ÷ 10) + 1 | **7** |
 | Gu sustentados ao mesmo tempo | fixo | **3** |
 | Golpes registrados | 1 + 1 | **2** |

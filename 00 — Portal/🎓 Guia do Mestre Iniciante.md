@@ -241,7 +241,7 @@ Rode isto numa sessão dedicada de ~2h. É onde a campanha realmente começa.
 Custo: 1 ponto por degrau até +3, 2 pontos pra ir de +3 a +4, e baixar um atributo pra −1 **devolve** 1 ponto. Seis atributos: **FOR · CON · DES · AST · VON · CAR**.
 
 - **FOR** bate com arma. **VON** mata com Gu. As duas formas de fazer dano.
-- **CON** é vida, quantos Gu ficam ativos, e o portão dos Gu que se instalam no corpo.
+- **CON** é vida e o portão dos Gu que se instalam no corpo. *(Não decide quantos Gu ficam ligados: esse teto é 3 pra todo mundo.)*
 - **DES** é a Defesa. Ignorar Destreza é escolher morrer rápido.
 - **AST** é quantos Golpes Matadores cabem na ficha (`AST + 1`) e metade da investigação.
 - **CAR** é quantos aliados se comanda (`CAR + 1`) e a outra metade da investigação.
@@ -267,7 +267,7 @@ Aptidão 63% (Grau de aptidão B)   Rank 1, Estágio Inicial   M = 1   B (Grau d
 FOR +3   CON +3   DES +2   AST +2   VON +2   CAR −1     (13 pontos)
 
 Vitalidade  27   (18 + 3×3)        Alma      22   (16 + 3×2)
-Essência   252   (63 × 4)          Regeneração  6 / minuto, fora de combate
+Essência   252   (63 × 4)          Regeneração  ~15 / HORA (Grau B, 6%/h), fora de combate
 Defesa      13   (10 + 2 + 1 + 0)  ← sem Gu de movimento ainda
 Acerto melee  d20 + 6              Acerto de Gu  d20 + 5 + rank do Gu
 CD dos Gu dela  12 + rank do Gu

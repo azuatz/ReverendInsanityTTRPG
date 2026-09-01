@@ -37,8 +37,10 @@ Ferimento          = −5% permanente em Vitalidade E Alma máximas
 
 Defesa             = 10 + DES + rank + rank do Gu de movimento ativo
 Defesa contra Alma = 10 + VON + 2 × rank    [ataques de Alma miram ESTA]
-Acerto melee       = d20 + FOR + (rank + 2) + treino
-Acerto de Gu       = d20 + VON + (rank + 2) + rank do Gu + treino
+Acerto melee       = d20 + FOR + (rank + 2)
+Acerto de Gu       = d20 + VON + (rank + 2) + rank do Gu
+                     [ATAQUE NÃO SOMA TREINO — o bônus de treino é só
+                      de perícia, fora de combate. Decisão 215]
                      [não existem armas à distância mundanas — alcance é Gu]
 CD dos seus Gu     = 10 + VON + rank do Gu   [+2 se o Caminho for d6]
                      → 65% de acerto entre iguais com Gu dos dois lados

@@ -44,7 +44,7 @@ Uma matriz montada com Gu ancorados no solo de um território: **Gu-núcleo** (q
 > [!example]+ Exemplo, parte 1 — montando a Formação Terrestre
 > Ainda mortal, rank 3, o Mestre de Gu decide proteger o pátio principal do clã. Escolhe **Grau II — Recinto**: 2 Gu-núcleo + 4 Gu de apoio, 200 m de raio, 6 horas de montagem ininterrupta. Um núcleo vira **Defesa de área**, o outro **Detecção** — juntos, a formação blinda quem está dentro (RD `2×M`) e avisa o fundador de quem se aproxima. Manutenção diária: `(2+4)² × 5 = 180` de essência, ~5 Pedras Primordiais/dia, pagas por um veio de essência natural que corre sob o pátio.
 
-**Cada Gu-núcleo escolhe uma função** da tabela abaixo, e a formação faz todas as funções dos núcleos que tiver. Uma formação de grau III com três núcleos pode ser Detecção + Supressão + Armadilha, ou três núcleos de Defesa empilhados (e aí a RD não empilha — vale a regra de [[⚔️ Combate|Combate]]: a vale só a maior, e a segunda não soma nada — decisão 223).
+**Cada Gu-núcleo escolhe uma função** da tabela abaixo, e a formação faz todas as funções dos núcleos que tiver. Uma formação de grau III com três núcleos pode ser Detecção + Supressão + Armadilha, ou três núcleos de Defesa empilhados (e aí a RD não empilha — vale a regra de [[⚔️ Combate|Combate]]: vale só a maior, e a segunda não soma nada — decisão 223).
 
 ## O que uma formação faz
 
@@ -85,7 +85,7 @@ Manutenção da Formação = (Gu-núcleo + Gu de apoio)² × 5 de essência,
 
 Uma vez por cena, o fundador **dentro do raio** pode sobrecarregar a formação: ela passa a operar **um grau acima** (raio, CDs e RD da linha seguinte) por uma cena inteira.
 
-Durante a sobrecarga, a formação **deixa de ser infraestrutura e vira Gu sustentado**: conta como `G + 1` Gu sustentados na Manutenção por rodada do fundador **e** ocupa esse tanto das vagas dele. Se ele não tiver as vagas, não pode sobrecarregar.
+Durante a sobrecarga, a formação **deixa de ser infraestrutura e vira Gu sustentado**: **ocupa `G + 1` das vagas de sustentação do fundador**. Se ele não tiver as vagas, não pode sobrecarregar.
 
 Com o teto de sustentação em **3**, a conta fica dura de propósito:
 
@@ -172,7 +172,7 @@ Abrir     = selar 1% das suas Marcas do Caminho (mínimo 100) + 100 de Essência
 Sustentar = 50 de Essência Imortal por rodada
 ```
 
-**Marcas seladas não são gastas — mas também não são suas enquanto o Domínio estiver aberto.** Elas saem da contagem: um Mestre com 10.000 Marcas que sela 100 luta o combate inteiro com 9.900, o que não muda nada; um Grão-Mestre no piso exato de 50.000 que sela 500 **recua pro nível Mestre** e perde 1 Nível de Dano durante a própria luta que ele escolheu isolar.
+**Marcas seladas não são gastas — mas também não são suas enquanto o Domínio estiver aberto.** Elas saem da contagem: um Mestre com 10.000 Marcas que sela 100 luta o combate inteiro com 9.900, o que não muda nada; um Imortal no piso exato de 50.000 Marcas que sela 500 **cai de faixa e perde 1 Nível de Potência** durante a própria luta que ele escolheu isolar.
 
 **Se o Domínio for rompido por outro Imortal ou pela fronteira, 10% das Marcas seladas se perdem permanentemente.** Fechar por vontade própria ou por fim de duração devolve tudo.
 
@@ -192,7 +192,7 @@ Duração  = (Marcas do Caminho ÷ 2.000) rodadas, mínimo 5, máximo 20
 O Domínio fecha antes se a Essência Imortal acabar. Segurar além do tanque custa **1 Ferimento por rodada**, e o Imortal escolhe rodada a rodada se paga.
 
 > [!example]+ Exemplo, parte 2 — abrindo o Domínio de Campo de Batalha
-> Décadas depois, o mesmo Mestre de Gu já é Imortal de rank 6, com nível de domínio **Mestre** (10.000 Marcas) no próprio Caminho. Num duelo contra outro Imortal, abre o Domínio: sela 100 Marcas (1%, o mínimo) + gasta 100 de Essência Imortal pra erguê-lo, e paga 50 EI por rodada de sustento. O Domínio cobre 100 m por 5 rodadas — o bastante pra garantir que o duelo aconteça sem interrupção externa e sem que o oponente fuja antes da hora.
+> Décadas depois, o mesmo Mestre de Gu já é Imortal de rank 6, com **10.000 Marcas** no próprio Caminho e domínio de **Mestre** — dois números diferentes, e é de propósito (decisão 254). Num duelo contra outro Imortal, abre o Domínio: sela 100 Marcas (1%, o mínimo) + gasta 100 de Essência Imortal pra erguê-lo, e paga 50 EI por rodada de sustento. O Domínio cobre 100 m por 5 rodadas — o bastante pra garantir que o duelo aconteça sem interrupção externa e sem que o oponente fuja antes da hora.
 
 ## O que ele bloqueia — e o que não bloqueia
 
@@ -210,7 +210,7 @@ O Domínio fecha antes se a Essência Imortal acabar. Segurar além do tanque cu
 
 **1. Força bruta na fronteira.** A fronteira tem `Marcas do Caminho ÷ 10` de Vitalidade, **até o teto de 5.000**, e **RD `2 × M`** do rank do dono. Contra um Mestre de 10.000 Marcas são **1.000 de Vitalidade** — trabalho de Golpe Matador, não de ataque avulso. Zerada, a fronteira abre um rombo permanente e o Domínio termina.
 
-> **Por que o teto de 5.000 existe.** Sem ele, a fórmula escala com a contagem de Marcas e um Grão-Mestre de 150.000 teria uma fronteira de 15.000 de Vitalidade — força bruta deixaria de ser uma saída, e o Domínio viraria a única regra do sistema que **remove fuga, socorro e comunicação sem contrapartida jogável**. Isso contradiz frontalmente o pilar de sobreviventes ("fugir tem regra própria", ver [[🏃 Fuga e Perseguição|Fuga e Perseguição]]): sempre tem que dar pra sacrificar alguma coisa e sair. Com o teto, um Domínio de Venerável continua sendo pesadelo, mas um grupo determinado com um Golpe Matador Coletivo ainda enxerga a porta.
+> **Por que o teto de 5.000 existe.** Sem ele, a fórmula escala com a contagem de Marcas e um Imortal com 150.000 Marcas teria uma fronteira de 15.000 de Vitalidade — força bruta deixaria de ser uma saída, e o Domínio viraria a única regra do sistema que **remove fuga, socorro e comunicação sem contrapartida jogável**. Isso contradiz frontalmente o pilar de sobreviventes ("fugir tem regra própria", ver [[🏃 Fuga e Perseguição|Fuga e Perseguição]]): sempre tem que dar pra sacrificar alguma coisa e sair. Com o teto, um Domínio de Venerável continua sendo pesadelo, mas um grupo determinado com um Golpe Matador Coletivo ainda enxerga a porta.
 
 **2. Domínio contra Domínio.** Outro Imortal abre o dele por cima. **Teste oposto de Marcas no Caminho respectivo**: quem tiver mais vence, e o perdedor perde 10% das Marcas que selou. Se a diferença entre os dois for **menor que 10%**, os dois Domínios colapsam juntos e ninguém sela nada de volta.
 

@@ -91,7 +91,7 @@ A frase certa depois de uma vitória é: *"conseguimos... e olha o que custou."*
 
 **Os seis atributos** (de −1 a +4):
 - **FOR** — briga corpo a corpo
-- **CON** — vitalidade, e quantos Gu você aguenta ativos
+- **CON** — vitalidade, e o portão dos Gu que se instalam no corpo
 - **DES** — Defesa e iniciativa
 - **AST** — ler o mundo: investigar, perceber, planejar
 - **VON** — ativar Gu: seu "atributo de conjuração". Também é ele que segura a barra de Alma e a **Defesa contra Alma**

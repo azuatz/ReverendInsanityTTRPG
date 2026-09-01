@@ -18,7 +18,7 @@ escopo: sistema
 >
 > **1. Todo personagem começa sem nenhum Gu.** O primeiro Gu é conquistado **em jogo**, na primeira ou segunda sessão. Ele não é uma escolha de ficha — é uma cena, e o Gu que sair dela vai ser lembrado a campanha inteira. É a coisa mais importante que a criação de personagem deste sistema faz de diferente.
 >
-> **2. Pontos não viram pedra, item nem favor.** Ponto de criação é caro demais pra trocar por dinheiro. Ele compra atributo, e compra Aptidão. Só.
+> **2. Pontos não viram pedra, item nem favor.** Ponto de criação é caro demais pra trocar por dinheiro. Ele compra **atributo**, e só isso. **Aptidão não se compra** — é rolada e é definitiva.
 
 ---
 
