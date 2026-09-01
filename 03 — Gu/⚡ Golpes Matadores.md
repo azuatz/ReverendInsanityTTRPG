@@ -250,8 +250,12 @@ Vários cultivadores montando um golpe único, cada um contribuindo com os Gu de
 
 Essa é a peça que faz um grupo pequeno parecer maior que a soma das partes — e a razão mecânica pela qual vale a pena o inimigo separar o grupo antes de lutar. Um mestre que entende isso constrói encontros em torno disso.
 
-> [!warning] Na fase mortal, é golpe de desespero — não abertura de cena
-> A sexta rodada de simulação mediu a CD 22 do teste de conjuração coletivo (4 participantes) em ~15% de sucesso antes do rank 6. **Isso é decisão de mesa, não bug**: o Golpe Matador Coletivo nasce como a ferramenta que vira um combate perdido — algo que se monta com o grupo já ferido, os apoios já posicionados, contra um alvo que não vai se mexer a tempo de quebrar a formação — não como jogada de rodada 1 contra um encontro comum. Ensine a mesa a usá-lo assim: **jogada de última rodada, não de primeira.**
+> [!question] "Golpe de desespero" — o rótulo perdeu o lastro e ainda não foi refeito
+> Esta nota classificava o Coletivo como jogada de última rodada, e a base era **a CD 22** do teste de conjuração de quatro participantes, medida em ~15% de sucesso antes do rank 6. **Essa CD não existe mais:** a decisão 240 trocou a fórmula para `10 + nº de Gu`, e sob a regra nova um coletivo de 5 Gu tem CD 15 — **muito mais fácil de acertar**. Some a isso que **nenhuma bateria jamais mediu o coletivo**: todas rodaram o combo em modo solo.
+>
+> Então o rótulo hoje se apoia num número revogado e em zero medição, e **fica aqui marcado como não verificado** até a remedição. Não quer dizer que esteja errado — o Coletivo tem a **Retaliação caindo sobre todos os participantes**, que é um custo brutal e pode continuar justificando o "desespero" sozinho, sem depender da CD.
+>
+> **O que continua verdadeiro e não depende de medição:** a Brecha é compartilhada, e neutralizar **um** participante derruba o golpe inteiro e cobra o Retrocesso de todos. Isso torna o Coletivo frágil por construção e é a razão mecânica de o inimigo querer separar o grupo — independentemente do que a próxima bateria disser sobre a frequência de uso.
 
 ## 🛡️ Golpes Matadores defensivos
 
