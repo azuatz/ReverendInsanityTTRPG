@@ -74,6 +74,6 @@ Acumule 3 sucessos — UMA falha destrói o Gu
 > [!info] Procedência desta regra
 > **📕 Confirmado no texto-fonte, literal:** a exclusividade do Caminho da Sabedoria (*"only wisdom path Gu Masters had the power to subdue this kind of will"*) e o estado 1 — o volume 3, no episódio do Fixed Immortal Travel, mostra uma vontade que *"forcibly suppressed Fang Yuan's will within the Gu but did not have time to refine it"*, com o Gu sobrevivendo inerte e sem responder a quem o tomou.
 >
-> **📕 Por citação de terceiro, capítulo 1299:** a destruição do Gu na tentativa de refino forçado. Trazido pela sessão de pesquisa que leu o romance integralmente; não reconferi este capítulo específico no texto-fonte, e fica registrado assim para que a procedência não vire cânone falso. *(Decisão 256.)*
+> **📕 Por citação de terceiro, capítulo 1299:** a destruição do Gu na tentativa de refino forçado. Trazido pela sessão de pesquisa que leu o romance integralmente; não reconferi este capítulo específico no texto-fonte, e fica registrado assim para que a procedência não vire cânone falso. *(Decisão 257.)*
 >
 > **✍️ Autoral:** os números — CD, contagem de sucessos e a assimetria "duas falhas encerram a supressão, uma falha destrói no refino". A obra dá a forma; a dosagem é nossa.
