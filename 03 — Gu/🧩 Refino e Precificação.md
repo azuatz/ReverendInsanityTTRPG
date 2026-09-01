@@ -49,6 +49,28 @@ Acumule N sucessos antes de 2 falhas
 
 *(Mecanicamente, vantagens acima da primeira viram +2 cada no teste — não role três dados.)*
 
+### ⏳ Quanto tempo leva uma tentativa
+
+Refino não é uma rolagem no meio da sessão a partir do rank 3 — é **tempo de calendário**, e é assim que a obra o descreve.
+
+| Rank do Gu | Uma tentativa leva | Sem as condições do Ritual | Com as quatro condições |
+|---|---|---|---|
+| 1 | minutos | ~1 tentativa · a mesma tarde | 1 tentativa |
+| 2 | uma hora | ~2 tentativas · a mesma tarde | 1 tentativa |
+| 3 | meio dia | **~8 tentativas · 4 dias** | 1 tentativa · meio dia |
+| 4 | um dia | **~45 tentativas · mês e meio** | ~1 tentativa · um dia |
+| 5 | três dias | **~2.400 tentativas · dezenove anos** | ~2 tentativas · **uma semana** |
+| 6 — Imortal | uma semana | impossível sem Espírito da Terra | ver [[🧿 Espíritos da Terra]] |
+
+**Entre tentativas, os ingredientes se repõem.** Cada tentativa fracassada consome o lote — é aí que o refino vira caro, não na rolagem.
+
+> [!important] O número que explica o Caminho de Refino inteiro
+> As colunas acima não são estimativa: saem do próprio teste estendido publicado, para um refinista **do mesmo rank do Gu**, com Astúcia +3 e o treino do rank dele.
+>
+> **Refinar um Gu de rank 5 de mãos vazias leva dezenove anos. Com receita, materiais puros, local condizente e um assistente qualificado, leva uma semana.**
+>
+> É a diferença entre 0,04% e 44% de chance por tentativa. **As condições do Ritual não são bônus — elas *são* o refino de rank alto.** Um Mestre de Gu que consegue refinar rank 5 não é alguém com Astúcia alta; é alguém que tem a receita, o dinheiro, o lugar e o aliado. E é exatamente por isso que, no romance, receitas valem mais que os Gu, e mestres de refino trabalham para clãs em vez de sozinhos. *(Decisão 255.)*
+
 > Isso vale pra elevar um Gu bruto (Refino único) ou pra completar uma fusão cuja receita você já tem. **Fusão sem receita não roda** — a única exceção universal é a Regra de Linhagem (ver [[📜 Livro de Receitas de Gu]]); quem não tem a receita do Gu-alvo primeiro [[#🧠 Deduzir uma Receita|deduz]] ou acha ela no mundo (decisão 123).
 
 ### 🔨 O Ritual — quantas condições o refino exige

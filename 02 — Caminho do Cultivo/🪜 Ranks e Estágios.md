@@ -137,7 +137,26 @@ Teste de Ruptura = 1d20 + bônus de Aptidão vs. CD do salto
 
 **Vantagem no teste** (rola 2d20, fica com o maior) se o personagem usar um Gu de impacto/ruptura apropriado, ou receber ajuda direta de outro cultivador infundindo essência.
 
-**Falha:** a essência ricocheteia — Retrocesso (ver [[❤️ Recursos e Dano|Recursos e Dano]]) mais uma condição narrativa temporária (tontura, fraqueza) que leva semanas pra sarar de verdade.
+> [!warning] Essência emprestada cobra o preço depois
+> A ajuda de outro cultivador dá vantagem, mas **essência alheia não é gratuita**. Se o teste **falhar** com essência emprestada em uso, além do resultado normal o personagem **perde um grau de Aptidão permanentemente** (A → B → C → D; quem já é D perde 5 pontos percentuais da porcentagem dele). A Abertura foi forçada por uma essência que não era dela e a fundação não voltou ao que era.
+>
+> 📕 *Canônico:* o romance é explícito de que essências que se chocam dentro de uma Abertura causam *"great damage to the aperture"*, e que uma Abertura danificada tem consequências que *"range from having one's cultivation lowered to **having their latent talent lowered as well**"*. É a rota canônica do talento fraco que sobe porque alguém investiu nele — com o preço que a obra cobra. *(Decisão 255.)*
+
+### O que acontece quando a ruptura falha
+
+Falhar não é só perder o turno: é a essência acumulada do Pico inteiro ricocheteando dentro da Abertura.
+
+| Resultado | O que acontece |
+|---|---|
+| **Passa** | Sobe de rank. O estágio volta ao Inicial e o M dobra — ver [[📈 O Que Muda ao Subir]] |
+| **Falha por menos de 10** | **Escolha do jogador:** *(a)* **esperar** — a tentativa se encerra e ele só pode tentar de novo depois de reacumular a reserva do Pico ([[🧘 Ritmo de Cultivo e Cultivo Fechado]]); ou *(b)* **forçar agora** — sofre **1 Ferimento** e rola de novo imediatamente |
+| **Falha por 10 ou mais** | **Retrocesso** (ver [[❤️ Recursos e Dano]]) e **a espera é obrigatória** — não dá pra forçar por cima de um ricochete desses |
+| **1 natural** | **Regride um rank.** A parede não só resiste: a fundação abaixo dela racha. O personagem cai para o rank anterior, no estágio Pico dele |
+
+> [!danger] Forçar escala, e escala rápido
+> Cada forçada **seguida na mesma cena** custa mais que a anterior: a primeira cobra **1 Ferimento**, a segunda **2**, a terceira **3**, e assim por diante. Um personagem que insista quatro vezes paga **dez Ferimentos** — metade da Vitalidade e da Alma máximas, para sempre.
+>
+> **É por isso que esperar é o normal e forçar é desespero.** Na obra, cultivadores passam anos no Pico juntando coragem para uma tentativa; quem força é quem não tem tempo — o perseguido, o moribundo, o demoníaco. A regra deve fazer o jogador sentir isso na ficha, não só na narração. *(Decisão 255.)*
 
 **Falha crítica (1 natural):** a Abertura racha feio. O jogador escolhe: perde o estágio mais recente conquistado (regride dentro do rank atual), **ou** −1 permanente num atributo — mesma escolha do Teste de Morte, pra manter o jogo consistente sobre o que "falha catastrófica" custa.
 
