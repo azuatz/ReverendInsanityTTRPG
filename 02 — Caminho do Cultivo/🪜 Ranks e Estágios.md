@@ -218,8 +218,33 @@ Um Imortal de Oitavo Giro só se torna Venerável cumprindo **todas** estas cond
 
 Cumprir três das quatro e falhar na última é uma tragédia de campanha em si — existe precedente narrativo de cultivadores poderosíssimos que nunca conseguiram completar a quarta condição.
 
-> [!important] As condições 2 e 3 se cumprem NO ato do salto, não antes — o rompimento do teto
-> O teto do rank 8 é **299.999 Marcas totais** ([[☯️ Marcas de Dao]]) — é matematicamente impossível ter 300.000 num Caminho **antes** de tentar. É assim de propósito, e é assim na obra: o candidato chega **saturado e concentrado** (o teto cheio, a esmagadora maioria num Caminho só), declara a tentativa, e a quarta condição — romper o bloqueio do Dao Celestial — é o que **expande o teto no próprio evento**. As Marcas da provação final (escala da Calamidade das Dez Mil, ~86.750 por evento — decisão 142) entram já sem teto e completam os 300.000: o Grande Mestre Supremo se **consolida no rompimento**, não antes dele. É também por isso que quem dividiu as Marcas entre dois Caminhos nunca vira Venerável — com o principal a ~150.000, nem as Marcas do evento inteiro fecham a conta, e o bloqueio não rompe.
+> [!important] As condições 2 e 3 se cumprem ANTES do salto — e é aí que está a dificuldade
+> Uma versão anterior desta nota dizia que era *matematicamente impossível* ter 300.000 Marcas num Caminho antes de tentar, porque o rank 8 tinha um teto duro de 299.999. **Esse teto não existe mais** (decisão 218): as faixas por rank viraram descritivas, e um Imortal que fica no rank 8 sobrevivendo a tribulações continua gravando Marcas normalmente.
+>
+> Então a conta agora é direta, e mais dura do que a antiga: **o candidato precisa chegar aos 300.000 no Caminho principal por acúmulo real, antes de declarar a tentativa.** Como parte das Marcas dele inevitavelmente caiu em outros Caminhos, o **total** dele estará bem acima disso — e cada Marca acima do topo da faixa do rank 8 cobra escalada da [[⛈️ A Vontade do Céu#Excesso de Marcas — o preço de ficar|Vontade do Céu]] sobre todas as Calamidades seguintes. **Virar Venerável é atravessar anos de tribulações agravadas de propósito, para juntar uma contagem que ninguém precisa ter.**
+>
+> É isso, e não um teto artificial, que torna **Venerável coisa de especialista**: quem repartiu as Marcas entre dois Caminhos precisa de aproximadamente o dobro do total para chegar aos mesmos 300.000 num só — e paga a escalada do céu o caminho inteiro. É possível. É o modo mais difícil que existe de fazer isso.
+
+### 🚧 O bloqueio do Dao Celestial — a quarta condição
+
+**É a única provação do jogo que não está no calendário.** Calamidades e Provações chegam a cada 10, 50 ou 100 anos internos, previsíveis e calculáveis ([[🌩️ Calamidades e Provações]]). O bloqueio não: ele **acontece quando o candidato declara a tentativa**, e é maior que qualquer Calamidade das Dez Mil.
+
+**Por que existe:** o Dao Celestial não quer que o número de Imortais cresça enquanto eles ficam mais fortes. As Calamidades e Provações de toda a fase imortal já são parte desse bloqueio — o freio contínuo. O que vem no salto para o rank 9 é o freio **inteiro de uma vez**, e ele se manifesta em três frentes simultâneas:
+
+| Frente | O que faz |
+|---|---|
+| **Destino** | O mundo conspira contra a tentativa: coincidências ruins, aliados indisponíveis, inimigos que chegam na hora exata. Trate como a faixa **Alvo do Céu** da [[⛈️ A Vontade do Céu]], com Fichas de Azar sem limite por rodada |
+| **Longevidade** | O relógio do candidato encurta durante a prova. Se ele não fecha a tentativa dentro do prazo que lhe resta, morre de velhice no meio dela ([[⏳ Longevidade]]) |
+| **A provação** | Uma Calamidade acima de tudo que ele já enfrentou: **cinco etapas, CD 20 + faixa do Contador, e o dano de cada etapa falhada é dobrado** |
+
+**As duas contramedidas conhecidas** — e a existência delas é o que impede o bloqueio de ser uma parede lisa:
+
+- **Caminho Humano.** Todo Venerável da história desenvolveu um golpe supremo de Caminho Humano para atravessar o bloqueio. É a rota "oficial", e explica por que o Caminho Humano — que parece genérico e fraco na fase mortal — é o Caminho que mais aparece no topo.
+- **Caminho da Sorte.** A rota alternativa: torcer o próprio destino em vez de resistir a ele. Cara, sutil e impossível de provar a terceiros.
+
+E existe a rota suja, que a mesa deve conhecer porque um vilão pode ter usado: **empilhar tribulação sobre tribulação** — disparar o bloqueio no meio de outra Calamidade, para que ninguém consiga distinguir o que está acontecendo nem interferir. Funciona. É insano.
+
+> **Pro mestre:** esta é a última cena de uma campanha que chegou ao fim do mapa. Não a role no meio de uma sessão — ela é a sessão. E as três frentes existem justamente para que os outros jogadores tenham o que fazer enquanto um deles tenta: alguém segura os inimigos que o Destino trouxe, alguém resolve o problema da Longevidade, e o candidato enfrenta a provação.
 
 ### Venerável × Venerável Demônio
 
