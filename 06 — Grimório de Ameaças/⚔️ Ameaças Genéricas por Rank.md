@@ -20,7 +20,7 @@ Estatísticas prontas de inimigo, escaladas pela mesma tabela de M do rank que o
 |---|---|---|---|---|---|---|---|
 | **Recruta** *(só dentro de uma Horda)* | Bucha de canhão, ameaça em número | `6 × M(rank)` | `10 + rank` | **`d20 + rank + 4`** | — | `M d6` | 6 a 8 |
 | **Guerreiro** | Oponente individual padrão | `12 × M(rank)` | `12 + rank` | **`d20 + rank + 6`** | `1 × M` | `M d8` | 2 a 3 |
-| **Elite** | Rival nomeado, luta de verdade | `21 × M(rank)` | `14 + rank` | **`d20 + rank + 8`** | `2 × M` | `M d10`, costuma ter 1 Golpe Matador próprio | 1 a 2 |
+| **Elite** | Rival nomeado, luta de verdade | `21 × M(rank)` | `14 + rank` | **`d20 + rank + 8`** | `2 × M` | `M d10`, e **do rank 3 em diante** costuma ter 1 Golpe Matador próprio | 1 a 2 |
 
 > **Recruta solto é decorativo.** Um personagem do mesmo rank mata um Recruta por golpe, então seis Recrutas soltos são seis ações que nunca acontecem — medido, 100% de vitória e 4 de 4 personagens de pé em todo rank. **Use Recruta só dentro de uma Horda.** Os três moldes continuam aqui porque servem para montar cena sob medida, mas Guerreiro e Elite só ameaçam com a Ação Especial ligada, e Recruta só em bloco.
 
@@ -123,7 +123,7 @@ Um único inimigo contra um grupo perde a ação por turno na maioria dos sistem
 1. **Vitalidade — o multiplicador vem da tabela abaixo**, junto com as ações. Não é um número só: vai de `63 × M` no rank 1 a `115 × M` no rank 5.
 2. **Age várias vezes por rodada, e o número vem da tabela abaixo** — não é fixo.
 3. **Ignora a primeira Condição de controle** que sofrer em cada cena (atordoamento, lentidão, medo) — descreva como ele resiste, não como ela simplesmente falha.
-4. Tem pelo menos **um Golpe Matador** e **um Gu de defesa sustentado** — um chefe sem defesa própria morre rápido demais quando o grupo foca fogo nele.
+4. Tem **um Gu de defesa sustentado** e, **se for de rank 3 ou mais**, pelo menos **um Golpe Matador** (ranks 1 e 2 não montam combo — decisão 243; um Chefe de rank baixo compensa com ações, que é o botão que a tabela abaixo usa) — um chefe sem defesa própria morre rápido demais quando o grupo foca fogo nele.
 
 ### Vitalidade e ações do Chefe, por rank
 

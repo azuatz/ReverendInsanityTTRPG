@@ -30,7 +30,7 @@ Nota-mãe. **De onde saem os inimigos.** Criaturas e adversários **genéricos**
 1. **Decida o rank do encontro.** Normalmente é o mesmo dos personagens.
 2. **Escolha os moldes** na tabela de composição — ela já diz quantos cabem numa cena justa.
 3. **Dê um nome e uma cara.** O molde é só o esqueleto; o que faz o inimigo ser memorável é *o que ele quer* e *o que ele faz quando está perdendo*.
-4. **Se for um vilão nomeado**, dê a ele um Golpe Matador próprio do [[📖 Catálogo de Gu]] — é o que transforma um bloco de números num personagem.
+4. **Se for um vilão nomeado de rank 3 ou mais**, dê a ele um Golpe Matador próprio do [[📖 Catálogo de Gu]] — é o que transforma um bloco de números num personagem. **Ranks 1 e 2 não montam combo** (decisão 243): ali o que dá personalidade é a Ação Especial, e o que dá ameaça é uma ação a mais por rodada.
 
 > [!warning] O erro mais comum
 > Esquecer o **estágio**. Todo inimigo tem estágio igual ao do grupo, salvo intenção contrária: some `+Grau por dado` no dano e `+4 × M × Grau` na Vitalidade. Sem isso, a partir do estágio Médio a mesa atropela o bestiário e o combate perde a graça.

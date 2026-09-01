@@ -52,7 +52,7 @@ escopo: sistema
 
 ## ⚡ Golpe Matador
 
-*(obrigatório em Elite e Chefe)*
+*(obrigatório em Elite e Chefe **de rank 3 ou mais**. Ranks 1 e 2 não montam Golpe Matador — decisão 243; deixe esta seção em branco e dê ações a mais no lugar)*
 
 - **Núcleo + apoio:** 
 - **Efeito:** *(pool final — `M d? + (M × B)` com os Níveis do combo já contados)*

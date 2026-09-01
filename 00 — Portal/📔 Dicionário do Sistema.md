@@ -52,6 +52,9 @@ escopo: sistema
 | **Obrigação** | O ônus de pertencer a um clã: trilho de **0 a 5** na ficha. Recusar uma Cobrança sobe 1, e quanto mais alto, mais o clã aperta — má vontade, mesada cortada, vigilância, e a partir do 3 a exigência de selar um juramento | [[🏛️ Clãs e Seitas]] |
 | **Salão de Missões** | O balcão do clã: depois de um ano de aulas básicas, seu grupo pega missões ☆ a ☆☆☆☆☆ por pedras e CC | [[🏛️ Clãs e Seitas]] |
 
+| **Quebra de Paredes** | O teste que sobe de rank: `d20 + bônus de Aptidão` contra a CD do salto. Falhar por menos de 10 dá escolha (esperar, ou forçar pagando 1 Ferimento); por 10 ou mais impõe espera; **`1` natural regride um rank** | [[🪜 Ranks e Estágios]] |
+| **Retrocesso** | O que a falha na Quebra de Paredes impõe: a reserva do Pico se desfaz e o personagem espera antes de tentar de novo | [[🪜 Ranks e Estágios]] |
+
 ## Os Gu no dia a dia
 
 | Termo | Em uma linha | Regra |
@@ -115,12 +118,21 @@ escopo: sistema
 | **Zonas da cidade** | O mapa de bairro funcional da metrópole além da Arena: Cuidado de Gu (pensão paga), Luta de Gu (só o Gu luta), Refino por Procuração, Leilão em 3 portes por frequência | [[🏙️ Metrópoles — Centros, Tokens e Arena]] |
 | **Teste de Sucessão Comercial** | Arco de 3 meses por um posto comercial: fundo inicial igual pra cada candidato, vence quem lucrar mais líquido | [[🏙️ Metrópoles — Centros, Tokens e Arena]] |
 
+| **Ímpeto** *(Caminho da Força)* | Contador de **0 a 5** que o lutador acumula batendo e apanhando corpo a corpo, e gasta por Níveis, derrubada, ataque extra ou **Descarga**. Zera se ele parar de lutar de perto | [[💪 Caminho da Força]] |
+| **Descarga** *(Caminho da Força)* | Gastar os 5 de Ímpeto de uma vez: **+3 Níveis e o golpe ignora a RD do alvo**. Cada Descarga na mesma cena cobra Vitalidade e −1 de Força, cumulativo | [[💪 Caminho da Força]] |
+| **Posição** *(Caminho do Vento)* | Os Gu de Vento entram na Escada em passo baixo e sobem **pela distância percorrida e pelo ângulo do ataque**, somados na hora. Não é o Ímpeto: não é contador, é geometria | [[🌪️ Caminho do Vento]] |
+| **Sangria** *(Caminho do Sangue)* | A **Vitalidade** que um Gu de Sangue cobra pra ativar, além da essência — `1 × M` no padrão. Toda Sangria tira Vitalidade agora **e** soma o mesmo tanto à Dívida | [[🩸 Caminho do Sangue]] |
+| **Dívida de Sangue** | Trilho que só sobe: **encolhe o seu teto de Vitalidade** até ser quitada com sangue fresco. Cura devolve pontos até o teto encolhido, nunca acima — o corpo não está ferido, está vazio | [[🩸 Caminho do Sangue]] |
+| **Encadeamento de Geração** *(Wu Xing)* | Ativar um Gu do elemento **gerado** logo depois do **gerador** custa metade e soma +1 Nível. Do terceiro elo em diante, +2 | [[☯️ Os Cinco Caminhos Wu Xing]] |
+
 ## O mundo imortal *(só importa perto do rank 5)*
 
 | Termo | Em uma linha | Regra |
 |---|---|---|
 | **Ascensão Imortal** | A passagem do rank 5 pro 6 — evento de campanha, dois portões, risco real de morte | [[♾️ A Ascensão Imortal]] |
 | **UV** | Sigla de **Uva Verde** — a essência imortal do rank 6, moeda de custo de ativação de Gu Imortal nesse rank (equivalente a JV no rank 7, LB no rank 8) | [[🪜 Ranks e Estágios]] |
+| **Densidade Imortal** | Depois do rank 6 não há mais estágios: **a posição da sua contagem de Marcas dentro da faixa do rank** ocupa o lugar deles, e alimenta a **Vitalidade** | [[☯️ Marcas de Dao]] |
+| **Domínio** *(attainment)* | O quanto você **compreende** o seu Caminho — e **não** é a sua contagem de Marcas: são dois eixos independentes. Marca é estoque e dá Níveis; Domínio é entendimento, sobe em salto e dá capacidades | [[☯️ Marcas de Dao]] |
 | **Gu Imortal** | Gu de rank 6+. Quase sempre único no mundo; não tem receita, e não morre com o dono | [[📖 Catálogo de Gu]] |
 | **Marca de Dao** | A progressão depois do rank 6: fragmentos de lei do mundo impressos no corpo. Substituem o estágio | [[☯️ Marcas de Dao]] |
 | **Domínio** | Os 6 níveis de maestria num Caminho imortal (Vislumbre → Grande Mestre Supremo) | [[☯️ Marcas de Dao]] |
