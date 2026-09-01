@@ -241,19 +241,22 @@ Quem **viu o golpe ser usado ao menos uma vez** pode tentar deduzi-la: teste de 
 
 Quem conhece a Brecha e a explora: o golpe **perde todos os Níveis de Dano do combo** (o núcleo dispara sozinho, no passo base) e o executor **sofre o Retrocesso mesmo assim**, porque montou o combo inteiro. É devastador — e é pra ser.
 
-## 🤝 Golpe Matador Coletivo
+## 🤝 Golpe Matador Coletivo *(variante opcional)*
+
+> [!important] O golpe normal é sozinho
+> **Todo Golpe Matador é de uma pessoa só** — é isso que a nota inteira acima descreve, e é o que acontece na esmagadora maioria das vezes. Você monta o seu, dispara o seu, e ninguém precisa estar por perto. **O Coletivo é uma variante opcional**, para quando o grupo quer um efeito que nenhum deles alcança sozinho. Nada aqui embaixo é requisito do golpe comum.
 
 Vários cultivadores montando um golpe único, cada um contribuindo com os Gu dele. **Na prática, isso quer dizer duas pessoas** — três e quatro existem na regra e são raras na mesa, pelo motivo medido que está no aviso mais abaixo.
 
 - **Some os Gu de apoio de todos os participantes.** Dois participantes chegam a **+3 Níveis de Dano** no núcleo, três a +5, quatro a +6 — território que nenhum deles alcança sozinho.
 - **Todos gastam a ação — na mesma rodada.** Não são quatro rodadas montando: é **uma rodada**, em que cada participante usa a ação dele naquilo em vez de atacar. Cada um paga o custo de essência da própria parte.
 - **O núcleo é de um só**, e é ele quem rola o dano — **dobrado no sucesso**, como todo Golpe Matador (decisão 244).
-- **A Prerrogativa vem ampliada.** É isto que justifica gastar a ação de quatro pessoas, e não o dano.
+- **A Prerrogativa vem ampliada.** É isto que justifica gastar a ação de mais de uma pessoa, e não o dano.
 - **Uma Brecha compartilhada.** Se qualquer participante for neutralizado, atordoado ou movido antes do disparo, **o golpe inteiro falha e todos sofrem o Retrocesso**.
 
-### A Prerrogativa ampliada — o que quatro pessoas fazem que quatro ataques não fazem
+### A Prerrogativa ampliada — o que duas pessoas fazem que dois ataques não fazem
 
-Um Golpe Matador Coletivo declara Prerrogativa como qualquer outro, **mas na versão ampliada**, porque custa a ação de todo mundo:
+Um Golpe Matador Coletivo declara Prerrogativa como qualquer outro, **mas na versão ampliada**, porque custa a ação de mais de um:
 
 | Prerrogativa | Solo | **Coletivo** |
 |---|---|---|
@@ -265,7 +268,7 @@ Um Golpe Matador Coletivo declara Prerrogativa como qualquer outro, **mas na ver
 > [!quote] O golpe coletivo mais famoso do romance não causa dano nenhum
 > *"Os quatro anciãos do clã Tie tinham um golpe matador combinado, chamado **busca e travamento ilimitados**. Se eles plantarem o Gu de travamento no Mestre de Gu, **não importa para onde ele vá, eles conseguem encontrá-lo. É o método de captura número um.**"* E sobre a vítima mais famosa dele: *"embora pudesse voar para onde quisesse, livre e sem amarras... uma vez plantado o Gu de travamento, não importa para onde voasse, acima dos céus ou sobre o mar, **ele seria capturado**."*
 >
-> **Prender e Alcançar não são invenção de designer — são a descrição literal daquele golpe.** Quatro cultivadores não se juntam para bater mais forte; juntam-se para tornar impossível o que era possível. Medido, o Coletivo entrega **0,52× a 0,58×** do dano que os mesmos quatro fariam atacando normalmente — se ele fosse jogada de dano, seria erro sempre. Com a Prerrogativa ampliada, a pergunta muda de *"rende mais dano?"* para *"eu preciso que esta pessoa não saia daqui?"*.
+> **Prender e Alcançar não são invenção de designer — são a descrição literal daquele golpe.** Cultivadores não se juntam para bater mais forte; juntam-se para tornar impossível o que era possível. Medido, o Coletivo entrega **0,52× a 0,58×** do dano que os mesmos participantes fariam atacando normalmente — se ele fosse jogada de dano, seria erro sempre. Com a Prerrogativa ampliada, a pergunta muda de *"rende mais dano?"* para *"eu preciso que esta pessoa não saia daqui?"*.
 
 > [!tip] Não precisa ser quatro — e quatro é a pior escolha das três
 > O Coletivo escala com quem entra: **dois participantes custam duas ações**, três custam três. Menos gente rende menos Níveis (+3 com dois, +5 com três, +6 com quatro), mas **a Prerrogativa ampliada vale por inteiro a partir de dois** — ela não escala com o tamanho do grupo.
