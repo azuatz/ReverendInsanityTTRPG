@@ -94,26 +94,16 @@ Gu de ativação instantânea (um ataque que dispara e acaba) **não ocupam vaga
 > [!note] Por que fixo em vez de `CON + rank`
 > A fórmula antiga entregava **8 Gu simultâneos** a um rank 5 com CON +3 — quase o triplo do que o mundo suporta, e o efeito colateral era que a Manutenção quadrática virava decoração, porque ninguém chegava perto do teto. Com teto 3, ela morde exatamente onde deve: no especialista que **comprou** o direito de empilhar. Ver decisão 260 no [[🧭 Log de Decisões]].
 
-### A Manutenção — o preço de manter tudo ligado
+### A Manutenção — REMOVIDA (decisão 266)
 
-Cada Gu sustentado tem o custo por rodada listado na ficha dele. Além disso, **manter vários ao mesmo tempo cobra por si só**, e o preço cresce ao quadrado:
-
-```
-Manutenção de Sustentação = (número de Gu sustentados)² × 5 de essência por rodada
-```
-
-| Gu sustentados | Custo por rodada |
-|---|---|
-| 1 | 5 |
-| 2 | 20 |
-| 3 | 45 |
-| 4 | 80 |
-| 5 | 125 |
-| 6 | **180** |
-
-Isso é **somado** aos custos individuais dos Gu. Um personagem com quatro Gu sustentados paga 80 de Sustentação mais o que cada um cobra separadamente.
-
-**As três primeiras linhas são a mesa inteira.** Da quarta em diante você está no território de quem empurrou o teto — pagando o quarto com risco de erro, ou tendo comprado Gu de multitarefa. A curva é justamente o que torna essa compra uma decisão em vez de um upgrade óbvio: **a sexta vaga custa 180 por rodada**, e nenhum tanque de essência de rank baixo aguenta uma luta inteira assim.
+> [!warning] A Manutenção de Sustentação quadrática **não existe mais**
+> A regra era `(nº de Gu sustentados)² × 5 de essência por rodada`, por cima do custo de cada Gu. **Foi removida**, e por três razões que se somam:
+>
+> 1. **Ela nunca entrou em simulação nenhuma.** Vinte e cinco rodadas de balanceamento — a tabela de composição inteira, os moldes, o Chefe, os Golpes Matadores — rodaram **sem** a Manutenção. Ou seja, ela nunca sustentou o balanceamento que o vault publica, e removê-la **não move um único número medido**.
+> 2. **Ela não era o freio que dizia ser.** Medida, quatro Gu sustentados bancavam **2,8 a 4,3 rodadas no estágio Inicial** e **22 a 34 no Pico**, contra uma cena de 7 a 9 — punia demais no começo e virava decoração no fim. É exatamente o defeito que a decisão 235 diagnosticou no custo de ativação.
+> 3. **A Densidade paga já faz o trabalho, e melhor.** Desde a decisão 258, cada ponto de `B` dobra o custo de ativação, e isso entrega **a mesma pressão em todos os estágios**. Manter as duas regras empilhava dois custos calibrados isoladamente e secava o tanque em 2 a 6 rodadas, abaixo da cena inteira.
+>
+> **O que segura o número de Gu ligados agora são duas coisas, não três:** o **teto de 3 Gu sustentados** (a regra de ficção, decisão 260) e o **custo de ativação com Densidade paga** (a regra de economia, decisão 258). Uma diz quantos você consegue coordenar; a outra diz quantos você consegue pagar. A Manutenção era um terceiro número por rodada que o mestre rastreava sem que ele decidisse nada.
 
 ### A regeneração — fora de combate, salvo o Físico Extremo
 
