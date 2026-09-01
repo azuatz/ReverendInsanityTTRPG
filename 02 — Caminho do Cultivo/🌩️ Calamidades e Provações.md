@@ -179,6 +179,21 @@ O teto é o que faz as alavancas **competirem**. Sem ele, a resposta ótima é s
 
 **E o teto não é o fim da preparação.** Depois que ele enche, o que ainda melhora as chances é tudo aquilo que não passa por CD: saber o que vem ([[🧠 Dedução]]), escolher o local, ter um aliado ao lado, ter um Golpe Matador defensivo carregado para converter uma falha — e, principalmente, **ter com que pagar** se a conta não fechar.
 
+> [!important] As três peças são uma só — não conserte uma sem entender as outras
+> O teto de −4, a escala por patrimônio e a compra de sucessos foram escritas em seções diferentes, e por isso parecem regras soltas que se atrapalham. **Elas são um mecanismo único**, e vale ver o número antes de mexer em qualquer uma:
+>
+> | Camada da Fenda | CD final | Sobrevive | **Sobrevive comprando 1 sucesso** |
+> |---|---|---|---|
+> | 2 | 12 | 91,3% | **99,0%** |
+> | 3 | 13 | 86,9% | **98,2%** |
+> | 4 | 14 | 81,2% | **96,9%** |
+>
+> Enriquecer **derruba** a sobrevivência de 91% para 81% — é a escala por patrimônio funcionando, e é a tensão que o romance descreve. A correção óbvia seria deixar o teto subir junto com a camada; **não faça isso.** Um teto móvel cancelaria a escala com exatidão matemática — a CD sobe 1, a redução sobe 1, o líquido é zero —, e a regra do patrimônio viraria um texto que se anula sozinho.
+>
+> **O que fecha o buraco é a compra de sucessos, e ela fecha melhor justamente para quem é rico.** Repare no que são as três moedas de compra: um Gu Imortal, uma camada da Fenda, o próprio corpo. **São patrimônio.** Quem tem camada 4 enfrenta uma CD maior e tem mais o que gastar; quem tem camada 2 enfrenta menos e tem menos. **A riqueza levanta a barra e paga a passagem no mesmo movimento** — e o preço de passar não é morrer, é retroceder.
+>
+> É isso que entrega o que se pediu ao subsistema: o preparado quase sempre atravessa, a falha continua possível, e quando ela vem se paga em coisa que o tempo e o dinheiro recuperam — menos a que virou Marca de Dao, que não volta nunca.
+
 > [!tip] Pro mestre: a tribulação é calendário, não emboscada
 > A data **se calcula**, e não só pelo dono: **inimigos calculam a tribulação alheia** e aparecem exatamente nela. Uma Fenda que falha abre uma brecha pela qual se entra.
 >
