@@ -11,7 +11,7 @@ escopo: sistema
 
 # 🗂️ Índice de Gu por Caminho
 
-Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Caminho** e ordenados por rank — para quando você sabe *o que* procura ("um Gu de Gelo de rank 3") mas não *onde* está. **De onde cada um sai:** [[📜 Livro de Receitas de Gu]]. **Procurando um Gu-assinatura raríssimo por Caminho, com cadeia de evolução?** Isso é [[👑 Gu Lendários]] — nota separada, fora dos 461.
+Todos os **467 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Caminho** e ordenados por rank — para quando você sabe *o que* procura ("um Gu de Gelo de rank 3") mas não *onde* está. **De onde cada um sai:** [[📜 Livro de Receitas de Gu]]. **Procurando um Gu-assinatura raríssimo por Caminho, com cadeia de evolução?** Isso é [[👑 Gu Lendários]] — nota separada, fora dos 467.
 
 > [!tip] Como usar
 > 1. Ache o Caminho na lista abaixo (ordem alfabética).
@@ -280,7 +280,7 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Força
 
-42 Gu. **36 destes moram no [[📖 Catálogo de Gu|Catálogo]]; os outros 6 moram na nota do Caminho**, e a coluna **Onde** diz qual é qual.
+44 Gu. **38 destes moram no [[📖 Catálogo de Gu|Catálogo]]; os outros 6 moram na nota do Caminho**, e a coluna **Onde** diz qual é qual.
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
@@ -300,6 +300,7 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 3 | **Gu do Autossustento** | Cura | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu do Empenho Total** | Invocação/Amplificação | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu do Qi de Força** — *Força/Qi* | Amplificação + ataque | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
+| 3 | **Gu do Osso de Ferro** | Defesa, 🦴 Corpo, permanente | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu do Passo de Aríete ✱ | Investida | [[💪 Caminho da Força\|Caminho da Força]] |
 | 3 | **Gu da Mão de Pedra ✱ | Corpo, permanente | [[💪 Caminho da Força\|Caminho da Força]] |
 | 4 | **Gu Tirano da Força** | Amplificação | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
@@ -316,6 +317,7 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 5 | **Gu do Empenho Total** ✱ | Núcleo de golpe | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Gu do Qi de Força** ✱ — *Força/Ar* | Auxiliar | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Gu do Suserano da Terra** — *Terra/Força* | Amplificação | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
+| 5 | **Gu dos Fantasmas de Guarda** ✱ | Defesa, sustentado | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Gu do Punho de Montanha Rachada ✱ | 🗡️ Ataque melee — entrega o golpe | [[💪 Caminho da Força\|Caminho da Força]] |
 | 6 | **Come-Força** — *Força/Roubo* | Dreno | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
 | 6 | **Gu do Suor de Ferro** | Amplificação | [[📖 Catálogo de Gu#Rank 6 — M = 32\|Rank 6]] |
@@ -418,7 +420,7 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Lua
 
-15 Gu — dano em **d8**. **A Lua é Caminho próprio, não subcaminho de Luz** (decisão 121): no romance existem Imortais dedicados a ela e Marcas de Dao de Lua. Sete destes Gu moram no [[📖 Catálogo de Gu|Catálogo]]; os outros sete moram na nota do Caminho, e a coluna **Onde** diz qual é qual. O dial do Caminho é **a fase da lua** — ver [[🌙 Caminho da Lua]].
+16 Gu — dano em **d8**. **A Lua é Caminho próprio, não subcaminho de Luz** (decisão 121): no romance existem Imortais dedicados a ela e Marcas de Dao de Lua. Nove destes Gu moram no [[📖 Catálogo de Gu|Catálogo]]; os outros sete moram na nota do Caminho, e a coluna **Onde** diz qual é qual. O dial do Caminho é **a fase da lua** — ver [[🌙 Caminho da Lua]].
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
@@ -434,6 +436,7 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 3 | **Gu do Disco Minguante** ✱ | Ataque, à distância | [[🌙 Caminho da Lua\|Caminho da Lua]] |
 | 3 | **Gu do Frio de Osso** ✱ — *Lua/Gelo* | Debuff sustentado | [[🌙 Caminho da Lua\|Caminho da Lua]] |
 | 4 | **Gu da Lua Cheia Sangrenta** ✱ — *Sangue/Lua* | Ataque, dreno pesado | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
+| 4 | **Gu do Véu de Luar** ✱ | Defesa, sustentado, condicional | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Gu do Crescente Cortante** ✱ | Ataque, à distância | [[🌙 Caminho da Lua\|Caminho da Lua]] |
 | 5 | **Gu da Lua Afogada** ✱ | Ataque + controle | [[🌙 Caminho da Lua\|Caminho da Lua]] |
 | 6 | **Gu Imortal do Luar Imemorial** ✱ | Ataque, área | [[🌙 Caminho da Lua\|Caminho da Lua]] |
@@ -685,7 +688,7 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Sangue
 
-29 Gu — dano em **d8**. **23 destes moram no [[📖 Catálogo de Gu|Catálogo]]; os outros 6 moram na nota do Caminho**, e a coluna **Onde** diz qual é qual.
+31 Gu — dano em **d8**. **25 destes moram no [[📖 Catálogo de Gu|Catálogo]]; os outros 6 moram na nota do Caminho**, e a coluna **Onde** diz qual é qual.
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
@@ -693,6 +696,7 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 2 | **Gu da Coagulação Rápida** ✱ | Corpo, regeneração | [[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)\|Corpo Elementais]] |
 | 2 | **Gu da Essência de Sangue** | Auxiliar, ingrediente | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
 | 2 | **Gu da Troca de Sangue** ✱ | Especial | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
+| 2 | **Gu da Crosta Coagulada** ✱ | Defesa, sustentado | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
 | 2 | **Gu da Agulha Vermelha ✱ | Ataque, à distância | [[🩸 Caminho do Sangue\|Caminho do Sangue]] |
 | 3 | **Gu da Lua Sangrenta** — *Sangue/Lua* | Ataque, dreno | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu da Reunião Sanguínea** — *Sangue/Humano* | Auxiliar, passivo | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
@@ -705,6 +709,7 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 4 | **Gu da Lua Cheia Sangrenta** ✱ — *Sangue/Lua* | Ataque, dreno pesado | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Gu do Espinho Ósseo Maior** ✱ — *Osso/Sangue* | Ataque de dano mútuo | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Par de Gu de Sangue Vinculado** — *Sangue/Humano* | Utilidade, contrato | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
+| 4 | **Gu do Sangue Espesso** ✱ | Defesa + recuperação, sustentado | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Gu do Manto Fervente ✱ | Amplificação, sacrifício | [[🩸 Caminho do Sangue\|Caminho do Sangue]] |
 | 5 | **Gu Flor-Celeste Cortina de Sangue** — *Sangue/Formações* | Defesa, área | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
 | 5 | **Gu da Mão de Sangue** | Ataque, à distância | [[📖 Catálogo de Gu#Rank 5 — M = 16\|Rank 5]] |
@@ -919,7 +924,7 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 
 ## Vento
 
-13 Gu — dano em **d10**. **6 destes moram no [[📖 Catálogo de Gu|Catálogo]]; os outros 7 moram na nota do Caminho**, e a coluna **Onde** diz qual é qual.
+14 Gu — dano em **d10**. **7 destes moram no [[📖 Catálogo de Gu|Catálogo]]; os outros 7 moram na nota do Caminho**, e a coluna **Onde** diz qual é qual.
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
@@ -929,6 +934,7 @@ Todos os **461 Gu e Casas** do [[📖 Catálogo de Gu]], reorganizados por **Cam
 | 2 | **Gu do Passo de Brisa ✱ | Movimento, sustentado | [[🌪️ Caminho do Vento\|Caminho do Vento]] |
 | 2 | **Gu da Lâmina de Sopro ✱ | Ataque, à distância | [[🌪️ Caminho do Vento\|Caminho do Vento]] |
 | 3 | **Gu dos Ossos Ocos do Falcão** ✱ — *Vento/Osso* | Corpo, deslocamento | [[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)\|Corpo Elementais]] |
+| 3 | **Gu da Camada de Ar** ✱ | Defesa, sustentado | [[📖 Catálogo de Gu#Rank 3 — M = 4\|Rank 3]] |
 | 3 | **Gu da Foice de Vento ✱ | Ataque, à distância | [[🌪️ Caminho do Vento\|Caminho do Vento]] |
 | 3 | **Gu do Rastro Apagado ✱ | Ocultação, sustentado | [[🌪️ Caminho do Vento\|Caminho do Vento]] |
 | 4 | **Gu do Vácuo Cortante ✱ | Ataque, área + controle | [[🌪️ Caminho do Vento\|Caminho do Vento]] |
