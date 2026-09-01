@@ -22,14 +22,15 @@ Montar um Golpe Matador exige que os Gu envolvidos sejam ativados em sequência,
 
 ## 🛠️ Como montar um, passo a passo (jogador ou mestre)
 
-Seis passos, na ordem — cada um alimenta o seguinte. Os termos técnicos citados (Teto de Combo, Brecha, custo) estão detalhados nas seções abaixo; isto aqui é o roteiro de montagem, para voltar a ele sempre que um novo combo nascer.
+Sete passos, na ordem — cada um alimenta o seguinte. Os termos técnicos citados (Teto de Combo, Brecha, custo) estão detalhados nas seções abaixo; isto aqui é o roteiro de montagem, para voltar a ele sempre que um novo combo nascer.
 
 1. **Escolha o núcleo.** Um Gu que você já tem, refinado. O rank dele é a base de tudo que vem depois.
 2. **Escolha os apoios**, até o [[🪜 Ranks e Estágios|Teto de Combo]] do seu estágio menos um (Inicial 1 · Médio 2 · Alto 3 · Pico 4 — o núcleo ocupa a vaga que falta). Cada apoio precisa **fazer alguma coisa de verdade**: imobilizar, cegar, atrasar, esconder a preparação, furar defesa. Empilhar Gu de ataque não conta.
 3. **Descreva a sequência** — o que ativa primeiro, o que depende do quê, e o que o alvo veria se estivesse prestando atenção. É essa descrição que vira a cena na mesa.
-4. **Escreva a Brecha.** Obrigatória, sem exceção (decisão 32): a condição concreta em que este golpe específico falha ou não se aplica. Sem Brecha, o golpe não está pronto — ver [[#🕳️ A Brecha — todo golpe tem uma, e ela é escrita|a seção da Brecha]] pra exemplos do que conta.
-5. **Calcule o custo**: `(soma dos custos de ativação dos Gu do combo) × (nº de Gu no combo)`, **×2 se híbrido**. É esse número que decide se o golpe cabe no seu tanque — ver [[#O que um Golpe Matador custa|abaixo]].
-6. **Registre na ficha.** Ocupa uma vaga de `AST + 1`. A partir daqui ele é **fixo**: reaproveitar o mesmo golpe registrado dá **−4** no Teste de Conjuração (é treinado); improvisar um combo novo na hora dá **+4** (é a primeira vez).
+4. **Escolha a Prerrogativa** — o que este golpe faz que um ataque comum não faz (Romper · Selar · Prender · Alcançar). Ver [[#⚡ A Prerrogativa — o que só um Golpe Matador faz|a seção da Prerrogativa]].
+5. **Escreva a Brecha.** Obrigatória, sem exceção (decisão 32): a condição concreta em que este golpe específico falha ou não se aplica. Sem Brecha, o golpe não está pronto — ver [[#🕳️ A Brecha — todo golpe tem uma, e ela é escrita|a seção da Brecha]] pra exemplos do que conta.
+6. **Calcule o custo**: `(soma dos custos de ativação dos Gu do combo) × (nº de Gu no combo)`, **×2 se híbrido**. É esse número que decide se o golpe cabe no seu tanque — ver [[#O que um Golpe Matador custa|abaixo]].
+7. **Registre na ficha.** Ocupa uma vaga de `AST + 1`. A partir daqui ele é **fixo**: reaproveitar o mesmo golpe registrado dá **−4** no Teste de Conjuração (é treinado); improvisar um combo novo na hora dá **+4** (é a primeira vez).
 
 **Para um NPC**, os passos são os mesmos — só que o mestre escreve a Brecha primeiro, não por último: é ela que os jogadores vão caçar, então ela precisa ser descobrível em jogo (uma pista, um padrão, um comportamento), nunca uma condição que só existe na cabeça do mestre.
 
@@ -52,6 +53,29 @@ Um Golpe Matador **empurra o Gu núcleo pra cima na [[⚔️ Combate|Escada de D
 Um Gu de apoio só conta se **fizer alguma coisa de verdade** pelo golpe — imobilizar, cegar, atrasar, esconder a preparação, furar defesa. Empilhar três Gu de ataque não é Golpe Matador, é gastar essência.
 
 Golpes de apoio que não somam dano somam **outra coisa**: +2 no teste de acerto, ignorar a RD do alvo, ou impedir uma reação. A mesa escolhe junto com o jogador na hora de montar o golpe, e aquilo fica registrado na ficha — Golpe Matador não se improvisa toda cena, se **desenvolve** e se repete.
+
+## ⚡ A Prerrogativa — o que só um Golpe Matador faz
+
+**Todo Golpe Matador registrado declara uma Prerrogativa, escolhida na montagem e fixa dali em diante.** É a coisa que um ataque comum **não consegue fazer**, e é ela — não o dano — que responde à pergunta "por que gastar minha ação nisto?".
+
+| Prerrogativa | O que o golpe passa a fazer |
+|---|---|
+| **⛏️ Romper** | Ignora **toda** a RD do alvo, e derruba automaticamente qualquer Gu de defesa de rank menor que o do núcleo. É como se mata quem está blindado acima do seu alcance |
+| **🔒 Selar** | No acerto, **um Gu ativo do alvo é selado até o fim da cena** — o jogador escolhe a categoria (movimento, defesa, ataque), o mestre escolhe qual. Selar o Gu de movimento é como se impede alguém de fugir |
+| **⛓️ Prender** | O alvo fica **Preso** e não pode deixar a cena enquanto o golpe durar. É como se **captura** alguém em vez de matar — e capturar rende o que matar não rende |
+| **👁️ Alcançar** | O golpe atinge o que não se atinge: através de cobertura total, de invisibilidade, de uma barreira de Formação, ou a um alcance que nenhum Gu do combo teria sozinho |
+
+**Uma só por golpe, declarada junto da Brecha.** Um segundo Golpe Matador registrado pode ter outra.
+
+> [!quote] Por que isto existe, e é canônico
+> No romance ninguém dispara um golpe matador porque ele rende mais dano — dispara porque **o ataque comum não resolve aquele problema**. Yan Tu, num duelo: *"Será difícil contê-la com **golpes comuns**, eu só estaria desperdiçando essência primeva. Já que é assim... vou usar meu golpe matador contra o golpe matador dela!"* O golpe combinado dos quatro anciãos do clã Tie **prendia e rastreava**, não matava; o golpe de outro expert **selou até um Gu de teleporte de rank cinco**. A Prerrogativa põe isso em regra, e tira o combo de uma disputa de dano por ação que ele perde por construção.
+
+## 🩸 A Abertura do disparo — o preço vem depois, não antes
+
+**Enquanto executa um Golpe Matador e até o seu próximo turno, sua Defesa cai 4.** Você abriu a guarda para montar a coisa.
+
+> [!quote] Também canônico, e é a outra metade da mesma cena
+> *"Sua defesa cai quando você usa seu golpe matador"* — dito de um lutador cujo aliado lhe dá um Gu de defesa justamente para cobrir esse buraco. E os quatro anciãos do clã Tie **conseguiram** disparar o golpe deles: morreram depois, secos de essência, mortos por um Mestre de rank três. **No romance o custo do golpe cobra depois, na exposição — nunca impede antes.** É por isso que a confiabilidade foi consertada (decisão 240) e a exposição foi criada no mesmo movimento: o golpe deve sair, e deve deixar você vulnerável por ter saído.
 
 ## O que um Golpe Matador custa
 
