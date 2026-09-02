@@ -244,7 +244,7 @@ CD dos seus Gu = 10 + VON + rank do Gu          (+2 se o Caminho for do perfil d
 Iniciativa = d20 + DES
 ```
 
-Empate: maior DES fica na frente; persistindo, quem embosca ou tem Gu de movimento ativo passa primeiro. Gu e efeitos que mexem na iniciativa (ex.: Grilo Pílula-de-Dragão) somam nessa rolagem.
+Empate: maior DES fica na frente; persistindo, quem embosca ou tem Gu de movimento ativo passa primeiro; **persistindo ainda, o personagem de jogador vai na frente** — a mesa não para para desempatar. Gu e efeitos que mexem na iniciativa (ex.: Grilo Pílula-de-Dragão) somam nessa rolagem.
 
 ---
 

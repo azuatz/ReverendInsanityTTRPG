@@ -438,6 +438,11 @@ O jogo tem dois pilares que não se resolvem no dano — **preparação** e **po
 
 Duas seções escritas a pedido direto da mesa. A **Seção 1** atende ao pedido de "Gu de efeito passivo que você usa uma vez e te dá uma melhora permanente" — músculo de gelo, sangue que coagula sozinho, nervo elétrico que acelera o pensamento — e entra no jogo pela categoria já existente de [[⚔️ Combate|Gu de Corpo]]. A **Seção 2** atende ao pedido do jogador que vai jogar um lutador dos **Cinco Elementos Wu Xing**: Gu de ataque que fazem o próprio corpo (ou a arma na mão) golpear, em vez de disparar projétil.
 
+> [!info] Quando a ficha nomeia o alimento e **não** diz de quanto em quanto tempo
+> Metade das fichas de rank baixo dizem só **o que** o Gu come — "cascalho", "folhas de outono", "grãos torrados" — e não **com que frequência**. Isso é deliberado: são alimentos triviais, e escrever cadência para cada um encheria a tabela sem mudar nada na mesa. **Use a escala do rank** de [[🍖 Sustento e Alimento]]: rank 1–2 come a cada poucos dias, rank 3 a cada semanas, rank 4 a cada poucos meses, rank 5 a cada 1–2 anos.
+>
+> **Onde a cadência está escrita, ela manda** — foi escrita porque foge da escala.
+
 **Convenção do asterisco.** Gu marcados com `*` **não aparecem no romance** — foram inventados aqui. Nestas duas seções isso vale pra praticamente todos, e é esperado: o romance descreve Gu de Corpo como categoria (Ossos de Jade, Força do Crocodilo, Tirano da Força) e descreve Caminhos elementais, mas não fornece um catálogo elemento a elemento. O que está aqui é construído em cima da gramática do sistema, não copiado da fonte. Gu **sem** asterisco existem no romance e estão referenciados no [[📖 Catálogo de Gu|Catálogo]] principal.
 
 **Colunas.** `Forte / Fraco` resume onde o Gu brilha (⬆️) e onde ele é lixo (⬇️) — é a linha que o mestre lê em voz alta quando alguém pergunta "vale a pena?". `Peculiaridades` usa só as tags fechadas do Catálogo (⚡Uso, 🍖Alimentação, 🔨Refino).

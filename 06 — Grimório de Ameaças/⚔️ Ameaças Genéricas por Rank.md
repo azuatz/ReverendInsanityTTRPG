@@ -339,6 +339,11 @@ Os números entre parênteses são a **vitória medida do grupo** numa mesa de 4
 | 8 a 11 | Difícil. Alguém cai, e o grupo gasta recurso de verdade |
 | **12 ou mais** | Clímax. Risco real de morte — use só quando a cena valer isso |
 
+> [!warning] A régua mede **volume**, e um Chefe não é volume — confira sempre contra a tabela de composição
+> **Chefe + Guerreiro no rank 1 conta 3 ações ponderadas**, o que esta régua chamaria de *"trâmite"* — e a composição medida diz **Clímax, 69% de vitória em 6,5 rodadas**. Não é contradição: a régua conta **quantas** ações vêm, e o Chefe concentra numa peça só o que ela pressupõe espalhado — Vitalidade alta, dano grande por golpe, e a primeira condição de controle ignorada.
+>
+> **A régua serve para montar cena com várias peças.** Para cena de **um inimigo forte**, ela subestima — use a tabela de composição, que é medida por simulação célula a célula.
+
 **Numa mesa de 4, o Golpe Matador Coletivo fica perigoso** — quatro participantes chegam a **+6 Níveis de Dano** no núcleo (ver [[⚡ Golpes Matadores|Golpes Matadores]]). Construa encontros contando com isso: um inimigo que separa o grupo neutraliza o combo inteiro, e é essa a defesa mais interessante que um chefe pode ter.
 
 ---

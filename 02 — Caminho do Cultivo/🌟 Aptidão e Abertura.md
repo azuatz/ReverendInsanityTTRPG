@@ -20,6 +20,13 @@ A Aptidão decide o tamanho da Abertura de um personagem — a % usada na fórmu
 | **Grau C** | 40%–59% | Rank 2, raramente início do 3 | Pilar de uma família comum |
 | **Grau B** | 60%–79% | Rank 3–4 | Futuro ancião |
 | **Grau A** | 80%–100% | Rank 5, com chance real de Ascensão | "Sorte da família" — prioridade de recursos |
+
+> [!warning] Diga isto ao jogador que tirar Grau D, **na sessão zero e em voz alta**
+> O teto de rank é a parte visível, e não é a parte que dói. **O que dói é a Essência:** um Grau D de rank 1 tem por volta de **88 de tanque**, e um Gu do próprio rank custa 40 para ativar. Isso são **duas ativações por cena**, contra cinco ou seis de um Grau A — e a essência **não regenera em combate**.
+>
+> **Na prática, ele é meio personagem numa luta**, e a mesa vai sentir isso na primeira sessão. **Isso é de propósito** — a injustiça da aptidão é o gerador de conflito nº 1 deste cenário —, mas é injusto com o **jogador** deixá-lo descobrir sozinho no meio do combate.
+>
+> **O que dizer junto, porque muda a decisão dele:** o Grau D é o personagem que mais ganha com Gu de rank **abaixo** do próprio (custam 10, 4 ou 1 em vez de 40), com preparação fora de combate, e com Gu permanentes de Corpo, que **não gastam essência nenhuma**. Ele não joga com menos ferramentas — joga com ferramentas mais baratas.
 | **Dez Físicos Extremos** *(só NPC)* | 100%, transbordando | Sem teto natural — mas a provação de Ascensão é ao menos 10× mais perigosa, e a maioria não sobrevive pra contar história | Lenda ou tragédia, quase nunca os dois |
 
 > **A última linha não é uma opção de ficha.** Os Dez Físicos Extremos são anomalia de mundo — rival, vilão ou gancho de sessão, nunca personagem jogador (decisão 217). Ela está na tabela porque o mestre precisa saber onde eles caem na régua.
