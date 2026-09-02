@@ -192,11 +192,15 @@ O detalhe que faz a cena: **Gu de movimento não ajudam.** O Grilo Pílula-de-Dr
 > *"Ele ascendeu com 900 Marcas. A terra dele era **Excelente** e chegou à **camada 3**. Ficou lá dentro **quarenta anos do meu calendário**, sem sair uma vez. Passou por toda Calamidade Terrestre que lhe coube, e cada uma rendeu exatamente 250. Quantas Marcas ele tem hoje? Diga o número, e depois diga o nome do lugar onde ele está."*
 
 **Quebra-cabeças:** *(veja acima)*
-> **Resposta — 210.900, e o nível de domínio é *Quase-Supremo*.**
+> **Resposta — 210.900 Marcas.**
 > - Terra **Excelente** = fluxo **30×**. Quarenta anos de fora = **mil e duzentos anos internos**.
 > - Camada **3** rende **150 Marcas/ano** passivas → 1.200 × 150 = **180.000**.
 > - Calamidade Terrestre a cada **10 anos internos** → 1.200 ÷ 10 = **120 Calamidades** × 250 = **30.000**.
-> - Total: 900 + 180.000 + 30.000 = **210.900**, que cai na faixa 150.000–299.999 = **Quase-Supremo**.
+> - Total: 900 + 180.000 + 30.000 = **210.900**, que cai na faixa de **rank 8** (100.000–300.000).
+>
+> **E a segunda metade do enigma é uma pegadinha, de propósito.** A roda pede o número e mais nada — mas todo grupo pergunta em seguida *"então ele era o quê?"*, e a resposta certa é: **a conta não diz.** A contagem de Marcas dá o **rank** e os **Níveis de Potência** do sujeito, ou seja o quanto ele machuca e o quanto aguenta. **Ela não diz uma palavra sobre o Domínio dele** — sobre o quanto ele *entendia* o próprio Caminho —, porque são dois eixos independentes ([[☯️ Marcas de Dao]]).
+>
+> **É o ponto do escritório inteiro.** Zhao Ping passou a vida contando Marcas alheias e morreu sem ascender. Ele tinha o número de todo mundo e a compreensão de ninguém — inclusive a própria. Um grupo que resolve a aritmética e para aí abre a porta; um grupo que percebe a pegadinha entende por que o dono dela nunca abriu a sua.
 > Tudo que o jogador precisa está em [[🗝️ Terra Abençoada|Terra Abençoada]] e [[☯️ Marcas de Dao|Marcas de Dao]]. Se a mesa não tiver acesso às notas, o mestre entrega as três tabelas relevantes numa folha — o enigma é a *conta*, não a memória. Errar o número não fere ninguém: a roda trava por uma hora. **Errar o nome do lugar** (o grupo tem que dizer "Quase-Supremo", o nível, não um lugar geográfico) é a pegadinha e o motivo de o enigma ser bom: Zhao Ping considerava o nível de domínio o único endereço real de uma pessoa.
 
 **A amarra:** **vigilância alheia, de um tipo pior.** O livro-caixa das dívidas é radioativo. No momento em que o grupo o abre, ele descobre que **três facções da região devem favores a um Imortal que ninguém sabe que existe**. Duas dessas facções são aliadas do grupo. A informação vale mais que os Gu e é impossível de vender sem virar alvo. Sugestão de mestre: dê ao grupo trinta dias de paz antes de o primeiro nome do livro bater na porta perguntando, muito educadamente, o que eles encontraram lá embaixo.

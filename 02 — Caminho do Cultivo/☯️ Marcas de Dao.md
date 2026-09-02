@@ -184,7 +184,9 @@ Vitalidade = (18 + 3×CON + 4×Densidade) × M
 > | | Conta o quê | Alimenta |
 > |---|---|---|
 > | **Densidade Imortal** | Marcas **totais**, somando Caminhos | **Vitalidade** — o quanto você aguenta |
-> | **Nível de domínio** | Marcas **naquele Caminho** | **Dano e Níveis de Potência** — o quanto você machuca |
+> | **Marcas no Caminho** | Marcas **naquele Caminho** | **Dano e Níveis de Potência** — o quanto você machuca |
+>
+> *(Nenhum dos dois é o **Domínio**. Domínio é compreensão, sobe em salto e não se conta — são eixos independentes, decisão 254.)*
 >
 > Um Imortal com muitas Marcas espalhadas é **duro e inofensivo**; um com poucas Marcas todas num Caminho só é **frágil e letal**. É a diferença entre o veterano que ninguém consegue matar e o especialista que mata em duas trocas, e agora ela tem número. Ver [[⚔️ Combate|Combate]] para a tabela de domínio.
 
