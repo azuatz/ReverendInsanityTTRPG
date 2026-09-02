@@ -60,7 +60,7 @@ Rank 9 — Venerável — soma mais 2.500 (total 7.000)
 
 **A tragédia fica mais afiada, não mais fraca.** A corrida da vida inteira de um cultivador mortal é chegar ao rank 5 Pico **com anos sobrando pra tentar a Ascensão**. Quem chega aos 96 não tem tempo de reunir as 100.000 Pedras e os Três Ares — e é por isso que Gu de Longevidade valem o que valem: eles não compram poder, compram **a chance de tentar**.
 
-**Um Imortal ainda morre.** 500 anos é muito, não é infinito, e as Calamidades chegam a cada 10 anos internos. A maior parte dos Imortais morre numa Calamidade muito antes de o relógio acabar — mas o Imortal velho, com o segundo relógio no fim e sem conseguir o salto de rank, é uma das figuras mais perigosas do cenário: ele não tem mais nada a perder.
+**Um Imortal ainda morre.** Mil anos é muito, não é infinito, e as Calamidades chegam a cada 10 anos internos. A maior parte dos Imortais morre numa Calamidade muito antes de o relógio acabar — mas o Imortal velho, com o segundo relógio no fim e sem conseguir o salto de rank, é uma das figuras mais perigosas do cenário: ele não tem mais nada a perder.
 
 **De onde vêm.** Gu de Longevidade **não se refinam**: nascem espontaneamente onde há **muita vida acumulada vivendo e morrendo há muito tempo**. Uma cidade grande produz; um ermo não produz nada. Uma [[🗝️ Terra Abençoada|Terra Abençoada]] de camada 3+ com população mortal instalada gera **1 Gu de Longevidade mortal por década**.
 

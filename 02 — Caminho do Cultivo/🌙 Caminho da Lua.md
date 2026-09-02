@@ -10,7 +10,7 @@ escopo: sistema
 
 # 🌙 Caminho da Lua
 
-> Subcaminho de Luz por classificação, Caminho inteiro na prática. Ver [[🛤️ Os Caminhos|Os Caminhos]].
+> **Caminho próprio**, confirmado na fonte primária (decisão 121) — não é subcaminho de Luz. Não confundir com o Caminho da Luz. Ver [[🛤️ Os Caminhos|Os Caminhos]].
 
 O Caminho da Lua não é luz — é **luz refletida**, e essa distinção é tudo. Onde o Caminho da Luz queima e revela, o da Lua **corta e puxa**. É o Caminho de quem ataca de longe com lâminas que não têm peso, controla a maré do campo de batalha, e esfria o inimigo até os reflexos dele atrasarem.
 
@@ -25,9 +25,9 @@ O mestre declara a fase no começo de toda cena externa, em voz alta, antes de q
 | Fase | Efeito em todo Gu de Lua | O que ela abre |
 |---|---|---|
 | **Nova** | — | Gu de maré e gravidade **falham**. Em troca, os Gu de Lua **não emitem luz nenhuma**: pela única noite do mês o cultivador é furtivo, e o corte vem do escuro. **+4 em Furtividade** |
-| **Crescente** | **+1 Nível de Dano** | **Vantagem em todo teste de refino** do Caminho |
+| **Crescente** | **+1 Nível de Potência** | **Vantagem em todo teste de refino** do Caminho |
 | **Cheia** | **+2 Níveis** · custo de ativação **−25%** | **Purifica Contaminação** (ver [[👻 Caminho da Alma\|Caminho da Alma]]) |
-| **Minguante** | **+1 Nível de Dano** | Condições aplicadas por Gu de Lua têm **duração dobrada** |
+| **Minguante** | **+1 Nível de Potência** | Condições aplicadas por Gu de Lua têm **duração dobrada** |
 
 **Sem céu visível, trate como lua nova.** Interior, caverna, subterrâneo, dia nublado, sol a pino: o Caminho não desliga, mas não recebe nada — e os Gu de maré e gravidade falham, como falhariam na lua nova de verdade.
 
@@ -57,7 +57,7 @@ Todos abaixo entram no [[📖 Catálogo de Gu|Catálogo]]. Custo de ativação: 
 | **Gu do Frio de Osso\*** | 3 | Debuff sustentado | Aura de 8 m. Todo inimigo dentro: **−2 DES** e **+50% no custo de ativação de Gu**. Sustentado, 4 essência/rodada. Não causa dano nenhum | ⬆️ Desliga a economia de essência de um grupo inteiro; é o Gu que ganha lutas longas · ⬇️ Zero dano — sozinho, não fecha nada. E aquece: contra Caminho do Fogo ativo, o raio cai pra 3 m | ⚡Preso ⚡Cego | Nada — se alimenta do calor que rouba |
 | **Gu do Crescente Cortante\*** | 4 | Ataque, à distância | `Ataque: 8d12` (passo +2), alcance 35 m. **Ignora cobertura parcial** e **metade da RD do alvo** (arredonda pra baixo) — a lâmina não tem massa, então armadura física a atrasa mal. No acerto, o alvo faz **CON contra a CD dos seus Gu** ou fica com **−2 DES por 1 rodada** (frio Yin) | ⬆️ O ataque de rank próprio que o Caminho não tinha, e o único da faixa que fura RD sem ser Golpe Matador · ⬇️ **Sob sol direto cai 2 Níveis** e o custo sobe 50%; num deserto ao meio-dia ele bate como um Gu de rank 2 | ⚡Condicional 🍖Pontual | Luar de céu aberto, 2 noites por mês |
 | **Gu do Véu de Luar\*** | 4 | Defesa **de Alma**, sustentado, **condicional** | Um halo pálido se assenta sobre a mente. **`RD 2 × M` contra dano de Alma sob luar visível ou à noite; `RD 1 × M` fora dessas condições.** Fecha o buraco B6 **sem repetir a Pele de Luar** (r2), que já dá a mesma forma contra dano físico e que a RD não deixa empilhar: este protege **a barra que ninguém protege**. É onde o Caminho da Lua conversa com o da Alma — e a única RD de Alma que existe abaixo do rank 5 |
-| **Gu da Lua Afogada\*** | 5 | Ataque + controle | `Ataque: 16d12 + 16` (passo +4, 1 Nível acima de d12) num alvo, alcance 40 m. Quem for atingido faz VON contra a CD dos seus Gu: falhando, tem a **regeneração de essência zerada e o deslocamento pela metade por 3 rodadas** — a lua "afunda" dentro dele. Sob lua cheia, sem teste: aplica direto | ⬆️ Executa um cultivador de Gu: tira o dano *e* o combustível na mesma ação · ⬇️ Inútil contra quem não usa essência (fera comum, construto, zumbi de Paredes Mortas) | ⚡Condicional ⚡Ruidoso ⚡Recuo | Uma noite inteira de lua cheia por uso. Se você usar duas vezes no mesmo ciclo lunar, o segundo uso custa **1 Ferimento** |
+| **Gu da Lua Afogada\*** | 5 | Ataque + controle | `Ataque: 16d12 + 32` (passo +4 sobre a base **d8** do Caminho, **2 Níveis** acima de d12) num alvo, alcance 40 m. Quem for atingido faz VON contra a CD dos seus Gu: falhando, tem a **regeneração de essência zerada e o deslocamento pela metade por 3 rodadas** — a lua "afunda" dentro dele. Sob lua cheia, sem teste: aplica direto | ⬆️ Executa um cultivador de Gu: tira o dano *e* o combustível na mesma ação · ⬇️ Inútil contra quem não usa essência (fera comum, construto, zumbi de Paredes Mortas) | ⚡Condicional ⚡Ruidoso ⚡Recuo | Uma noite inteira de lua cheia por uso. Se você usar duas vezes no mesmo ciclo lunar, o segundo uso custa **1 Ferimento** |
 | **Gu Imortal do Luar Imemorial\*** | 6 | Ataque, área | `32d12` (32–384) numa linha de 200 m que **ignora toda cobertura e todo terreno** — a luz não contorna, ela atravessa. Contra alvos do Caminho do Fogo ou da Luz, **ignora metade da RD**. Sob sol direto o Gu **não ativa**, ponto | ⬆️ Linha de 200 m que nenhuma parede detém, e que pune Fogo e Luz especificamente · ⬇️ Sol direto o desliga por completo. Um inimigo que force a luta ao meio-dia tirou seu melhor Gu do jogo sem gastar nada | ⚡Condicional ⚡Ruidoso | 20 UV por ativação. Alimenta-se de luar colhido em noite de eclipse — uma vez a cada poucos anos, e você precisa estar lá |
 
 ## Golpes Matadores do Caminho da Lua
@@ -74,6 +74,6 @@ Todos abaixo entram no [[📖 Catálogo de Gu|Catálogo]]. Custo de ativação: 
 - **Núcleo:** Gu da Foice Crescente
 - **Apoio:** Gu do Frio de Osso · um Gu de movimento qualquer
 - **Sequência:** Rodada 1 — Frio de Osso baixa a DES do alvo (e portanto a **Defesa** dele). Rodada 2 — reposiciona pra pegar o ângulo. Rodada 3 — a foice sai com o alvo já lento.
-- **Efeito final:** passo **+3** do combo sobre o núcleo (+1 se noite), e **+2 no acerto** pela DES reduzida do alvo. Alvo único, alcance 25 m, ignorando cobertura.
+- **Efeito final:** passo **+2** do combo sobre o núcleo — **dois apoios, +1 cada** — (+1 se noite), e **+2 no acerto** pela DES reduzida do alvo. Alvo único, alcance 25 m, ignorando cobertura.
 - **🕳️ Brecha — *de janela*:** o Frio de Osso é sustentado e visível (o ar congela em volta de você). Qualquer um que já tenha visto o golpe sabe que tem duas rodadas pra sair do raio de 8 m — e sair anula tudo.
 - **Contragolpe:** só a essência. É o golpe que se usa toda semana, não uma vez por arco.

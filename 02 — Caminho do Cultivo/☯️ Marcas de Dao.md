@@ -444,7 +444,7 @@ Um portador de Físico Extremo entra no rank 6 com o dobro de Marcas, terra Espe
 | **Investir na terra** | Subir camada e fluxo de tempo da própria Terra Abençoada multiplica as Marcas passivas e a frequência de Calamidades — ver [[🗝️ Terra Abençoada]] | Décadas de gestão, e o céu cobra na mesma proporção |
 | **Cooperação em Calamidade** | Dois Imortais que atravessam provações juntos (pactos de socorro mútuo) falham menos e colhem mais — é o único desconto de risco que não custa Marca | O pacto é um Débito, e Débito entre Imortais dura séculos |
 
-> **Pro mestre desta mesa:** é assim que os outros três alcançam o Xie Lang depois da Ascensão. Ele avança sozinho, no automático da terra Especial — os outros avançam **caçando as rotas desta tabela**, que é onde estão as sessões. A paridade de relógio interno já foi medida (decisão 100); o que a mesa disputa é o calendário externo, e as rotas acima são o que o encurta.
+> **A leitura de mesa:** é assim que um grupo alcança o companheiro que largou na frente depois da Ascensão. Quem tem a terra melhor avança sozinho, no automático da terra Especial — os outros avançam **caçando as rotas desta tabela**, que é onde estão as sessões. A paridade de relógio interno já foi medida (decisão 100); o que a mesa disputa é o calendário externo, e as rotas acima são o que o encurta.
 
 ## 🗺️ Refino territorial — a guerra fria entre Veneráveis
 

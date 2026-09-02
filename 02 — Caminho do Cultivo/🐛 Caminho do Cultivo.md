@@ -14,7 +14,7 @@ escopo: sistema
 Nota-mãe. **Como um personagem fica mais forte** — e o que isso cobra dele. Ranks, estágios, aptidão, imortalidade e a economia que sustenta tudo.
 
 > [!warning] Esta é a maior pasta do vault. Não leia inteira.
-> São 20 notas, e você **não** precisa de todas para começar. A maioria só entra em jogo quando o grupo chegar lá — algumas só depois de dezenas de sessões. Leia as quatro do nível 1 e siga em frente; volte aqui quando a mesa exigir.
+> São 22 notas, e você **não** precisa de todas para começar. A maioria só entra em jogo quando o grupo chegar lá — algumas só depois de dezenas de sessões. Leia as quatro do nível 1 e siga em frente; volte aqui quando a mesa exigir.
 
 ---
 
@@ -36,7 +36,7 @@ Não leia os seis. **Leia só o do Caminho que apareceu na sua mesa.**
 |---|---|
 | [[🌙 Caminho da Lua]] | Fase Lunar como dial, lâminas de corte, maré e frio Yin |
 | [[👻 Caminho da Alma]] | Dano que **ignora RD**, Força de Alma (teto mortal 100), Gu das Tripas, Devoração e Contaminação |
-| [[💪 Caminho da Força]] | Gu de Corpo, o portão de CON, Níveis de Dano melee permanentes |
+| [[💪 Caminho da Força]] | Gu de Corpo, o portão de CON, Níveis de Potência melee permanentes |
 | [[🩸 Caminho do Sangue]] | Essência mais barata, paga em Vitalidade — e o peso social de usar Sangue em público |
 | [[🌪️ Caminho do Vento]] | Velocidade e Defesa: o Caminho que decide **se a luta acontece** |
 | [[☯️ Os Cinco Caminhos Wu Xing]] | Os ciclos de geração e destruição, e os cinco elementos tratados como um Caminho só |

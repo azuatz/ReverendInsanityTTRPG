@@ -139,7 +139,7 @@ A Terra Abençoada é um corpo, e apanha. Calamidades mal-resolvidas, invasões,
 
 **Reparar** custa Pedras de Essência Imortal e tempo de reclusão: cerca de **50 Pedras Imortais e 3 meses internos por nível**, e não dá pra pular níveis (uma terra Dilacerada volta pra Ferida antes de voltar pra Rachada).
 
-O tamanho cresce depois conforme o rank sobe e conforme o Imortal investe recursos — não é fixo pro resto da vida, só muito difícil de mudar. *(🔧 Adaptado: no romance, o mecanismo real é acumular Marcas de Dao espaciais dentro da própria fenda — Cap. 1027 — e a anexação de outra Terra Abençoada, que pode multiplicar o tamanho em ordens de grandeza: a apertura soberana de Fang Yuan salta de ~335.000 km² pra ~33.500.000 km², cerca de 100×, num único arco de anexações e tribulações — Cap. 1291, 2243.)*
+O tamanho cresce depois conforme o rank sobe e conforme o Imortal investe recursos — não é fixo pro resto da vida, só muito difícil de mudar. *(🔧 Adaptado: no romance, o mecanismo real é acumular Marcas de Dao espaciais dentro da própria fenda — Cap. 1027 — e a anexação de outra Terra Abençoada, que pode multiplicar o tamanho em ordens de grandeza: há caso documentado de uma Abertura soberana saltando de ~335.000 km² pra ~33.500.000 km², cerca de 100×, por anexação sucessiva — Cap. 1291, 2243.)*
 
 ---
 

@@ -78,7 +78,7 @@ O **modificador de Caminho** do [[🏛️ Arquitetura do Sistema|Arquitetura do 
 | **🌙 Cristal de Luz Lunar** | Lua / Yin | 2 | **10** | 15 | 1 porção | **15** | 30% | Foco de Lâminas de Lua; guarda uma noite de luar pra usar de dia (anula −2 de Sol Direto por 1 cena) |
 | **Pérola de Água Morta** | Água | 3 | **20** | 18 | 1 porção | **25** | 25% | Gu de veneno, névoa e afogamento; conserva alma fresca por +6 h |
 | **🩸 Coral de Sangue Coagulado** | Sangue | 3 | **10** | 18 | 1 porção | **25** | **50%** | Gu de Sangue e Carne; substitui sacrifício humano numa formação |
-| **🌙 Jade Fria Yin** | Lua + Alma | 3 | **25** | 18 | 1 porção | **40** | 32% | Aplica **Frio Yin** sem gastar Gu (1 cena por peça); matéria-prima obrigatória de todo Gu de Alma defensivo |
+| **🌙 Jade Fria Yin** | Lua + Alma | 3 | **25** | 18 | 1 porção | **40** | 32% | Aplica **[[🌙 Caminho da Lua\|Frio Yin]]** sem gastar Gu (1 cena por peça); matéria-prima obrigatória de todo Gu de Alma defensivo |
 | **Sal de Trovão** | Raio | 4 | **40** | 21 | 1 porção | **60** | 30% | Gu de raio e velocidade; detona formações |
 | **Grão de Éter Vazio** | Espaço | 4 | **60** | 21 | 1 porção | **90** | 30% | Bolsas dimensionais, âncoras de teleporte |
 | **Pó de Hora Parada** | Tempo | 5 | **120** | 24 | 1 porção | **200** *(leilão — sem mercado aberto)* | 33% | Ajusta o fluxo de tempo de uma Terra Abençoada em ±1× por ano |
@@ -285,7 +285,7 @@ A Terra Abençoada Especial do [[🌠 Os Dez Físicos Extremos|Físico da Lua An
 | **O monopólio** | **×2 no preço** de todo material Yin vendido. Não existe segunda fonte no mundo — quem quer, compra de você |
 | **Excedente total** | Você não precisa comprar o que produz. **100% da produção Yin é vendável**, não só o que sobra |
 | **A dependência** | A terra **não produz nada Yang**: fogo, metal, madeira, luz. Tudo isso você **compra**, sempre, com **+50% de ágio** — porque o vendedor sabe que você não tem alternativa |
-| **A conta líquida** | Uma Noite Eterna camada 4 rende **720 PEI × 2 = 1.440 PEI/ano** em cotação bruta, e gasta de volta ~200 PEI/ano em material Yang com ágio. Ainda é a maior renda do sistema — de longe |
+| **A conta líquida** | Uma Noite Eterna camada 4 rende **7.200 PEI × 2 = 14.400 PEI/ano** em cotação bruta, e gasta de volta ~200 PEI/ano em material Yang com ágio. Ainda é a maior renda do sistema — de longe |
 
 **Quem compra:** cultivadores de Alma, de Sombra, de Veneno, de Morte, de Sangue. Ou seja, **os Caminhos que a maioria das facções ortodoxas classifica como demoníacos**. Você não escolhe sua clientela; o Dao da sua terra escolheu por você.
 

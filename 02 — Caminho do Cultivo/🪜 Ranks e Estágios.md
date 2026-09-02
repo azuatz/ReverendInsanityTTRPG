@@ -102,6 +102,9 @@ Teto de Combo = número máximo de Gu num único Golpe Matador
 Inicial 2  ·  Médio 3  ·  Alto 4  ·  Pico 5
 ```
 
+> [!important] Só vale do **rank 3** em diante
+> Ranks 1 e 2 **não montam Golpe Matador**, em nenhum estágio — é portão de acesso, não de economia (decisão 243). O Teto de Combo do estágio só passa a significar alguma coisa quando o personagem chega ao rank 3. Ver [[⚡ Golpes Matadores|Golpes Matadores]].
+
 O núcleo conta no total. Um personagem no Alto monta núcleo + 3 apoios (**+3 Níveis**); no Pico, núcleo + 4 apoios (**+4 Níveis**). Antes do Alto, um Golpe Matador de verdade simplesmente não cabe na cabeça do cultivador.
 
 Custo e teste de conjuração seguem [[⚡ Golpes Matadores|Golpes Matadores]] sem alteração — e lembre que o custo cresce ao quadrado com o número de Gu, então o Teto de Combo destrava uma possibilidade, não uma rotina.
@@ -180,16 +183,18 @@ Chegar ao rank 5 Pico **não** dá direito de tentar. É preciso passar por um d
 
 | Rank | Nome | Essência | Marcas de Dao | Provações |
 |---|---|---|---|---|
-| 6 | Sexto Giro | Uva Verde | 0 – 9.999 | Calamidade Terrestre (10 em 10 anos) / Provação Celestial (100 em 100 anos) |
-| 7 | Sétimo Giro | Jujuba Vermelha (100 Uvas Verdes = 1) | 10.000 – 99.999 | + Grande Calamidade (100 em 100 anos, cada uma ordens de grandeza pior que a anterior) |
-| 8 | Oitavo Giro | Lichia Branca (100 Jujubas = 1) | 100.000 – 299.999 | + Calamidade das Dez Mil Calamidades (100 em 100 anos) |
-| 9 | Nono Giro — **Venerável** | Damasco Amarelo (1 = ~100.000.000 de Pedras Primordiais) | 300.000+ | Calamidade do Caos (a cada 100 anos) — quem morre por ela não pode ser ressuscitado |
+| 6 | Sexto Giro | Uva Verde | **1.000 – 10.000** | Calamidade Terrestre (10 anos) · Provação Celestial (100 anos) |
+| 7 | Sétimo Giro | Jujuba Vermelha (100 Uvas Verdes = 1) | **10.000 – 100.000** | Calamidade Terrestre (10 anos) · Provação Celestial (**50** anos) · Grande Calamidade (100 anos) |
+| 8 | Oitavo Giro | Lichia Branca (100 Jujubas = 1) | **100.000 – 300.000** | **A Calamidade Terrestre para de ocorrer.** Provação Celestial (10 anos) · Grande Calamidade (50 anos) · Calamidade das Dez Mil (100 anos) |
+| 9 | Nono Giro — **Venerável** | Damasco Amarelo (1 = ~100.000.000 de Pedras Primordiais) | **300.000+ no Caminho principal** | **A Provação Celestial para de ocorrer.** Grande Calamidade (10 anos) · Calamidade das Dez Mil (50 anos) · Calamidade do Caos (100 anos) — quem morre por ela não pode ser ressuscitado |
+
+As faixas de Marcas são **descritivas, não teto**: dá pra passar do topo e continuar no mesmo rank (decisão 218). O único número rígido é o do rank 9. A cadência de provações completa está em [[☯️ Marcas de Dao#A cadência acelera por rank|Marcas de Dao]]: a cada salto o evento mais frequente do patamar anterior **desaparece** e todo o resto acelera um degrau (decisão 151).
 
 ### ⬆️ Como se sobe de rank depois da imortalidade *(decisão 108 — calibrado pelo cânone)*
 
 Não é automático, não é ritual comprado e não exige Gu específico. O salto tem **três condições e um evento**, nesta ordem:
 
-1. **Saturar o teto de Marcas do rank atual** — a Abertura "cheia" (9.999 no rank 6; 99.999 no rank 7). No teto, as faixas acima são **descritivas, não teto** — Marcas continuam grudando acima do topo da faixa *(decisão 218: é isto que cria o "Imortal denso")*: o cofre não fecha mais nada até ser trocado por um maior.
+1. **Chegar ao topo da faixa do rank atual** — 10.000 Marcas no rank 6; 100.000 no rank 7. As faixas são **descritivas, não teto**: Marcas continuam grudando acima do topo *(decisão 218 — é isto que cria o "Imortal denso")*. Chegar lá é a condição de estar pronto, não uma parede que empurra pro salto.
 2. **Ter sobrevivido às provações do patamar:** **3 Provações Celestiais** para 6→7 · **3 Grandes Calamidades** para 7→8 · as **quatro condições de Venerável** para 8→9 (ver abaixo). É a régua canônica: dentro de um rank, o que mede um Imortal é quantas provações ele já atravessou — dá tipicamente ~300 anos de tempo interno por salto, menos pra quem acelera o fluxo da própria terra.
 3. **Declarar a tentativa.** O céu responde na hora com a **Provação de Avanço**: uma Calamidade sob medida, nas 5 etapas completas de [[🌩️ Calamidades e Provações]], com a **CD do rank seguinte +2**. Preparação vale como sempre (presságios, terra Inabalável, Gu de Estabilização).
 
@@ -239,12 +244,12 @@ Um Imortal de Oitavo Giro só se torna Venerável cumprindo **todas** estas cond
 1. Já produzir Essência Imortal de Lichia Branca (ou seja, estar de fato no Oitavo Giro).
 2. Ter pelo menos 300 mil Marcas de Dao no seu Caminho principal.
 3. Ter atingido, nesse Caminho, o nível de domínio de **Grande Mestre Supremo** ([[☯️ Marcas de Dao|Marcas de Dao]]).
+4. Romper o bloqueio do Dao Celestial — uma provação ainda mais brutal que a Calamidade das Dez Mil Calamidades.
 
 > [!important] As condições 2 e 3 são coisas **diferentes**, e é aí que a maioria falha
 > Elas parecem redundantes e não são: **Marcas são estoque, Domínio é compreensão**, e desde a decisão 254 os dois eixos sobem por caminhos separados. Juntar 300.000 Marcas é questão de séculos e de sobreviver; chegar a Grande Mestre Supremo é questão de **entender o Caminho**, e não acontece por acúmulo nenhum.
 >
 > O romance mostra exatamente esse fracasso: um candidato que **tinha as Marcas** e mesmo assim não ascendeu, porque lhe faltava o domínio. **É a forma mais comum de um Imortal poderosíssimo nunca virar Venerável** — e é o tema do romance dito em regra: compreender vale mais que possuir.
-4. Romper o bloqueio do Dao Celestial — uma provação ainda mais brutal que a Calamidade das Dez Mil Calamidades.
 
 Cumprir três das quatro e falhar na última é uma tragédia de campanha em si — existe precedente narrativo de cultivadores poderosíssimos que nunca conseguiram completar a quarta condição.
 

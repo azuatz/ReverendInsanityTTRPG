@@ -182,7 +182,7 @@ Tem que existir saída, sempre. Nenhum personagem deve chegar a Alvo do Céu sem
 | Método | −CAC | O que custa |
 |---|---|---|
 | **Reclusão silenciosa** — nada de matar, nada de heaven-defying, nenhuma aquisição notável, nenhuma interferência política | **−5 por ano de tempo interno**, máximo **−20 por arco** | Anos. E o mundo anda sem você — rivais sobem, alianças mudam, oportunidades passam |
-| **Gu de Ocultação Celestial** (rank 5 mortal, rank 6+ imortal) | **−10 enquanto ativo** | É **sustentado**: entra na Manutenção de Sustentação quadrática ([[🏛️ Arquitetura do Sistema\|Arquitetura do Sistema]]) e usa o modificador ×1,25 do Caminho da Sorte/Informação. Ligado 24h por dia é uma despesa de calendário, não de rodada |
+| **Gu de Ocultação Celestial** (rank 5 mortal, rank 6+ imortal) | **−10 enquanto ativo** | É **sustentado**: ocupa uma das **3 vagas de sustentação** ([[🏛️ Arquitetura do Sistema\|Arquitetura do Sistema]]) e usa o modificador ×1,25 do Caminho da Sorte/Informação. Ligado 24h por dia é uma despesa de calendário, não de rodada |
 | **Virtude acumulada** — salvar uma população, reparar um dano público, entregar um recurso raro a quem precisava | **−3 a −10 por feito** | Tem que ser **público e verificável**. Virtude secreta não conta: o céu mede o que o mundo pesa, não a sua intenção |
 | **Transferir atenção** — deixar outra pessoa levar o crédito por um feito seu, ou construir um bode expiatório crível | **move −10 do seu contador pro dele** | Só funciona se o bode for plausível pro mundo. E ele agora tem +10, com tudo que isso implica — inclusive vir atrás de você depois |
 | **Sobreviver a uma Calamidade sob medida** | **−8** | O céu cobrou e recebeu. Falhar não reduz nada |
@@ -208,7 +208,7 @@ O jogador não vê o número, mas pode ver a faixa. Uma cena de adivinhação, c
 
 ## 🚫 Como não estragar isso
 
-A Vontade do Céu **não é um vilão**. Não tem personalidade, não tem nome, não fala, não negocia e não guarda rancor. É pressão sistêmica — a mesma coisa que faz a Manutenção de Sustentação ser quadrática, só que na escala do mundo.
+A Vontade do Céu **não é um vilão**. Não tem personalidade, não tem nome, não fala, não negocia e não guarda rancor. É pressão sistêmica — a mesma coisa que faz a Densidade ser paga a cada ativação, só que na escala do mundo.
 
 Seis regras pro mestre, e todas valem mais que qualquer efeito desta nota:
 

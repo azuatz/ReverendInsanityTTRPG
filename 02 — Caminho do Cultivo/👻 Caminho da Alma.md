@@ -153,7 +153,7 @@ Contaminação é um número na ficha que **só sobe**, salvo purificação. Nos
 ## Gu do Caminho da Alma
 
 > [!warning] Os dados desta tabela foram corrigidos — Alma rola **d12**, e três Gu estavam escritos como se fosse d6
-> **Alma é um Caminho de d12** ([[⚔️ Combate|Tabela de Letalidade]]): o maior dado do jogo, comprado com "nenhum efeito colateral, nunca". Mas os Gu **mortais** desta tabela vinham escritos com `2d6`, `4d6` e `8d8` — uma escada de d6, com rótulos de "passo 0" que só fazem sentido se o Caminho fosse d6. **Era erro sistemático de redação, não escolha de design**, e ele contradizia tudo o mais no vault: o Gu Imortal da mesma tabela sempre foi `32d12`, a ficha do Xie Lang sempre publicou o Verme da Lembrança como `2d12+2`, e o nerf do Caminho (decisão 231) foi calibrado com Alma em d12.
+> **Alma é um Caminho de d12** ([[⚔️ Combate|Tabela de Letalidade]]): o maior dado do jogo, comprado com "nenhum efeito colateral, nunca". Mas os Gu **mortais** desta tabela vinham escritos com `2d6`, `4d6` e `8d8` — uma escada de d6, com rótulos de "passo 0" que só fazem sentido se o Caminho fosse d6. **Era erro sistemático de redação, não escolha de design**, e ele contradizia tudo o mais no vault: o Gu Imortal da mesma tabela sempre foi `32d12`, a ficha do a ficha de campanha sempre publicou o Verme da Lembrança como `2d12+2`, e o nerf do Caminho (decisão 231) foi calibrado com Alma em d12.
 >
 > **Isto não é um buff — é alinhar o texto ao que já estava medido.** Todas as simulações rodaram Alma em d12; só estas três linhas diziam outra coisa. Corrigido para `2d12`, `4d12` e `8d12 + 8`.
 >
@@ -176,7 +176,7 @@ Contaminação é um número na ficha que **só sobe**, salvo purificação. Nos
 - **Núcleo:** Gu Devorador Espectral (rank 4) ou o Gu Imortal da Alma Devorada
 - **Apoio:** Gu do Verme da Lembrança (rank 2) · Gu do Casaco de Alma (rank 3) · uma alma armazenada
 - **Sequência:** Rodada 1 — o Casaco de Alma sobe (você fica invisível pra detecção de alma). Rodada 2 — o Verme da Lembrança prende o alvo na pior lembrança dele. Rodada 3 — todas as almas que você carrega gritam ao mesmo tempo dentro da cabeça dele.
-- **Efeito final:** dano de **Alma** no passo do núcleo **+3 do combo**, e o alvo faz VON contra a CD dos seus Gu **com desvantagem**; falhando, fica *Atordoado* por `1d3` rodadas e **não consegue ativar Gu nenhum** durante elas.
+- **Efeito final:** dano de **Alma** no passo do núcleo **+2 do combo** — **dois apoios, +1 cada; a alma armazenada é munição, não Gu de apoio** —, e o alvo faz VON contra a CD dos seus Gu **com desvantagem**; falhando, fica *Atordoado* por `1d3` rodadas e **não consegue ativar Gu nenhum** durante elas.
 - **🕳️ Brecha — *de acúmulo*:** o golpe usa as almas que você carrega como munição. **Cada uso soma +5 de Contaminação**, e ele fica mais forte quanto mais contaminado você está — o que significa que o golpe te empurra pro precipício exatamente na velocidade em que fica bom. Quem conhece a Brecha só precisa **te fazer usá-lo mais vezes**.
 - **Contragolpe:** 1 Ferimento e +5 Contaminação, sempre.
 
@@ -208,7 +208,7 @@ Com Lua, você tem uma **válvula**. Não é infinita (uma noite de lua cheia po
 
 ### 2. Marcas de Lua em ataque espectral
 
-Marcas de Dao de Lua **aplicam-se a ataques de Alma** e vice-versa (ver [[☯️ Marcas de Dao|Marcas de Dao]]): os Níveis de Dano do seu nível de domínio em Lua valem nos Gu de Alma, e os de Alma valem nos de Lua.
+Marcas de Dao de Lua **aplicam-se a ataques de Alma** e vice-versa (ver [[☯️ Marcas de Dao|Marcas de Dao]]): os Níveis de Potência do seu nível de domínio em Lua valem nos Gu de Alma, e os de Alma valem nos de Lua.
 
 **Efeito prático — e repare no que ele NÃO é:** os **Níveis de Potência** de um Caminho valem nos Gu do outro, porque Lua e Alma são ambos Yin e as leis conversam. **As contagens de Marcas continuam separadas**, e cada Caminho tem o próprio Domínio: um Imortal com 6.000 Marcas de Lua e 6.000 de Alma é **Pequeno Feito em cada**, não Mestre em nenhum. O que a combinação dá é **um Nível emprestado de lado a lado** — o que já é a taxa reduzida de Caminhos complementares fazendo o trabalho dela ([[🛤️ Os Caminhos]]), e é bom sem precisar ser mágico.
 

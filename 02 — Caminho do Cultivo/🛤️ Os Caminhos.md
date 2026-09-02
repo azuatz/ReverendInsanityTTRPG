@@ -12,7 +12,7 @@ escopo: sistema
 
 O Caminho (Dao) é a tendência que um Mestre de Gu já mostra nos ranks mortais e cristaliza de vez na [[♾️ A Ascensão Imortal|Ascensão Imortal]]. Ele não é escolhido na criação — é uma leitura do que o jogador já andou fazendo com os Gu que escolheu, confirmada (ou ajustada, com justificativa narrativa) no momento de virar Imortal.
 
-**Dois Caminhos têm nota própria, com Gu e Golpes Matadores detalhados:** [[🌙 Caminho da Lua|Lua]] e [[👻 Caminho da Alma|Alma]].
+**Seis Caminhos têm nota própria, com Gu e Golpes Matadores detalhados:** [[🌙 Caminho da Lua|Lua]], [[👻 Caminho da Alma|Alma]], [[💪 Caminho da Força|Força]], [[🩸 Caminho do Sangue|Sangue]], [[🌪️ Caminho do Vento|Vento]] e [[☯️ Os Cinco Caminhos Wu Xing|os Cinco Wu Xing]].
 
 Mecanicamente, o Caminho de um personagem define: que tipo de Gu ressoa com ele (Gu do mesmo Caminho custam menos pra manter e combinam melhor em Golpes Matadores), onde suas Marcas de Dao se acumulam depois da Ascensão, o sabor dos Golpes Matadores que ele desenvolve — e **qual dado ele rola**.
 
