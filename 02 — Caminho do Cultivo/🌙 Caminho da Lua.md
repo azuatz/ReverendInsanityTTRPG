@@ -66,6 +66,7 @@ Todos abaixo entram no [[📖 Catálogo de Gu|Catálogo]]. Custo de ativação: 
 - **Núcleo:** Gu da Lua Afogada (rank 5) — ou Foice Crescente, numa versão menor
 - **Apoio:** Gu da Maré Puxada (rank 3) · Gu do Frio de Osso (rank 3) · um Gu de Lua qualquer como terceiro
 - **Sequência:** Rodada 1 — o Frio de Osso abre e trava a economia de essência do grupo inimigo. Rodada 2 — a Maré Puxada arrasta todos pro centro. Rodada 3 — a Lua Afogada estoura no aglomerado.
+- **⚡ Prerrogativa — ⛏️ Romper:** mil bordas na mesma rodada não encontram guarda: **ignora a RD** e derruba defesa de rank menor que o núcleo
 - **Efeito final:** núcleo no passo **+4**, mais **+3 do combo**, mais o modificador de Fase = sob lua cheia é passo **+9: `16d12 + 96`** (6 Níveis acima de d12), em área de 15 m. Quem falhar VON perde regeneração e metade do deslocamento por 3 rodadas.
 - **🕳️ Brecha — *de preparação e ambiental, dupla*:** o combo inteiro **falha na lua nova** (a Maré Puxada não ativa e a sequência quebra na rodada 2) e **sob teto fechado**. Um inimigo que saiba disso escolhe o dia e o lugar, e o golpe simplesmente não existe.
 - **Contragolpe:** 1 Ferimento, e o portador fica com **regeneração de essência zerada por 2 rodadas** — a maré que ele puxou voltou por cima dele.
@@ -74,6 +75,7 @@ Todos abaixo entram no [[📖 Catálogo de Gu|Catálogo]]. Custo de ativação: 
 - **Núcleo:** Gu da Foice Crescente
 - **Apoio:** Gu do Frio de Osso · um Gu de movimento qualquer
 - **Sequência:** Rodada 1 — Frio de Osso baixa a DES do alvo (e portanto a **Defesa** dele). Rodada 2 — reposiciona pra pegar o ângulo. Rodada 3 — a foice sai com o alvo já lento.
+- **⚡ Prerrogativa — 👁️ Alcançar:** a foice minguante já ignora cobertura parcial — a Prerrogativa a leva ao fim: **atinge através de cobertura total, invisibilidade ou barreira**
 - **Efeito final:** passo **+2** do combo sobre o núcleo — **dois apoios, +1 cada** — (+1 se noite), e **+2 no acerto** pela DES reduzida do alvo. Alvo único, alcance 25 m, ignorando cobertura.
 - **🕳️ Brecha — *de janela*:** o Frio de Osso é sustentado e visível (o ar congela em volta de você). Qualquer um que já tenha visto o golpe sabe que tem duas rodadas pra sair do raio de 8 m — e sair anula tudo.
 - **Contragolpe:** só a essência. É o golpe que se usa toda semana, não uma vez por arco.

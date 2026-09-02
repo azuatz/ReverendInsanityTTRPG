@@ -105,10 +105,11 @@ Todos abaixo entram no [[📖 Catálogo de Gu|Catálogo]]. Custo de ativação: 
 
 ## Golpes Matadores do Caminho do Vento
 
-### 🍃 O Corte de Doze Passos *(rank 2–3, golpe de campanha típico do Caminho)*
+### 🍃 O Corte de Doze Passos *(rank 3, golpe de campanha típico do Caminho)*
 - **Núcleo:** Gu da Lâmina de Sopro (rank 2)
 - **Apoio:** Gu do Passo de Brisa (rank 2) · Gu do Rastro Apagado (rank 3) · *(terceiro apoio opcional: qualquer Gu de Vento que atrase o alvo)*
 - **Sequência:** Rodada 1 — Rastro Apagado ativo, você some do campo de visão útil do alvo (ele sabe que você existe, não sabe **onde**). Rodada 2 — Passo de Brisa: 12 m ou mais até as costas dele, e você passa antes na ordem por DES. Rodada 3 — a Lâmina sai pelas costas, de cima, com o alvo ainda não tendo agido.
+- **⚡ Prerrogativa — 👁️ Alcançar:** doze passos colocam você onde a defesa não está: **atinge através de cobertura, e a posição do alvo não o protege nesta rodada**
 - **Efeito final:** núcleo no passo **−1**, mais **+4 da Posição** (12 m + costas + antes do alvo agir = +2 +2 +1, truncado no teto de +4), mais **+2 do combo** (2 Gu de apoio), mais **+1 de Corrente** ao ar livre e **+1 de Altitude** de um telhado = passo **+7: `2d12 + 8`** (4 Níveis acima de d12) — **10 a 32 de dano com um Gu de rank 2.** É dano de rank 4 saindo de um cultivador Grau C, e é assim que este Caminho mata alguém acima dele.
 - **🕳️ Brecha — *de preparação, dupla*:** o golpe exige **12 m livres pra atravessar** e **as costas do alvo**. Num corredor, num quarto, numa gruta ou numa formação fechada, a Posição é 0, a Corrente é −1, e o núcleo dispara em `2d4` — 2 a 8 de dano. Um inimigo que já viu o golpe **encosta as costas na parede e não sai do vão da porta**, e o Golpe Matador inteiro vira nada sem ele gastar uma gota de essência.
 - **Contragolpe:** só a essência (`(40+40+40) × 3` = **360**) e o Rastro Apagado quebra pelo resto da cena. É o golpe de toda semana, não o de uma vez por arco.
@@ -117,6 +118,7 @@ Todos abaixo entram no [[📖 Catálogo de Gu|Catálogo]]. Custo de ativação: 
 - **Núcleo:** Gu do Vácuo Cortante (rank 4)
 - **Apoio:** Gu das Asas de Andorinha (rank 5) · Gu do Passo de Brisa (rank 2) · Gu do Rastro Apagado (rank 3)
 - **Sequência:** Rodada 1 — Asas abrem, você sobe acima de 10 m e some do alcance do melee inimigo. Rodada 2 — reposiciona no ar pra alinhar a linha de 40 m pelo eixo mais longo do grupo inimigo, atravessando 12 m+. Rodada 3 — o Vácuo desce pela linha inteira.
+- **⚡ Prerrogativa — ⛓️ Prender:** o ar sai e não volta: **o alvo não deixa a cena** enquanto o vácuo durar, e voar não o salva
 - **Efeito final:** núcleo no passo **0**, mais **+3 do combo** (3 apoios, e o alvo tem desvantagem pra resistir), mais **+2 de Altitude** e **+2 de Posição** (+4 posicional, dentro do teto de +6) = passo **+7: `8d12 + 32`** (4 Níveis acima de d12) numa linha de 40 m × 2 m — **40 a 128 em todos que estiverem nela**. Quem falhar em CON fica **sem ar por 2 rodadas** e não ativa Gu de voz.
 - **🕳️ Brecha — *ambiental*:** **não existe sob teto.** As Asas não abrem em interior, a Altitude some, a Posição no ar some junto, e o Vácuo cai do passo +7 pro passo 0 — de `8d12 + 32` (40–128) pra `8d6` (8–48). Debaixo d'água, o núcleo simplesmente **falha**. Um inimigo que saiba disso luta em casa, sempre.
 - **Contragolpe:** 1 Ferimento, e o portador fica **com RD 0 e sem poder ativar Gu de movimento por 2 rodadas** — o vácuo que ele fez puxou o próprio ar dele. Duas rodadas caindo de 10 m de altura, se ele ainda estiver no ar quando isso bater. **Aterrisse antes de disparar.**

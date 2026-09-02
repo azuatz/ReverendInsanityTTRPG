@@ -172,14 +172,16 @@ Custo de ativação: Força é físico, **×1** — **40** (rank próprio) · 10
 - **Núcleo:** Gu do Punho de Montanha Rachada (rank 5)
 - **Apoio:** Gu do Passo de Aríete (rank 3) · Gu do Tirano de Mil Jin (rank 4) · a manobra de **agarrar** (o Tendão de Búfalo ou o Tirano habilitando)
 - **Sequência:** Rodada 1 — o Tirano liga (+2 Níveis, RD 8) e você entra na troca de golpes; acerta, apanha, **2 de Ímpeto**. Rodada 2 — o Passo de Aríete investe 12 m em linha reta: o alvo cai, **+2 de Ímpeto**, total 4. Rodada 3 — você agarra o alvo *Caído* (sucesso quase certo, Defesa dele já em −2), acerta o golpe livre e chega a **5**; o Punho desce.
+- **⚡ Prerrogativa — ⛏️ Romper:** peso não negocia com armadura: **ignora a RD do alvo por completo** e derruba Gu de defesa de rank menor que o núcleo
 - **Efeito final:** núcleo no passo **+4**, mais **+3 do combo**, mais **+2 do Tirano** = passo **+9: `16d12 + 96`** (6 Níveis acima de d12; 112–288), **ignorando RD**, com **+2 no acerto** pelo alvo *Caído* e **+5 do rank do Gu que entrega**. Custo de essência: `(40×4) × 4` = **640** — caro, mas um Caminho só, sem multiplicador híbrido.
 - **🕳️ Brecha — *de janela, e de acúmulo*:** o golpe **exige 5 de Ímpeto**, e Ímpeto **zera** se você passar uma rodada sem acertar nem apanhar corpo a corpo, ou começar seu turno a mais de 10 m de todo inimigo. **Um único turno de recuo do alvo apaga três rodadas de trabalho.** Qualquer inimigo com um Gu de movimento decente desmonta este Golpe Matador sem gastar essência nenhuma — e essa é, literalmente, a Brecha do Caminho inteiro, não só deste golpe.
 - **Contragolpe:** `1 × M` = **16 de Vitalidade**, **−1 FOR** até um descanso curto, e o **Tirano desliga** no fim da rodada (não sobrou Ímpeto pra alimentá-lo). Você acabou de dar o maior golpe da sua vida e está sem amplificação nenhuma na rodada seguinte.
 
-### 🐎 Arremesso do Cavalo Morto *(rank 2–3, econômico)*
+### 🐎 Arremesso do Cavalo Morto *(rank 3, econômico)*
 - **Núcleo:** a manobra de **arremessar**, amplificada pelo Gu do Tendão de Búfalo
 - **Apoio:** Gu do Passo de Aríete · qualquer Gu que baixe a Defesa ou a DES do alvo
 - **Sequência:** Rodada 1 — o Aríete investe e derruba o alvo mais pesado do grupo inimigo. Rodada 2 — você agarra (contra alvo *Caído*, com **+2** do Tendão). Rodada 3 — arremessa contra a linha inimiga.
+- **⚡ Prerrogativa — ⛓️ Prender:** o que cai em cima não sai de cima: **o alvo fica preso sob o peso** e não deixa a cena enquanto não se livrar
 - **Efeito final:** passo **+2** do combo sobre o arremesso: o arremessado sofre `M d12` e cai *Caído*; **cada criatura na trajetória** sofre `M d8` e também cai. Distância = 2 m + 2 m por ponto de margem — com FOR +3 contra um alvo comum, tipicamente **10 a 16 m**. Custo: `(40×3) × 3` = **360**.
 - **🕳️ Brecha — *ambiental*:** exige **chão firme e pelo menos 4 m de teto**. Num corredor, numa escada, num telhado, dentro d'água ou no ar, o Aríete não ativa e o arremesso não tem para onde ir. **Um inimigo que puxe a briga pra dentro de casa desliga o golpe.**
 - **Contragolpe:** só a essência e **1 de Ímpeto** consumido. É o golpe de toda semana, e é como um lutador de rank 2 desmonta um grupo de quatro sem matar ninguém.

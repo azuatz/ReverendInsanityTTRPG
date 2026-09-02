@@ -176,6 +176,7 @@ Contaminação é um número na ficha que **só sobe**, salvo purificação. Nos
 - **Núcleo:** Gu Devorador Espectral (rank 4) ou o Gu Imortal da Alma Devorada
 - **Apoio:** Gu do Verme da Lembrança (rank 2) · Gu do Casaco de Alma (rank 3) · uma alma armazenada
 - **Sequência:** Rodada 1 — o Casaco de Alma sobe (você fica invisível pra detecção de alma). Rodada 2 — o Verme da Lembrança prende o alvo na pior lembrança dele. Rodada 3 — todas as almas que você carrega gritam ao mesmo tempo dentro da cabeça dele.
+- **⚡ Prerrogativa — 🔒 Selar:** cem vozes ocupam a mente que ativaria o Gu: **sela um Gu ativo do alvo até o fim da cena**
 - **Efeito final:** dano de **Alma** no passo do núcleo **+2 do combo** — **dois apoios, +1 cada; a alma armazenada é munição, não Gu de apoio** —, e o alvo faz VON contra a CD dos seus Gu **com desvantagem**; falhando, fica *Atordoado* por `1d3` rodadas e **não consegue ativar Gu nenhum** durante elas.
 - **🕳️ Brecha — *de acúmulo*:** o golpe usa as almas que você carrega como munição. **Cada uso soma +5 de Contaminação**, e ele fica mais forte quanto mais contaminado você está — o que significa que o golpe te empurra pro precipício exatamente na velocidade em que fica bom. Quem conhece a Brecha só precisa **te fazer usá-lo mais vezes**.
 - **Contragolpe:** 1 Ferimento e +5 Contaminação, sempre.
@@ -184,6 +185,7 @@ Contaminação é um número na ficha que **só sobe**, salvo purificação. Nos
 - **Núcleo:** Gu do Casaco de Alma
 - **Apoio:** qualquer Gu de Alma · uma alma armazenada, sacrificada no ato
 - **Sequência:** Reação, fora do seu turno, quando você sofreria dano de Alma.
+> **Golpe defensivo — não declara Prerrogativa.** A Prerrogativa é o que um golpe **ofensivo** compra com o Retrocesso; um golpe defensivo já entrega a coisa exclusiva dele no próprio efeito. Ver [[⚡ Golpes Matadores#🛡️ Golpes Matadores defensivos|Golpes defensivos]].
 - **Efeito final:** **anula por completo** um ataque de Alma de rank igual ou inferior ao seu, queimando uma alma armazenada pra absorver o impacto. A alma queimada some da sua reserva (e sai da conta de Contaminação: **−3**).
 - **🕳️ Brecha — *de preparação*:** só funciona se você **tiver uma alma armazenada**. Um inimigo que te force a gastar as reservas antes do golpe real desliga a sua única defesa — e ninguém entra num combate longo com o estoque cheio.
 - **Contragolpe:** nenhum. É a exceção da lista, e é por isso que todo cultivador de Alma carrega almas que não precisa.

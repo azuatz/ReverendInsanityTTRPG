@@ -160,6 +160,7 @@ Um cultivador de Sangue não espera a mesada do clã. O combustível dele anda p
 - **Núcleo:** Gu da Lâmina de Parentesco (rank 5)
 - **Apoio:** Gu das Correntes Vermelhas (rank 3) · Gu do Manto Fervente (rank 4, declarado em N=3) · Gu da Agulha Vermelha (rank 2)
 - **Sequência:** Rodada 1 — a Agulha abre o alvo e aplica *Sangramento*. Rodada 2 — as Correntes prendem e drenam (e já começam a pagar a Dívida que vem por aí). Rodada 3 — o Manto ferve a N=3 e a Lâmina sai contra um alvo preso, sangrando e sem RD.
+- **⚡ Prerrogativa — ⛏️ Romper:** o sangue conhece o sangue e não é barrado por ele: **ignora a RD por completo**, como a ficha do núcleo já anuncia
 - **Efeito final:** núcleo no passo **+5**, mais **+3 do combo** (três apoios, +1 cada) = passo **+8**, `16d12 + 96` (6 Níveis acima de d12). **O Manto Fervente NÃO soma duas vezes:** ele é um dos três apoios, e o `N` que ele declara é o que o torna digno da vaga — não um bônus por cima do bônus de apoio, ignorando RD, contra um alvo com desvantagem pra resistir. Custo de essência: `(20+20+20+20) × 4` = **320** — ridiculamente barato pro que entrega, porque é Caminho único e ×0,5.
 - **🕳️ Brecha — *de preparação*:** o combo inteiro depende de **uma dose de sangue de um parente consanguíneo do alvo, colhida antes**. Sem ela a Lâmina não dispara e o golpe vira três Gu de apoio gastos. Qualquer alvo que saiba disso protege a própria família — ou já matou todos eles, que é o que os inimigos sérios deste cenário fazem.
 - **Contragolpe:** **Sangria total do golpe: `5×16 + 3×8 + 2×4` = 112 de Dívida** numa rodada. Um rank 5 com CON +2 tem 160 de máximo: ele termina o golpe em **Seco**, com −4 em FOR e CON e a recuperação de essência em descanso um degrau abaixo. Mais **+2 de Suspeita** se houve testemunha.
@@ -168,6 +169,7 @@ Um cultivador de Sangue não espera a mesada do clã. O combustível dele anda p
 - **Núcleo:** Gu das Correntes Vermelhas
 - **Apoio:** Gu da Agulha Vermelha · um Gu de movimento qualquer que feche a distância
 - **Sequência:** Rodada 1 — a Agulha marca e sangra o alvo mais próximo. Rodada 2 — você fecha pra 10 m. Rodada 3 — as Correntes pegam até três alvos já feridos e drenam por 2 rodadas.
+- **⚡ Prerrogativa — ⛓️ Prender:** três correntes de sangue coagulado: **o alvo não deixa a cena** enquanto uma delas o segurar
 - **Efeito final:** passo **+2** do combo sobre o dreno das Correntes (`4d10` por alvo por rodada em vez de `1×M`), três alvos, 2 rodadas — e **tudo isso quita Dívida ponto por ponto**. Contra um grupo de três, devolve até ~90 de Dívida.
 - **🕳️ Brecha — *de janela*:** durante as 2 rodadas de dreno, sua **Defesa cai 2** e as correntes são visíveis a 100 m. Qualquer aliado do alvo que ataque **você** em vez de tentar soltar o preso interrompe tudo — as correntes arrebentam se você sofrer dano igual ou maior a `2 × M` numa única rodada.
 - **Contragolpe:** só a Sangria de ativação (8) e **+1 de Suspeita**. É o golpe que se usa toda semana — e é o motivo pelo qual o cultivador de Sangue prefere lutar contra grupos: grupo é estoque.
