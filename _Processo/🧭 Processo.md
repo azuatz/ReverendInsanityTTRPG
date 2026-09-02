@@ -36,6 +36,13 @@ Varredura feita antes de escrever o mundo de Vespéria, caçando o que impediria
 
 **Abra quando:** você for construir a sua própria lore e quiser ver que tipo de furo procurar. É um bom checklist do que costuma quebrar num mundo de cultivo.
 
+### 🏁 [[🏁 Revisão Final — Estado do Sistema]]
+
+O estado do sistema numa leitura só, fechado em 2026-09-01: a manchete (não há
+pendência de balanceamento), o que a revisão achou em uma frase, as cinco lições
+de método, o que ficou em aberto e com quem, e o único teste que ainda falta.
+**É por aqui que se retoma o contexto depois de uma pausa longa.**
+
 ### 🩺 [[🩺 Lint do Vault]]
 
 A nota de saúde do vault, mantida pelo agente LLM (ver `CLAUDE.md` na raiz).

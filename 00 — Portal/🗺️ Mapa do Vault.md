@@ -183,6 +183,7 @@ escopo: processo
 | Nota | O que é |
 |---|---|
 | [[🧭 Log de Decisões]] | **O contrato do sistema** — 76 decisões numeradas por assunto, com a justificativa de cada uma e o que foi rejeitado. Se uma nota contradiz o log, a nota está errada |
+| [[🏁 Revisão Final — Estado do Sistema]] | **O estado do sistema numa leitura só** — a revisão de 2026-09-01: manchete, o que ela achou, as cinco lições de método, o que ficou em aberto e o teste que falta |
 | [[🩺 Lint do Vault]] | **A nota de saúde** — resultado de cada rodada de lint, editada no lugar; o script mecânico vive em `_Processo/ferramentas/lint_vault.py` |
 | [[🎯 Simulação de Combate — Resultados]] | **A prova de que os números fecham.** 3.000 combates por cenário com os quatro personagens da mesa: duelo entre PJs, PJ contra inimigo solo, grupo contra horda, grupo contra Chefe. Traz o que estava quebrado, o que foi corrigido, e onde a mesa ficou depois |
 | [[🎒 Arsenais Reais dos PJs por Rank]] | **O que cada PJ carrega nos ranks 1, 3 e 5**, tirado do Catálogo, com os Gu de efeito permanente destacados — o insumo que faz a simulação medir personagens em vez de fichas abstratas. Traz também os buracos de catálogo achados no caminho e uma seção de Gu propostos |
