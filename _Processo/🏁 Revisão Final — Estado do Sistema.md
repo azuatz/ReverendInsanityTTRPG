@@ -28,7 +28,7 @@ Não era. **Eram dois defeitos de texto empilhados:**
 1. **Três dos quatro Caminhos da mesa tinham os pools de ataque calculados a partir de `d6`** em vez do dado real do Caminho. Lua e Sangue são `d8`, Vento é `d10`. O Vento perdia quase metade do dano. Era o mesmo defeito já corrigido no Caminho da Alma tempos atrás — e ninguém tinha ido olhar as outras colunas.
 2. **O pico do Fantasma de Fera estava publicado como se fosse a linha de base** do lutador, quando ele é uma exceção lendária.
 
-Corrigidos os dois, a ordem de poder mede **Lee 100 · Xie Lang 97 · Jiāotáng 79 · Demvi 71** — o critério, cumprido, sem tocar num único número de balanceamento.
+Corrigidos os dois, o critério passou a ser cumprido **sem tocar num único número de balanceamento**. Uma terceira passada fechou o que faltava — a mesma escada de dado tinha parado nos ranks 2 a 4, porque nos Gu de rank 5 o passo já não sobe o tipo do dado e vira `+1 por dado`, então eles **não pareciam errados e estavam** — e junto com ela as somas de apoio dos Golpes Matadores, que davam +3 onde a regra dá +2 e contavam um Gu duas vezes. **Estado final medido: Lee 100 · Jiāotáng 90 · Xie Lang 87 · Demvi 67.** Paridade entre os três da frente, Demvi por último — o critério do autor, inteiro.
 
 **O resto do motor também está fechado:** a escada de dificuldade entrega **25 de 25 células** dentro da faixa prometida, os moldes de inimigo estão calibrados, a economia tem guia de mesa, o refino tem tempo em calendário, e a fase imortal tem tribulação, espólio e calamidade.
 
