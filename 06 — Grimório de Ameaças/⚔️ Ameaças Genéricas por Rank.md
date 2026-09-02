@@ -157,6 +157,21 @@ Duas linhas, e elas fecham o buraco que deixava um Caminho inteiro inerte. **A H
 > [!warning] Por que isto era o buraco mais caro da ficha de inimigo
 > Todo molde tinha barra de Alma no motor e **nenhum a publicava fora do Mestre de Gu**. Medido num playtest: o personagem de Alma **acertou 5 de 5, causou 35 de dano, gastou 79% do tanque — e não aconteceu nada**, porque não havia barra escrita para descontar. **Um dos Caminhos ficava inerte contra cinco dos seis moldes, e não por desenho.**
 
+### Quando a Alma de um inimigo zera
+
+**Ele sai da cena na hora, com o corpo intacto.** Não rola Teste de Morte, não agoniza, não se levanta: a mente apagou e o corpo continua ali.
+
+**Isso não é a mesma regra dos personagens.** Um PJ que zera a Alma entra em [[❤️ Recursos e Dano#Alma zerada — Colapso Espiritual|Colapso Espiritual]], com Teste de Morte espiritual e a primeira queda nunca matando — porque a mesa precisa que ele volte. **Um molde não tem essa rede**: é uma peça de cena, e a cena acaba para ele.
+
+> [!tip] É isto que faz o Caminho da Alma ser a via de **captura**, e não só de dano
+> Um inimigo derrubado pela Vitalidade está morrendo. **Um inimigo derrubado pela Alma está inteiro, inconsciente e no chão** — dá para amarrar, interrogar, entregar, vender ou carregar. É a diferença entre um cadáver e um prisioneiro, e ela custa **a mesma quantidade de acertos**.
+>
+> Casa com o exemplo canônico do Golpe Matador Coletivo — *"busca e travamento ilimitados"*, que o romance chama de **"o método de captura número um"** e que **não causa dano nenhum** ([[⚡ Golpes Matadores]]). O Caminho da Alma é a versão individual daquilo.
+
+**A Horda não tem barra de Alma e portanto não se derruba assim** — massa não tem alma única. Contra Horda, Alma é dano desperdiçado, e isso é escolha de desenho e não esquecimento.
+
+*(Regra que o motor de simulação aplica desde a primeira versão — as 26 rodadas todas tiraram o inimigo da cena ao zerar a Alma dele. Nunca havia sido publicada.)*
+
 ### O molde Chefe, por inteiro
 
 O Chefe é **um Elite com quatro números próprios**. Tudo o mais — Ação Especial, condições, comportamento — segue o Elite.
