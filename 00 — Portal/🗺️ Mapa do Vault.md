@@ -112,7 +112,7 @@ escopo: processo
 | Nota | O que é |
 |---|---|
 | [[🧑‍🎤 Trilhas de Personagem]] | Nota-mãe |
-| [[⚖️ Pontos de Criação]] | **12 pontos e nada mais.** Ninguém começa com Gu; Aptidão se compra e se vende do mesmo bolso; Origem quase não mexe |
+| [[⚖️ Pontos de Criação]] | **12 pontos e nada mais.** Ninguém começa com Gu; a **Aptidão é rolada e é definitiva** (não entra no bolso dos pontos); Origem quase não mexe |
 | [[🌱 Origens]] | As **5 origens** e, mais importante, **de onde vem o primeiro Gu** de cada uma — que é a decisão que a origem realmente toma |
 | [[📋 Guia de Criação de Ficha]] | Passo a passo completo, do conceito à ficha pronta |
 | [[🤝 Vínculos e Acordo de Mesa]] | **A nota que protege jogador, não personagem** — o Vínculo (vantagem 1×/sessão, quebra vira Débito), as 5 perguntas do Acordo de Mesa e as 5 amarras do protocolo de traição |

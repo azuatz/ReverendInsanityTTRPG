@@ -534,14 +534,15 @@ Está tudo em [[⚔️ Combate|Combate]] ("Só o Gu que entrega o golpe soma o r
 
 **🗡️ ENTREGA o golpe** — o Gu **vira** a arma. O corpo do usuário é o bicho.
 ```
-Acerto = d20 + VON + (rank do personagem + 2) + rank do Gu + treino
+Acerto = d20 + VON + (rank do personagem + 2) + rank do Gu
+         [ataque NÃO soma treino — decisão 215]
 Dano   = M d(dado do passo do Gu, ajustado por Níveis)      [M = rank do Gu]
 ```
 Precisão alta (o rank do Gu entra no acerto) e dano previsível vindo da Escada. Usa **VON**, não FOR — é um Gu de ataque, mesmo sendo corpo a corpo.
 
 **🔨 AMPLIFICA o golpe** — o Gu reveste a arma ou o punho e **não** entra no acerto.
 ```
-Acerto = d20 + FOR + (rank do personagem + 2) + treino          ← sem rank de Gu
+Acerto = d20 + FOR + (rank do personagem + 2)          ← sem rank de Gu, e sem treino
 Dano   = M d(dado da arma, ajustado pelos Níveis do Gu)  +  FOR
                                                                    ↑
                                                  a Força fica FORA do multiplicador

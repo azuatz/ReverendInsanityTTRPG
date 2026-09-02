@@ -160,7 +160,7 @@ A Abertura tem paredes, e é rompendo e reconstruindo essas paredes que o cultiv
 
 Um Gu acima do seu rank resiste. Dá pra empurrar com muito da sua própria essência — ou com essência que não é sua, em pedras.
 
-> **Ativação Forçada** — só é possível com uma fonte externa que cubra o custo inteiro: pedras de essência primordial, um aliado canalizando, ou essência drenada de outro cultivador.
+> **Ativação Forçada** — duas formas de pagar, e você escolhe: **a sua própria essência**, ou uma **fonte externa** que cubra o custo inteiro (pedras de essência primordial, um aliado canalizando, ou essência drenada de outro cultivador).
 > **Duas portas:** metade da sua essência máxima (1 rank acima) ou o tanque inteiro (2 acima), com teste de Vontade — ou 120 pedras do rank do Gu, sem risco. **1 Ferimento nos dois casos.**
 > **Nunca atravessa a linha mortal/imortal:** essência mortal não força um Gu Imortal em hipótese nenhuma.
 > **E o Gu pode não sobreviver:** teste de Vontade CD `12 + (3 × diferença de rank)`. Falhou, o Gu morre depois de agir.
