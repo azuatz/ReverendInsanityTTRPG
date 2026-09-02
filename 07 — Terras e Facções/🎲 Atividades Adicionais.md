@@ -67,4 +67,4 @@ Gu à beira da morte ou sem comida podem entrar em hibernação profunda e se fo
 
 ## 🍜 Vida de Clã — cenas de tempo livre
 
-Entre arcos, ofereça 1 cena curta de "vida normal" por sessão: uma refeição no salão do clã, uma conversa com um Ancião, um momento com o Elenco fora de combate. Não tem mecânica própria — é onde vínculo (a nota de Vínculos e Acordo de Mesa ainda não existe) se constrói sem gastar uma cena inteira nisso. Numa campanha de 50 sessões, esses momentos curtos são o que faz o elenco parecer gente, não só fonte de missão.
+Entre arcos, ofereça 1 cena curta de "vida normal" por sessão: uma refeição no salão do clã, uma conversa com um Ancião, um momento com o Elenco fora de combate. Não tem mecânica própria — é onde vínculo (ver [[🤝 Vínculos e Acordo de Mesa|Vínculos e Acordo de Mesa]]) se constrói sem gastar uma cena inteira nisso. Numa campanha de 50 sessões, esses momentos curtos são o que faz o elenco parecer gente, não só fonte de missão.

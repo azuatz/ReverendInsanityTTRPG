@@ -63,7 +63,8 @@ Nenhuma combinação legal deixa o personagem morto de fábrica — mesmo −1 �
 Defesa              = 10 + DES + rank + rank do Gu de movimento ativo
 Defesa contra Alma  = 10 + VON + 2 × rank   [é ESTA que um ataque de Alma vence]
 Acerto melee        = d20 + FOR + (rank + 2)
-Acerto à distância  = d20 + DES + (rank + 2)
+Acerto à distância  = d20 + DES + (rank + 2)   [só objeto improvisado — não existem
+                      armas à distância mundanas; alcance de verdade é Gu, decisão 104]
 Dano melee          = 1 dado da arma + FOR   [sem Gu de Força ativo]
 Acerto de Gu        = d20 + VON + (rank + 2) + rank do Gu
 CD dos seus Gu      = 10 + VON + rank do Gu
