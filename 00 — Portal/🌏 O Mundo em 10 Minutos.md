@@ -55,7 +55,7 @@ Nos ranks mortais o Caminho de um personagem é só uma **tendência** — os Gu
 
 ### 4. Golpe Matador — o combo
 
-Um **Golpe Matador** é vários Gu ativados em sequência como uma jogada única. É como um cultivador mata alguém de rank acima do dele: não com força bruta, mas com um combo preparado, num momento escolhido.
+Um **Golpe Matador** é vários Gu ativados em sequência como uma jogada única. É como um cultivador mata alguém de rank acima do dele: não com força bruta, mas com um combo preparado, num momento escolhido. **Só do rank 3 em diante** — antes disso a cabeça de um cultivador não segura a sequência, e o que ele tem é um Gu de cada vez.
 
 **Todo Golpe Matador tem uma Brecha declarada** — uma condição em que ele falha. Isso é regra, não sabor: é o que permite os jogadores derrotarem um chefe por inteligência em vez de HP.
 

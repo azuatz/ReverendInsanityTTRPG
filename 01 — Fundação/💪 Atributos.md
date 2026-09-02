@@ -15,7 +15,7 @@ Seis atributos. Cada um manda em uma coisa que aparece de verdade na mesa, e nen
 |---|---|---|---|
 | **Força** | FOR | **Acerto e dano corpo a corpo** | Erguer, quebrar, arrombar, segurar alguém |
 | **Constituição** | CON | **Vitalidade**, o **portão dos Gu de Corpo** (os graus caros exigem CON alto), e **o que seu corpo aguenta receber** | Veneno, doença, fadiga, frio, fome, tortura |
-| **Destreza** | DES | **Defesa**, deslocamento, **acerto à distância** (arco, arremesso) | Furtividade, acrobacia, mãos leves, escapar, fugir |
+| **Destreza** | DES | **Defesa**, deslocamento, **acerto à distância** (só objeto improvisado — arco e besta não existem neste mundo; alcance de verdade é Gu) | Furtividade, acrobacia, mãos leves, escapar, fugir |
 | **Astúcia** | AST | Perceber emboscada, ler o campo, achar a Brecha de um golpe | Percepção, investigação, **perceber mentira**, conhecimento, refino, criar Golpe Matador |
 | **Vontade** | VON | **Acerto dos seus Gu e a CD que eles impõem**, mais a barra de Alma **e a Defesa contra Alma** | Resistir a controle mental, medo e loucura; Ativação Forçada |
 | **Carisma** | CAR | Intimidar, comandar aliados e escravos em cena | Persuadir, **mentir e enganar**, liderar, negociar, política de clã |

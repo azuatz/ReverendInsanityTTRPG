@@ -92,6 +92,7 @@ Gu carregados      = (% ÷ 10) + rank        Gu sustentados = 3 (FIXO; inimigo c
                                              só com Gu de multitarefa]
 Vagas de Suporte   = B (só Gu passivos de utilidade/movimento/sentidos)
 Teto de Combo      = 2 · 3 · 4 · 5 Gu num Golpe Matador, por estágio
+                     [Golpe Matador só existe do RANK 3 em diante]
 Golpes registrados = AST + 1                Aliados = CAR + 1
 Pontos de Plano    = 2 + maior(AST, CAR)
 ```

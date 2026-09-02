@@ -67,9 +67,9 @@ O preço da minha traição:
 | **Defesa** | `10 + DES + rank + rank do Gu de movimento ativo` | `11 + DES` |
 | **Defesa contra Alma** | `10 + VON + 2 × rank` *(a Defesa que um ataque de Alma tem de vencer)* | `12 + VON` |
 | **CD dos seus Gu** | `10 + VON + rank do Gu` | `11 + VON` |
-| **Acerto melee** | `d20 + FOR + (rank + 2) + treino` | `d20 + FOR + 3` |
-| **Acerto à distância** | `d20 + DES + (rank + 2) + treino` | `d20 + DES + 3` |
-| **Acerto de Gu** | `d20 + VON + (rank + 2) + rank do Gu + treino` | `d20 + VON + 3 + rank do Gu` |
+| **Acerto melee** | `d20 + FOR + (rank + 2)` | `d20 + FOR + 3` |
+| **Acerto à distância** | `d20 + DES + (rank + 2)` | `d20 + DES + 3` |
+| **Acerto de Gu** | `d20 + VON + (rank + 2) + rank do Gu` | `d20 + VON + 3 + rank do Gu` |
 | **M** | 1 · 2 · 4 · 8 · 16 · 32 · 64 · 128 · 256 | 1 |
 | **Gu na Abertura** | `(% de aptidão ÷ 10) + rank` | — |
 | **Gu sustentados** | **3** *(fixo; +1 acima do teto rola erro em `1d6` 1–2)* | 3 |
