@@ -100,6 +100,7 @@ Máximo de golpes registrados: **AST + 1**. Cada Gu de apoio empurra o núcleo +
 - **Apoio:** 
 - **Sequência:** 
 - **Efeito:** *(passo final × M)*
+- **⚡ Prerrogativa:** *(**obrigatória** — escolha uma e só uma: **Romper** (ignora toda a RD) · **Selar** (desliga um Gu sustentado) · **Prender** (nega a próxima ação) · **Alcançar** (acerta quem estaria fora de alcance ou escondido). É o que este golpe faz que um ataque comum não faz — e é a razão de dispará-lo)*
 - **🕳️ Brecha:** *(obrigatória — em que condição ele falha?)*
 - **Contragolpe:** *(o que você paga depois)*
 
