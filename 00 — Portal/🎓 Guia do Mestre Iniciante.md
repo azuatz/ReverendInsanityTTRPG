@@ -380,16 +380,21 @@ Sem ideia e a sessão é hoje? Role `1d6` em cada coluna:
 
 ### As composições prontas (mesa de 4, mesmo rank do grupo)
 
-| Cena | Composição | Vitória medida (rank 1 → 5) |
+> [!important] A tabela de composição mora em [[⚔️ Ameaças Genéricas por Rank]], e **só lá**
+> Ela tem uma coluna por rank e é recalibrada por simulação a cada rodada. **Este guia não republica os números** — uma cópia aqui é uma cópia que envelhece sem ninguém perceber, e foi exatamente isso que aconteceu com a versão anterior desta seção.
+
+**Para a sua primeira sessão, o que você precisa é a coluna do rank 1:**
+
+| Cena | Composição no rank 1 | Vitória medida do grupo |
 |---|---|---|
 | **Fácil** | Horda de 8 | 100% |
-| **Padrão** | 3 Mestres de Gu | 62% → 99% |
-| **Padrão pesado** | 2 Mestres + Horda de 8 | 63–85% |
-| **Difícil** | ranks 1–4: 3 Mestres + 1 Guerreiro · rank 5+: 4 Mestres | 30–46% |
-| **Clímax** | 1 Elite especial + 3 Mestres — **ou** Chefe + Guerreiro, **só do rank 2 em diante** | 44–90% |
+| **Padrão** | 2 Mestres de Gu + 1 Guerreiro | 98% |
+| **Padrão pesado** | 2 Mestres + Horda de 8 | 83% |
+| **Difícil** | 3 Mestres + 1 Guerreiro | 64% |
+| **Clímax** | **Chefe + Guerreiro** | 69% |
 
-> [!danger] Chefe contra grupo de rank 1: não faça
-> Medido: **3% de vitória** — não é clímax, é execução. No rank 1, o Clímax é o Elite especial + 3 Mestres (68%). O Chefe entra na mesa a partir do rank 2.
+> [!tip] Sim, Chefe no rank 1 — e este guia já disse o contrário
+> A versão anterior desta seção trazia um aviso em vermelho mandando **não** usar Chefe contra um grupo de rank 1, alegando 3% de vitória. **Aquilo foi corrigido:** o molde do Chefe de rank 1 foi recalibrado (ele age **duas** vezes por rodada, não quatro) e a cena mede **69%**. O Chefe é o Clímax do rank 1 e pode ser usado na primeira sessão.
 
 Com 3 jogadores, tire uma unidade de cada linha. **Inimigo com poder de Alma é exceção, não padrão**: ao montar Mestres de Gu, role 1d6 por cabeça — só em **6** ele é um cultivador de Alma de verdade (a especial dele ignora RD e mira a barra de Alma; regra no molde de [[⚔️ Ameaças Genéricas por Rank]]). Empilhar vários de Alma **de propósito** é ferramenta de Clímax, e só de Clímax: as especiais somadas nas quatro barras de Alma derrubam a vitória do grupo em dezenas de pontos. Fichas completas e a tabela por rank em [[⚔️ Ameaças Genéricas por Rank]].
 
