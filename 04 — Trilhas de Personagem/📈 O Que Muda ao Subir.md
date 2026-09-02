@@ -71,7 +71,7 @@ A Ascensão não é "mais um rank". Metade da ficha passa a funcionar por outras
 | ☐ | Some da ficha |
 |---|---|
 | ☐ **Estágios** | Não existem mais. Nada de Inicial/Médio/Alto/Pico daqui pra cima |
-| ☐ **Grau de Densidade (B)** | **O nível de domínio nas Marcas de Dao ocupa o lugar dele** na mesma fórmula |
+| ☐ **Grau de Densidade (B)** | **O nível de domínio ocupa o lugar dele só no DANO.** Na Vitalidade e na Alma quem entra é a **Densidade Imortal** (Marcas totais, não do Caminho) — ver [[⚔️ Combate]] |
 | ☐ **Essência mortal como tanque** | O tanque passa a ser **da sua Terra Abençoada**, não da sua ficha |
 
 ### O que nasce

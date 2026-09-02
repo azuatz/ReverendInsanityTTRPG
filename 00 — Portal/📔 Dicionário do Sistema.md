@@ -23,7 +23,7 @@ escopo: sistema
 | **Abertura** | O espaço interno (na barriga) que guarda essência e abriga os Gu do personagem | [[🌟 Aptidão e Abertura]] |
 | **Verdadeira Essência** | O combustível: ativar um Gu gasta essência. Regenera devagar; acabou, acabou a mágica. *(No romance chama-se "Essência Primeva")* | [[🪜 Ranks e Estágios]] |
 | **Aptidão** | Talento nato, 21%–100% (`1d80+20`), sorteado na criação. Define o tamanho da Abertura e o **teto natural** — até onde dá pra chegar na vida. Pública e injusta de propósito | [[🌟 Aptidão e Abertura]] |
-| **Grau (A/B/C/D)** | A faixa de Aptidão em letra, não outra escala: **D** 21–39% (teto rank 1) · **C** 40–59% (rank 2) · **B** 60–79% (rank 3–4) · **A** 80–99% (rank 5) | [[🌟 Aptidão e Abertura]] |
+| **Grau (A/B/C/D)** | A faixa de Aptidão em letra, não outra escala: **D** 20–39% (teto natural rank 1–2) · **C** 40–59% (rank 2) · **B** 60–79% (rank 3–4) · **A** 80–99% (rank 5) | [[🌟 Aptidão e Abertura]] |
 | **Despertar (Cerimônia do)** | O rito da adolescência em que a Abertura se abre e a Aptidão é medida **em público**, diante da comunidade inteira. É onde a vida de todo cultivador começa — e a injustiça visível dela é o gerador de conflito nº 1 do cenário | [[🌟 Aptidão e Abertura]] |
 | **Atributos** | Os seis: **FOR** (melee), **CON** (vida), **DES** (Defesa), **AST** (ler o mundo), **VON** (ativar Gu), **CAR** (ler pessoas). 12 pontos de compra | [[💪 Atributos]] |
 | **Perícia** | O que se sabe fazer sem Gu — lista fechada de 17, três treinadas na criação. O bônus de treino cresce com o rank (+2 → +6) | [[🎯 Perícias]] |

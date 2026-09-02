@@ -189,7 +189,7 @@ Chegar ao rank 5 Pico **não** dá direito de tentar. É preciso passar por um d
 
 Não é automático, não é ritual comprado e não exige Gu específico. O salto tem **três condições e um evento**, nesta ordem:
 
-1. **Saturar o teto de Marcas do rank atual** — a Abertura "cheia" (9.999 no rank 6; 99.999 no rank 7). No teto, Marcas novas simplesmente não grudam mais: o cofre não fecha mais nada até ser trocado por um maior.
+1. **Saturar o teto de Marcas do rank atual** — a Abertura "cheia" (9.999 no rank 6; 99.999 no rank 7). No teto, as faixas acima são **descritivas, não teto** — Marcas continuam grudando acima do topo da faixa *(decisão 218: é isto que cria o "Imortal denso")*: o cofre não fecha mais nada até ser trocado por um maior.
 2. **Ter sobrevivido às provações do patamar:** **3 Provações Celestiais** para 6→7 · **3 Grandes Calamidades** para 7→8 · as **quatro condições de Venerável** para 8→9 (ver abaixo). É a régua canônica: dentro de um rank, o que mede um Imortal é quantas provações ele já atravessou — dá tipicamente ~300 anos de tempo interno por salto, menos pra quem acelera o fluxo da própria terra.
 3. **Declarar a tentativa.** O céu responde na hora com a **Provação de Avanço**: uma Calamidade sob medida, nas 5 etapas completas de [[🌩️ Calamidades e Provações]], com a **CD do rank seguinte +2**. Preparação vale como sempre (presságios, terra Inabalável, Gu de Estabilização).
 

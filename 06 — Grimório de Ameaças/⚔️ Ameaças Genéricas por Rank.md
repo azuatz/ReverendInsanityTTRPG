@@ -324,9 +324,9 @@ Um Imortal não se descreve só pelo rank. Declare **rank + nível de domínio n
 > tabela de composição volta a ter gradação: Fácil 100% · Padrão 96-99% ·
 > Padrão pesado 53-77% · Difícil 23-36% · Clímax 55-94%.)*
 
-**Imortal Recém-Ascendido (Elite, rank 6, Vislumbre)** — VIT `21 × 32` = 672, Defesa 20, RD 64, Gu Imortal de ataque `32d8` no passo padrão. Perigoso, mas ainda "novo".
+**Imortal Recém-Ascendido (Elite, rank 6, Vislumbre)** — VIT `21 × 32` = 672, Defesa 20, RD 64, Gu Imortal de ataque `16d8 + 104` *(teto de 16 dados, decisão 225)* no passo padrão. Perigoso, mas ainda "novo".
 
-**Imortal Denso (Chefe, rank 6, real Pequeno Feito · ~9.000 Marcas · dois feitos de gênio pobre empilhados = opera como Grão-Mestre, decisão 133)** — VIT `63 × 32` = 2.016, Defesa 22, RD 64, mesmo Gu Imortal mas **+3 Níveis** pela densidade emprestada: passo padrão d8 sobe três degraus até `d12 + 1/dado` = **`32d12 + 32`**. É o exemplo de por que a contagem de Marca importa mais que o número do rank — e por que, no romance, é o mesmo Fang Yuan de rank 6 que bate como Grão-Mestre.
+**Imortal Denso (Chefe, rank 6, real Pequeno Feito · ~9.000 Marcas · dois feitos de gênio pobre empilhados = opera como Grão-Mestre, decisão 133)** — VIT `63 × 32` = 2.016, Defesa 22, RD 64, mesmo Gu Imortal mas **+3 Níveis** pela densidade emprestada: passo padrão d8 sobe três degraus até `d12 + 1/dado` = **`16d12 + 136` *(teto de 16 dados, decisão 225)***. É o exemplo de por que a contagem de Marca importa mais que o número do rank — e por que, no romance, é o mesmo Fang Yuan de rank 6 que bate como Grão-Mestre.
 
 > [!danger] Medido — este perfil é sentença, não encontro
 > A quinta rodada de simulação testou este exato NPC como Chefe de Clímax

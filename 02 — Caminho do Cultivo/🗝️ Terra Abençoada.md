@@ -187,7 +187,7 @@ O fluxo de tempo pode ser regulado, dentro de limites, por técnicas do Caminho 
 
 ## Anexação de Aberturas
 
-Duas Aberturas Imortais podem se fundir — um Imortal "engole" a Terra Abençoada de outro. O domínio exigido no próprio Caminho **escala com o rank da terra-alvo** (ver [[🧿 Espíritos da Terra]] e [[☯️ Marcas de Dao|Marcas de Dao]]): nível **Mestre** já basta contra uma terra de rank 6, **Grão-Mestre** só é exigido a partir de rank 7. Quem anexa ganha o tamanho e os recursos do outro, metade das Marcas dele **naquele Caminho**, e pode até pular Calamidades adiantadas. O Espírito da Terra anexado, se houver, chega **Guardião** e ressentido — nunca Aliado.
+Duas Aberturas Imortais podem se fundir — um Imortal "engole" a Terra Abençoada de outro. O domínio exigido no próprio Caminho **escala com o rank da terra-alvo** (ver [[🧿 Espíritos da Terra]] e [[☯️ Marcas de Dao|Marcas de Dao]]): nível **Mestre** já basta contra uma terra de rank 6, **Grão-Mestre** só é exigido a partir de rank 7. Quem anexa ganha o tamanho e os recursos do outro, **~30% das Marcas** *(decisão 152 — não é metade)* dele **naquele Caminho**, e pode até pular Calamidades adiantadas. O Espírito da Terra anexado, se houver, chega **Guardião** e ressentido — nunca Aliado.
 
 É um dos motivos pelos quais dois Imortais fortes raramente confiam um no outro por completo.
 
