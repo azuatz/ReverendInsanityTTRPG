@@ -139,7 +139,7 @@ Cinco atritos reais. Cada um tem uma resposta de uma linha.
 
 **O atrito:** em D&D, um grupo de estranhos se junta na taverna e trabalha por ouro. Aqui, ninguém tem poder que não tenha sido emprestado por alguém, e esse alguém cobra.
 
-**A resposta:** os PJs não são autônomos — são **a geração jovem de uma organização**. Uma companhia franca, uma ordem menor, os escudeiros de um castelo de fronteira, os órfãos que a abadia criou. Eles recebem um pagamento pequeno (**10 pedras por semana**, e a organização alimenta o Gu principal de cada um), e cada Gu extra come 20 por mês. **Dois Gu extras já consomem tudo que eles recebem.** É o primeiro aperto econômico da campanha, e ele chega sozinho na terceira sessão.
+**A resposta:** os PJs não são autônomos — são **a geração jovem de uma organização**. Uma companhia franca, uma ordem menor, os escudeiros de um castelo de fronteira, os órfãos que a abadia criou. Eles recebem um pagamento pequeno (**40 Pedras por mês no rank 1**, subindo para 120 no rank 2 e 400 no rank 3 — a mesada harmonizada de [[💠 Economia das Pedras Primordiais]], e a organização alimenta o Gu principal de cada um), e cada Gu extra come 20 por mês. **Dois Gu extras já consomem tudo que eles recebem.** É o primeiro aperto econômico da campanha, e ele chega sozinho na terceira sessão.
 
 Errantes de verdade não recebem nada — e é por isso que roubam.
 
