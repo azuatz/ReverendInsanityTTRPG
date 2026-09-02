@@ -112,10 +112,42 @@ As seis acima dizem **como auditar**. Esta diz **como escrever para não gerar a
 
 ---
 
-## 5. O que ainda não foi testado
+## 5. O teste que faltava — e o resultado
 
-**A revisão mediu coerência interna. Ela não mediu o objetivo real.**
+**A revisão mediu coerência interna. O playtest de leitura mediu o objetivo real:** se um mestre que **nunca leu o romance e nunca rodou este sistema** consegue pegar o vault e rodar. Três passadas, cada uma com um agente lendo do zero, **executando em vez de avaliar** — montando ficha, rolando iniciativa, resolvendo dano, gastando essência.
 
-O leitor final é um mestre que **nunca leu o romance e nunca rodou este sistema**. Nada até aqui verificou se ele consegue pegar o vault, montar uma ficha e rodar um combate sem travar. O instrumento existe e já foi usado uma vez — [[🔍 Playtest de Leitura — Mestre Novo (2026-08-31)]] —, e na época achou coisas reais.
+**A regra de método que tornou o teste útil**, e ela veio da sessão de medição: *não julgue se o texto parece claro — faça as contas.* Todo defeito grave encontrado hoje **sobreviveu a leituras que pareciam claras**: a fórmula com o bônus a mais estava legível, a ficha de exemplo estava bem escrita, os pools inflados estavam bonitos na tabela.
 
-**Rodá-lo de novo agora mede a coisa certa**, porque os 58 achados que ele reencontraria já foram corrigidos. É a validação natural desta revisão, e é a única que responde a pergunta que o vault inteiro existe para responder.
+| Passada | Veredito | O que travou |
+|---|---|---|
+| **1ª** | *"Sim para a sessão zero; a primeira com combate, não sem improvisar"* | Nenhum molde de inimigo tinha **Destreza** (e iniciativa é `d20 + DES`) · nenhum tinha **Defesa contra Alma** · **não existia deslocamento base publicado**, o que tornava a condição *Lentidão* **inerte** — aplicada três vezes, não fez nada nenhuma |
+| **2ª** | *"Não, mas falta pouco"* | A `Lentidão` nova convivia com a revogada **na própria seção que leva o nome dela** · o molde de **Chefe** não publicava Defesa, Acerto, RD nem Dano · **cinco dos seis moldes não tinham barra de Alma** |
+| **3ª** | ✅ **SIM — dá para rodar a primeira sessão sem inventar regra** | **Zero invenções em cinco etapas.** Nenhuma busca honesta passou de 3 minutos |
+
+**A terceira passada foi cega de propósito** — o agente não sabia o que tinha sido corrigido, e a instrução central era **contar invenções**, não opinar. Ele criou uma personagem de **Grau D, o pior caso possível**, e conferiu 13 de 13 contas derivadas.
+
+> [!success] E a tabela de composição previu a mesa duas de duas
+> **Padrão** de rank 1: previsto 98% em 4,2–5,1 rodadas — **rodou, vitória em 4 rodadas, grupo inteiro de pé.**
+> **Clímax** de rank 1: previsto 69% em 6,5 rodadas — **rodou, vitória em 6 rodadas, com um personagem a 24% da vida.**
+>
+> **É a primeira validação do dia vinda de uma mesa em vez de 3.000 iterações**, e ela confirma a calibragem do molde mais difícil do sistema.
+
+### O que sobrou, e nada disso bloqueia
+
+- 🟡 **O Caminho da Alma não é jogável no rank 1** — o primeiro Gu de ataque de Alma é rank 2. Contornável por Ativação Forçada, mas **ninguém avisa na sessão zero**.
+- 🟡 A régua de "ações ponderadas" do Guia classifica o Clímax de rank 1 como cena de trâmite; a nota explica por quê, mas **a régua não se protege**.
+- 🟡 Metade dos Gu de rank 1 nomeia a comida **sem cadência** ("cascalho", "folhas"). Só morde se o mestre cobrar alimentação de um deles.
+- 🟢 **Grau D é meio personagem** — duas ativações por cena — e o vault não avisa.
+
+---
+
+## 6. O estado, numa frase
+
+> [!success] O sistema está pronto para jogar.
+> **Não há pendência de balanceamento**, a escada de dificuldade fecha **25 de 25 células**, a ordem de poder da mesa cumpre o critério do autor, e um mestre que nunca leu o romance montou uma ficha e rodou dois combates **sem inventar uma única regra**.
+
+**O que este dia realmente descobriu não foi um defeito de desenho — foi que o desenho estava certo e a documentação dele não.** Vinte e seis rodadas de simulação, e os dois achados que fecharam a ordem de poder da mesa vieram de **uma varredura de prosa** e de **alguém tentando jogar**.
+
+**O que resta é pequeno e está listado acima**: quatro incômodos amarelos e verdes, nenhum bloqueante, e quatro refinamentos de motor no [[🧭 Log de Decisões]] que ninguém sente na mesa.
+
+**E se esta nota tiver de deixar uma coisa só para quem vier depois, é a sétima lição** — a única que previne em vez de detectar: *um vazio deliberado precisa estar escrito como deliberado, sempre que o padrão à volta fizer o buraco parecer erro.* Metade do que esta revisão corrigiu era silêncio que um leitor posterior preencheu do jeito errado, de boa-fé.
