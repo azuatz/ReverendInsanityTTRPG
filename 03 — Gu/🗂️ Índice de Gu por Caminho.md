@@ -56,6 +56,7 @@ Todo o [[📖 Catálogo de Gu]] reorganizado por **Caminho** e ordenado por rank
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
+| 1 | **Gu do Nó no Osso** ✱ | 🦴 Corpo, permanente | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Catálogo]] |
 | 1 | **Gu Casaco da Alma Oculta** | Furtividade | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
 | 1 | **Gu da Agulha de Sussurro** ✱ | Ataque, à distância | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
 | 2 | **Gu Casaco da Alma Oculta** | Furtividade | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
@@ -250,6 +251,7 @@ Todo o [[📖 Catálogo de Gu]] reorganizado por **Caminho** e ordenado por rank
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
+| 1 | **Gu da Palma de Cinco Cores** ✱ | 🦴 Corpo, permanente *(serve aos cinco)* | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Catálogo]] |
 | 1 | **Gu Autoexplosivo** | Ataque, autodestrutivo | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
 | 1 | **Gu da Brasa no Punho** ✱ | 🔨 Ataque melee — **amplifica** | [[📖 Catálogo de Gu#🔥 Ataque Corpo a Corpo dos Cinco Elementos (Wu Xing)\|Wu Xing]] |
 | 2 | **Gu de Fogo Fantasma** — *Fogo/Alma* | Ataque | [[📖 Catálogo de Gu#Rank 2 — M = 2\|Rank 2]] |
@@ -424,6 +426,7 @@ Todo o [[📖 Catálogo de Gu]] reorganizado por **Caminho** e ordenado por rank
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
+| 1 | **Gu da Pálpebra de Prata** ✱ | 🦴 Corpo, permanente | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Catálogo]] |
 | 1 | **Gu do Luar** | Ataque, à distância | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
 | 2 | **Gu da Foice Crescente** ✱ | Ataque, à distância | [[🌙 Caminho da Lua\|Caminho da Lua]] |
 | 2 | **Gu da Pele de Luar** ✱ | Corpo, defensivo | [[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)\|Corpo Elementais]] |
@@ -469,6 +472,7 @@ Todo o [[📖 Catálogo de Gu]] reorganizado por **Caminho** e ordenado por rank
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
+| 1 | **Gu da Palma de Cinco Cores** ✱ | 🦴 Corpo, permanente *(serve aos cinco)* | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Catálogo]] |
 | 1 | **Cogumelo Inocente** | Utilidade | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
 | 1 | **Gu Espantalho** | Utilidade/Treino | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
 | 1 | **Gu da Agulha de Alfinete** | Ataque, à distância | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
@@ -509,6 +513,7 @@ Todo o [[📖 Catálogo de Gu]] reorganizado por **Caminho** e ordenado por rank
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
+| 1 | **Gu da Palma de Cinco Cores** ✱ | 🦴 Corpo, permanente *(serve aos cinco)* | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Catálogo]] |
 | 1 | **Gu da Faísca da Espada** ✱ — *Espada/Metal* | Ataque, à distância | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
 | 1 | **Gu da Unha de Bronze** ✱ | 🗡️ Ataque melee — **entrega** | [[📖 Catálogo de Gu#🔥 Ataque Corpo a Corpo dos Cinco Elementos (Wu Xing)\|Wu Xing]] |
 | 1 | **Gu de Pele de Bronze** — *Terra/Metal* | Defesa | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
@@ -812,6 +817,7 @@ Todo o [[📖 Catálogo de Gu]] reorganizado por **Caminho** e ordenado por rank
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
+| 1 | **Gu da Palma de Cinco Cores** ✱ | 🦴 Corpo, permanente *(serve aos cinco)* | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Catálogo]] |
 | 1 | **Gu Lama de Papa** | Utilidade | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
 | 1 | **Gu da Carapaça Rachada** ✱ — *Terra/Transformação* | Defesa | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
 | 1 | **Gu da Pegada** — *Terra/Sabedoria* | Reconhecimento | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
@@ -928,6 +934,7 @@ Todo o [[📖 Catálogo de Gu]] reorganizado por **Caminho** e ordenado por rank
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
+| 1 | **Gu do Pulmão Fino** ✱ | 🦴 Corpo, permanente | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Catálogo]] |
 | 1 | **Gu da Aragem Cortante** ✱ | Ataque, à distância | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
 | 2 | **Gu do Passo de Pluma** ✱ | Corpo, perícia | [[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)\|Corpo Elementais]] |
 | 2 | **Gu do Peito de Fole** ✱ — *Vento/Osso* | Corpo, reforço estrutural | [[📖 Catálogo de Gu#🦴 Gu de Corpo Elementais (ranks 2 a 4)\|Corpo Elementais]] |
@@ -975,6 +982,7 @@ Todo o [[📖 Catálogo de Gu]] reorganizado por **Caminho** e ordenado por rank
 
 | R | Gu | Tipo | Onde |
 |---|---|---|---|
+| 1 | **Gu da Palma de Cinco Cores** ✱ | 🦴 Corpo, permanente *(serve aos cinco)* | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Catálogo]] |
 | 1 | **Gu da Palma d'Água** ✱ | 🔨 Ataque melee — **amplifica** | [[📖 Catálogo de Gu#🔥 Ataque Corpo a Corpo dos Cinco Elementos (Wu Xing)\|Wu Xing]] |
 | 1 | **Gu de Luz Aquática** — *Água/Luz* | Auxiliar de refino | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
 | 1 | **Gu do Calor Brando** ✱ — *Água/Cura* | Cura de condição | [[📖 Catálogo de Gu#Rank 1 — M = 1\|Rank 1]] |
