@@ -22,7 +22,7 @@ Cada um está listado com a tendência de Caminho que vai se firmar quando (e se
 
 Filho de um ramo secundário do clã, sempre um passo atrás da linhagem principal na hierarquia formal e um passo à frente dela em cálculo. Não é o mais talentoso da geração, mas é o que melhor lê pessoas: sabe exatamente quanto cada aliança vale e quando ela deixa de valer.
 
-- **Tendência de Caminho:** Contrato — cada favor que ele faz é lembrado, cada favor que ele recebe também.
+- **Tendência de Caminho:** Contrato *(sabor — na mesa roda como **Informação**, `d6`)* — cada favor que ele faz é lembrado, cada favor que ele recebe também.
 - **Gu característico:** um par de Gu de memória perfeita, que gravam palavra por palavra qualquer acordo fechado na presença dele — sua principal arma fora de combate.
 - **Golpe Matador — "Palavra Empenhada":** núcleo é um Gu que força o alvo a hesitar meio segundo diante de uma promessa não cumprida (mesmo que o alvo não saiba que fez uma); apoio são dois Gu de percepção que garantem que Chao já sabia exatamente qual promessa usar. Contragolpe: o próprio Chao fica exposto a esse mesmo Gu por um tempo — ele também tem que honrar o que promete.
 - **Gancho de mesa:** o tipo de rival que nunca ataca de frente — ele já negociou sua vantagem antes da cena começar.
@@ -31,7 +31,7 @@ Filho de um ramo secundário do clã, sempre um passo atrás da linhagem princip
 
 Prodígio reconhecido, e sabe disso. Abriu a Abertura mais rápido que qualquer um da geração e não perde a chance de lembrar os outros. Não é cruel por prazer — é cruel porque nunca teve que aprender o contrário.
 
-- **Tendência de Caminho:** Massacre — cada duelo é uma prova, e uma prova só termina quando um lado não consegue continuar.
+- **Tendência de Caminho:** Massacre *(sabor — na mesa roda como **Espada**, `d12`)* — cada duelo é uma prova, e uma prova só termina quando um lado não consegue continuar.
 - **Gu característico:** uma lâmina refinada a partir de um Gu de fio que corta mais fundo quanto mais o alvo já estiver ferido.
 - **Golpe Matador — "Ferida que Fala":** núcleo é a lâmina; apoio é um Gu que amplifica dor recente do alvo, tornando o corte seguinte proporcionalmente pior. Contragolpe: Xin Yan sente uma fração do dano que causa — ele aprendeu a gostar disso, o que preocupa os anciões mais que qualquer derrota dele.
 - **Gancho de mesa:** pode virar aliado leal se for respeitado num combate justo, ou inimigo perigoso se for humilhado publicamente.
@@ -49,7 +49,7 @@ Não nasceu no clã — foi trazida ainda criança como serva de um ramo empobre
 
 Filha de um ramo do clã dedicado a hospedar visitantes e negociar com caravanas — cresceu ouvindo gente de fora falar livre demais, achando que uma garota do clã não prestava atenção. Charmosa, observadora, sempre no lugar certo pra ouvir o que não devia. Ninguém tem certeza de que lado ela está, inclusive porque ela muda de ideia conforme o vento — ou finge mudar.
 
-- **Tendência de Caminho:** Ilusão — a melhor defesa dela é garantir que ninguém saiba qual versão de Gu Yue Rou está na sala.
+- **Tendência de Caminho:** Ilusão *(sabor — na mesa roda como **Sombras**, `d8`, e `d12` contra quem não sabe onde ela está)* — a melhor defesa dela é garantir que ninguém saiba qual versão de Gu Yue Rou está na sala.
 - **Gu característico:** um Gu de eco que projeta a própria voz de outro lugar, útil pra confundir emboscadas e pra fofoca estratégica.
 - **Golpe Matador — "Duas Sombras":** núcleo é um Gu que projeta uma imagem dela mesma reagindo de forma oposta à real; apoio é o Gu de eco, sincronizando som com a imagem falsa. Contragolpe: manter as duas versões coerentes exige concentração total — um golpe físico bem colocado durante o combo a derruba de vez.
 - **Gancho de mesa:** informante em potencial pros jogadores, se souberem o que oferecer em troca.

@@ -24,7 +24,7 @@ Setenta e um anos depois da queda, o trabalho de [[Lore — O Ditador|Corvan Tha
 | **Os seis volumes de *Fisiologia da Abertura*** | Currículo do 1º ano de [[Lore — As Cinco Grandes Escolas\|Cinzavala]] | Um clássico anônimo da medicina |
 | **A tabela de compatibilidade de Caminhos** | Toda escola de cura de Vespéria | Sabedoria tradicional |
 | **~40 receitas de combo-refino** | Pavilhão Comum da Bigorna | Receitas dos Nove Solares recuperadas |
-| **Agronomia de nascente** *(mover a aferição em até 4 pontos por ambiente)* | Todo clã grande das Cem Colinas | "Criar os meninos perto da fonte faz bem" |
+| **Agronomia de nascente** ⚠️ *variante desta campanha* *(mover a aferição em até 4 pontos por ambiente)* | Todo clã grande das Cem Colinas | "Criar os meninos perto da fonte faz bem" |
 | **O mapa de escala de Calamidade** | Terceira Escada da Cúria | Nada. Cinco pessoas sabem que existe |
 
 **O gancho central de campanha não é destruir isso.** É o grupo descobrir que a coisa boa que os salvou tem essa origem, e decidir o que fazer com essa informação.
@@ -40,7 +40,7 @@ Todos do Caminho da **Transformação**, todos com a mesma assinatura: funcionam
 | **A Contadora** | 2 | Diz o Grau aferido de quem você tocar, sem teste | O alvo sabe que foi lido. Sempre |
 | **Enxerto de Vontade** | 4 | Transfere **1 ponto de VON** de um voluntário para outro, por 30 dias | Os dois sonham um com o outro pelo resto da vida |
 | **Boca de Fossa** | 4 | Induz uma Calamidade Terrestre **reduzida** num alvo mortal | É crime capital pela Concórdia, cláusula 3. Possuir um é pena de morte em quatro reinos |
-| **Grão Paciente** | 1 | Plantado numa criança, **+2 na aferição** aos quinze | Precisa ser plantado antes dos três anos, e a criança não consente |
+| **Grão Paciente** ⚠️ *variante* | 1 | Plantado numa criança, **+2 na aferição** aos quinze | Precisa ser plantado antes dos três anos, e a criança não consente |
 | **O Sétimo Fio** | ? | Desconhecido. Sabe-se que existe pelo inventário | — |
 
 **Os cinco desaparecidos** são a lista de compras de qualquer colecionador sombrio de Vespéria, e um deles está em [[Lore — Segredos do Mundo]].

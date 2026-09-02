@@ -12,6 +12,17 @@ escopo: campanha
 
 Nota-mãe do cenário. **Um mundo medieval por fora; por dentro, tudo moldado por Gu, Caminhos e Marcas de Dao.**
 
+> [!warning] As peças desta pasta que **não** são regra do sistema — a lista fechada
+> Vespéria inventa algumas coisas que as pastas `01`–`06` não têm. **O autor decidiu mantê-las como variantes desta campanha** em vez de alinhá-las ao sistema (2026-09-01). Elas ficam, e ficam **nomeadas aqui** para o mestre não precisar adivinhar qual metade vale:
+>
+> | Peça | Onde | O que o sistema diz |
+> |---|---|---|
+> | **Caminhos de Contrato, Massacre e Ilusão** | [[🎭 Elenco — Geração da Caverna]] | Não estão entre os 23 jogáveis. **São sabor de NPC**, com âncora mecânica declarada na própria nota |
+> | **Quatro alavancas de Aptidão** *(Agronomia de nascente, Grão Paciente e afins)* | [[Lore — Legado do Ditador]] | O sistema tem **uma**: o Gu da Reforma (rank 5). A Aptidão rolada é definitiva (decisão 111) |
+> | **Valor de Sussurro** | [[🎲 Atividades Adicionais]] | Informação como recurso já existe, em Pontos de Plano ([[🕵️ Preparação e Informação]]) |
+>
+> **A regra de uso é simples:** numa mesa que rode Vespéria, valem. Numa mesa que canibalize o cenário, **descarte estas primeiro** — o resto da pasta funciona sem elas.
+
 > ⚠️ **Escopo `campanha`.** Nada aqui é regra de sistema — é um mundo construído sobre as pastas 01–06. Canibalize ou descarte. A pasta `07 — Terras e Facções` continua sendo o cenário-exemplo curto; **esta pasta é o mundo completo**.
 
 > [!danger] 🔒 = só o mestre lê
