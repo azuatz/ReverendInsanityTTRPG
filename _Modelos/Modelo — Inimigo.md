@@ -28,7 +28,7 @@ escopo: sistema
 |---|---|---|---|---|---|
 | | | | | | |
 
-*Ordem de turno é por **Destreza**, sem rolagem — ver [[⚔️ Combate|Combate]].*
+*Iniciativa é **rolada**: `d20 + DES`, uma vez no início do combate, e a ordem vale a cena inteira. A DES de cada molde está na escada de [[⚔️ Ameaças Genéricas por Rank|Ameaças Genéricas]] — ela serve à iniciativa, ao desempate de movimento e à Perseguição, e **não entra na Defesa**, que continua sendo o número publicado na ficha.*
 
 **Se for Imortal (rank 6+):** declare também o **nível de domínio** no Caminho principal, porque é ele que diz quantos Níveis de Dano somar. Ver [[☯️ Marcas de Dao|Marcas de Dao]].
 
@@ -37,10 +37,10 @@ escopo: sistema
 ## ⚔️ Ações
 
 - **Ataque principal:** *(bônus de acerto, e o dano no formato `M d(dado do Caminho) + (M × B)`)*
-- **Ação especial:** *(obrigatória em Guerreiro, Elite e Mestre de Gu — uma por cena: +2 Níveis de Dano e Lentidão 2, ou o equivalente do Caminho dele. Ver [[⚔️ Ameaças Genéricas por Rank|Ameaças]])*
+- **Ação especial:** *(obrigatória em Guerreiro, Elite e Mestre de Gu — uma por cena: **+4 no acerto** e **Lentidão 2**, ou o equivalente do Caminho dele. Ver [[⚔️ Ameaças Genéricas por Rank|Ameaças]])*
 - **Reação:** 
 
-**Se for Chefe:** o número de ações vem da tabela por rank em [[⚔️ Ameaças Genéricas por Rank]] (4 no rank 1 · 2 nos ranks 2–3 · 3 nos ranks 4–5) — **não é fixo**. Ignora a primeira Condição de controle da cena, e precisa de um Gu de defesa sustentado.
+**Se for Chefe:** o número de ações vem da tabela por rank em [[⚔️ Ameaças Genéricas por Rank]] (**2 nos ranks 1–3 · 3 nos ranks 4–5 · 4 no rank 6+**) — **não é fixo**. Ignora a primeira Condição de controle da cena, e precisa de um Gu de defesa sustentado.
 
 ## 🪱 Gu que ele carrega
 

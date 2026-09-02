@@ -44,7 +44,7 @@ escopo: sistema
 | **Caminho (Dao)** | A especialidade: Força, Lua, Sangue, Alma… 23 jogáveis. Decide o **dado de dano** dos seus Gu | [[🛤️ Os Caminhos]] |
 | **Pedra Primordial** | A moeda do mundo mortal. Também vira essência quando consumida (fora de combate) | [[💠 Economia das Pedras Primordiais]] |
 | **Gu Relíquia** | Consumível raríssimo que avança um **estágio** na hora (nunca rank). A linha tem cinco cores, uma por rank mortal — **Cobre Verde (r1) → Aço Vermelho → Prata Branca → Ouro Amarelo → Cristal Roxo (r5)**, as mesmas cores da essência de cada rank | [[🚀 Gu de Avanço de Rank]] |
-| **Lentidão** | Condição de controle: `Lentidão N` corta o deslocamento do alvo pela metade por `N` rodadas (sem número, vale 1) | [[⚔️ Combate]] |
+| **Lentidão** | Condição de controle: `Lentidão N` tira **`N × 2` metros** do deslocamento do alvo por `N` rodadas — com `Lentidão 5` ele não sai do lugar (sem número, vale 1). *(Metros fixos, não metade: a versão antiga cortava metade de um deslocamento que o vault não publicava, e media zero.)* | [[⚔️ Combate]] |
 | **Longevidade** | Todo mundo nasce com ~100 anos e cultivar não devolve nenhum. O Gu de Longevidade estica — com desvios | [[⏳ Longevidade]] |
 | **Cultivo fechado** | Retiro longo só cultivando: mais rápido, zero renda, e a ração dos Gu estocada antes | [[🧘 Ritmo de Cultivo e Cultivo Fechado]] |
 | **Contribuição do Clã (CC)** | O trilho de mérito do clã: missões do Salão viram pontos, pontos viram acesso | [[🏛️ Clãs e Seitas]] |

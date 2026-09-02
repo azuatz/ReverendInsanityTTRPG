@@ -253,7 +253,8 @@ Empate: maior DES fica na frente; persistindo, quem embosca ou tem Gu de movimen
 `Lentidão N` aparece em Gu, Ações Especiais e efeitos de terreno por todo o vault. É sempre a mesma coisa:
 
 ```
-Lentidão N = metade do deslocamento do alvo por N rodadas
+Lentidão N = −N × 2 metros de deslocamento, por N rodadas
+             (com Lentidão 5 o alvo não sai do lugar)
 ```
 
 Sem número, "Lentidão" sozinha vale `N = 1`. Alguns efeitos somam `−2 DES` junto — a ficha do Gu diz quando.
