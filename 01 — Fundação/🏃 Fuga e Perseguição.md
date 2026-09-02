@@ -39,8 +39,14 @@ Quando um lado foge e o outro persegue, não role um teste só — isso decide c
 
 | Placar final | O que acontece |
 |---|---|
-| **+3** | **Escapou** |
-| **−3** | **Alcançado** — a luta recomeça em posição pior pra quem fugia |
+| **+3** | **Escapou limpo.** Nenhum rastro, nenhuma pista. O perseguidor perde o alvo de vez |
+| **+1 · +2** | **Escapou, com um fio solto.** Você saiu, mas o perseguidor **sabe a direção** — ele te acha de novo na cena seguinte, se quiser gastar o tempo |
+| **0** | **Impasse.** Os dois lados param, exaustos, e se veem. Ninguém alcança e ninguém escapa: a cena vira negociação, emboscada, ou uma segunda fuga com o placar zerado |
+| **−1 · −2** | **Alcançado, mas de pé.** A luta recomeça em condições normais — você chegou ao fim da corrida sem vantagem, e sem desvantagem |
+| **−3** | **Alcançado e encurralado.** A luta recomeça **em posição pior pra quem fugia** |
+
+> [!important] Os resultados do meio são os normais, não a exceção
+> São **três rodadas de ±1**, então o placar final é quase sempre **±1 ou ±2** — `+3` e `−3` exigem vencer ou perder as três seguidas. A tabela antiga só definia as duas pontas e **deixava cerca de três em cada quatro perseguições sem desfecho**, obrigando o mestre a improvisar no fim de uma cena inteira de rolagens. *(Achado num playtest de mesa: a perseguição rodada fechou em −1 e não havia regra.)*
 
 ### O que muda a perseguição
 

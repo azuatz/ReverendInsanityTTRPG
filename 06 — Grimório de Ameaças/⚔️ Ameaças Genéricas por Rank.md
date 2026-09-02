@@ -116,6 +116,27 @@ Receita: role 1d6 → em 5-6, ele sabe UMA receita de valor
 
 Escolha os Gu concretos no [[📖 Catálogo de Gu]] pelo Caminho que a especial dele já declarou — ou deixe genérico ("um Gu de fuga, dois de utilidade") até alguém perguntar. **A receita não está escrita num papel no bolso**: está na cabeça dele, e é isso que faz um Mestre de Gu capturado valer uma cena de interrogatório ou barganha em vez de um saque.
 
+
+## 🎲 Os dois números que faltavam em toda ficha de inimigo
+
+Um playtest de mesa travou **no primeiro passo da primeira rodada** porque nenhum molde tinha Destreza, e travou de novo porque nenhum tinha Defesa contra Alma. **Estes são os dois, e valem para todos os moldes.**
+
+| Molde | **DES** | **Defesa contra Alma** |
+|---|---|---|
+| **Horda** | **0** — massa não esquiva | `13 + rank` |
+| **Guerreiro** | **+1** | `13 + rank` |
+| **Mestre de Gu** | **+1** — treinou a mente, não o corpo | `13 + rank` |
+| **Elite** | **+2** | `13 + rank` |
+| **Chefe** | **+3** | `13 + rank` |
+| **Imortal (6+)** | **+4** | `13 + rank` |
+
+**A DES do molde serve para três coisas** e só para elas: **iniciativa** (`d20 + DES`), **desempate** em disputa de movimento, e a **Perseguição** ([[🏃 Fuga e Perseguição]]). Ela **não** entra na Defesa — a Defesa dos moldes é o número publicado na ficha de cada um, e não se deriva de DES.
+
+**A Defesa contra Alma é `13 + rank` para todo molde**, e o `13` não é arbitrário: é a fórmula do PJ (`10 + VON + rank`) com **VON +3**, a linha de base de atributo desta mesa, mais o degrau que a decisão 231 deu à defesa espiritual. É o número que as 26 rodadas de simulação já usavam — publicá-lo não muda nada, só para de esconder.
+
+> [!warning] Por que a Defesa contra Alma importa mais do que parece
+> Todo molde tem **barra de Alma** e, até agora, nenhum tinha com que defendê-la. Medido no playtest: **uma barra de Alma de 15 zera em 4 ativações, sem o atacante tocar na Vitalidade** — a Alma é a via de morte mais curta contra um inimigo, e o molde estava sem defesa exatamente contra ela.
+
 ## O Chefe — a regra especial pra combate solo
 
 Um único inimigo contra um grupo perde a ação por turno na maioria dos sistemas — 3 ou 4 personagens agem, ele age uma vez, e a luta acaba rápido demais pra ser memorável. Pra qualquer inimigo que a cena trata como **Chefe** (rival de arco, vilão de sessão):

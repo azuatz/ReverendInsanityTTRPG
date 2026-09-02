@@ -21,6 +21,23 @@ Resolução em d20 (ataque, defesa, testes). **Dano é um pool de dados acumulad
 
 ---
 
+
+## 🏃 Deslocamento
+
+**Todo personagem e todo inimigo move até 10 metros por turno**, além da ação. Correr de verdade — abrir mão da ação para só se deslocar — dobra para 20.
+
+| | |
+|---|---|
+| **Base** | **10 m** por turno |
+| **Correndo** *(abre mão da ação)* | 20 m |
+| **`Lentidão N`** | **−N × 2 m**, e com `Lentidão 5` você não sai do lugar |
+| Terreno difícil | metade |
+
+Os Gu que dão `+1 m` a `+6 m` somam sobre esses 10 — um `+4 m` é **40% a mais de alcance por turno**, que é o que faz um Gu de movimento valer uma vaga.
+
+> [!note] Por que este número não existia
+> A regra de `Lentidão` cortava *"metade do deslocamento"* e **quatro Gu davam ±metros, mas o vault nunca publicou de quanto era o deslocamento**. Medido num playtest de mesa: a Ação Especial dos inimigos aplicou `Lentidão 2` em três personagens e **não fez absolutamente nada, três vezes de três** — a nota justifica aquela ação dizendo que *"tirar a ação vale mais que tirar Vitalidade"*, e a regra que ela usava era inerte. **`Lentidão` passa a cortar metros fixos** em vez de uma fração, porque fração de um número que ninguém tinha era zero.
+
 ## 🎲 A fórmula única
 
 ```
