@@ -123,7 +123,7 @@ sustentação: cada Gu do próprio rank custa 40, e é essa conta que decide a c
 | 1 | **Gu da Pele de Aço\*** | 3 | Metal | 🦴 **Corpo** | +1 CON permanente · `RD 1 × M = 4` passiva | pago no rank 3 |
 | 2 | **Gu do Arco Reflexo\*** | 2 | Relâmpago | 🦴 **Corpo** | +1 DES permanente | pago no rank 3 |
 | 3 | **Gu do Coração de Ferro-Frio\*** | 4 | Gelo/Metal | 🦴 **Corpo** | **Grau Pesado — exige CON +3** (ele está em +4 com a Pele de Aço). **+1 VON permanente** — acerto e **CD de todos os Gu dele**, mais Alma máxima — e **imunidade automática a *Amedrontado*, pânico e todo efeito de medo de rank ≤ 4**. ⬇️ nenhum bônus de moral/inspiração de aliado pega nele; −2 em CAR "de calor"; **falhar o assentamento pode matar na hora** (`4d12` + Teste de Morte imediato) | **40 uma vez** · ⚡Único ⚡Dor ⚡Preso 🔨Local (geleira), Receita, Instável |
-| 4 | **Gu da Lua Afogada\*** | 5 | Lua | **Ataque principal** | `Ataque: 16d12 + 16` (passo +4, 1 Nível acima de d12) num alvo, alcance 40 m. Quem é atingido faz VON contra a CD dos seus Gu: falhando, tem a **regeneração de essência zerada e o deslocamento pela metade por 3 rodadas**. **Sob lua cheia aplica sem teste** | 40 · ⚡Condicional ⚡Ruidoso ⚡Recuo · 🍖 uma noite inteira de lua cheia por uso; **2 usos no mesmo ciclo lunar = 1 Ferimento** |
+| 4 | **Gu da Lua Afogada\*** | 5 | Lua | **Ataque principal** | `Ataque: 16d12 + 32` (passo +4 sobre a base d8, 2 Nível acima de d12) num alvo, alcance 40 m. Quem é atingido faz VON contra a CD dos seus Gu: falhando, tem a **regeneração de essência zerada e o deslocamento pela metade por 3 rodadas**. **Sob lua cheia aplica sem teste** | 40 · ⚡Condicional ⚡Ruidoso ⚡Recuo · 🍖 uma noite inteira de lua cheia por uso; **2 usos no mesmo ciclo lunar = 1 Ferimento** |
 | 5 | **Gu do Crescente Cortante\*** | 4 | Lua | Ataque de rodada | `Ataque: 8d12` (passo +2), alcance 35 m. **Ignora cobertura parcial e metade da RD do alvo.** No acerto, CON contra a CD dos seus Gu ou **−2 DES por 1 rodada**. ⬇️ **sob sol direto cai 2 Níveis e o custo sobe 50%** | **10** · ⚡Condicional 🍖Pontual |
 | 6 | **Gu do Grito Sem Boca\*** | 4 | Alma | Ataque de Alma (área) | `Ataque de Alma: 8d8` (passo +1) em **todos num cone de 12 m**, resolvido por VON contra a CD dos seus Gu — **sem teste de acerto**. Ignora RD, armadura e Defesa física. Quem falha fica *Amedrontado* 1 rodada. ⬇️ ⚡Cego: **pega aliados no cone**, e **+1 de Contaminação por uso** | **13** · ⚡Cego ⚡Ruidoso ⚡Recuo · 🍖 uma alma pequena por uso |
 | 7 | **Gu do Frio de Osso\*** | 3 | Lua/Gelo | Suporte central | (idem rank 3) aura 8 m, **−2 DES** e **+50% no custo de Gu** dos inimigos; abre a Alma deles | **4** · manutenção 4/rodada |
@@ -242,7 +242,7 @@ Contra 304 de QI ele aguenta 6 rodadas de essência — **mas o corpo dele acaba
 Vitalidade e Dívida, nunca essência.** É exatamente o que a nota do Caminho do Sangue promete.
 
 > ⚠️ **Ele continua sem ataque à distância no rank 5.** As duas opções existem e **não couberam nas
-> 10 vagas**: **Gu da Lâmina de Parentesco\*** (r5, Sangue, `16d12 + 32`, 30 m, ignora RD contra o alvo
+> 10 vagas**: **Gu da Lâmina de Parentesco\*** (r5, Sangue, `16d12 + 48`, 30 m, ignora RD contra o alvo
 > nomeado — mas **exige uma dose de sangue de um parente consanguíneo do alvo, colhida antes**, e cobra
 > **Sangria 80**) e **Gu do Qi de Força\*** (r5, `16d6` a 20 m). Isto **não é buraco de catálogo**: é a
 > fraqueza declarada da build Sangue + Força ("nenhum dos dois resolve distância"), e a simulação deve
@@ -483,7 +483,7 @@ removida pela decisão 266.)* As Asas sozinhas custam 15/rodada, e são o item q
 | R3 — Defesa | 19 | 15 (**13** com Aríete/Correntes) | 13 | **20** |
 | R3 — permanentes | +1 CON, +1 DES, RD 4 | +1 FOR, +1 Nível, **+2 Vit/turno**, imune *Sangramento* | +1 CON, +1 FOR, +8 Vit máx | +1 DES, sem pegada |
 | R3 — essência/rodada com tudo ligado | 8 / 344 → **cobre a cena** | **61 / 304 → 5,0 rd** | manutenção própria só → **cobre a cena** | 7 / 224 → **cobre a cena** |
-| **R5 — ataque principal** | `16d12 + 16` (Lua Afogada, 40 m) | `16d12 + 32 + FOR 5` melee | `16d12 + 48 + FOR 4` foice | `16d12` a 50 m **+ Posição** |
+| **R5 — ataque principal** | `16d12 + 32` (Lua Afogada, 40 m) | `16d12 + 32 + FOR 5` melee | `16d12 + 48 + FOR 4` foice | `16d12` a 50 m **+ Posição** |
 | R5 — 2º recurso | `8d12` (Crescente) · `8d8` Alma em cone | `16d12 + 16` ignora RD (1×/cena, 5 Ímpeto) | 2 × `8d8` c/ cura 8 · `8d12+8` meia RD | `8d10` em linha 40 m, **sem ar 2 rd** |
 | R5 — RD | **16** + RD de Alma 12 ⚠️ *(era publicado como 4 — a RD usa o `M` do PORTADOR, decisão 275, então um Gu de base 1 num rank 5 dá 16, não 4)* | 0 | **32** (Trono) | 16 (**0 no ar**) |
 | R5 — Defesa | 24 | 19 no ar / 15 no chão | **17** | **25** no ar |
