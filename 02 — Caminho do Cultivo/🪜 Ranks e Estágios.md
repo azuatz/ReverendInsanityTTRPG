@@ -88,7 +88,7 @@ O limite geral de Gu sustentados **não muda**: continua **3**, em qualquer rank
 Vagas de Suporte = Grau de Densidade    (0 · 1 · 2 · 3)
 ```
 
-**Só entram nelas Gu de suporte:** movimento, sentidos, informação, comunicação, furtividade, utilidade logística. **Nunca** defesa (RD), amplificação (Níveis de Dano), ataque ou controle — essas continuam disputando as vagas normais, e é o que impede alguém de ligar seis Gu de defesa e virar invulnerável.
+**Só entram nelas Gu de suporte:** movimento, sentidos, informação, comunicação, furtividade, utilidade logística. **Nunca** defesa (RD), amplificação (Níveis de Potência), ataque ou controle — essas continuam disputando as vagas normais, e é o que impede alguém de ligar seis Gu de defesa e virar invulnerável.
 
 **Gu numa Vaga de Suporte não ocupam nenhuma das 3 vagas normais** e pagam só o custo individual deles. É literalmente "sustentar mais sem penalidade mental": a essência densa segura os Gu passivos sozinha, e a atenção do cultivador fica livre para as três coisas que decidem a luta.
 
@@ -202,7 +202,7 @@ Não é automático, não é ritual comprado e não exige Gu específico. O salt
 
 **Falha:** sem avanço. 1 Ferimento, 1 Ferimento da Terra, e a próxima janela só abre depois de mais um ciclo de provação do patamar (~100 anos internos). Falhar duas Provações de Avanço seguidas marca o Imortal como **Estagnado** — o mundo inteiro passa a saber que ele bateu no teto.
 
-> **O caso que confunde à primeira leitura:** um rank 6 "denso", com 9.000+ Marcas num Caminho só, **despacha um rank 7 recém-convertido com poucas Marcas naquele Caminho** — os Níveis de Dano que a densidade dá superam a diferença de M. Não há contradição: o rank 7 novo tem ~10.000 Marcas *somadas*, mas se estão espalhadas (ou se o Caminho relevante não é o dele), a densidade *naquele* confronto é menor. Rank diz o que se ativa; densidade de Marca no Caminho certo diz o quanto dói.
+> **O caso que confunde à primeira leitura:** um rank 6 "denso", com 9.000+ Marcas num Caminho só, **despacha um rank 7 recém-convertido com poucas Marcas naquele Caminho** — os Níveis de Potência que a densidade dá superam a diferença de M. Não há contradição: o rank 7 novo tem ~10.000 Marcas *somadas*, mas se estão espalhadas (ou se o Caminho relevante não é o dele), a densidade *naquele* confronto é menor. Rank diz o que se ativa; densidade de Marca no Caminho certo diz o quanto dói.
 
 A mesa decide o ritmo real da campanha; os ~300 anos internos são o relógio do mundo, não obrigação de jogar 300 anos por sessão.
 
@@ -291,4 +291,4 @@ Na mesa isso vira uma pergunta prática, não uma etiqueta de alinhamento: **que
 
 ## Diferença de rank em combate
 
-1 ponto de Verdadeira Essência de um rank acima vale **10 pontos** de essência de um rank abaixo. Isso significa: rank contra rank adjacente já é brutalmente difícil de virar sem truque; nível mortal contra nível imortal é esmagamento total, sem exceção. Ver [[⚔️ Combate|Combate]] pra como isso vira número de dano na mesa.
+1 ponto de Verdadeira Essência de um rank acima vale **100 pontos** de essência de um rank abaixo — a mesma escala ×100 por rank que a tabela de essência imortal usa (100 Uvas Verdes = 1 Jujuba, 100 Jujubas = 1 Lichia). Isso significa: rank contra rank adjacente já é brutalmente difícil de virar sem truque; nível mortal contra nível imortal é esmagamento total, sem exceção. Ver [[⚔️ Combate|Combate]] pra como isso vira número de dano na mesa.

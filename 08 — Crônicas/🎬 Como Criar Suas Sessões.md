@@ -43,10 +43,10 @@ Não é fórmula, é ponto de partida. Sessão de ~4h:
 
 ## Como montar um combate que não é frustrante
 
-- **Consulte [[⚔️ Ameaças Genéricas por Rank|Ameaças Genéricas por Rank]]** — tem moldes prontos (Recruta, Guerreiro, Elite, Chefe) e composição de cena pra 3 e pra 4 jogadores.
+- **Consulte [[⚔️ Ameaças Genéricas por Rank|Ameaças Genéricas por Rank]]** — tem os seis moldes prontos (Recruta, Guerreiro, Elite, Chefe, **Horda** e **Mestre de Gu**), a **Ação Especial** que todo Guerreiro e Elite carrega, e composição de cena pra 3 e pra 4 jogadores.
 - **Elite é peça de 1 a 2 por cena**, e dois do mesmo rank do grupo é cena de Clímax, não de rotina — monte pela tabela de composição de [[⚔️ Ameaças Genéricas por Rank]], que é medida.
 - **Recruta solto é decorativo**: um personagem do mesmo rank mata um por golpe, e seis soltos medem 100% de vitória do grupo. **Para sensação de cerco, use uma Horda** — os Recrutas viram uma barra só, com um ataque por personagem de pé.
-- **Todo chefe precisa de uma Brecha escrita** no Golpe Matador dele (ver [[⚡ Golpes Matadores|Golpes Matadores]]) e de uma forma de os jogadores descobrirem essa Brecha. Isso não é opcional: é o que transforma "chefe com muito HP" em "quebra-cabeça que morde".
+- **Todo chefe de rank 3 ou mais precisa de uma Brecha escrita** no Golpe Matador dele (ver [[⚡ Golpes Matadores|Golpes Matadores]]) e de uma forma de os jogadores descobrirem essa Brecha. *(Chefe de rank 1 ou 2 **não tem** Golpe Matador — ranks 1 e 2 não montam nenhum, decisão 243. Nesses ranks, a peça que faz o mesmo trabalho é a **Ação Especial**.)* Isso não é opcional: é o que transforma "chefe com muito HP" em "quebra-cabeça que morde".
 - **Deixe a fuga na mesa.** Sempre. Se o único desfecho possível é vencer ou morrer, você tirou metade das opções do gênero.
 
 ## Como calibrar dificuldade

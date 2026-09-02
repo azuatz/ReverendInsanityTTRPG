@@ -82,7 +82,7 @@ Só depois que o lugar pequeno estiver funcionando. Você precisa de: o nome da 
 
 **Cuidado com o vilão perfeito.** No tom desta obra, o antagonista mais eficaz não é um monstro — é alguém com uma razão compreensível e um método inaceitável.
 
-**Nomes:** use nomes de inspiração chinesa em duas ou três sílabas (sobrenome do clã + nome pessoal, tipo "Gu Yue Fang" — o clã vem primeiro). Se soar estranho na sua boca, troque. Não existe polícia de nome.
+**Nomes:** use nomes de inspiração chinesa em duas ou três sílabas (sobrenome do clã + nome pessoal, tipo "Bai Shan Ye" — o clã vem primeiro). Se soar estranho na sua boca, troque. Não existe polícia de nome.
 
 ---
 

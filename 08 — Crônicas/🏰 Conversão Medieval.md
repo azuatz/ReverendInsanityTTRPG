@@ -47,7 +47,7 @@ Nenhuma delas é uma classe aqui. Todas são **uma distribuição de atributos +
 
 | Quer jogar... | Atributos | Os primeiros Gu que você entrega | Vira, com o tempo |
 |---|---|---|---|
-| **Guerreiro / Cavaleiro** | FOR +4 · CON +3 · DES +2 | Gu do Javali Branco (+1 Nível de Dano), Gu de Pele de Bronze (RD 1, sem manutenção) | Caminho da **Força** — a cadeia de Gu de Corpo, que reconstrói o corpo dele em camadas permanentes |
+| **Guerreiro / Cavaleiro** | FOR +4 · CON +3 · DES +2 | Gu do Javali Branco (+1 Nível de Potência), Gu de Pele de Bronze (RD 1) | Caminho da **Força** — a cadeia de Gu de Corpo, que reconstrói o corpo dele em camadas permanentes |
 | **Bárbaro** | FOR +4 · CON +4 · DES +1 | Besouro-Chifre-Longo de Força Bruta (+2 Níveis por 3 rodadas, e cobra sangue depois) | **Força + Transformação** — o Ímpeto, e Gu que viram o corpo em arma |
 | **Ladino** | DES +4 · AST +3 | Gu da Lâmina de Sombra (passo +2 contra quem não sabe onde você está), Gu de Contenção da Respiração | Caminho das **Sombras** |
 | **Mago** | VON +4 · AST +3 | Gu da Fagulha Azul (Relâmpago, **d12**), Gu do Sopro Gelado (Gelo, d8), Gu do Bolso de Dobra | Um dos **elementais**. O "grimório" dele é a coleção de **receitas de refino** |

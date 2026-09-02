@@ -5,7 +5,7 @@ tags:
   - proposta
 aliases:
   - Arco da Campanha
-escopo: campanha
+escopo: sistema
 ---
 
 # 🗺️ Arco da Campanha
@@ -39,9 +39,11 @@ Formato de três atos, na mesma **forma** de Reverend Insanity — sobrevivênci
 
 **Marco de fechamento:** pelo menos um personagem ascende a Imortal (rank 6) e cristaliza o Caminho. Quem não ascendeu **não é personagem perdido** — vira o pilar mortal do grupo, e a Ascensão dele é o primeiro arco do Ato 3.
 
-## Ato 3 — "O Que Ninguém Sabia Que Existia" (rank 6–9)
+## Ato 3 — "O Que Ninguém Sabia Que Existia" (rank 6–8)
 
 **O que está em jogo:** o mundo fica maior — Terra Abençoada, Calamidades, política entre Imortais — e o Venerável Demônio secreto finalmente age às claras, tarde demais pra qualquer facção reagir a tempo sozinha.
+
+> **Sobre o teto do ato.** São ~20 sessões, e a régua do vault é **um rank a cada 8–12 sessões** ([[📓 Crônicas]]) — o que dá **dois saltos**, não três: o grupo entra Imortal de rank 6 e termina em rank 7 ou 8. **Rank 9 não é destino de campanha, é o patamar do vilão.** O grupo derruba um Venerável do jeito que a obra mostra — em número, com preparação e com aliados —, nunca igualando o rank dele. Se a sua mesa quiser mesmo jogar até Venerável, isso é um Ato 4, com mais 20 sessões pela frente.
 
 - Início: o grupo, agora Imortal, descobre a escala real da ameaça — e que ninguém mais no mundo sabe que ela existe.
 - Meio: reunir aliados suficientes (outros Imortais, facções, talvez até rivais do Ato 1 que sobreviveram) pra ter uma chance.

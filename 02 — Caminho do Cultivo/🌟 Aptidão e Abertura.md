@@ -19,7 +19,7 @@ A Aptidão decide o tamanho da Abertura de um personagem — a % usada na fórmu
 | **Grau D** | 20%–39% | Rank 1–2 | Base da família — a maioria da população cultivada |
 | **Grau C** | 40%–59% | Rank 2, raramente início do 3 | Pilar de uma família comum |
 | **Grau B** | 60%–79% | Rank 3–4 | Futuro ancião |
-| **Grau A** | 80%–99% | Rank 5, com chance real de Ascensão | "Sorte da família" — prioridade de recursos |
+| **Grau A** | 80%–100% | Rank 5, com chance real de Ascensão | "Sorte da família" — prioridade de recursos |
 | **Dez Físicos Extremos** *(só NPC)* | 100%, transbordando | Sem teto natural — mas a provação de Ascensão é ao menos 10× mais perigosa, e a maioria não sobrevive pra contar história | Lenda ou tragédia, quase nunca os dois |
 
 > **A última linha não é uma opção de ficha.** Os Dez Físicos Extremos são anomalia de mundo — rival, vilão ou gancho de sessão, nunca personagem jogador (decisão 217). Ela está na tabela porque o mestre precisa saber onde eles caem na régua.
@@ -55,7 +55,7 @@ Grau D: 2%/h  ·  Grau C: 4%/h  ·  Grau B: 6%/h  ·  Grau A: 8%/h
 | ~21% | **Grau D** (20–39%) — teto rank 1–2. A base de qualquer clã |
 | ~6% | **Grau C** (40–59%) — teto rank 2 |
 | ~2,5% | **Grau B** (60–79%) — teto rank 3–4. Um por geração numa vila grande |
-| **~0,5%** | **Grau A** (80–99%) — teto rank 5. **Um a cada sessenta que abrem**, ou um a cada duzentas pessoas |
+| **~0,5%** | **Grau A** (80–100%) — teto rank 5. **Um a cada sessenta que abrem**, ou um a cada duzentas pessoas |
 | **~1 em muitos milhões** | Um dos Dez Físicos Extremos. Uma vez por era, por região |
 
 **Como usar:** role `1d80+20` para PJs e para qualquer NPC que a história declare excepcional. Para preencher população, use a coluna da esquerda — a maioria absoluta de quem o grupo encontra **nunca abriu Abertura nenhuma**, e é exatamente isso que faz um Mestre de Gu de rank 1 ser uma autoridade numa aldeia.

@@ -5,7 +5,7 @@ tags:
   - proposta
 aliases:
   - Ritmo de Sessão
-escopo: campanha
+escopo: sistema
 ---
 
 # ⏱️ Ritmo de Sessão
@@ -24,7 +24,7 @@ Numa mesa lenta, uma sessão de 8h cobriria pouca coisa com muito detalhe. Aqui 
 |---|---|---|
 | Abertura | 10 min | Recapitulação de 1 parágrafo, agenda rápida do que a mesa quer resolver hoje |
 | Bloco 1 | ~2h | Uma cena de investigação/social/preparação + 1 combate curto ou médio |
-| Descanso curto do grupo | — | Ponto natural pra recuperar metade de Vitalidade/Essência, ver [[❤️ Recursos e Dano\|Recursos e Dano]] |
+| Descanso curto do grupo | — | Ponto natural pra recuperar **metade da Vitalidade** ([[❤️ Recursos e Dano\|Recursos e Dano]]). **Essência não:** ela volta **pelo relógio**, numa % do tanque por hora conforme o Grau de Aptidão (D 2%/h · C 4%/h · B 6%/h · A 8%/h — [[🏛️ Arquitetura do Sistema\|Arquitetura do Sistema]]), então uma pausa dentro do bloco devolve pouco |
 | Bloco 2 | ~2h30 | O conteúdo principal do dia — o gancho que a sessão prometeu |
 | Pausa da mesa (comida, descanso real) | 30–45 min | — |
 | Bloco 3 | ~2h | Consequência do Bloco 2 + gancho pra próxima sessão |
@@ -38,7 +38,9 @@ Isso dá pra cobrir, numa sessão só: 1–2 combates (ver [[⚔️ Ameaças Gen
 |---|---|---|
 | 1–8 | 1–2 | Ato 1 — A Geração da Caverna |
 | 9–30 | 3–5 | Ato 2 — O Preço da Ascensão (inclui a sessão da própria Ascensão) |
-| 31–50 | 6–9 | Ato 3 — O Que Ninguém Sabia Que Existia |
+| 31–50 | 6–8 | Ato 3 — O Que Ninguém Sabia Que Existia |
+
+**O Ato 3 fecha em rank 8, não em 9.** São ~20 sessões e a régua é **um rank a cada 8–12 sessões** ([[📓 Crônicas]]): dois saltos, não três. Rank 9 (Venerável) é o patamar do vilão, não a linha de chegada do grupo — quem quiser jogar até lá está planejando um quarto ato, com outras ~20 sessões.
 
 Isso é generoso de propósito — 2 sessões por semana dão folga pra sessões "menores" (só uma cena social, sem combate) sem atrasar o arco geral. Se o grupo andar mais rápido que a tabela, ótimo: comprima o Ato 3, não estique os dois primeiros artificialmente.
 

@@ -28,7 +28,7 @@ O mestre nomeia o terreno no começo da cena e responde **uma pergunta**: *este 
 
 | O terreno é... | Efeito em todo Gu daquele elemento |
 |---|---|
-| **do seu elemento** — forja para o Fogo, rio para a Água, mina para Terra e Metal, bosque para a Madeira | **+1 Nível de Dano** e custo **−25%** |
+| **do seu elemento** — forja para o Fogo, rio para a Água, mina para Terra e Metal, bosque para a Madeira | **+1 Nível de Potência** e custo **−25%** |
 | **do elemento que te vence** — rio para o Fogo, forja para o Metal, bosque para a Terra | custo **+50%** e **desvantagem no primeiro ataque da cena** |
 | **qualquer outra coisa** | nada |
 
@@ -52,7 +52,7 @@ Fogo derrete Metal   · Metal corta Madeira
 
 **Contra o elemento que você vence**, todo Gu seu daquele elemento ganha:
 
-1. **+1 Nível de Dano** (ou +1 na CD, se for Gu de controle).
+1. **+1 Nível de Potência** (ou +1 na CD, se for Gu de controle).
 2. **Ignora metade da RD** que venha do elemento vencido — Gu de defesa, armadura ou Gu de Corpo daquele elemento (arredonda pra baixo).
 3. **Desligamento:** ao acertar, uma vez por rodada, você desliga **um Gu sustentado do elemento vencido de rank igual ou inferior ao do seu Gu**. Sem teste. Religá-lo custa a ativação cheia de novo.
 
@@ -72,7 +72,7 @@ Fogo derrete Metal   · Metal corta Madeira
 Madeira → Fogo → Terra → Metal → Água → Madeira
 ```
 
-> **Encadeamento de Geração.** Ativar um Gu do elemento **gerado** na rodada imediatamente seguinte à ativação de um Gu do elemento **gerador** custa **metade da essência** (arredonda pra cima) e soma **+1 Nível de Dano** naquele Gu. Uma vez por rodada, no máximo.
+> **Encadeamento de Geração.** Ativar um Gu do elemento **gerado** na rodada imediatamente seguinte à ativação de um Gu do elemento **gerador** custa **metade da essência** (arredonda pra cima) e soma **+1 Nível de Potência** naquele Gu. Uma vez por rodada, no máximo.
 >
 > **Cadeia longa:** do **terceiro elo consecutivo em diante**, o bônus passa a **+2 Níveis**. O bônus de encadeamento **nunca passa de +2**, aconteça o que acontecer.
 >

@@ -43,16 +43,18 @@ O que importa não é o total de Marcas, e sim **quantas você tem no Caminho es
 | Nível de domínio | Marcas naquele Caminho | O que destrava |
 |---|---|---|
 | **Vislumbre** | 1 – 999 | Ativa Gu Imortais daquele Caminho sem penalidade |
-| **Pequeno Feito** | 1.000 – 9.999 | +1 Nível de Dano em Gu do Caminho; refina Gu Imortal rank 6 daquele Caminho |
-| **Mestre** | 10.000 – 49.999 | +2 Níveis; custo de ativação do Caminho cai pela metade; refina rank 7 |
-| **Grão-Mestre** | 50.000 – 149.999 | +3 Níveis; pode **anexar** Terra Abençoada alheia (ver [[🗝️ Terra Abençoada\|Terra Abençoada]]); refina rank 8 |
+| **Pequeno Feito** | 1.000 – 9.999 | +1 Nível de Potência em Gu do Caminho |
+| **Mestre** | 10.000 – 49.999 | +2 Níveis; custo de ativação do Caminho cai pela metade |
+| **Grão-Mestre** | 50.000 – 149.999 | +3 Níveis |
 | **Quase-Supremo** | 150.000 – 299.999 | +4 Níveis; Golpes Matadores do Caminho ganham vantagem no teste; ignora RD de fontes de rank inferior |
-| **Grande Mestre Supremo** | 300.000+ | +5 Níveis; **o patamar do Venerável** — e o pré-requisito dele: chegar aqui **no Caminho principal** é o que abre o salto pro rank 9 (ver [[🪜 Ranks e Estágios|Ranks e Estágios]]); dentro do próprio domínio, cada ação recebe amplificação do céu e da terra |
+| **Grande Mestre Supremo** | 300.000+ | +5 Níveis; **o patamar do Venerável** — e o pré-requisito dele: chegar aqui **no Caminho principal** é o que abre o salto pro rank 9 (ver [[🪜 Ranks e Estágios\|Ranks e Estágios]]); dentro do próprio domínio, cada ação recebe amplificação do céu e da terra |
 
 > [!info] 🔧 Adaptado — "Quase-Supremo" não é o nome canônico deste patamar
 > O romance chama esse degrau de **Grão-grão-mestre** / "Grande Grão-Mestre" (Cap. 1326, 1501–1502) — "quase-X" no cânone é sempre um sub-degrau abaixo de um patamar, não este. O vault mantém "Quase-Supremo" por já estar consolidado em mais de dez notas (inclusive resposta de enigma em [[📜 Catálogo de Heranças]]); renomear em cascata é pendência do autor. Citação completa e raciocínio: [[🧭 Log de Decisões]] (decisão 153).
 
-Os Níveis são os mesmos da [[⚔️ Combate|Escada de Dano]] — Marcas empurram os Gu do seu Caminho pra cima na escada.
+Os Níveis são os mesmos da [[⚔️ Combate|Escada de Potência]] — Marcas empurram os Gu do seu Caminho pra cima na escada.
+
+> **A tabela acima dá só Níveis, e é de propósito.** Refinar Gu Imortal e anexar Terra Abençoada alheia são **capacidades**, não estoque — quem as destrava é o **Domínio** (a tabela do eixo da compreensão, mais abaixo), nunca a contagem de Marcas (decisão 254). Um Imortal com 200.000 Marcas e Domínio de Vislumbre bate forte e não refina nada.
 
 ### Quanto isso vale, em porcentagem
 
@@ -101,10 +103,12 @@ Um Nível de Potência age na **face que o Gu tem**. Um Gu de ataque ganha dano;
 
 **Por que só estas.** Todas são números **estáticos**: anotam-se antes da luta e não entram na aritmética de nenhum ataque. Um Grão-Mestre do Caminho das Formações não fica com uma barreira mais grossa pra subtrair a cada golpe — fica com uma barreira que **dura mais, cobre mais gente e sobe mais vezes**. É a mesma ficção, sem custo de mesa.
 
-> [!warning] Por que um rank 6 veterano assusta um rank 7 — e por que isso agora é comum, não excepcional
-> Com as faixas flutuantes (abaixo), **o veterano denso deixou de ser um caso de regra e virou o caso normal.** Um rank 6 que fica e sobrevive a Calamidades cruza os 10.000 Marcas pela contagem real e é **Mestre** (+2 Níveis) — o mesmo patamar de domínio de um rank 7 recém-ascendido especialista. Ele continua atrás no **M** (metade dos dados), então ainda perde a troca direta; mas perde por uma margem que a experiência, o terreno e a preparação cobrem, e é exatamente esse o medo que o romance descreve.
+> [!warning] Por que um rank 6 denso assusta um rank 7 — e por que isso agora é comum, não excepcional
+> Com as faixas flutuantes (abaixo), **o Imortal denso deixou de ser um caso de regra e virou o caso normal.** Um rank 6 que fica e sobrevive a Calamidades cruza os 10.000 Marcas pela contagem real e é **Mestre** (+2 Níveis) — o mesmo patamar de um rank 7 recém-ascendido especialista. Ele continua atrás no **M** (metade dos dados), então ainda perde a troca direta; mas perde por uma margem que o terreno e a preparação cobrem, e é exatamente esse o medo que o romance descreve.
 >
-> As duas condições que **agravam** isso: **(a)** o rank 7 recém-chegado dividiu as Marcas entre dois Caminhos e chegou lá com metade da contagem em cada, empatando em patamar com o veterano e ficando atrás em experiência; **(b)** o veterano empilha feitos de compreensão ([[#O gênio pobre — compreensão acima da contagem|gênio pobre]]) e opera acima da própria contagem. Com uma das duas, o rank menor é **favorito**.
+> **Tempo de estrada não é estatística.** Não existe bônus por anos vividos, por lutas travadas ou por sabedoria acumulada — o vault não tem essa moeda. Entre dois Imortais, o que decide são **duas** coisas: a **contagem de Marcas no Caminho daquele confronto** (que dá os Níveis de Potência) e o **Domínio** (que dá as capacidades). Um Imortal de mil anos com as Marcas espalhadas por cinco Caminhos perde para um de cem anos que concentrou tudo num — a idade não entra na conta em lugar nenhum. O que a idade faz é dar *oportunidade* de acumular as duas coisas; quem passou os mil anos sem acumular nenhuma continua sendo o mesmo adversário de sempre.
+>
+> As duas condições que **agravam** isso: **(a)** o rank 7 recém-chegado dividiu as Marcas entre dois Caminhos e chegou lá com metade da contagem em cada, empatando em patamar com o rank 6 denso; **(b)** o rank 6 empilha feitos de compreensão ([[#O gênio pobre — compreensão acima da contagem|gênio pobre]]) e opera com Domínio acima da própria contagem. Com uma das duas, o rank menor é **favorito**.
 
 > [!note] O gênio pobre continua existindo, e agora serve a outra coisa
 > A regra do gênio pobre (decisão 133) nasceu porque o teto duro de 9.999 tornava **matematicamente impossível** um rank 6 alcançar Mestre — contra o cânone. Com as faixas flutuantes esse buraco fechou sozinho: agora dá pra chegar a Mestre pela contagem real, bastando ficar e sobreviver.
@@ -127,9 +131,9 @@ Domínio só sobe quando o personagem entende alguma coisa.
 | Nível | Capacidade destravada |
 |---|---|
 | **Vislumbre** | Nada além do básico. Você usa o Caminho; ele ainda não é seu |
-| **Pequeno Feito** | **Improviso simples:** pode usar um Gu **do seu Caminho** que nunca refinou, se tiver ele em mãos — teste de AST CD 18. Falha custa o Gu |
-| **Mestre** | **Simulação de Marca:** 1×/cena, você replica o efeito de um Gu do seu Caminho de rank ≤ seu **sem ter o Gu**, gastando o dobro da essência. Dura 1 rodada.<br>**Criação acelerada:** montar um Golpe Matador novo leva metade do tempo |
-| **Grão-Mestre** | **Improviso cruzado:** pode usar Gu de **outro** Caminho sem tê-lo refinado — AST CD 22, e o Gu tem chance de morrer. É como um Grão-Mestre pega o arsenal de um inimigo morto e usa contra os aliados dele na mesma cena.<br>Pode **anexar** Terra Abençoada alheia |
+| **Pequeno Feito** | **Improviso simples:** pode usar um Gu **do seu Caminho** que nunca refinou, se tiver ele em mãos — teste de AST CD 18. Falha custa o Gu.<br>**Refina Gu Imortal de rank 6** do seu Caminho |
+| **Mestre** | **Simulação de Marca:** 1×/cena, você replica o efeito de um Gu do seu Caminho de rank ≤ seu **sem ter o Gu**, gastando o dobro da essência. Dura 1 rodada.<br>**Criação acelerada:** montar um Golpe Matador novo leva metade do tempo.<br>**Refina Gu Imortal de rank 7** |
+| **Grão-Mestre** | **Improviso cruzado:** pode usar Gu de **outro** Caminho sem tê-lo refinado — AST CD 22, e o Gu tem chance de morrer. É como um Grão-Mestre pega o arsenal de um inimigo morto e usa contra os aliados dele na mesma cena.<br>**Refina Gu Imortal de rank 8.**<br>Pode **anexar** Terra Abençoada alheia (ver [[🗝️ Terra Abençoada\|Terra Abençoada]]) |
 | **Quase-Supremo** | **Marca emprestada:** você imprime temporariamente Marcas do seu Caminho num **aliado** por uma cena — ele opera com metade do seu nível de domínio. Custa 1 Ferimento e 500 Marcas, que voltam num mês |
 | **Grande Mestre Supremo** | **Autoria:** você pode **criar um Gu novo** do seu Caminho que não existia no mundo, através de Dedução e refino. É assim que Caminhos crescem, e é por isso que só Veneráveis fundam escolas |
 
@@ -139,7 +143,7 @@ Domínio só sobe quando o personagem entende alguma coisa.
 
 Marca é estrutura física, mas **entendimento não é a mesma coisa que músculo**. Esta regra nasceu como exceção, para permitir que alguém operasse **acima** da própria contagem — e com os dois eixos separados (decisão 254) ela deixa de ser exceção e passa a ser **o mecanismo normal pelo qual o Domínio sobe**. O personagem avança quando a mesa reconhece um feito real de compreensão: resolver um problema do Caminho que ninguém resolveu, sobreviver a uma revelação sobre a natureza dele, ou herdar o Significado Verdadeiro de alguém que o dominava.
 
-**Cada feito reconhecido sobe um nível de domínio, e eles empilham** — até dois níveis acima da contagem real, cada salto exigindo o seu próprio feito, distinto e memorável. Ele ganha **os Níveis de Dano** do nível emprestado — mas **não** o que depende de estrutura física: refino de Gu Imortal de rank mais alto e anexação de Abertura continuam travados na contagem real.
+**Cada feito reconhecido sobe um nível de domínio, e eles empilham** — até dois níveis acima da contagem real, cada salto exigindo o seu próprio feito, distinto e memorável. E o que o domínio dá, ele dá inteiro: **refino de Gu Imortal e anexação de Terra Abençoada acompanham o nível de Domínio alcançado**, porque são capacidades, e capacidade é compreensão (decisão 254). O que **não** acompanha são os **Níveis de Potência**: esses saem do estoque, e o estoque continua sendo a contagem real de Marcas. O gênio pobre refina e improvisa como um Grão-Mestre — e bate como a contagem dele permite.
 
 > [!note] Calibrado pelo cânone — rank 6 com Grão-Mestre é o padrão dos fortes do romance, não uma exceção
 > Citação, raciocínio completo e por que o empilhamento vai até dois níveis: [[🧭 Log de Decisões]] (decisões 120 e 133).
@@ -239,7 +243,7 @@ Marca não se compra e não vem de tabela de XP. Vem de quatro fontes, todas car
 | **Sobreviver a uma Calamidade ou Provação** | Ver a tabela abaixo | Risco de morte. É a fonte principal e a mais honesta |
 | **Uso pesado e prolongado de Gu do Caminho** | 1 Marca por cena em que o Caminho decidiu o resultado; 10–50 num arco inteiro dedicado | Lento. Sozinho, nunca chega a Grão-Mestre |
 | **Refinar um Gu Imortal do Caminho** | 500 – 5.000, conforme o rank do Gu | Consome o material e pode matar o Gu |
-| **Anexar a Abertura de outro Imortal** | Uma **fração** das Marcas que a vítima tinha **naquele Caminho** (Marcas de outros Caminhos se perdem) — o corpo do anexador rejeita a maior parte das Marcas "estranhas"; sugestão de mesa: **30%** para um anexador comum, subindo com o quanto seu próprio domínio no Caminho supera o da vítima. 100% é anomalia fora do alcance de um PJ comum (🔧 adaptado — Cap. 1185) | Exige nível **Mestre** pra Aberturas de rank 6, **Grão-Mestre** a partir de rank 7 (🔧 adaptado — Cap. 735; a nota mantinha Grão-Mestre fixo). Matar/subjugar outro Imortal é crime capital em qualquer facção ortodoxa |
+| **Anexar a Abertura de outro Imortal** | Uma **fração** das Marcas que a vítima tinha **naquele Caminho** (Marcas de outros Caminhos se perdem) — o corpo do anexador rejeita a maior parte das Marcas "estranhas"; sugestão de mesa: **30%** para um anexador comum, subindo com o quanto seu próprio domínio no Caminho supera o da vítima. 100% é anomalia fora do alcance de um PJ comum (🔧 adaptado — Cap. 1185) | Exige **Domínio** de nível **Mestre** pra Aberturas de rank 6, **Grão-Mestre** a partir de rank 7 — é capacidade, não estoque: a contagem de Marcas não abre esta porta (🔧 adaptado — Cap. 735; a nota mantinha Grão-Mestre fixo). Matar/subjugar outro Imortal é crime capital em qualquer facção ortodoxa |
 
 ### Quantas Marcas se começa
 
@@ -440,7 +444,7 @@ Um portador de Físico Extremo entra no rank 6 com o dobro de Marcas, terra Espe
 | **Herança verdadeira / Significado Verdadeiro** | Um legado condensado de compreensão transmite domínio direto: salta o personagem **um nível de domínio** no Caminho da herança (a regra do "gênio pobre" desta nota) e pode trazer Gu Imortais e receitas prontas | Achar, disputar e sobreviver à herança — ver [[🎲 Gerador de Heranças]] |
 | **Reinos de Sonho** | O acelerador canônico mais forte: explorar um reino de sonho rende Marcas e compreensão num ritmo impossível por cultivo normal — **um mês lá dentro vale o que anos valem fora** (trate cada exploração bem-sucedida como uma Calamidade Terrestre em Marcas, sem esperar o ciclo) | Perigo real a cada entrada, e sem método do Caminho dos Sonhos a alma fica lá |
 | **Gu que aceleram o avanço** | Gu de Marcas emprestadas, Gu que convertem provação em compreensão, Gu de tempo que aceleram refino e cultivo — a lista completa está em [[🚀 Gu de Avanço de Rank]] | Raros, caros, e quase todos consumíveis ou com contrapartida |
-| **Anexação** | Engolir a Abertura de outro Imortal: uma fração (sugestão de mesa: ~30%) das Marcas dele no seu Caminho, a terra, os recursos | Exige Mestre (Abertura rank 6) ou Grão-Mestre (rank 7+), e é crime capital ortodoxo |
+| **Anexação** | Engolir a Abertura de outro Imortal: uma fração (sugestão de mesa: ~30%) das Marcas dele no seu Caminho, a terra, os recursos | Exige **Domínio** Mestre (Abertura rank 6) ou Grão-Mestre (rank 7+), e é crime capital ortodoxo |
 | **Investir na terra** | Subir camada e fluxo de tempo da própria Terra Abençoada multiplica as Marcas passivas e a frequência de Calamidades — ver [[🗝️ Terra Abençoada]] | Décadas de gestão, e o céu cobra na mesma proporção |
 | **Cooperação em Calamidade** | Dois Imortais que atravessam provações juntos (pactos de socorro mútuo) falham menos e colhem mais — é o único desconto de risco que não custa Marca | O pacto é um Débito, e Débito entre Imortais dura séculos |
 
@@ -468,13 +472,13 @@ O refino é **gradual, medido em percentual** — como a saturação de uma Terr
 
 **Sensação passiva total do Caminho na região.** O Venerável sente qualquer material do Caminho escondido ali, e sente qualquer cultivador **usando aquele Caminho** dentro da área — não quem são, mas que estão lá e o que estão fazendo. É vigilância ambiental, sem gastar ação nenhuma.
 
-Também pode, à vontade, **amplificar ou sabotar em segredo** o cultivo de qualquer um que treine ali usando o Caminho dele: **+2 Níveis de Dano** (amplificar) ou desvantagem em qualquer teste de ativação daquele Caminho (sabotar), alvo a alvo, sem que a vítima saiba a causa. É a ferramenta clássica de política de bastidores — recompensar um protegido ou minar um rival sem nunca aparecer na cena.
+Também pode, à vontade, **amplificar ou sabotar em segredo** o cultivo de qualquer um que treine ali usando o Caminho dele: **+2 Níveis de Potência** (amplificar) ou desvantagem em qualquer teste de ativação daquele Caminho (sabotar), alvo a alvo, sem que a vítima saiba a causa. É a ferramenta clássica de política de bastidores — recompensar um protegido ou minar um rival sem nunca aparecer na cena.
 
 ### Reivindicação territorial exclusiva
 
 Ao **completar 100%** do refino do próprio Caminho numa região, o Venerável ganha **reivindicação territorial exclusiva**: nenhum outro Venerável — do mesmo Caminho ou de qualquer outro — pode começar a refinar ali. Tentar **dispara retaliação total**: não é um duelo pessoal, é **guerra declarada** entre as facções dos dois Veneráveis envolvidos, com todo o peso institucional que isso carrega numa mesa de rank alto.
 
-Dentro do próprio território reivindicado, o Venerável soma **+1 Nível de Dano** em qualquer Gu do Caminho reivindicado — empilha com a amplificação do próprio nível de domínio (a mesma lógica de "amplificação do céu e da terra" do Grande Mestre Supremo, acima, agora espalhada pelo território e não só pela Abertura pessoal).
+Dentro do próprio território reivindicado, o Venerável soma **+1 Nível de Potência** em qualquer Gu do Caminho reivindicado — empilha com a amplificação do próprio nível de domínio (a mesma lógica de "amplificação do céu e da terra" do Grande Mestre Supremo, acima, agora espalhada pelo território e não só pela Abertura pessoal).
 
 ### Quando dois Veneráveis disputam a mesma região
 
@@ -490,9 +494,9 @@ Dentro do próprio território reivindicado, o Venerável soma **+1 Nível de Da
 
 Isto não é regra de jogador — é **roteiro pro mestre** pra quando "Confronto aberto" (acima), ou qualquer choque armado entre Veneráveis, chega efetivamente à mesa, sem precisar inventar uma escala de poder nova na hora (🔧 adaptado — *Origem: digest 18, Cap. 2309, 2313, 2315*). O romance mostra um padrão consistente: a disputa se resolve em três camadas, nesta ordem, e a mesa só sobe de camada quando a de baixo empatou de verdade.
 
-1. **Gu Imortal de rank 9.** O confronto começa como qualquer combate — Escada de Dano, Marcas de Dao, arsenal, Golpes Matadores. Na maioria das vezes já decide: a diferença de domínio e de arsenal entre dois Veneráveis raramente empata de verdade.
+1. **Gu Imortal de rank 9.** O confronto começa como qualquer combate — Escada de Potência, Marcas de Dao, arsenal, Golpes Matadores. Na maioria das vezes já decide: a diferença de domínio e de arsenal entre dois Veneráveis raramente empata de verdade.
 2. **Domínios — Terra Abençoada / Gruta-Céu.** Se o combate bruto empata, a disputa sobe pro nível dos domínios: quem consegue desdobrar o próprio [[🔷 Formações de Gu#🌐 Domínios de Campo de Batalha|Domínio de Campo de Batalha]] ou puxar o rival pra dentro da própria [[🗝️ Terra Abençoada|Terra Abençoada]]/Gruta-Céu briga em casa — vantagem de terreno, recursos por perto, e a chance de isolar o rival do socorro externo.
-3. **Como os ativos se encaixam.** Só quando as duas camadas de cima empatam de verdade, o fator decisivo deixa de ser "quem é mais forte" e vira "quem trouxe as peças certas": aliados, Gu Lendários, formações territoriais já refinadas, dívidas cobráveis na hora. Aqui é a **Escada de Dano normal do vault** que decide — rolando o combate de verdade entre os ativos que cada lado colocou em campo. Não é regra nova, é o motor de sempre aplicado ao elenco de apoio.
+3. **Como os ativos se encaixam.** Só quando as duas camadas de cima empatam de verdade, o fator decisivo deixa de ser "quem é mais forte" e vira "quem trouxe as peças certas": aliados, Gu Lendários, formações territoriais já refinadas, dívidas cobráveis na hora. Aqui é a **Escada de Potência normal do vault** que decide — rolando o combate de verdade entre os ativos que cada lado colocou em campo. Não é regra nova, é o motor de sempre aplicado ao elenco de apoio.
 
 **Duas texturas de cena, sem virar teste:**
 
