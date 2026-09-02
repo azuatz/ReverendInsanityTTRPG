@@ -117,25 +117,62 @@ Receita: role 1d6 → em 5-6, ele sabe UMA receita de valor
 Escolha os Gu concretos no [[📖 Catálogo de Gu]] pelo Caminho que a especial dele já declarou — ou deixe genérico ("um Gu de fuga, dois de utilidade") até alguém perguntar. **A receita não está escrita num papel no bolso**: está na cabeça dele, e é isso que faz um Mestre de Gu capturado valer uma cena de interrogatório ou barganha em vez de um saque.
 
 
-## 🎲 Os dois números que faltavam em toda ficha de inimigo
+## 🎲 Os números que faltavam em toda ficha de inimigo
 
-Um playtest de mesa travou **no primeiro passo da primeira rodada** porque nenhum molde tinha Destreza, e travou de novo porque nenhum tinha Defesa contra Alma. **Estes são os dois, e valem para todos os moldes.**
+Dois playtests de mesa travaram aqui. **Nenhum destes é regra nova — são números que o motor de simulação usa desde sempre e que a ficha nunca publicou.**
 
-| Molde | **DES** | **Defesa contra Alma** |
-|---|---|---|
-| **Horda** | **0** — massa não esquiva | `13 + rank` |
-| **Guerreiro** | **+1** | `13 + rank` |
-| **Mestre de Gu** | **+1** — treinou a mente, não o corpo | `13 + rank` |
-| **Elite** | **+2** | `13 + rank` |
-| **Chefe** | **+3** | `13 + rank` |
-| **Imortal (6+)** | **+4** | `13 + rank` |
+### Destreza, e onde ela NÃO entra
 
-**A DES do molde serve para três coisas** e só para elas: **iniciativa** (`d20 + DES`), **desempate** em disputa de movimento, e a **Perseguição** ([[🏃 Fuga e Perseguição]]). Ela **não** entra na Defesa — a Defesa dos moldes é o número publicado na ficha de cada um, e não se deriva de DES.
+| Molde | DES |
+|---|---|
+| **Horda** | **0** — massa não esquiva |
+| **Recruta** | **0** |
+| **Guerreiro** | **+1** |
+| **Mestre de Gu** | **+1** — treinou a mente, não o corpo |
+| **Elite** | **+2** |
+| **Chefe** | **+3** |
+| **Imortal (6+)** | **+4** |
 
-**A Defesa contra Alma é `13 + rank` para todo molde**, e o `13` não é arbitrário: é a fórmula do PJ (`10 + VON + rank`) com **VON +3**, a linha de base de atributo desta mesa, mais o degrau que a decisão 231 deu à defesa espiritual. É o número que as 26 rodadas de simulação já usavam — publicá-lo não muda nada, só para de esconder.
+A DES do molde serve para **três coisas e só elas**: **iniciativa** (`d20 + DES`), **desempate** em disputa de movimento, e a **Perseguição** ([[🏃 Fuga e Perseguição]]). **Ela não entra na Defesa** — a Defesa de cada molde é o número publicado na ficha dele e não se deriva de DES.
 
-> [!warning] Por que a Defesa contra Alma importa mais do que parece
-> Todo molde tem **barra de Alma** e, até agora, nenhum tinha com que defendê-la. Medido no playtest: **uma barra de Alma de 15 zera em 4 ativações, sem o atacante tocar na Vitalidade** — a Alma é a via de morte mais curta contra um inimigo, e o molde estava sem defesa exatamente contra ela.
+*(Verificado em cena: a Horda age antes de um PJ em 30-38% das vezes e o Chefe em 43-52%. O custo em vitória do grupo é de até 5,4 pontos percentuais, concentrado em Difícil e Clímax, e nenhuma célula sai da faixa — decisão 294.)*
+
+### A barra de Alma, e a Defesa dela
+
+> **Barra de Alma de qualquer molde = 95% da Vitalidade dele.**
+> **Defesa contra Alma de qualquer molde = `13 + 2 × rank`.**
+
+Duas linhas, e elas fecham o buraco que deixava um Caminho inteiro inerte. **A Horda é a única exceção: massa não tem alma única, e por isso não tem barra de Alma nem se ataca por ela.**
+
+**A Defesa de `13 + 2 × rank` não é número novo:** é exatamente a fórmula do PJ — `10 + VON + 2 × rank` — com **VON +3**, que é a linha de base de atributo desta mesa (decisão 252). Um molde defende a Alma como um personagem de Vontade típica.
+
+| Molde | Alma no rank 1 | rank 3 | rank 5 | Defesa contra Alma |
+|---|---|---|---|---|
+| Guerreiro | 11 | 76 | 363 | `13 + 2 × rank` |
+| Elite | 20 | 109 | 500 | idem |
+| Mestre de Gu | 20 | 112 | 509 | idem |
+| Chefe | 59 | 408 | 1.920 | idem |
+| **Horda** | — | — | — | **não tem** |
+
+> [!warning] Por que isto era o buraco mais caro da ficha de inimigo
+> Todo molde tinha barra de Alma no motor e **nenhum a publicava fora do Mestre de Gu**. Medido num playtest: o personagem de Alma **acertou 5 de 5, causou 35 de dano, gastou 79% do tanque — e não aconteceu nada**, porque não havia barra escrita para descontar. **Um dos Caminhos ficava inerte contra cinco dos seis moldes, e não por desenho.**
+
+### O molde Chefe, por inteiro
+
+O Chefe é **um Elite com quatro números próprios**. Tudo o mais — Ação Especial, condições, comportamento — segue o Elite.
+
+| | Chefe |
+|---|---|
+| **Vitalidade** | pela tabela de ranks acima (`63 / 80 / 100 / 94 / 115 × M`) |
+| **Ações por rodada** | pela mesma tabela (2 / 2 / 2 / 3 / 3) |
+| **Defesa** | **`16 + rank`** |
+| **Acerto** | **`+8 + rank`** |
+| **RD** | **`2 × M`** |
+| **Dano** | **`M d10`** |
+| **DES** | +3 |
+| **Alma** | 95% da Vitalidade · Defesa `13 + 2 × rank` |
+
+*(Um playtest teve de deduzir estes quatro por engenharia reversa a partir do único Chefe de exemplo escrito — e é o molde que o Guia autoriza como Clímax da primeira sessão.)*
 
 ## O Chefe — a regra especial pra combate solo
 
