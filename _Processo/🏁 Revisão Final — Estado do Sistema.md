@@ -56,7 +56,7 @@ Alguns exemplos do que isso significava na prática, todos corrigidos:
 
 ---
 
-## 3. As cinco lições de método
+## 3. As seis lições de método
 
 **Valem mais que qualquer item da lista**, porque dizem o que uma auditoria futura deve olhar primeiro.
 
@@ -75,7 +75,23 @@ Alguns exemplos do que isso significava na prática, todos corrigidos:
 > [!tip] 5. Declarar *"zero ocorrências"* a partir de uma busca por texto literal é declarar uma exaustividade que a busca não tem
 > Aconteceu nesta própria revisão, e foi retratado. A frase procurada existia mais uma vez, com pontuação diferente em volta, e o `grep` que declarou o zero nunca a viu. **Confira por conceito, não por string, antes de afirmar cobertura total.**
 
-**As cinco dizem a mesma coisa por ângulos diferentes:** o erro raramente está no julgamento de desenho. Está no que se aceita como prova, e no caminho entre a decisão e o lugar onde alguém vai lê-la.
+> [!tip] 6. Uma garantia **escrita** não é uma garantia **verificada**
+> O vault publicava uma semente fixa como prova de que as simulações eram reprodutíveis — e as sementes saíam de uma função que o Python aleatoriza a cada processo. **A garantia estava no texto e não existia no código**, e as células eram irreprodutíveis dentro do próprio ruído. Ninguém acharia isso lendo: só tentando reproduzir. É a versão numérica de *execute, não avalie*.
+
+**As seis dizem a mesma coisa por ângulos diferentes:** o erro raramente está no julgamento de desenho. Está no que se aceita como prova, e no caminho entre a decisão e o lugar onde alguém vai lê-la.
+
+---
+
+## 3b. E uma sétima, que é de outra natureza
+
+As seis acima dizem **como auditar**. Esta diz **como escrever para não gerar auditoria** — é a única do conjunto que previne em vez de detectar, e por isso fecha a seção.
+
+> [!important] Um vazio deliberado precisa estar escrito como deliberado
+> Campo em branco, exceção sem justificativa e regra que "obviamente não se aplica aqui" são todos convites para alguém reinterpretar. **Metade do que esta revisão corrigiu era silêncio que um leitor posterior preencheu do jeito errado, de boa-fé.**
+>
+> **A ressalva que torna a regra aplicável, e sem ela ela vira "comente tudo":** anote o vazio **só quando um leitor competente ficaria tentado a preenchê-lo**. Um Gu que genuinamente não tem desvantagem não precisa de nota; um **golpe defensivo sem Prerrogativa precisa**, porque doze irmãos dele têm uma e o vazio parece esquecimento. **O critério é a expectativa que o próprio documento cria, não a ausência em si.**
+>
+> **E o inverso também vale.** A fórmula de *acerto à distância* continua publicada e válida, num mundo onde **arco e besta não existem** — porque ela serve ao arremesso de objeto improvisado. Alguém vai querer "consertar" isso apagando a fórmula. Ali, o **não-vazio** é que precisava de nota.
 
 ---
 
@@ -90,7 +106,7 @@ Alguns exemplos do que isso significava na prática, todos corrigidos:
 | **Retaliação do Golpe Matador Coletivo** — falta escolher entre um piso e um teto de modelagem | Sessão de medição | Em aberto |
 | **Extensão do `B` ilimitado acima da faixa** | Decisão de desenho retida | Em aberto |
 | **Rabo do backlog da varredura** — os achados 🟡 e 🟢 | Ambas as sessões | Em execução |
-| **B1 — Gu de Corpo só começam no rank 2**, e três dos quatro PJs não têm efeito permanente no rank 1 | **Autor** | Julgado fronteira de design deliberada; a recusa aguarda confirmação explícita |
+| ~~**B1 — Gu de Corpo só começam no rank 2**~~ | — | ✅ **Fechado pelo autor, que derrubou o julgamento de "fronteira deliberada".** Criados quatro Gu de Corpo permanentes de rank 1 — um para Lua, Alma, Vento e Wu Xing —, todos com portão `CON +0` |
 
 **As três pendências que travavam o autor foram fechadas nesta rodada:** o Acordo de Mesa foi unificado em seis perguntas, o Gu do Empenho Total ficou no arsenal declarado como exceção, e as peças que a lore de Vespéria inventa foram **marcadas como variantes de campanha** e listadas numa tabela única na nota-mãe — com âncora mecânica onde a falta dela travaria a mesa.
 
