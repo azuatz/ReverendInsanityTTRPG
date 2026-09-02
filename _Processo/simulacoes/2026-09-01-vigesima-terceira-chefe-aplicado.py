@@ -74,7 +74,7 @@ def varre(rotulo):
     for comp in ("facil", "padrao", "padrao_pesado", "dificil", "climax"):
         piso, teto = FAIXAS[comp]
         for rank in RANKS:
-            random.seed(SEED + rank * 311 + hash(comp) % 997)
+            random.seed(SEED + rank * 311 + sum(ord(c) for c in comp)   # determinístico entre processos (hash() de string é aleatorizado))
             r = V.simulate(rank, comp, n_iter=N_ITER)
             tab[(comp, rank)] = r
             dentro = piso <= r["win"] <= teto
