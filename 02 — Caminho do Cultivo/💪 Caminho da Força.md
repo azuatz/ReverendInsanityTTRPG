@@ -61,22 +61,26 @@ Cada **Descarga** usada na mesma cena cobra, no fim do golpe: **`1 × M` de Vita
 > [!info] 👻 Fantasma de Fera — o que separa sorte de garantia *(📕 canônico, cap. 280-281 — o fenômeno natural — e 285-286 — o Gu que o garante)*
 > O romance descreve cultivadores talentosos do Caminho da Força manifestando, de vez em quando, o **fantasma da fera** cuja força o Gu carrega — um lampejo da criatura por cima do golpe, liberando o poder pleno do Gu em vez do poder sempre diluído de um corpo humano. É raro, chega sem aviso, e só num estilo de golpe bem específico — o que também o torna fácil de prever e desviar quando um observador já viu acontecer uma vez.
 >
-> **O gatilho é o ESTILO DO GOLPE, e a densidade só mexe na chance.** O fantasma de fera **é** a sua Marca de Dao de força física, escondida na carne e visível só quando transborda — mas ela não transborda de qualquer jeito: **cada fera tem o movimento dela**, e o fantasma só aparece no golpe que imita esse movimento. Urso no tapa de palma aberta, javali na investida, crocodilo na mordida, cavalo na corrida. Quem carrega força de javali e crocodilo **não tira fantasma nenhum de um soco**, por mais forte que soque.
+> **O gatilho é a fera que você carrega, e a chance sobe com quantas.** O fantasma **é** a sua Marca de Dao de força física, escondida na carne e visível só quando transborda. Ele transborda no calor da luta, e por isso a condição é o **Ímpeto alto** — não um gasto, um estado.
 >
-> **Mecânica.** Ao pagar uma **Descarga** (5 de Ímpeto), primeiro pergunte: **o golpe está no estilo de alguma fera cuja força você carrega?** Se não estiver, não role — não sai. Se estiver, role `1d6`, e a chance depende de quantos Gu de Corpo assentados pertencem à **mesma família de lei** daquela fera:
+> **Mecânica.** Em qualquer ataque corpo a corpo feito com o **Ímpeto em 4 ou 5**, role `1d6` à parte. A chance depende de **quantos Gu de Corpo você tem que emprestam a força de uma fera** — de feras diferentes ou da mesma, tanto faz, contanto que sejam Gu diferentes:
 
-| Gu da mesma família de lei | O Fantasma sai em |
+| Gu de Corpo com fera | O Fantasma sai em |
 |---|---|
-| **1** *(só a fera do golpe)* | **1** |
+| **nenhum** | não sai — não há fera nenhuma para aparecer |
+| **1** | **1** |
 | **2** | **1–2** |
 | **3 ou mais** | **1–3** |
 
-> **Família de lei, não cópia — e a diferença decide a build.** 📕 A obra é literal nos dois lados. Vários Gu **parecidos mas diferentes** ressoam entre si e *"greatly raised the probability"* do fantasma (cap. 319: três Gu distintos, todos de dragão). Já **duas cópias da mesma coisa são desperdício declarado**: *"the strength of two boars would be redundant and repetitive"* (cap. 297) — o segundo javali soma força bruta e **não soma fantasma nenhum**.
+> **Onde ler isso sem pensar:** a ficha de cada Gu de Corpo no [[📖 Catálogo de Gu]] **já nomeia o bicho** — crocodilo, javali, urso, falcão, lobo, serpente. Se a ficha nomeia uma fera, o Gu conta. Se não nomeia, não conta. **Não há campo novo para consultar e nada a negociar com o mestre.**
 >
-> **Na prática, isto inverte o que a versão anterior desta regra premiava.** Ela mandava empilhar três Gu do mesmo bicho, que é exatamente a compra que a obra chama de desperdício. Agora o que enche a tabela é **colecionar a mesma lei em formas diferentes** — tendão, músculo, osso, sangue do mesmo tema —, e o que abre a porta é **lutar do jeito daquele bicho**.
+> **Cópias do mesmo Gu não contam duas vezes.** 📕 *"the strength of two boars would be redundant and repetitive"* (cap. 297) — o segundo exemplar do mesmo Gu soma força bruta e **não soma fantasma nenhum**. O que enche a tabela é **variedade**, e é isso que a obra chama de ressonância: vários Gu parecidos mas distintos *"greatly raised the probability"* (cap. 319).
 >
-> Quando sai: o golpe ganha **+2 Níveis de Potência** além dos da própria Descarga, mas fica previsível — **−2 no teste de acerto** deste golpe. **Não custa essência** e não exige Gu de amplificação ativo: a Marca já estava no corpo, ela só apareceu. 📕 A obra registra o mesmo defeito: *"the attack method is very rigid (…) it is easy to evade."*
+> **Qual fera aparece:** a do Gu que estiver mais ligado ao golpe — o mestre descreve, e é cor, não conta. Um lutador com crocodilo e javali vê um ou outro conforme mordeu ou investiu.
 >
+> **Quando sai:** o golpe ganha **+2 Níveis de Potência**, **não custa essência** e não exige Gu de amplificação ativo — a Marca já estava no corpo, ela só apareceu.
+>
+> **O preço é ficar previsível, e ele não come o bônus.** 📕 A obra registra que o movimento do fantasma *"is very rigid (…) it is easy to evade"*. Na mesa: **contra o mesmo oponente, na mesma cena, o segundo fantasma em diante dá a ele vantagem para resistir ou desviar** — ele já viu o movimento. *(A versão anterior cobrava −2 no acerto do próprio golpe, o que media +2,4% de dano esperado: a penalidade anulava o bônus e a regra não valia o espaço que ocupava.)*
 > **Não existe piso de rank, e força de bichos diferentes NÃO impede nada** — esta era a segunda metade do erro anterior. Um cultivador com força de dois javalis e um crocodilo tira fantasma normalmente (cap. 281); o que ele não consegue é tirar **fantasma de urso**, porque não tem a força do urso. **Ter várias feras não dispersa o poder: dá várias portas, cada uma com a sua chave de estilo.**
 >
 > **O contraste que a obra faz questão de marcar:** o [[📖 Catálogo de Gu#Rank 3 — M = 4\|Gu do Empenho Total]] invoca o fantasma **sempre**, sem rolar nada, e ainda por cima o controla. A imagem que o próprio romance usa: as Marcas acumuladas são um pote d'água, e o Gu é um cano de bambu que se abre à vontade. Sem o cano, a água continua lá — e transborda por sorte.
@@ -127,9 +131,9 @@ Sem um Gu do Caminho da Força ativo, você só agarra e derruba alvos **do seu 
 
 ## 🦴 A cadeia de Gu de Corpo — a progressão que é só deste Caminho
 
-A seção completa está em [[⚔️ Combate|Combate]] ("Gu de Corpo — a cadeia permanente do lutador"). O que importa aqui é que **ela é o esqueleto do Caminho da Força**, não um extra:
+A lista completa dos Gu de Corpo, com o portão de CON de cada um, está no [[📖 Catálogo de Gu]]. O que importa aqui é que **ela é o esqueleto do Caminho da Força**, não um extra:
 
-1. **Gu de reforço estrutural** (Ossos de Jade, Ossos de Ferro, Pele de Aço) dão **+1 CON permanente** cada e pedem CON baixa pra entrar. São a porta.
+1. **Gu de reforço estrutural** — **Gu do Osso de Jade**, **Gu do Osso de Ferro** e **Gu da Pele de Aço**, todos no [[📖 Catálogo de Gu]] — pedem CON baixa pra entrar. São a porta.
 2. Cada **+1 de CON** destrava um grau acima de Gu de Corpo ofensivo (Leve +1 · Médio +2 · Pesado +3 · Extremo +4).
 3. **Gu de Corpo ofensivos** dão **Níveis de Potência permanentes** — teto absoluto de **+4 Níveis para a cadeia inteira**, não por Gu.
 4. Cada Gu de Corpo **Pesado ou Extremo** assentado sobe o **teto de Ímpeto em +1** (regra desta nota).
