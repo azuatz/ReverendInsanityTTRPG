@@ -76,3 +76,34 @@ Na prática de campanha: a Muralha é o que mantém o mapa fechado no ato imorta
 - **Explicar o mundo.** Por que as facções não invadem umas às outras o tempo todo? Porque um exército longe de casa luta um rank abaixo. É a razão econômica da geografia política inteira.
 
 **O que não fazer:** aplicar isso numa viagem curta dentro da mesma região. A unidade é **região**, grande, do tamanho de um continente pequeno — não é "saiu da vila".
+
+### 📕 Atravessar uma Muralha — a cena de arco, com números
+
+A seção acima promete que a travessia é cena de arco e não dava uma linha para rodá-la. Estes são os números da obra.
+
+> [!important] A trava principal: **a Muralha pega o Imortal, não o Gu Imortal**
+> 📕 *"The five regional walls targeted Gu Immortals, not Immortal Gu."* Um Gu Imortal de informação atravessou **duas** Muralhas sem obstáculo.
+>
+> **Isso desenha o mundo político inteiro:** mensagem, encomenda e Gu enviado **atravessam**; **pessoas, não**. Um mundo em que a informação circula livre e os corpos não é completamente diferente de um em que nada passa — e é o mundo do romance. Correspondência entre regiões é rotina; **visita é expedição**.
+
+**A pressão é invertida — o forte sofre mais.** 📕 Num grupo que cruzou duas Muralhas seguidas, os **rank 8 saíram gravemente feridos**, quatro **rank 7 morreram**, e os **rank 6 sofreram menos**. A leitura de mesa é excelente e contraintuitiva:
+
+| Rank de quem atravessa | Uma Muralha | Duas seguidas |
+|---|---|---|
+| **6** | 1 Ferimento | 2 Ferimentos |
+| **7** | 2 Ferimentos | **Teste de Morte** ao fim da travessia |
+| **8** | 3 Ferimentos | 3 Ferimentos **e** Ferimento da Terra na Fenda |
+| **9** | 4 Ferimentos | idem, e a Muralha reage à passagem |
+
+**Numa fuga pela fronteira, o membro mais fraco do grupo é o mais seguro — e o perseguidor poderoso é quem paga o preço mais alto.** É a única trava do sistema que protege quem está por baixo.
+
+> [!warning] Dentro da Muralha, golpe imortal fere você antes de ferir o inimigo
+> 📕 *"their immortal apertures would shake and they would get injured before even harming the enemy."* **Golpe Matador imortal disparado dentro de uma Muralha causa o dano dele em você e não sai.** Lutar ali é lutar sem golpes — o que faz da Muralha a **arena de emboscada** perfeita, e o romance a usa exatamente assim.
+>
+> Existem criaturas que se movem lá dentro **sem sentir resistência**. Uma delas é um monstro de fronteira pronto, e não precisa de ficha nova: é qualquer molde do Grimório com a linha *"ignora a supressão da Muralha"*.
+
+**A Muralha tem espessura, e ela se mede em passos.** Um golpe imortal abre um corredor de setenta e poucos passos; um trecho fino pode exigir mais de três mil passos de escavação; e **ela se regenera enquanto se cava** — um corredor recém-aberto já encolheu quando o último da fila entra.
+
+**Existem pontos fracos, e achá-los é trabalho de [[🧠 Dedução|Dedução]].** Um especialista calcula onde a Muralha é mais fina, e **essa informação vale a travessia inteira** — é o uso mais caro que o pilar de preparação tem no ato imortal. Sem ela, o grupo escava no escuro e paga a tabela acima duas ou três vezes.
+
+**A consequência de longo prazo é a mais dura, e é permanente.** 📕 Atravessar **danifica a fundação da Abertura Imortal**. Na mesa: além dos Ferimentos da tabela, **cada travessia deixa 1 Ferimento da Terra** na Fenda do personagem ([[🗝️ Terra Abençoada]]), que só sai com o reparo normal. É por isso que, no romance, um imortal que muda de região **muda de vida** — não é viagem, é mudança.
