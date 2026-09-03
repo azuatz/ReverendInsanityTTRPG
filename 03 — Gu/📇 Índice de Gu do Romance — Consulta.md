@@ -50,19 +50,13 @@ A obra dá **dois** campos. Há base para ficha, mas ela exigiria preencher o re
 | Bright Pearl Gu | 4 | Selagem de aura em duas camadas |
 | Brute Force Longhorn Beetle Gu | 1 | Força de touro por cinco respirações |
 | Calamity Beckoning Gu | 7 | Atrai para si a calamidade destinada a outro |
-| Calamity Luck Altar | 8 | sorte |
 | Capture Wind Gu | 7 | Gu de movimento |
-| Casa | Rank | Caminho |
 | Cause / Effect | — | Par de causa e efeito |
-| Chamber Pot | 7 | trevas |
 | Clear Mind Gu | 4 | Reverte a fúria induzida |
 | Consecutive Gu | 8 | Permite encadear golpes de **caminhos diferentes** entre si |
-| Cook | 7 | comida |
-| Cooking Luck Pot | 7 → 8 | sorte |
 | Coptis Rhizome Gu | — | Fortalece a alma |
 | Crazed Demon Formation | 9 | regra/céu |
 | Crystal Ladybug | — | Dispensador vivo de líquidos preciosos |
-| Dark Prison | 6 | trevas |
 | Death Sentence Awaits | 7 | Fixa o momento exato da morte de um alvo |
 | Derivation Gu | — | Da explosão do seu estômago nasceu a humanidade comum |
 | Distracting Thoughts | — | Gera pensamentos distrativos progressivos num raio |
@@ -78,13 +72,11 @@ A obra dá **dois** campos. Há base para ficha, mas ela exigiria preencher o re
 | Dragonpill Cricket Gu | 1 | Salto ou recuo instantâneo de cerca de dez metros |
 | Dreaming Gu | 7 | Núcleo de golpes de investigação e de defesa mental |
 | Earth Qi Gu | 8 | Borboleta marrom |
-| Eat Fragrance | 6 | comida |
 | Edge Gu | 7 | gume |
 | Effort Gu | — | Garante um resultado a qualquer esforço |
 | Eighty-Eight True Yang Building | 8 | múltiplo |
 | Emotion Poetry Gu | 4 | Armazena emoções |
 | Eternal Gu | 10 (rumor) | Rank 10 lendário |
-| Eternal Yacht | 8 | tempo |
 | Everlasting | — | Fixa uma transformação permanentemente |
 | Extreme Past | 8 | A vontade do usuário observa qualquer evento já ocorrido |
 | Fallen Flower Hall | 7 | madeira |
@@ -106,7 +98,6 @@ A obra dá **dois** campos. Há base para ficha, mas ela exigiria preencher o re
 | Giant Mountain Puppet Gu | 5 | Transforma o usuário num títere de rocha de até dezoito metr |
 | Golden Breeze Gu | 4 | Cura de alto nível |
 | Gourmet Food Box Gu | 5 | Preserva pratos prontos |
-| Graceful Chaotic Duel Stage | 7 | tempo |
 | Groundmat Grass Gu | — | Induz sono instantâneo em seres vivos |
 | Habitual Strength Gu | 4 | Acumula força durante o combate sem exigir imobilidade |
 | Hard Liver Gu | 6-8 | Energia contínua sem necessidade de descanso |
@@ -141,12 +132,10 @@ A obra dá **dois** campos. Há base para ficha, mas ela exigiria preencher o re
 | Longevity Gu | — | Rejuvenesce quem o consome |
 | Looking Back | — | Observa eventos passados pelo Rio do Tempo |
 | Luck Plan | 6 | Otimiza uso de recursos e tática de batalha |
-| Luck Suppression Heavenly Palace | 8 | sorte |
 | Main Luck | — | Formaliza o papel de "sorte principal": ganha mais, perde me |
 | Man As Before | 5 | Restaura terceiros a um estado passado |
 | Man Triumphing Heaven Gu | 5 | Desperta a abertura de um mortal sem nenhum talento |
 | Master-Servant Gu | — | Vínculo formal de senhor e servo |
-| Medicine Fragrance | 8 | comida |
 | Melt Ice | — | gelo |
 | Memory Gu | — | Armazena informação bruta |
 | Menses Blood Gu | — | Herança verdadeira |
@@ -158,7 +147,6 @@ A obra dá **dois** campos. Há base para ficha, mas ela exigiria preencher o re
 | Muddy Gu | mortal | Cria e expande uma poça de lama que prende o alvo |
 | Mutation Gu | 8 | Muta partes do corpo do alvo em plantas e animais |
 | Mutual Sense | — | Percepção mútua entre duas partes |
-| Myriad Age Building | 7 | tempo |
 | Nine Leaf Vitality Grass → Wood Charm Gu | 3 | Transformação vegetal progressiva |
 | No Loss Gu | 6 | Teleporta os Gu do dono para longe no instante da morte dele |
 | Oil Dragon Gu | 4 | Dragão de óleo |
@@ -172,7 +160,6 @@ A obra dá **dois** campos. Há base para ficha, mas ela exigiria preencher o re
 | Pine Needle Gu | — | Chuva de agulhas de pinheiro disparada do cabelo |
 | Police Gate Gu | 1-6 | Portões conectados entre si |
 | Prairie Fire Gu | 5 | Incêndio de larga escala |
-| Present and Past Pavilion | 7 | tempo |
 | Puppet Control Gu | — | Controle de corpos vivos à distância |
 | Qi Escape Gu | — | Movimento de altíssimo nível |
 | Qi Flow Gu | 6 | Barata pétrea, mas leve |
@@ -201,7 +188,6 @@ A obra dá **dois** campos. Há base para ficha, mas ela exigiria preencher o re
 | Soldier / Sergeant / Lieutenant / Captain Gu | mortal | Hierarquia militar completa |
 | Soul Search Gu | 3 | Lê as memórias contidas numa alma |
 | Soul Shaking Flag | — | Arma que se manifesta na mão direita da alma |
-| Star Constellation Chessboard | 8 → 9 | sabedoria |
 | Star Dart Gu | — | Projétil estelar |
 | Steel Mane Gu | 3 | Endurece o cabelo, servindo de ataque e de defesa |
 | Stream Gu | — | Gu de assinatura de um clã de água |
@@ -213,8 +199,6 @@ A obra dá **dois** campos. Há base para ficha, mas ela exigiria preencher o re
 | Sword Legged Dragon Centipede | 7 | espada |
 | Sword Qi Gu | 8 | espada |
 | Territory Gu | 3-4 | Plantado no solo, afirma e controla domínio territorial |
-| Thieves Den | pico | roubo |
-| Thought Expelling Pavilion | 7 | sabedoria |
 | Treasure Brass Toad | — | Montaria blindada |
 | True Sight Gu | — | Contramedida contra furtividade |
 | Turn Sand Gu | — | terra |
@@ -227,10 +211,34 @@ A obra dá **dois** campos. Há base para ficha, mas ela exigiria preencher o re
 | Wealth Gu | 5 | Consumível que se transforma em **qualquer material Gu de ra |
 | White Noodle Immortal Ant | 6 | Formiga-rainha que produz rapidamente as demais castas |
 | Wild Immortal Gu | — | Categoria, não Gu individual: Gu Imortal **nunca refinado**, |
-| Winding Light Platform | 7 | luz |
 | Wood Charm Gu | 3 | Transforma o usuário num espírito de árvore, que absorve ess |
 | Wood Sprout | — | madeira |
 | Yellow Camel Longhorn Beetle Gu | 1 | Resistência por quinze minutos |
+
+
+## Casas de Gu Imortal — as 16 que o romance nomeia
+
+> [!warning] Estas dezesseis linhas estavam **dentro da tabela de Gu**, por um erro de conversão
+> A tabela de origem tinha as colunas `Casa · Rank · Caminho`, e ao fundir com a de Gu a coluna **Caminho caiu no lugar de "Efeito"** — junto com a própria linha de cabeçalho, que virou *"um Gu chamado Casa"*. Elas nunca foram Gu. **Três já constam do [[📖 Catálogo de Gu]]**; as outras treze estavam perdidas aqui dentro e agora estão catalogadas.
+
+| Casa | Rank | Caminho |
+|---|---|---|
+| Calamity Luck Altar | 8 | sorte |
+| Chamber Pot | 7 | trevas |
+| Cook | 7 | comida |
+| Cooking Luck Pot | 7 → 8 | sorte |
+| Dark Prison | 6 | trevas |
+| Eat Fragrance | 6 | comida |
+| Eternal Yacht | 8 | tempo |
+| Graceful Chaotic Duel Stage | 7 | tempo |
+| Luck Suppression Heavenly Palace | 8 | sorte |
+| Medicine Fragrance | 8 | comida |
+| Myriad Age Building | 7 | tempo |
+| Present and Past Pavilion | 7 | tempo |
+| Star Constellation Chessboard | 8 → 9 | sabedoria |
+| Thieves Den | pico | roubo |
+| Thought Expelling Pavilion | 7 | sabedoria |
+| Winding Light Platform | 7 | luz |
 
 ## 🅲 Camada C — 51 Gu, só nome e descrição
 

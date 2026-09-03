@@ -1070,7 +1070,32 @@ Uma **Casa de Gu Imortal** (Immortal Gu House) não é um Gu — é uma estrutur
 | **Casa de Gelo Profundo** (Profound Ice House) | 6 (incompleta) | Auxilia cultivadores do Caminho do Gelo (**custo de ativação de Gu de Gelo pela metade** dentro dela) e tem uma função de emergência: **cápsula de fuga forçada** — gastando a essência imortal coletiva de todos a bordo de uma vez, arranca os ocupantes de qualquer armadilha, masmorra ou território selado e os deposita fora. | ⬆️ Cápsula de fuga que arranca o grupo de qualquer selo, masmorra ou território fechado · ⬇️ zera a Essência Imortal de todos e, incompleta, 1 em 6 deposita o grupo em lugar aleatório | ⚡Recuo ⚡Cego | **15 UV por dia**. A fuga forçada **esvazia a Essência Imortal de todos os ocupantes até zero** — quem sai, sai desarmado e sem poder ativar nada até recuperar. Sendo incompleta, existe **1 em 6** de a fuga depositar o grupo num lugar aleatório em vez do pretendido. |
 | **Poço do Arrependimento** (Regret Pool) | 8 | Construída em torno do Gu do Arrependimento. **Converte Gu Imortais do caminho demoníaco ao caminho reto**: um alvo mantido dentro dela faz Vontade **CD 34** por dia; três falhas acumuladas e ele muda de lealdade de verdade — não é controle mental, é arrependimento genuíno, e não se desfaz matando a Casa. Prisão sem grades. | ⬆️ Converte inimigos de verdade, sem controle mental e sem grades · ⬇️ a aura pune os carcereiros junto: prender alguém aqui é prender parte da própria facção | ⚡Preso ⚡Cego 🍖Rara | **2 LB por dia por prisioneiro.** **Todos dentro da Casa sofrem a aura do Arrependimento**, incluindo os carcereiros: Vontade CD 32 por rodada ou não podem atacar. Prender alguém aqui é prender parte da própria facção junto. |
 
-**Total: 12 Casas de Gu Imortal** (nenhuma inventada — todas aparecem no romance).
+**Total: 12 Casas de Gu Imortal detalhadas** (nenhuma inventada — todas aparecem no romance).
+
+### Mais treze Casas canônicas, catalogadas por nome e rank
+
+> [!info] Nome, rank e Caminho — e **nenhum efeito inventado**
+> Estas treze aparecem no romance e estavam **perdidas dentro do [[📇 Índice de Gu do Romance — Consulta|Índice do Romance]]**, catalogadas por engano como se fossem Gu comuns (a coluna "Efeito" continha o Caminho, porque a tabela de origem tinha `Casa · Rank · Caminho`). Estão recuperadas aqui.
+>
+> **O que elas dão ao mestre já assim:** o nome, o patamar e a especialidade — o bastante para uma Casa entrar em cena como obstáculo, prêmio ou propriedade de uma facção. **O efeito mecânico não está escrito de propósito:** as doze acima levaram pesquisa de capítulo cada, e inventar treze estruturas de patamar imortal seria acrescentar volume sem acrescentar jogo. Quando uma delas entrar numa campanha de verdade, ela ganha ficha — e o molde de como escrever está logo acima.
+
+| Casa | Rank | Caminho |
+|---|---|---|
+| **Penico** (Chamber Pot) | 7 | Trevas |
+| **Cozinheiro** (Cook) | 7 | Alimentação |
+| **Panela da Sorte Cozida** (Cooking Luck Pot) | 7 → 8 | Sorte |
+| **Comer Fragrância** (Eat Fragrance) | 6 | Alimentação |
+| **Iate Eterno** (Eternal Yacht) | 8 | Tempo |
+| **Palácio Celestial da Supressão da Sorte** (Luck Suppression Heavenly Palace) | 8 | Sorte |
+| **Fragrância Medicinal** (Medicine Fragrance) | 8 | Alimentação |
+| **Edifício das Miríades de Eras** (Myriad Age Building) | 7 | Tempo |
+| **Pavilhão do Presente e do Passado** (Present and Past Pavilion) | 7 | Tempo |
+| **Tabuleiro das Constelações** (Star Constellation Chessboard) | 8 → 9 | Sabedoria |
+| **Covil dos Ladrões** (Thieves Den) | pico | Roubo |
+| **Pavilhão que Expele Pensamento** (Thought Expelling Pavilion) | 7 | Sabedoria |
+| **Plataforma da Luz Sinuosa** (Winding Light Platform) | 7 | Luz |
+
+**Total geral: 25 Casas de Gu Imortal canônicas** — 12 com ficha completa, 13 com nome, rank e Caminho.
 
 ---
 
