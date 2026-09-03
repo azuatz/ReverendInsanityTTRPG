@@ -279,14 +279,14 @@ Um Golpe Matador Coletivo declara Prerrogativa como qualquer outro, **mas na ver
 >
 > **Duas pessoas é a leitura certa desta ferramenta**, não a versão econômica dela.
 >
-> ⚠️ **Os números de preço acima são PROVISÓRIOS.** A rodada que os mediu rodou com um defeito de motor que deixava **três dos quatro PJs sem os Níveis de Potência das fichas deles** — ou seja, mediu um grupo mais fraco que o real, o que infla o valor aparente de qualquer ferramenta de grupo. **O achado estrutural sobrevive intacto** (o de quatro exige quatro pessoas de pé numa cena em que alguém quase sempre já caiu, e isso não depende de dado nenhum); **as trocas de captura por sobrevivência é que serão remedidas.**
+> ✅ **Remedidos na vigésima quinta rodada (decisão 298).** A rodada original chamou o motor sem declarar a escada de Níveis das fichas, e três dos quatro PJs rodaram sem ela — o próprio motor comenta esse estado como *"é o bug"*. Refeita com paridade ordinária, mesma seed e mesmo N, a correção é **sistemática e sempre na mesma direção: o Coletivo parecia de 2 a 10 pontos percentuais melhor do que é.** Os números desta seção já são os corrigidos.
 
 Essa é a peça que faz um grupo pequeno parecer maior que a soma das partes — e a razão mecânica pela qual vale a pena o inimigo separar o grupo antes de lutar. Um mestre que entende isso constrói encontros em torno disso.
 
 > [!warning] "Golpe de desespero" descreve as versões grandes — não o de dois
 > O rótulo antigo valia para o Coletivo inteiro, e a medição o separou em dois casos que não se parecem.
 >
-> **O de dois é ferramenta tática, e boa.** Compra de **+26 a +30 pontos percentuais** *(provisório — ver o aviso acima)* de captura na cena que ele existe para resolver, por cerca de meio ponto de sobrevivência cada. Não é jogada de desespero: é o que se faz quando alguém não pode sair dali.
+> **O de dois é ferramenta tática, e boa.** Compra de **+20 a +24 pontos percentuais** de captura na cena que ele existe para resolver, por cerca de meio ponto de sobrevivência cada. **Com uma segunda tentativa na mesma cena, sobe para +26 a +30** — e é essa a leitura de quem monta a cena inteira em torno de não deixar o alvo sair. Não é jogada de desespero: é o que se faz quando alguém não pode sair dali. Não é jogada de desespero: é o que se faz quando alguém não pode sair dali.
 >
 > **O de três e o de quatro é que são desespero — e por razões diferentes entre si.** Em dano, o Coletivo entrega de **0,52× a 0,58×** do que os mesmos participantes fariam atacando normalmente, e **perde para o combo solo do mesmo núcleo**: concentrar os apoios num personagem rende mais que espalhar a jogada. O de três ainda é **o mais letal para o próprio grupo** de todas as configurações medidas (+18 a +21pp de aniquilação total). E contra dois Elites, montar com três ou quatro **captura menos que não fazer nada** — as ações gastas atrasam o abate que já ia acontecer e empurram o alvo para o limiar de fuga.
 >
