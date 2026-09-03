@@ -61,26 +61,27 @@ Cada **Descarga** usada na mesma cena cobra, no fim do golpe: **`1 × M` de Vita
 > [!info] 👻 Fantasma de Fera — o que separa sorte de garantia *(📕 canônico, cap. 280-281 — o fenômeno natural — e 285-286 — o Gu que o garante)*
 > O romance descreve cultivadores talentosos do Caminho da Força manifestando, de vez em quando, o **fantasma da fera** cuja força o Gu carrega — um lampejo da criatura por cima do golpe, liberando o poder pleno do Gu em vez do poder sempre diluído de um corpo humano. É raro, chega sem aviso, e só num estilo de golpe bem específico — o que também o torna fácil de prever e desviar quando um observador já viu acontecer uma vez.
 >
-> **O gatilho não é o rank — é a densidade, e o resto é sorte.** O fantasma de fera **é** a sua Marca de Dao de força física, escondida na carne e visível só quando transborda. Ela transborda quando você acumulou muita força **da mesma fera**, e não transborda nunca quando a sua força vem de bichos diferentes: o poder está lá, só não está junto o bastante pra tomar forma.
+> **O gatilho é o ESTILO DO GOLPE, e a densidade só mexe na chance.** O fantasma de fera **é** a sua Marca de Dao de força física, escondida na carne e visível só quando transborda — mas ela não transborda de qualquer jeito: **cada fera tem o movimento dela**, e o fantasma só aparece no golpe que imita esse movimento. Urso no tapa de palma aberta, javali na investida, crocodilo na mordida, cavalo na corrida. Quem carrega força de javali e crocodilo **não tira fantasma nenhum de um soco**, por mais forte que soque.
 >
-> **Mecânica.** Sempre que você pagar uma **Descarga** (5 de Ímpeto), role `1d6` à parte. A chance depende de quantos **Gu de Corpo assentados emprestam a força de uma mesma espécie**:
+> **Mecânica.** Ao pagar uma **Descarga** (5 de Ímpeto), primeiro pergunte: **o golpe está no estilo de alguma fera cuja força você carrega?** Se não estiver, não role — não sai. Se estiver, role `1d6`, e a chance depende de quantos Gu de Corpo assentados pertencem à **mesma família de lei** daquela fera:
 
-| Gu de Corpo da mesma fera | O Fantasma sai em |
+| Gu da mesma família de lei | O Fantasma sai em |
 |---|---|
-| Nenhuma espécie repetida | **nunca** — a força está dispersa demais |
-| **2** | **1** |
-| **3** | **1–2** |
-| **4 ou mais** | **1–3** |
+| **1** *(só a fera do golpe)* | **1** |
+| **2** | **1–2** |
+| **3 ou mais** | **1–3** |
 
-> **O que conta como "outro Gu da mesma fera":** contam **linhagens diferentes** do mesmo animal, não degraus da mesma linhagem. O Gu do Tendão do Crocodilo e o Gu de Força de Crocodilo Maior são dois — tendão e músculo, duas remodelagens separadas do mesmo bicho. Já a Força do Crocodilo (rank 2) e o Crocodilo Maior (rank 3) são **a mesma linhagem** e não convivem no mesmo corpo ([[📖 Catálogo de Gu|Catálogo]]), então nunca contam dois. Subir de rank não enche esta tabela: **colecionar partes diferentes da mesma fera enche**.
+> **Família de lei, não cópia — e a diferença decide a build.** 📕 A obra é literal nos dois lados. Vários Gu **parecidos mas diferentes** ressoam entre si e *"greatly raised the probability"* do fantasma (cap. 319: três Gu distintos, todos de dragão). Já **duas cópias da mesma coisa são desperdício declarado**: *"the strength of two boars would be redundant and repetitive"* (cap. 297) — o segundo javali soma força bruta e **não soma fantasma nenhum**.
 >
-> Quando sai: o golpe ganha **+2 Níveis de Potência** além dos da própria Descarga, mas fica previsível — **−2 no teste de acerto** deste golpe específico. **Não custa essência nenhuma** e não exige Gu de amplificação ativo: a Marca já estava no corpo, ela só apareceu.
+> **Na prática, isto inverte o que a versão anterior desta regra premiava.** Ela mandava empilhar três Gu do mesmo bicho, que é exatamente a compra que a obra chama de desperdício. Agora o que enche a tabela é **colecionar a mesma lei em formas diferentes** — tendão, músculo, osso, sangue do mesmo tema —, e o que abre a porta é **lutar do jeito daquele bicho**.
 >
-> **Não existe piso de rank.** Um rank 2 no estágio de Pico que empilhou três Gu do mesmo animal tira o fantasma com regularidade; um rank 4 com a força vinda de quatro bichos diferentes não tira nenhum. É a única mecânica do sistema em que **especializar-se dentro do próprio Caminho** tem efeito mecânico direto, e é exatamente assim no romance.
+> Quando sai: o golpe ganha **+2 Níveis de Potência** além dos da própria Descarga, mas fica previsível — **−2 no teste de acerto** deste golpe. **Não custa essência** e não exige Gu de amplificação ativo: a Marca já estava no corpo, ela só apareceu. 📕 A obra registra o mesmo defeito: *"the attack method is very rigid (…) it is easy to evade."*
+>
+> **Não existe piso de rank, e força de bichos diferentes NÃO impede nada** — esta era a segunda metade do erro anterior. Um cultivador com força de dois javalis e um crocodilo tira fantasma normalmente (cap. 281); o que ele não consegue é tirar **fantasma de urso**, porque não tem a força do urso. **Ter várias feras não dispersa o poder: dá várias portas, cada uma com a sua chave de estilo.**
 >
 > **O contraste que a obra faz questão de marcar:** o [[📖 Catálogo de Gu#Rank 3 — M = 4\|Gu do Empenho Total]] invoca o fantasma **sempre**, sem rolar nada, e ainda por cima o controla. A imagem que o próprio romance usa: as Marcas acumuladas são um pote d'água, e o Gu é um cano de bambu que se abre à vontade. Sem o cano, a água continua lá — e transborda por sorte.
 >
-> *(Regra reescrita pela decisão 219: a versão anterior travava o efeito em "rank 3+ com Gu de amplificação ativo", o que a fonte primária refuta em dois pontos. Impacto na letalidade média não medido isoladamente — a nova versão pode disparar mais em fichas especializadas e menos em fichas dispersas.)*
+> *(Esta regra foi reescrita duas vezes, e as duas por refutação na fonte primária. A **decisão 219** tirou a trava de "rank 3+ com Gu de amplificação ativo". A **decisão 299** trocou o eixo inteiro: o gatilho deixou de ser contagem de cópias do mesmo bicho e passou a ser o **estilo do golpe**, e a negativa absoluta "força de bichos diferentes nunca transborda" foi removida — a obra a desmente no próprio capítulo que este callout cita. Impacto na letalidade média não medido isoladamente.)*
 >
 > **O [[📖 Catálogo de Gu#Rank 3 — M = 4|Gu do Empenho Total]]** — um Gu quase extinto, que no romance aparece como achado de acaso — é a versão **garantida** disto: todo cultivador de Força comum depende da sorte do 1d6, ele não.
 
