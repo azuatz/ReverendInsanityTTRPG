@@ -111,3 +111,31 @@ O [[📜 Livro de Receitas de Gu]] está cheio de receitas com condição especi
 | **Qualquer Gu de Corpo** | Órgão de fera específica + cirurgião-refinador | Duas sessões numa: a caçada do órgão, e o preço do cirurgião ([[🤝 O Débito]]) |
 
 **A regra geral:** quando um jogador pedir um Gu, abra o Livro de Receitas antes de responder. Se a receita tem 🔨 (Proibida, Sazonal, Local, Instável) ou material raro, **não entregue — cobre a condição**. A sessão se escreve sozinha, e o Gu ganho assim vale dez comprados.
+
+---
+
+## 🔒 O cardápio de travas — por que os poderosos não resolvem isso
+
+**É a pergunta que mais trava um mestre novo neste cenário:** *se existem Imortais de rank 8 no mundo, por que este problema é dos meus jogadores de rank 3?*
+
+Neste mundo a resposta **não é conveniência narrativa** — são restrições reais, e o romance as usa o tempo todo. Escolha uma antes de montar o arco e a pergunta nunca aparece na mesa. **Nenhuma delas é mecânica nova:** são razões de ficção que você declara.
+
+| # | A trava | Como se usa numa sessão |
+|---|---|---|
+| 1 | **Ser fraco é a credencial de entrada** | A aura de um Imortal provoca as feras mais perigosas do lugar; a de um mortal, não. Os poderosos **mandam mortais na frente e esperam do lado de fora** — que é literalmente a premissa de uma expedição de jogadores |
+| 2 | **A zona que destrói quem é grande demais** | Quanto mais fundo um Imortal entra, mais fraco fica, até a Fenda dele rachar. No romance isso produziu uma guerra de cem dias travada **só por mortais**, com dezenas de Imortais parados longe, apostando de fora |
+| 3 | **A supressão dentro da herança** | Heranças remodelam o interior para nivelar quem entra: uma admite **um único Gu de rank 1 e nada mais**; outra sela todos os Gu, inclusive os de movimento, e obriga a subir com o corpo |
+| 4 | **O lugar onde nada funciona** | Domínio em que nenhum Gu ativa e nenhuma Abertura abre. A briga vira corpo a corpo, e ali **um rank 6 segura um rank 8** |
+| 5 | **A proibição institucional** | Um dos maiores terrenos de herança do mundo **proíbe Imortais de entrar** — e é por isso que as heranças dele sobreviveram intactas por milênios |
+| 6 | **O espírito da terra que se autodestrói** | Ninguém toma uma Terra Abençoada à força, porque o espírito dela pode se matar levando tudo junto. Por isso as grandes seitas mandam **discípulos jovens** em vez de irem elas mesmas ([[🧿 Espíritos da Terra]]) |
+| 7 | **O contrato entre os poderosos** | Quando os fortes não podem entrar, eles **apostam**: cada um arrisca bens, e a aposta define **de que rank pode ser o seu peão e quando ele entra**. Trapaça custa confisco. Isto vira uma campanha inteira: os PJs são as peças de um jogo de gente enorme |
+| 8 | **A trégua obrigatória** | Em certos eventos, a única regra absoluta é não lutar — e quebrá-la custa mais que o prêmio |
+| 9 | **A Muralha Regional** | O problema está do outro lado do mundo, e atravessar **fere permanentemente** quem tem fundação grande. O rank 8 que resolveria isso **não chega até aqui** ([[🗺️ Supressão Regional]]) |
+| 10 | **O relógio** | O poderoso tem uma Calamidade marcada no calendário e **não pode gastar recurso agora** ([[🌩️ Calamidades e Provações]]) |
+| 11 | **A vigilância mútua** | Se ele agir, três rivais agem. O equilíbrio entre potências prende todo mundo, e quem se mexe primeiro perde |
+| 12 | **O preço não compensa** | O problema dos jogadores é grande para eles e **pequeno para ele**. Um Imortal que gastasse essência nisso ficaria mais pobre do que o ganho — e essência, no ato imortal, **não se empresta nem se compra** ([[💠 Economia das Pedras Primordiais]]) |
+
+> [!tip] Como usar isto na prática
+> **Escolha a trava antes de escrever o arco, não depois.** Ela define o formato da campanha inteira: a trava 1 produz expedição, a 7 produz torneio, a 9 produz exílio, a 11 produz intriga. Um arco com a trava escolhida no começo **não precisa de desculpa nenhuma** no meio.
+>
+> **E diga a trava aos jogadores.** Ela não é segredo de mestre: é a regra do mundo, e saber dela é o que faz o grupo se sentir peça de um tabuleiro grande em vez de protagonista por acaso.
