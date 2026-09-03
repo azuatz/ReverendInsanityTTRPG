@@ -219,7 +219,14 @@ Cada grau vale **100 do grau abaixo**, e a conversão é o motor da economia imo
 
 > *Nota de tradução: no romance o termo é **"red date"**, que a referência canônica do vault registra como **Tâmara Vermelha** ("red jujube" não aparece na obra). Alguns resumos traduzem como "lótus vermelha". É tudo a mesma essência de rank 7 — o vault padronizou **Jujuba Vermelha** por convenção interna, não por canonicidade.*
 
-**Você produz apenas a essência do seu rank.** Um Imortal de rank 6 gera Uva Verde e mais nada; se ele quiser Jujuba, tem que comprar, roubar ou receber.
+**Você produz apenas a essência do seu rank.** Um Imortal de rank 6 gera Uva Verde e mais nada. **Se ele quiser Tâmara Vermelha, tem que subir de rank** — não existe comprar.
+
+> [!important] 📕 Essência imortal é **pessoal e intransferível**, e isso muda a economia inteira
+> **A essência carrega a vontade de quem a produziu**, e por isso não serve a mais ninguém. A obra é literal nos dois enunciados: *"Gu Immortals were also unable to use the immortal essence of others"* (cap. 638) e *"Immortal essence contained the Gu Immortal's will and had to belong to themselves"* (cap. 1625).
+>
+> **O que circula é a Pedra, não a conta.** A **Pedra de Essência Imortal** é moeda neutra e passa de mão em mão; a **conta** que sai do seu próprio núcleo de origem já nasce vinculada a você. Quem compra pedras **converte na essência do próprio rank** — nunca na de um rank acima. Ver [[💠 Economia das Pedras Primordiais]].
+>
+> **Na mesa isso significa:** ninguém socorre ninguém com essência. Cada Imortal tem a própria torneira e o próprio tanque, e é isso que faz cada ativação doer. **E tomar a essência do inimigo continua sendo uma das jogadas mais fortes do jogo** — não como saque, e sim como **desarmamento**: você não pode usá-la, mas ele também não.
 
 ### Ativar um Gu Imortal acima do seu rank
 

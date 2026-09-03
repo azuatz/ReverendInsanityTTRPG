@@ -68,6 +68,7 @@ Acumule 3 sucessos — UMA falha destrói o Gu
 - **O espólio de um Imortal derrotado é valioso e inútil ao mesmo tempo.** Ele vale uma fortuna para quem puder refiná-lo — e não vale nada na mão de quem o matou.
 - **Vender é frequentemente melhor que usar.** Um Gu Imortal inerte tem mercado: existe alguém do Caminho da Sabedoria disposto a pagar. Isso cria negociação em vez de loot.
 - **Gu selvagens não têm este problema.** Um Gu Imortal nunca refinado por ninguém não carrega vontade nenhuma, e refina pelas regras normais. É por isso que caçar Gu selvagem vale um arco inteiro, e saquear um cadáver não.
+- **As contas de essência dele NÃO entram no espólio utilizável.** Essência imortal carrega a vontade de quem a produziu e **não serve a mais ninguém** ([[💠 Economia das Pedras Primordiais]]) — na sua mão é objeto inerte. **Mas tomá-las é o golpe mais duro que se pode dar num Imortal**, e a obra usa isso como tática: você não ganha nada, e **ele perde tudo**. É desarmamento, não saque, e é a única forma de espólio que vale a pena mesmo sabendo que não se pode usar.
 - **Matar um Imortal continua valendo muito** — cadáver, território, Terra Abençoada, prestígio, o que ele carregava que não fosse Gu Imortal. Só não vale os brinquedos dele.
 
 > [!info] Procedência desta regra

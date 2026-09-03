@@ -31,7 +31,27 @@ Uma Pedra Primordial, quando usada, vira Verdadeira Essência que reabastece a A
 
 ## Pedra de Essência Imortal
 
-Moeda de nível Imortal. Uma Pedra de Essência Imortal equivale a uma unidade de Essência Imortal de Uva Verde (a essência de rank 6). A conversão sobe junto com o rank da essência: 100 Uvas Verdes = 1 Jujuba Vermelha (rank 7), 100 Jujubas = 1 Lichia Branca (rank 8) — que já vale **1 milhão** de Pedras Primordiais comuns —, e uma única Damasco Amarelo (rank 9) vale **~100 milhões**. Um Imortal de rank 6 típico guarda algumas centenas de Pedras Imortais; um de rank 7, milhares a dezenas de milhares; rank 8, dezenas a centenas de milhares — a escala de riqueza salta ordens de grandeza a cada rank, igual à escala de poder.
+Moeda de nível Imortal. Uma Pedra de Essência Imortal equivale a uma unidade de Essência Imortal de Uva Verde (a essência de rank 6).
+
+> [!important] 📕 A Pedra circula. A **conta** de essência, não.
+> São duas coisas diferentes, e confundi-las desmonta a economia da fase imortal:
+>
+> | Forma | Quem produz | Passa de mão? | O que se faz com ela |
+> |---|---|---|---|
+> | **Conta de essência** *(Uva Verde · Tâmara Vermelha · Lichia Branca · Damasco Amarelo)* | O **núcleo de origem** da sua própria Abertura Imortal | **A posse, sim. O uso, não.** | **Só o dono queima.** Na mão de outro Imortal é objeto inerte |
+> | **Pedra de Essência Imortal** | **Só o Tribunal Celestial** — não há fonte natural | **Sim, inteiramente.** É a moeda | Qualquer Imortal converte **na essência do próprio rank** |
+>
+> **Por que:** a essência é feita da vontade de quem a produziu (cap. 1625, e o cap. 666 diz que a conta *"can only be used by an individual"*). **A conversão é sempre para o próprio rank** — um rank 6 que compra o mundo inteiro em pedras continua produzindo Uva Verde.
+>
+> **E o monopólio é o gancho de campanha.** Se só o Tribunal Celestial produz Pedras, **a única moeda transferível do mundo é política, não natural** — quem controla a emissão controla toda troca entre Imortais.
+
+> [!note] As quatro exceções — e são só estas quatro
+> Todas pela mesma lógica: **a vontade do dono continua junto**.
+>
+> 1. **Espírito da Terra ou espírito celestial do falecido.** O espírito é feito da obsessão do morto, então a vontade dele ainda está ali — e só ele consegue usar a essência que sobrou na Terra Abençoada (cap. 638).
+> 2. **Casa de Gu Imortal.** Absorve essência de **qualquer** fonte, e a obra trata isso como a **característica fundamental da categoria**, não como excentricidade de um exemplar: *"Immortal Gu Houses could absorb immortal essence of others"* (cap. 971). **É o único ralo por onde a essência de um Imortal financia o esforço de outro** — e, portanto, a única razão mecânica para um grupo de Imortais agir junto. Ver [[🔷 Formações de Gu]].
+> 3. **Essência entregue junto com um fragmento da vontade do dono.** Não é exceção à regra, é a regra: a vontade veio junto (cap. 943).
+> 4. **Possessão do corpo.** Você não recebe a essência — passa a ocupar a fábrica (cap. 789). A conversão sobe junto com o rank da essência: 100 Uvas Verdes = 1 Jujuba Vermelha (rank 7), 100 Jujubas = 1 Lichia Branca (rank 8) — que já vale **1 milhão** de Pedras Primordiais comuns —, e uma única Damasco Amarelo (rank 9) vale **~100 milhões**. Um Imortal de rank 6 típico guarda algumas centenas de Pedras Imortais; um de rank 7, milhares a dezenas de milhares; rank 8, dezenas a centenas de milhares — a escala de riqueza salta ordens de grandeza a cada rank, igual à escala de poder.
 
 ## Fontes de recurso
 
