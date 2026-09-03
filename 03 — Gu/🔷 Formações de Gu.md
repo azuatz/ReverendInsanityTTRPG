@@ -291,3 +291,25 @@ Símbolo de grande potência: *"toda super-facção possui uma."* Muda em três 
 - **Manobra de aríete**, exclusiva do rank 6+: a estação de Movimento pode arremessar a Casa inteira contra um alvo — dano `Vitalidade da Casa ÷ 10` (arredondado pra baixo) em vez do ataque normal daquela rodada, ignorando RD do alvo se ele for menor que a Casa.
 
 Tudo o mais (como se deriva, como se aborda, como se cria) segue igual à versão mortal — só a escala e as cinco estações mudam.
+
+---
+
+## 📕 A Casa é o único lugar do mundo onde a essência de vários Imortais vira uma coisa só
+
+Este é o corolário que fecha o circuito aberto pela regra de que **essência imortal é pessoal e intransferível** ([[💠 Economia das Pedras Primordiais]]). Ninguém empresta combustível a ninguém — **exceto aqui**.
+
+> [!important] A Casa absorve essência de **qualquer** origem, e a obra trata isso como a definição da categoria
+> 📕 *"Immortal Gu Houses could absorb immortal essence of others"* — e a razão de existirem é **integrar o poder de um grupo de imortais em um só**.
+>
+> **Isso dá à Casa o papel que nada mais no sistema ocupa: ela é a única razão mecânica para um grupo de Imortais agir junto.** Fora dela, cada um queima do próprio tanque e ninguém socorre ninguém.
+>
+> **E dá destino ao espólio que não tem uso.** As contas de essência tomadas de um Imortal morto são inertes na mão de qualquer personagem ([[⛓️ Espólio de Gu Imortal]]) — **dentro de uma Casa, são combustível.** É o único destino que elas têm no mundo inteiro.
+
+**A trava, e ela existe para o saque não virar abastecimento.** A Casa queima essência de terceiros até um **teto por cena**: até `2 × rank da Casa` em contas por cena de combate. O excedente fica guardado no reservatório e serve nas cenas seguintes, mas **nunca numa só**. Sem esse teto, um grupo que caça Imortais nunca mais fica sem gasolina — e o ponto de a essência ser pessoal era justamente que combustível é escasso.
+
+> [!note] Três detalhes canônicos que valem a pena
+> **O combustível de uma Casa se conta em contas, não em porcentagem** — e isso é uma barra pronta para a mesa. 📕 Um Pavilhão de rank 7 foi deixado com **vinte contas**; anos de operação depois **restavam cinco**, e a dona diz que com isso não vira batalha nenhuma. **Uma Casa herdada vem com um número de contas, e esse número é o relógio do arco.**
+>
+> **O livro-caixa embutido é canônico** — a Casa registra quanta essência cada um pôs dentro. Esta nota já tinha a regra e agora tem a procedência: é a peça que transforma cooperação entre Imortais em contabilidade, e contabilidade em intriga.
+>
+> **Nem toda Casa tem Gu de Permanência.** 📕 Existe uma classe cujo núcleo são **golpes matadores imortais** em vez de um Gu central — *"the essence of an Immortal Gu House was immortal killer moves"*. Para essas, a regra de "matar o Gu de Permanência apaga a Casa" **não vale**, e é exatamente o que o mestre quer quando precisa de uma Casa que não caia num tiro certeiro.
