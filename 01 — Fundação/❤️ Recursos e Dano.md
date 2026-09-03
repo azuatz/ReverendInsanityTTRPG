@@ -128,6 +128,9 @@ Gu de cura rola pool, igual a dano — mesmo M (ver [[⚔️ Combate|Combate]]):
 
 ```
 Cura = M d8   (M = rank do Gu de cura)
+
+Ferimento causado por golpe IMORTAL não é curado por Gu MORTAL,
+por mais que se role — a marca no ferimento é de outro patamar.
 ```
 
 O d8 é o padrão (decisão 14 do [[🧭 Log de Decisões]] — cerca de 25% da barra por ativação). Gu de cura excepcionais usam d10 ou d12; está na ficha de cada um no [[📖 Catálogo de Gu|Catálogo de Gu]].

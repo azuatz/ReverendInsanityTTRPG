@@ -117,3 +117,25 @@ Certos Gu de rank alto **cobram anos como custo de operação**, não como opç�
 - **Um Gu de Longevidade na mão do grupo é gancho automático** — alguém vai querer, e esse alguém é mais forte que eles.
 - **Quando um jogador considerar um desvio**, mostre a tabela inteira antes. A escolha entre morrer aos 100 e virar um zumbi que nunca mais cultiva é uma das melhores decisões que este jogo oferece — e ela só funciona se o jogador entender os dois lados.
 - No topo do mundo, um dos bloqueios que travam até um Venerável é ligado a Longevidade. **O problema nunca deixa de ser tempo.**
+
+---
+
+## 📕 A escada também desce — vocabulário de mestre, não regra de jogador
+
+> [!warning] Isto vale para **NPCs**. Não aplique aos personagens dos jogadores
+> A obra é impiedosa aqui porque é um romance sobre **uma pessoa**. Uma mesa tem quatro, e uma delas seria a azarada do calendário. **Como regra de ficha, isto pune sem dar escolha** — e o sistema já cobra caro pela Aptidão que se rola uma vez e não muda mais.
+>
+> **Como vocabulário de mestre, é ouro:** explica de onde vêm metade dos NPCs interessantes deste mundo, e o mestre que nunca leu a obra não teria como inventar.
+
+Neste mundo, cultivo **não é só uma escada de subida**. Três coisas fazem alguém descer, e todas produzem personagens:
+
+**A idade derruba o rank.** Um cultivador velho perde fundação — não por doença, por desgaste. O **ancião decaído** é o arquétipo: já foi rank 5, hoje opera como rank 3, e sabe tudo o que um rank 5 sabe. É o mentor perigoso, o conselheiro amargo, o inimigo que ainda tem os contatos e já não tem os Gu.
+
+**Atalhos empilhados se sobrescrevem.** Quem furou o próprio teto por vários métodos heaven-defying descobre que eles **brigam entre si** — o segundo desfaz parte do primeiro. É a razão canônica de a nota inteira acima cobrar exclusividade entre desvios: o mundo já cobra, e o sistema só copiou.
+
+**A Aptidão cai.** O gênio que trocou potencial por poder imediato existe, e é o NPC mais trágico que este cenário produz: ele **chegou mais alto e mais cedo do que qualquer um da geração dele**, e vai parar antes de todos.
+
+> [!tip] Como usar sem virar regra
+> Estes três não pedem trilho na ficha nem teste. Eles respondem à pergunta *"por que este velho poderoso está disponível para ajudar os jogadores?"* — e a resposta *"porque ele não é mais tão poderoso, e sabe disso"* vale mais que qualquer estatística.
+>
+> **Se a sua mesa quiser jogar com isso**, declare na sessão zero como regra opcional e válida para todos, nunca no meio da campanha para um só.

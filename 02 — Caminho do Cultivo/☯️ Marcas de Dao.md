@@ -132,10 +132,26 @@ Domínio só sobe quando o personagem entende alguma coisa.
 |---|---|
 | **Vislumbre** | Nada além do básico. Você usa o Caminho; ele ainda não é seu |
 | **Pequeno Feito** | **Improviso simples:** pode usar um Gu **do seu Caminho** que nunca refinou, se tiver ele em mãos — teste de AST CD 18. Falha custa o Gu.<br>**Refina Gu Imortal de rank 6** do seu Caminho |
-| **Mestre** | **Simulação de Marca:** 1×/cena, você replica o efeito de um Gu do seu Caminho de rank ≤ seu **sem ter o Gu**, gastando o dobro da essência. Dura 1 rodada.<br>**Criação acelerada:** montar um Golpe Matador novo leva metade do tempo.<br>**Refina Gu Imortal de rank 7** |
+| **Mestre** 📕 | **Simulação de Marca:** 1×/cena, você replica o efeito de um Gu do seu Caminho de rank ≤ seu **sem ter o Gu**, gastando o dobro da essência. Dura 1 rodada.<br>**Criação acelerada:** montar um Golpe Matador novo leva metade do tempo.<br>**Refina Gu Imortal de rank 7** |
 | **Grão-Mestre** | **Improviso cruzado:** pode usar Gu de **outro** Caminho sem tê-lo refinado — AST CD 22, e o Gu tem chance de morrer. É como um Grão-Mestre pega o arsenal de um inimigo morto e usa contra os aliados dele na mesma cena.<br>**Refina Gu Imortal de rank 8.**<br>Pode **anexar** Terra Abençoada alheia (ver [[🗝️ Terra Abençoada\|Terra Abençoada]]) |
 | **Quase-Supremo** | **Marca emprestada:** você imprime temporariamente Marcas do seu Caminho num **aliado** por uma cena — ele opera com metade do seu nível de domínio. Custa 1 Ferimento e 500 Marcas, que voltam num mês |
 | **Grande Mestre Supremo** | **Autoria:** você pode **criar um Gu novo** do seu Caminho que não existia no mundo, através de Dedução e refino. É assim que Caminhos crescem, e é por isso que só Veneráveis fundam escolas |
+
+> [!important] 📕 **Sentido do Caminho** — o que a contagem dá sozinha, sem Gu e sem custo
+> Além das capacidades da tabela acima, que vêm do **Domínio**, a própria **contagem de Marcas** concede uma faculdade passiva. Ao cruzar o **topo da faixa do seu rank** num Caminho, o Imortal ganha um sentido permanente daquele Caminho — **sempre ligado, sem ativar nada, sem gastar nada**.
+>
+> **Os quatro que a obra nomeia:**
+>
+> | Caminho | O sentido que a contagem concede |
+> |---|---|
+> | **Sabedoria** | A capacidade de dedução fica muito forte **mesmo sem usar Gu nenhum** |
+> | **Sorte** | Percebe a própria sorte e a das pessoas em volta |
+> | **Refino** | Sente a qualidade e a compatibilidade de um material ao tocá-lo |
+> | **Fogo** | Lê temperatura, combustão e o ponto de ignição de qualquer coisa à vista |
+>
+> **Para os outros Caminhos, o mestre escolhe o equivalente** — e a régua é sempre a mesma: **é percepção, nunca poder de combate.** Um sentido do Caminho da Lua lê a fase e a maré sem olhar o céu; um do Caminho do Sangue sente ferimento e parentesco a poucos metros. Se a faculdade que você pensou soma dano, ela não é isto.
+>
+> **Por que é passivo e de graça:** é a mesma ideia que a **Simulação de Marca** e o **Improviso cruzado** já entregam na versão ativa e balanceada — *a partir de Mestre, o personagem para de depender do que carrega*. O Sentido é a metade que não custa nada porque não faz nada: ela só **sabe**.
 
 **A leitura de mesa:** a partir de Mestre, o personagem para de depender do que carrega. Um Grão-Mestre do Caminho da Lua num campo de batalha **não precisa dos Gu dele** pra ser perigoso — ele improvisa com o que estiver caído no chão. É a diferença entre ter ferramentas e ser a oficina.
 
