@@ -69,6 +69,20 @@ Acumule 3 sucessos — UMA falha destrói o Gu
 - **Vender é frequentemente melhor que usar.** Um Gu Imortal inerte tem mercado: existe alguém do Caminho da Sabedoria disposto a pagar. Isso cria negociação em vez de loot.
 - **Gu selvagens não têm este problema.** Um Gu Imortal nunca refinado por ninguém não carrega vontade nenhuma, e refina pelas regras normais. É por isso que caçar Gu selvagem vale um arco inteiro, e saquear um cadáver não.
 - **As contas de essência dele NÃO entram no espólio utilizável.** Essência imortal carrega a vontade de quem a produziu e **não serve a mais ninguém** ([[💠 Economia das Pedras Primordiais]]) — na sua mão é objeto inerte. **Mas tomá-las é o golpe mais duro que se pode dar num Imortal**, e a obra usa isso como tática: você não ganha nada, e **ele perde tudo**. É desarmamento, não saque, e é a única forma de espólio que vale a pena mesmo sabendo que não se pode usar.
+> [!important] 📕 Prisioneiro vale mais que cadáver — e o incentivo da mesa hoje aponta para matar
+> A obra é explícita nisso, e o sistema não estava dizendo. **Quatro coisas que um vivo rende e um morto não:**
+>
+> | O que se tira de um prisioneiro | O que o cadáver dá |
+> |---|---|
+> | **Memória** — o que ele sabe, e onde guardou o resto | nada |
+> | **Trabalho** — um Imortal capturado é força de trabalho, e a obra usa isso sem cerimônia | nada |
+> | **Resgate** — alguém paga por ele, e quem paga se expõe | nada |
+> | **Moeda de troca** — trocar um refém pelo aliado que a outra facção capturou | nada |
+>
+> **E o que ele leva junto do próprio arsenal:** o dono **vivo** de um Gu Imortal tomado **sente onde ele está, sempre e sem teste** (regra desta nota). Um prisioneiro é, ao mesmo tempo, o único jeito de tomar Gu e o motivo de a posse nunca ser tranquila. **Matar resolve isso e joga fora tudo o mais.**
+>
+> **A leitura de mesa:** se o grupo mata todo mundo, é porque matar é a jogada mais barata — e ela é. Esta caixa existe para o mestre lembrar de **oferecer a rendição** antes do último golpe, porque a decisão só é interessante quando alguém a coloca na mesa.
+
 - **Matar um Imortal continua valendo muito** — cadáver, território, Terra Abençoada, prestígio, o que ele carregava que não fosse Gu Imortal. Só não vale os brinquedos dele.
 
 > [!info] Procedência desta regra

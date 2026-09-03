@@ -414,3 +414,11 @@ Um Imortal não se descreve só pelo rank. Declare **rank + nível de domínio n
 > fuga, negociação, ou um Golpe Matador com a Brecha já descoberta (ver
 > [[🏃 Fuga e Perseguição]] e [[⚡ Golpes Matadores|a Brecha]]). Nunca ponha um
 > duplo-gênio como oponente padrão de uma cena Difícil ou Clímax comum.
+
+
+> [!note] Por que este Grimório para no rank 6 — e isso é decisão, não lacuna
+> Dos **ranks 7 a 9** o sistema oferece a **matriz de diferencial de domínio** e o **molde por `M`**, que escalam sozinhos, e **não oferece exemplos prontos**. É deliberado.
+>
+> **A razão é que nesse patamar o confronto não se resolve por ficha.** Um Imortal de rank 8 contra um grupo não é um encontro de combate: é uma situação política, e ela se resolve por **trava, terreno e relógio** — ver o [[🎬 Como Criar Suas Sessões#🔒 O cardápio de travas — por que os poderosos não resolvem isso|cardápio de travas]], as [[🗺️ Supressão Regional|Muralhas Regionais]] e a [[🌩️ Calamidades e Provações|Calamidade marcada no calendário dele]]. Escrever fichas de rank 7 a 9 daria ao mestre a impressão errada de que aquilo é para ser rolado.
+>
+> **Se você precisar mesmo de números nesse patamar:** pegue qualquer molde acima, aplique o `M` do rank e some o diferencial de domínio. É o que uma ficha pronta faria, e ela não saberia nada que você não saiba.
