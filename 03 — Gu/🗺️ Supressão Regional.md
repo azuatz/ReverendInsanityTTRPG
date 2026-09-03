@@ -14,7 +14,7 @@ escopo: sistema
 **O "um rank abaixo" é regra do mundo, 📕 canônica** (decisão 35), e resolve sozinha um problema que todo sistema de coleta tem: o que impedir o grupo de voltar de uma expedição distante com um arsenal que quebra a curva da campanha.
 
 > [!info] O que é cânone e o que é nosso
-> Só a queda de **um rank** vem do romance. As duas extensões abaixo — **Gu de rank 1 pararem de funcionar** e o **procedimento de reancoragem** (reclusão + pedras) — são **✍️ adaptação autoral** deste sistema. Elas ficam como regra porque são úteis na mesa, mas não invoque "é assim no cânone" para defendê-las: se a sua mesa quiser mexer nelas, pode.
+> **A queda de um rank é canônica, e a reancoragem também é** — o cap. 477 dá as duas vias de desfazer a supressão, e este vault as marcava como invenção própria por engano. **Corrigido:** reancorar **refinando o Gu na região de destino** é 📕 canônico e literal; reancorar por **reclusão + pedras** é 🔧 adaptado (a obra tem o efeito — adaptação por permanência — e o sistema comprimiu o prazo). A única extensão que continua **✍️ autoral** é *Gu de rank 1 pararem de funcionar*. Ver decisão 298. O texto original deste sistema. Elas ficam como regra porque são úteis na mesa, mas não invoque "é assim no cânone" para defendê-las: se a sua mesa quiser mexer nelas, pode.
 
 ---
 
@@ -26,16 +26,29 @@ Fora da sua região de refino:
   e Gu de rank 1 simplesmente não funcionam.          ← ✍️ autoral
 ```
 
-> [!warning] Pendência de design — o rank 1 é onde todo grupo começa
-> Todo grupo começa no **rank 1** (decisão 24). Enquanto a campanha estiver ali, "não funciona" não é um degrau de força: é **desarmar a mesa inteira** assim que ela cruzar a fronteira. A regra só se comporta como degrau a partir do rank 3, quando cada personagem já carrega Gu de vários ranks. **Enquanto o autor não decidir se a linha vira algo mais brando**, a saída prática é a do próprio arco: no rank 1–2, mantenha a campanha dentro da região de origem, e use a viagem para outra região como o marco que ela é.
+> [!check] Pendência de design do rank 1 — **fechada**, e a saída veio da obra
+> Todo grupo começa no **rank 1** (decisão 24), e enquanto a campanha estiver ali *"não funciona"* não é degrau de força: é **desarmar a mesa** assim que ela cruzar a fronteira. A pendência ficou aberta esperando o autor decidir se a linha virava algo mais brando.
+>
+> **Não precisou.** O cap. 477 dá a saída sem afrouxar nada: **um grupo que muda de região refina de novo os próprios Gu no destino**, e eles renascem locais. Como refino é a atividade central da fase mortal, isso não é uma punição nova — é um **lote de refinos para fazer nas próximas semanas**.
+>
+> **A viagem deixa de ser "perdi meu arsenal" e vira uma cena de downtime**, que é exatamente o que a mesa de rank baixo precisa. A linha autoral fica de pé; o que muda é que agora ela tem porta de saída canônica, e a porta já estava escrita neste vault — o procedimento de refino dirigido logo abaixo serve como está.
 
 **Não rastreie por Gu.** Anote **uma linha no topo da ficha**: a região onde o personagem refina. Enquanto ele estiver em casa, nada muda. Quando ele viaja, tudo desce um degrau de uma vez.
 
 Um Gu de rank 4 refinado na Fronteira Sul age como rank 3 nas Planícies do Norte: o pool de dano cai de **8 dados para 4** (`4d10` no lugar de `8d10`, por exemplo), a RD cai pela metade, e o rank que ele soma ao acerto cai em 1.
 
-## Reancorar ✍️
+## Reancorar 📕
 
-**Mecanismo autoral** — o romance diz que a supressão existe, não como desfazê-la. Um Gu pode ser re-ancorado à região nova. Faça em bloco, pro conjunto inteiro, como despesa de arco:
+> [!important] 📕 O cap. 477 dá **duas** vias, e elas valem para coisas diferentes
+> A supressão não é do arsenal: ela pega **o cultivador e cada Gu separadamente**, e cada um se resolve de um jeito.
+>
+> **A pessoa se adapta sozinha, de graça.** *"Gu Masters could completely adapt to the environment and obtain the recognition of the region, no longer facing suppression."* Não custa pedra nem teste — custa **tempo de calendário**. O termo canônico é **reconhecimento da região**, e vale usá-lo na mesa porque nomeia o estado.
+>
+> **O Gu se reancora sendo refinado ali** — e a cláusula que faz a regra funcionar é a segunda metade: *"no matter where the materials were from (…) the moment the Gu refinement was completed, the new Gu was born in northern plains and obtained northern plains' recognition."* **A origem do material não importa.** O que decide a região de um Gu é **onde o refino terminou**.
+>
+> **Na mesa:** um Gu comprado na Fronteira Sul e elevado de rank nas Planícies do Norte **nasce norte-plainense**. Isso significa que quem sobe de rank longe de casa reancora sem fazer nada de especial — o refino já era a atividade central da fase mortal.
+
+Um Gu pode ser re-ancorado à região nova. Faça em bloco, pro conjunto inteiro, como despesa de arco:
 
 | Método | Custo |
 |---|---|
