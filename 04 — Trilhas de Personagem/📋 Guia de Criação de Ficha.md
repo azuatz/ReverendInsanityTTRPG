@@ -25,7 +25,7 @@ Role `1d80+20` (ver [[🌟 Aptidão e Abertura|Aptidão e Abertura]]) — piso 2
 A Aptidão define sua % de Abertura, e portanto a Essência máxima:
 
 ```
-Essência = % de abertura × 4 × 2^(estágio − 1)
+Essência = % de abertura × 4 × (1 + 0,5 × (estágio − 1))
 ```
 
 No estágio inicial (estágio 1), isso simplifica pra `% de abertura × 4`.

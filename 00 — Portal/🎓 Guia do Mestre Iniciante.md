@@ -489,7 +489,7 @@ Dado           d12 Alma/Espada/Relâmpago · d10 Fogo/Vento · d8 Lua/Sangue/
                Veneno/Sombras · d6 utilitários (+2 na CD deles)
 B              Grau do estágio (0·1·2·3) + Níveis excedentes
 Vitalidade     (18 + 3×CON + 4×B) × M   Alma  (16 + 3×VON + 3×B) × M
-Essência       % de aptidão × 4 × 2^(estágio−1)
+Essência       % de aptidão × 4 × (1 + 0,5 × (estágio − 1))
 Regeneração    % do tanque/hora pelo Grau (D 2 · C 4 · B 6 · A 8) — FORA de combate
 Ativar um Gu   40 (rank próprio) · 10 · 4 · 1 (por rank abaixo)
 Gu ligados     no máximo 3 ao mesmo tempo (inimigo comum: 2)

@@ -216,7 +216,7 @@ Referência de mesa pro personagem que cultiva os dois:
 
 | | |
 |---|---|
-| **Essência** | `76 × 4 × 2^(estágio−1)` = **304** no inicial, **2.432** no pico do rank |
+| **Essência** | `76 × 4 × (1 + 0,5 × (estágio − 1))` = **304** no inicial, **2.432** no pico do rank |
 | **Gu carregados** | `(76 ÷ 10) + rank` = **7 + rank** |
 | **Gu simultaneamente sustentados** | **3** *(fixo; os Gu de Corpo dele não ocupam vaga)* |
 | **Custo típico de um Gu do rank dele** | **20** se for de Sangue *(modificador ×0,5)* · **40** se for de Força |

@@ -180,7 +180,7 @@ FOR 〖  〗  DES 〖  〗  CON 〖  〗  VON 〖  〗  AST 〖  〗  CAR 〖  �
 - **Gu na Abertura** = `(% ÷ 10) + 1` · **Gu sustentados ao mesmo tempo** = **3**, sempre *(só os que ficam ligados ocupam vaga; um ataque que dispara e acaba, não)*
 - **Golpes registrados** = `AST + 1`
 - **B** = 0 no estágio Inicial (sobe com o estágio)
-- **O bônus de B é COMPRADO, disparo a disparo.** O custo normal entrega o Gu com `B` 0. Quer o `M × B` no dano? Pague mais: **×1,5 (B 1) · ×2 (B 2) · ×3 (B 3)**. Pergunte a si mesmo toda vez: *este tiro precisa do dano cheio?*
+- **O `B` entra no dano de graça.** Ativar um Gu custa sempre o mesmo pelo rank dele — o estágio não encarece nada.
 
 **Os 3 erros de todo mundo:** esquecer o +1 do rank na Defesa · esquecer que **Alma é uma barra separada, com Defesa própria** · esquecer de somar `M×B` no dano quando o estágio subir.
 

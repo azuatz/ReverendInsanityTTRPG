@@ -43,7 +43,7 @@ Tudo abaixo é ficha de NPC. Some ao molde do rank apropriado em [[⚔️ Ameaç
 
 ### Aptidão e Essência
 
-**100% de Aptidão**, alimentando a fórmula normal (`Essência = % × 4 × 2^(estágio−1)`):
+**100% de Aptidão**, alimentando a fórmula normal (`Essência = % × 4 × (1 + 0,5 × (estágio − 1))`):
 
 | Estágio (rank 1) | Essência máxima | Um Grau B (70%) tem |
 |---|---|---|

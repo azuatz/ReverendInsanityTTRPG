@@ -43,7 +43,7 @@ O estágio não é uma barra que enche — é **qualidade de combustível**. Cad
 
 > Os "desbloqueios" extras por estágio (bônus em resistência e ordem de turno, ativações com desconto, Pico ignorar ½ RD) **foram removidos** (decisão 106): eram mais coisa pra lembrar do que efeito que se sentia, e a iniciativa agora é rolada. O estágio dá exatamente o que está na tabela acima, nada além.
 
-**Reserva de essência:** continua dobrando a cada estágio (`% × 4 × 2^(estágio−1)`) — ela não é mais a atração principal, mas é o que paga os Golpes Matadores grandes que o Teto de Combo destrava.
+**Reserva de essência:** cresce **50% por estágio** (`% × 4 × (1 + 0,5 × (estágio − 1))`) — 100% · 150% · 200% · 250% — ela não é mais a atração principal, mas é o que paga os Golpes Matadores grandes que o Teto de Combo destrava.
 
 ### 1️⃣ Dano — o Grau é bônus por dado
 
@@ -55,8 +55,8 @@ DANO = M d(dado do Caminho) + (M × B)
 
 **Por dado.** É isso que faz o estágio continuar importando no rank 9: no rank 1 o Pico soma +3 num dado só; no rank 9 soma +3 em 256 dados, ou **+768**.
 
-> [!important] O Grau é o seu **teto** de bônus, não o bônus que você recebe de graça
-> O estágio diz **até quanto** você pode comprar, e nada mais. Cada ativação você escolhe com que `B` quer o Gu, e paga por isso: **×1 (B 0) · ×1,5 · ×2 · ×3** sobre o custo ([[🏛️ Arquitetura do Sistema|Arquitetura do Sistema]]). O custo base sempre entrega o Gu funcionando, com `B` 0. Subir de estágio não engorda o seu dano sozinho — **destrava uma compra mais cara**, e a decisão de fazê-la é por disparo.
+> [!important] O Grau vem **de graça** com o estágio, e o custo do Gu não muda
+> Você não escolhe densidade na hora de ativar e não paga a mais por dano: **o custo de um Gu é fixo pelo rank dele** ([[🏛️ Arquitetura do Sistema|Arquitetura do Sistema]]). O `B` do seu estágio entra em todo dano automaticamente. *(Houve uma versão em que o `B` era comprado por ativação; foi removida pela decisão 300 — a escolha era falsa em todo Gu que não causa dano.)*
 
 | Caminho | Rank 1 Inicial | Rank 1 Pico | Crescimento |
 |---|---|---|---|

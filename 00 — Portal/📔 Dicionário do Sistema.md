@@ -40,7 +40,7 @@ escopo: sistema
 | **Estágio** | Quatro degraus dentro de cada rank mortal: Inicial, Médio, Alto, Pico | [[🪜 Ranks e Estágios]] |
 | **Ativação Forçada** | Ativar um Gu acima do rank atual: custa metade da Essência máxima (1 rank acima) ou o tanque inteiro (2 acima), e sempre 1 Ferimento. Nunca atravessa a linha mortal/imortal | [[🏛️ Arquitetura do Sistema]] |
 | **M** | O multiplicador do rank: 1·2·4·8·16… — quantos **dados** se rola no dano, entre outras coisas | [[⚔️ Combate]] |
-| **B (Grau de Densidade)** | O bônus do estágio (0·1·2·3): soma por dado no dano, engorda Vitalidade e Alma. Também aparece como **Densidade da Essência** — é a mesma coisa, e não tem relação com o *Grau de aptidão* (A/B/C/D) | [[🪜 Ranks e Estágios]] |
+| **B (Grau de Densidade)** | O bônus do estágio (0·1·2·3), **automático e de graça**: soma por dado no dano, engorda Vitalidade e Alma. Também aparece como **Densidade da Essência** — é a mesma coisa, e não tem relação com o *Grau de aptidão* (A/B/C/D) | [[🪜 Ranks e Estágios]] |
 | **Caminho (Dao)** | A especialidade: Força, Lua, Sangue, Alma… 23 jogáveis. Decide o **dado de dano** dos seus Gu | [[🛤️ Os Caminhos]] |
 | **Pedra Primordial** | A moeda do mundo mortal. Também vira essência quando consumida (fora de combate) | [[💠 Economia das Pedras Primordiais]] |
 | **Gu Relíquia** | Consumível raríssimo que avança um **estágio** na hora (nunca rank). A linha tem cinco cores, uma por rank mortal — **Cobre Verde (r1) → Aço Vermelho → Prata Branca → Ouro Amarelo → Cristal Roxo (r5)**, as mesmas cores da essência de cada rank | [[🚀 Gu de Avanço de Rank]] |

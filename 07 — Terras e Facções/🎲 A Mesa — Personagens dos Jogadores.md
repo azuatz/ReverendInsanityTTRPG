@@ -206,7 +206,7 @@ Os quatro no **rank 1, estágio Inicial** (`M = 1`), que é onde a campanha come
 | Aliados *(CAR+1)* | 3 | 1 | 2 | 3 |
 | Pontos de Plano *(2 + maior de AST/CAR)* | 4 | 3 | 3 | 4 |
 
-**Vitalidade** `(18 + 3 × CON + 4 × B) × M` · **Alma** `(16 + 3 × VON + 3 × B) × M` · **QI** `% × 4 × 2^(estágio−1)` · **Defesa** `10 + DES + rank` (+ rank do Gu de movimento sustentado). `B` = Grau de Densidade do estágio, 0 no Inicial — ver [[🪜 Ranks e Estágios]].
+**Vitalidade** `(18 + 3 × CON + 4 × B) × M` · **Alma** `(16 + 3 × VON + 3 × B) × M` · **QI** `% × 4 × (1 + 0,5 × (estágio − 1))` · **Defesa** `10 + DES + rank` (+ rank do Gu de movimento sustentado). `B` = Grau de Densidade do estágio, 0 no Inicial — ver [[🪜 Ranks e Estágios]].
 
 > ✅ **As quatro fichas fecham exatas em 12 pontos.** Lembrando a tabela de [[💪 Atributos]]: o degrau **+3 → +4 custa 2 pontos**, não 1, e **0 → −1 devolve 1**. Xie Lang gasta 13 e recebe 1 de volta pelo FOR −1; Jiāotáng gasta 5 no FOR +4 e 7 no resto; a Lee gasta 12 diretos; Demvi gasta 5 no DES +4, 8 no resto, e recebe 1 de volta pelo FOR −1. A distribuição do Jiāotáng é exatamente o exemplo **"Lutador de clã"** que a nota de Atributos já lista como legal.
 
@@ -227,7 +227,7 @@ Tabela de acompanhamento pronta pra ficha. Base: **CON +3 · VON +3 · DES +3**,
 Vitalidade = (18 + 3×CON + 4×B) × M = (27 + 4B) × M
 Alma       = (16 + 3×VON + 3×B) × M = (25 + 3B) × M
 Def. Alma  = 10 + VON + 2 × rank = 15 no rank 1, subindo +2 por rank
-QI         = 344 × 2^(estágio−1)   ← zera ao subir de rank, e é de propósito
+QI         = 344 × (1 + 0,5 × (estágio − 1))   ← zera ao subir de rank, e é de propósito
 ```
 
 ### O corpo e a alma

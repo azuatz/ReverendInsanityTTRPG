@@ -37,7 +37,7 @@ escopo: sistema
 | **Grau** | | D (20–39) · C (40–59) · B (60–79) · A (80–99) |
 
 ```
-Essência máxima   = % de abertura × 4 × 2^(estágio − 1)
+Essência máxima   = % de abertura × 4 × (1 + 0,5 × (estágio − 1))
 Vitalidade máxima = (18 + 3 × CON + 4 × B) × M
 Alma máxima       = (16 + 3 × VON + 3 × B) × M
 ```
@@ -63,7 +63,7 @@ Alma máxima       = (16 + 3 × VON + 3 × B) × M
 | **Arma** | *(passo na Escada: desarmado −2 · leve −1 · média 0 · pesada +1)* |
 | **Dano melee** | *(dado do passo)* + FOR **× M do Gu de Força/Transformação ativo** *(sem Gu ativo, sem multiplicador)* |
 | **RD** | *(de Gu de defesa: `RD base × M`. Duas fontes **não somam** — vale só a maior)* |
-| **Densidade comprada** | *(o `M × B` no dano é compra por ativação: ×1 se você quiser `B` 0 · ×1,5 · ×2 · ×3. O custo base entrega o Gu sem bônus)* |
+| **Bônus de dano (`M × B`)** | *(automático pelo estágio — o custo do Gu não muda)* |
 
 ### 🦴 Gu de Corpo assentados
 

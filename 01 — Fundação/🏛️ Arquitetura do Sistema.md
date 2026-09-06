@@ -42,14 +42,14 @@ Gu de rank baixo ficam obsoletos em combate conforme você sobe — o número é
 Não existe número fixo de espaços. Existe uma conta:
 
 ```
-Essência = sua % de abertura × 4 × 2^(estágio − 1)
+Essência = sua % de abertura × 4 × (1 + 0,5 × (estágio − 1))
 ```
 
-*(Exemplo: aptidão 25%, estágio Alto (3) → 25 × 4 × 2² = 400 de essência máxima.)*
+*(Exemplo: aptidão 25%, estágio Alto (3) → 25 × 4 × 2,0 = **200** de essência máxima.)*
 
 A **% de abertura** vem da aptidão de cada personagem — construída na criação (ver [[🧑‍🎤 Trilhas de Personagem|04 — Trilhas de Personagem]]), não escolhida como "bruxo" ou "marcial". Uma aptidão alta abre mais; uma baixa abre menos, mas ninguém fica de fora do sistema.
 
-Cada estágio **dobra** a essência, e o contador volta ao começo a cada rank novo.
+**Cada estágio soma 50% da reserva inicial** — 100% · 150% · 200% · 250% — e o contador **volta ao começo a cada rank novo**, porque o combustível mudou de grau. *(Antes cada estágio **dobrava**, e o Pico chegava a 800% do Inicial: a essência simplesmente deixava de existir como restrição. Ver decisão 300.)*
 
 O custo de ativar um Gu depende de **duas coisas: o que ele faz, e a diferença de rank.** O estágio não muda nada:
 
@@ -70,27 +70,20 @@ Sobre o custo base, aplique o multiplicador do que o Gu faz. É o que dá identi
 
 Arredonde pra cima. O modificador vale pro custo de ativação **e** pra manutenção por rodada. *(Exemplo: um Gu de teleporte de rank igual ao seu custa 40 × 1,5 = 60; um de fogo do mesmo rank custa 40.)*
 
-### A Densidade é comprada, ativação por ativação
-
-O bônus de dano do estágio (`M × B`) **não vem de graça junto com o estágio**. Ele é uma compra, e a decisão é do jogador **a cada vez que ativa um Gu**:
+### O custo de um Gu é FIXO — o estágio não mexe nele
 
 ```
-Custo final = custo base × modificador de Caminho × modificador de Densidade
+Custo final = custo base (pelo rank) × modificador de Caminho
 ```
 
-| Você quer o Gu com... | Modificador de Densidade |
-|---|---|
-| **`B` 0** — sem bônus de dano nenhum | **×1** |
-| **`B` 1** | **×1,5** |
-| **`B` 2** | **×2** |
-| **`B` 3** | **×3** |
+E acabou. **Não há escolha de densidade na hora de ativar**, não há preço variável, e o estágio **não encarece nada**. O bônus de dano do estágio (`M × B`) vem junto, de graça, como todo o resto que o estágio dá.
 
-**O custo base entrega o Gu funcionando, com `B` 0.** Você nunca é obrigado a pagar mais — e nunca pode comprar acima do `B` que o seu estágio já concede. Nas palavras do autor, que é de onde a regra saiu: *o custo escala se você quiser que aumente o dano; caso não, você gasta só a essência inicial e guarda o resto.*
-
-**Na mesa isso é uma pergunta por ativação:** *este disparo precisa do dano cheio?* Contra um recruta, não; contra o Chefe na rodada em que ele está exposto, sim. É a decisão que a regra existe para criar.
-
-> [!warning] O que esta regra **não** faz — e é honesto dizer
-> Ela **não iguala a pressão entre estágios**. O tanque de essência multiplica por **oito** do Inicial ao Pico, e este custo só por **três** — então um cultivador no Pico continua com cerca de **2,7 vezes** o fôlego de um no Inicial. A única dose que igualaria (`×2^B`, dobrando por ponto) foi medida em cena e **apaga o combate**: derruba o Clímax de rank 5 de 72% para 6% de vitória. Isto aqui é a dose mais cara que a cena tolera, e ela cobra 9 pontos percentuais no Clímax de rank 3. *(Decisões 235, 258, 267 e 268 — a história inteira dessa calibragem está lá, incluindo as três doses rejeitadas.)*
+> [!note] Por que a compra de densidade foi removida *(decisão 300)*
+> Durante um tempo o `B` foi **comprado por ativação**: pagar mais essência entregava o Gu com mais dano. A ideia era boa e o defeito era estrutural — **a escolha era falsa para metade do catálogo.**
+>
+> Num Gu de ataque havia o que comprar. Num Gu de **defesa, movimento, controle ou utilidade não há dano nenhum para aumentar**, então o jogador pagava sempre o mínimo e a "decisão" virava imposto de leitura: uma pergunta a responder toda vez, cuja resposta era sempre a mesma. Uma regra que só decide alguma coisa em metade dos casos **cobra atenção nos dois**.
+>
+> **O problema que ela existia para resolver era real** — a essência deixava de ser restrição nos estágios altos. Ele foi resolvido pelo outro lado, e mais barato: **achatando a curva da reserva** em vez de encarecendo o gasto. O tanque agora cresce 50% por estágio em vez de dobrar, e a essência volta a apertar em todos os quatro.
 
 Cada rank novo devolve ao começo — com ferramentas de outro patamar. E o dano de cada Gu também dobra a cada rank (M ×1 no rank 1 até ×256 no rank 9 — ver [[⚔️ Combate|Combate]]), a correção que faz o custo de ativação combinar com o quanto um Gu novo bate mais forte. Dano de Gu é um **pool de dados**, nunca um número fixo: `M d(dado do Caminho) + (M × B)` — o M do rank diz **quantos dados** se rola, o Caminho diz **qual dado**, e o Grau de Densidade do estágio (B) soma **por dado**. **Dano corpo a corpo sem Gu ativo não entra nessa escala** — é físico, definido pela arma e o Corpo do personagem, e só sobe com um Gu do Caminho da Força ou de Transformação ativo.
 
@@ -128,7 +121,7 @@ Gu de ativação instantânea (um ataque que dispara e acaba) **não ocupam vaga
 >
 > 1. **Ela nunca entrou em simulação nenhuma, e o motor dizia isso por escrito.** Vinte e seis rodadas de balanceamento — a tabela de composição inteira, os moldes, o Chefe, os Golpes Matadores — rodaram **sem** a Manutenção; três scripts chegam a trazer na própria docstring a linha *"Manutenção quadrática dos Gu sustentados OMITIDA"*, incluindo o motor de que todos os posteriores descendem. Ela nunca sustentou o balanceamento que o vault publica, e removê-la **não move um único número medido**.
 > 2. **Ela não era o freio que dizia ser.** Medida, quatro Gu sustentados bancavam **2,8 a 4,3 rodadas no estágio Inicial** e **22 a 34 no Pico**, contra uma cena de 7 a 9 — punia demais no começo e virava decoração no fim. É exatamente o defeito que a decisão 235 diagnosticou no custo de ativação.
-> 3. **A Densidade paga já faz o trabalho, e melhor.** Desde a decisão 258 o bônus de `B` é comprado por ativação (`×1 / ×1,5 / ×2 / ×3`, acima), e isso põe o preço onde a decisão acontece. Manter as duas regras empilhava dois custos calibrados isoladamente e secava o tanque em 2 a 6 rodadas, abaixo da cena inteira.
+> 3. **O freio da essência foi resolvido do outro lado.** A preocupação era que o tanque crescesse rápido demais e a essência deixasse de restringir. Isso foi corrigido **achatando a curva da reserva** (50% por estágio em vez de dobrar — decisão 300), que é onde o problema estava. Manter a Manutenção por cima disso seria um terceiro número por rodada para o mestre rastrear, cobrando duas vezes pelo mesmo aperto.
 >
 > **O que segura o número de Gu ligados agora são duas coisas, não três:** o **teto de 3 Gu sustentados** (a regra de ficção, decisão 260) e o **custo de ativação com Densidade paga** (a regra de economia, decisão 258). Uma diz quantos você consegue coordenar; a outra diz quantos você consegue pagar. A Manutenção era um terceiro número por rodada que o mestre rastreava sem que ele decidisse nada.
 

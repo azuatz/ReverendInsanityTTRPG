@@ -32,7 +32,7 @@ GRAU DE DENSIDADE (B)      Inicial 0 · Médio 1 · Alto 2 · Pico 3
 
 Vitalidade máxima  = (18 + 3 × CON + 4 × B) × M
 Alma máxima        = (16 + 3 × VON + 3 × B) × M
-Essência máxima    = % de aptidão × 4 × 2^(estágio − 1)    [não escala com rank]
+Essência máxima    = % de aptidão × 4 × (1 + 0,5 × (estágio − 1))    [não escala com rank]
 Ferimento          = −5% permanente em Vitalidade E Alma máximas
 
 Defesa             = 10 + DES + rank + rank do Gu de movimento ativo
@@ -78,11 +78,7 @@ Custo de ativação  = 40 (rank próprio) · 10 · 4 · 1
 Modificador de Caminho: Sangue/Carne/Osso ×0,5 · elementais ×1
                         · Alma/Sabedoria/Escravidão/Informação/Sorte ×1,25
                         · Tempo/Espaço/Sonho/Leis ×1,5
-Modificador de DENSIDADE (escolhido a cada ativação):
-                        B 0 ×1 · B 1 ×1,5 · B 2 ×2 · B 3 ×3
-                        [o custo base entrega o Gu com B 0 — o bônus de dano
-                         do estágio é COMPRA, nunca brinde. Nunca acima do
-                         B que o seu estágio concede]
+                        [o ESTÁGIO NÃO MEXE NO CUSTO — o B vem de graça]
 Essência em combate       = NÃO regenera (só Físico Extremo, que é NPC: 10% do tanque,
                             teto 100/rodada · 150 favorável · 200 ideal · 50 hostil)
 

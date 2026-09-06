@@ -68,7 +68,7 @@ Engolir essência pronta em vez de só condensar a sua: cada dia de cultivo **al
 >
 > **A progressão entre ranks passou de ×2 para ×4** (o autor apontou que a
 > própria [[🪜 Ranks e Estágios|Densidade da Essência]] já dobra a cada pequeno
-> estágio dentro do rank — `% × 4 × 2^(estágio−1)` — então o salto de qualidade
+> estágio dentro do rank — `% × 4 × (1 + 0,5 × (estágio − 1))` — então o salto de qualidade
 > de um **grande estágio** (a virada de rank) precisa ser proporcionalmente
 > maior, não igual, ou as pedras deixam de ser "tão efetivas" na proporção
 > certa). Optou-se por manter **um único número por rank** (não um por
