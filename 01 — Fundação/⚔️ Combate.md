@@ -357,7 +357,7 @@ A tabela abaixo é a do **nível de domínio** — a metade que entra no dano. A
 | **Quase-Supremo** | 150.000 – 299.999 | **+4** | M |
 | **Grande Mestre Supremo** | 300.000+ | **+5** | **2 × M** — o único lugar do jogo onde o pool dobra |
 
-O pool dobrado no topo é o único lugar onde **Marca vence rank**: um rank 8 Grande Mestre Supremo causa `256d12 + 640` (média **2.304**) contra os `256d12` (média **1.664**) de um **Venerável** (rank 9, o teto absoluto do mundo) recém-chegado ao posto.
+O pool dobrado no topo é o único lugar onde **Marca vence rank**: um rank 8 Grande Mestre Supremo causa `256d12 + 640` (média **2.304**) contra os `256d12` (média **1.664**) de um **Venerável** (rank 9, o teto absoluto do mundo) recém-chegado ao posto. *(Na mesa, os dois passam pelo teto de 16 dados logo acima: o rank 8 rola `16d12 + 2.200`, o Venerável `16d12 + 1.560`. As médias são as mesmas — o teto nunca muda o resultado, só o tamanho do punhado.)*
 
 Todas as capacidades não-numéricas de cada nível de domínio seguem inalteradas em [[☯️ Marcas de Dao]].
 
