@@ -350,3 +350,42 @@ células na faixa**, agora com a coluna onde os números cabem.
 > chegavam a mestre nenhum. Nos dois casos o defeito só apareceu porque alguém
 > de fora leu o diff, o que é o argumento mais concreto que este vault tem a
 > favor de duas sessões conferindo uma à outra.
+
+---
+
+## Varredura de 2026-09-06 — a de fechamento, antes de mandar ao mestre
+
+**126 notas varridas.** Resultado estrutural: **zero link quebrado, zero nota
+órfã, zero alias duplicado, zero linha morta no Mapa.** Depois de trezentas
+decisões e de várias rodadas de edição em duas sessões paralelas, esse é o
+número que autoriza mandar o vault para fora.
+
+**Corrigido no lugar (11 itens):**
+
+- **4 âncoras de seção.** Duas apontavam para `#Ferimento da Terra` num heading
+  que virou `#🩹 Ferimentos da Terra` (plural e emoji), uma para uma seção do
+  catálogo de Lua que fora renomeada, e uma para os Três Quadros do Guia do
+  Mestre, cujo heading real carrega o sufixo da decisão 144.
+- **Frontmatter dos 7 templates de `_Modelos/`.** Todos usavam `tags` em lista
+  inline e nenhum declarava `aliases` — fora do padrão que as convenções deste
+  vault tornam obrigatório para toda nota.
+- **Os dois callouts do Fantasma de Fera viraram headings.** Cinco links
+  apontavam para `#👻 Fantasma de Fera` e `#🩸 Herança do Fantasma`, que
+  existiam como `> [!info]`. O Obsidian não indexa callout como âncora, então os
+  cinco abriam a nota certa e não pulavam para o trecho. Promovidos a `###`, com
+  o título descritivo permanecendo no callout.
+- **A nota-mãe `🧰 Modelos` ganhou linha no Mapa** — era a única das doze pastas
+  cuja nota-mãe o Mapa não citava.
+
+> [!note] A lição desta varredura é sobre falso positivo, e ela vale para a próxima
+> Sete achados iniciais eram **erro do lint, não do vault**. O Obsidian resolve
+> âncora pelo heading **com os marcadores de ênfase removidos**, de modo que um
+> link para `#… (2026-08-31)` casa com o heading `## … *(2026-08-31)*` — os sete
+> links das Ameaças Genéricas para as rodadas de simulação estavam certos o tempo
+> todo. Do mesmo modo, cinco notas de lore apareceram como fora do Mapa porque o
+> Mapa as cobre de propósito numa linha única com curinga.
+>
+> **Um lint que não modela a ferramenta de verdade produz trabalho que parece
+> conserto e é dano.** Se os sete tivessem sido "corrigidos", o resultado seria
+> sete links quebrados onde não havia nenhum — e o relatório teria dito que o
+> vault melhorou.
