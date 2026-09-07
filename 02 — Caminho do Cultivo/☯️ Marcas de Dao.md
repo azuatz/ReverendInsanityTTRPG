@@ -417,6 +417,23 @@ Um Imortal muito denso vive sob tempestade permanente, e é por isso que alguns 
 | **Yang** | Fogo · Luz · Relâmpago · Espada/Metal · Força · Osso |
 | **Estruturais** *(sem polaridade — neutros com todo mundo)* | Terra · Madeira · Água · Ar · Espaço · Cosmos/Tempo · Formações · Sabedoria · Informação · Sorte · Humano · Alimentação · Refino · Transformação · Escravidão · Leis |
 
+> [!important] 📕 Quatro pares que a obra nomeia, e que **passam por cima da tabela acima**
+> A tabela de polaridade é **preenchimento de lacuna, e legítimo**: o romance nunca publica uma matriz geral de compatibilidade entre Caminhos. Mas ele **nomeia quatro pares específicos**, e nos quatro a tabela por polaridade daria a resposta errada — dois deles sairiam como *complementares* ou *neutros*, ou seja, **sem penalidade nenhuma**.
+>
+> **Onde a obra fala, a obra manda.** Estes quatro são exceção declarada:
+>
+> | Par | Pela tabela seria | 📕 O que vale |
+> |---|---|---|
+> | **Força × Luz** | complementar *(ambos Yang)* | **Incompatível, e a penalidade não é percentual: é evento.** Marca de Força densa demais faz um Gu de Luz **falhar ao ser ativado**, e no pior caso **o Gu se destrói no processo** |
+> | **Força × Espaço** | neutro *(Espaço é estrutural)* | **Incompatível**, com a mesma consequência — o exemplo canônico é um Gu de troca de posição que deixa de funcionar |
+> | **Força × Vento/Movimento** | neutro *(Ar é estrutural)* | **Incompatível.** Força acumulada **perturba e enfraquece** Gu de velocidade; na obra alguém desiste de comprar um Gu bom porque *não servia para o corpo dele* |
+> | **Restrição × Palavra** *(juramentos e contratos)* | não modelado | As leis opostas **forçam a Marca a se manifestar e a exterminam** — o juramento quebra **sem punição** |
+>
+> **Na mesa isso é uma regra de compra, não uma conta.** Um lutador de Força que adquirir um Gu de Luz, de Espaço ou de movimento puro está comprando algo que **vai falhar na hora errada e pode morrer ao falhar**. Quando ele ativar um desses, role `1d6`: em **1–2** o Gu não ativa, a essência é gasta, e em um **1** ele **morre**.
+>
+> **Por que isso importa mais que os outros pares:** Força é Caminho de jogador, e os três pares acima são exatamente as compras que um bruto faria para cobrir as fraquezas dele — alcance, mobilidade e reposicionamento. O cânone diz que essas três são justamente as que o corpo dele rejeita. **A fraqueza do Caminho da Força é estrutural, e não se compra saída dela.**
+
+
 Dois Caminhos da **mesma** família são complementares. Um Yin e um Yang são **incompatíveis**. Qualquer combinação que inclua um estrutural é **neutra** — salvo os pares do ciclo de destruição do Wu Xing, que são incompatíveis mesmo entre estruturais (Água e Fogo é o par clássico).
 
 > [!success] 📕 Canônico — o atrito interno
