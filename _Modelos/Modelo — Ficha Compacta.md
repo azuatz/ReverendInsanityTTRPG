@@ -19,11 +19,13 @@ Tudo que está entre parênteses é instrução: apague ao preencher.
 ## O modelo
 
 ```
-**Nome:**                              **Idade:**
+**Nome:**                              **Idade:**      **Origem:**
 **Vitalidade:**    /                   **Alma:**     /
 **QI:**            /                   **Defesa:**    **Def. Alma:**
 **CD:**                                **M:**        **Rank:**
 **Estágio:**                           **Grau (B):**   **Densidade:**
+**Abertura %:**        (fixa)          **RD:**         (só a MAIOR fonte conta)
+**Pontos de Plano:**    /
 
 〖   〗**Força**              〖   〗**Destreza**
 〖   〗**Constituição**       〖   〗**Vontade**
@@ -51,6 +53,9 @@ Tudo que está entre parênteses é instrução: apague ao preencher.
 - 💠 Pedras:      (pagamento do clã: 10 por semana. O clã alimenta o seu Gu Vital;
   cada Gu extra come 20 por mês.)
 - 💠 Gasto semanal de Pedras:
+
+**Perícias** 🎯 (as treinadas, com o bônus ao lado)
+-
 
 **Trilhos** 🎚️ (só os que se aplicam — a maioria das fichas não usa nenhum)
 -
