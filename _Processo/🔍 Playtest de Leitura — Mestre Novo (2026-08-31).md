@@ -2,6 +2,8 @@
 tags:
   - processo
 escopo: processo
+aliases:
+  - Playtest de Leitura — Mestre Novo (2026-08-31)
 ---
 
 # 🔍 Playtest de Leitura — Mestre Novo (2026-08-31)

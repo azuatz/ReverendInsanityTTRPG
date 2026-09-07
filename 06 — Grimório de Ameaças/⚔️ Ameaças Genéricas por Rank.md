@@ -57,7 +57,7 @@ O Grimório não tem uma criatura sequer porque não precisa: uma fera é qualqu
 |---|---|
 | **Instinto** | Não negocia, não se intimida, não é enganado por blefe verbal — mata de saída qualquer via social. Detectar a real intenção dela (fugir, caçar, defender ninhada) é teste de AST, não de CAR |
 | **Sentidos** | Vantagem pra detectar movimento, cheiro e essência. Emboscar uma fera custa 1 grau de dificuldade a mais que emboscar gente do mesmo rank |
-| **Sem Abertura** | Não tem Gu, não usa Golpe Matador, não dá Essência pra drenar nem receita pra saquear. Ação sem Ação Especial e sem dano de Alma conta como **ação comum** no [[#O contador que importa de verdade ações inimigas por rodada\|contador ponderado]] — uma fera vale menos ação por rodada que um Mestre de Gu do mesmo rank |
+| **Sem Abertura** | Não tem Gu, não usa Golpe Matador, não dá Essência pra drenar nem receita pra saquear. Ação sem Ação Especial e sem dano de Alma conta como **ação comum** no [[#O contador que importa de verdade: ações inimigas por rodada\|contador ponderado]] — uma fera vale menos ação por rodada que um Mestre de Gu do mesmo rank |
 
 Uma matilha revezando pra desgastar um alvo mais forte é só uma **Horda com Instinto e Sentidos** — nenhuma regra nova.
 
