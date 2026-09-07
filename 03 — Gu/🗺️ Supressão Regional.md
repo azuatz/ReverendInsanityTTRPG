@@ -91,6 +91,9 @@ A medida local é o **li**, que vale **meio quilômetro**.
 > **Por que a caravana importa tanto:** ela passa por uma vila **uma vez por ano** e fica cerca de oito dias. Aquilo não é uma loja, é a única janela de compra do ano — e é por isso que a chegada dela é sempre um evento de sessão.
 > **Por que a estrada é perigosa por conta própria:** uma emboscada de estrada pode custar quinze Mestres Gu de uma vez. Caravana séria **planeja repor baixas** como planeja repor comida. Ninguém viaja sozinho porque viajar sozinho mata.
 
+> [!note] Se a sua mesa usa outra unidade, use a sua
+> A tabela acima está em **li** porque é a unidade deste mundo. O cenário-exemplo de [[Lore — Visão Geral do Mundo|Vespéria]] mede em **léguas** e tem escala própria (cerca de 900 léguas de ponta a ponta, três meses de estrada) — e está certo assim: é o cenário do autor, não uma tradução deste. **Troque os números da tabela sem dó; o que não se troca é a régua de urgência**, que não depende de unidade nenhuma. Um mês de aviso, uma semana, três dias — essa parte vale em qualquer mapa.
+
 **Não existe ir e voltar entre montanhas diferentes na mesma sessão.** Se a trama precisa disso, ela precisa de um Gu de voo, de um portal de herança, ou de outra trama.
 
 ## Como usar isso na mesa

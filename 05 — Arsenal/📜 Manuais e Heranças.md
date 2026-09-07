@@ -53,6 +53,11 @@ Três consequências, e todas viram mesa:
 > **Tarde:** o selo afrouxou, o grupo entra com o próprio poder — e encontra o resto do mundo na porta.
 > Este é o único gancho do vault em que a mesa compete com NPCs **por tempo** em vez de por combate. Ao criar uma herança pelo [[🎲 Gerador de Heranças|Gerador de Heranças]], decida de saída **quão afrouxado está o selo dela** — é a mesma rolagem de tensão que o gerador já faz, e é ela que diz se a aventura é uma corrida ou uma expedição.
 
+> [!warning] O selo é uma propriedade que o mestre liga, não um imposto sobre tudo
+> **As 17 heranças de [[📜 Catálogo de Heranças|Catálogo de Heranças]] foram escritas sem selo, e continuam válidas como estão** — trate-as como heranças de selo **afrouxado**, que é o caso mais comum do mundo de qualquer jeito. Elas já têm os quebra-cabeças, as armadilhas e os testes calibrados para um grupo usando o próprio arsenal, e ligar o selo fechado numa delas sem reescrever o resto transforma a aventura noutra coisa.
+>
+> Use o selo fechado quando **quiser** a cena que só ele produz: o nivelador contra concorrentes de rank alto, ou a herança recém-aberta que ninguém mais achou. Nesse caso, diga na primeira sala — o grupo precisa descobrir que está desarmado **antes** de contar com o arsenal, não no meio da luta.
+
 ## 📚 As heranças prontas
 
 **[[📜 Catálogo de Heranças|Catálogo de Heranças]]** tem 17 escritas e prontas pra usar, em três camadas, com quebra-cabeças resolvidos, testes de Espírito da Terra e as amarras já definidas. Esta nota é a regra; aquela é o conteúdo.
