@@ -77,7 +77,12 @@ Cole isto na cabeça e 80% do sistema fica óbvio.
 | Morte a 0 PV | **Teste de Morte:** `d20 puro` no início de cada turno, 10+ estabiliza | Falhar uma vez, mesmo sobrevivendo, deixa **sequela permanente** |
 | Loja de equipamento | **Existe** pra arma, armadura **e Gu** | Mas Gu passa por um teste de Disponibilidade e custa caro (rank 1 ≈ 500 pedras, um ano de mesada de clã). Comprar é de propósito a via mais fraca: o normal é refinar, caçar ou saquear |
 
-**A única mecânica realmente nova pra quem vem de D&D é a economia de Gu:** eles ocupam espaço, custam essência pra ligar, custam essência por rodada pra manter ligados, e custam comida por semana pra continuarem vivos. É a espinha do jogo. Tudo o mais você já sabe.
+**A única mecânica realmente nova pra quem vem de D&D é a economia de Gu:** eles ocupam espaço, custam essência pra ligar, e custam comida por semana pra continuarem vivos. É a espinha do jogo. Tudo o mais você já sabe.
+
+> [!note] Não existe uma conta de manutenção para o mestre rastrear
+> Ligar um Gu se paga **uma vez**, no momento de ligar. Houve uma regra que cobrava essência **de todos** os Gu ligados a cada rodada, e ela foi removida por não decidir nada e só dar contabilidade *(decisão 266)*. O que segura o número de Gu ligados são o **teto de 3 Gu sustentados** e o preço da ativação.
+>
+> **A exceção está na ficha do Gu, não numa regra geral:** alguns Gu — em geral os que ficam ligados fazendo efeito o tempo todo, como uma armadilha de área — declaram na própria linha do catálogo um custo por rodada (*"Sustentação 6 essência/rodada"*). Esse custo é **daquele Gu**, faz parte do preço dele, e você só o cobra se o Gu na mesa tiver a linha. Se a ficha não diz nada, não há nada a cobrar.
 
 ---
 

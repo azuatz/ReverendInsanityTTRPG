@@ -41,7 +41,7 @@ Todo personagem tem uma **Abertura** (um espaço interno, na barriga) que armaze
 
 O **rank** do cultivador (1 a 9, igual aos Gu) diz **qual rank de Gu ele consegue ativar** — normalmente, do seu rank pra baixo. Um Gu acima do seu rank simplesmente não responde, salvo num truque caro e arriscado. E quanto maior o rank, mais forte bate cada Gu na mão dele.
 
-Quem manda no **tamanho do tanque** é outra coisa: cada rank mortal tem **quatro estágios** (Inicial · Médio · Alto · Pico), e é subir de **estágio** que **dobra a essência** — `% de aptidão × 4`, dobrando a cada estágio. O rank não engorda o tanque: ao subir de rank o contador volta ao começo, só que agora com essência de um grau melhor.
+Quem manda no **tamanho do tanque** é outra coisa: cada rank mortal tem **quatro estágios** (Inicial · Médio · Alto · Pico), e é subir de **estágio** que engorda a essência — **mais 50% a cada estágio**, de `% de aptidão × 4` no Inicial até duas vezes e meia isso no Pico. O rank não engorda o tanque: ao subir de rank o contador volta ao começo, só que agora com essência de um grau melhor.
 
 Ranks **1 a 5 são a fase mortal**. Rank 6 em diante é imortal, e a passagem entre os dois é o maior evento do jogo.
 

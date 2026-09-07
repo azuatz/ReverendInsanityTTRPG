@@ -68,7 +68,7 @@ Sobre o custo base, aplique o multiplicador do que o Gu faz. É o que dá identi
 | **Alma, Sabedoria, Escravidão, Informação, Sorte** | **×1,25** |
 | **Tempo, Espaço, Sonho, Leis, e qualquer coisa que altere a realidade** | **×1,5** |
 
-Arredonde pra cima. O modificador vale pro custo de ativação **e** pra manutenção por rodada. *(Exemplo: um Gu de teleporte de rank igual ao seu custa 40 × 1,5 = 60; um de fogo do mesmo rank custa 40.)*
+Arredonde pra cima. O modificador vale pro **custo de ativação** — e é só nele que ele entra; um custo de sustentação por rodada declarado na ficha de um Gu específico já vem com o número pronto e não se remultiplica. *(Exemplo: um Gu de teleporte de rank igual ao seu custa 40 × 1,5 = 60; um de fogo do mesmo rank custa 40.)*
 
 ### O custo de um Gu é FIXO — o estágio não mexe nele
 
@@ -123,7 +123,7 @@ Gu de ativação instantânea (um ataque que dispara e acaba) **não ocupam vaga
 > 2. **Ela não era o freio que dizia ser.** Medida, quatro Gu sustentados bancavam **2,8 a 4,3 rodadas no estágio Inicial** e **22 a 34 no Pico**, contra uma cena de 7 a 9 — punia demais no começo e virava decoração no fim. É exatamente o defeito que a decisão 235 diagnosticou no custo de ativação.
 > 3. **O freio da essência foi resolvido do outro lado.** A preocupação era que o tanque crescesse rápido demais e a essência deixasse de restringir. Isso foi corrigido **achatando a curva da reserva** (50% por estágio em vez de dobrar — decisão 300), que é onde o problema estava. Manter a Manutenção por cima disso seria um terceiro número por rodada para o mestre rastrear, cobrando duas vezes pelo mesmo aperto.
 >
-> **O que segura o número de Gu ligados agora são duas coisas, não três:** o **teto de 3 Gu sustentados** (a regra de ficção, decisão 260) e o **custo de ativação com Densidade paga** (a regra de economia, decisão 258). Uma diz quantos você consegue coordenar; a outra diz quantos você consegue pagar. A Manutenção era um terceiro número por rodada que o mestre rastreava sem que ele decidisse nada.
+> **O que segura o número de Gu ligados agora são duas coisas, não três:** o **teto de 3 Gu sustentados** (a regra de ficção, decisão 260) e o **custo de ativação**, fixo pelo rank do Gu (a regra de economia — decisão 258, com a compra de densidade removida pela 300). Uma diz quantos você consegue coordenar; a outra diz quantos você consegue pagar. A Manutenção era um terceiro número por rodada que o mestre rastreava sem que ele decidisse nada.
 
 ### A regeneração — fora de combate, salvo o Físico Extremo
 
@@ -182,7 +182,7 @@ Da Ascensão em diante não existem mais estágios. O que define um Imortal é *
 4. **Fugir tem regra própria** — perseguição em 3 rodadas, e sempre dá pra sacrificar algo pra escapar. Ver [[🏃 Fuga e Perseguição|Fuga e Perseguição]].
 5. **Seus Gu podem morrer de fome.** O poder não é seu: está emprestado de criaturas que dependem de você e que você tem que alimentar.
 6. **Todo mundo nasce com 100 anos, e avançar de rank não queima nenhum** — só leva tempo de calendário. Passar dos 100 exige Gu de Longevidade. Ver [[⏳ Longevidade|Longevidade]].
-7. **Defesa é um Gu, não um direito.** Só se defende quem comprou, carregou e alimentou um Gu de defesa — e ele é sustentado: paga pra ligar e paga por rodada pra manter.
+7. **Defesa é um Gu, não um direito.** Só se defende quem comprou, carregou e alimentou um Gu de defesa — e ele é sustentado: paga pra ligar, ocupa uma das três vagas enquanto estiver ligado, e come toda semana.
 8. **Combate fica mais letal conforme se sobe.** Nos ranks altos, uma luta se decide antes de começar.
 9. **Rank vem na roupa, sem exceção.** A maioria dos clãs e seitas borda o rank na vestimenta — é informação pública, sem teste. O que o mundo acha de você além disso é narrativa pura.
 

@@ -26,7 +26,7 @@ Nada aqui é regra nova: é tudo o que já está em [[🪜 Ranks e Estágios]], 
 | ☐ **Dano de todo Gu** | **+1 por dado, por Grau**, automático. No Médio some `+1 × M`, no Alto `+2 × M`, no Pico `+3 × M` ao total |
 | ☐ **Vitalidade máxima** | `+4 × M` por Grau *(fórmula cheia: `(18 + 3×CON + 4×B) × M`)* |
 | ☐ **Alma máxima** | `+3 × M` por Grau *(`(16 + 3×VON + 3×B) × M`)* |
-| ☐ **Essência máxima** | **Dobra a cada estágio** — `% de Aptidão × 4 × (1 + 0,5 × (estágio − 1))` |
+| ☐ **Essência máxima** | **+50% por estágio** — `% de Aptidão × 4 × (1 + 0,5 × (estágio − 1))`, ou seja 100% · 150% · 200% · 250% |
 | ☐ **Vagas de Suporte** | = o Grau (0/1/2/3). Gu passivos de utilidade, **fora do teto de 3 sustentados** |
 | ☐ **Teto de Combo** | 2 · 3 · 4 · 5 Gu num Golpe Matador — **e Golpe Matador só existe do rank 3 em diante** |
 
