@@ -173,3 +173,20 @@ Isso costuma ser o espólio real de um combate — e é bom que seja. Ver [[💠
 
 > [!note] De onde saem estes números
 > Ancorados na tabela de preço de [[🏪 O Mercado]] (Gu de rank 1 ≈ 500 Pedras, rank 3 entre 1.000 e 10.000) e na escala de vida de [[💠 Economia das Pedras Primordiais]] (uma família vive com 1 Pedra por mês; a mesada de clã de um rank 1 é 40). As duas proporções — bolso a **um décimo** de um Gu do mesmo rank, fera a **um quinto** — foram escolhidas para que **saquear pague a viagem e caçar pague o equipamento**, sem que nenhum dos dois pague um Gu de uma vez só. Ver decisão 239 no [[🧭 Log de Decisões]].
+
+### 📕 E a fera também é um cofre — ela **carrega** Gu selvagens
+
+Gu nascem selvagens, e **o lugar mais confiável de encontrar um é dentro de uma fera grande**. Matar a fera é abrir o cofre. É isto que faz a via *Caçar* de [[🏪 O Mercado]] existir de verdade — a única porta de aquisição que não exige clã, receita nem dinheiro, e justamente a porta do grupo de rank 1 a 3.
+
+| A fera é... | Gu selvagens que ela carrega |
+|---|---|
+| Comum de porte *(lobo-relâmpago e afins)* | **3 a 4 de rank 2**, e **1 de rank 3** |
+| **Rei de Cem Feras** | Gu de **rank 2**, em quantidade |
+| **Rei de Mil Feras** | **3 ou 4 de rank 2**, mais **1 de rank 3** |
+| **Rei de Miríade** | Gu de **rank 4** |
+| Imperador-fera | Gu de **rank 5** |
+
+> [!important] Não dá para saber o que tem dentro antes de matar
+> **Todo abate grande é caixa fechada.** Ninguém entra numa caçada sabendo o prêmio — é isso que torna caçar uma **aposta** e não uma compra, e é a diferença entre esta via e o mercado.
+>
+> **Uma correção que vem junto:** o traço **Sem Abertura** do [[⚔️ Ameaças Genéricas por Rank]] diz que fera não dá essência para drenar nem receita para saquear. Está certo no que **nega** — ela não aciona Gu como um cultivador. Mas ela **carrega** Gu, e o traço não deve ser lido como se ela deixasse só carne.
