@@ -100,3 +100,29 @@ Role `1d12` ou escolha. **O que importa não é o dano** *(isso as regras resolv
 ---
 
 *Regras, CDs, preparações e a economia de falha: [[🌩️ Calamidades e Provações]]. O que a Terra Abençoada perde e como ela se recupera: [[🗝️ Terra Abençoada]] e [[🌾 Ecologia e Economia da Terra Abençoada]]. O contador que decide o quanto o céu persegue alguém: [[⛈️ A Vontade do Céu]].*
+
+---
+
+## 📕 De quem é a tribulação — e por que ela tem Brecha
+
+A tribulação deste sistema já tem Caminho, forma e cicatriz. O que faltava é **autoria** — e o romance dá uma que muda como o mestre escreve uma e como o grupo se prepara para ela.
+
+> [!important] Quando um Venerável morre, o golpe principal dele fica impresso no mundo
+> E passa a **reaparecer sozinho**, séculos depois, na forma de tribulação e de calamidade — contra cultivadores que nunca ouviram falar dele. **É lei do mundo, não figura de linguagem.**
+>
+> **A consequência é imediata: uma tribulação é um Golpe Matador de alguém.** E todo Golpe Matador deste sistema tem uma **Brecha obrigatória** ([[⚡ Golpes Matadores]]). Logo:
+>
+> **Toda tribulação tem uma Brecha, e ela é descobrível.**
+
+**O que isso muda na prática, e é bastante:**
+
+**Para o mestre**, a tribulação deixa de ser fenômeno meteorológico com estatísticas e passa a ter um autor morto. Escolha um Venerável — inventado ou não —, decida qual era o golpe dele, e a forma da tribulação **sai disso** em vez de sair da tabela `1d12`. Um Venerável do Caminho do Roubo produz uma tribulação que **arranca coisas**; um do Caminho da Espada, uma que **corta em linha reta**. A tabela continua servindo para quando você não quiser decidir.
+
+**Para o grupo**, abre uma linha de preparação que não existia: **pesquisar a tribulação que vem**. Descobrir de quem era o golpe é trabalho de [[🧠 Dedução|Dedução]] e de [[🕵️ Preparação e Informação|informação]] — arquivo de seita, herança, alguém que sobreviveu à mesma. Achar a Brecha usa o mesmo teste de *Descobrir a Brecha alheia*: **AST CD 16, três sucessos antes de duas falhas**, com um mês de pesquisa por tentativa.
+
+**Quem descobre a Brecha ganha `−3` na CD de todas as etapas daquela tribulação** — e isso **entra no teto global de −4** de [[🌩️ Calamidades e Provações]], não passa por cima dele.
+
+> [!tip] Por que isto é a melhor preparação do subsistema
+> As outras sete preparações da tribulação são **compra**: terreno, Gu, aliado, consumível. Esta é **investigação**, e é a única que um grupo pobre consegue pagar. Um bando de rank 6 sem dinheiro e com um bom estrategista pode chegar à Provação sabendo exatamente o que vem — que é como o romance trata o assunto, e é uma cena melhor que comprar o desconto.
+>
+> **E ela dá aos Veneráveis mortos um papel mecânico**, não só de lore: eles continuam matando gente muito depois de morrerem, com o golpe que inventaram em vida.
