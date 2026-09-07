@@ -43,6 +43,27 @@ Resolução em d20 (ataque, defesa, testes). **Dano é um pool de dados acumulad
 > [!note] Por que este número também não existia
 > Todo molde de inimigo declarava as ações dele; **o lado do jogador, nenhuma nota do vault dizia.** É o mesmo defeito que o deslocamento tinha logo abaixo — um número de que tudo dependia e que ninguém escreveu, porque quem escreveu já sabia. Um mestre que nunca leu o romance nem jogou este sistema não sabe, e a régua depende dele.
 
+## 🗡️ A emboscada — onde o plano vira vantagem
+
+O sistema promete, em toda página de preparação, que **quem prepara vence**. Esta é a regra que cumpre a promessa: o ponto exato em que o trabalho feito antes da luta vira número dentro dela.
+
+**Há emboscada quando as duas coisas valem:** o grupo sabia que o alvo estaria ali, e o alvo **não sabe que eles estão ali** — por Furtividade vencida, por disfarce, ou porque não tinha motivo nenhum para desconfiar.
+
+| | O que acontece na 1ª rodada |
+|---|---|
+| **Emboscada** | Os emboscadores **agem primeiro**, sem rolar Iniciativa. Todo ataque contra o alvo tem **vantagem** nesta rodada |
+| **Emboscada aprofundada** *(gastando 1 Ponto de Plano)* | O mesmo, **e o alvo perde a ação da primeira rodada** — ele se move, e nada mais |
+| **Emboscada percebida a tempo** | Iniciativa normal. O preparo não some: o grupo escolheu o terreno, e isso vale tudo o que o terreno valer |
+
+**Depois da primeira rodada, acabou.** Emboscada é um começo, não um estado — a partir da rodada 2 a luta é uma luta.
+
+> [!important] O estado *"não sabe onde você está"*, e por que ele precisava existir
+> O Caminho das Sombras rola **d12 em vez de d8 contra quem não sabe onde você está** — a assinatura inteira do Caminho. O vault nunca disse **como se entra nesse estado nem como se sai dele**, o que deixava a melhor jogada de um Caminho apoiada em arbitragem de mesa.
+>
+> **Entra-se** vencendo Furtividade contra a Percepção do alvo, ou pela emboscada acima. **Sai-se** no momento em que você ataca de uma posição que o alvo consegue identificar — o que, na prática, quer dizer que **o bônus vale para o primeiro golpe e depois some**, a menos que alguma coisa o mantenha escondido: um Gu de Sombras que cubra o disparo, escuridão que o alvo não enxergue, ou um novo teste de Furtividade vencido gastando a ação.
+>
+> É por isso que Sombras é o Caminho que mais depende de preparação e o que mais recompensa uma segunda saída: cada volta à escuridão é um novo d12.
+
 ## 🏃 Deslocamento
 
 **Todo personagem e todo inimigo move até 10 metros por turno**, além da ação. Correr de verdade — abrir mão da ação para só se deslocar — dobra para 20.

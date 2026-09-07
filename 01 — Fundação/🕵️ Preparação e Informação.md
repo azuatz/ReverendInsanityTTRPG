@@ -38,6 +38,7 @@ Durante a operação, qualquer jogador pode gastar 1 Ponto pra:
 | **"Já tínhamos deixado isso pronto"** | Declara que um preparativo plausível está no lugar — uma corda, um Gu plantado, um aliado avisado |
 | **"Era esse o plano"** | Vantagem (2d20, fica com o maior) num teste da operação |
 | **"Saímos pela rota B"** | Ganha 1 ponto de Distância numa [[🏃 Fuga e Perseguição\|Perseguição]], de graça |
+| **"Ele nunca nos viu chegar"** | **Aprofunda uma emboscada:** o alvo perde a ação da primeira rodada, em vez de só ser pego de guarda baixa. Ver [[⚔️ Combate#🗡️ A emboscada — onde o plano vira vantagem\|a regra de emboscada]] |
 
 Pontos não gastos **somem no fim da operação**. O plano era pra aquilo.
 
