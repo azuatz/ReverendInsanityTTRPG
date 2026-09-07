@@ -213,7 +213,7 @@ Validação final do dia: todas as mudanças de regra desde a quinta rodada (dec
 
 ### 🤝 Golpe Matador Coletivo vs. Chefe
 
-Cenário dedicado: Clímax (Chefe + Guerreiro especial), comparando três aberturas — **nenhum Golpe Matador**, **solo** (só o Xie Lang, como nas rodadas 5-6 anteriores) e **coletivo** (os 4 PJs, [[⚡ Golpes Matadores#🤝 Golpe Matador Coletivo]], peça nova desta rodada).
+Cenário dedicado: Clímax (Chefe + Guerreiro especial), comparando três aberturas — **nenhum Golpe Matador**, **solo** (só o Xie Lang, como nas rodadas 5-6 anteriores) e **coletivo** (os 4 PJs, [[⚡ Golpes Matadores#🤝 Golpe Matador Coletivo *(variante opcional)*]], peça nova desta rodada).
 
 | Rank | Nenhum golpe | Solo (Xie Lang) | **Coletivo (4 PJs)** |
 |---|---|---|---|
@@ -3076,3 +3076,139 @@ Calamidade Terrestre a cada 10 anos internos (3 etapas) e Provação Celestial a
 ## 🔧 Método
 
 Motor em Perl, semente fixa (`20260827`), 3.000 iterações por cenário, limite de 20 rodadas. IA dos PJs: cura se um aliado está abaixo de 40%; Golpe Matador uma vez por cena contra alvo de Elite ou acima; senão ataque padrão; sem essência, desliga um sustentado e cai para melee cru (sem `× M`). IA dos inimigos: foco de fogo no PJ mais ferido, especial na primeira ação. Os scripts ficam no scratchpad da sessão, não no vault.
+
+---
+
+## 🗃️ Arqueologia movida da ficha de ameaças *(2026-09-06)*
+
+> [!info] De onde veio este bloco
+> Os registros abaixo estavam dentro de [[⚔️ Ameaças Genéricas por Rank]] — qual rodada mediu o quê, o que uma versão anterior da ficha dizia, por que um número virou outro. São histórico de medição, não instrução de mesa, e por isso vieram para cá. **Nenhum número vigente mudou de valor:** a ficha ficou com os moldes, as tabelas e as advertências operacionais; a arqueologia ficou aqui. Cada subseção diz a que rodada pertence, e as que já têm seção própria nesta nota estão linkadas.
+
+### 🐺 A Horda — por que o piso de ataques existe *(nona e décima quarta rodadas)*
+
+→ regra vigente em [[⚔️ Ameaças Genéricas por Rank#👥 A Horda — recrutas como uma unidade só|A Horda]].
+
+Recrutas individuais **morrem antes de agir**: um personagem do mesmo rank mata um por golpe, e a economia de ação deles nunca acontece. Testado, 6 Recrutas terminam com os quatro personagens de pé em todo rank — 100% de vitória e 4 de 4 de pé em todo rank. A correção foi parar de tratá-los como fichas separadas.
+
+**O piso existe porque oito feras cercando uma pessoa devem assustar, não cansar.** Sem ele, [[#🥷 Nona rodada — batalhas solo (2026-08-31)|a nona rodada de simulação]] mediu a horda contra um alvo solitário virando guerra de atrito de 10 a 19 rodadas — um ataque por rodada contra uma parede de Vitalidade dimensionada para quatro. Com o piso, o cerco volta a ser cerco — e é bom saber o tamanho dele, medido na [[#🧭 Décima quarta rodada — a bateria estendida (2026-08-31)|décima quarta rodada]]: **uma Horda de 8 derruba um personagem sozinho em ~5 rodadas, com 0-37% de chance de vitória solo** (a maioria dos perfis fica em ~0%). Oito feras contra um não é uma cena de vitória, é fuga ou resgate; se a mesa quiser uma caçada solo *jogável*, use uma matilha menor (uma Horda de 2-3) — dimensionar a Horda pra mesa é a mesma lógica da linha "com 3 jogadores" da ficha.
+
+### 🎲 Os números que faltavam em toda ficha de inimigo *(playtests de mesa)*
+
+→ regra vigente em [[⚔️ Ameaças Genéricas por Rank#🎲 Os números que faltavam em toda ficha de inimigo|Os números que faltavam]].
+
+Dois playtests de mesa travaram nesta seção. **Nenhum daqueles números era regra nova — eram números que o motor de simulação usa desde sempre e que a ficha nunca publicou.**
+
+**Destreza.** *(Verificado em cena: a Horda age antes de um PJ em 30-38% das vezes e o Chefe em 43-52%. O custo em vitória do grupo é de até 5,4 pontos percentuais, concentrado em Difícil e Clímax, e nenhuma célula sai da faixa — decisão 294.)*
+
+A publicação das duas linhas da barra de Alma (95% da Vitalidade, Defesa `13 + 2 × rank`) fechou o buraco que deixava um Caminho inteiro inerte contra cinco dos seis moldes.
+
+**A Defesa contra Alma de `13 + 2 × rank` não é número novo:** é exatamente a fórmula do PJ — `10 + VON + 2 × rank` — com **VON +3**, que é a linha de base de atributo desta mesa (decisão 252). Um molde defende a Alma como um personagem de Vontade típica.
+
+> [!warning] Por que a barra de Alma era o buraco mais caro da ficha de inimigo
+> Todo molde tinha barra de Alma no motor e **nenhum a publicava fora do Mestre de Gu**. Medido num playtest: o personagem de Alma **acertou 5 de 5, causou 35 de dano, gastou 79% do tanque — e não aconteceu nada**, porque não havia barra escrita para descontar. **Um dos Caminhos ficava inerte contra cinco dos seis moldes, e não por desenho.**
+
+**Alma zerada tira o inimigo da cena.** *(Regra que o motor de simulação aplica desde a primeira versão — as 26 rodadas todas tiraram o inimigo da cena ao zerar a Alma dele. Nunca havia sido publicada.)*
+
+**O molde Chefe por inteiro.** *(Um playtest teve de deduzir os quatro números próprios do Chefe por engenharia reversa a partir do único Chefe de exemplo escrito — e é o molde que o Guia autoriza como Clímax da primeira sessão.)*
+
+### 🐉 O molde Chefe — de onde vieram os números *(rodadas 18 a 24)*
+
+→ regra vigente em [[⚔️ Ameaças Genéricas por Rank#O Chefe — a regra especial pra combate solo|O Chefe]].
+
+> [!warning] De onde vêm estes números, porque a ficha já publicou dois conjuntos
+> A coluna de vitória vem da **bateria conjunta da decisão 262**, que mediu esta mesma cena (Chefe + Guerreiro) com o teto de Gu, o molde recalibrado e as ações extras **todos ligados**, e varrendo os cinco ranks. A versão anterior daquela tabela trazia 77/86/87/84/85%, medidos na decisão 253 **antes** da bateria conjunta — e ficavam em contradição com a linha de Clímax da tabela de composição, na mesma nota. **As durações não foram remedidas na bateria conjunta** e continuam vindo da 253.
+
+As cinco células caem dentro da faixa de 56-87% que "Clímax" promete, e a cena dura 6,5 a 8,3 rodadas — o ritmo de 6-8 da decisão 208, com o rank 3 estourando 0,3 rodada. *(Decisão 253, que **corrige** os números das decisões 249 e 251 — aquelas duas rodadas mediram com três dos quatro PJs sem os Níveis de Potência das fichas deles, o mesmo defeito de motor que a décima oitava rodada tinha consertado.)*
+
+> [!note] A barra que o autor propôs originalmente estava certa — foi a medição que errou
+> A proposta era `94 × M` uniforme, e uma rodada intermediária a rejeitou dizendo que "a magnitude era quase o dobro do necessário". **Aquela rejeição era artefato de um bug de medição.** Remedida com o grupo modelado inteiro, a escada correta é `63 / 80 / 100 / 94 / 115` — ou seja, o `94 × M` acerta o rank 4 em cheio e fica perto no rank 3. **O que sobrevive intacto é o conserto do rank 1**, que nunca foi problema de barra: ele resiste a qualquer Vitalidade (0% de vitória já em `150 × M`) e só responde a **ações**.
+
+> [!danger] 🔴 Os números do Chefe foram corrigidos na décima oitava rodada, e o Chefe deixou de ameaçar
+> A ficha publicava **3 / 54 / 87 / 75 / 90%**; remedida com o motor consertado, ela dá **28 / 96 / >99 / 98 / >99%** *(faixa entre os três dials de ficha: 17-38 · 90-98 · 98-100 · 96-99 · 99-100)*. A causa não é o Chefe — é que dezessete rodadas de simulação rodaram com **três dos quatro PJs sem os Níveis de Potência que as fichas deles concedem** (ver [[#🔧 Décima oitava rodada — os três consertos de motor e a revalidação (2026-09-01)|a décima oitava rodada]]). Com o grupo modelado inteiro, **um Chefe do rank do grupo não é mais um clímax do rank 2 em diante.**
+>
+> **✅ Resolvido para o molde Chefe (decisões 251 e 253).** O autor escolheu a alavanca da Vitalidade e ela foi medida. A escada aplicada é `63/80/100/94/115 × M`, e o rank 1 trocou quatro ações por duas. *(A decisão 251 tinha publicado `63/72/78/72/80` e a rejeição do `94 × M`; ambos eram artefato de medição com três dos quatro PJs sem os Níveis das fichas. Corrigido pela 253.)*
+>
+> **✅ Revalidado pela décima nona rodada (decisão 242), com o Golpe Matador finalmente disparando.** A suspeita registrada era que o Chefe só parecia fácil porque o combo nunca entrava na cena que foi construída em torno dele. **Medido: os dois problemas são independentes.** Com a regra da decisão 240 e o gatilho contado por ação, o combo dispara e a tabela anda **−0,6 / 0,0 / −0,4 / −0,7 / −1,7 pontos percentuais**. **O molde do Chefe fica intocado por decisão do autor**, e o número que vai dimensioná-lo agora está livre da variável do combo.
+>
+> **✅✅ Revalidado outra vez pela vigésima rodada (decisão 246), agora com o portão de rank 3, a Abertura do disparo e o pool dobrado ligados** — e o veredito ficou **mais forte, não mais fraco**. Com todas as regras vivas o Clímax mede **99,3 / 98,5 / 96,8%** nos ranks 3/4/5: o rank 5 anda **+1,4pp na direção errada**. **Um Golpe Matador mais forte torna a cena de Chefe mais difícil para o GRUPO, não para o Chefe** — porque disparar custa o arsenal, e o grupo que dispara sempre perde 14 pontos de vitória em média. **O Golpe Matador não segura a cena de Chefe em nenhuma versão da regra; o reforço do Chefe tem de vir do Chefe.**
+
+> [!success] ✅ O Chefe de rank 1 deixou de ser a exceção — e a causa não era falta de calibragem
+> Ele media **17-28%**, de longe a célula mais dura da tabela inteira e a única abaixo da faixa que "Clímax" promete. **A causa era um número fora da escada:** o Chefe de rank 1 tinha **quatro** ações por rodada, enquanto os ranks 2-3 têm duas e os 4-5 têm três — subia e voltava a descer. Com **duas ações e a Vitalidade publicada intacta**, ele mede **76,5% de vitória em 6,51 rodadas**, o centro dos dois alvos, sem tocar em nenhuma outra alavanca. E é a **única** alavanca que funciona nele: com quatro ações ele resiste a qualquer barra — `150 × M` ainda dá 0% de vitória ao grupo.
+>
+> Com isso, **a variante "1 Elite + 3 Mestres" deixa de ser a recomendação para o clímax de rank 1** e volta a ser só uma alternativa de sabor. *(Decisão 251. A rejeição da alavanca de ações registrada nas decisões 137 e 209 é sobre **somar** ações; subtrair do rank 1 é o movimento oposto, e aquelas rodadas não o mediram.)*
+
+**Por que não é uma escala limpa.** *(Justificativa revista pela décima nona rodada.)* A explicação antiga dizia que a dificuldade do Chefe era governada por **quantos Golpes Matadores o grupo consegue pagar naquele rank**. **A medição refuta isso — mas não pelo motivo que a décima oitava publicou.** Aquela rodada tinha concluído que o combo *"não compensa contra Chefe publicado nenhum, porque a essência que ele custa compra 16 a 40 ataques comuns"*; **essa conclusão foi retirada** (decisão 242): ela era artefato da métrica do gatilho, não propriedade do sistema. Remedido com a regra da decisão 240 e o custo-benefício contado **por ação**, o combo **dispara** — até 3,21 vezes por cena de Clímax no rank 5 — e a vitória do grupo cai de 99,7% para apenas **95,4%**. **O Golpe Matador não é o que governa a escala do Chefe, nem quando dispara.** O que governa é o **volume de ações contra o arsenal do grupo** — e a vigésima segunda rodada fechou a prova disso pela outra ponta: o rank 1 era a célula mais dura do jogo **por causa das quatro ações**, e devolvê-lo a duas o levou de 17% a 70% de vitória sem mexer em mais nada. A escada de ações é o botão real da dificuldade do Chefe; a Vitalidade é o botão do **ritmo**.
+
+**Onde isso cai, medido:** contra uma mesa de 4 do mesmo rank, um Chefe com a Vitalidade e as ações da tabela publicada mais um Guerreiro de apoio é uma luta de **6,5 a 8,3 rodadas**, com o grupo vencendo em **68 a 75%** das vezes *(69 · 68 · 75 · 71 · 72% nos ranks 1 a 5)* — dentro da faixa de Clímax em todos os cinco ranks, e é a mesma linha que a tabela de composição publica.
+
+### 👥 A tabela de composição — o histórico das faixas *(rodadas 13 a 24)*
+
+→ regra vigente em [[⚔️ Ameaças Genéricas por Rank#Como montar uma cena de combate|Como montar uma cena de combate]].
+
+*(A explicação anterior atribuía a escala do Chefe ao "custo relativo do Golpe Matador"; a décima nona rodada mediu o combo disparando e mostrou que ele move menos de 5pp em qualquer célula de Chefe — decisão 242.)*
+
+> [!success] ✅ A escada de dificuldade voltou a funcionar — e o botão é **ação**, não peça
+> As composições prometiam faixas que não entregavam desde a décima oitava rodada. Consertadas na vigésima quarta (decisão 258), e o caminho até lá vale mais que o resultado:
+>
+> - **Acrescentar uma peça não serve.** Um Guerreiro a mais leva o Difícil de rank 3 de 78% para 38% — passa por cima da faixa inteira — **e ainda estoura o ritmo**, porque mais inimigos é mais barra para mastigar (7,6 → 9,3 rodadas). Vitória e duração andam em **direções opostas** quando se conta peças, e é por isso que o "penhasco de ações" da decisão 137 nunca teve solução por composição.
+> - **Dar +1 ação a todos os Mestres também não.** Difícil de rank 3 vai a 28%, outro salto por cima.
+> - **Dar +1 ação a APENAS ALGUNS Mestres resolve.** É a granularidade que faltava, e ela **move a vitória sem mexer no ritmo** (7,6 → 7,7 rodadas). Mesma barra, mais ameaça — exatamente a lição que o molde Chefe já tinha entregue: **ações governam a dificuldade, Vitalidade governa o ritmo.**
+>
+> **Confirmado em bateria conjunta:** com o teto de Gu, o molde Chefe recalibrado e as ações extras **todos ligados ao mesmo tempo**, a tabela entrega **25 de 25 células dentro da faixa prometida** — contra 8 de 15 antes de qualquer um dos três consertos. A escada de dificuldade está inteira pela primeira vez desde a décima oitava rodada.
+
+> [!danger] 🔴 Tabela corrigida na décima oitava rodada — e a escada de dificuldade colapsou (2026-09-01)
+> Dezessete rodadas de simulação rodaram com **três dos quatro PJs sem os Níveis de Potência que as fichas deles concedem** — só a Lee recebia a escada do Wu Xing, enquanto Jiāotáng (Caminho da Força), Xie Lang (Fase da Lua) e Demvi (Corrente + Altitude do Vento) rodavam com zero. Com os quatro modelados, **8 das 16 células mudaram** e três das cinco composições saíram da faixa que prometem.
+>
+> **A faixa entre os três dials de ficha** (as escadas de Lua, Vento e Wu Xing dependem de fase, posição e terreno — o número da tabela é a leitura de **cena ordinária**, e a faixa vai do dial zerado ao teto):
+>
+> | Composição | faixa prometida | r1 | r2 | r3 | r4 | r5 |
+> |---|---|---|---|---|---|---|
+> | Fácil | 95-100% | 100 ✅ | 100 ✅ | 100 ✅ | 100 ✅ | 100 ✅ |
+> | Padrão | 75-99% | 98 ✅ | 93 ✅ | 97 ✅ | 98 ✅ | 98 ✅ |
+> | Padrão pesado | 60-90% | 83 ✅ | 82 ✅ | 82 ✅ | 85 ✅ | 89 ✅ |
+> | Difícil | 40-75% | 64 ✅ | 69 ✅ | 71 ✅ | 71 ✅ | 60 ✅ |
+> | Clímax | 56-87% | 69 ✅ | 68 ✅ | 75 ✅ | 71 ✅ | 72 ✅ |
+>
+> **25 de 25 dentro da faixa** (decisão 262). Antes dos três consertos — teto de Gu, molde Chefe e ações extras — eram 8 de 15 nas células então medidas.
+>
+> *(Tabela remedida por inteiro na vigésima quarta rodada, com o teto de Gu, o molde Chefe recalibrado e as ações extras todos ligados — decisões 258, 260 e 262. **A escada de dificuldade está completa pela primeira vez desde a décima oitava rodada.**)*
+>
+> **O que NÃO foi feito:** redesenhar as composições para voltarem às faixas — **as quatro acima do Clímax**, que é a única já resolvida (decisão 251). Isso é decisão de design do autor, não conserto de motor, e a alavanca dessas quatro é o **número de peças**, não o molde. *(A alavanca "Chefe de `94 × M`" que a ficha sugeria está **rejeitada por medição**.)* A variante de Clímax "1 Elite especial + 3 Mestres" (o ✝ da tabela) **não é retestada desde a terceira rodada**. Detalhe e método em [[#🔧 Décima oitava rodada — os três consertos de motor e a revalidação (2026-09-01)|a décima oitava rodada]].
+>
+> **✅ Revalidada pela décima nona rodada** ([[#🎯 Décima nona rodada — o Golpe Matador medido por ação (2026-09-01)|2026-09-01]], decisão 242): com o Golpe Matador disparando pela primeira vez, **nenhuma das quinze células anda mais de 3pp**.
+
+> [!success] Tabela revalidada em conjunto — décima terceira rodada (2026-08-31)
+> As 20 células então publicadas foram remedidas de uma vez só, com todas as regras de hoje ligadas ao mesmo tempo (3.000 iterações/célula). **Dezenove conferem dentro de 3 pontos percentuais**; a única que se moveu foi **Difícil de rank 2 (35% → 31%)**, corrigida na época. As faixas de duração também conferem. Ver [[#✅ Décima terceira rodada — validação final conjunta (2026-08-31)|a décima terceira rodada]]. *(Registro histórico: os números que esta caixa validou foram substituídos pela décima oitava rodada.)*
+
+> [!success] Resolvido — a tabela está certa como está *(decisão 215)*
+> A décima terceira rodada descobriu que o motor de simulação sempre modelou `treino = 0` no acerto, enquanto [[💪 Atributos]] trazia `+ treino` na fórmula. O autor decidiu: **ataque não é ação treinada** — o bônus de treino vale só em teste de perícia, nunca em rolagem de ataque. A fórmula de Atributos foi corrigida para refletir isso, e **a premissa segue válida**: `treino = 0` continua sendo o que todas as rodadas medem, inclusive a décima oitava. *(A alternativa — ligar treino só nos PJs — moveria a tabela +12,6 pontos percentuais em média, até +30,9.)* ⚠️ **O que caducou é a frase "os números acima seguem válidos sem nenhuma republicação":** eles foram republicados pela décima oitava rodada, por causa da paridade de Níveis de ficha — nada a ver com treino.
+
+**A linha de "Padrão pesado" caiu 8-13 pontos porque o piso de ataques da Horda a endurece** — os 71/64/63/85 anteriores eram medição feita **antes** do piso, e os 63/57/50/76 vieram da décima primeira rodada. *(Os dois conjuntos são históricos: a décima oitava rodada, com os quatro PJs modelados, mede 89/91/91/99%.)*
+
+**As duas exceções por rank, e a calibragem delas.** As exceções de "Padrão muda de composição no rank 1" e "Difícil de rank baixo é quase-Clímax" nasceram calibradas contra medições que a décima oitava rodada substituiu (Difícil de rank 1-2 media 31%/31% e hoje mede **70%/83%**), e por um tempo a ficha carregou o aviso de que precisavam ser refeitas. Foram: a *lógica* das duas — o penhasco de volume de ações — se confirmou nas medições novas, e os limiares agora leem a tabela de composição publicada na ficha, não a antiga.
+
+### ⏱️ Duração de cena — os números anteriores *(décima primeira e décima oitava rodadas)*
+
+→ números vigentes em [[⚔️ Ameaças Genéricas por Rank#Como montar uma cena de combate|Como montar uma cena de combate]].
+
+Os tempos medidos na décima oitava rodada (Fácil 2,2-3,9 rodadas · Padrão 4,2-5,1 · Padrão pesado 6,0-7,5 · Difícil 6,5-6,8 · Clímax 6,5-8,3, este último recalibrado — antes da recalibragem media 4,7-6,7) representam cenas **1,5 a 4 rodadas mais curtas** do que se publicava antes (Fácil 2,5-4,6 · Padrão 6,0-7,7 · Padrão pesado 7,5-10,5 · Difícil 8,3-9,1 · Clímax 6,8-10,7), pela mesma causa: o grupo bate mais forte do que o motor supunha. **Isso reabre a decisão 208** — o autor tinha fechado o fork de duração escolhendo "6-8 rodadas é o ritmo real do sistema", e o ritmo real agora é 4-7. Se a mesa quiser cenas curtas, o botão **não** é dano nem RD — é o número de peças, e ele é o mesmo botão da dificuldade (ver [[#⏱️ Décima primeira rodada — encurtando a cena (2026-08-31)|a décima primeira rodada]]).
+
+### 🔇 Alma rara — por que a direção inverte *(décima rodada)*
+
+→ regra vigente em [[⚔️ Ameaças Genéricas por Rank#🧑‍🦱 Mestre de Gu — o inimigo humano|Mestre de Gu]].
+
+Os números da tabela de composição já assumem a regra de Alma rara (décima rodada de simulação): todo Mestre de Gu com a Ação Especial do próprio Caminho, e o cultivador de Alma entrando só pela exceção rolada de 1d6. Contraintuitivo mas medido: **tirar o Alma do padrão deixou as cenas um pouco MAIS difíceis, não mais fáceis** (2-10 pontos) — uma especial de Alma isolada gasta o golpe numa barra que nada mais ataca, enquanto a especial física soma no foco de fogo e aplica Lentidão com mais frequência. Histórico completo em [[#🔇 Décima rodada — Alma rara entre inimigos (2026-08-31)|a décima rodada]].
+
+### ☯️ O molde imortal soma treino — como a matriz ΔB foi consertada *(oitava e décima quarta rodadas)*
+
+→ regra vigente em [[⚔️ Ameaças Genéricas por Rank#Imortais (rank 6+) — some a densidade de Marca|Imortais]].
+
+**O que faz a matriz funcionar nos ranks 7-9: o molde imortal soma treino.** Até a décima quarta rodada o ΔB só era dial de verdade no rank 6 — do 7 em diante ele perdia força até sumir (no rank 9, um inimigo três níveis acima ainda perdia 98% das vezes), pela assimetria que a oitava rodada diagnosticou: o acerto do inimigo escala `+1/rank` e a Defesa dos personagens `+2/rank`, então o inimigo passa a errar tanto que nenhum bônus de dano compensa. A correção, medida e adotada *(decisão 215)*, foi somar o bônus de treino do rank ao acerto do molde de rank 7 ou mais — **só do rank 7 pra cima**, e **só no lado do inimigo**: a fase mortal e o rank 6 ficam **exatamente** como estavam (0,00pp de diferença medida), e os ranks 7-9 recuperam a escada — é a linha "+3 níveis" da matriz saindo de 43/79/98% para **1/5/57%**.
+
+*(As 5 composições rodadas a ΔB 0 no rank 6 seguem em 76-100% — o "passeio" da oitava rodada continua de pé lá.)*
+
+### ⚠️ "Rank do grupo ou até +1 acima" — a linha revogada
+
+→ advertência vigente em [[⚔️ Ameaças Genéricas por Rank#O Chefe — a regra especial pra combate solo|O Chefe]].
+
+A ficha já trouxe a linha "rank do grupo ou até +1 acima" para escolher o rank do Chefe, e ela **matava a mesa inteira, sempre**. Foi substituída pela proibição direta de usar Chefe de rank acima do grupo.
