@@ -368,3 +368,29 @@ Isso torna "desenvolver o meu Golpe Matador de rank 5" um objetivo de campanha d
 ## Golpes Matadores e o Caminho
 
 Depois da [[♾️ A Ascensão Imortal|Ascensão Imortal]], um Golpe Matador tende a refletir o Caminho do cultivador — um Caminho de Veneno monta combos de debilitação progressiva, um de Ilusão monta combos que terminam antes do alvo perceber que o combate começou. Antes da Ascensão, um Golpe Matador é só o que o jogador conseguiu montar com os Gu que tinha — e é justamente esse padrão repetido, sessão após sessão, que sinaliza qual Caminho o personagem está trilhando sem saber.
+
+---
+
+## 🔥 Um golpe queima — usar expõe, e um golpe parado morre
+
+O `−4` de golpe registrado é permanente na ficha, mas **não é permanente no mundo**. Cada vez que você dispara um Golpe Matador diante de alguém que sobrevive para contar, ele fica um pouco mais fácil de derrotar — e o sistema já tem as duas peças para modelar isso, faltava ligá-las.
+
+**A regra, e ela usa só o que já existe:**
+
+| Quantas vezes este golpe foi visto por quem sobreviveu | CD para **Descobrir a Brecha** dele |
+|---|---|
+| 1 vez | **14** *(a CD normal)* |
+| 2 a 3 vezes | **12** |
+| 4 ou mais | **10** — e quem já lutou contra ele tem **vantagem** no teste |
+
+O teste é o que já está publicado acima em *Descobrir a Brecha alheia*, e a contagem é a mesma que [[👁️ Exposição]] já manda o mestre anotar: **um Golpe Matador é impressão digital**. A nota de Exposição cobre o lado social — quem te caça e por quê. Esta tabela cobre o lado tático: **quem já te viu, já sabe.**
+
+> [!important] E é por isso que trocar de golpe custa reclusão
+> O sistema sempre cobrou **um arco de reclusão e treino** para registrar um golpe novo, e esse custo era puro — não comprava nada. Agora ele compra a coisa mais valiosa que um cultivador tem: **um golpe que ninguém decifrou ainda.**
+>
+> **Modificar é muito mais barato que criar.** Trocar **um** Gu de apoio de um golpe já registrado custa **metade** do tempo de reclusão de um golpe novo — e **zera o contador de exposição**, porque a contramedida que alguém deduziu contra a versão antiga não pega a nova. Trocar o **núcleo** conta como golpe novo.
+>
+> **Na mesa isso cria a economia do segredo:** o grupo passa a ter motivo para **não** usar o melhor golpe numa luta que dá para ganhar sem ele. Um trunfo guardado vale mais que um trunfo gasto, e é exatamente assim que o romance trata o assunto.
+
+> [!warning] Emprestar um golpe não é emprestar um Gu
+> Um Gu emprestado volta. **Um golpe ensinado não volta** — quem aprendeu conhece a sequência, a Brecha e a Prerrogativa, e pode desenvolver contramedida contra você. Ensinar um Golpe Matador a um aliado **é aliança permanente ou erro permanente**, e a mesa deve tratar a decisão com esse peso.
