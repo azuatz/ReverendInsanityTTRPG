@@ -251,6 +251,12 @@ Uma Brecha é uma condição concreta sob a qual o golpe falha ou fica muito pio
 | **De preparação** | Exige uma marca plantada no alvo com antecedência; sem ela, o golpe erra sozinho |
 | **De janela** | Abre uma vulnerabilidade durante a montagem — a defesa cai, a posição se revela, o corpo fica exposto |
 | **De acúmulo** | Piora a cada uso na mesma cena, ou transforma o usuário permanentemente se usado demais |
+| **De sensoriamento** | O golpe precisa **perceber** o alvo por um canal declarado — visão, cheiro, calor, som, alma, sangue. Negado o canal, o golpe não acha quem acertar |
+
+> [!tip] A Brecha de sensoriamento é a única que se explora **dentro** do turno
+> As outras quatro cobram uma cena de análise fora de combate, e por isso pertencem a quem tem Astúcia. Esta não: **todo golpe tem um mecanismo de sentir o alvo**, e negar o canal é uma ação comum que qualquer personagem pode fazer — cobrir-se de lama, prender a respiração, apagar a fogueira, esconder a alma, sair do vento. O jogador não precisa deduzir a Brecha; precisa **notar o canal**, que é coisa que se vê acontecendo.
+>
+> É por isso que ela entra na lista: dá ao personagem sem Astúcia uma jogada defensiva contra um Golpe Matador, que hoje só existia como narração sem apoio de regra. Quem monta um golpe deve escolher o canal com o mesmo cuidado com que escolhe a Brecha — **um golpe que sente pelo cheiro é excelente no escuro e inútil na chuva**.
 
 ### Descobrir a Brecha alheia
 
@@ -318,6 +324,11 @@ Essa é a peça que faz um grupo pequeno parecer maior que a soma das partes —
 **A mesma estrutura, com o núcleo do outro lado.** Um Golpe Matador defensivo tem núcleo que protege — barreira, ancoragem, dispersão, desvio — e apoios que garantem que a proteção **chegue a tempo e cubra o que precisa**: um Gu que antecipa o golpe, outro que segura o terreno, outro que desliga a reação do inimigo.
 
 Nada aqui é regra nova. O que muda é **onde os Níveis caem**: num golpe de ataque eles sobem a Escada de Dano; num golpe defensivo eles vão para as faces que [[☯️ Marcas de Dao#As outras faces do Nível — o que ganha um Gu que não bate|as Marcas de Dao já definem]].
+
+> [!warning] Uma defesa não sabe barrar o que o dono não entende
+> **Um Golpe Matador defensivo só protege plenamente contra Caminhos em que quem o montou tem algum domínio.** Contra um Caminho em que o dono tem domínio **zero**, o golpe defensivo perde **metade dos Níveis** (arredonde para baixo) e a desvantagem imposta a quem fura não se aplica. Não é falha de potência: é que a barreira não reconhece a coisa que está passando por ela.
+>
+> **Isto é o que faz da build híbrida uma escolha tática, e não só uma build cara.** O sistema já cobra `×2` por hibridismo, e já justificava o preço dizendo que *"o alvo enfrenta duas defesas diferentes no mesmo turno, e quase ninguém tem as duas"* — esta regra é a versão **acionável** disso, agora do lado de quem defende. Um especialista puro monta a defesa mais forte do jogo e tem um buraco do tamanho de todos os outros Caminhos; um híbrido monta uma defesa menor sem buraco declarado. E dá ao grupo uma pergunta de preparação que vale ouro: *o que ele **não** cultiva?*
 
 | Apoios no combo | O que o núcleo defensivo ganha |
 |---|---|
@@ -387,6 +398,27 @@ Isso torna "desenvolver o meu Golpe Matador de rank 5" um objetivo de campanha d
 Depois da [[♾️ A Ascensão Imortal|Ascensão Imortal]], um Golpe Matador tende a refletir o Caminho do cultivador — um Caminho de Veneno monta combos de debilitação progressiva, um de Ilusão monta combos que terminam antes do alvo perceber que o combate começou. Antes da Ascensão, um Golpe Matador é só o que o jogador conseguiu montar com os Gu que tinha — e é justamente esse padrão repetido, sessão após sessão, que sinaliza qual Caminho o personagem está trilhando sem saber.
 
 ---
+
+## 🏛️ Promover um golpe — de jogada a patrimônio
+
+Um Golpe Matador é um **evento**: custa por disparo, acaba quando para, e só funciona nas mãos de quem o aprendeu. Quando um personagem quer que o efeito dele deixe de ser evento e vire **estado**, o mundo oferece dois degraus acima, e cada degrau baixa o custo por unidade de tempo enquanto cobra outra coisa no lugar.
+
+| Degrau | O que é | O que ganha | O que cobra |
+|---|---|---|---|
+| **1 — o golpe** | O que esta nota descreve | Nada a manter. Ninguém sabe que existe até você disparar | Custo por acionamento; some quando para; só você usa |
+| **2 — o núcleo de continuidade** | Um **segundo núcleo** acrescentado ao golpe, dedicado só a esticar a duração | O efeito vira **contínuo** em vez de instantâneo | Drena essência **e atenção** enquanto durar — ocupa uma vaga de sustentação. Exige **Grão-Mestre no Caminho do golpe** |
+| **3 — a formação** | O golpe convertido em [[🔷 Formações de Gu\|Formação]] ou Casa-Gu | Sustentação bem mais barata, o benefício **alcança outras pessoas**, ninguém mais precisa aprender o golpe, e liga/desliga **sem risco de Retaliação** | A formação tem **fundação e endereço**: ela pode ser achada, cercada e quebrada. E quando quebra, o operador cai junto |
+
+**A conversão não inventa nada — ela usa a ponte que já estava escrita.** [[🔷 Formações de Gu|Formações de Gu]] já publica que *um Domínio é um Golpe Matador de campo e herda a Brecha*, nas mesmas categorias. Promover um golpe é exatamente isso, feito de propósito: **a Brecha do golpe vira a Brecha da formação**, e o efeito do golpe define a função da Casa. Um golpe promovido não precisa de Brecha nova; ele carrega a que já tinha, e quem já a descobriu continua sabendo.
+
+**Requisitos, em ordem:** (i) o golpe está **registrado** na ficha e já foi usado; (ii) **Grão-Mestre** no Caminho do núcleo; (iii) para o degrau 2, um Gu de persistência ocupando a segunda posição de núcleo; (iv) para o degrau 3, um dos três Gu do Caminho das Formações — **Placa** (monta sozinha, e dispensa que quem a usa saiba de formações), **Bandeira** (guarda uma formação montada e a remonta noutro lugar) ou **Diagrama** (consumível, reproduz com margem de erro menor).
+
+> [!important] Por que isto vale a seção: o combo finalmente tem um destino
+> A medição da casa é dura com o Golpe Matador — por ação, ele quase nunca vence um ataque comum, e **o que o paga é a Prerrogativa** *(decisão 246)*. Isso é verdade e continua sendo. Mas até aqui o combo era só uma jogada tática, e um personagem que investisse anos no golpe favorito não tinha para onde levá-lo.
+>
+> Com a promoção, ele tem: **o combo favorito do personagem vira o coração da base dele.** É progressão narrativa e mecânica no mesmo movimento — e fecha, sem inventar regra, o buraco que o vault já sabia que tinha: [[🔷 Formações de Gu|Formações de Gu]] ensinava o mestre a *projetar* uma Casa e nunca dizia como um **personagem** consegue uma.
+>
+> **E é uma troca honesta, não um upgrade.** O golpe pessoal não tem ponto único de falha porque não tem endereço. A formação é mais barata, serve o grupo inteiro e liga sem risco — e pode ser cercada enquanto você dorme. Quem promove um golpe troca **segredo por alcance**, e passa a ter uma coisa no mundo que pode ser tirada dele.
 
 ## 🔥 Um golpe queima — usar expõe, e um golpe parado morre
 

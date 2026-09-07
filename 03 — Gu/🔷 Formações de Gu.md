@@ -273,6 +273,11 @@ O rank operante vale pras **três** estações ao mesmo tempo, não só pras vaz
 
 Isto existe pra tornar a **abordagem** uma cena: em vez de trocar dano com a estrutura por seis rodadas, o inimigo inteligente entra, procura o núcleo do Movimento e a Casa vira um alvo parado. Um grupo que descobre isso na pele nunca mais deixa o corredor interno desguarnecido.
 
+> [!important] De onde vem a Casa de um **personagem**
+> A seção abaixo ensina o mestre a **projetar** uma Casa. Um jogador que queira uma não a compra: ele **promove um Golpe Matador** dele até este degrau — ver [[⚡ Golpes Matadores#🏛️ Promover um golpe — de jogada a patrimônio|Promover um golpe]]. O efeito do golpe vira a função da Casa, e **a Brecha do golpe vira a Brecha dela** (é a mesma regra que a seção "Como o alvo rompe" já aplica ao Domínio de Campo de Batalha).
+>
+> **O contrapeso está logo acima, em "Como se derruba uma Casa", e é o ponto inteiro da troca:** um golpe pessoal não pode ser cercado porque não fica em lugar nenhum. Uma Casa fica. Quem sobe esse degrau ganha alcance e perde segredo — e passa a ter, no mundo, um endereço que os inimigos podem visitar.
+
 ## Como criar uma Casa (mestre)
 
 1. Escolha o rank e a forma (barco de guerra do clã, carruagem-besta, torre andante).
