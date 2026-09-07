@@ -1,5 +1,8 @@
 ---
-tags: [item]
+tags:
+  - item
+aliases:
+  - Modelo Item
 raridade: 
 tipo: 
 escopo: sistema

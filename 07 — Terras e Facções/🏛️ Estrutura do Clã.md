@@ -32,6 +32,16 @@ O clã ensina desde cedo que o indivíduo se sacrifica pelo bem maior — hinos,
 
 A vila fica sobre uma **Fonte Espiritual** — uma fenda subterrânea que produz Pedras Primordiais continuamente (ver [[💠 Economia das Pedras Primordiais|Economia das Pedras Primordiais]]). Quem controla a Fonte controla o clã; guardas de rank 2–3 vigiam as minas o tempo todo, e sabotagem ali é punida com o máximo rigor que o clã consegue exercer.
 
+> [!important] A Fonte não é um bônus do clã — é a razão de o clã existir ali
+> Esta é a peça que explica o cenário inteiro, e vale para **qualquer** clã que o mestre invente, não só para este.
+>
+> - **Ela não se muda de lugar.** A fenda está onde está. Um clã não "escolhe" o território: ele se instalou em cima da Fonte e não pode sair de perto dela sem deixar de ser um clã. É por isso que clãs brigam por terra em vez de se mudarem.
+> - **Ela acaba.** Toda Fonte tem um prazo, e os anciãos sabem qual é. Um clã cuja Fonte tem cinquenta anos pela frente se comporta de um jeito; um cuja Fonte tem quinhentos, de outro. **Escolher esse número é escolher a política do clã** — o de prazo curto é agressivo, expansionista e vende o futuro; o de prazo longo é conservador e tem o que perder.
+> - **Ela pode secar antes.** Uma Fonte que começa a falhar é a crise anunciada mais útil que um mestre tem: o clã inteiro muda de comportamento antes de qualquer combate acontecer, e o grupo sente a mudança sem que ninguém explique.
+> - **Ela é o alvo certo.** Quem quer destruir um clã sem enfrentá-lo não ataca a vila — **envenena, seca ou toma a Fonte**. É o plano que todo antagonista competente deste mundo faz primeiro.
+>
+> **A aventura de rank 1 a 3 mais óbvia do cenário sai daqui:** achar uma Fonte, roubar uma Fonte, ou impedir que roubem a de vocês. Ver [[💠 Economia das Pedras Primordiais|Economia das Pedras Primordiais]] para a escala de riqueza que uma Fonte representa, e [[🛠️ Como Criar Sua Lore|Como Criar Sua Lore]] para o passo em que ela entra ao inventar um lugar.
+
 ## Diplomacia e fronteiras
 
 Clãs vizinhos não estão em guerra aberta nem em paz de verdade — estão numa dança de máscaras. Três ganchos prontos:

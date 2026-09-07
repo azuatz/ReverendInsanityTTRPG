@@ -1,5 +1,8 @@
 ---
-tags: [lore]
+tags:
+  - lore
+aliases:
+  - Modelo Facção
 escopo: sistema
 ---
 

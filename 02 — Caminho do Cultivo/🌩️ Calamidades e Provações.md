@@ -275,7 +275,7 @@ Falhar uma Calamidade por completo cobra três coisas ao mesmo tempo, e é a int
 
 1. **Zero Marcas** — o relógio de rank parou por uma década.
 2. **1 Ferimento** — o teto de Vitalidade e Alma desceu 5%, permanente ([[❤️ Recursos e Dano]]).
-3. **Um nível de Ferimento da Terra** — a renda cai, e reparar custa 50 Pedras de Essência Imortal e 3 meses internos por nível ([[🗝️ Terra Abençoada#Ferimento da Terra|Terra Abençoada]]).
+3. **Um nível de Ferimento da Terra** — a renda cai, e reparar custa 50 Pedras de Essência Imortal e 3 meses internos por nível ([[🗝️ Terra Abençoada#🩹 Ferimentos da Terra|Terra Abençoada]]).
 
 Há ainda um **quarto efeito, separado dos três acima e com gatilho próprio**: role `1d6` por etapa individual falhada na tabela de [[🌾 Ecologia e Economia da Terra Abençoada]] (safra perdida, veia desabada, fera morta, clima invertido, cadeia rompida ou o Espírito da Terra ferido) — isso acontece **mesmo quando o personagem passa a Calamidade inteira**, bastando que uma etapa isolada tenha falhado no caminho.
 

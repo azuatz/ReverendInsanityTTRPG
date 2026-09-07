@@ -253,6 +253,8 @@ escopo: processo
 
 ## _Modelos
 
+**[[🧰 Modelos]]** é a nota-mãe da pasta: explica quando usar cada template e o que preencher primeiro.
+
 Templates prontos pra copiar ao criar conteúdo novo:
 [[Modelo — Facção]] · [[Modelo — Ficha de Personagem]] · **[[Modelo — Ficha Compacta]]** *(a versão de mesa, pra fixar no Discord)* · [[Modelo — Gu]] · [[Modelo — Inimigo]] · [[Modelo — Item]] · [[Modelo — Sessão]] · [[Modelo — Caderno de Receitas]] *(bloco do privado do jogador: as receitas que ele já tem)* · [[Modelo — Fenda Imortal]] *(bloco do privado do jogador que ascendeu: gerência da Terra Abençoada — segurar até a 1ª Ascensão)*
 

@@ -1,5 +1,9 @@
 ---
-tags: [sessao, playtest]
+tags:
+  - sessao
+  - playtest
+aliases:
+  - Modelo Sessão
 data: 
 jogadores: 
 duracao: 

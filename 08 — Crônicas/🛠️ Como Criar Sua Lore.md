@@ -74,6 +74,16 @@ Só depois que o lugar pequeno estiver funcionando. Você precisa de: o nome da 
 
 **Deixe buracos de propósito.** A lore melhor é a que tem espaço pros jogadores preencherem. Quando um jogador perguntar "existe um mercado negro de Gu aqui?", a resposta certa quase sempre é "ótima ideia, existe — me conta como você descobriu".
 
+**O lugar estranho tem sempre a mesma causa: Marcas encharcaram o chão.** Esta é a regra do mundo que gera lugar, ameaça, safra e motivo de briga de uma vez, e é o gerador mais barato que este vault tem. Onde as Marcas de um Caminho saturam o terreno, **o lugar passa a obedecer às leis daquele Caminho**: a colina onde o som morre e onde nenhum cultivador de Som funciona; a costa quente onde o Gelo não pega; o poço saturado de Espaço que despedaça quem cai nele — **e que é, por isso mesmo, o melhor lugar do mundo para colher material de Espaço**. Perigo e recurso são a mesma propriedade lida de dois jeitos.
+
+Três coisas saem de graça quando você decide de que Caminho um lugar está encharcado:
+
+- **O que ele produz** e por que alguém iria até lá.
+- **Quem não pode ir.** Em terreno saturado de Marcas hostis, um Caminho comum perde **metade** da força; um Caminho **menor**, desses que quase ninguém cultiva, perde só **um quinto** — a vantagem estrutural de ser pequeno, e uma boa razão para um NPC obscuro ser o único capaz de entrar.
+- **A fauna, e por que ela volta.** Bestas de Caminho **não se reproduzem: nascem do terreno**. Isso quer dizer que a fauna de um lugar é um mapa de recursos ambulante — e que **exterminar não resolve**. Enquanto o lugar existir, elas repovoam. Um mestre que entende isso nunca mais precisa justificar por que os monstros voltaram.
+
+*(Dentro de uma Terra Abençoada essa mesma regra já está tabelada como **Sintonia Elemental** em [[🌾 Ecologia e Economia da Terra Abençoada|Ecologia da Terra Abençoada]] — o que muda aqui é o alcance: ela vale para o mapa inteiro, não só para as fendas. Isto é ferramenta de **construir mundo**, não um botão de combate — o dial tático de terreno continua sendo exclusivo dos [[☯️ Os Cinco Caminhos Wu Xing|Cinco Caminhos Wu Xing]].)*
+
 **Nomeie o recurso, não o reino.** "A Nascente Espiritual do vale norte" gera mais jogo que "o Império de Xanhai". Os jogadores interagem com o que podem tomar, perder ou proteger.
 
 **Toda facção quer uma coisa concreta.** Se você não consegue dizer o que uma facção quer numa frase que envolva um objeto, um lugar ou uma pessoa, ela ainda não existe.

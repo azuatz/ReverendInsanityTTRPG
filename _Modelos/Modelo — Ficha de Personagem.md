@@ -1,5 +1,9 @@
 ---
-tags: [personagem, ficha]
+tags:
+  - personagem
+  - ficha
+aliases:
+  - Modelo Ficha de Personagem
 rank: 1
 estágio: inicial
 aptidão: 

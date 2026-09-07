@@ -58,7 +58,9 @@ Ação livre, declarada junto do seu golpe corpo a corpo:
 
 Cada **Descarga** usada na mesma cena cobra, no fim do golpe: **`1 × M` de Vitalidade** (M do seu rank) e **−1 em FOR até um descanso curto**. Cumulativo. A segunda Descarga de uma cena custa mais que a primeira; a quarta é uma decisão de vida.
 
-> [!info] 👻 Fantasma de Fera — o que separa sorte de garantia *(📕 canônico, cap. 280-281 — o fenômeno natural — e 285-286 — o Gu que o garante)*
+### 👻 Fantasma de Fera
+
+> [!info] O que separa sorte de garantia *(📕 canônico, cap. 280-281 — o fenômeno natural — e 285-286 — o Gu que o garante)*
 > O romance descreve cultivadores talentosos do Caminho da Força manifestando, de vez em quando, o **fantasma da fera** cuja força o Gu carrega — um lampejo da criatura por cima do golpe, liberando o poder pleno do Gu em vez do poder sempre diluído de um corpo humano. É raro, chega sem aviso, e só num estilo de golpe bem específico — o que também o torna fácil de prever e desviar quando um observador já viu acontecer uma vez.
 >
 > **O gatilho é a fera que você carrega, e a chance sobe com quantas.** O fantasma **é** a sua Marca de Dao de força física, escondida na carne e visível só quando transborda. Ele transborda no calor da luta, e por isso a condição é o **Ímpeto alto** — não um gasto, um estado.
@@ -89,7 +91,9 @@ Cada **Descarga** usada na mesma cena cobra, no fim do golpe: **`1 × M` de Vita
 >
 > **O [[📖 Catálogo de Gu#Rank 3 — M = 4|Gu do Empenho Total]]** — um Gu quase extinto, que no romance aparece como achado de acaso — é a versão **garantida** disto: todo cultivador de Força comum depende da sorte do 1d6, ele não.
 
-> [!info] 🩸 Herança do Fantasma — o que sobra quando um deles cai *(padrão adaptado, inspirado em Heranças das Sombras de Feiticeiros e Maldições)*
+### 🩸 Herança do Fantasma
+
+> [!info] O que sobra quando um deles cai *(padrão adaptado, inspirado em Heranças das Sombras de Feiticeiros e Maldições)*
 > Sempre que um dos fantasmas de fera solidificados do [[📖 Catálogo de Gu#Rank 3 — M = 4|Gu do Empenho Total]] **desliga na força** — essência insuficiente pra sustentar todos, ou um efeito de supressão de Gu dissolve um deles —, o poder dele não some: os fantasmas que sobram ganham **+1 Nível de Potência cada, cumulativo**, até um teto de **metade do número original de fantasmas** (2 Níveis com 3, 4 Níveis com 8). O bônus dura até o fim da cena. **Não precisa de HP por fantasma pra funcionar** — é o mesmo gatilho que já existe (essência acabando, supressão de Gu), só com uma consequência nova: perder força na horda a concentra em quem restou, em vez de só encolher a cena.
 
 > **Por que o Ímpeto existe e por que é assim.** O problema real do Caminho da Força não é o dano — é que ele **não escolhe a luta**. Não tem alcance, não tem controle de campo, não tem furtividade, não tem mobilidade. Contra alguém que fique a 40 m, ele não tem jogada nenhuma. O Ímpeto não conserta isso: ele **paga o lutador por resolver o problema do jeito difícil**, ficando em contato, apanhando, avançando. Um cultivador de Força que fica três rodadas trocando golpes chega ao passo +9 e ignora RD — território de rank acima. Um que passa a luta correndo atrás do inimigo chega em zero, todas as rodadas.

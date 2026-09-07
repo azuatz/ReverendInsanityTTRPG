@@ -67,6 +67,32 @@ Na prática de campanha: a Muralha é o que mantém o mapa fechado no ato imorta
 
 ---
 
+## 📏 Quanto tempo leva chegar lá
+
+A Supressão responde **o que atravessa**. Falta a outra metade, e o mestre precisa dela toda sessão: **quanto tempo leva**. Este mundo é grande de um jeito que a maioria dos cenários de fantasia não é, e o mestre que chuta prazos acaba prometendo ao grupo viagens que o mundo não permite.
+
+A medida local é o **li**, que vale **meio quilômetro**.
+
+| Distância | Tempo a pé, por estrada | Como o mundo trata |
+|---|---|---|
+| **Cem li (50 km)** | 2 a 3 dias | **Trivial.** É a distância entre vizinhos — dá para ir e voltar, e ninguém acha isso uma jornada |
+| **De uma montanha à montanha vizinha** | **15 a 20 dias** | Uma viagem de verdade. Prepara-se, avisa-se, leva-se comida |
+| **Atravessar uma montanha grande inteira** | **20 dias ou mais** | Um arco, não uma cena |
+| **A rota comercial completa entre cidades-clã** | **meses** | O ano inteiro de uma caravana |
+
+**Voando** — um Gu de voo de rank 3 ou 4 atravessa uma terra enorme em **3 a 6 dias**, e é isso que faz do voo a linha divisória deste mundo.
+
+> [!important] A régua de urgência — use esta e nenhuma outra
+> **Uma ameaça anunciada com um mês de antecedência é jogável para qualquer grupo.** Com uma semana, é jogável para quem tem montaria ou estrada boa. **Com três dias, só é jogável para quem voa.**
+>
+> É esta linha que dá valor real aos Gu de movimento e voo. Hoje eles parecem bônus tático; no mundo, são a diferença entre **poder responder a uma notícia** e ficar sabendo tarde demais. Um mestre que quer que o grupo sinta a falta de um Gu de voo não precisa nerfar nada — basta dar o prazo certo.
+
+> [!note] Duas coisas que a régua explica de graça
+> **Por que a caravana importa tanto:** ela passa por uma vila **uma vez por ano** e fica cerca de oito dias. Aquilo não é uma loja, é a única janela de compra do ano — e é por isso que a chegada dela é sempre um evento de sessão.
+> **Por que a estrada é perigosa por conta própria:** uma emboscada de estrada pode custar quinze Mestres Gu de uma vez. Caravana séria **planeja repor baixas** como planeja repor comida. Ninguém viaja sozinho porque viajar sozinho mata.
+
+**Não existe ir e voltar entre montanhas diferentes na mesma sessão.** Se a trama precisa disso, ela precisa de um Gu de voo, de um portal de herança, ou de outra trama.
+
 ## Como usar isso na mesa
 
 **Isto é uma ferramenta do mestre, não uma punição.** Três usos:

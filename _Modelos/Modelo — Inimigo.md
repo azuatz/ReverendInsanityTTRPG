@@ -1,5 +1,8 @@
 ---
-tags: [inimigo]
+tags:
+  - inimigo
+aliases:
+  - Modelo Inimigo
 rank: 
 papel: 
 escopo: sistema

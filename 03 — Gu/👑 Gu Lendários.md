@@ -72,7 +72,7 @@ escopo: sistema
 
 - **Rank 1 — Gu do Reflexo de Maré** (M=1). Nasce em poças de maré que refletem a lua cheia sem nunca secar. Aviso passivo da hora exata da próxima maré alta/baixa num raio de 5 km. Zero combate. 🍖Livre.
 - **Rank 2 — Gu da Maré Pequena\*** (M=2). Regra de Linhagem (Reflexo de Maré ×2) + água de dois pontos de costa diferentes. Empurra ou puxa um alvo pequeno (até 50 kg) 2 m, 1×/cena.
-- **Rank 3 — reaproveita o [[🌙 Caminho da Lua#🌕 O Catálogo de Gu de Lua|Gu da Maré Puxada]]** já catalogado (rank 3) como este degrau — mesmo Gu, mesma receita. Arrasta alvos num raio de 15 m, 8 m em direção a um ponto; falha na lua nova ou sem céu visível.
+- **Rank 3 — reaproveita o [[🌙 Caminho da Lua#Gu do Caminho da Lua|Gu da Maré Puxada]]** já catalogado (rank 3) como este degrau — mesmo Gu, mesma receita. Arrasta alvos num raio de 15 m, 8 m em direção a um ponto; falha na lua nova ou sem céu visível.
 - **Rank 4 — Gu da Maré de Tempestade\*** (M=8). Funde Maré Puxada + Gu do Raio Descendente. Puxa até 5 alvos num raio de 25 m, 5 m cada, com dano de impacto somado.
 - **Rank 5 — Gu da Maré do Mar Inteiro\*** (M=16). **A receita muda:** exige um "coração de maré" — pérola que só se forma onde três correntes se encontram (🔨Receita, raríssima). Puxa todos os alvos num raio de 100 m, terreno leve incluso, e sob lua cheia ignora resistência de CON até rank 5. **Aqui clãs e seitas passam a cobiçar de verdade.**
 - **Rank 6 (Imortal) — Gu Imortal da Maré Sem Fim** (M=32). Afeta uma região costeira inteira (10 km); pode represar ou liberar um braço de mar, e em combate arrasta um exército inteiro pro centro de uma emboscada numa ativação só.

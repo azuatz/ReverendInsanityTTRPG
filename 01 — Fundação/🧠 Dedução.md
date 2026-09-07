@@ -43,6 +43,23 @@ Custo = 1 Ponto de Plano (+ a essência do Gu, se houver)
 
 **Repetir** a mesma pergunta exige **uma pista nova**. Sem pista nova, a resposta seria a mesma.
 
+## O que a Dedução não alcança
+
+**Falhar e ser bloqueado são coisas diferentes**, e a diferença importa: uma é azar, a outra é informação. Antes de pedir a rolagem, o mestre confere esta lista. Se o alvo está nela, **não se rola** — e o grupo fica sabendo que não se rola.
+
+| O bloqueio | Por quê |
+|---|---|
+| **O alvo está fora da região** | Nenhuma dedução atravessa fronteira regional — a mesma parede que [[🗺️ Supressão Regional\|Supressão Regional]] levanta para tudo o mais |
+| **O alvo está dentro de uma Terra Abençoada, herança ou fenda** | Lá dentro é outro mundo, e ele não responde a perguntas feitas de fora |
+| **O alvo tem proteção ativa contra dedução** | Um Gu de Sabedoria de rank igual ou maior mantido para isso, ou um item de herança. Custa caro, e quem paga tem motivo |
+| **O alvo é um Imortal, ou algo de rank 6+** | Acima do patamar mortal a pergunta simplesmente não encosta |
+| **A pergunta é sobre o futuro** | A Dedução lê o que **é** e o que **foi**. O que ainda não aconteceu não tem peça para fechar |
+
+> [!tip] Bloqueio é resposta
+> Esta é a metade que faz a lista valer a pena. **Quando a Dedução não alcança, o grupo aprendeu alguma coisa** — o alvo saiu da região, entrou numa fenda, comprou proteção, ou é maior do que eles imaginavam. Nenhuma dessas é "nada acontece". O mestre deve dizer **que** houve bloqueio, sem dizer qual: *"você alcança e não encontra parede nenhuma — encontra ausência"*.
+>
+> É também o que protege a perícia. Sem lista publicada, o único jeito de o mestre segurar uma Dedução inconveniente é inventar um veto no meio da cena, e isso ensina o jogador a não confiar na própria ficha. Com a lista, o bloqueio é peça do quebra-cabeça e o jogador pode **jogar contra ele** — entrar na região, esperar o alvo sair da fenda, quebrar a proteção.
+
 ## Falha — role 1d6
 
 | 1d6 | O que acontece |

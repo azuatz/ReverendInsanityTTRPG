@@ -25,12 +25,15 @@ Um Espírito da Terra é a coisa mais importante deste sistema por um motivo só
 | | |
 |---|---|
 | **Natureza** | A obsessão de um Imortal morto, impressa na terra e acordada pelo tempo. Presa a ela — arrancá-lo da terra o mata em dias |
-| **Inteligência** | Varia enormemente. Alguns falam e negociam; outros só repetem uma frase há mil anos; os mais velhos são astutos e mentem |
-| **Poder** | Dentro da própria terra, opera como um cultivador de rank igual ao da terra. Fora dela, nada |
+| **Inteligência** | Varia enormemente. Alguns falam e negociam; outros só repetem uma frase há mil anos. **Nenhum deles mente** — o espírito é sincero por natureza, e diz o que acredita. Isso não quer dizer que ele esteja certo: quem chegou antes de você pode ter plantado uma informação falsa nele, e ele a repete de boa-fé |
+| **Poder** | Dentro da própria terra, opera como um cultivador de rank igual ao da terra. Fora dela, nada. **Ele não tem alma** — é obsessão impressa em terreno, não uma pessoa morta — e por isso **dano do Caminho da Alma não o afeta**, nem escravização, nem nada que precise de uma alma para morder |
 | **Vontade** | Própria. Não obedece por padrão — nem ao dono da terra |
 | **Alimento** | Essência do próprio território. Uma terra saqueada tem um espírito faminto, fraco e ressentido |
 
 O Espírito da Terra **não é** o Gu Vital de ninguém, não pode ser refinado como Gu, e não conta no limite de Gu do personagem. Ele é um NPC — trate-o como personagem, não como item.
+
+> [!tip] O cultivador de Alma não perde a cena — ele vira quem a resolve
+> Um espírito é imune ao arsenal de Alma, e à primeira vista isso tira o cultivador de Alma da mesa justamente no NPC mais importante da campanha. É o contrário. **A substância do espírito é uma obsessão**, e obsessão é exatamente o que os Caminhos da Alma e da Sabedoria leem. Contra um espírito, o cultivador de Alma troca de função: ele não é a arma, é **o tradutor** — é ele quem descobre de quem é a obsessão, o que ela quer e onde ela foi envenenada, que é o que destrava o **−4** da tabela de Enganar e a rota de Cumprir. E como o espírito **não mente**, a informação que ele entrega vale — o trabalho é descobrir *quem falou com ele antes de você*.
 
 ## As três atitudes
 
@@ -119,6 +122,11 @@ Fazer o que ele pede de verdade. Ver a tabela de preço acima.
 
 **Rende:** atitude **Aliado** permanente, vantagem no refino de Gu Imortal, e o espírito **coopera** dali em diante — inclusive contra invasores. É o único jeito de conseguir um espírito que te defende quando você não está lá.
 
+> [!warning] Reconhecido uma vez, reconhecido para sempre — e o direito é vendável
+> O espírito confere o reconhecimento **no momento em que confere, e nunca mais reavalia**. Depois disso a posse não se perde por comportamento posterior, e **pode ser transferida a outra pessoa** — o dono manda, e o espírito obedece a quem ele apontar. Na prática o direito sobre uma Terra Abençoada é um **ativo negociável**: existe mercado para ele, e todo Imortal com uma terra carrega a pergunta em aberto de **se conquistou ou comprou**.
+>
+> **A brecha que vem junto:** o espírito aceita o **cumprimento da letra**. Se ele pediu a cabeça do assassino do dono e você traz a cabeça certa pelo motivo errado, cumpriu. Isso **não é** o mesmo que Enganar — enganar é fazê-lo acreditar em algo falso, e cobra o preço da seção abaixo; cumprir a letra é satisfazer o pedido como ele foi feito, e **cola para sempre**, porque não há reavaliação. A diferença entre as duas rotas é o que o grupo está disposto a fazer de verdade.
+
 ### 2. Enganar — o caminho rápido
 
 Convencê-lo de que você cumpriu, ou de que é outra pessoa. Espíritos velhos são astutos, mas são **obsessivos**, e obsessão é uma alavanca.
@@ -148,6 +156,18 @@ Um espírito de dois séculos é CD 20. Um de mil anos, CD 36 — na prática, i
 ### 3. Matar — o caminho que parece o mais fácil
 
 Já está descrito acima, e vale repetir aqui do lado das alternativas: **matar o espírito mata a terra junto** — regressão permanente de uma camada e fim das Marcas passivas. Você ganha o território e perde o que fazia dele valer a pena.
+
+**E há a parte que a aritmética não segura: a terra morre com vocês dentro.** O espírito é o que mantém a dimensão coerente; sem ele ela começa a fechar, e quem está lá dentro tem **um relógio, não uma conta**.
+
+| Rodadas após a morte do espírito | O que acontece |
+|---|---|
+| **1–3** | O ar fica pesado e a saída ainda está onde estava. Deslocamento normal |
+| **4–6** | A dimensão perde forma: **deslocamento pela metade** e a saída **muda de lugar uma vez** — achar de novo é uma ação e um teste de AST CD 14 |
+| **7–9** | Colapso. No início do turno de cada um, **`M d10` de dano** que ignora RD — é a terra desabando, não um ataque |
+| **10+** | A fenda fecha. Quem ficou não sai, e não há teste |
+
+> [!danger] A mesma tabela é a carta do defensor
+> Um dono acuado pode **matar o próprio espírito de propósito** para levar os invasores junto ([[🗝️ Terra Abençoada|Terra Abençoada]], fase 3 do cerco). Ele conhece a saída e vocês não; a autodetonação não é um dano de área, é **este relógio**, e quem a aciona já calculou que sai a tempo. Um mestre que anuncia a tabela no momento em que o espírito cai transforma o fim do saque na melhor cena da sessão.
 
 **A exceção que torna isso tentador:** se você só quer **os Gu que estão lá dentro** e não a terra, matar é rápido, definitivo e não deixa ninguém pra contar história. Muito Imortal jovem faz exatamente isso, e é por isso que existem tantas terras mortas espalhadas pelo mundo esperando dono.
 

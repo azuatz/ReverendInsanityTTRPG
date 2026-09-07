@@ -451,7 +451,7 @@ Um Imortal com 30.000 de Lua e 12.000 de Fogo opera a Lua como se tivesse **24.0
 
 **2. Anula parte da sua potência.** **−1 Nível de Potência** em todos os seus Gu, por Caminho incompatível carregado (mínimo 0). Ter Lua e Fogo custa um Nível nos dois; ter Lua, Fogo e Luz custaria dois.
 
-**3. Desestabiliza a Fenda Imortal.** A ecologia da Terra Abençoada não aguenta duas leis que se recusam mutuamente. **A cada 10.000 Marcas do Caminho incompatível menor, a terra ganha 1 nível permanente de [[🗝️ Terra Abençoada#Ferimento da Terra|Ferimento da Terra]]** — permanente no sentido literal: as 50 Pedras de Essência Imortal e os 3 meses de reparo padrão **não** consertam este nível, porque a causa não saiu. Ele só some quando as Marcas somem.
+**3. Desestabiliza a Fenda Imortal.** A ecologia da Terra Abençoada não aguenta duas leis que se recusam mutuamente. **A cada 10.000 Marcas do Caminho incompatível menor, a terra ganha 1 nível permanente de [[🗝️ Terra Abençoada#🩹 Ferimentos da Terra|Ferimento da Terra]]** — permanente no sentido literal: as 50 Pedras de Essência Imortal e os 3 meses de reparo padrão **não** consertam este nível, porque a causa não saiu. Ele só some quando as Marcas somem.
 
 E enquanto durar, a terra não estabiliza: a Sintonia dela **não pode ser trocada**, e o Desequilíbrio ecológico sobe sozinho ([[🌾 Ecologia e Economia da Terra Abençoada|Ecologia]]).
 

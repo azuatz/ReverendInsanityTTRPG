@@ -189,6 +189,16 @@ O fluxo de tempo pode ser regulado, dentro de limites, por técnicas do Caminho 
 
 Duas Aberturas Imortais podem se fundir — um Imortal "engole" a Terra Abençoada de outro. O domínio exigido no próprio Caminho **escala com o rank da terra-alvo** (ver [[🧿 Espíritos da Terra]] e [[☯️ Marcas de Dao|Marcas de Dao]]): nível **Mestre** já basta contra uma terra de rank 6, **Grão-Mestre** só é exigido a partir de rank 7. Quem anexa ganha o tamanho e os recursos do outro, **~30% das Marcas** *(decisão 152 — não é metade)* dele **naquele Caminho**, e pode até pular Calamidades adiantadas. O Espírito da Terra anexado, se houver, chega **Guardião** e ressentido — nunca Aliado.
 
+> [!important] O que "pular Calamidades adiantadas" quer dizer, em número
+> **A terra carrega o contador de provações dela, e quem anexa herda o contador.** Toda Terra Abençoada acumula desastres ao longo da vida do dono; anexar a terra transfere esse histórico para o anexador, **contador reiniciado incluído**. Uma terra cujo dono morreu no quinto desastre entrega um passe de **até cinco** provações ao novo dono. Não é um bônus vago: é o número que estava na terra.
+
+> [!danger] Anexar terra de rank igual ou maior que o seu **sobe o seu rank**
+> Esta é a segunda rota de rank imortal, paralela à da [[♾️ A Ascensão Imortal|Ascensão]], e ela é deliberadamente feia. Um Imortal de rank 6 que engole uma terra de rank 7 **vira rank 7**. No sentido inverso o rendimento despenca: engolir terras menores que a sua engorda pouco e não sobe nada.
+>
+> **O preço está na fundação, e o vault já sabe cobrá-lo.** A anexação rende **menos Marcas** (os ~30% acima) e uma base muito mais rasa do que atravessar as provações do patamar. O resultado é alguém com o **M** do rank novo e a densidade de Marcas do rank velho — e [[🪜 Ranks e Estágios|Ranks e Estágios]] já publica exatamente o que acontece com essa pessoa: **um rank 6 denso a despacha.** Rank diz o que se ativa; densidade de Marca no Caminho certo diz o quanto dói.
+>
+> **Para o mestre, isto é um gerador de antagonista pronto**, e é o que faltava ao [[👹 Grimório de Ameaças|Grimório]]: o Imortal que subiu comendo, poderoso no número e frágil na fundação, cujo poder tem uma **biografia que o grupo pode descobrir e explorar**. Descobrir *como* ele chegou ao rank dele é, literalmente, descobrir como derrubá-lo. E para o PJ Imortal, é a alternativa a esperar trezentos anos — rápida, e com um buraco no currículo que os inimigos dele vão achar.
+
 É um dos motivos pelos quais dois Imortais fortes raramente confiam um no outro por completo.
 
 ### ⚔️ Como se toma uma Terra Abençoada à força

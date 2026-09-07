@@ -1,5 +1,8 @@
 ---
-tags: [gu]
+tags:
+  - gu
+aliases:
+  - Modelo Gu
 rank: 
 caminho: 
 alimento: 

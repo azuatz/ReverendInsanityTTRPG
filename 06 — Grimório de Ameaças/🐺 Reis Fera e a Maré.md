@@ -42,6 +42,26 @@ O desgaste vem da **sequência sem pausa**, não do empilhamento: cada onda limp
 
 ---
 
+## 🎯 O nó de comando — a terceira saída
+
+Uma horda não é uma criatura grande: é **um monte de bichos que se toleram mal**. Sozinhos, eles atrapalham uns aos outros — só **cerca de um terço do bando engaja de cada vez**, e é por isso que uma maré sem ninguém no comando é cara e não impossível. O que junta o bando é **um comandante**: ou um coordenador natural da espécie, ou um Mestre Gu do Caminho da Escravidão que assumiu o posto. **Com comandante, a onda vem inteira.**
+
+> **A regra, em duas linhas.** Toda Horda entra em cena **com** ou **sem** nó de comando, e o mestre decide isso ao montar o encontro.
+> **Sem nó:** a Horda ataca com **dois terços do volume** — arredonde para baixo o número de ataques por rodada, e o piso de 2 ataques continua valendo.
+> **Com nó:** volume cheio, como está publicado nas tabelas acima. **Toda maré de um Rei Fera tem nó** — é o que faz dela uma maré.
+
+**Achar o nó é o trabalho.** Ele **não se destaca**: é do mesmo tamanho, da mesma cor, no meio dos outros. Identificá-lo custa **uma ação** e um teste de **Bestiário CD 14** *(+2 se o grupo nunca viu a espécie; −2 se alguém já caçou essa fera antes ou leu sobre ela na preparação)*. Falhou, pode tentar de novo na rodada seguinte — o custo é o tempo, e numa maré o tempo é tudo.
+
+**Derrubar o nó dispersa a onda.** A maioria do bando debanda na hora. Sobra uma **minoria teimosa** — trate como **uma Horda de 4**, sem nó, que luta até morrer. A onda seguinte da maré ainda vem: derrubar o nó ganha *esta* onda, não a maré.
+
+> [!tip] Por que isto vale a nota
+> Até aqui a mesa tinha duas saídas para uma maré: **apanhar** (rodar a onda) ou **pagar** (a Varredura, logo abaixo). As duas cobram Vitalidade. Esta terceira cobra **preparação e perícia** — quem estudou a fera antes de sair de casa acha o nó na primeira rodada; quem não estudou gasta três. É o pilar *"quem prepara, vence"* de [[🕵️ Preparação e Informação|Preparação e Informação]] aplicado ao único tipo de cena em que ele ainda não valia, e usa a perícia que [[🎯 Perícias|Perícias]] chama de **a mais usada do jogo**.
+
+> [!warning] Matar o Rei não entrega o Gu dele
+> Quando um Rei Fera cai, o Gu que fazia dele um Rei **não fica no corpo** — ele vai embora, na direção de quem já está assumindo o posto. O sucessor costuma estar ali perto, e é o primeiro concorrente do grupo pelo espólio. **Um rei morto deixa vácuo, não paz:** o território dele vira terra de ninguém, e quem morava em volta vai disputá-lo. É o gancho que evita que o fim de uma maré seja o anticlímax de recolher material do chão.
+
+---
+
 ## ⏭️ A Varredura — pular a onda e marcar o custo
 
 Pra maré longa (ou qualquer horda que a mesa não queira rodar), **uma onda inteira se resolve num teste de grupo só**:

@@ -1,5 +1,10 @@
 ---
-tags: [personagem, ficha, modelo]
+tags:
+  - personagem
+  - ficha
+  - modelo
+aliases:
+  - Modelo Ficha Compacta
 escopo: sistema
 ---
 
