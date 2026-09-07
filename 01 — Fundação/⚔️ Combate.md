@@ -22,6 +22,27 @@ Resolução em d20 (ataque, defesa, testes). **Dano é um pool de dados acumulad
 ---
 
 
+## ⏳ O turno — **uma ação**, e é só isso
+
+**Cada personagem faz uma ação por turno.** Não existe ação bônus, não existe ação rápida, não existe segunda ação de graça. Atacar é uma ação; ativar um Gu é uma ação; usar uma perícia em combate é uma ação. O deslocamento (abaixo) vem **junto e de graça**, e é a única coisa que acompanha a ação.
+
+| Quem | Ações por turno |
+|---|---|
+| **Personagem de jogador** | **1** |
+| Recruta, Guerreiro, Horda | 1 |
+| **Mestre de Gu inimigo, Elite** | **2** |
+| **Chefe** | **2 a 4**, conforme o rank — é o que faz dele um Chefe |
+
+> [!warning] Este é o número que quebra a mesa se o mestre trouxer o hábito de outro jogo
+> Quem vem de D&D 5e importa por reflexo *ação + ação bônus*, e num sistema em que **ligar um Gu é uma ação**, isso não dá 10% a mais de poder ao grupo: **dobra a saída dele**, porque o segundo Gu ligado é justamente o que multiplica o primeiro.
+>
+> A régua de dificuldade inteira deste vault — as 25 células da tabela de composição, os moldes de inimigo, o Chefe, as porcentagens de vitória de toda cena publicada — foi medida com **uma ação por personagem por rodada**, em vinte e seis rodadas de simulação. Dar duas ao grupo não deixa o jogo mais generoso: **apaga a régua**.
+>
+> **É de propósito que o inimigo tenha mais.** A assimetria é o desenho: quatro jogadores contra um Chefe fazem quatro ações contra as quatro dele, e a cena fica equilibrada sem que o Chefe precise de uma barra de vida absurda.
+
+> [!note] Por que este número também não existia
+> Todo molde de inimigo declarava as ações dele; **o lado do jogador, nenhuma nota do vault dizia.** É o mesmo defeito que o deslocamento tinha logo abaixo — um número de que tudo dependia e que ninguém escreveu, porque quem escreveu já sabia. Um mestre que nunca leu o romance nem jogou este sistema não sabe, e a régua depende dele.
+
 ## 🏃 Deslocamento
 
 **Todo personagem e todo inimigo move até 10 metros por turno**, além da ação. Correr de verdade — abrir mão da ação para só se deslocar — dobra para 20.

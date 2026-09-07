@@ -44,6 +44,10 @@ Acerto de Gu       = d20 + VON + (rank + 2) + rank do Gu
                      [não existem armas à distância mundanas — alcance é Gu]
 CD dos seus Gu     = 10 + VON + rank do Gu   [+2 se o Caminho for d6]
                      → 65% de acerto entre iguais com Gu dos dois lados
+O TURNO            = 1 AÇÃO por personagem, mais o deslocamento (de graça).
+                     Sem ação bônus. Ligar um Gu é a ação do turno.
+                     Inimigos: Recruta/Guerreiro/Horda 1 · Mestre e Elite 2 ·
+                     Chefe 2 a 4 pelo rank. A assimetria é o desenho.
 Iniciativa         = d20 + DES, rolada no início do combate
 Crítico            = 20 natural: acerta sempre e rola 2 × M dados (B não dobra)
 

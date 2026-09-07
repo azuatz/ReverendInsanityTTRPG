@@ -151,10 +151,16 @@ A versão imortal: em vez de ancorar Gu no solo ao longo de semanas, o Imortal *
 **Requisitos:** rank 6+, e nível de domínio **Mestre** naquele Caminho (ver [[☯️ Marcas de Dao|Marcas de Dao]]).
 
 > [!important] No rank 6, isso é o padrão dos fortes — não rotina, mas não é raridade histórica
-> O teto de Marcas do rank 6 é 9.999 **no total** (decisão 109), e Mestre pede
-> 10.000 naquele Caminho. Pela contagem, portanto, **nenhum rank 6 alcança
-> Mestre** por acúmulo real — a via é a **regra do gênio pobre** (ver
-> [[☯️ Marcas de Dao]]): um rank 6 denso, real Pequeno Feito, que empilhe **um**
+> A faixa do rank 6 vai até cerca de **10.000 Marcas no total**, e Mestre pede
+> 10.000 **naquele Caminho** — ou seja, um rank 6 só chega lá por acúmulo se
+> tiver praticamente tudo num Caminho só e ainda tiver ficado no rank juntando.
+> **Isso é possível** desde que os tetos duros foram revogados e as faixas
+> viraram descritivas *(decisão 218)*, e é exatamente o arquétipo do **rank 6
+> denso** que [[🪜 Ranks e Estágios|Ranks e Estágios]] descreve — o que despacha
+> um rank 7 recém-convertido. É caro e é raro, mas não é impossível.
+>
+> A via barata continua sendo a **regra do gênio pobre** (ver
+> [[☯️ Marcas de Dao]]): um rank 6 de Pequeno Feito que empilhe **um**
 > feito de compreensão reconhecido opera como Mestre e abre Domínios; com
 > **dois** feitos empilhados, opera como Grão-Mestre. Do **rank 7 em diante** a
 > contagem normal basta.

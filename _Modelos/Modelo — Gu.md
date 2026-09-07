@@ -36,8 +36,8 @@ escopo: sistema
 *(preciso, em número. Use a [[⚔️ Combate|Escada de Dano]]:)*
 
 ```
-Ataque:  (dado do passo) × M       ex: 1d8 × M (passo +1)
-Cura:    (dado do passo) × M       ex: 1d8 × M (passo +1, o padrão)
+Ataque:  M d(dado do passo) + (M × B)   ex: 4d8 + 4 no rank 3, estágio Médio
+Cura:    M d8                           ex: 4d8 no rank 3 (cura não soma B)
 RD:      (RD base) × M             ex: RD 2 × M
 Buff:    +X Níveis de Dano / +X atributo / +X perícia / +X acerto / +X Defesa
 Outro:   voo, deslocamento, condição aplicada com teste e CD, utilidade

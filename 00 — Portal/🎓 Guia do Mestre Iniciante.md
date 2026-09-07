@@ -274,6 +274,7 @@ FOR +3   CON +4   DES +2   AST +2   VON +2   CAR −1     (13 pontos: 3+5+2+2+2,
 Vitalidade  30   (18 + 3×4)        Alma      22   (16 + 3×2)
 Essência   252   (63 × 4)          Regeneração  ~15 / HORA (Grau B, 6%/h), fora de combate
 Defesa      13   (10 + 2 + 1 + 0)  ← sem Gu de movimento ainda
+Defesa contra Alma  14   (10 + VON 2 + 2 × rank 1)  ← a barra separada; é ESTA que se testa contra dano de Alma
 Acerto melee  d20 + 6              Acerto de Gu  d20 + 5 + rank do Gu
 CD dos Gu dela  12 + rank do Gu
 Gu na Abertura  7 (63÷10 + rank 1)  Gu sustentados  3 (é fixo, pra todo mundo)
