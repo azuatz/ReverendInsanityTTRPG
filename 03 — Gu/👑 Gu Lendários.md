@@ -25,7 +25,7 @@ escopo: sistema
 
 ## 🎲 Caminhos dos personagens da mesa
 
-10 cadeias — duas por Caminho — nos cinco Caminhos que os PJs de calibração ([[🎲 A Mesa — Personagens dos Jogadores]]) realmente usam: Alma e Lua (Xie Lang), Sangue e Força (Jiãotáng), Ar/Vento (Demvi).
+10 cadeias — duas por Caminho — nos cinco Caminhos que a mesa de calibração deste sistema realmente usou: **Alma · Lua · Sangue · Força · Vento**. São os Caminhos com cadeia pronta porque são os que foram jogados até o fim; qualquer outro Caminho monta a cadeia dele pelo mesmo molde.
 
 ### 👻 Alma
 

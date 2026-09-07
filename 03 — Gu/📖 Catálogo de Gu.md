@@ -382,7 +382,7 @@ As entradas usam **tags curtas** pra caber na tabela. Esta é a legenda:
 | **Gu da Porta de Cortina\*** | Sonho | Utilidade, mental | Faz um alvo adormecido **acreditar que a última hora acordado foi um sonho**. Ele lembra dos fatos, mas não confia neles. Teste de VON (CD 54) resiste | ⬆️ Apaga a testemunha sem matar ninguém, que é a diferença entre uma infiltração limpa e uma caçada · ⬇️ Ele lembra dos fatos: um alvo teimoso, ou que anota, atravessa isso | ⚡Lento ⚡Condicional 🍖Rara 🔨Instável | Uma noite que o dono passa em claro, a cada três meses |
 | **Gu da Arca do Sono Longo\*** | Terra/Humano | Utilidade, armazenamento | Versão maior do Gu do Casulo de Pedra: guarda até **8 Gu de rank ≤ 4** em hibernação por décadas — não comem e não contam nas vagas da Abertura. É o cofre-padrão das heranças de rank 4–5 | ⬆️ Um arsenal inteiro atravessa gerações sem comer uma migalha · ⬇️ Abrir a Arca antes de **1 ano** completo acorda todos de uma vez, **Famintos** — saquear uma herança cedo demais é soltar oito bocas raivosas | 🍖Rara | Âmbar — um punhado por estação, e não aceita substituto |
 | **Gu do Sangue Espesso\*** | Sangue | Defesa + recuperação, sustentado | O sangue engrossa e circula devagar. **`RD 2 × M = 16`** e você **recupera `M` = 8 de Vitalidade no início de cada turno**. Em troca, **todo deslocamento seu cai pela metade** enquanto estiver ativo | ⬆️ RD cheia do rank e regeneração por turno no mesmo Gu — é o que segura o cultivador de Sangue de pé numa luta longa · ⬇️ Deslocamento pela metade: quem liga isto decidiu que não persegue, não desengaja e não sai do lugar onde a luta começou | — | **Sangue drenado de uma criatura de rank 3 ou maior ainda viva, cerca de três litros, a cada dois meses.** Sangue de gado não serve neste rank: o Gu engrossou e o que ele bebe também |
-| **Gu do Véu de Luar\*** | Lua | Defesa, sustentado, condicional | Um halo pálido se assenta sobre você. **`RD 2 × M = 16` sob luar visível ou à noite; `RD 1 × M = 8` em qualquer outra condição** | ⬆️ A primeira defesa própria do Caminho da Lua acima do rank 2 — sob luar, RD cheia do rank sem precisar importar nada de outro Caminho · ⬇️ De dia, sob teto ou em lua nova, cai pela metade. O inimigo que escolhe a hora da luta escolhe a sua RD | ⚡Condicional 🍖Pontual | **Uma noite de lua cheia inteira, do nascer ao pôr da lua, uma vez por estação.** É de graça e mesmo assim é caro: a lua cheia não espera ninguém, e perder a janela custa três meses |
+| **Gu do Véu de Luar\*** | Lua | Defesa **de Alma**, sustentado, condicional | Um halo pálido se assenta sobre a mente. **`RD 2 × M = 16` contra dano de Alma sob luar visível ou à noite; `RD 1 × M = 8` contra dano de Alma fora dessas condições.** **É a exceção declarada à regra de que o Caminho da Alma ignora toda RD** ([[⚔️ Combate|Combate]]) — este Gu reduz dano de Alma, e **só** dano de Alma: contra golpe físico ele não faz nada | ⬆️ A primeira defesa própria do Caminho da Lua acima do rank 2 — sob luar, RD cheia do rank sem precisar importar nada de outro Caminho · ⬇️ De dia, sob teto ou em lua nova, cai pela metade. O inimigo que escolhe a hora da luta escolhe a sua RD | ⚡Condicional 🍖Pontual | **Uma noite de lua cheia inteira, do nascer ao pôr da lua, uma vez por estação.** É de graça e mesmo assim é caro: a lua cheia não espera ninguém, e perder a janela custa três meses |
 
 ---
 
@@ -642,9 +642,9 @@ Precisão menor, dado maior. **A Força soma fora do pool, uma vez só — nunca
 
 ---
 
-### Nota do encadeamento — como o Lee joga os cinco ao mesmo tempo
+### Nota do encadeamento — como se joga os cinco ao mesmo tempo
 
-Este é o build do jogador. Três coisas fazem ele funcionar, e as três estão em regras que já existem.
+Este é o build do especialista integral em Wu Xing. Três coisas fazem ele funcionar, e as três estão em regras que já existem.
 
 **1. O ciclo de destruição é a sua escolha de alvo.** Todo Gu desta seção tem um elemento que ele **come** e um que o **come**. Isso não é sabor: são Níveis de Dano na Escada, RD ignorada e Gu inimigos desligados. A leitura é sempre a mesma:
 

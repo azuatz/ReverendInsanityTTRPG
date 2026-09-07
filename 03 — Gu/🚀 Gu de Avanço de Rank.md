@@ -86,7 +86,7 @@ O salto passa a ser provações + saturação de Marcas ([[🪜 Ranks e Estágio
 
 ## 📋 O plano da mesa, rank a rank *(preencha na campanha)*
 
-| Salto | Xie Lang | Jiāotáng | Lee | Demvi |
+| Salto | Jogador 1 | Jogador 2 | Jogador 3 | Jogador 4 |
 |---|---|---|---|---|
 | **1→2** | | | | |
 | **2→3** | | | | |

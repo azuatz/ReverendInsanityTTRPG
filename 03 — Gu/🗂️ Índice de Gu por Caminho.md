@@ -439,7 +439,7 @@ Todo o [[📖 Catálogo de Gu]] reorganizado por **Caminho** e ordenado por rank
 | 3 | **Gu do Disco Minguante** ✱ | Ataque, à distância | [[🌙 Caminho da Lua\|Caminho da Lua]] |
 | 3 | **Gu do Frio de Osso** ✱ — *Lua/Gelo* | Debuff sustentado | [[🌙 Caminho da Lua\|Caminho da Lua]] |
 | 4 | **Gu da Lua Cheia Sangrenta** ✱ — *Sangue/Lua* | Ataque, dreno pesado | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
-| 4 | **Gu do Véu de Luar** ✱ | Defesa, sustentado, condicional | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
+| 4 | **Gu do Véu de Luar** ✱ | Defesa **de Alma**, sustentado, condicional | [[📖 Catálogo de Gu#Rank 4 — M = 8\|Rank 4]] |
 | 4 | **Gu do Crescente Cortante** ✱ | Ataque, à distância | [[🌙 Caminho da Lua\|Caminho da Lua]] |
 | 5 | **Gu da Lua Afogada** ✱ | Ataque + controle | [[🌙 Caminho da Lua\|Caminho da Lua]] |
 | 6 | **Gu Imortal do Luar Imemorial** ✱ | Ataque, área | [[🌙 Caminho da Lua\|Caminho da Lua]] |
