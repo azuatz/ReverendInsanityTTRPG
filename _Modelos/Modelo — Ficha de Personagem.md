@@ -97,7 +97,7 @@ Alma máxima       = (16 + 3 × VON + 3 × B) × M
 
 ## ⚡ Golpes Matadores
 
-Máximo de golpes registrados: **AST + 1**. Cada Gu de apoio empurra o núcleo +1 Nível de Dano (até +3). Ver [[⚡ Golpes Matadores|Golpes Matadores]].
+Máximo de golpes registrados: **AST + 1**. Cada Gu de apoio empurra o núcleo +1 Nível de Dano, até o **Teto de Combo do estágio menos um** (Inicial +1 · Médio +2 · Alto +3 · Pico +4). Ver [[⚡ Golpes Matadores|Golpes Matadores]].
 
 ### {{Nome do golpe}}
 - **Núcleo:** 

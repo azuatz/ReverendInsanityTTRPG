@@ -173,7 +173,7 @@ Todos entram no [[📖 Catálogo de Gu|Catálogo]]. Elementais são **×1** de m
 
 ## ⚡ Golpes Matadores dos Cinco Caminhos
 
-Regras gerais em [[⚡ Golpes Matadores|Golpes Matadores]]: cada Gu de apoio dá **+1 Nível ao núcleo, até +3**; **a Brecha declarada é obrigatória**; `Custo = (soma dos custos de ativação) × (nº de Gu)`, **×2 se híbrido**.
+Regras gerais em [[⚡ Golpes Matadores|Golpes Matadores]]: cada Gu de apoio dá **+1 Nível ao núcleo, até o Teto de Combo do estágio menos um** (Inicial +1 · Médio +2 · Alto +3 · **Pico +4** — ver [[🪜 Ranks e Estágios|Ranks e Estágios]]); **a Brecha declarada é obrigatória**; `Custo = (soma dos custos de ativação) × (nº de Gu)`, **×2 se híbrido**.
 
 > **A regra que cruza as duas coisas.** O bônus do Encadeamento de Geração **soma** por cima do bônus de combo, mas continua com teto próprio de **+2**. Um combo de 4 Gu encadeados é, no máximo, **+3 (apoio) +2 (cadeia) = +5 Níveis** sobre o passo base do núcleo. Sem esse teto, uma cadeia de cinco elementos sozinha valeria mais que um Golpe Matador inteiro, e o sistema de combos deixaria de importar pra este Caminho.
 

@@ -147,7 +147,7 @@ Golpe Matador HÍBRIDO (Gu de dois ou mais Caminhos) → × 2 além disso
 
 **O multiplicador híbrido é o freio da build mais forte do sistema.** Combinar dois Caminhos num golpe só é a coisa mais poderosa que um personagem consegue fazer — o alvo enfrenta duas defesas diferentes no mesmo turno, e quase ninguém tem as duas. O dobro de custo é o que impede isso de ser a resposta pra tudo: mesmo com o maior tanque da mesa, um golpe híbrido é **uma vez por combate importante**, não uma rotina.
 
-Contra o [[🏛️ Arquitetura do Sistema|teto de regeneração]] de **100/rodada** (decisão 28 — os 200 são o cenário *ideal*, não o normal), um híbrido de 1.440 são **quinze rodadas de regeneração**. É um recurso de arco disfarçado de ação.
+E a régua certa para ler esse número **não é a regeneração** — ela não acontece dentro de combate *(decisões 107 e 196)*. A régua é a **reserva**: os quatro perfis da mesa carregam de 448 a 860 de essência cheia, então um híbrido de 1.440 **não cabe no tanque de ninguém**. Não é caro: é impagável sem preparação específica. É um recurso de arco disfarçado de ação.
 
 ## Quantos golpes cabem na ficha
 

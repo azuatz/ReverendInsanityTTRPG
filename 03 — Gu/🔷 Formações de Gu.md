@@ -61,7 +61,7 @@ Nas contas abaixo, **`M`** é o Multiplicador de Rank da formação (tabela de [
 
 ## Manutenção — a fórmula quadrática, em cadência diária
 
-A formação usa a mesma conta de [[🏛️ Arquitetura do Sistema|Arquitetura do Sistema]], só que o relógio é outro:
+A formação tem uma conta própria, e é **a única do sistema que ainda é quadrática** — a Manutenção quadrática *por rodada* dos Gu sustentados foi removida da regra geral *(decisão 266)*, mas a da formação ficou, porque o relógio dela é outro: ela cobra **uma vez por dia**, não a cada rodada, e é isso que faz uma formação grande ser um projeto de território em vez de um custo de cena.
 
 ```
 Manutenção da Formação = (Gu-núcleo + Gu de apoio)² × 5 de essência,
@@ -269,7 +269,7 @@ O rank operante vale pras **três** estações ao mesmo tempo, não só pras vaz
 - **O fundador paga a manutenção diária da própria Casa** (`(núcleo + apoio)² × 5`, a fórmula desta nota) mesmo que não esteja operando estação nenhuma. A Casa está ancorada na Abertura dele e não deixa de comer porque ele cruzou os braços. **É o único custo que ela cobra dele** — não há taxa por rodada por cima disso.
 - **NPCs podem tripular**, mas o atributo deles nunca conta acima de **+1** naquela estação. A Casa responde a quem a conhece — e é por isso que encher de discípulos não substitui os PJs.
 
-**Custo total de uma Casa em combate:** 45 (fundador) + 3 × 40 (estações) = **165 de essência por rodada**, dividida entre quatro pessoas. Contra o teto de regeneração de 100/rodada ([[🏛️ Arquitetura do Sistema|Arquitetura do Sistema]]), isso é sustentável por um grupo que se organizou e ruinoso pra um que improvisou. É o ponto.
+**Custo total de uma Casa em combate:** 45 (fundador) + 3 × 40 (estações) = **165 de essência por rodada**, dividida entre quatro pessoas. São cerca de **41 por pessoa por rodada** — contra reservas cheias de 448 a 860, dá para dez a vinte rodadas, ou seja, **a Casa atravessa uma cena inteira e não atravessa duas**. Sustentável para um grupo que se organizou e ruinoso para um que improvisou. É o ponto. *(A régua aqui é a reserva, não a regeneração: essência não regenera dentro de combate — decisões 107 e 196.)*
 
 ## Como se derruba uma Casa
 
