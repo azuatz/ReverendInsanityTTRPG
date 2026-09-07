@@ -27,6 +27,13 @@ Escolha pelo que a campanha precisa, ou role `1d6`: **1–3** = rank 4 · **4–
 
 **Caminho principal** — escolha, ou role `1d20` na lista dos 23 de [[🛤️ Os Caminhos]] (releia o resultado: o Caminho do dono colore *tudo* — os Gu, as receitas, a cara da provação).
 
+> [!tip] Role **dois** Caminhos, e decida qual o mundo conhece
+> Quem deixa uma herança grande raramente cultivou uma coisa só: há o **Caminho público** — o que o mundo sabe, o que está nos rumores, o que colore a provação e os guardiões — e o **Caminho lacrado**, que é o que está de fato no fundo da câmara.
+>
+> É uma rolagem a mais e ela paga caro: **a reviravolta da herança inteira sai dela, de graça.** O grupo se prepara contra o Caminho errado porque se preparou contra o Caminho **certo do rumor**. O teste do guardião (`1d8`, opção 1 — "Caminho compatível") pode testar o público de propósito, e a amarra de Incompatibilidade (`1d4`, opção 3) deixa de ser azar e ganha causa: o manual do fundo não é do Caminho que o herdeiro veio buscar.
+>
+> Se você não quiser a reviravolta nesta herança, declare os dois iguais e siga — o gerador funciona igual.
+
 **Alinhamento** — `1d6`:
 
 | 1d6 | O dono era... | E por isso a herança... |

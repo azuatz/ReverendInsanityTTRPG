@@ -23,6 +23,13 @@ Todo Golpe Matador tem duas partes:
 - **O Gu núcleo** — o que realmente causa o efeito decisivo (o dano, a captura, a negação). Normalmente o Gu mais forte ou mais específico que o personagem possui.
 - **Os Gu de apoio** — Gu mais fracos, baratos, cuja única função é garantir que o núcleo acerte: imobilizar o alvo, cegar, atrasar a reação, esconder a preparação. Sozinhos, quase inúteis; juntos, viabilizam o golpe.
 
+> [!tip] O núcleo tem substituto — e ele se gasta
+> **O rank do Gu-núcleo é o teto do golpe**, e sem o núcleo não há golpe: conhecer a montagem inteira não adianta nada se falta o Gu certo. Mas há uma saída, e ela é canônica: **faltando o Gu forte, uma massa de Gu fracos do mesmo Caminho ocupa o lugar dele.**
+>
+> **Três Gu do mesmo Caminho, todos de um rank abaixo, valem um núcleo do rank seguinte** — e **o disparo os consome, os três, sempre.** Não há teste, não há chance de sobrar: eles queimam ([[💀 A Morte dos Gu|A Morte dos Gu]]) e precisam ser repostos antes do próximo uso. O substituto sobe **um rank só**; não se empilha, e **não vale para o Golpe Matador de rank 5** que abre o portão da imortalidade — aquele exige o Gu de verdade.
+>
+> **Por que isto vale a pena existir:** é a única regra do jogo que converte **dinheiro e coleção** em poder de golpe. O custo não é essência — que a medição da casa já mostrou ser recurso abundante *(decisão 246)* — é **acervo**, que é o recurso que a mesa realmente sente. Um grupo rico e um grupo pobre com a mesma ficha passam a montar golpes diferentes, e [[🏪 O Mercado|O Mercado]] e o espólio de rank baixo ganham uma função que não tinham. Para o mestre, é um arquétipo de NPC pronto: **o sujeito que dispara acima do rank dele, e não consegue fazer isso duas vezes na mesma semana.**
+
 Montar um Golpe Matador exige que os Gu envolvidos sejam ativados em sequência, geralmente ao longo de mais de um turno de preparação — o que o torna arriscado fora de uma emboscada ou de um momento em que o alvo está momentaneamente vulnerável. Um Golpe Matador interrompido no meio (o alvo foge, percebe, ou os Gu de apoio falham) raramente pode ser refeito na mesma cena — os Gu de apoio gastam sustento, e o elemento surpresa já era.
 
 ## 🛠️ Como montar um, passo a passo (jogador ou mestre)
