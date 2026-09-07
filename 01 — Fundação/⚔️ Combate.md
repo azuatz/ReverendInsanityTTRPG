@@ -86,6 +86,15 @@ A regra que equilibra a tabela: **quanto maior o dado, menos o Caminho faz além
 | **🌙 Moderado + controle** | **d8** | **Lua** · **Luz** · **Gelo** · **Sangue** · **Escravidão** · **Veneno** · **Água** · **Sombras** | Dano constante **mais atrito real**: essência congelada, lentidão, sangramento acumulado, cativeiro, veneno que dura. É o perfil que **ganha lutas longas** | Nunca mata numa ação. Precisa de tempo, e o tempo é o que uma emboscada não dá |
 | **🧠 Utilitário / suporte** | **d6** | **Sabedoria** · **Terra** · **Madeira** · **Sonhos** · **Formações** · **Espaço** · **Cosmos/Tempo** · **Informação** · **Sorte** · **Humano** · **Alimentação** · **Refino** | Dano ruim de propósito. Em troca: **+2 na CD de todos os seus Gu**, alcance sem teto prático, e o direito de **ignorar regras convencionais de combate** — tirar alguém da cena sem dano, negar uma ação inteira, agir fora da ordem de turno, atravessar distância | Se a luta virar troca de golpes, você perde. Este Caminho não disputa dano — ele decide que a disputa de dano não vai acontecer |
 
+> [!important] O controle de um Caminho d8 dura **2 rodadas**, e é isso que paga o degrau
+> A linha do d8 promete *"atrito real"* e nunca dizia **quanto**. Agora diz: todo efeito de controle vindo de um Gu de Caminho **d8** — lentidão, prisão, cegueira, veneno que trava, essência congelada — dura **2 rodadas** em vez de 1, salvo quando a ficha do Gu declarar outra duração maior.
+>
+> **Foi medido, e a diferença é a pendência inteira.** Um degrau de dado vale de +7 a +11 pontos de vitória; **uma ação gasta em controle de 1 rodada custa de −10 a −41** — ou seja, com duração 1 o Caminho d8 nunca se pagava, porque gastar a ação para tirar meio turno do inimigo é troca ruim. Com **duração 2**, o d8 alcança e passa o d10 em duelo contra inimigo solo (+7,5 e +8,1pp) e em cena difícil contra grupo.
+>
+> **Duas exceções firmes, e as duas vieram da medição:**
+> - **Contra Chefe, controle não se paga** — nem com duração 3. O Chefe já ignora o primeiro controle de cada cena, e essa proteção existe justamente para que "desligue o Chefe e ganhe" não seja uma jogada. Ela fica.
+> - **No rank 1, não vale.** As cenas são curtas demais para o atrito render; um rank 1 de Caminho d8 ataca.
+
 **Duas exceções que valem anotar:**
 
 - **Sombras** rola d8 normalmente, mas **d12 contra um alvo que não sabe onde você está.** É a assinatura do Caminho, e é o que faz a preparação pagar.
@@ -125,7 +134,14 @@ Existe uma moeda só, e ela funciona em dois tempos:
 2º  Uma vez em d12, cada Nível excedente vira  +1 POR DADO  (soma em B)
 ```
 
-Uma regra só cobre a escada inteira, do chão ao teto. Um Gu de Terra (d6) que ganha +4 Níveis vira d12 e mais +1 por dado. Um Gu de Alma (d12) que ganha +4 Níveis vira `M d12 + 4M`.
+Uma regra só cobre a escada inteira, do chão ao teto. Um Gu de Terra (d6) que ganha +4 Níveis vira d12 e mais +1 por dado. Um Gu de Alma (d12) que ganha +4 Níveis vira `M d12 + 2M` — o excedente para em 2, ver abaixo.
+
+> [!warning] O excedente acima do d12 tem teto: **+2 por dado, e não mais**
+> Depois que o dado chega a d12, cada Nível a mais soma +1 por dado — **até o segundo**. Níveis além disso ainda contam para tudo o que não é dano (as outras faces do Nível), mas **não somam mais em `B`**.
+>
+> **O teto foi medido, e ele é o ponto exato onde a coisa quebra.** O mecanismo em si é bem-comportado: cada Nível excedente vale de +9,5% a +13,3% de dano nos ranks 3 a 8, e **cai** para +5,6% no rank 9 — ele não estoura com o rank. O que estoura é o **acúmulo**. Com **+2**, tudo continua na faixa publicada. Com **+4**, a cena de Clímax imortal desaba para 3,7% de vitória no rank 6 e 37,3% no rank 7. Com **+8**, de 22 a 40% dos duelos acabam em **duas rodadas ou menos**, e a duração média de uma cena cai de 41 a 51% — de quase sete rodadas para pouco mais de três.
+>
+> Não é um limite de gosto: é onde o jogo deixa de ter rodadas suficientes para qualquer decisão acontecer.
 
 ### Um Nível age na FACE que o Gu tem — uma face por Gu
 

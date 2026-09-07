@@ -324,6 +324,13 @@ Essa é a peça que faz um grupo pequeno parecer maior que a soma das partes —
 >
 > **A fragilidade, que não depende de medição nenhuma:** a Brecha é compartilhada. Neutralizar **um** participante derruba o golpe inteiro e cobra o Retrocesso de todos. É a razão mecânica de um inimigo esperto separar o grupo antes de lutar — e mais uma razão pela qual dois é melhor que quatro: menos gente para o inimigo precisar atingir.
 >
+> [!important] O que exatamente a Retaliação coletiva inutiliza — a regra em uma linha
+> **Cada participante perde os Gu que ele mesmo pôs no combo, e só esses.** Para quem entrou como apoio, são os Gu de apoio dele; para o dono do núcleo, é o núcleo. **O arsenal que ficou de fora do golpe não é tocado.**
+>
+> Isto foi medido contra a alternativa — inutilizar o arsenal inteiro de todo mundo — e a escolha vale **32 pontos de vitória**. Só esta leitura mantém a cena de Clímax dentro da faixa que a tabela de ameaças publica (56 a 87%): ela entrega 63,5 / 74,7 / 77,6% nos ranks 4 / 5 / 3, enquanto a alternativa entrega 37,8 a 43,4%, com **três dos quatro personagens caídos**. Um meio-termo também foi implementado e medido — apoios sem Gu por duas rodadas — e **reprovou** (−36,9pp): a Retaliação cai na rodada 1 e o alívio chega tarde demais para importar.
+>
+> **E um achado de borda que muda como se joga a cena:** *"dispara o Coletivo e, se falhar, cada um usa o próprio golpe"* mede igual à alternativa mais dura. **Não existe Prerrogativa individual depois de um Coletivo falhado** — os Gu que dariam o golpe pessoal de cada um são exatamente os que acabaram de queimar. O Coletivo é uma aposta única, não a primeira de duas.
+
 > *(Ressalva de modelagem: no motor cada personagem tem um só Gu de ataque, então a Retaliação com muitos participantes é mais dura do que seria numa ficha real com arsenal completo. Os números de dano acima são o pior caso.)*
 
 ## 🛡️ Golpes Matadores defensivos
