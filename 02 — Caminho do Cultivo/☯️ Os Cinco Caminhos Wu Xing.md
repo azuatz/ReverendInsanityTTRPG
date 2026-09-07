@@ -43,6 +43,11 @@ Num Gu de defesa, um Nível vale +1 na RD base antes do M; num Gu de controle, +
 
 ## ⚙️ O ciclo — as duas regras que definem o Caminho
 
+> [!note] 🔧 Adaptado — a roda é nossa, os cinco Caminhos são do romance
+> **Os cinco existem no romance como cinco Caminhos separados**, e existe até quem cultive os cinco de uma vez. O que o romance **não** publica é a roda: lá, um Caminho atrapalha o outro por **densidade de Marcas**, e a direção não segue o ciclo chinês — o texto descreve Marcas de **Terra** mais densas segurando as de **Fogo**, o que a roda clássica não prevê, e diz que um cultivador de Água carregado de Marcas de Água usa um Gu de Fogo **pior que um mortal comum**. Ou seja: no romance a interferência é **mútua e proporcional**, sem vencedor fixo.
+> **Mantivemos a roda de propósito.** Interferência por densidade já existe aqui, e é a regra geral de [[☯️ Marcas de Dao|Marcas de Dao]] — mas ela não dá **decisão** a ninguém: só cobra imposto de quem se diversifica. A roda dá. Ela é o que transforma cinco elementos em um Caminho de **leitura de matchup**, e sem ela os cinco viram cinco sabores de dano. O mestre que quiser rodar estritamente pelo romance apaga esta seção e usa só a densidade; o Caminho continua funcionando, e fica mais fraco e mais simples.
+
+
 ### 🗡️ Ciclo de Destruição (相剋) — quando você tem a resposta
 
 ```
