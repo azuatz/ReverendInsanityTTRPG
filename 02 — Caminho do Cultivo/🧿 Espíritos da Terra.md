@@ -88,7 +88,18 @@ Um único **Gu Imortal de rank 6**, do Caminho do Gu de rank 5 que serviu de bas
 
 ## Depois da Ascensão: o espírito da SUA terra
 
-Quando um personagem ascende, ele ganha a própria Terra Abençoada — que **nasce sem espírito**. Um Espírito da Terra próprio leva séculos pra se formar naturalmente, e é por isso que Imortais jovens dependem de terras alheias, herdadas ou tomadas.
+Quando um personagem ascende, ele ganha a própria Terra Abençoada — que **nasce sem espírito**.
+
+> [!important] 📕 De onde vêm as terras que se herdam — e por que elas têm prazo
+> **Toda terra estabelecida tende a ter um espírito**, e não só as que viraram herança. Ele é, ao mesmo tempo, **funcionário, guardião e problema político**: tem vontade própria, cobra preços, e a relação com ele decide o que o dono consegue extrair.
+>
+> **A terra de um Imortal morto gera um espírito sozinha.** A dimensão abandonada absorve energia do ambiente, vira uma Terra Abençoada independente, e o espírito se forma **por conta própria** — é esta a origem canônica de praticamente toda herança imortal do [[📜 Catálogo de Heranças]]. **E há uma janela curta logo depois da formação** em que dá para entrar e reivindicar a posse; perdida a janela, entrar fica muito mais difícil.
+>
+> **O inverso também é regra, e é a parte que dá relógio à mesa.** Terra **sem espírito nenhum** é o dragão adormecido: saqueável à vontade, **e com prazo de validade**. Terra sem dono não produz energia, e **quanto mais saqueada, mais rápido morre** — o grupo que pilha uma herança está acelerando a morte dela enquanto pilha.
+>
+> **Por isso os espíritos procuram dono por instinto**: sem alguém para servir, a terra deles apodrece e eles vão junto.
+>
+> **O que isso muda:** toda herança imortal do vault deixa de ser um baú com data indefinida e vira **corrida com relógio**. Quem chega na janela leva um espírito cooperativo e uma terra viva; quem chega depois entra num cadáver — e cada coisa que tirar de lá adianta o fim. Um Espírito da Terra próprio leva séculos pra se formar naturalmente, e é por isso que Imortais jovens dependem de terras alheias, herdadas ou tomadas.
 
 Três atalhos existem, todos caros:
 
