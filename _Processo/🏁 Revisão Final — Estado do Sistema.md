@@ -101,12 +101,15 @@ As seis acima dizem **como auditar**. Esta diz **como escrever para não gerar a
 
 | O quê | Dono | Estado |
 |---|---|---|
-| **Empilhamento C + A** — alavanca de uma linha, medida e nunca aplicada | Sessão de medição | Em aberto no [[🧭 Log de Decisões]] |
-| **Controle vindo de PJ** — o motor nunca modelou, e é disso que o degrau `d8` vive | Sessão de medição | Em aberto |
-| **Retaliação do Golpe Matador Coletivo** — falta escolher entre um piso e um teto de modelagem | Sessão de medição | Em aberto |
-| **Extensão do `B` ilimitado acima da faixa** | Decisão de desenho retida | Em aberto |
-| **Rabo do backlog da varredura** — os achados 🟡 e 🟢 | Ambas as sessões | Em execução |
+| ~~**Empilhamento C + A**~~ | — | ✅ **Recusado com número** *(decisão 304)*. Os valores que a sustentavam tinham sido medidos contra um alvo de **VON 0**, e nenhum personagem da mesa tem VON 0 |
+| ~~**Controle vindo de PJ**~~ | — | ✅ **Aplicado com ajuste** *(304)*: controle de Caminho `d8` passa a durar **2 rodadas**, que é o que faz o degrau se pagar. Duas exceções medidas: nunca contra Chefe, nunca no rank 1 |
+| ~~**Retaliação do Golpe Matador Coletivo**~~ | — | ✅ **Escolhido o piso** *(304)*. A escolha valia **32 pontos de vitória**; só o piso mantém o Clímax dentro da faixa publicada |
+| ~~**Extensão do `B` ilimitado acima da faixa**~~ | — | ✅ **Teto de +2 excedentes** *(304)*. Em +4 o Clímax imortal desaba; em +8 a cena acaba antes de qualquer decisão caber nela |
+| ~~**Rabo do backlog da varredura**~~ | — | ✅ **Executado** *(decisões 303, 306, 307)* |
 | ~~**B1 — Gu de Corpo só começam no rank 2**~~ | — | ✅ **Fechado pelo autor, que derrubou o julgamento de "fronteira deliberada".** Criados quatro Gu de Corpo permanentes de rank 1 — um para Lua, Alma, Vento e Wu Xing —, todos com portão `CON +0` |
+
+> [!success] Zero pendências abertas
+> As quatro pendências de motor acima estavam no Log havia muitas rodadas com a etiqueta *"medida e nunca aplicada"* ou *"nunca modelada"*. **Todas as quatro foram medidas e fechadas** na varredura de envio de 2026-09-06 — três aplicadas, uma recusada. Recusa também é fechamento, e a desta trouxe a lição mais útil da rodada: **uma medição feita contra um alvo que não existe na mesa mede outro jogo.**
 
 **As três pendências que travavam o autor foram fechadas nesta rodada:** o Acordo de Mesa foi unificado em seis perguntas, o Gu do Empenho Total ficou no arsenal declarado como exceção, e as peças que a lore de Vespéria inventa foram **marcadas como variantes de campanha** e listadas numa tabela única na nota-mãe — com âncora mecânica onde a falta dela travaria a mesa.
 
