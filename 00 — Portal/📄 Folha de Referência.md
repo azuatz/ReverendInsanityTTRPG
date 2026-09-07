@@ -34,6 +34,9 @@ Vitalidade máxima  = (18 + 3 × CON + 4 × B) × M
 Alma máxima        = (16 + 3 × VON + 3 × B) × M
 Essência máxima    = % de aptidão × 4 × (1 + 0,5 × (estágio − 1))    [não escala com rank]
 Ferimento          = −5% permanente em Vitalidade E Alma máximas
+Quebra de Paredes  = 1d20 + bônus de Aptidão  vs  CD 10 / 14 / 18 / 22
+                     (saltos 1→2 · 2→3 · 3→4 · 4→5)
+                     Bônus de Aptidão: D +0 · C +2 · B +4 · A +6
 
 Defesa             = 10 + DES + rank + rank do Gu de movimento ativo
 Defesa contra Alma = 10 + VON + 2 × rank    [ataques de Alma miram ESTA]

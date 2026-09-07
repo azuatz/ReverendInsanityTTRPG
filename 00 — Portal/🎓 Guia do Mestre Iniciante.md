@@ -454,7 +454,7 @@ Um Gu novo é a recompensa central deste jogo, e **quase toda sessão deve entre
 |---|---|---|
 | **Gu novo** | Quase toda sessão | A recompensa que sustenta a sensação de progresso |
 | **Estágio** | A cada 1–3 sessões | Automático, entre sessões. **Anuncie em voz alta** — é o "subiu de nível" da sua mesa |
-| **Rank** | A cada 8–12 sessões | Teste real: `1d20 + bônus de Aptidão` vs CD 10 / 14 / 18 / 22 |
+| **Rank** | A cada 8–12 sessões | Teste real — a **Quebra de Paredes**: `1d20 + bônus de Aptidão` vs CD **10 / 14 / 18 / 22** (saltos 1→2 · 2→3 · 3→4 · 4→5). **Bônus de Aptidão: grau D +0 · C +2 · B +4 · A +6.** Vantagem se usar um Gu de ruptura ou se outro cultivador infundir essência |
 | **Ascensão Imortal** | Clímax de um ato inteiro | Nunca uma cena solta |
 
 **O que o estágio dá:** exatamente a tabela mestre, e nada além dela — a cada degrau (**Inicial · Médio · Alto · Pico**) o personagem ganha **+1 de dano por dado**, mais Vitalidade e Alma (`+4 × M` e `+3 × M`), **uma Vaga de Suporte** e **uma vaga a mais no Teto de Combo**. É assim que ele sente que ficou mais forte sem você recalcular a ficha dele.
