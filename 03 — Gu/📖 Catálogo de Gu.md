@@ -451,6 +451,11 @@ Duas seções escritas a pedido direto da mesa. A **Seção 1** atende ao pedido
 
 ## 🦴 Gu de Corpo Elementais (ranks 2 a 4)
 
+> [!warning] 📕 Carne modificada **cura devagar**, e isso vale para toda esta seção
+> Um corpo reconstruído por Gu não fecha ferida como carne comum: no romance, dez horas de cura contínua não bastaram para fechar um corte num tendão convertido em aço. **Na mesa: cura de Gu recupera metade do normal num personagem com dois ou mais Gu de Corpo assentados**, arredondando para baixo.
+>
+> **É o freio que esta seção não tinha.** Os Gu de Corpo já foram desenhados como a compra mais barata do jogo em manutenção — permanentes, não comem, não ocupam vaga, não podem ser roubados. O preço deles era todo pago **na entrada** (portão de CON, teste de assentamento, irreversibilidade). Agora eles cobram também **depois**, e cobram na moeda que o lutador mais usa: **ele apanha de perto, e é justamente ele que sara pior.**
+
 Gu que se instalam na carne e ficam. Não ocupam vaga de Gu ativo, não comem, não podem ser roubados no meio de uma luta, não precisam ser reativados. **São a única coisa neste jogo que é de verdade sua** — e é por isso que o corpo cobra tudo na entrada.
 
 > [!important] A regra de escolha: um Mestre de Gu assenta o permanente **do próprio Caminho**

@@ -106,6 +106,23 @@ Não é só acertar mais — **é o dobro de chance de crítico** (9,8% contra 5
 > [!quote] Também canônico, e é a outra metade da mesma cena
 > *"Sua defesa cai quando você usa seu golpe matador"* — dito de um lutador cujo aliado lhe dá um Gu de defesa justamente para cobrir esse buraco. E os quatro anciãos do clã Tie **conseguiram** disparar o golpe deles: morreram depois, secos de essência, mortos por um Mestre de rank três. **No romance o custo do golpe cobra depois, na exposição — nunca impede antes.** É por isso que a confiabilidade foi consertada (decisão 240) e a exposição foi criada no mesmo movimento: o golpe deve sair, e deve deixar você vulnerável por ter saído.
 
+
+### Interromper cedo poupa; interromper tarde estraça
+
+A Abertura dá **vantagem contra o conjurador** enquanto ele monta o golpe. O que ela não dizia é **o que acontece se o ataque conectar** — e a resposta muda a decisão do inimigo.
+
+**Conte pelos Gu já ativados do combo:**
+
+| Quando o conjurador é atingido ou controlado | O que acontece com o golpe |
+|---|---|
+| Antes de completar **metade** dos Gu | O golpe **apenas falha**. A essência já gasta se perde, e nada mais |
+| Depois da metade | Falha **e dispara a Retaliação** (a mesma da falha de conjuração, escrita acima) |
+| No **último Gu**, com tudo montado | Retaliação **agravada**, como se o golpe fosse híbrido |
+
+**Por que isto vale a pena estar escrito:** transforma a Abertura numa **decisão do inimigo** em vez de um bônus passivo. *"Bato agora e ele só perde a ação, ou espero mais uma rodada e ele se estraça sozinho?"* — esperar rende mais e custa mais, porque a cada rodada que passa o golpe fica mais perto de sair.
+
+**Não há tabela nova:** a Retaliação já existe, com escala por Vitalidade e morte de Gu de apoio. Esta regra só diz **quando** ela dispara por interrupção externa, e não só por falha no teste.
+
 ## O que um Golpe Matador custa
 
 Um combo não custa a soma dos Gu — custa **muito mais**, porque forçar vários Gu a agir como uma coisa só é a parte cara:
